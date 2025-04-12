@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:withsecure:f-secure_policy_manager:-:*:*:*:*:linux_kernel:*:*",
+        "cpeNameId": "D3684AE2-D968-4071-8688-113F8009ACF6",
+        "lastModified": "2022-11-10T18:23:39.367",
+        "created": "2022-10-31T12:58:59.400",
+        "titles": [
+          {
+            "title": "Withsecure F-secure Policy Manager for Linux Kernel",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:withsecure:f-secure_policy_manager:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "BE487338-0272-4252-A8FE-52C318CED7E4",
+        "lastModified": "2022-11-10T18:23:39.367",
+        "created": "2022-10-31T12:58:59.400",
+        "titles": [
+          {
+            "title": "Withsecure F-secure Policy Manager for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:withsecure:f-secure_policy_manager:15.00:*:*:*:*:linux_kernel:*:*",
+        "cpeNameId": "B09214BA-20E8-4C10-BE38-753B355DDA71",
+        "lastModified": "2023-09-28T11:15:07.053",
+        "created": "2023-09-28T11:15:07.053",
+        "titles": [
+          {
+            "title": "WithSecure F-Secure Policy Manager 15.00 for Linux Kernel",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:withsecure:f-secure_policy_manager:15.00:*:*:*:*:windows:*:*",
+        "cpeNameId": "EDC0E6D0-5317-431B-ADA8-0EEBF2253267",
+        "lastModified": "2023-09-28T11:15:07.053",
+        "created": "2023-09-28T11:15:07.053",
+        "titles": [
+          {
+            "title": "WithSecure F-Secure Policy Manager 15.00 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:withsecure:f-secure_policy_manager:-:*:*:*:*:linux_kernel:*:*",
+      "title": "Withsecure F-secure Policy Manager for Linux Kernel",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:withsecure:f-secure_policy_manager:-:*:*:*:*:windows:*:*",
+      "title": "Withsecure F-secure Policy Manager for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:withsecure:f-secure_policy_manager:15.00:*:*:*:*:linux_kernel:*:*",
+      "title": "WithSecure F-Secure Policy Manager 15.00 for Linux Kernel",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:withsecure:f-secure_policy_manager:15.00:*:*:*:*:windows:*:*",
+      "title": "WithSecure F-Secure Policy Manager 15.00 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

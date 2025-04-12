@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:websquare:job_web_system:1.0.6:*:*:*:high_income:*:*:*",
+        "cpeNameId": "8AC352EC-4886-405F-B62D-3CDD9A85708D",
+        "lastModified": "2019-10-08T18:28:53.097",
+        "created": "2016-03-03T15:26:03.357",
+        "titles": [
+          {
+            "title": "WEBSQUARE Job Web System High Income 1.0.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:websquare:job-cube:1.0.6:*:*:*:high_income:*:*:*",
+            "cpeNameId": "3C4FA132-0CEB-498B-A7C1-8E67A33F5F35"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:websquare:job_web_system:1.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "CFCF00C3-354D-422C-B0A5-E5CE47CF56D8",
+        "lastModified": "2016-03-03T15:26:03.387",
+        "created": "2016-03-03T15:26:03.387",
+        "titles": [
+          {
+            "title": "WEBSQUARE Job Web System 1.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:websquare:job_web_system:1.0.6:*:*:*:high_income:*:*:*",
+      "title": "WEBSQUARE Job Web System High Income 1.0.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:websquare:job-cube:1.0.6:*:*:*:high_income:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:websquare:job_web_system:1.2.1:*:*:*:*:*:*:*",
+      "title": "WEBSQUARE Job Web System 1.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

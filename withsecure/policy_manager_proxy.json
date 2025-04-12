@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:withsecure:policy_manager_proxy:15.00:*:*:*:*:linux_kernel:*:*",
+        "cpeNameId": "6F2F1DAF-6C53-40E5-A405-7F9430B0A7D1",
+        "lastModified": "2023-09-28T11:15:07.053",
+        "created": "2023-09-28T11:15:07.053",
+        "titles": [
+          {
+            "title": "WithSecure Policy Manager Proxy 15.00 for Linux Kernel",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:withsecure:policy_manager_proxy:15.00:*:*:*:*:windows:*:*",
+        "cpeNameId": "10B41DD9-2A0E-4668-A38F-75C1B2D04B7E",
+        "lastModified": "2023-09-28T11:15:07.053",
+        "created": "2023-09-28T11:15:07.053",
+        "titles": [
+          {
+            "title": "WithSecure Policy Manager Proxy 15.00 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:withsecure:policy_manager_proxy:15.00:*:*:*:*:linux_kernel:*:*",
+      "title": "WithSecure Policy Manager Proxy 15.00 for Linux Kernel",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:withsecure:policy_manager_proxy:15.00:*:*:*:*:windows:*:*",
+      "title": "WithSecure Policy Manager Proxy 15.00 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

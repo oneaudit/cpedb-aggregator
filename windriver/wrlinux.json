@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:windriver:wrlinux:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "513D9C84-C194-4B7C-9066-1CBE2DF34E73",
+        "lastModified": "2016-07-19T17:04:58.953",
+        "created": "2016-07-19T17:04:58.953",
+        "titles": [
+          {
+            "title": "Wind River Linux 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:windriver:wrlinux:9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "81619754-05C3-4494-B515-ABFC5D533356",
+        "lastModified": "2016-07-19T17:04:58.983",
+        "created": "2016-07-19T17:04:58.983",
+        "titles": [
+          {
+            "title": "Wind River Linux 9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:windriver:wrlinux:8.0:*:*:*:*:*:*:*",
+      "title": "Wind River Linux 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:windriver:wrlinux:9.0:*:*:*:*:*:*:*",
+      "title": "Wind River Linux 9.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wp-contactform_project:wp-contactform:1.5:alpha:*:*:*:*:*:*",
+        "cpeNameId": "4676D818-DA52-4448-B8F2-97545777CE64",
+        "lastModified": "2023-08-02T19:11:41.313",
+        "created": "2023-07-29T15:59:33.867",
+        "titles": [
+          {
+            "title": "Wp-contactform Project Wp-contactform 1.5 Alpha",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:wp-contactform_project:wp-contactform:1.5:alpha:*:*:*:wordpress:*:*",
+            "cpeNameId": "0FB3842D-8820-4EC5-A512-5B4DC748F662"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:wp-contactform_project:wp-contactform:1.5:alpha:*:*:*:wordpress:*:*",
+        "cpeNameId": "0FB3842D-8820-4EC5-A512-5B4DC748F662",
+        "lastModified": "2023-08-02T19:11:41.313",
+        "created": "2023-08-02T19:09:49.350",
+        "titles": [
+          {
+            "title": "Wp-contactform Project Wp-contactform 1.5 Alpha for Wordpress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wp-contactform_project:wp-contactform:1.5:alpha:*:*:*:*:*:*",
+      "title": "Wp-contactform Project Wp-contactform 1.5 Alpha",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:wp-contactform_project:wp-contactform:1.5:alpha:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:wp-contactform_project:wp-contactform:1.5:alpha:*:*:*:wordpress:*:*",
+      "title": "Wp-contactform Project Wp-contactform 1.5 Alpha for Wordpress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

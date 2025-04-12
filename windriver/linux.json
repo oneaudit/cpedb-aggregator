@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:windriver:linux:17.0:*:*:*:lts:*:*:*",
+        "cpeNameId": "1DC40A78-FEEF-4733-960A-8ACD83234C11",
+        "lastModified": "2021-07-01T15:06:06.977",
+        "created": "2021-03-29T13:05:56.080",
+        "titles": [
+          {
+            "title": "Wind River Linux 17.0 LTS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:windriver:linux:18.0:*:*:*:lts:*:*:*",
+        "cpeNameId": "36B8A438-7E11-4652-9AA9-432BF9436DC7",
+        "lastModified": "2021-07-01T15:06:06.977",
+        "created": "2021-03-29T13:05:56.080",
+        "titles": [
+          {
+            "title": "Wind River Linux 18.0 LTS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:windriver:linux:-:*:*:*:cd:*:*:*",
+        "cpeNameId": "391EDF22-CD9F-4216-9009-CFB44BEC019B",
+        "lastModified": "2021-07-01T15:06:06.977",
+        "created": "2021-03-29T13:05:56.080",
+        "titles": [
+          {
+            "title": "Wind River Linux CD Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:windriver:linux:19.0:*:*:*:lts:*:*:*",
+        "cpeNameId": "39BC0D69-29F2-4122-B92C-A34E832322F9",
+        "lastModified": "2021-07-01T15:06:06.977",
+        "created": "2021-03-29T13:05:56.080",
+        "titles": [
+          {
+            "title": "Wind River Linux 19.0 LTS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:windriver:linux:17.0:*:*:*:lts:*:*:*",
+      "title": "Wind River Linux 17.0 LTS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:windriver:linux:18.0:*:*:*:lts:*:*:*",
+      "title": "Wind River Linux 18.0 LTS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:windriver:linux:-:*:*:*:cd:*:*:*",
+      "title": "Wind River Linux CD Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:windriver:linux:19.0:*:*:*:lts:*:*:*",
+      "title": "Wind River Linux 19.0 LTS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

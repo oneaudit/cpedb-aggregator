@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wordpress_download_manager:download_manager:3.2.42:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "A8635686-1936-4585-858C-464894708EA2",
+        "lastModified": "2023-03-03T16:05:27.227",
+        "created": "2022-06-14T18:25:47.850",
+        "titles": [
+          {
+            "title": "WordPress Download Manager Download Manager 3.2.42 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:wpdownloadmanager:download_manager:3.2.42:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "853B7383-E5B9-42DD-B477-FD92D1BCE06B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wordpress_download_manager:download_manager:3.2.50:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "DF08C978-BB9D-4A76-AA0F-12B44DAD127D",
+        "lastModified": "2023-03-03T16:05:27.227",
+        "created": "2022-09-08T17:19:53.543",
+        "titles": [
+          {
+            "title": "WordPress Download Manager Download Manager 3.2.50 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:wpdownloadmanager:download_manager:3.2.50:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "D7EC84AF-932D-4B4E-BB96-0E5B38F71CDF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wordpress_download_manager:download_manager:3.2.42:*:*:*:*:wordpress:*:*",
+      "title": "WordPress Download Manager Download Manager 3.2.42 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:wpdownloadmanager:download_manager:3.2.42:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:wordpress_download_manager:download_manager:3.2.50:*:*:*:*:wordpress:*:*",
+      "title": "WordPress Download Manager Download Manager 3.2.50 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:wpdownloadmanager:download_manager:3.2.50:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:windriver:diabcompiler:4.4:b:*:*:*:*:*:*",
+        "cpeNameId": "7CE15D11-7811-40D2-B861-FDE59D927AAD",
+        "lastModified": "2020-03-20T15:45:52.113",
+        "created": "2020-03-12T15:28:50.090",
+        "titles": [
+          {
+            "title": "Windriver Diabcompiler 4.4b",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:windriver:diabcompiler:4.4b:*:*:*:*:*:*:*",
+            "cpeNameId": "EEA69C67-A7DF-4C22-95D7-50684B4AD5AD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:windriver:diabcompiler:5.6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "8CBE7619-9991-4266-ADED-0B23BA5B242B",
+        "lastModified": "2020-03-12T15:28:50.197",
+        "created": "2020-03-12T15:28:50.197",
+        "titles": [
+          {
+            "title": "Windriver Diabcompiler 5.6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:windriver:diabcompiler:4.4b:*:*:*:*:*:*:*",
+        "cpeNameId": "EEA69C67-A7DF-4C22-95D7-50684B4AD5AD",
+        "lastModified": "2020-03-20T15:45:51.970",
+        "created": "2020-03-20T15:45:51.970",
+        "titles": [
+          {
+            "title": "Windriver Diabcompiler 4.4b",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:windriver:diabcompiler:4.4:b:*:*:*:*:*:*",
+      "title": "Windriver Diabcompiler 4.4b",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:windriver:diabcompiler:4.4b:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:windriver:diabcompiler:5.6.1:*:*:*:*:*:*:*",
+      "title": "Windriver Diabcompiler 5.6.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:windriver:diabcompiler:4.4b:*:*:*:*:*:*:*",
+      "title": "Windriver Diabcompiler 4.4b",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
