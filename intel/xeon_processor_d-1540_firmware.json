@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:intel:xeon_processor_d-1540_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C9CE83CD-0935-42CA-BF53-2965AC61317B",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1540 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:intel:xeon_d-1540_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "1A718C93-F1CC-44C4-8D57-31BB4B5E6382"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_processor_d-1540_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1540 Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:intel:xeon_d-1540_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

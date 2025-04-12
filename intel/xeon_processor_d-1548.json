@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:xeon_processor_d-1548:-:*:*:*:*:*:*:*",
+        "cpeNameId": "684E406A-C07A-4758-A2DC-A81ED2BD54B6",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1548 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:xeon_d-1548:-:*:*:*:*:*:*:*",
+            "cpeNameId": "6F212CE1-0075-4CEE-88B0-2CA07040CAF6"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_processor_d-1548:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1548 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:xeon_d-1548:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:intel:xeon_processor_d-1539_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "92A0C0C3-92A4-4DC1-BC76-BA2356B62B01",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1539 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:intel:xeon_d-1539_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5A77ACF2-A8B3-472D-A919-837EE1C0955E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_processor_d-1539_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1539 Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:intel:xeon_d-1539_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:intel:xeon_processor_d-1529_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C0488DC7-6F3A-45B9-AE8B-BC9E6AF7673C",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1529 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:intel:xeon_d-1529_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "9EB03C67-1444-4741-9E56-C53835704D58"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_processor_d-1529_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1529 Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:intel:xeon_d-1529_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

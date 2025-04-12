@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:intel:xeon_processor_d-1567_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "949CABB1-5748-4220-86AC-1C5D9A5BD5C6",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1567 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:intel:xeon_d-1567_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "32D37BBD-866E-4359-B4C5-E875311823CD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_processor_d-1567_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1567 Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:intel:xeon_d-1567_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

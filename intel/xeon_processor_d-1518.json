@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:xeon_processor_d-1518:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DBA4AADB-CC44-4DAA-97AE-8B97F5BC7814",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1518 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:xeon_d-1518:-:*:*:*:*:*:*:*",
+            "cpeNameId": "8B80AC97-5B28-4AFF-A3E3-BCE48991ABAE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_processor_d-1518:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1518 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:xeon_d-1518:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:xeon_processor_d-1553n:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4E78BC35-05DC-48CD-88A1-3F217EE07624",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1553n -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:xeon_d-1553n:-:*:*:*:*:*:*:*",
+            "cpeNameId": "989D5C06-3CB0-42B5-BD97-D69F9A87CA9B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_processor_d-1553n:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1553n -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:xeon_d-1553n:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

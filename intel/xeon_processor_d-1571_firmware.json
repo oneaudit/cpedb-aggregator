@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:intel:xeon_processor_d-1571_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "070E0E0E-B0DE-4EF3-8CF8-AECB30628793",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1571 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:intel:xeon_d-1571_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "41A5A845-6A6F-4516-856B-B70495B6615F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_processor_d-1571_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1571 Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:intel:xeon_d-1571_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

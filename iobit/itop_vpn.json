@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:iobit:itop_vpn:3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "68A4A1E8-7D3A-46A7-8A47-BF2179B439E2",
+        "lastModified": "2022-08-22T15:19:00.927",
+        "created": "2022-07-12T14:56:10.390",
+        "titles": [
+          {
+            "title": "IObit iTop VPN 3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:iobit:itop_vpn:4.0.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "3C0D9470-509C-4065-83C2-9E22A32006E8",
+        "lastModified": "2024-04-09T19:38:40.583",
+        "created": "2024-04-09T19:38:40.583",
+        "titles": [
+          {
+            "title": "IObit iTop VPN 4.0.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:iobit:itop_vpn:-:*:*:*:*:*:*:*",
+        "cpeNameId": "745CC62C-4308-478C-AB97-247BAE29C736",
+        "lastModified": "2024-04-09T19:38:40.583",
+        "created": "2024-04-09T19:38:40.583",
+        "titles": [
+          {
+            "title": "IObit iTop VPN",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:iobit:itop_vpn:3.2:*:*:*:*:*:*:*",
+      "title": "IObit iTop VPN 3.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:iobit:itop_vpn:4.0.0.1:*:*:*:*:*:*:*",
+      "title": "IObit iTop VPN 4.0.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:iobit:itop_vpn:-:*:*:*:*:*:*:*",
+      "title": "IObit iTop VPN",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

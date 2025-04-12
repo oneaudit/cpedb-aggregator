@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:intel:xeon_processor_d-1543n_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A187C25F-6C90-439C-B121-3DB1C18F95AF",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1543n Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:intel:xeon_d-1543n_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "12353D5A-2C67-497E-A1E0-F18AA583A10D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_processor_d-1543n_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1543n Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:intel:xeon_d-1543n_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

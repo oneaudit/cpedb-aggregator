@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:xeon_processor_d-1540:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B3968D1A-DB7A-4DEC-B1DA-2206F180AB2F",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1540 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:xeon_d-1540:-:*:*:*:*:*:*:*",
+            "cpeNameId": "124B2907-2C91-4924-9C97-F7CED6B15796"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_processor_d-1540:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1540 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:xeon_d-1540:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

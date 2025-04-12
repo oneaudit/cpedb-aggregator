@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:intel:xeon_processor_d-1531_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AEAA559B-685C-4EB0-97A9-4BA2F6ACA545",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1531 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:intel:xeon_d-1531_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "3228A1FA-FB37-4263-AABD-8A2900729A00"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_processor_d-1531_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1531 Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:intel:xeon_d-1531_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

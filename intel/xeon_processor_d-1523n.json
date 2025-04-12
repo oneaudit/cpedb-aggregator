@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:xeon_processor_d-1523n:-:*:*:*:*:*:*:*",
+        "cpeNameId": "12A1FFF9-F6CA-486C-9427-874FAC545B90",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1523n -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:xeon_d-1523n:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A6156B45-4CEE-4E7B-97B5-E8438D192244"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_processor_d-1523n:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1523n -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:xeon_d-1523n:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

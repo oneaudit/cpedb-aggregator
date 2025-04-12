@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_phi_7210:-:*:*:*:*:*:*:*",
+        "cpeNameId": "592B0390-52EE-43C0-9064-9E03901BAECF",
+        "lastModified": "2021-06-11T14:43:28.407",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon Phi 7210",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_phi_7210:-:*:*:*:*:*:*:*",
+        "cpeNameId": "729E43BE-C6B8-4D3C-BF91-67B39F12FE0E",
+        "lastModified": "2023-09-25T19:50:28.567",
+        "created": "2023-09-25T19:50:28.567",
+        "titles": [
+          {
+            "title": "Intel Xeon Phi 7210 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_phi_7210:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Phi 7210",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_phi_7210:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Phi 7210 -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

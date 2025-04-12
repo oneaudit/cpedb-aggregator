@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:intel:xeon_processor_d-1523n_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "151E4032-9AFD-48F2-9EE2-4A8AEAE109D0",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1523n Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:intel:xeon_d-1523n_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "8065BA5F-3357-467A-9A9B-ED0B456AEA17"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_processor_d-1523n_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1523n Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:intel:xeon_d-1523n_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

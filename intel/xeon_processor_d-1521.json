@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:xeon_processor_d-1521:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B3A31E53-2C2D-441D-8748-48E49AFCDBCE",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1521 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:xeon_d-1521:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7C0F1D8D-AA75-4FB6-B363-021270A5E64C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_processor_d-1521:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1521 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:xeon_d-1521:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

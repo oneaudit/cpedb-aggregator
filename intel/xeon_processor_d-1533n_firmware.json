@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:intel:xeon_processor_d-1533n_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "46011A1E-23CF-4D71-992E-93F975FD3A75",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1533n Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:intel:xeon_d-1533n_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D9FE92CC-6FDE-40EE-93FD-B00637F8DFDC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_processor_d-1533n_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1533n Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:intel:xeon_d-1533n_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:xeon_processor_d-1520:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4CE5F65B-252F-410C-90B1-5590E96AD522",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1520 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:xeon_d-1520:-:*:*:*:*:*:*:*",
+            "cpeNameId": "862CD5B4-18A6-42E2-930F-5D2F494FC3EC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_processor_d-1520:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1520 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:xeon_d-1520:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

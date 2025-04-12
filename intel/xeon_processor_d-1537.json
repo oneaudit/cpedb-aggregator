@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:xeon_processor_d-1537:-:*:*:*:*:*:*:*",
+        "cpeNameId": "16B18824-925F-4C6B-8557-4704C355907B",
+        "lastModified": "2021-06-21T14:58:31.467",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel Xeon Processor D-1537 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:xeon_d-1537:-:*:*:*:*:*:*:*",
+            "cpeNameId": "3D232572-7533-4440-B728-CC7A19CDE6EB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_processor_d-1537:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Processor D-1537 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:xeon_d-1537:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

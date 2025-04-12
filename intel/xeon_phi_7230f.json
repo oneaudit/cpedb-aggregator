@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_phi_7230f:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2748247E-A2D1-4E2B-BE68-894BFBA7D51D",
+        "lastModified": "2021-06-11T14:43:28.407",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon Phi 7230f",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_phi_7230f:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B9EEB412-0BDB-4E50-8885-3E27B9EBF818",
+        "lastModified": "2023-09-25T19:50:28.567",
+        "created": "2023-09-25T19:50:28.567",
+        "titles": [
+          {
+            "title": "Intel Xeon Phi 7230f -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_phi_7230f:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Phi 7230f",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_phi_7230f:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Phi 7230f -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
