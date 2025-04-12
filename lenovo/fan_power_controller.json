@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:fan_power_controller:30r-1.13:*:*:*:*:*:*:*",
+        "cpeNameId": "453A9955-85D7-4797-BE7D-ECCC7D570E6B",
+        "lastModified": "2021-06-02T15:09:26.953",
+        "created": "2019-04-23T14:54:30.910",
+        "titles": [
+          {
+            "title": "Lenovo Fan Power Controller 30r-1.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:fan_power_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D28FBBD2-C0A3-437B-96F0-D1DAAAC00DA2",
+        "lastModified": "2021-06-02T15:09:26.953",
+        "created": "2019-04-23T14:54:30.910",
+        "titles": [
+          {
+            "title": "Lenovo Fan Power Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lenovo:fan_power_controller:30r-1.13:*:*:*:*:*:*:*",
+      "title": "Lenovo Fan Power Controller 30r-1.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lenovo:fan_power_controller:-:*:*:*:*:*:*:*",
+      "title": "Lenovo Fan Power Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

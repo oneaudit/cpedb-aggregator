@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:legaoo:power_5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DCD33408-7BAA-4D61-B492-4EB27D6A594E",
+        "lastModified": "2022-02-10T15:17:17.027",
+        "created": "2019-12-04T13:00:23.247",
+        "titles": [
+          {
+            "title": "Legaoo Power 5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:leagoo:power_5_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "AC5BF2D2-7F39-44FC-B975-45067B583EAE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:legaoo:power_5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Legaoo Power 5 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:leagoo:power_5_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

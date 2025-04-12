@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:elan_miniport_touchpad_driver:24.21.51.2:*:*:*:*:windows:*:*",
+        "cpeNameId": "0F26E746-5AF4-46CF-B68C-7E5FF3E892F0",
+        "lastModified": "2022-11-09T15:10:25.333",
+        "created": "2022-11-08T14:18:45.260",
+        "titles": [
+          {
+            "title": "Lenovo Elan Miniport Touchpad Driver 24.21.51.2 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:elan_miniport_touchpad_driver:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "2458B912-C41D-4287-A4B0-8C99C3A4D817",
+        "lastModified": "2022-11-09T15:10:25.333",
+        "created": "2022-11-08T14:18:45.260",
+        "titles": [
+          {
+            "title": "Lenovo Elan Miniport Touchpad Driver for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lenovo:elan_miniport_touchpad_driver:24.21.51.2:*:*:*:*:windows:*:*",
+      "title": "Lenovo Elan Miniport Touchpad Driver 24.21.51.2 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lenovo:elan_miniport_touchpad_driver:-:*:*:*:*:windows:*:*",
+      "title": "Lenovo Elan Miniport Touchpad Driver for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ledger:ledger_live:-:*:*:*:*:*:*:*",
+        "cpeNameId": "773F7079-3DB1-45F9-89EB-01DC1B59BE5E",
+        "lastModified": "2020-07-28T14:05:13.360",
+        "created": "2020-07-28T14:05:13.360",
+        "titles": [
+          {
+            "title": "Ledger Live",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ledger:ledger_live:2.7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "063184EB-C7BC-4A9E-B4A1-7456AD659439",
+        "lastModified": "2020-07-28T14:05:13.627",
+        "created": "2020-07-28T14:05:13.627",
+        "titles": [
+          {
+            "title": "Ledger Live 2.7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ledger:ledger_live:-:*:*:*:*:*:*:*",
+      "title": "Ledger Live",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ledger:ledger_live:2.7.0:*:*:*:*:*:*:*",
+      "title": "Ledger Live 2.7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

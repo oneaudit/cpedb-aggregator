@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:cloud_networking_operating_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EC79655E-9969-442F-A158-DE152C62A313",
+        "lastModified": "2020-12-22T15:40:58.977",
+        "created": "2020-12-22T15:40:58.977",
+        "titles": [
+          {
+            "title": "Lenovo Cloud Networking Operating System (CNOS)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:cloud_networking_operating_system:10.10.6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DF04EFEF-01E9-4571-90B9-6FBEB22BF6CC",
+        "lastModified": "2020-12-22T15:40:59.380",
+        "created": "2020-12-22T15:40:59.380",
+        "titles": [
+          {
+            "title": "Lenovo Cloud Networking Operating System (CNOS) 10.10.6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:cloud_networking_operating_system:-:*:*:*:*:*:*:*",
+      "title": "Lenovo Cloud Networking Operating System (CNOS)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:cloud_networking_operating_system:10.10.6.0:*:*:*:*:*:*:*",
+      "title": "Lenovo Cloud Networking Operating System (CNOS) 10.10.6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

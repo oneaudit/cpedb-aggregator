@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:bootable_usb:mar-2019:*:*:*:*:windows:*:*",
+        "cpeNameId": "09661887-FBB1-4348-A44F-1247FA052ECE",
+        "lastModified": "2021-05-04T17:19:56.120",
+        "created": "2019-04-11T14:01:16.047",
+        "titles": [
+          {
+            "title": "Lenovo Bootable USB Mar-2019 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:bootable_usb:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "880DC188-6C06-4FF5-90DD-3ADFD1ECB61F",
+        "lastModified": "2021-05-04T17:19:56.120",
+        "created": "2019-04-11T14:01:16.047",
+        "titles": [
+          {
+            "title": "Lenovo Bootable USB for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lenovo:bootable_usb:mar-2019:*:*:*:*:windows:*:*",
+      "title": "Lenovo Bootable USB Mar-2019 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lenovo:bootable_usb:-:*:*:*:*:windows:*:*",
+      "title": "Lenovo Bootable USB for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

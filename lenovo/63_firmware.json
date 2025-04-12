@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:63_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "08576D42-566B-41FA-9F0E-FB1AB4DB1355",
+        "lastModified": "2019-12-10T16:07:09.017",
+        "created": "2019-12-10T16:07:09.017",
+        "titles": [
+          {
+            "title": "Lenovo 63 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:63_firmware:fckt98a:*:*:*:*:*:*:*",
+        "cpeNameId": "912848A2-54CF-4748-957B-59DA4D2699F4",
+        "lastModified": "2020-10-30T11:19:34.453",
+        "created": "2020-10-30T11:19:34.453",
+        "titles": [
+          {
+            "title": "Lenovo 63 Firmware FCKT98A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:63_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lenovo 63 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:63_firmware:fckt98a:*:*:*:*:*:*:*",
+      "title": "Lenovo 63 Firmware FCKT98A",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

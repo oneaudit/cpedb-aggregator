@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:lenovo:home_media_network_hard_drive:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BF7F7BA8-6DE7-411A-8433-821C64DFC465",
+        "lastModified": "2021-05-05T15:30:59.237",
+        "created": "2019-07-17T18:28:25.250",
+        "titles": [
+          {
+            "title": "Lenovo Home Media Network Hard Drive",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:lenovo:home_media_network_hard_drive:-:*:*:*:cloud:*:*:*",
+        "cpeNameId": "95FEF107-F0CE-4A05-8DBE-FE51ED322B6E",
+        "lastModified": "2021-05-05T15:30:59.237",
+        "created": "2019-08-26T18:34:33.097",
+        "titles": [
+          {
+            "title": "Lenovo Home Media Network Hard Drive Cloud Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:lenovo:home_media_network_hard_drive:-:*:*:*:*:*:*:*",
+      "title": "Lenovo Home Media Network Hard Drive",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:lenovo:home_media_network_hard_drive:-:*:*:*:cloud:*:*:*",
+      "title": "Lenovo Home Media Network Hard Drive Cloud Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

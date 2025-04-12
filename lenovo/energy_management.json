@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:energy_management:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "2F52DEFB-B19E-4C41-9E15-11BF9E22F7CF",
+        "lastModified": "2019-12-17T16:10:17.377",
+        "created": "2019-12-17T16:10:17.377",
+        "titles": [
+          {
+            "title": "Lenovo Energy Management for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:energy_management:15.11.29.1:*:*:*:*:windows:*:*",
+        "cpeNameId": "FFCABE59-16F4-4804-98F2-58B655452214",
+        "lastModified": "2019-12-17T16:10:17.767",
+        "created": "2019-12-17T16:10:17.767",
+        "titles": [
+          {
+            "title": "Lenovo Energy Management 15.11.29.1 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:energy_management:15.11.29.7:*:*:*:*:windows:*:*",
+        "cpeNameId": "57EFF12A-7B7C-4D5F-BB31-4D9D9155DAA1",
+        "lastModified": "2019-12-17T16:10:17.907",
+        "created": "2019-12-17T16:10:17.907",
+        "titles": [
+          {
+            "title": "Lenovo Energy Management 15.11.29.7 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lenovo:energy_management:-:*:*:*:*:windows:*:*",
+      "title": "Lenovo Energy Management for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lenovo:energy_management:15.11.29.1:*:*:*:*:windows:*:*",
+      "title": "Lenovo Energy Management 15.11.29.1 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lenovo:energy_management:15.11.29.7:*:*:*:*:windows:*:*",
+      "title": "Lenovo Energy Management 15.11.29.7 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
