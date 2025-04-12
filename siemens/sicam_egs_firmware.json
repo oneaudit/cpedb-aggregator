@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sicam_egs_firmware:05.30:*:*:*:*:*:*:*",
+        "cpeNameId": "CAECE147-8A5A-41F1-9DE7-8F2794D9F02C",
+        "lastModified": "2024-12-16T15:46:42.910",
+        "created": "2024-12-16T15:46:42.910",
+        "titles": [
+          {
+            "title": "Siemens SICAM EGS Firmware 05.30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sicam_egs_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C8169D43-5FCB-4DE2-A9C1-E58817C8FEB9",
+        "lastModified": "2024-12-16T15:46:42.910",
+        "created": "2024-12-16T15:46:42.910",
+        "titles": [
+          {
+            "title": "Siemens SICAM EGS Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:sicam_egs_firmware:05.30:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM EGS Firmware 05.30",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sicam_egs_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM EGS Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

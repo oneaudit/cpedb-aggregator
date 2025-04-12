@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:simatic_itc1900_pro:v3:*:*:*:*:*:*:*",
+        "cpeNameId": "BB59860D-49DB-4C66-A5BC-DCC408010BA3",
+        "lastModified": "2021-05-03T14:48:45.150",
+        "created": "2020-06-02T15:42:58.870",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC ITC1900 PRO V3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:simatic_itc1900_pro:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6EE4A1B2-7034-4C45-99D5-90C41B247BBB",
+        "lastModified": "2022-03-01T01:08:17.713",
+        "created": "2022-02-25T17:44:30.120",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC ITC1900 PRO -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:siemens:simatic_itc1900_pro:v3:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC ITC1900 PRO V3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:siemens:simatic_itc1900_pro:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC ITC1900 PRO -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_ipc547g_firmware:r1.23.0:*:*:*:*:*:*:*",
+        "cpeNameId": "9AFEE623-54E6-49BB-9B6E-83E141E78393",
+        "lastModified": "2021-05-26T14:43:27.527",
+        "created": "2019-03-19T13:20:34.520",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC IPC547G Firmware R1.23.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_ipc547g_firmware:r1.28.0:*:*:*:*:*:*:*",
+        "cpeNameId": "64079C9C-E6A0-4EEB-8E53-97B16F9B8E21",
+        "lastModified": "2022-04-04T17:37:55.343",
+        "created": "2022-04-01T17:05:37.110",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC IPC547G FIRMWARE R1.28.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_ipc547g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CB7FE244-B863-4F83-966A-8F5B6D7C6D9E",
+        "lastModified": "2022-04-04T17:37:55.343",
+        "created": "2022-04-01T17:05:37.110",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC IPC547G FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_ipc547g_firmware:r1.23.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC IPC547G Firmware R1.23.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_ipc547g_firmware:r1.28.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC IPC547G FIRMWARE R1.28.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_ipc547g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC IPC547G FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

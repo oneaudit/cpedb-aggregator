@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_12_1211c_firmware:4.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7A4D0D0D-5754-4443-B302-39F90D3CDE2A",
+        "lastModified": "2022-10-14T22:00:23.680",
+        "created": "2022-10-14T11:12:42.170",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1200 CPU 12 1211C FIRMWARE 4.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_12_1211c_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "505B40AF-97A1-4CED-A2B9-79EAC8D1DFD3",
+        "lastModified": "2022-10-14T22:00:23.680",
+        "created": "2022-10-14T11:12:42.170",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1200 CPU 12 1211C FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_12_1211c_firmware:4.5.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1200 CPU 12 1211C FIRMWARE 4.5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_12_1211c_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1200 CPU 12 1211C FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

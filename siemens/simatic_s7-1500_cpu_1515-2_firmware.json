@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1515-2_firmware:2.9.2:*:*:*:*:*:*:*",
+        "cpeNameId": "6E6BBF34-EA73-44D2-BD5B-E1E7B28C3C0E",
+        "lastModified": "2022-10-14T22:00:23.680",
+        "created": "2022-10-14T11:17:10.213",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1515-2 FIRMWARE 2.9.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1515-2_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D8D28E30-6403-45EE-9437-92671D5E2389",
+        "lastModified": "2022-10-14T22:00:23.680",
+        "created": "2022-10-14T11:17:10.213",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1515-2 FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1515-2_firmware:2.9.2:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1515-2 FIRMWARE 2.9.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1515-2_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1515-2 FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

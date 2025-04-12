@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:siemens:sicam_pqs:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D6049144-5447-4BF3-92ED-805FE654968B",
+        "lastModified": "2023-10-13T16:45:09.597",
+        "created": "2022-12-15T15:29:08.487",
+        "titles": [
+          {
+            "title": "Siemens SICAM PQS 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:siemens:sicam_pas\\/pqs:7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2B375651-DE52-4091-95B7-AE43B4C5C3D9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:siemens:sicam_pqs:-:*:*:*:*:*:*:*",
+        "cpeNameId": "93CA92B2-6A3E-4DB2-8FDB-5AD6AF8D9CCD",
+        "lastModified": "2023-10-13T16:45:09.597",
+        "created": "2022-12-15T15:29:08.487",
+        "titles": [
+          {
+            "title": "Siemens SICAM PQS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:siemens:sicam_pas\\/pqs:-:*:*:*:*:*:*:*",
+            "cpeNameId": "85420B81-3BB9-4F8D-ACF8-7E000558FF0D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:siemens:sicam_pqs:8.06:*:*:*:*:*:*:*",
+        "cpeNameId": "10D21B04-06F3-46EA-BEAB-7E2053878B2A",
+        "lastModified": "2023-10-13T16:45:09.597",
+        "created": "2022-12-15T15:32:52.633",
+        "titles": [
+          {
+            "title": "Siemens SICAM PQS 8.06",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:siemens:sicam_pas\\/pqs:8.06:*:*:*:*:*:*:*",
+            "cpeNameId": "09215811-69FC-4DF0-ADD0-CB8EA657339C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:sicam_pqs:7.0:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM PQS 7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:siemens:sicam_pas\\/pqs:7.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sicam_pqs:-:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM PQS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:siemens:sicam_pas\\/pqs:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sicam_pqs:8.06:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM PQS 8.06",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:siemens:sicam_pas\\/pqs:8.06:*:*:*:*:*:*:*"
+    }
+  ]
+}

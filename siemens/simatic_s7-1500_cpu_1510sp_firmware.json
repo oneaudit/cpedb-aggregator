@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1510sp_firmware:2.9.2:*:*:*:*:*:*:*",
+        "cpeNameId": "AFB99FFF-FBC1-4A86-9B35-985D8314E837",
+        "lastModified": "2022-03-01T01:08:17.713",
+        "created": "2022-02-11T15:02:16.007",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1510SP FIRMWARE 2.9.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1510sp_firmware:2.9.4:*:*:*:*:*:*:*",
+        "cpeNameId": "ACBE4B71-7595-4126-992D-DDDE48970997",
+        "lastModified": "2022-03-01T01:08:17.713",
+        "created": "2022-02-11T15:02:16.007",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1510SP FIRMWARE 2.9.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1510sp_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "32DF763A-FD1F-4BD5-A996-0FFDB174AF75",
+        "lastModified": "2022-10-14T22:00:23.680",
+        "created": "2022-10-14T11:19:29.010",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1510SP FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1510sp_firmware:2.9.2:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1510SP FIRMWARE 2.9.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1510sp_firmware:2.9.4:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1510SP FIRMWARE 2.9.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1510sp_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1510SP FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

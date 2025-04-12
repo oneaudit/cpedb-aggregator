@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_rf600_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "61CD1254-DA98-4BCB-A0F2-53CCC1FBEE25",
+        "lastModified": "2020-02-24T15:01:00.460",
+        "created": "2020-02-24T15:01:00.460",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC RF600 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_rf600_firmware:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3529DD18-BA69-4C37-BEED-F8F2E53F269F",
+        "lastModified": "2020-02-24T15:01:01.040",
+        "created": "2020-02-24T15:01:01.040",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC RF600 Firmware 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_rf600_firmware:3.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0B798E95-CB0C-495A-A6F5-26C3DCC45C9C",
+        "lastModified": "2020-02-24T15:01:01.397",
+        "created": "2020-02-24T15:01:01.397",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC RF600 Firmware 3.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_rf600_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC RF600 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_rf600_firmware:3.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC RF600 Firmware 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_rf600_firmware:3.2.1:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC RF600 Firmware 3.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

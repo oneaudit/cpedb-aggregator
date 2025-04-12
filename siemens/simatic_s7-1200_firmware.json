@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1200_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CA10F7AB-8D30-476D-ABE6-817B5E6D271C",
+        "lastModified": "2021-05-26T15:05:47.687",
+        "created": "2017-05-23T01:51:46.050",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1200 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1200_firmware:4.2.3:*:*:*:*:*:*:*",
+        "cpeNameId": "C865F987-5123-4E3A-A7A2-069DACBB31CC",
+        "lastModified": "2021-05-26T15:05:47.687",
+        "created": "2018-11-27T15:44:48.390",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1200 Firmware 4.2.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1200_firmware:4.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "F4F7CC81-BCA4-4F59-B152-F98B259EFE0D",
+        "lastModified": "2021-01-14T19:46:14.783",
+        "created": "2021-01-14T19:46:14.783",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1200 Firmware 4.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1200_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1200 Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1200_firmware:4.2.3:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1200 Firmware 4.2.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1200_firmware:4.2.1:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1200 Firmware 4.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

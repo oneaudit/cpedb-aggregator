@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1511c_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D99EE99D-07B3-40F1-BD0F-F5AF45EDB874",
+        "lastModified": "2021-05-26T15:13:12.917",
+        "created": "2019-08-22T11:55:28.817",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1511C Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1511c_firmware:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B6AD25B6-728D-4EE7-AAEE-55925C0022F0",
+        "lastModified": "2020-10-30T11:11:32.597",
+        "created": "2020-10-30T11:11:32.597",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1511C Firmware 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1511c_firmware:2.8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "A9C341DF-1B7B-4763-8B6D-5CADFF7EBCEC",
+        "lastModified": "2021-01-14T19:48:07.110",
+        "created": "2021-01-14T19:48:07.110",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1511C Firmware 2.8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1511c_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1511C Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1511c_firmware:2.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1511C Firmware 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1511c_firmware:2.8.1:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1511C Firmware 2.8.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

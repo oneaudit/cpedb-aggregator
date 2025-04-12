@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:siemens:sicam_pas:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FBC7C94B-7C74-4D98-8862-8B5DF7B6AD26",
+        "lastModified": "2023-10-13T16:45:09.597",
+        "created": "2017-02-28T17:05:26.770",
+        "titles": [
+          {
+            "title": "Siemens SICAM PAS (Power Automation System)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:siemens:sicam_pas\\/pqs:-:*:*:*:*:*:*:*",
+            "cpeNameId": "85420B81-3BB9-4F8D-ACF8-7E000558FF0D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:siemens:sicam_pas:8.06:*:*:*:*:*:*:*",
+        "cpeNameId": "7C86C700-EAA0-467D-B023-0409C30A028D",
+        "lastModified": "2023-10-13T16:45:09.597",
+        "created": "2019-09-30T14:42:32.407",
+        "titles": [
+          {
+            "title": "Siemens SICAM PAS 8.06",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:siemens:sicam_pas\\/pqs:8.06:*:*:*:*:*:*:*",
+            "cpeNameId": "09215811-69FC-4DF0-ADD0-CB8EA657339C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:siemens:sicam_pas:8.08:*:*:*:*:*:*:*",
+        "cpeNameId": "408BDF5D-3EC1-458D-AFAA-4DAC00D26DAF",
+        "lastModified": "2023-10-13T16:45:09.597",
+        "created": "2020-12-10T15:21:36.847",
+        "titles": [
+          {
+            "title": "Siemens SICAM PAS 8.08",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:siemens:sicam_pas\\/pqs:8.08:*:*:*:*:*:*:*",
+            "cpeNameId": "10DB0603-4861-4645-8FE8-B469B05E81A8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:siemens:sicam_pas:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C1112D05-CE61-4EED-9E1A-334337A81066",
+        "lastModified": "2023-10-13T16:45:09.597",
+        "created": "2022-12-15T15:29:01.353",
+        "titles": [
+          {
+            "title": "Siemens SICAM PAS 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:siemens:sicam_pas\\/pqs:7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2B375651-DE52-4091-95B7-AE43B4C5C3D9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:sicam_pas:-:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM PAS (Power Automation System)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:siemens:sicam_pas\\/pqs:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sicam_pas:8.06:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM PAS 8.06",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:siemens:sicam_pas\\/pqs:8.06:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sicam_pas:8.08:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM PAS 8.08",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:siemens:sicam_pas\\/pqs:8.08:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sicam_pas:7.0:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM PAS 7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:siemens:sicam_pas\\/pqs:7.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

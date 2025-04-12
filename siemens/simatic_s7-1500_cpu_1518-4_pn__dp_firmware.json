@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn\\/dp_firmware:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F5A5592A-52E0-4DA4-BF8D-34B233B04043",
+        "lastModified": "2021-05-26T15:13:12.917",
+        "created": "2020-04-15T14:15:24.087",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1518-4 PN/DP Firmware 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn\\/dp_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "42C97CF5-7A95-4509-AA3E-22988B5517C4",
+        "lastModified": "2022-11-09T17:50:26.247",
+        "created": "2022-11-08T17:58:38.177",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1518-4 PN/DP Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn\\/dp_firmware:3.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4DD58552-033D-43A4-AEC3-A5EE855FF0A9",
+        "lastModified": "2023-12-15T19:11:25.050",
+        "created": "2023-12-15T19:11:25.050",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1518-4 PN/DP FIRMWARE 3.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn\\/dp_firmware:2.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1518-4 PN/DP Firmware 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn\\/dp_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1518-4 PN/DP Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn\\/dp_firmware:3.1.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1518-4 PN/DP FIRMWARE 3.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

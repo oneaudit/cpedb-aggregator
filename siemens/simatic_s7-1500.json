@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:simatic_s7-1500:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F2495209-A8C4-4A33-844A-EF4D299182A1",
+        "lastModified": "2021-05-14T17:51:53.527",
+        "created": "2017-05-23T01:51:46.050",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_s7-1500:-:*:*:*:*:*:*:*",
+        "cpeNameId": "36D1F2C3-6967-485E-9B4B-987472719D86",
+        "lastModified": "2021-05-19T17:19:44.500",
+        "created": "2019-08-22T11:55:35.673",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_s7-1500:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2597F1D0-DD91-4E2A-B57A-0675E4544A0B",
+        "lastModified": "2021-05-19T17:19:44.500",
+        "created": "2020-04-15T14:15:13.880",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:siemens:simatic_s7-1500:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simatic_s7-1500:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simatic_s7-1500:2.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

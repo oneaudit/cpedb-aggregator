@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "78599368-9B72-475B-908A-A737CAD99615",
+        "lastModified": "2021-09-03T20:17:50.623",
+        "created": "2021-09-02T15:17:04.463",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC NET CP 1543-1 FIRMWARE 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "29980F7F-410A-4C3B-AA4B-628BE8586B7C",
+        "lastModified": "2021-09-03T20:17:50.623",
+        "created": "2021-09-03T12:07:51.643",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC NET CP 1543-1 FIRMWARE 2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C47DB64D-E6A7-4AB8-BA69-CFC0D3A75C06",
+        "lastModified": "2022-05-23T15:28:45.200",
+        "created": "2022-05-23T15:05:09.127",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC NET CP 1543-1 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:3.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC NET CP 1543-1 FIRMWARE 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:2.2:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC NET CP 1543-1 FIRMWARE 2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC NET CP 1543-1 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

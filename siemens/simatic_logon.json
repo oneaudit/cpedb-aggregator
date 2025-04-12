@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_logon:1.5:sp3_update_1:*:*:*:*:*:*",
+        "cpeNameId": "869A4003-32B5-472C-B6E6-772B436A1495",
+        "lastModified": "2017-03-17T14:15:55.727",
+        "created": "2017-03-17T14:15:55.727",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC Logon 1.5 Service Pack 3 Update 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_logon:1.5:sp3_update_2:*:*:*:*:*:*",
+        "cpeNameId": "2E80BD4A-543E-415B-AB01-CF7249A5BE94",
+        "lastModified": "2021-06-15T21:24:51.647",
+        "created": "2017-08-17T03:41:25.300",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC Logon 1.5 Service Pack 3 Update 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_logon:1.6.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "A2016CC8-0892-400C-BDB2-16D7C1255591",
+        "lastModified": "2021-09-22T19:11:47.630",
+        "created": "2021-09-03T12:06:00.837",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC Logon 1.6.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:simatic_logon:1.5:sp3_update_1:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC Logon 1.5 Service Pack 3 Update 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simatic_logon:1.5:sp3_update_2:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC Logon 1.5 Service Pack 3 Update 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simatic_logon:1.6.0.2:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC Logon 1.6.0.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

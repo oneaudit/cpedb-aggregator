@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:simatic_cp_443-1:-:*:*:*:advanced:*:*:*",
+        "cpeNameId": "5E86AA22-448E-4F73-8FDB-B180B8AE4F15",
+        "lastModified": "2021-05-14T16:48:09.280",
+        "created": "2016-11-23T16:17:31.790",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 443-1 Advanced Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:simatic_cp_443-1:-:*:*:*:standard:*:*:*",
+        "cpeNameId": "E0D9D68F-6C0B-4433-926E-382647839132",
+        "lastModified": "2021-05-14T16:48:09.280",
+        "created": "2018-04-18T15:41:49.433",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 443-1 Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_cp_443-1:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B158507D-6040-4E45-9733-28CC6A2A583C",
+        "lastModified": "2022-04-04T17:37:55.343",
+        "created": "2021-09-17T17:03:12.010",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 443-1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:simatic_cp_443-1:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1F2ED52B-9420-419B-931A-324EF4205EED",
+        "lastModified": "2023-08-12T03:55:22.657",
+        "created": "2023-04-18T11:58:07.840",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 443-1 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:siemens:simatic_cp_443-1:-:*:*:*:advanced:*:*:*",
+      "title": "Siemens SIMATIC CP 443-1 Advanced Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:siemens:simatic_cp_443-1:-:*:*:*:standard:*:*:*",
+      "title": "Siemens SIMATIC CP 443-1 Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_cp_443-1:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC CP 443-1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:siemens:simatic_cp_443-1:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC CP 443-1 -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

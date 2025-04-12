@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_net_pc-software:13:sp1:*:*:*:*:*:*",
+        "cpeNameId": "24F9F9A2-B960-4ACE-B185-487547306F6F",
+        "lastModified": "2021-06-15T21:24:51.647",
+        "created": "2016-07-27T17:48:44.057",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC NET PC-Software 13 Special Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_net_pc-software:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B2278EC3-1888-4B46-958B-6244181AA635",
+        "lastModified": "2021-06-15T21:24:51.647",
+        "created": "2017-05-23T01:27:46.540",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC Net PC-Software",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:simatic_net_pc-software:13:sp1:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC NET PC-Software 13 Special Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simatic_net_pc-software:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC Net PC-Software",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_cp_1243-1_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DFEC955B-20F7-4D2C-BE0C-474F8272EBE9",
+        "lastModified": "2021-05-25T18:35:00.727",
+        "created": "2017-05-23T01:51:46.050",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 1243-1 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_cp_1243-1_firmware:2.1.82:*:*:*:*:*:*:*",
+        "cpeNameId": "CCB74A97-0717-4B6C-BCFF-5FFA535667DE",
+        "lastModified": "2021-01-14T19:46:08.390",
+        "created": "2021-01-14T19:46:08.390",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 1243-1 Firmware 2.1.82",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_cp_1243-1_firmware:3.3.46:*:*:*:*:*:*:*",
+        "cpeNameId": "9A524CF7-D996-475B-B90D-C5F9B01C38A8",
+        "lastModified": "2023-09-01T03:37:29.760",
+        "created": "2023-06-28T17:21:29.317",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 1243-1 FIRMWARE 3.3.46",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_cp_1243-1_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC CP 1243-1 Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_cp_1243-1_firmware:2.1.82:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC CP 1243-1 Firmware 2.1.82",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_cp_1243-1_firmware:3.3.46:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC CP 1243-1 FIRMWARE 3.3.46",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

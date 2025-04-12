@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_cpu_312_ifm_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A4E41F16-7D51-4093-8B89-2A6EC1767C2C",
+        "lastModified": "2020-01-16T13:44:00.613",
+        "created": "2020-01-16T13:44:00.613",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 CPU 312 IGM Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_cpu_312_ifm_firmware:3.2.17:*:*:*:*:*:*:*",
+        "cpeNameId": "8CC5F2CE-420C-40AB-8E41-A043ABCA8E4B",
+        "lastModified": "2020-03-16T17:14:21.807",
+        "created": "2020-03-16T17:14:21.807",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 CPU 312 IFM Firmware 3.2.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_cpu_312_ifm_firmware:3.3.17:*:*:*:*:*:*:*",
+        "cpeNameId": "C174BC5C-AD5E-45FE-8DB6-10140BB6C9B4",
+        "lastModified": "2020-03-16T17:14:21.997",
+        "created": "2020-03-16T17:14:21.997",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 CPU 312 IFM Firmware 3.3.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_cpu_312_ifm_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 CPU 312 IGM Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_cpu_312_ifm_firmware:3.2.17:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 CPU 312 IFM Firmware 3.2.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_cpu_312_ifm_firmware:3.3.17:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 CPU 312 IFM Firmware 3.3.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

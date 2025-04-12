@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_s7-1518-4_pn\\/dp_odk_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F5178CE2-18E3-45D0-A7CA-FF11A05B6FDA",
+        "lastModified": "2023-01-13T17:43:05.853",
+        "created": "2023-01-13T15:21:59.517",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU S7-1518-4 PN/DP ODK Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_s7-1518-4_pn\\/dp_odk_firmware:3.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7DB72000-1F0C-48BD-887B-18F5A7124FE3",
+        "lastModified": "2023-12-15T19:11:25.050",
+        "created": "2023-12-15T19:11:25.050",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU S7-1518-4 PN/DP ODK FIRMWARE 3.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_s7-1518-4_pn\\/dp_odk_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU S7-1518-4 PN/DP ODK Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_s7-1518-4_pn\\/dp_odk_firmware:3.1.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU S7-1518-4 PN/DP ODK FIRMWARE 3.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_cpu_314_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A4AC34BB-34B6-43EC-95CF-F1718AF38F8C",
+        "lastModified": "2019-12-11T20:13:39.407",
+        "created": "2019-12-11T20:13:39.407",
+        "titles": [
+          {
+            "title": "Siemens SINAMIC S7-300 CPU 314 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_cpu_314_firmware:3.2.17:*:*:*:*:*:*:*",
+        "cpeNameId": "0DA48640-DFFF-435E-AABD-14F5C2A97346",
+        "lastModified": "2020-03-16T17:14:22.557",
+        "created": "2020-03-16T17:14:22.557",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 CPU 314 Firmware 3.2.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_cpu_314_firmware:3.3.17:*:*:*:*:*:*:*",
+        "cpeNameId": "6050607F-06D5-4A6A-85E6-C9ACD4BC9881",
+        "lastModified": "2020-03-16T17:14:22.667",
+        "created": "2020-03-16T17:14:22.667",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 CPU 314 Firmware 3.3.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_cpu_314_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SINAMIC S7-300 CPU 314 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_cpu_314_firmware:3.2.17:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 CPU 314 Firmware 3.2.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_cpu_314_firmware:3.3.17:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 CPU 314 Firmware 3.3.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

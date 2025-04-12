@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_information_server:2019:-:*:*:*:*:*:*",
+        "cpeNameId": "6A2C227B-9E27-46D6-A5E2-6101C2C341AD",
+        "lastModified": "2022-05-27T03:44:08.690",
+        "created": "2021-11-17T18:49:12.030",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC Information Server 2019 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_information_server:2019:sp1:*:*:*:*:*:*",
+        "cpeNameId": "D452C052-14D5-427A-9077-DC67733A4640",
+        "lastModified": "2022-05-27T03:44:08.690",
+        "created": "2021-11-17T18:49:12.030",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC Information Server 2019 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_information_server:2020:-:*:*:*:*:*:*",
+        "cpeNameId": "D009DEBC-0CC5-4C7E-8305-8D6064002949",
+        "lastModified": "2022-05-23T15:28:45.200",
+        "created": "2022-05-22T22:13:55.813",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC Information Server 2020",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:simatic_information_server:2019:-:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC Information Server 2019 -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simatic_information_server:2019:sp1:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC Information Server 2019 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simatic_information_server:2020:-:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC Information Server 2020",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

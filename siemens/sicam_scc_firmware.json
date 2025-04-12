@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sicam_scc_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "17B63626-5DF5-43AF-BF2E-FE1A46FCE142",
+        "lastModified": "2021-05-25T17:36:34.760",
+        "created": "2018-09-06T17:35:45.703",
+        "titles": [
+          {
+            "title": "Siemens SICAM SCC FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sicam_scc_firmware:10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "52C88114-A307-4089-9A0E-AED035B3DC89",
+        "lastModified": "2024-12-16T15:53:46.140",
+        "created": "2024-12-16T15:53:46.140",
+        "titles": [
+          {
+            "title": "Siemens SICAM SCC Firmware 10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:sicam_scc_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM SCC FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sicam_scc_firmware:10.0:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM SCC Firmware 10.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

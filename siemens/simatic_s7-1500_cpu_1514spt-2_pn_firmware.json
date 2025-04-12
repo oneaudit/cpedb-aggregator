@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1514spt-2_pn_firmware:3.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7C806A4B-B552-4671-9F23-90F067B4EFF5",
+        "lastModified": "2023-12-15T19:11:25.050",
+        "created": "2023-12-15T19:11:25.050",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1514SPT-2 PN FIRMWARE 3.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1514spt-2_pn_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "445C8A56-59CE-4AB8-8A29-8409ABAC49A5",
+        "lastModified": "2023-12-15T19:11:25.050",
+        "created": "2023-12-15T19:11:25.050",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1514SPT-2 PN FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1514spt-2_pn_firmware:3.1.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1514SPT-2 PN FIRMWARE 3.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1514spt-2_pn_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1514SPT-2 PN FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

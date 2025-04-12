@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518hf-4_pn_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2326B57E-3699-4629-915F-75244DB3E7C5",
+        "lastModified": "2023-01-13T17:43:05.853",
+        "created": "2023-01-13T15:21:59.517",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1518HF-4 PN Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518hf-4_pn_firmware:3.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "589455EE-286B-4197-8E96-3876D9A3F496",
+        "lastModified": "2023-12-15T19:11:25.050",
+        "created": "2023-12-15T19:11:25.050",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1518HF-4 PN FIRMWARE 3.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518hf-4_pn_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1518HF-4 PN Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518hf-4_pn_firmware:3.1.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1518HF-4 PN FIRMWARE 3.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

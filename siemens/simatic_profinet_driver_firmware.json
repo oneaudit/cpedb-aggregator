@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_profinet_driver_firmware:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "24AD03D5-727A-4C2C-95E4-4025039DBBE3",
+        "lastModified": "2020-10-30T11:11:32.063",
+        "created": "2020-10-30T11:11:32.063",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC PROFINET Driver Firmware 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_profinet_driver_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F3044907-34EE-4086-B83F-C5AE54DDA9FA",
+        "lastModified": "2022-04-04T17:37:55.343",
+        "created": "2021-07-29T17:18:55.947",
+        "titles": [
+          {
+            "title": "Siemens Simatic Profinet Driver Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_profinet_driver_firmware:2.1:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC PROFINET Driver Firmware 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_profinet_driver_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens Simatic Profinet Driver Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

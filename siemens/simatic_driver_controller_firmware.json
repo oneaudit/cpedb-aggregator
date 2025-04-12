@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_driver_controller_firmware:2.9.2:*:*:*:*:*:*:*",
+        "cpeNameId": "1B317D5A-F576-4EF1-8D05-D94BD58D9034",
+        "lastModified": "2021-06-21T13:52:46.013",
+        "created": "2021-06-07T11:40:22.780",
+        "titles": [
+          {
+            "title": "Siemens Simatic Driver Controller Firmware 2.9.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_driver_controller_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BD8E9B6D-319B-441E-9183-2F71D0DAFD45",
+        "lastModified": "2021-06-21T13:52:46.013",
+        "created": "2021-06-07T11:40:22.780",
+        "titles": [
+          {
+            "title": "Siemens Simatic Driver Controller Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_driver_controller_firmware:2.9.2:*:*:*:*:*:*:*",
+      "title": "Siemens Simatic Driver Controller Firmware 2.9.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_driver_controller_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens Simatic Driver Controller Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

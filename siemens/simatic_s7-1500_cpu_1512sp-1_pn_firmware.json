@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1512sp-1_pn_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3B3E2987-7EEA-4F21-9B34-C18B8510CAD2",
+        "lastModified": "2023-01-13T17:43:05.853",
+        "created": "2023-01-13T15:21:59.517",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1512SP-1 PN Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1512sp-1_pn_firmware:3.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "09612380-2372-4902-BBDE-FC9CE135BE2D",
+        "lastModified": "2023-12-15T19:11:25.050",
+        "created": "2023-12-15T19:11:25.050",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1512SP-1 PN FIRMWARE 3.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1512sp-1_pn_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1512SP-1 PN Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1512sp-1_pn_firmware:3.1.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1512SP-1 PN FIRMWARE 3.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

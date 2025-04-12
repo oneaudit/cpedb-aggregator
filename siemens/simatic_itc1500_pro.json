@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:simatic_itc1500_pro:v3:*:*:*:*:*:*:*",
+        "cpeNameId": "540AEA47-3EEC-41A3-8A28-E3910329CBCC",
+        "lastModified": "2021-05-03T14:48:45.150",
+        "created": "2020-06-02T15:42:58.870",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC ITC1500 PRO V3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:simatic_itc1500_pro:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DA5E2E78-6310-415D-9BE7-AC618FBCB527",
+        "lastModified": "2022-03-01T01:08:17.713",
+        "created": "2022-02-25T17:44:30.120",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC ITC1500 PRO -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:siemens:simatic_itc1500_pro:v3:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC ITC1500 PRO V3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:siemens:simatic_itc1500_pro:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC ITC1500 PRO -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

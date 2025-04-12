@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_rf600r_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "13D4EA45-CEDB-4741-95CE-AFA8EC687922",
+        "lastModified": "2021-05-26T14:55:11.933",
+        "created": "2019-04-18T14:34:23.520",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC RF600R Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_rf600r_firmware:3.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "FB9EB82B-72A6-46A3-9EE6-B7F23BF726C1",
+        "lastModified": "2020-10-13T12:58:03.763",
+        "created": "2020-10-13T12:58:03.763",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC RF600R Firmware 3.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_rf600r_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC RF600R Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_rf600r_firmware:3.2.1:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC RF600R Firmware 3.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

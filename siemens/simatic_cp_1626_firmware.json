@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_cp_1626_firmware:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "39C3A999-068F-4606-994F-163D7A3B1574",
+        "lastModified": "2021-01-14T19:46:10.953",
+        "created": "2021-01-14T19:46:10.953",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 1626 Firmware 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_cp_1626_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C8950220-FBED-4B79-AC2F-FE9888C78C0D",
+        "lastModified": "2023-10-17T14:47:05.403",
+        "created": "2023-10-17T14:47:05.403",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 1626 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_cp_1626_firmware:1.1:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC CP 1626 Firmware 1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_cp_1626_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC CP 1626 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

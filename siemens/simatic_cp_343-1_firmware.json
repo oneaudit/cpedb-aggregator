@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_cp_343-1_firmware:-:*:*:*:advanced:*:*:*",
+        "cpeNameId": "2B91E10C-2F84-4A1F-B80F-60DCF6DB0A69",
+        "lastModified": "2021-05-25T18:35:00.727",
+        "created": "2016-11-23T16:17:31.790",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 343-1 Advanced Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_cp_343-1_firmware:-:*:*:*:standard:*:*:*",
+        "cpeNameId": "D31CDE33-76EC-44CC-9A74-67EE615CF169",
+        "lastModified": "2021-05-25T18:35:00.727",
+        "created": "2018-04-18T15:41:49.433",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 343-1 Firmware Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_cp_343-1_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E86FEA94-8758-46D7-8A08-F893DF874CA0",
+        "lastModified": "2021-10-19T13:09:40.037",
+        "created": "2021-09-27T18:22:59.377",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 343-1 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_cp_343-1_firmware:-:*:*:*:advanced:*:*:*",
+      "title": "Siemens SIMATIC CP 343-1 Advanced Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_cp_343-1_firmware:-:*:*:*:standard:*:*:*",
+      "title": "Siemens SIMATIC CP 343-1 Firmware Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_cp_343-1_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC CP 343-1 Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

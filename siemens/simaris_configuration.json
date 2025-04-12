@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simaris_configuration:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AFBC7D3D-E965-4BF5-9926-0515239742BA",
+        "lastModified": "2021-02-10T15:38:59.480",
+        "created": "2021-02-10T15:38:59.480",
+        "titles": [
+          {
+            "title": "Siemens SIMARIS Configuration",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simaris_configuration:4.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "45530E0A-C9A2-4423-9E89-C9DE083A8F5A",
+        "lastModified": "2022-03-04T17:37:44.307",
+        "created": "2022-03-04T17:36:36.133",
+        "titles": [
+          {
+            "title": "Siemens SIMARIS Configuration 4.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:simaris_configuration:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMARIS Configuration",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simaris_configuration:4.0.1:*:*:*:*:*:*:*",
+      "title": "Siemens SIMARIS Configuration 4.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

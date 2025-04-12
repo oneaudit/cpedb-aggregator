@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_ipc427d_firmware:17.0x.14:*:*:*:*:*:*:*",
+        "cpeNameId": "C0F24535-BE9F-4043-A379-644D9778B913",
+        "lastModified": "2021-05-26T14:43:27.527",
+        "created": "2019-03-19T13:20:33.897",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC IPC427D Firmware 17.0x.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_ipc427d_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BE237522-E909-4CD7-84CF-3B3E60802146",
+        "lastModified": "2023-05-22T18:09:28.160",
+        "created": "2023-05-22T16:18:54.830",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC IPC427D Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_ipc427d_firmware:17.0x.14:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC IPC427D Firmware 17.0x.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_ipc427d_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC IPC427D Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

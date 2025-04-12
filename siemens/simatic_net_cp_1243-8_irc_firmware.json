@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_net_cp_1243-8_irc_firmware:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "F6813FEA-6E59-42D1-A66B-D154EDD35F01",
+        "lastModified": "2021-09-03T20:17:50.623",
+        "created": "2021-09-03T12:08:11.913",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC NET CP 1243-8 IRC FIRMWARE 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_net_cp_1243-8_irc_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9D326FEA-E9B6-4195-A150-C516603CE9AD",
+        "lastModified": "2022-08-12T20:48:22.767",
+        "created": "2022-03-31T20:33:47.877",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC NET CP 1243-8 IRC Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_net_cp_1243-8_irc_firmware:3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "48321505-CF91-413C-A1AA-20C3226516EC",
+        "lastModified": "2022-12-30T12:55:07.930",
+        "created": "2022-12-28T18:02:37.953",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC NET CP 1243-8 IRC Firmware 3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_net_cp_1243-8_irc_firmware:3.1:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC NET CP 1243-8 IRC FIRMWARE 3.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_net_cp_1243-8_irc_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC NET CP 1243-8 IRC Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_net_cp_1243-8_irc_firmware:3.2:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC NET CP 1243-8 IRC Firmware 3.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

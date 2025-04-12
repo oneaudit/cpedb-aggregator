@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sicam_a8000_firmware:05.30:*:*:*:*:*:*:*",
+        "cpeNameId": "CC53A2E1-55E6-41FE-8A1C-F4B987E6F92F",
+        "lastModified": "2020-09-10T17:43:13.693",
+        "created": "2020-09-10T17:43:13.693",
+        "titles": [
+          {
+            "title": "Siemens SICAM A8000 Firmware 05.30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sicam_a8000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DE91DEA6-CD18-4885-AE0A-DDBCFD5EF952",
+        "lastModified": "2024-12-16T15:45:16.717",
+        "created": "2024-12-16T15:45:16.717",
+        "titles": [
+          {
+            "title": "Siemens SICAM A8000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:sicam_a8000_firmware:05.30:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM A8000 Firmware 05.30",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sicam_a8000_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM A8000 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

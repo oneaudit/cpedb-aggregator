@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1214fc_firmware:4.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "229A1F75-EB1C-4E31-882D-B63FC94B40A7",
+        "lastModified": "2022-03-01T01:08:17.713",
+        "created": "2022-02-11T15:00:36.617",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1200 CPU 1214FC FIRMWARE 4.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1214fc_firmware:4.5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "7CCA6AF9-8960-4E9C-97EE-B32E40FD4C8A",
+        "lastModified": "2022-03-01T01:08:17.713",
+        "created": "2022-02-11T15:00:36.617",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1200 CPU 1214FC FIRMWARE 4.5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1214fc_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4BBDAB69-243A-4F31-91BE-8BC37018410C",
+        "lastModified": "2022-11-09T17:50:26.247",
+        "created": "2022-11-08T17:58:38.177",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1200 CPU 1214FC Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1214fc_firmware:4.5.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1200 CPU 1214FC FIRMWARE 4.5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1214fc_firmware:4.5.2:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1200 CPU 1214FC FIRMWARE 4.5.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1214fc_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1200 CPU 1214FC Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

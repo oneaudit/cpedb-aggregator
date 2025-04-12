@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1516-3_pn_firmware:2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "C2D92B0E-4C57-4FDB-9D45-BB256DFDB5E0",
+        "lastModified": "2020-04-02T11:15:10.543",
+        "created": "2020-04-02T11:15:10.543",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1516-3 PN Firmware 2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1516-3_pn_firmware:2.8:*:*:*:*:*:*:*",
+        "cpeNameId": "4F938A48-0F32-4632-BBF4-D03901625F15",
+        "lastModified": "2020-04-02T11:15:10.687",
+        "created": "2020-04-02T11:15:10.687",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1516-3 PN Firmware 2.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1516-3_pn_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1213D942-25AC-42FD-9874-DD323B40A556",
+        "lastModified": "2022-11-09T17:50:26.247",
+        "created": "2022-11-08T17:58:38.177",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-1500 CPU 1516-3 PN Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1516-3_pn_firmware:2.5:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1516-3 PN Firmware 2.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1516-3_pn_firmware:2.8:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1516-3 PN Firmware 2.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1516-3_pn_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-1500 CPU 1516-3 PN Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:simatic_itc2200:v3:*:*:*:*:*:*:*",
+        "cpeNameId": "ABF75B03-2C85-46D2-92B3-C4EB739919AF",
+        "lastModified": "2021-05-03T14:48:45.150",
+        "created": "2020-06-02T15:42:58.870",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC ITC2200 V3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:simatic_itc2200:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1A47A632-A708-4242-B958-6F7A1A517FC2",
+        "lastModified": "2022-03-01T01:08:17.713",
+        "created": "2022-02-25T17:44:30.120",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC ITC2200 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:siemens:simatic_itc2200:v3:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC ITC2200 V3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:siemens:simatic_itc2200:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC ITC2200 -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

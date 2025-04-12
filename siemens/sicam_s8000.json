@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:sicam_s8000:05.30:*:*:*:*:*:*:*",
+        "cpeNameId": "1279B11B-1A32-485E-A71A-36E1258581F5",
+        "lastModified": "2024-12-16T15:33:16.083",
+        "created": "2024-12-16T15:33:16.083",
+        "titles": [
+          {
+            "title": "Siemens SICAM S8000 05.30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:sicam_s8000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C35335C2-D5D9-4940-AC1D-846CCB3ADF2A",
+        "lastModified": "2024-12-16T15:33:16.083",
+        "created": "2024-12-16T15:33:16.083",
+        "titles": [
+          {
+            "title": "Siemens SICAM S8000 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:sicam_s8000:05.30:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM S8000 05.30",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sicam_s8000:-:*:*:*:*:*:*:*",
+      "title": "Siemens SICAM S8000 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

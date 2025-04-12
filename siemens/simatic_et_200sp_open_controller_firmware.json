@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_et_200sp_open_controller_firmware:20.8:*:*:*:*:*:*:*",
+        "cpeNameId": "66FCD8E2-08FD-4C14-96ED-C6338D93D21C",
+        "lastModified": "2021-06-21T13:53:50.753",
+        "created": "2020-12-17T19:18:57.820",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC ET 200SP Open Controller Firmware 20.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_et_200sp_open_controller_firmware:0209_0105:*:*:*:*:*:*:*",
+        "cpeNameId": "F30843F9-A3D2-400A-9BDD-9C81E9DE5187",
+        "lastModified": "2022-04-04T17:37:55.343",
+        "created": "2022-03-25T19:02:02.613",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC ET 200SP OPEN CONTROLLER FIRMWARE 0209 0105",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_et_200sp_open_controller_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "25EE0CCB-77F6-40EF-ACC1-4B3AD97C4BA8",
+        "lastModified": "2022-04-04T17:37:55.343",
+        "created": "2022-03-25T19:02:02.613",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC ET 200SP OPEN CONTROLLER FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_et_200sp_open_controller_firmware:20.8:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC ET 200SP Open Controller Firmware 20.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_et_200sp_open_controller_firmware:0209_0105:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC ET 200SP OPEN CONTROLLER FIRMWARE 0209 0105",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_et_200sp_open_controller_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC ET 200SP OPEN CONTROLLER FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

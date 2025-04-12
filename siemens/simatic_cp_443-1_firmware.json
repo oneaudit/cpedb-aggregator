@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_cp_443-1_firmware:-:*:*:*:standard:*:*:*",
+        "cpeNameId": "BA35B6EC-9D3D-493E-9A21-9C62DA6A25AD",
+        "lastModified": "2021-05-25T18:35:00.727",
+        "created": "2018-04-18T15:41:49.433",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 443-1 Firmware Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_cp_443-1_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FA76B69B-6F25-42CC-B91D-67D2026654F6",
+        "lastModified": "2021-10-19T13:09:40.037",
+        "created": "2021-09-27T18:22:59.377",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 443-1 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_cp_443-1_firmware:3.3:*:*:*:*:*:*:*",
+        "cpeNameId": "CEF4250A-8F81-4837-BBBD-096B9B49CAD4",
+        "lastModified": "2023-09-01T03:37:29.760",
+        "created": "2023-04-18T12:47:03.890",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC CP 443-1 FIRMWARE 3.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_cp_443-1_firmware:-:*:*:*:standard:*:*:*",
+      "title": "Siemens SIMATIC CP 443-1 Firmware Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_cp_443-1_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC CP 443-1 Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_cp_443-1_firmware:3.3:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC CP 443-1 FIRMWARE 3.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
