@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:philips:intellivue_patient_monitors_mp70_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7F835F5A-0978-4836-844B-1AF4CC906119",
+        "lastModified": "2021-05-10T15:07:10.480",
+        "created": "2018-07-23T17:37:53.080",
+        "titles": [
+          {
+            "title": "Philips INTELLIVUE PATIENT MONITORS MP70 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:philips:intellivue_mp70_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "02C2F598-494A-41A0-8862-04286147C3D7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:philips:intellivue_patient_monitors_mp70_firmware:-:*:*:*:*:*:*:*",
+      "title": "Philips INTELLIVUE PATIENT MONITORS MP70 FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:philips:intellivue_mp70_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

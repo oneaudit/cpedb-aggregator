@@ -1,0 +1,99 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pgp:e-ppliance_300:-:*:*:*:*:*:*:*",
+        "cpeNameId": "01E66ED2-7EE7-45A1-9271-645B59B2D903",
+        "lastModified": "2010-12-29T17:11:01.680",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "PGP e-ppliance 300 series 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:pgp:e-ppliance_300:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "921EACDE-A64C-41BE-B92D-659E9D4EA713"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:pgp:e-ppliance_300:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "921EACDE-A64C-41BE-B92D-659E9D4EA713",
+        "lastModified": "2008-04-07T14:48:27.410",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "PGP PGP e-ppliance 300 series 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:pgp:e-ppliance_300:1.5:*:*:*:*:*:*:*",
+        "cpeNameId": "3827066B-5216-4D23-9237-627E48915085",
+        "lastModified": "2008-04-07T14:48:27.583",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "PGP PGP e-ppliance 300 series 1.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:pgp:e-ppliance_300:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EBB8E1D6-7039-4E69-8679-2FC6EF9CB2E5",
+        "lastModified": "2008-04-07T14:48:27.753",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "PGP PGP e-ppliance 300 series 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pgp:e-ppliance_300:-:*:*:*:*:*:*:*",
+      "title": "PGP e-ppliance 300 series 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:pgp:e-ppliance_300:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:pgp:e-ppliance_300:1.0:*:*:*:*:*:*:*",
+      "title": "PGP PGP e-ppliance 300 series 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:pgp:e-ppliance_300:1.5:*:*:*:*:*:*:*",
+      "title": "PGP PGP e-ppliance 300 series 1.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:pgp:e-ppliance_300:2.0:*:*:*:*:*:*:*",
+      "title": "PGP PGP e-ppliance 300 series 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

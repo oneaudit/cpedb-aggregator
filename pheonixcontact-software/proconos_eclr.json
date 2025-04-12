@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:pheonixcontact-software:proconos_eclr:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6638491B-61DC-44B6-B7CA-36607CC44710",
+        "lastModified": "2018-11-28T17:31:57.847",
+        "created": "2015-01-21T16:35:07.563",
+        "titles": [
+          {
+            "title": "Pheonix Contact Software ProConOS eCLR",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:phoenixcontact-software:proconos_eclr:-:*:*:*:*:*:*:*",
+            "cpeNameId": "8D72E442-C0D1-45A8-BCD6-E0547ED77524"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:pheonixcontact-software:proconos_eclr:-:*:*:*:single_chip:*:*:*",
+        "cpeNameId": "9A25523C-6918-4CA2-B327-0D1431EB0CBE",
+        "lastModified": "2018-11-28T17:31:57.927",
+        "created": "2015-01-21T16:35:07.563",
+        "titles": [
+          {
+            "title": "Pheonix Contact Software ProConOS eCLR Single Chip",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:phoenixcontact-software:proconos_eclr:-:*:*:*:single_chip:*:*:*",
+            "cpeNameId": "4948FB0A-056C-4A93-BE84-61782D55CF26"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:pheonixcontact-software:proconos_eclr:-:*:*:*:softplc:*:*:*",
+        "cpeNameId": "E88EED2F-E354-455D-9295-03F3B22CDD4C",
+        "lastModified": "2018-11-28T17:31:57.973",
+        "created": "2015-01-21T16:35:07.563",
+        "titles": [
+          {
+            "title": "Pheonix Contact Software ProConOS eCLR SoftPLC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:phoenixcontact-software:proconos_eclr:-:*:*:*:softplc:*:*:*",
+            "cpeNameId": "03DAF618-E8C9-4E50-B69B-0DD177E264DA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:pheonixcontact-software:proconos_eclr:-:*:*:*:visual_studio:*:*:*",
+        "cpeNameId": "184F6FFE-D37F-4BF3-8B3D-9BE137B53F3A",
+        "lastModified": "2018-11-28T17:31:58.003",
+        "created": "2015-01-21T16:35:07.563",
+        "titles": [
+          {
+            "title": "Pheonix Contact Software ProConOS eCLR Visual Studio",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:phoenixcontact-software:proconos_eclr:-:*:*:*:visual_studio:*:*:*",
+            "cpeNameId": "17AD1111-0F22-412D-8875-A4EBD0C23B52"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:pheonixcontact-software:proconos_eclr:-:*:*:*:*:*:*:*",
+      "title": "Pheonix Contact Software ProConOS eCLR",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:phoenixcontact-software:proconos_eclr:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:pheonixcontact-software:proconos_eclr:-:*:*:*:single_chip:*:*:*",
+      "title": "Pheonix Contact Software ProConOS eCLR Single Chip",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:phoenixcontact-software:proconos_eclr:-:*:*:*:single_chip:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:pheonixcontact-software:proconos_eclr:-:*:*:*:softplc:*:*:*",
+      "title": "Pheonix Contact Software ProConOS eCLR SoftPLC",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:phoenixcontact-software:proconos_eclr:-:*:*:*:softplc:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:pheonixcontact-software:proconos_eclr:-:*:*:*:visual_studio:*:*:*",
+      "title": "Pheonix Contact Software ProConOS eCLR Visual Studio",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:phoenixcontact-software:proconos_eclr:-:*:*:*:visual_studio:*:*:*"
+    }
+  ]
+}

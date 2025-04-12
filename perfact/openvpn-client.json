@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:perfact:openvpn-client:1.4.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6CCEDC2A-61B1-4234-9C4B-F5EC98FC9394",
+        "lastModified": "2022-11-09T16:47:58.307",
+        "created": "2022-10-18T12:41:39.783",
+        "titles": [
+          {
+            "title": "PerFact OpenVPN-client 1.4.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:perfact:openvpn-client:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B5EB38DA-EBB9-4D0C-89C1-8956471C1785",
+        "lastModified": "2022-11-09T16:47:58.307",
+        "created": "2022-10-18T12:41:39.783",
+        "titles": [
+          {
+            "title": "PerFact OpenVPN-client",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:perfact:openvpn-client:1.4.1.0:*:*:*:*:*:*:*",
+      "title": "PerFact OpenVPN-client 1.4.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:perfact:openvpn-client:-:*:*:*:*:*:*:*",
+      "title": "PerFact OpenVPN-client",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

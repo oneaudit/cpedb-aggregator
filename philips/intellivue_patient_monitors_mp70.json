@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:philips:intellivue_patient_monitors_mp70:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1D608B16-A4AE-46B6-A094-54DAB49632C8",
+        "lastModified": "2021-05-10T15:07:10.480",
+        "created": "2018-07-23T17:37:53.080",
+        "titles": [
+          {
+            "title": "Philips INTELLIVUE PATIENT MONITORS MP70",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:philips:intellivue_mp70:-:*:*:*:*:*:*:*",
+            "cpeNameId": "46D0D07E-BFDF-4230-8A75-166698A3CF00"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:philips:intellivue_patient_monitors_mp70:-:*:*:*:*:*:*:*",
+      "title": "Philips INTELLIVUE PATIENT MONITORS MP70",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:philips:intellivue_mp70:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:philips:mri_3t_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3EDDD250-FAAC-44B1-952B-A1405FF79BE0",
+        "lastModified": "2022-08-01T16:36:02.813",
+        "created": "2021-11-22T19:24:32.380",
+        "titles": [
+          {
+            "title": "Philips MRI 3T Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:philips:mri_3t_firmware:5.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "52B5AB5A-EF7D-4584-A7C4-BBD6993FAA7F",
+        "lastModified": "2022-08-01T16:36:02.813",
+        "created": "2021-11-23T18:08:39.940",
+        "titles": [
+          {
+            "title": "Philips MRI 3T Firmware 5.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:philips:mri_3t_firmware:-:*:*:*:*:*:*:*",
+      "title": "Philips MRI 3T Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:philips:mri_3t_firmware:5.0.0:*:*:*:*:*:*:*",
+      "title": "Philips MRI 3T Firmware 5.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

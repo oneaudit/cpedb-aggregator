@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pheonixcontact-software:multiprog:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "17772E83-8A77-4CA2-8C4A-7515126DAC9E",
+        "lastModified": "2018-11-28T17:31:57.503",
+        "created": "2015-01-21T16:35:07.563",
+        "titles": [
+          {
+            "title": "Pheonix Contact Software  MULTIPROG 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phoenixcontact-software:multiprog:5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "B520313D-F662-4097-B923-4D2A387CDD3E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pheonixcontact-software:multiprog:5.0:*:*:*:express:*:*:*",
+        "cpeNameId": "6D7D93AE-CFDC-441B-9AF2-12BA6D9E38CF",
+        "lastModified": "2018-11-28T17:31:57.630",
+        "created": "2015-01-21T16:35:07.563",
+        "titles": [
+          {
+            "title": "Pheonix Contact Software  MULTIPROG 5.0 Express",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phoenixcontact-software:multiprog:5.0:*:*:*:express:*:*:*",
+            "cpeNameId": "2D4B06BF-50F5-49AB-982C-17F31BBF76BF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pheonixcontact-software:multiprog:5.0:*:*:*:pro\\+:*:*:*",
+        "cpeNameId": "084C7793-AE9C-419C-B9BE-B08CD2DD784C",
+        "lastModified": "2018-11-28T17:31:57.753",
+        "created": "2015-01-21T16:35:07.563",
+        "titles": [
+          {
+            "title": "Pheonix Contact Software  MULTIPROG 5.0 Pro+",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phoenixcontact-software:multiprog:5.0:*:*:*:pro\\+:*:*:*",
+            "cpeNameId": "3FA697F7-1A2F-4BC4-9D25-DC893E700D42"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pheonixcontact-software:multiprog:5.0:*:*:*:*:*:*:*",
+      "title": "Pheonix Contact Software  MULTIPROG 5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phoenixcontact-software:multiprog:5.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:pheonixcontact-software:multiprog:5.0:*:*:*:express:*:*:*",
+      "title": "Pheonix Contact Software  MULTIPROG 5.0 Express",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phoenixcontact-software:multiprog:5.0:*:*:*:express:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:pheonixcontact-software:multiprog:5.0:*:*:*:pro\\+:*:*:*",
+      "title": "Pheonix Contact Software  MULTIPROG 5.0 Pro+",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phoenixcontact-software:multiprog:5.0:*:*:*:pro\\+:*:*:*"
+    }
+  ]
+}

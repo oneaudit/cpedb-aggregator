@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:philips:intellivue_patient_monitors_x3_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "05FA1EEA-936B-4B37-AF04-08FBCA0406D0",
+        "lastModified": "2021-05-10T15:07:10.480",
+        "created": "2018-07-23T17:37:53.080",
+        "titles": [
+          {
+            "title": "Philips INTELLIVUE PATIENT MONITORS X3 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:philips:intellivue_x3_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "FC2EEE24-993D-45CD-9A1B-A6DFA29DB47F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:philips:intellivue_patient_monitors_x3_firmware:-:*:*:*:*:*:*:*",
+      "title": "Philips INTELLIVUE PATIENT MONITORS X3 FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:philips:intellivue_x3_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

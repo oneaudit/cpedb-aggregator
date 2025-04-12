@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:perl5-dbi:dbd-mysql:4.038_01:*:*:*:*:*:*:*",
+        "cpeNameId": "1DB2DC51-9719-4B30-9A32-A3538388A28B",
+        "lastModified": "2021-08-09T13:52:08.883",
+        "created": "2017-03-13T16:40:31.677",
+        "titles": [
+          {
+            "title": "Perl5-DBI DBD-MySQL 4.038 01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.038_01:*:*:*:*:*:*:*",
+            "cpeNameId": "AF68376A-05A5-436D-B3D1-AB18AFADD603"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:perl5-dbi:dbd-mysql:4.038_01:*:*:*:*:*:*:*",
+      "title": "Perl5-DBI DBD-MySQL 4.038 01",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.038_01:*:*:*:*:*:*:*"
+    }
+  ]
+}

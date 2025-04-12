@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:phillips:intellispace_cardiovascular:-:*:*:*:*:*:*:*",
+        "cpeNameId": "763A8A20-C027-440A-832E-A8E1DEB5A427",
+        "lastModified": "2022-02-09T17:45:24.000",
+        "created": "2018-11-08T14:53:38.263",
+        "titles": [
+          {
+            "title": "Phillips IntelliSpace Cardiovascular",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:philips:intellispace_cardiovascular:-:*:*:*:*:*:*:*",
+            "cpeNameId": "183F624F-5A66-483E-A0D8-DDB8B71D3AB4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:phillips:intellispace_cardiovascular:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "101643A5-CBA7-4EE0-A476-DC942D7568DA",
+        "lastModified": "2022-02-09T17:45:24.000",
+        "created": "2018-11-08T14:53:42.950",
+        "titles": [
+          {
+            "title": "Phillips IntelliSpace Cardiovascular 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:philips:intellispace_cardiovascular:3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "4DF4AA28-5391-440E-B99A-319E7824927A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:phillips:intellispace_cardiovascular:-:*:*:*:*:*:*:*",
+      "title": "Phillips IntelliSpace Cardiovascular",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:philips:intellispace_cardiovascular:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:phillips:intellispace_cardiovascular:3.1:*:*:*:*:*:*:*",
+      "title": "Phillips IntelliSpace Cardiovascular 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:philips:intellispace_cardiovascular:3.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

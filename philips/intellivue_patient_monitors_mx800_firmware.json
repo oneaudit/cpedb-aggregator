@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:philips:intellivue_patient_monitors_mx800_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FDEDC113-5D1C-4EE6-B5F1-CC476D7DE71D",
+        "lastModified": "2021-05-10T15:07:10.480",
+        "created": "2018-07-23T17:37:53.080",
+        "titles": [
+          {
+            "title": "Philips INTELLIVUE PATIENT MONITORS MX800 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:philips:intellivue_mx800_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B897E746-4DFF-41FB-9615-6798FC8423F5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:philips:intellivue_patient_monitors_mx800_firmware:-:*:*:*:*:*:*:*",
+      "title": "Philips INTELLIVUE PATIENT MONITORS MX800 FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:philips:intellivue_mx800_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pfsense:pfsense-pkg-wireguard:0.1.6:*:*:*:*:*:*:*",
+        "cpeNameId": "B9ABC2D1-FEE4-4853-9E15-5BBCE3C0D822",
+        "lastModified": "2022-08-18T11:46:18.760",
+        "created": "2022-03-15T11:16:00.213",
+        "titles": [
+          {
+            "title": "pfSense pfSense-pkg-WireGuard 0.1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pfsense:pfsense-pkg-wireguard:0.1.5:*:*:*:*:*:*:*",
+        "cpeNameId": "D282B71C-A0F9-456C-9DA1-7513D928E1BD",
+        "lastModified": "2022-08-18T11:46:18.760",
+        "created": "2022-03-15T11:16:13.533",
+        "titles": [
+          {
+            "title": "pfSense pfSense-pkg-WireGuard 0.1.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pfsense:pfsense-pkg-wireguard:0.1.5_4:*:*:*:*:*:*:*",
+        "cpeNameId": "5D3A4EE8-B1DD-49EC-BE0A-6C4888C2C263",
+        "lastModified": "2022-08-18T11:46:18.760",
+        "created": "2022-03-15T11:16:13.533",
+        "titles": [
+          {
+            "title": "pfSense pfSense-pkg-WireGuard 0.1.5 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pfsense:pfsense-pkg-wireguard:0.1.6:*:*:*:*:*:*:*",
+      "title": "pfSense pfSense-pkg-WireGuard 0.1.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:pfsense:pfsense-pkg-wireguard:0.1.5:*:*:*:*:*:*:*",
+      "title": "pfSense pfSense-pkg-WireGuard 0.1.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:pfsense:pfsense-pkg-wireguard:0.1.5_4:*:*:*:*:*:*:*",
+      "title": "pfSense pfSense-pkg-WireGuard 0.1.5 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pfsense:snort_package:3.0.13:*:*:*:*:*:*:*",
+        "cpeNameId": "71003C0E-2705-46EA-A1F1-A476D70C509B",
+        "lastModified": "2014-07-15T20:16:00.653",
+        "created": "2014-07-02T19:27:51.430",
+        "titles": [
+          {
+            "title": "pfSense Snort package 3.0.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pfsense:snort_package:3.0.12:*:*:*:*:*:*:*",
+        "cpeNameId": "99A3A0FD-E4B6-4CC1-B162-EBCC4EE9E51F",
+        "lastModified": "2014-07-15T20:16:00.793",
+        "created": "2014-07-02T19:27:51.867",
+        "titles": [
+          {
+            "title": "pfSense Snort package 3.0.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pfsense:snort_package:3.0.13:*:*:*:*:*:*:*",
+      "title": "pfSense Snort package 3.0.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:pfsense:snort_package:3.0.12:*:*:*:*:*:*:*",
+      "title": "pfSense Snort package 3.0.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

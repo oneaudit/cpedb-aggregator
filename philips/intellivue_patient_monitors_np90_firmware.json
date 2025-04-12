@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:philips:intellivue_patient_monitors_np90_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3FA455FD-5B93-4113-B1BA-7DB8CD994DCC",
+        "lastModified": "2021-05-10T15:07:10.480",
+        "created": "2018-07-23T17:37:53.080",
+        "titles": [
+          {
+            "title": "Philips INTELLIVUE PATIENT MONITORS NP90 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:philips:intellivue_np90_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "53DBCF5B-3C4C-4A4A-95EC-288BA26C0787"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:philips:intellivue_patient_monitors_np90_firmware:-:*:*:*:*:*:*:*",
+      "title": "Philips INTELLIVUE PATIENT MONITORS NP90 FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:philips:intellivue_np90_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

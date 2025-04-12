@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:pepperl-fuchs:modbus_tcp_firmware:7.11:*:*:*:*:*:*:*",
+        "cpeNameId": "FD192EB8-51F4-4D88-A1C9-E25102C0B0B0",
+        "lastModified": "2024-12-19T19:43:52.057",
+        "created": "2024-12-19T19:43:52.057",
+        "titles": [
+          {
+            "title": "Pepperl+Fuchs Modbus TCP Firmware 7.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:pepperl-fuchs:modbus_tcp_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F27222A3-1934-4AB1-8356-0B08250EF663",
+        "lastModified": "2024-12-19T19:43:52.057",
+        "created": "2024-12-19T19:43:52.057",
+        "titles": [
+          {
+            "title": "Pepperl+Fuchs Modbus TCP Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:pepperl-fuchs:modbus_tcp_firmware:7.11:*:*:*:*:*:*:*",
+      "title": "Pepperl+Fuchs Modbus TCP Firmware 7.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:pepperl-fuchs:modbus_tcp_firmware:-:*:*:*:*:*:*:*",
+      "title": "Pepperl+Fuchs Modbus TCP Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

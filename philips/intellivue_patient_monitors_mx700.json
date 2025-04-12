@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:philips:intellivue_patient_monitors_mx700:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B4C98605-EA36-4D81-97AC-A1A8986BF226",
+        "lastModified": "2021-05-10T15:07:10.480",
+        "created": "2018-07-23T17:37:53.080",
+        "titles": [
+          {
+            "title": "Philips INTELLIVUE PATIENT MONITORS MX700",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:philips:intellivue_mx700:-:*:*:*:*:*:*:*",
+            "cpeNameId": "118C713D-5610-4FB7-BC33-2F4780AEBB94"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:philips:intellivue_patient_monitors_mx700:-:*:*:*:*:*:*:*",
+      "title": "Philips INTELLIVUE PATIENT MONITORS MX700",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:philips:intellivue_mx700:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

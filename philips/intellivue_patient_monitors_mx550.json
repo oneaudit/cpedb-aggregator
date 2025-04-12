@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:philips:intellivue_patient_monitors_mx550:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0BF8DAE8-A4F7-4140-A513-9E5D560C95B6",
+        "lastModified": "2021-05-10T15:07:10.480",
+        "created": "2018-07-23T17:37:53.080",
+        "titles": [
+          {
+            "title": "Philips INTELLIVUE PATIENT MONITORS MX550",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:philips:intellivue_mx550:-:*:*:*:*:*:*:*",
+            "cpeNameId": "6E40106A-F9B5-4FAF-AE4F-9EC093EF995C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:philips:intellivue_patient_monitors_mx550:-:*:*:*:*:*:*:*",
+      "title": "Philips INTELLIVUE PATIENT MONITORS MX550",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:philips:intellivue_mx550:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:philips:intellivue_patient_monitors_mp2_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "329A368D-86E0-4E79-A5AC-F1DC30220F97",
+        "lastModified": "2021-05-10T15:07:10.480",
+        "created": "2018-07-23T17:37:53.080",
+        "titles": [
+          {
+            "title": "Philips INTELLIVUE PATIENT MONITORS MP2 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:philips:intellivue_mp2_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5C83A347-2B94-4A62-B78B-7C8BD14B809E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:philips:intellivue_patient_monitors_mp2_firmware:-:*:*:*:*:*:*:*",
+      "title": "Philips INTELLIVUE PATIENT MONITORS MP2 FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:philips:intellivue_mp2_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

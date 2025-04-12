@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:philips:intellivue_patient_monitors_mp2:-:*:*:*:*:*:*:*",
+        "cpeNameId": "52D07AF5-AF53-494B-93EA-F2E679F3A145",
+        "lastModified": "2021-05-10T15:07:10.480",
+        "created": "2018-07-23T17:37:53.080",
+        "titles": [
+          {
+            "title": "Philips INTELLIVUE PATIENT MONITORS MP2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:philips:intellivue_mp2:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D46AF442-9D5D-4E61-82C2-9B5376D3B25D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:philips:intellivue_patient_monitors_mp2:-:*:*:*:*:*:*:*",
+      "title": "Philips INTELLIVUE PATIENT MONITORS MP2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:philips:intellivue_mp2:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

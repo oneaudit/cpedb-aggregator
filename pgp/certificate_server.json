@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pgp:certificate_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FADC8C00-B186-4D90-9B9C-B59ABB6E014E",
+        "lastModified": "2008-04-01T16:41:47.833",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "PGP PGP Certificate Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pgp:certificate_server:2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "895D4F04-6835-4EEB-8802-304A2D0D9908",
+        "lastModified": "2008-04-01T16:41:47.880",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "PGP PGP Certificate Server 2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pgp:certificate_server:2.5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "5B6C30C7-86C9-4126-878C-EC51F6F8A2DB",
+        "lastModified": "2008-04-01T16:41:47.927",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "PGP PGP Certificate Server 2.5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pgp:certificate_server:-:*:*:*:*:*:*:*",
+      "title": "PGP PGP Certificate Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:pgp:certificate_server:2.5:*:*:*:*:*:*:*",
+      "title": "PGP PGP Certificate Server 2.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:pgp:certificate_server:2.5.1:*:*:*:*:*:*:*",
+      "title": "PGP PGP Certificate Server 2.5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

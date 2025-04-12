@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:philips:intellivue_patient_monitors_mx100:-:*:*:*:*:*:*:*",
+        "cpeNameId": "37ADA054-5F5E-4E0C-9CBC-1D2D0F96008F",
+        "lastModified": "2021-05-10T15:07:10.480",
+        "created": "2018-07-23T17:37:53.080",
+        "titles": [
+          {
+            "title": "Philips INTELLIVUE PATIENT MONITORS MX100",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:philips:intellivue_mx100:-:*:*:*:*:*:*:*",
+            "cpeNameId": "DEA2ED6C-47C9-429A-903B-BAFD00850C8E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:philips:intellivue_patient_monitors_mx100:-:*:*:*:*:*:*:*",
+      "title": "Philips INTELLIVUE PATIENT MONITORS MX100",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:philips:intellivue_mx100:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:phillips:iscv:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "184010B6-D9DC-4687-A582-AB9A8AAD901A",
+        "lastModified": "2022-02-09T17:46:38.950",
+        "created": "2018-10-17T13:51:04.843",
+        "titles": [
+          {
+            "title": "Phillips IntelliSpace Cardiovascular (ISCV) 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:philips:intellispace_cardiovascular:3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "4DF4AA28-5391-440E-B99A-319E7824927A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:phillips:iscv:3.1:*:*:*:*:*:*:*",
+      "title": "Phillips IntelliSpace Cardiovascular (ISCV) 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:philips:intellispace_cardiovascular:3.1:*:*:*:*:*:*:*"
+    }
+  ]
+}
