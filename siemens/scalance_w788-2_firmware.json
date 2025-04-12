@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w788-2_firmware:-:*:*:*:*:*:m12:*",
+        "cpeNameId": "2386DB55-F50E-4697-9825-6C1708C48A45",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W788-2 Firmware on M12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w788-2_firmware:-:*:*:*:*:*:m12_eec:*",
+        "cpeNameId": "8826ED2C-A318-4656-BA72-B134D66A7246",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W788-2 Firmware on M12 EEC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w788-2_firmware:-:*:*:*:*:*:rj45:*",
+        "cpeNameId": "C2DA1982-68ED-49C2-A20C-D170979FDC8D",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W788-2 Firmware on RJ45",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w788-2_firmware:-:*:*:*:*:*:m12:*",
+      "title": "Siemens SCALANCE W788-2 Firmware on M12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w788-2_firmware:-:*:*:*:*:*:m12_eec:*",
+      "title": "Siemens SCALANCE W788-2 Firmware on M12 EEC",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w788-2_firmware:-:*:*:*:*:*:rj45:*",
+      "title": "Siemens SCALANCE W788-2 Firmware on RJ45",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

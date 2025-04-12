@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:omnivise_t3000_application_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F9093E7B-8137-4F85-9167-891DC4350B69",
+        "lastModified": "2024-08-29T15:41:41.773",
+        "created": "2024-08-29T15:41:41.773",
+        "titles": [
+          {
+            "title": "Siemens Omnivise T3000 Application Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:omnivise_t3000_application_server:r9.2:*:*:*:*:*:*:*",
+        "cpeNameId": "4D9D99D7-8AB3-4BCE-AB2F-1CC22A457FEC",
+        "lastModified": "2024-08-29T15:41:41.773",
+        "created": "2024-08-29T15:41:41.773",
+        "titles": [
+          {
+            "title": "Siemens Omnivise T3000 Application Server R9.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:omnivise_t3000_application_server:-:*:*:*:*:*:*:*",
+      "title": "Siemens Omnivise T3000 Application Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:omnivise_t3000_application_server:r9.2:*:*:*:*:*:*:*",
+      "title": "Siemens Omnivise T3000 Application Server R9.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

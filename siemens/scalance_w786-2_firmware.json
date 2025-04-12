@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w786-2_firmware:-:*:*:*:*:*:rj45:*",
+        "cpeNameId": "39F35F67-FBE9-4B4C-8508-A5BFA16A551E",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W786-2 Firmware on RJ45",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w786-2_firmware:-:*:*:*:*:*:sfp:*",
+        "cpeNameId": "BFFFA35E-6FC1-410E-A8E8-FFF8B1B17132",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W786-2 Firmware on SFP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w786-2_firmware:-:*:*:*:*:*:rj45:*",
+      "title": "Siemens SCALANCE W786-2 Firmware on RJ45",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w786-2_firmware:-:*:*:*:*:*:sfp:*",
+      "title": "Siemens SCALANCE W786-2 Firmware on SFP",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w748-1_firmware:-:*:*:*:*:*:m12:*",
+        "cpeNameId": "D0051120-7D3C-4B97-B8F5-367DF807F193",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W748-1 Firmware on M12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w748-1_firmware:-:*:*:*:*:*:rj45:*",
+        "cpeNameId": "A412897E-3DF4-4F7D-9863-2B95FCE0EBD1",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W748-1 Firmware on RJ45",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w748-1_firmware:-:*:*:*:*:*:m12:*",
+      "title": "Siemens SCALANCE W748-1 Firmware on M12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w748-1_firmware:-:*:*:*:*:*:rj45:*",
+      "title": "Siemens SCALANCE W748-1 Firmware on RJ45",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

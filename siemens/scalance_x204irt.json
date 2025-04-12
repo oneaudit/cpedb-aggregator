@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:scalance_x204irt:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6AA05C07-EEAF-48A3-93CC-10D9A5567D32",
+        "lastModified": "2013-05-31T20:50:38.000",
+        "created": "2013-05-28T14:08:33.547",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE X204IRT switch",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:scalance_x204irt:-:-:pro:*:*:*:*:*",
+        "cpeNameId": "AD650A67-9D81-4E70-BAB8-D48DFEA4FFC1",
+        "lastModified": "2013-05-31T20:50:38.060",
+        "created": "2013-05-28T14:08:33.637",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE X204IRT PRO switch",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:siemens:scalance_x204irt:-:*:*:*:*:*:*:*",
+      "title": "Siemens SCALANCE X204IRT switch",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:siemens:scalance_x204irt:-:-:pro:*:*:*:*:*",
+      "title": "Siemens SCALANCE X204IRT PRO switch",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

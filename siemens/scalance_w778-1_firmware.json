@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w778-1_firmware:-:*:*:*:*:*:m12:*",
+        "cpeNameId": "E97F73A5-CA9C-4FD2-8E98-12393359DBAA",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W778-1 Firmware on M12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w778-1_firmware:-:*:*:*:*:*:m12_eec:*",
+        "cpeNameId": "38AFBACC-11EB-4650-83DC-10DB58BF13AC",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W778-1 Firmware on M12 EEC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w778-1_firmware:-:*:*:*:*:*:m12:*",
+      "title": "Siemens SCALANCE W778-1 Firmware on M12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w778-1_firmware:-:*:*:*:*:*:m12_eec:*",
+      "title": "Siemens SCALANCE W778-1 Firmware on M12 EEC",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:opcenter_quality:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FA37C5A7-D1FE-476E-A76E-47F19A98B2E7",
+        "lastModified": "2020-09-24T11:10:01.747",
+        "created": "2020-09-24T11:10:01.747",
+        "titles": [
+          {
+            "title": "Siemens Opcenter Quality",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:opcenter_quality:11.3:*:*:*:*:*:*:*",
+        "cpeNameId": "1AFBA290-487D-4784-8A73-3E21FC6A85CB",
+        "lastModified": "2020-09-24T11:10:02.077",
+        "created": "2020-09-24T11:10:02.077",
+        "titles": [
+          {
+            "title": "Siemens Opcenter Quality 11.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:opcenter_quality:12.2:*:*:*:*:*:*:*",
+        "cpeNameId": "AB6DF74A-71F5-4946-A36F-2610316E24DC",
+        "lastModified": "2021-06-04T15:52:44.387",
+        "created": "2021-04-29T11:51:04.627",
+        "titles": [
+          {
+            "title": "Siemens Opcenter Quality 12.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:opcenter_quality:-:*:*:*:*:*:*:*",
+      "title": "Siemens Opcenter Quality",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:opcenter_quality:11.3:*:*:*:*:*:*:*",
+      "title": "Siemens Opcenter Quality 11.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:opcenter_quality:12.2:*:*:*:*:*:*:*",
+      "title": "Siemens Opcenter Quality 12.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

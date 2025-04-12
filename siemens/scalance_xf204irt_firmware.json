@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_xf204irt_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "780044AE-74D2-4EF3-AA3A-0C8D9FE98CA0",
+        "lastModified": "2021-02-18T18:48:19.383",
+        "created": "2021-02-18T18:48:19.383",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE XF204IRT Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_xf204irt_firmware:5.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E17D51DF-0C14-4136-BD2B-8D7C324DFBEC",
+        "lastModified": "2022-10-14T22:00:23.680",
+        "created": "2022-10-14T13:51:38.047",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE XF204IRT FIRMWARE 5.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_xf204irt_firmware:5.5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "9D92D117-B6C3-4860-AB06-90BCCC2D1114",
+        "lastModified": "2023-09-01T03:37:29.760",
+        "created": "2023-04-18T15:41:23.683",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE XF204IRT FIRMWARE 5.5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:scalance_xf204irt_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SCALANCE XF204IRT Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:scalance_xf204irt_firmware:5.5.0:*:*:*:*:*:*:*",
+      "title": "Siemens SCALANCE XF204IRT FIRMWARE 5.5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:scalance_xf204irt_firmware:5.5.2:*:*:*:*:*:*:*",
+      "title": "Siemens SCALANCE XF204IRT FIRMWARE 5.5.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

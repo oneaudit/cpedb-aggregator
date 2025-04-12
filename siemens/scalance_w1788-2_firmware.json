@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w1788-2_firmware:-:*:*:*:*:*:eec_m12:*",
+        "cpeNameId": "F9B09F5D-DA60-47B6-9B34-254F2FF469D6",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W1788-2 Firmware on EEC M12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w1788-2_firmware:-:*:*:*:*:*:m12:*",
+        "cpeNameId": "B76C25BC-2C19-417B-A8FC-735107FC6692",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W1788-2 Firmware on M12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w1788-2_firmware:-:*:*:*:*:*:eec_m12:*",
+      "title": "Siemens SCALANCE W1788-2 Firmware on EEC M12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w1788-2_firmware:-:*:*:*:*:*:m12:*",
+      "title": "Siemens SCALANCE W1788-2 Firmware on M12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

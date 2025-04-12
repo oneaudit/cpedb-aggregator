@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:scalance_w774-1:-:*:*:*:*:*:m12_eec:*",
+        "cpeNameId": "FD9E4EC9-CC9D-4A90-BF71-AEAA70C45543",
+        "lastModified": "2022-06-03T22:24:01.257",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W774-1 on M12 EEC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:scalance_w774-1:-:*:*:*:*:*:rj45:*",
+        "cpeNameId": "060DDB1A-5AE6-4C25-8C59-BDC8CE65CFD3",
+        "lastModified": "2022-06-03T22:24:01.257",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W774-1 on RJ45",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:siemens:scalance_w774-1:-:*:*:*:*:*:m12_eec:*",
+      "title": "Siemens SCALANCE W774-1 on M12 EEC",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:siemens:scalance_w774-1:-:*:*:*:*:*:rj45:*",
+      "title": "Siemens SCALANCE W774-1 on RJ45",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

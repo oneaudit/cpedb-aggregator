@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w774-1_firmware:-:*:*:*:*:*:m12_eec:*",
+        "cpeNameId": "A35FDE99-5E06-4A74-95B7-1AEE13AF9331",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W774-1 Firmware on M12 EEC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_w774-1_firmware:-:*:*:*:*:*:rj45:*",
+        "cpeNameId": "0FFB7B35-2D52-415D-97CD-DB53BBC4E127",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE W774-1 Firmware on RJ45",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w774-1_firmware:-:*:*:*:*:*:m12_eec:*",
+      "title": "Siemens SCALANCE W774-1 Firmware on M12 EEC",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:scalance_w774-1_firmware:-:*:*:*:*:*:rj45:*",
+      "title": "Siemens SCALANCE W774-1 Firmware on RJ45",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

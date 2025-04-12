@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:opcenter_execution_core:-:*:*:*:*:*:*:*",
+        "cpeNameId": "280500D9-8B28-4469-BC5F-174665D3D4B9",
+        "lastModified": "2020-07-15T13:57:25.687",
+        "created": "2020-07-15T13:57:25.687",
+        "titles": [
+          {
+            "title": "Siemens Opcenter Execution Core",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:opcenter_execution_core:8.2:*:*:*:*:*:*:*",
+        "cpeNameId": "A2666251-6AA7-4035-8A76-8FF89A23DB8B",
+        "lastModified": "2020-07-15T13:57:26.013",
+        "created": "2020-07-15T13:57:26.013",
+        "titles": [
+          {
+            "title": "Siemens Opcenter Execution Core 8.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:opcenter_execution_core:8.3:*:*:*:*:*:*:*",
+        "cpeNameId": "BCC194B7-604B-4538-B5E6-6F177ABFDE61",
+        "lastModified": "2021-01-20T18:10:36.367",
+        "created": "2021-01-20T18:10:36.367",
+        "titles": [
+          {
+            "title": "Siemens Opcenter Execution Core 8.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:opcenter_execution_core:-:*:*:*:*:*:*:*",
+      "title": "Siemens Opcenter Execution Core",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:opcenter_execution_core:8.2:*:*:*:*:*:*:*",
+      "title": "Siemens Opcenter Execution Core 8.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:opcenter_execution_core:8.3:*:*:*:*:*:*:*",
+      "title": "Siemens Opcenter Execution Core 8.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:profinet_driver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2309AAE7-4960-45BF-BEAC-EAC9065A5205",
+        "lastModified": "2020-02-24T15:00:05.817",
+        "created": "2020-02-24T15:00:05.817",
+        "titles": [
+          {
+            "title": "Siemens PROFINET Driver",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:profinet_driver:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "558164F5-C8D1-4BA9-ACED-2F7610F85EF9",
+        "lastModified": "2020-02-24T15:00:06.223",
+        "created": "2020-02-24T15:00:06.223",
+        "titles": [
+          {
+            "title": "Siemens PROFINET Driver 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:profinet_driver:-:*:*:*:*:*:*:*",
+      "title": "Siemens PROFINET Driver",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:profinet_driver:2.1:*:*:*:*:*:*:*",
+      "title": "Siemens PROFINET Driver 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:nucleus_net:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1DB4284E-D164-4E09-9E55-17862AD643B9",
+        "lastModified": "2020-02-03T21:03:08.753",
+        "created": "2020-02-03T21:03:08.753",
+        "titles": [
+          {
+            "title": "Siemens Nucleus NET",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:nucleus_net:5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "A005768B-5508-43E5-BB43-78705376AF3C",
+        "lastModified": "2021-05-19T17:19:44.500",
+        "created": "2021-02-10T14:44:44.030",
+        "titles": [
+          {
+            "title": "Siemens Nucleus NET 5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:nucleus_net:-:*:*:*:*:*:*:*",
+      "title": "Siemens Nucleus NET",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:nucleus_net:5.2:*:*:*:*:*:*:*",
+      "title": "Siemens Nucleus NET 5.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

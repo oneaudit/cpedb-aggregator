@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:opcenter_execution_process:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B3314E00-EBD0-4A55-BC85-667788768360",
+        "lastModified": "2020-09-24T11:10:00.983",
+        "created": "2020-09-24T11:10:00.983",
+        "titles": [
+          {
+            "title": "Siemens Opcenter Execution Process",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:opcenter_execution_process:3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "6DF51003-9581-4758-A67E-8BB0590B1AF9",
+        "lastModified": "2020-09-24T11:10:01.310",
+        "created": "2020-09-24T11:10:01.310",
+        "titles": [
+          {
+            "title": "Siemens Opcenter Execution Process 3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:opcenter_execution_process:-:*:*:*:*:*:*:*",
+      "title": "Siemens Opcenter Execution Process",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:opcenter_execution_process:3.2:*:*:*:*:*:*:*",
+      "title": "Siemens Opcenter Execution Process 3.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:scalance_s602:v2:*:*:*:*:*:*:*",
+        "cpeNameId": "735E5120-9B03-4CA3-8D72-FEFA1BA0C720",
+        "lastModified": "2012-04-18T21:52:07.453",
+        "created": "2012-04-18T17:36:37.570",
+        "titles": [
+          {
+            "title": "Siemens Scalance S Security Module firewall S602 V2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:scalance_s602:-:*:*:*:*:*:*:*",
+        "cpeNameId": "197F653A-2EC2-4EEB-9183-73E052E425A6",
+        "lastModified": "2021-05-12T16:34:05.750",
+        "created": "2019-01-09T20:28:15.943",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE S602",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:siemens:scalance_s602:v2:*:*:*:*:*:*:*",
+      "title": "Siemens Scalance S Security Module firewall S602 V2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:siemens:scalance_s602:-:*:*:*:*:*:*:*",
+      "title": "Siemens SCALANCE S602",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

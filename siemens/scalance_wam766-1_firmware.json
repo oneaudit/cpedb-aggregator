@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_wam766-1_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FCB7EC73-86F0-4A31-A4D1-F2518ED2B9D4",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE WAM766-1 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_wam766-1_firmware:-:*:*:*:*:*:eec:*",
+        "cpeNameId": "198391AA-9D96-4BCC-A327-2ED19CC7392E",
+        "lastModified": "2022-06-06T13:38:17.467",
+        "created": "2022-05-04T17:54:24.837",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE WAM766-1 Firmware on EEC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_wam766-1_firmware:1.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8E70B776-BA55-44E7-ACC8-D4D868D3ECAC",
+        "lastModified": "2022-10-14T22:00:23.680",
+        "created": "2022-10-14T10:30:23.000",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE WAM766-1 FIRMWARE 1.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:scalance_wam766-1_firmware:1.1.0:*:*:*:*:*:ecc:*",
+        "cpeNameId": "694FB25B-306F-41EA-9BE5-8B1EB4ECA1F4",
+        "lastModified": "2022-10-14T22:00:23.680",
+        "created": "2022-10-14T10:30:30.003",
+        "titles": [
+          {
+            "title": "Siemens SCALANCE WAM766-1 FIRMWARE 1.1.0 on Ecc",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:scalance_wam766-1_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SCALANCE WAM766-1 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:scalance_wam766-1_firmware:-:*:*:*:*:*:eec:*",
+      "title": "Siemens SCALANCE WAM766-1 Firmware on EEC",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:scalance_wam766-1_firmware:1.1.0:*:*:*:*:*:*:*",
+      "title": "Siemens SCALANCE WAM766-1 FIRMWARE 1.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:scalance_wam766-1_firmware:1.1.0:*:*:*:*:*:ecc:*",
+      "title": "Siemens SCALANCE WAM766-1 FIRMWARE 1.1.0 on Ecc",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

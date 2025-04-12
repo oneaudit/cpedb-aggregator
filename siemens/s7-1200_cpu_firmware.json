@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:s7-1200_cpu_firmware:4.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "59DA8315-25FF-4C0D-BA7F-69C2507BA7B5",
+        "lastModified": "2021-07-08T19:31:17.250",
+        "created": "2021-06-07T11:40:03.100",
+        "titles": [
+          {
+            "title": "Siemens S7-1200 CPU Firmware 4.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:s7-1200_cpu_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "442EC965-15B8-4A7B-BEAE-65D6FCE92ACF",
+        "lastModified": "2021-07-08T19:31:17.250",
+        "created": "2021-06-07T11:40:03.100",
+        "titles": [
+          {
+            "title": "Siemens S7-1200 CPU Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:s7-1200_cpu_firmware:4.5.0:*:*:*:*:*:*:*",
+      "title": "Siemens S7-1200 CPU Firmware 4.5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:s7-1200_cpu_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens S7-1200 CPU Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
