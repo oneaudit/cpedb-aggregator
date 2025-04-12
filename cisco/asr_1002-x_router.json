@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:asr_1002-x_router:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BE930007-3A4C-4761-9885-D011C4672549",
+        "lastModified": "2021-10-05T14:51:10.360",
+        "created": "2013-04-11T14:03:52.133",
+        "titles": [
+          {
+            "title": "Cisco Aggregation Services (ASR)1002-X Router (1000 series)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:asr_1002-x:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E16990D0-E0DC-4068-8E86-071A84CC0FDE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_1002-x_router:-:*:*:*:*:*:*:*",
+      "title": "Cisco Aggregation Services (ASR)1002-X Router (1000 series)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:asr_1002-x:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

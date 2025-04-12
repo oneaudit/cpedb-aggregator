@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9006:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A990C8CE-B26C-47A1-9BC8-0019DDD02295",
+        "lastModified": "2014-06-20T02:06:14.880",
+        "created": "2014-06-16T16:28:05.123",
+        "titles": [
+          {
+            "title": "Cisco ASR 9006",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9006:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "30F99C18-C284-4C78-9E19-729E54889874",
+        "lastModified": "2020-02-03T20:05:09.247",
+        "created": "2020-02-03T20:05:09.247",
+        "titles": [
+          {
+            "title": "Cisco ASR 9006 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_9006:-:*:*:*:*:*:*:*",
+      "title": "Cisco ASR 9006",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9006:-:*:*:*:*:*:x64:*",
+      "title": "Cisco ASR 9006 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:broadworks_database_server:2023.05:*:*:*:release_independent:*:*:*",
+        "cpeNameId": "25A561CC-3B8C-41AB-AB9E-259C02FD7BA1",
+        "lastModified": "2023-08-11T16:51:34.840",
+        "created": "2023-08-10T11:21:36.220",
+        "titles": [
+          {
+            "title": "Cisco Broadworks Database Server 2023.05 Release Independent Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:broadworks_database_server:-:*:*:*:release_independent:*:*:*",
+        "cpeNameId": "690417CD-1863-459D-A21B-C8C0CD855E2C",
+        "lastModified": "2023-08-11T16:51:34.840",
+        "created": "2023-08-10T11:21:47.680",
+        "titles": [
+          {
+            "title": "Cisco Broadworks Database Server - Release Independent Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:broadworks_database_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "909655F4-B27E-4DF8-8A54-01432E59DE54",
+        "lastModified": "2023-09-22T21:13:32.977",
+        "created": "2023-09-22T21:13:32.977",
+        "titles": [
+          {
+            "title": "Cisco Broadworks Database Server -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:broadworks_database_server:2023.05:*:*:*:release_independent:*:*:*",
+      "title": "Cisco Broadworks Database Server 2023.05 Release Independent Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:broadworks_database_server:-:*:*:*:release_independent:*:*:*",
+      "title": "Cisco Broadworks Database Server - Release Independent Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:broadworks_database_server:-:*:*:*:*:*:*:*",
+      "title": "Cisco Broadworks Database Server -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

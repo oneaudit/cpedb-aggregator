@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:asr_1001_router:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DAD1075A-1049-4229-8760-F7C778CDD72D",
+        "lastModified": "2021-10-05T14:51:10.360",
+        "created": "2013-04-11T14:03:52.263",
+        "titles": [
+          {
+            "title": "Cisco Aggregation Services (ASR)1001 Router (1000 series)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:asr_1001:-:*:*:*:*:*:*:*",
+            "cpeNameId": "8BA4557F-55A0-4CE3-ABDB-03366B1E1B4A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_1001_router:-:*:*:*:*:*:*:*",
+      "title": "Cisco Aggregation Services (ASR)1001 Router (1000 series)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:asr_1001:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

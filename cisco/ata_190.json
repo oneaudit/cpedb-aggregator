@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:ata_190:-:*:*:*:*:*:*:*",
+        "cpeNameId": "23B4D2F2-7816-4943-9972-95982B14B704",
+        "lastModified": "2021-10-14T17:56:27.893",
+        "created": "2021-10-08T18:25:26.213",
+        "titles": [
+          {
+            "title": "Cisco ATA 190 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:ata_190:-:*:*:*:on-premises:*:*:*",
+        "cpeNameId": "CC3CC77B-125A-4885-A991-56AAE4DBD45A",
+        "lastModified": "2022-12-15T18:05:21.527",
+        "created": "2022-12-12T19:25:38.700",
+        "titles": [
+          {
+            "title": "Cisco ATA 190 On-Premises Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:ata_190:-:*:*:*:*:*:*:*",
+      "title": "Cisco ATA 190 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:ata_190:-:*:*:*:on-premises:*:*:*",
+      "title": "Cisco ATA 190 On-Premises Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

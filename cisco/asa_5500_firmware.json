@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:asa_5500_firmware:1.1.15:*:*:*:*:*:*:*",
+        "cpeNameId": "BF8F2977-964F-4EF3-8AF3-421B30B7BCBF",
+        "lastModified": "2021-06-16T16:32:50.327",
+        "created": "2019-05-16T18:32:36.550",
+        "titles": [
+          {
+            "title": "Cisco ASA 5500 Firmware 1.1.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:asa_5500_firmware:8.4\\(1\\):*:*:*:*:*:*:*",
+        "cpeNameId": "64125703-DB3B-4C66-AD90-ED67962200D6",
+        "lastModified": "2020-02-28T14:44:57.207",
+        "created": "2020-02-28T14:44:57.207",
+        "titles": [
+          {
+            "title": "Cisco ASA 5500 Firmware 8.4(1)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:asa_5500_firmware:8.2:*:*:*:*:*:*:*",
+        "cpeNameId": "2E670010-DE05-4B21-95DC-358EFF186E6D",
+        "lastModified": "2020-09-23T13:59:30.867",
+        "created": "2020-09-23T13:59:30.867",
+        "titles": [
+          {
+            "title": "Cisco ASA 5500 Firmware 8.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:asa_5500_firmware:1.1.15:*:*:*:*:*:*:*",
+      "title": "Cisco ASA 5500 Firmware 1.1.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:asa_5500_firmware:8.4\\(1\\):*:*:*:*:*:*:*",
+      "title": "Cisco ASA 5500 Firmware 8.4(1)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:asa_5500_firmware:8.2:*:*:*:*:*:*:*",
+      "title": "Cisco ASA 5500 Firmware 8.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

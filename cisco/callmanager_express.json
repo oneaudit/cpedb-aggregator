@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:callmanager_express:-:*:*:*:*:*:*:*",
+        "cpeNameId": "13709191-0883-4DD1-9BB1-0C4F63591C10",
+        "lastModified": "2008-04-01T14:40:32.883",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco CallManager Express",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:callmanager_express:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EEC6FC04-386A-4CE7-8A63-41E33301B482",
+        "lastModified": "2008-04-01T14:40:33.057",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco CallManager Express 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:callmanager_express:-:*:*:*:*:*:*:*",
+      "title": "Cisco CallManager Express",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:callmanager_express:3.0:*:*:*:*:*:*:*",
+      "title": "Cisco CallManager Express 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

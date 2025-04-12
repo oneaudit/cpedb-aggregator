@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ata_190_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E999E73C-CC5B-4B21-96A6-54E5C44DFE39",
+        "lastModified": "2021-10-13T23:55:38.420",
+        "created": "2021-10-08T18:25:26.213",
+        "titles": [
+          {
+            "title": "Cisco ATA 190 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ata_190_firmware:-:*:*:*:on-premises:*:*:*",
+        "cpeNameId": "CE120ED6-B224-48FB-A989-D9D3A194980F",
+        "lastModified": "2022-12-30T17:05:15.180",
+        "created": "2022-12-12T19:25:38.700",
+        "titles": [
+          {
+            "title": "Cisco ATA 190 Firmware On-Premises Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:ata_190_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco ATA 190 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ata_190_firmware:-:*:*:*:on-premises:*:*:*",
+      "title": "Cisco ATA 190 Firmware On-Premises Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

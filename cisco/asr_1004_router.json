@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:asr_1004_router:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9B61D918-C46E-4EC1-B136-BEBA895CC19C",
+        "lastModified": "2021-10-05T14:51:10.360",
+        "created": "2013-04-11T14:03:51.873",
+        "titles": [
+          {
+            "title": "Cisco Aggregation Services (ASR)1004 Router (1000 series)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:asr_1004:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D478DE14-4B98-44A9-9AF8-5A94EE5CFAE2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_1004_router:-:*:*:*:*:*:*:*",
+      "title": "Cisco Aggregation Services (ASR)1004 Router (1000 series)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:asr_1004:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

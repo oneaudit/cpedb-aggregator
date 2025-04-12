@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9901:-:*:*:*:*:*:*:*",
+        "cpeNameId": "42457E81-7AC8-4503-A5CE-6961CC624DBC",
+        "lastModified": "2021-04-27T18:28:26.323",
+        "created": "2018-10-15T15:30:18.900",
+        "titles": [
+          {
+            "title": "Cisco ASR 9901",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9901:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "288046C2-2A5C-470C-B97B-A909DA833CFD",
+        "lastModified": "2020-02-03T20:05:09.640",
+        "created": "2020-02-03T20:05:09.640",
+        "titles": [
+          {
+            "title": "Cisco ASR 9901 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_9901:-:*:*:*:*:*:*:*",
+      "title": "Cisco ASR 9901",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9901:-:*:*:*:*:*:x64:*",
+      "title": "Cisco ASR 9901 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

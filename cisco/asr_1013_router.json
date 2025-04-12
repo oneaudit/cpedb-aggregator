@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:asr_1013_router:-:*:*:*:*:*:*:*",
+        "cpeNameId": "406ED23D-29E8-4F11-ACEB-CFB3177578E4",
+        "lastModified": "2021-10-05T14:51:10.360",
+        "created": "2013-04-11T14:03:51.657",
+        "titles": [
+          {
+            "title": "Cisco Aggregation Services Router 1013",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:asr_1013:-:*:*:*:*:*:*:*",
+            "cpeNameId": "CB5BB050-E439-4CB8-B2CD-F44B4032A330"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_1013_router:-:*:*:*:*:*:*:*",
+      "title": "Cisco Aggregation Services Router 1013",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:asr_1013:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

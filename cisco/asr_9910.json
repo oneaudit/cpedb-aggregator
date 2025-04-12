@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9910:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3E836941-A728-4ADF-91B8-27ACB047F46F",
+        "lastModified": "2021-04-27T18:28:26.323",
+        "created": "2018-02-21T15:46:55.943",
+        "titles": [
+          {
+            "title": "Cisco ASR 9910 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9910:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "C910CB08-9084-4E33-AFF4-67B05D78B9F8",
+        "lastModified": "2020-02-03T20:05:10.247",
+        "created": "2020-02-03T20:05:10.247",
+        "titles": [
+          {
+            "title": "Cisco ASR 9910 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9910:-:*:*:*:*:*:-:*",
+        "cpeNameId": "3BD1A959-7B6E-479F-8080-554BF48DAB1D",
+        "lastModified": "2020-10-13T11:47:42.660",
+        "created": "2020-10-13T11:47:42.660",
+        "titles": [
+          {
+            "title": "Cisco ASR 9910",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_9910:-:*:*:*:*:*:*:*",
+      "title": "Cisco ASR 9910 -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9910:-:*:*:*:*:*:x64:*",
+      "title": "Cisco ASR 9910 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9910:-:*:*:*:*:*:-:*",
+      "title": "Cisco ASR 9910",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

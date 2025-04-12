@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9906:-:*:*:*:*:*:*:*",
+        "cpeNameId": "538E1B9B-F927-45DA-BE60-BB19821FDAF7",
+        "lastModified": "2021-04-27T18:28:26.323",
+        "created": "2018-02-21T15:46:55.943",
+        "titles": [
+          {
+            "title": "Cisco ASR 9906 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9906:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "E3990B7F-66AC-41E5-B5C3-69F94A72341A",
+        "lastModified": "2020-02-03T20:05:10.047",
+        "created": "2020-02-03T20:05:10.047",
+        "titles": [
+          {
+            "title": "Cisco ASR 9906 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_9906:-:*:*:*:*:*:*:*",
+      "title": "Cisco ASR 9906 -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9906:-:*:*:*:*:*:x64:*",
+      "title": "Cisco ASR 9906 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

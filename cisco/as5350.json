@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:as5350:-:*:*:*:*:*:*:*",
+        "cpeNameId": "189E90F0-816E-4804-95B0-EDF6BF7927B0",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco AS5350",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:as5350:12.2\\(11t\\):*:*:*:*:*:*:*",
+        "cpeNameId": "3D965E09-6F27-4CCE-8F00-9FC87D3AEFEA",
+        "lastModified": "2008-06-17T17:50:52.717",
+        "created": "2007-12-31T16:31:35.250",
+        "titles": [
+          {
+            "title": "Cisco AS5350 12.2_11T",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:as5350:-:*:*:*:*:*:*:*",
+      "title": "Cisco AS5350",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:as5350:12.2\\(11t\\):*:*:*:*:*:*:*",
+      "title": "Cisco AS5350 12.2_11T",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:ata_192:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D377C112-6E67-4BF4-99D7-6C948411C083",
+        "lastModified": "2021-10-14T17:56:27.893",
+        "created": "2021-10-08T18:25:26.213",
+        "titles": [
+          {
+            "title": "Cisco ATA 192",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:ata_192:-:*:*:*:multiplatform:*:*:*",
+        "cpeNameId": "47D9ABCC-6D17-407F-9786-FD9C573FA484",
+        "lastModified": "2022-12-15T18:05:21.527",
+        "created": "2022-12-12T19:25:38.700",
+        "titles": [
+          {
+            "title": "Cisco ATA 192 Multiplatform Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:ata_192:-:*:*:*:*:*:*:*",
+      "title": "Cisco ATA 192",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:ata_192:-:*:*:*:multiplatform:*:*:*",
+      "title": "Cisco ATA 192 Multiplatform Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9922:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C3CDD248-D67B-4B16-BB9A-1742A2BA989E",
+        "lastModified": "2014-06-20T02:06:15.490",
+        "created": "2014-06-16T16:28:06.200",
+        "titles": [
+          {
+            "title": "Cisco ASR 9922",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9922:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "425A7354-76DB-4EF7-839E-71C8B15951CA",
+        "lastModified": "2020-02-03T20:05:10.653",
+        "created": "2020-02-03T20:05:10.653",
+        "titles": [
+          {
+            "title": "Cisco ASR 9922 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9922:-:*:*:*:*:*:-:*",
+        "cpeNameId": "3CBF96F0-7C4A-42E7-941D-13C3DB772667",
+        "lastModified": "2021-12-22T00:59:16.007",
+        "created": "2021-10-29T17:14:33.803",
+        "titles": [
+          {
+            "title": "Cisco ASR 9922",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_9922:-:*:*:*:*:*:*:*",
+      "title": "Cisco ASR 9922",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9922:-:*:*:*:*:*:x64:*",
+      "title": "Cisco ASR 9922 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9922:-:*:*:*:*:*:-:*",
+      "title": "Cisco ASR 9922",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

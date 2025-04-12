@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9902:-:*:*:*:*:*:*:*",
+        "cpeNameId": "08910624-9A31-441E-9A5C-582B8D05DE5C",
+        "lastModified": "2023-02-08T15:48:49.430",
+        "created": "2021-09-13T18:35:22.793",
+        "titles": [
+          {
+            "title": "Cisco Asr 9902 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9902:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "C36663B4-1F83-4CAE-A5EF-165A442BBF65",
+        "lastModified": "2023-09-22T21:13:32.977",
+        "created": "2023-09-22T21:13:32.977",
+        "titles": [
+          {
+            "title": "Cisco ASR 9902 - on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_9902:-:*:*:*:*:*:*:*",
+      "title": "Cisco Asr 9902 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9902:-:*:*:*:*:*:x64:*",
+      "title": "Cisco ASR 9902 - on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

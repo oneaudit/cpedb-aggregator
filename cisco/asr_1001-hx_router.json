@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:asr_1001-hx_router:-:*:*:*:*:*:*:*",
+        "cpeNameId": "04C61CBB-5C8A-4C07-8652-C0D4F50B2DD3",
+        "lastModified": "2021-10-05T14:51:10.360",
+        "created": "2018-04-20T19:18:55.970",
+        "titles": [
+          {
+            "title": "Cisco Asr 1001-hx Router",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:asr_1001-hx:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F5D29111-91F4-49AC-9C97-9FD5CF9A0C49"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_1001-hx_router:-:*:*:*:*:*:*:*",
+      "title": "Cisco Asr 1001-hx Router",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:asr_1001-hx:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

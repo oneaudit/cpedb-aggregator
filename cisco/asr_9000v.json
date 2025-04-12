@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9000v:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F697E954-D6CC-4A74-9A0C-28D5D5ABD7CA",
+        "lastModified": "2021-07-08T22:16:45.430",
+        "created": "2018-10-15T15:30:18.900",
+        "titles": [
+          {
+            "title": "Cisco ASR 9000V",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9000v:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "363B238A-6F01-435F-915F-6FBEAB206098",
+        "lastModified": "2020-02-03T20:05:08.827",
+        "created": "2020-02-03T20:05:08.827",
+        "titles": [
+          {
+            "title": "Cisco ASR 9000v on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9000v:v2:*:*:*:*:*:*:*",
+        "cpeNameId": "3190D6E2-26B1-421E-8AE8-C6E83EB55267",
+        "lastModified": "2020-11-17T19:32:51.087",
+        "created": "2020-11-17T19:32:51.087",
+        "titles": [
+          {
+            "title": "Cisco ASR 9000v V2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_9000v:-:*:*:*:*:*:*:*",
+      "title": "Cisco ASR 9000V",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9000v:-:*:*:*:*:*:x64:*",
+      "title": "Cisco ASR 9000v on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9000v:v2:*:*:*:*:*:*:*",
+      "title": "Cisco ASR 9000v V2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

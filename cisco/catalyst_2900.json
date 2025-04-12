@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:catalyst_2900:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7BAB3654-EF7D-430B-89E6-89AF611B0ABC",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco Catalyst 2900",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:catalyst_2900:lre_xl:*:*:*:*:*:*:*",
+        "cpeNameId": "6AD71117-A769-42C0-B361-D414116D7771",
+        "lastModified": "2008-04-07T13:44:40.607",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Catalyst 2900 LRE XL",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:catalyst_2900:xl:*:*:*:*:*:*:*",
+        "cpeNameId": "007132A4-99DE-4894-A5A9-33052604716C",
+        "lastModified": "2008-04-07T13:44:40.997",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Catalyst 2900 XL",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:catalyst_2900:-:*:*:*:*:*:*:*",
+      "title": "Cisco Catalyst 2900",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:catalyst_2900:lre_xl:*:*:*:*:*:*:*",
+      "title": "Cisco Catalyst 2900 LRE XL",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:catalyst_2900:xl:*:*:*:*:*:*:*",
+      "title": "Cisco Catalyst 2900 XL",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

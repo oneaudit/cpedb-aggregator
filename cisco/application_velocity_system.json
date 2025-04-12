@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:application_velocity_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7347D6FD-2BDA-42EF-A8CB-F5239060C962",
+        "lastModified": "2008-04-01T14:40:19.570",
+        "created": "2008-01-23T22:11:30.467",
+        "titles": [
+          {
+            "title": "Cisco AVS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:application_velocity_system:5.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "842947FF-2DD3-45C9-B521-986601E72121",
+        "lastModified": "2008-04-01T14:40:19.727",
+        "created": "2008-01-23T22:14:16.440",
+        "titles": [
+          {
+            "title": "Cisco AVS 5.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:application_velocity_system:-:*:*:*:*:*:*:*",
+      "title": "Cisco AVS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:application_velocity_system:5.0.1:*:*:*:*:*:*:*",
+      "title": "Cisco AVS 5.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

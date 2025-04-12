@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9001:-:*:*:*:*:*:*:*",
+        "cpeNameId": "52300988-A427-430D-82CA-A6E63215FCA9",
+        "lastModified": "2014-06-20T02:06:14.490",
+        "created": "2014-06-16T16:28:04.387",
+        "titles": [
+          {
+            "title": "Cisco ASR 9001",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9001:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "7AB29BE5-0D17-45B4-8B95-5316C0713E00",
+        "lastModified": "2020-02-03T20:05:09.047",
+        "created": "2020-02-03T20:05:09.047",
+        "titles": [
+          {
+            "title": "Cisco ASR 9001 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_9001:-:*:*:*:*:*:*:*",
+      "title": "Cisco ASR 9001",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9001:-:*:*:*:*:*:x64:*",
+      "title": "Cisco ASR 9001 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

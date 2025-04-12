@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9904:-:*:*:*:*:*:*:*",
+        "cpeNameId": "35F0C9FA-E05E-4E48-8FDE-9B99890C4D53",
+        "lastModified": "2014-06-20T02:06:14.660",
+        "created": "2014-06-16T16:28:04.763",
+        "titles": [
+          {
+            "title": "Cisco ASR 9904",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9904:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "26CF798E-9658-42E7-8DFF-E9ABCA33EE99",
+        "lastModified": "2020-02-03T20:05:09.827",
+        "created": "2020-02-03T20:05:09.827",
+        "titles": [
+          {
+            "title": "Cisco ASR 9904 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9904:-:*:*:*:*:*:-:*",
+        "cpeNameId": "0F58D360-FAF4-436A-8007-DD107537A27B",
+        "lastModified": "2021-12-22T00:59:16.007",
+        "created": "2021-10-29T17:14:33.803",
+        "titles": [
+          {
+            "title": "Cisco ASR 9904",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_9904:-:*:*:*:*:*:*:*",
+      "title": "Cisco ASR 9904",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9904:-:*:*:*:*:*:x64:*",
+      "title": "Cisco ASR 9904 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9904:-:*:*:*:*:*:-:*",
+      "title": "Cisco ASR 9904",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9010:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2A0E6B40-3F30-4721-9A58-EA5A72BD2076",
+        "lastModified": "2014-06-20T02:06:15.083",
+        "created": "2014-06-16T16:28:05.483",
+        "titles": [
+          {
+            "title": "Cisco ASR 9010",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9010:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "0A35FE20-6925-41AF-AFEA-10B5F7860766",
+        "lastModified": "2020-02-03T20:05:09.450",
+        "created": "2020-02-03T20:05:09.450",
+        "titles": [
+          {
+            "title": "Cisco ASR 9010 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:asr_9010:-:*:*:*:*:*:-:*",
+        "cpeNameId": "B8AA885A-E7DB-4285-A67C-12ECDFDDC4F2",
+        "lastModified": "2021-12-22T00:59:16.007",
+        "created": "2021-10-29T17:14:33.803",
+        "titles": [
+          {
+            "title": "Cisco ASR 9010",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:asr_9010:-:*:*:*:*:*:*:*",
+      "title": "Cisco ASR 9010",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9010:-:*:*:*:*:*:x64:*",
+      "title": "Cisco ASR 9010 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:asr_9010:-:*:*:*:*:*:-:*",
+      "title": "Cisco ASR 9010",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
