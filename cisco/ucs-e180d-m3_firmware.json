@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e180d-m3_firmware:3.2\\(3\\):*:*:*:*:*:*:*",
+        "cpeNameId": "57730FBC-9D3B-4515-8E4F-AFE6D4F9A713",
+        "lastModified": "2021-07-08T18:07:21.547",
+        "created": "2018-08-13T14:31:15.817",
+        "titles": [
+          {
+            "title": "Cisco UCS E180D-M3 FIRMWARE 3.2(3)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e180d-m3_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+        "cpeNameId": "8A1E08EB-E045-4CCD-989D-15D70F473092",
+        "lastModified": "2021-05-26T14:35:01.590",
+        "created": "2021-05-12T12:29:32.897",
+        "titles": [
+          {
+            "title": "Cisco UCS-E180D-M3 FIRMWARE 3.2(11.5)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e180d-m3_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "392A026C-837D-4A1A-81DF-46EBEB3E6DC5",
+        "lastModified": "2021-05-26T14:35:01.590",
+        "created": "2021-05-12T12:29:32.897",
+        "titles": [
+          {
+            "title": "Cisco UCS-E180D-M3 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e180d-m3_firmware:3.2\\(3\\):*:*:*:*:*:*:*",
+      "title": "Cisco UCS E180D-M3 FIRMWARE 3.2(3)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e180d-m3_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+      "title": "Cisco UCS-E180D-M3 FIRMWARE 3.2(11.5)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e180d-m3_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco UCS-E180D-M3 FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:telepresence_system_t3:-:*:*:*:*:*:*:*",
+        "cpeNameId": "13EEA088-7C52-4A3C-87EB-B470B7410FA0",
+        "lastModified": "2012-07-25T18:29:58.447",
+        "created": "2012-07-12T14:47:08.827",
+        "titles": [
+          {
+            "title": "Cisco TelePresence System T3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:telepresence_system_t3:-:*:custom:*:*:*:*:*",
+        "cpeNameId": "FF6E5CE5-7D0E-45F2-A565-BE612FC5E9A3",
+        "lastModified": "2012-07-25T18:29:58.557",
+        "created": "2012-07-12T14:47:08.967",
+        "titles": [
+          {
+            "title": "Cisco TelePresence System T3 Custom Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:telepresence_system_t3:-:*:*:*:*:*:*:*",
+      "title": "Cisco TelePresence System T3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:telepresence_system_t3:-:*:custom:*:*:*:*:*",
+      "title": "Cisco TelePresence System T3 Custom Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e160dp-m1_firmware:3.2\\(3\\):*:*:*:*:*:*:*",
+        "cpeNameId": "12292110-ADF5-48D3-B977-D36AD9CCC6AE",
+        "lastModified": "2021-07-08T18:07:21.547",
+        "created": "2018-08-13T14:31:15.817",
+        "titles": [
+          {
+            "title": "Cisco UCS E160DP-M1 FIRMWARE 3.2(3)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e160dp-m1_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+        "cpeNameId": "D0CC42F0-932A-4381-AA1C-49E582787434",
+        "lastModified": "2021-05-26T14:35:01.590",
+        "created": "2021-05-12T12:28:59.870",
+        "titles": [
+          {
+            "title": "Cisco UCS-E160DP-M1 FIRMWARE 3.2(11.5)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e160dp-m1_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4EB38D65-2C88-4DD5-B0A1-5580696F6827",
+        "lastModified": "2021-05-26T14:35:01.590",
+        "created": "2021-05-12T12:28:59.870",
+        "titles": [
+          {
+            "title": "Cisco UCS-E160DP-M1 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e160dp-m1_firmware:3.2\\(3\\):*:*:*:*:*:*:*",
+      "title": "Cisco UCS E160DP-M1 FIRMWARE 3.2(3)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e160dp-m1_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+      "title": "Cisco UCS-E160DP-M1 FIRMWARE 3.2(11.5)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e160dp-m1_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco UCS-E160DP-M1 FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

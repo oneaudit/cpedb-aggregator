@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:spa525g_firmware:1.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "C41C65FE-5964-4E06-8883-2D9A60D0669B",
+        "lastModified": "2021-04-26T15:45:36.543",
+        "created": "2019-02-27T16:00:42.990",
+        "titles": [
+          {
+            "title": "Cisco SPA525G Firmware 1.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:spa525g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A36B59DC-2618-465D-88B9-0BB2DDBFBC14",
+        "lastModified": "2023-08-21T13:41:07.103",
+        "created": "2023-08-08T17:28:03.733",
+        "titles": [
+          {
+            "title": "Cisco SPA525G Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:spa525g_firmware:1.4.2:*:*:*:*:*:*:*",
+      "title": "Cisco SPA525G Firmware 1.4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:spa525g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco SPA525G Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

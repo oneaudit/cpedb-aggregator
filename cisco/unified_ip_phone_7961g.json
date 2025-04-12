@@ -1,0 +1,82 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:unified_ip_phone_7961g:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BBEDEFB9-F975-432D-90E7-07919DB14BEB",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco Unified IP Phone 7961G",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:unified_ip_phone_7961g:8.0\\(4\\):*:*:*:*:*:*:*",
+        "cpeNameId": "929B19B4-4F9F-4833-934E-A0201528496A",
+        "lastModified": "2010-12-28T17:38:00.130",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Skinny Client Control Protocol (SCCP) Software 8.0(4)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:8.0\\(4\\):*:*:*:*:*:*:*",
+            "cpeNameId": "9A28F436-9EC3-4BF8-9D9C-FB3012EC888D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:unified_ip_phone_7961g:8.0\\(4\\):sr1:*:*:*:*:*:*",
+        "cpeNameId": "1663136C-130E-4F50-97BE-C1D62A057B3F",
+        "lastModified": "2010-12-28T17:38:00.537",
+        "created": "2007-08-24T02:07:49.760",
+        "titles": [
+          {
+            "title": "Cisco Skinny Client Control Protocol (SCCP) Software 8.0(4) SR1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:8.0\\(4\\):sr1:*:*:*:*:*:*",
+            "cpeNameId": "536D8B8F-A832-446D-9D00-28FA30D059DA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:unified_ip_phone_7961g:-:*:*:*:*:*:*:*",
+      "title": "Cisco Unified IP Phone 7961G",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:unified_ip_phone_7961g:8.0\\(4\\):*:*:*:*:*:*:*",
+      "title": "Cisco Skinny Client Control Protocol (SCCP) Software 8.0(4)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:8.0\\(4\\):*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:unified_ip_phone_7961g:8.0\\(4\\):sr1:*:*:*:*:*:*",
+      "title": "Cisco Skinny Client Control Protocol (SCCP) Software 8.0(4) SR1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:8.0\\(4\\):sr1:*:*:*:*:*:*"
+    }
+  ]
+}

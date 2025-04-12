@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e140s-m2_firmware:3.2\\(3\\):*:*:*:*:*:*:*",
+        "cpeNameId": "576F5EA2-0518-4447-9925-060C8B2B63EA",
+        "lastModified": "2021-07-08T18:07:21.547",
+        "created": "2018-08-13T14:31:15.817",
+        "titles": [
+          {
+            "title": "Cisco UCS E140S-M2 FIRMWARE 3.2(3)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e140s-m2_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+        "cpeNameId": "2C8E8E43-3D52-4AF5-B047-212C93F5BEC0",
+        "lastModified": "2021-05-26T14:35:01.590",
+        "created": "2021-05-12T12:28:39.827",
+        "titles": [
+          {
+            "title": "Cisco UCS-E140S-M2 FIRMWARE 3.2(11.5)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e140s-m2_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "05F658D5-E91D-416A-A12E-5C7C2BD626C7",
+        "lastModified": "2021-05-26T14:35:01.590",
+        "created": "2021-05-12T12:28:39.827",
+        "titles": [
+          {
+            "title": "Cisco UCS-E140S-M2 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e140s-m2_firmware:3.2\\(3\\):*:*:*:*:*:*:*",
+      "title": "Cisco UCS E140S-M2 FIRMWARE 3.2(3)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e140s-m2_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+      "title": "Cisco UCS-E140S-M2 FIRMWARE 3.2(11.5)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e140s-m2_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco UCS-E140S-M2 FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

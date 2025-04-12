@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e140s_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+        "cpeNameId": "08EDBFDD-3CE9-4B2C-8D16-78CDD48093A8",
+        "lastModified": "2021-05-26T14:35:01.590",
+        "created": "2021-05-12T12:28:11.630",
+        "titles": [
+          {
+            "title": "Cisco UCS-E140S FIRMWARE 3.2(11.5)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e140s_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "94342DF8-00B8-4340-9B54-3E4918312EEA",
+        "lastModified": "2021-05-26T14:35:01.590",
+        "created": "2021-05-12T12:28:11.630",
+        "titles": [
+          {
+            "title": "Cisco UCS-E140S FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e140s_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+      "title": "Cisco UCS-E140S FIRMWARE 3.2(11.5)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e140s_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco UCS-E140S FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

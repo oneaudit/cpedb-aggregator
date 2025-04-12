@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e1120d-m3_firmware:3.2\\(3\\):*:*:*:*:*:*:*",
+        "cpeNameId": "DA654921-0A92-416A-B97F-D319015A7DAC",
+        "lastModified": "2021-07-08T18:07:21.547",
+        "created": "2018-08-13T14:31:15.817",
+        "titles": [
+          {
+            "title": "Cisco UCS E1120D-M3 FIRMWARE 3.2(3)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e1120d-m3_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+        "cpeNameId": "BEC63AFF-CB40-40AB-9E19-E47EB73E1D15",
+        "lastModified": "2021-05-26T14:35:01.590",
+        "created": "2021-05-12T12:26:57.970",
+        "titles": [
+          {
+            "title": "Cisco UCS-E1120D-M3 FIRMWARE 3.2(11.5)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e1120d-m3_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "16BF68EB-8DEB-4EDB-9A90-96A85333C65C",
+        "lastModified": "2021-05-26T14:35:01.590",
+        "created": "2021-05-12T12:26:57.970",
+        "titles": [
+          {
+            "title": "Cisco UCS-E1120D-M3 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e1120d-m3_firmware:3.2\\(3\\):*:*:*:*:*:*:*",
+      "title": "Cisco UCS E1120D-M3 FIRMWARE 3.2(3)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e1120d-m3_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+      "title": "Cisco UCS-E1120D-M3 FIRMWARE 3.2(11.5)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e1120d-m3_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco UCS-E1120D-M3 FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:spark:2015-06_base:*:*:*:*:*:*:*",
+        "cpeNameId": "9AF66A79-A021-4DF1-B80E-C1CC1360B9E8",
+        "lastModified": "2016-02-18T17:29:21.967",
+        "created": "2016-02-18T17:29:21.967",
+        "titles": [
+          {
+            "title": "Cisco Spark 2015-06 Base",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cisco:spark:2015-07-04:*:*:*:*:*:*:*",
+        "cpeNameId": "5652EBEB-01AE-46C0-880C-956752080CC5",
+        "lastModified": "2016-03-02T19:34:11.023",
+        "created": "2016-02-29T15:49:06.740",
+        "titles": [
+          {
+            "title": "Cisco Spark 2015-07-04",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:spark:2015-07-04_base:*:*:*:*:*:*:*",
+            "cpeNameId": "95377881-2BCD-4A95-BD1A-297D1634FDEC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:spark:2015-07-04_base:*:*:*:*:*:*:*",
+        "cpeNameId": "95377881-2BCD-4A95-BD1A-297D1634FDEC",
+        "lastModified": "2016-03-02T19:34:10.990",
+        "created": "2016-03-02T19:34:10.990",
+        "titles": [
+          {
+            "title": "Cisco Spark 2015-07-04 Base",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:spark:-:*:*:*:*:*:*:*",
+        "cpeNameId": "35606FF4-B661-4E65-84A7-B3FD5E369834",
+        "lastModified": "2020-06-03T17:06:34.040",
+        "created": "2020-06-03T17:06:34.040",
+        "titles": [
+          {
+            "title": "Cisco Spark",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:spark:2015-06_base:*:*:*:*:*:*:*",
+      "title": "Cisco Spark 2015-06 Base",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:spark:2015-07-04:*:*:*:*:*:*:*",
+      "title": "Cisco Spark 2015-07-04",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:spark:2015-07-04_base:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:cisco:spark:2015-07-04_base:*:*:*:*:*:*:*",
+      "title": "Cisco Spark 2015-07-04 Base",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:spark:-:*:*:*:*:*:*:*",
+      "title": "Cisco Spark",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

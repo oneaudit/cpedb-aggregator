@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:tftp_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "066DB9BD-A3FD-43F2-A7BF-4D2FA456BD68",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco TFTP server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:tftp_server:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "1ECE4A73-3E62-4A86-BC22-9E1EA44A0A21",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco TFTP server 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:tftp_server:-:*:*:*:*:*:*:*",
+      "title": "Cisco TFTP server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:tftp_server:1.1:*:*:*:*:*:*:*",
+      "title": "Cisco TFTP server 1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

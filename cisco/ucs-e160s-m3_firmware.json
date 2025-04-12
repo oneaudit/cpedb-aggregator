@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e160s-m3_firmware:3.2\\(3\\):*:*:*:*:*:*:*",
+        "cpeNameId": "7078B217-01C9-48A0-BA78-1F50E4A74BC5",
+        "lastModified": "2021-07-08T18:07:21.547",
+        "created": "2018-08-13T14:31:15.817",
+        "titles": [
+          {
+            "title": "Cisco UCS E160S-M3 FIRMWARE 3.2(3)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e160s-m3_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+        "cpeNameId": "811F235F-43CF-4DBA-87D6-506C0B42DF77",
+        "lastModified": "2021-05-26T14:35:01.590",
+        "created": "2021-05-12T12:29:09.913",
+        "titles": [
+          {
+            "title": "Cisco UCS-E160S-M3 FIRMWARE 3.2(11.5)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs-e160s-m3_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F7DB6E88-8669-40B5-B7BC-16346DD73493",
+        "lastModified": "2021-05-26T14:35:01.590",
+        "created": "2021-05-12T12:29:09.913",
+        "titles": [
+          {
+            "title": "Cisco UCS-E160S-M3 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e160s-m3_firmware:3.2\\(3\\):*:*:*:*:*:*:*",
+      "title": "Cisco UCS E160S-M3 FIRMWARE 3.2(3)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e160s-m3_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+      "title": "Cisco UCS-E160S-M3 FIRMWARE 3.2(11.5)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ucs-e160s-m3_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco UCS-E160S-M3 FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

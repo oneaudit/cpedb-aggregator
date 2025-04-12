@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:spa_514g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C3C6D67C-FFB9-4BA5-9677-1E2DAB93AE60",
+        "lastModified": "2021-04-26T13:58:53.590",
+        "created": "2017-09-26T22:48:21.440",
+        "titles": [
+          {
+            "title": "Cisco SPA 514G Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:spa_514g_firmware:7.6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "ED8DB10A-0C6C-4CE7-8030-E62835B4529E",
+        "lastModified": "2021-04-26T13:58:53.590",
+        "created": "2017-09-28T17:38:33.050",
+        "titles": [
+          {
+            "title": "Cisco SPA 514G Firmware 7.6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:spa_514g_firmware:7.6.2:sr1:*:*:*:*:*:*",
+        "cpeNameId": "A401489C-44DE-4812-9DB1-8D656376D5C3",
+        "lastModified": "2021-04-26T13:58:53.590",
+        "created": "2017-11-03T13:17:28.520",
+        "titles": [
+          {
+            "title": "Cisco SPA 514G Firmware 7.6.2 SR1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:spa_514g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco SPA 514G Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:spa_514g_firmware:7.6.2:*:*:*:*:*:*:*",
+      "title": "Cisco SPA 514G Firmware 7.6.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:spa_514g_firmware:7.6.2:sr1:*:*:*:*:*:*",
+      "title": "Cisco SPA 514G Firmware 7.6.2 SR1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

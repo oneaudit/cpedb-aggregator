@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:spa_500ds_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9F414339-9A85-46AE-ACF5-12359C6CCAA4",
+        "lastModified": "2021-04-26T13:51:35.647",
+        "created": "2017-09-26T22:48:21.440",
+        "titles": [
+          {
+            "title": "Cisco SPA 500DS Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:spa_500ds_firmware:7.6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "170C2C4D-C93D-4DCE-AE30-C72F6DE050D3",
+        "lastModified": "2021-04-26T13:32:38.847",
+        "created": "2017-09-28T17:38:33.050",
+        "titles": [
+          {
+            "title": "Cisco SPA 500DS Firmware 7.6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:spa_500ds_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco SPA 500DS Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:spa_500ds_firmware:7.6.2:*:*:*:*:*:*:*",
+      "title": "Cisco SPA 500DS Firmware 7.6.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:unified_ip_conference_station_7935:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F9C3A425-45A0-4F8F-B4E6-DCB0C6991D99",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco Unified IP Conference Station 7935",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:unified_ip_conference_station_7935:3.2\\(15\\):*:*:*:*:*:*:*",
+        "cpeNameId": "78D90264-1475-4A18-B76E-C596915F0F26",
+        "lastModified": "2010-12-28T17:37:56.380",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Skinny Client Control Protocol (SCCP) Software 3.2(15)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:3.2\\(15\\):*:*:*:*:*:*:*",
+            "cpeNameId": "48034AA9-8D6F-4301-9B97-606F8327E927"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:unified_ip_conference_station_7935:-:*:*:*:*:*:*:*",
+      "title": "Cisco Unified IP Conference Station 7935",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:unified_ip_conference_station_7935:3.2\\(15\\):*:*:*:*:*:*:*",
+      "title": "Cisco Skinny Client Control Protocol (SCCP) Software 3.2(15)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:3.2\\(15\\):*:*:*:*:*:*:*"
+    }
+  ]
+}

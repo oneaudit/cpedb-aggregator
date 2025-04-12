@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs_s3260_firmware:4.0\\(2o\\):*:*:*:*:*:*:*",
+        "cpeNameId": "AD22169A-E52A-4443-984D-FC6D07846697",
+        "lastModified": "2021-05-26T13:27:11.833",
+        "created": "2021-05-12T12:29:50.430",
+        "titles": [
+          {
+            "title": "Cisco UCS S3260 FIRMWARE 4.0(2o)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ucs_s3260_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B5987225-FB0B-42A5-A62C-088F094BFA62",
+        "lastModified": "2021-05-26T13:27:11.833",
+        "created": "2021-05-12T12:29:50.430",
+        "titles": [
+          {
+            "title": "Cisco UCS S3260 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:ucs_s3260_firmware:4.0\\(2o\\):*:*:*:*:*:*:*",
+      "title": "Cisco UCS S3260 FIRMWARE 4.0(2o)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ucs_s3260_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco UCS S3260 FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

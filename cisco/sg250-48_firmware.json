@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:sg250-48_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E95A5C21-B8DA-4B72-BDB0-A7E2DCE070DF",
+        "lastModified": "2020-02-27T13:08:07.853",
+        "created": "2020-02-27T13:08:07.853",
+        "titles": [
+          {
+            "title": "Cisco SG250-48 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:sg250-48_firmware:2.5.0.90:*:*:*:*:*:*:*",
+        "cpeNameId": "FB60206B-C34B-4034-9384-3D5254A7360F",
+        "lastModified": "2020-02-27T13:08:08.353",
+        "created": "2020-02-27T13:08:08.353",
+        "titles": [
+          {
+            "title": "Cisco SG250-48 Firmware 2.5.0.90",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:sg250-48_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco SG250-48 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:sg250-48_firmware:2.5.0.90:*:*:*:*:*:*:*",
+      "title": "Cisco SG250-48 Firmware 2.5.0.90",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
