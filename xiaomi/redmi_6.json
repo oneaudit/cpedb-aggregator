@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:xiaomi:redmi_6:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F02BB3B4-B56E-4171-90C3-D08B4FD7B25B",
+        "lastModified": "2022-09-22T14:46:11.860",
+        "created": "2019-01-02T15:48:53.310",
+        "titles": [
+          {
+            "title": "Xiaomi Redmi 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:mi:redmi_6:-:*:*:*:*:*:*:*",
+            "cpeNameId": "33E41D58-FCBE-434E-9E1A-F2376CDF7419"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:xiaomi:redmi_6:-:*:*:*:*:*:*:*",
+      "title": "Xiaomi Redmi 6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:mi:redmi_6:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
