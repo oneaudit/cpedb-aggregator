@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sgi:irisconsole:-:*:*:*:*:*:*:*",
+        "cpeNameId": "42484CDE-CBED-48B0-BDBA-26DF55198A4A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "SGI IRISconsole",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sgi:irisconsole:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "313F09C6-F521-487E-9D2E-8BFD0CB5D1B3",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "SGI IRISconsole 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sgi:irisconsole:-:*:*:*:*:*:*:*",
+      "title": "SGI IRISconsole",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sgi:irisconsole:2.0:*:*:*:*:*:*:*",
+      "title": "SGI IRISconsole 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

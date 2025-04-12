@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:se:modicon_m200:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EB0594FD-6CF7-4132-A311-A1CC3F73A872",
+        "lastModified": "2022-01-31T19:44:14.463",
+        "created": "2020-04-24T13:25:43.457",
+        "titles": [
+          {
+            "title": "Schneider Electric Modicon M200",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:modicon_m200:-:*:*:*:*:*:*:*",
+            "cpeNameId": "C4182425-7A1D-4033-A5FB-27BAAA982172"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:se:modicon_m200:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modicon M200",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:modicon_m200:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

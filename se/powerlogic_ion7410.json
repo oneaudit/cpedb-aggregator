@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:se:powerlogic_ion7410:-:*:*:*:*:*:*:*",
+        "cpeNameId": "99E50E18-7A90-4AAC-816F-F71534BA2697",
+        "lastModified": "2022-01-31T19:44:14.463",
+        "created": "2021-02-22T16:27:43.077",
+        "titles": [
+          {
+            "title": "Schneider Electric PowerLogic ION7410",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:powerlogic_ion7410:-:*:*:*:*:*:*:*",
+            "cpeNameId": "72926D1A-AF99-4867-BDB3-04B71AEDE29A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:se:powerlogic_ion7410:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PowerLogic ION7410",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:powerlogic_ion7410:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

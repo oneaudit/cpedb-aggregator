@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:securebrain:phishwall_client:3.7.8.1:*:*:*:*:internet_explorer:*:*",
+        "cpeNameId": "65D919A0-ABEA-44CB-BF64-F0956709F85D",
+        "lastModified": "2021-08-09T16:23:17.283",
+        "created": "2017-04-26T18:44:41.810",
+        "titles": [
+          {
+            "title": "SecureBrain PhishWall Client 3.7.8.1 for Internet Explorer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:securebrain:phishwall_client:3.7.13:*:*:*:*:internet_explorer:*:*",
+        "cpeNameId": "5B9FB5FC-EC86-4111-BE47-5BE9DBCF220C",
+        "lastModified": "2021-08-09T16:26:54.987",
+        "created": "2017-05-05T19:03:11.690",
+        "titles": [
+          {
+            "title": "SecureBrain PhishWall Client 3.7.13 for Internet Explorer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:securebrain:phishwall_client:5.1.26:*:*:*:chrome:windows:*:*",
+        "cpeNameId": "FC40418E-CD7A-402F-88B6-C3632DA92D2B",
+        "lastModified": "2021-08-09T16:24:00.567",
+        "created": "2018-04-16T18:33:38.087",
+        "titles": [
+          {
+            "title": "SecureBrain Phishwall Client 5.1.26 Chrome Edition for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:securebrain:phishwall_client:5.1.26:*:*:*:firefox:windows:*:*",
+        "cpeNameId": "9173B416-AADA-42E5-A263-28FED2A65929",
+        "lastModified": "2021-08-09T16:24:00.567",
+        "created": "2018-04-16T18:33:42.120",
+        "titles": [
+          {
+            "title": "SecureBrain Phishwall Client 5.1.26 Firefox Edition for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:securebrain:phishwall_client:3.7.8.1:*:*:*:*:internet_explorer:*:*",
+      "title": "SecureBrain PhishWall Client 3.7.8.1 for Internet Explorer",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:securebrain:phishwall_client:3.7.13:*:*:*:*:internet_explorer:*:*",
+      "title": "SecureBrain PhishWall Client 3.7.13 for Internet Explorer",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:securebrain:phishwall_client:5.1.26:*:*:*:chrome:windows:*:*",
+      "title": "SecureBrain Phishwall Client 5.1.26 Chrome Edition for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:securebrain:phishwall_client:5.1.26:*:*:*:firefox:windows:*:*",
+      "title": "SecureBrain Phishwall Client 5.1.26 Firefox Edition for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

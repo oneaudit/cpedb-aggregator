@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sendmail:message_store_sams:-:*:*:*:*:*:*:*",
+        "cpeNameId": "644C762B-CFF0-45A1-952D-338C7D48D0A2",
+        "lastModified": "2008-04-01T16:42:27.867",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sendmail Message Store_SAM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sendmail:message_store_sams:2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "2F5535EB-DED1-41E0-9E64-DABCF60BB9F7",
+        "lastModified": "2008-04-01T16:42:27.930",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sendmail Message Store_SAM 2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sendmail:message_store_sams:3.1.8:*:*:*:*:*:*:*",
+        "cpeNameId": "9FB3F312-E6CA-43BF-B68E-A537351428CB",
+        "lastModified": "2008-04-01T16:42:28.040",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sendmail Message Store_SAM 3.1.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sendmail:message_store_sams:-:*:*:*:*:*:*:*",
+      "title": "Sendmail Message Store_SAM",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sendmail:message_store_sams:2.2:*:*:*:*:*:*:*",
+      "title": "Sendmail Message Store_SAM 2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sendmail:message_store_sams:3.1.8:*:*:*:*:*:*:*",
+      "title": "Sendmail Message Store_SAM 3.1.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

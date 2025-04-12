@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:se:powerlogic_ion7700:-:*:*:*:*:*:*:*",
+        "cpeNameId": "06A96B4A-BA6B-473A-A569-387F57BDF5E3",
+        "lastModified": "2022-01-31T19:44:14.463",
+        "created": "2021-02-22T16:31:23.970",
+        "titles": [
+          {
+            "title": "Schneider Electric PowerLogic ION7700",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:powerlogic_ion7700:-:*:*:*:*:*:*:*",
+            "cpeNameId": "73E53D30-DB2B-4AAF-9EE9-431129172633"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:se:powerlogic_ion7700:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PowerLogic ION7700",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:powerlogic_ion7700:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

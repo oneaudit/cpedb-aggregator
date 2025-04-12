@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:c981q_firmware:r2.000:*:*:*:*:*:*:*",
+        "cpeNameId": "D83B9923-F0F5-468E-9B79-B57C1CCA3811",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:49:42.500",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions C981Q FIRMWARE R2.000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:c981q_firmware:r2.000:*:*:*:*:*:*:*",
+            "cpeNameId": "7E0C435E-E7FC-4331-9BF8-75F3B80AF74B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:c981q_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "420D209B-37DC-44A1-8318-504898962714",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:49:42.500",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions C981Q FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:c981q_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F88845B8-B041-44CA-AE6D-A7A7A1F694F2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:c981q_firmware:r2.000:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions C981Q FIRMWARE R2.000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:c981q_firmware:r2.000:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:c981q_firmware:-:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions C981Q FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:c981q_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

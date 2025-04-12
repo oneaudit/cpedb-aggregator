@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:se:powerlogic_ion7550:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EE63318D-17A1-44C3-B52B-33E162E42C8B",
+        "lastModified": "2022-01-31T19:44:14.463",
+        "created": "2021-08-17T18:19:34.473",
+        "titles": [
+          {
+            "title": "Schneider Electric PowerLogic ION7550 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:powerlogic_ion7550:4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3F39316E-0D90-4466-9935-CA6C7A90443F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:se:powerlogic_ion7550:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "43CCE0C6-15EE-4ED5-AA7E-2024FD160910",
+        "lastModified": "2022-01-31T19:44:14.463",
+        "created": "2021-08-17T18:19:34.473",
+        "titles": [
+          {
+            "title": "Schneider Electric PowerLogic ION7550 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:powerlogic_ion7550:5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "568D3D5D-A7DF-47DD-9B57-71EDD6F1D16C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:se:powerlogic_ion7550:4.0:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PowerLogic ION7550 4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:powerlogic_ion7550:4.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:se:powerlogic_ion7550:5.0:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PowerLogic ION7550 5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:powerlogic_ion7550:5.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

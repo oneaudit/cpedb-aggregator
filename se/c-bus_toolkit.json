@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:c-bus_toolkit:1.15.9:*:*:*:*:*:*:*",
+        "cpeNameId": "46F9D2F3-3D5B-499F-8852-552CC2914216",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2021-07-27T13:03:02.990",
+        "titles": [
+          {
+            "title": "Schneider Electric C-Bus Toolkit 1.15.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:c-bus_toolkit:1.15.9:*:*:*:*:*:*:*",
+            "cpeNameId": "BAAFB0E4-A446-4831-BD2D-49809729028F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:c-bus_toolkit:1.15.8:*:*:*:*:*:*:*",
+        "cpeNameId": "32B215B3-8550-41EF-B781-49E03D26E538",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2021-07-27T13:03:02.990",
+        "titles": [
+          {
+            "title": "Schneider Electric C-Bus Toolkit 1.15.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:c-bus_toolkit:1.15.8:*:*:*:*:*:*:*",
+            "cpeNameId": "2C4EF150-DD9B-413E-B0D7-D12CAB8B3615"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:c-bus_toolkit:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6F00E43B-1EE0-4F87-84AB-8A1160217039",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2021-07-27T13:03:02.990",
+        "titles": [
+          {
+            "title": "Schneider Electric C-Bus Toolkit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:c-bus_toolkit:-:*:*:*:*:*:*:*",
+            "cpeNameId": "078AEB6D-52B1-46B5-8627-254B41854B6D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:c-bus_toolkit:1.15.9:*:*:*:*:*:*:*",
+      "title": "Schneider Electric C-Bus Toolkit 1.15.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:c-bus_toolkit:1.15.9:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:c-bus_toolkit:1.15.8:*:*:*:*:*:*:*",
+      "title": "Schneider Electric C-Bus Toolkit 1.15.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:c-bus_toolkit:1.15.8:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:c-bus_toolkit:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric C-Bus Toolkit",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:c-bus_toolkit:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

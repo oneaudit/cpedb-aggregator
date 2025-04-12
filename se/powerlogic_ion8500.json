@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:se:powerlogic_ion8500:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6E17A87F-3C24-4093-92C0-1EE7200C3F8C",
+        "lastModified": "2022-01-31T19:52:26.683",
+        "created": "2021-02-22T16:27:43.077",
+        "titles": [
+          {
+            "title": "Schneider Electric PowerLogic ION8500",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:powerlogic_ion8500:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5643612B-2838-4409-A4C9-1AE951CDABE8"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:se:powerlogic_ion8500:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PowerLogic ION8500",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:powerlogic_ion8500:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:modicon_m100_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6E942CA7-6A5C-42AF-9B85-8C1438AF566A",
+        "lastModified": "2022-01-31T19:52:26.683",
+        "created": "2021-08-16T18:11:39.693",
+        "titles": [
+          {
+            "title": "Schneider Electric Modicon M100 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m100_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "CE366F95-FF56-4083-B2C0-6414E8F96FEC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:se:modicon_m100_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modicon M100 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m100_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

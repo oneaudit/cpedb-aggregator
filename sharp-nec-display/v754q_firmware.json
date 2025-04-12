@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:v754q_firmware:r2.000:*:*:*:*:*:*:*",
+        "cpeNameId": "8FE0F1E3-4CB0-4D0D-8726-735CD6F8FE6C",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:52:36.903",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions V754Q FIRMWARE R2.000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:v754q_firmware:r2.000:*:*:*:*:*:*:*",
+            "cpeNameId": "5E3CC416-9DF6-46DD-B9B0-F1C5CBE1D2A5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:v754q_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "830D789A-82BB-42D5-8A0F-A69D1A8D1A2C",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:52:36.903",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions V754Q FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:v754q_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "C2C64649-03B0-40C0-86E6-9B84D0759D22"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:v754q_firmware:r2.000:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions V754Q FIRMWARE R2.000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:v754q_firmware:r2.000:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:v754q_firmware:-:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions V754Q FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:v754q_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

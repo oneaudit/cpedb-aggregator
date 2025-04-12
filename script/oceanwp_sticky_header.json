@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:script:oceanwp_sticky_header:1.0.8:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "8BD32ADC-94D1-4223-A574-CD4866CA1C4E",
+        "lastModified": "2022-12-06T14:47:05.647",
+        "created": "2022-12-05T14:25:32.200",
+        "titles": [
+          {
+            "title": "Script Oceanwp Sticky Header 1.0.8 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oceanwp:sticky_header:1.0.8:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "5FD4542C-6A1E-458C-92CE-BF4E476FE4A6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:script:oceanwp_sticky_header:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "0137C95F-B604-402A-8A53-4F4CDF10B2C0",
+        "lastModified": "2022-12-06T14:47:05.647",
+        "created": "2022-12-05T14:25:32.200",
+        "titles": [
+          {
+            "title": "Script Oceanwp Sticky Header for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oceanwp:sticky_header:-:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "472A1A95-19C0-41E1-865E-69A4D5B465A1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:script:oceanwp_sticky_header:1.0.8:*:*:*:*:wordpress:*:*",
+      "title": "Script Oceanwp Sticky Header 1.0.8 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oceanwp:sticky_header:1.0.8:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:script:oceanwp_sticky_header:-:*:*:*:*:wordpress:*:*",
+      "title": "Script Oceanwp Sticky Header for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oceanwp:sticky_header:-:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

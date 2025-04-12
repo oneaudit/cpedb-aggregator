@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:powerlogic_egx100_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3450F43A-7A59-40EB-B0E3-8DDA418122C1",
+        "lastModified": "2022-01-31T20:07:15.090",
+        "created": "2021-09-30T19:05:56.193",
+        "titles": [
+          {
+            "title": "Schneider Electric PowerLogic EGX100 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:powerlogic_egx100_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D9E74F67-FBE6-4E81-9FB4-5B3A5D6186B5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:powerlogic_egx100_firmware:3.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EFD65FAD-BAF8-4516-877D-F52933F9832D",
+        "lastModified": "2022-01-31T20:07:35.137",
+        "created": "2021-09-30T19:10:03.043",
+        "titles": [
+          {
+            "title": "Schneider Electric PowerLogic EGX100 Firmware 3.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:powerlogic_egx100_firmware:3.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "757A3FC0-9B18-4D3F-AA7D-D5BC8DCB89F1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:se:powerlogic_egx100_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PowerLogic EGX100 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:powerlogic_egx100_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:se:powerlogic_egx100_firmware:3.0.0:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PowerLogic EGX100 Firmware 3.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:powerlogic_egx100_firmware:3.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

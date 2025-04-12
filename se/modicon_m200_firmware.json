@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:modicon_m200_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2EC4F808-C6D7-4EC9-B630-44B4BA3BB895",
+        "lastModified": "2022-01-31T19:52:26.683",
+        "created": "2021-08-16T18:11:39.693",
+        "titles": [
+          {
+            "title": "Schneider Electric Modicon M200 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m200_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "1A450C4A-5DBA-42C0-BDBA-1FD590F08571"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:se:modicon_m200_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modicon M200 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m200_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

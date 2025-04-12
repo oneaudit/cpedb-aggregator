@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:powerlogic_ion7700_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E82B2401-D906-4174-B843-72C30B4208E5",
+        "lastModified": "2022-01-31T20:07:35.137",
+        "created": "2021-02-22T16:31:15.890",
+        "titles": [
+          {
+            "title": "Schneider Electric PowerLogic ION7700 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:powerlogic_ion7700_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BFB58E40-33F1-4666-8D4E-9555C0C74027"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:se:powerlogic_ion7700_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PowerLogic ION7700 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:powerlogic_ion7700_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

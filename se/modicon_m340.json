@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:se:modicon_m340:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BA87C629-8BA0-416D-9CF8-F4EEC5AD5F14",
+        "lastModified": "2022-01-31T19:44:14.463",
+        "created": "2021-08-16T18:11:39.693",
+        "titles": [
+          {
+            "title": "Schneider Electric Modicon M340",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:modicon_m340:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A632C5BF-BD8B-4F2D-B60C-22F1E722B99E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:se:modicon_m340:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modicon M340",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:modicon_m340:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

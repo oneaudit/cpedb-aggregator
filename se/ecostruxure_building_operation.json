@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:ecostruxure_building_operation:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "02C664AE-E086-475E-A2A5-1A322CFC6F27",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2021-01-25T18:40:50.607",
+        "titles": [
+          {
+            "title": "Schneider Electric EcoStruxure Building Operation 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_building_operation:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "83E36F53-4A5E-4B50-B681-9C97E78A78AA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:ecostruxure_building_operation:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "1153D9D1-066C-4401-864C-39ABD0D658AB",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2021-01-25T18:40:50.683",
+        "titles": [
+          {
+            "title": "Schneider Electric EcoStruxure Building Operation 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_building_operation:3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "5EB7F3D2-CDE2-4E2B-B4FC-F2E86BE118A6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:ecostruxure_building_operation:3.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "1DD65F3C-572F-4BF7-A515-59CD07DBE072",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2021-01-25T18:40:50.747",
+        "titles": [
+          {
+            "title": "Schneider Electric EcoStruxure Building Operation 3.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_building_operation:3.2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "1C6FDC37-0235-4357-8765-8589325037E4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:ecostruxure_building_operation:2.0:*:*:*:*:*:*:*",
+      "title": "Schneider Electric EcoStruxure Building Operation 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:ecostruxure_building_operation:2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:ecostruxure_building_operation:3.1:*:*:*:*:*:*:*",
+      "title": "Schneider Electric EcoStruxure Building Operation 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:ecostruxure_building_operation:3.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:ecostruxure_building_operation:3.2.1:*:*:*:*:*:*:*",
+      "title": "Schneider Electric EcoStruxure Building Operation 3.2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:ecostruxure_building_operation:3.2.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

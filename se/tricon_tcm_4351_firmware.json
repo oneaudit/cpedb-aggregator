@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:tricon_tcm_4351_firmware:10.3.x:*:*:*:*:*:*:*",
+        "cpeNameId": "05408F53-F049-4079-84EF-9BD870520E92",
+        "lastModified": "2022-01-31T20:07:35.137",
+        "created": "2020-04-23T11:46:15.013",
+        "titles": [
+          {
+            "title": "Schneider Electric Tricon TCM 4351 Firmware 10.3.x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:tricon_tcm_4351_firmware:10.3.x:*:*:*:*:*:*:*",
+            "cpeNameId": "03CA8CFD-CA04-465E-BCC4-4D22CA699F89"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:tricon_tcm_4351_firmware:10.4.x:*:*:*:*:*:*:*",
+        "cpeNameId": "69AD9F36-4E80-4BCA-883B-773C5C7A27BF",
+        "lastModified": "2022-01-31T20:07:35.137",
+        "created": "2020-04-23T11:46:15.013",
+        "titles": [
+          {
+            "title": "Schneider Electric Tricon TCM 4351 Firmware 10.4.x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:tricon_tcm_4351_firmware:10.4.x:*:*:*:*:*:*:*",
+            "cpeNameId": "470238EE-2E77-4931-9B4A-5223D903E505"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:se:tricon_tcm_4351_firmware:10.3.x:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Tricon TCM 4351 Firmware 10.3.x",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:tricon_tcm_4351_firmware:10.3.x:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:se:tricon_tcm_4351_firmware:10.4.x:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Tricon TCM 4351 Firmware 10.4.x",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:tricon_tcm_4351_firmware:10.4.x:*:*:*:*:*:*:*"
+    }
+  ]
+}

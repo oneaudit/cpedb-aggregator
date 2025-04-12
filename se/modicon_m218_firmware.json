@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:modicon_m218_firmware:4.3:*:*:*:*:*:*:*",
+        "cpeNameId": "BA18AD04-075E-484F-B4D7-9BE4CA58B3A0",
+        "lastModified": "2022-01-31T19:52:26.683",
+        "created": "2020-08-03T13:04:37.067",
+        "titles": [
+          {
+            "title": "Schneider Electric Modicon M218 Firmware 4.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m218_firmware:4.3:*:*:*:*:*:*:*",
+            "cpeNameId": "4585D1EC-BF60-45F2-AE69-C46A9B89EBBB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:modicon_m218_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "24CFF6F0-46AD-4D1D-A3C3-134B4EB6DAF4",
+        "lastModified": "2022-01-31T19:52:26.683",
+        "created": "2021-08-16T18:11:39.693",
+        "titles": [
+          {
+            "title": "Schneider Electric Modicon M218 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m218_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "1723BFB1-E650-40D4-93DB-1D159CCE305A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:modicon_m218_firmware:5.0.0.7:*:*:*:*:*:*:*",
+        "cpeNameId": "AAF59EA4-D736-4357-9DDB-E5AAACCBCE29",
+        "lastModified": "2022-01-31T19:52:26.683",
+        "created": "2021-08-16T18:11:39.693",
+        "titles": [
+          {
+            "title": "Schneider Electric Modicon M218 Firmware 5.0.0.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m218_firmware:5.0.0.7:*:*:*:*:*:*:*",
+            "cpeNameId": "5F858EF0-0325-4777-8E48-78FC0FE03D34"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:se:modicon_m218_firmware:4.3:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modicon M218 Firmware 4.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m218_firmware:4.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:se:modicon_m218_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modicon M218 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m218_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:se:modicon_m218_firmware:5.0.0.7:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modicon M218 Firmware 5.0.0.7",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m218_firmware:5.0.0.7:*:*:*:*:*:*:*"
+    }
+  ]
+}

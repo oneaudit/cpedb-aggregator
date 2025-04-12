@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:p654q_firmware:r2.000:*:*:*:*:*:*:*",
+        "cpeNameId": "073FAC14-6B7B-4C32-B10E-0BBF7148194B",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:49:51.883",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions P654Q FIRMWARE R2.000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:p654q_firmware:r2.000:*:*:*:*:*:*:*",
+            "cpeNameId": "925C197E-C10D-4474-9B8A-60A4767ED34E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:p654q_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "10FD1328-39FB-45F6-B840-D87619B7D9EC",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:49:51.883",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions P654Q FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:p654q_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "DBD4878F-9FC9-449D-A835-F5498EAAE07C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:p654q_firmware:r2.000:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions P654Q FIRMWARE R2.000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:p654q_firmware:r2.000:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:p654q_firmware:-:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions P654Q FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:p654q_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

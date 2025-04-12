@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:proface_gp-pro_ex_pfxexedls:4.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "3E400B13-9926-4485-A1A1-27CBCEDEDF98",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2016-04-07T14:28:49.210",
+        "titles": [
+          {
+            "title": "Schneider Electric PROFACE GP-PRO EX PFXEXEDLS 4.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_pfxexedls:4.0.4:*:*:*:*:*:*:*",
+            "cpeNameId": "E1423706-6C55-4127-980C-A04FA05C2BF7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:proface_gp-pro_ex_pfxexedls:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F55BF805-4EE1-4CEC-AB45-E760CF4EC30F",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2021-08-03T19:51:37.713",
+        "titles": [
+          {
+            "title": "Schneider Electric PROFACE GP-PRO EX PFXEXEDLS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_pfxexedls:-:*:*:*:*:*:*:*",
+            "cpeNameId": "130FFF8A-821C-4CF4-9D64-2C87F3CC971C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:proface_gp-pro_ex_pfxexedls:4.0.4:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PROFACE GP-PRO EX PFXEXEDLS 4.0.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_pfxexedls:4.0.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:proface_gp-pro_ex_pfxexedls:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PROFACE GP-PRO EX PFXEXEDLS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_pfxexedls:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

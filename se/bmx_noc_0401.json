@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:se:bmx_noc_0401:-:*:*:*:*:*:*:*",
+        "cpeNameId": "84227E5F-6054-496F-B9CE-4107DA49566E",
+        "lastModified": "2022-01-31T19:44:14.463",
+        "created": "2020-04-24T14:05:28.860",
+        "titles": [
+          {
+            "title": "Schneider Electric BMC NOC 0401",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:bmx_noc_0401:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E754A2E3-2C88-4F68-8F90-F87E5FAE67C4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:se:bmx_noc_0401:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric BMC NOC 0401",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:bmx_noc_0401:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:ecostruxure_power_build_-_rapsody:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EEC04EC9-818D-43D5-90DB-2541AA19E251",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2021-02-02T14:35:08.937",
+        "titles": [
+          {
+            "title": "Schneider-Electric EcoStruxure Power Build - Rapsody",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_power_build_-_rapsody:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E24DE56F-4F79-4F77-ADA9-7DD52B66839D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:ecostruxure_power_build_-_rapsody:2.1.13:*:*:*:*:*:*:*",
+        "cpeNameId": "C14E173D-D7C8-4B25-9932-127E6EC5128A",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2021-02-02T14:35:09.297",
+        "titles": [
+          {
+            "title": "Schneider-Electric EcoStruxure Power Build - Rapsody 2.1.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_power_build_-_rapsody:2.1.13:*:*:*:*:*:*:*",
+            "cpeNameId": "C177C2D7-B3BE-4DE4-8C25-0DD76274A919"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:ecostruxure_power_build_-_rapsody:-:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric EcoStruxure Power Build - Rapsody",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:ecostruxure_power_build_-_rapsody:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:ecostruxure_power_build_-_rapsody:2.1.13:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric EcoStruxure Power Build - Rapsody 2.1.13",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:ecostruxure_power_build_-_rapsody:2.1.13:*:*:*:*:*:*:*"
+    }
+  ]
+}

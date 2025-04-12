@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:ecostruxure_machine_expert:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C7948465-773E-491F-9769-7C7497FA4056",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2020-04-24T13:25:38.330",
+        "titles": [
+          {
+            "title": "Schneider Electric EcoStruxure Machine Expert",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_machine_expert:-:*:*:*:*:*:*:*",
+            "cpeNameId": "734E5D06-E024-48C9-A4BF-53ECBEF3EAF3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:ecostruxure_machine_expert:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6264A08B-33AD-4E54-9303-D9FD580378FC",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2021-08-16T17:06:06.963",
+        "titles": [
+          {
+            "title": "Schneider Electric EcoStruxure Machine Expert 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:ecostruxure_machine_expert:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2F29FC53-34A9-4197-A544-989A958B1394"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:ecostruxure_machine_expert:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric EcoStruxure Machine Expert",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:ecostruxure_machine_expert:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:ecostruxure_machine_expert:2.0:*:*:*:*:*:*:*",
+      "title": "Schneider Electric EcoStruxure Machine Expert 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:ecostruxure_machine_expert:2.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

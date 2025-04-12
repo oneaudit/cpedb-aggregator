@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:modicon_m241_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B99D7783-166C-4172-9A66-5B7BF43AD534",
+        "lastModified": "2022-01-31T19:54:35.053",
+        "created": "2021-08-16T18:11:39.693",
+        "titles": [
+          {
+            "title": "Schneider Electric Modicon M241 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m241_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "3671304F-3C36-45E9-9F5F-9B2E7B9E1192"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:modicon_m241_firmware:4.0.3.20:*:*:*:*:*:*:*",
+        "cpeNameId": "A69566F4-D629-45BB-9A4A-F7F80FD04461",
+        "lastModified": "2022-01-31T19:54:35.053",
+        "created": "2021-08-16T18:11:39.693",
+        "titles": [
+          {
+            "title": "Schneider Electric Modicon M241 Firmware 4.0.3.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m241_firmware:4.0.3.20:*:*:*:*:*:*:*",
+            "cpeNameId": "A9A99E7D-C5F3-420D-B007-E917012F874F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:modicon_m241_firmware:5.1.9.1:*:*:*:*:*:*:*",
+        "cpeNameId": "5C82395A-53F3-4F7B-B899-311536799E1E",
+        "lastModified": "2022-01-31T19:54:35.053",
+        "created": "2021-08-16T18:11:39.693",
+        "titles": [
+          {
+            "title": "Schneider Electric Modicon M241 Firmware 5.1.9.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m241_firmware:5.1.9.1:*:*:*:*:*:*:*",
+            "cpeNameId": "8080FE19-F194-40CE-8F6B-60F199C4020A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:se:modicon_m241_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modicon M241 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m241_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:se:modicon_m241_firmware:4.0.3.20:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modicon M241 Firmware 4.0.3.20",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m241_firmware:4.0.3.20:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:se:modicon_m241_firmware:5.1.9.1:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modicon M241 Firmware 5.1.9.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m241_firmware:5.1.9.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

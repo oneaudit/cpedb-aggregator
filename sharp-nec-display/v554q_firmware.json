@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:v554q_firmware:r2.000:*:*:*:*:*:*:*",
+        "cpeNameId": "B469D771-E165-43A6-A7F2-089E9426BF67",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:52:19.427",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions V554Q FIRMWARE R2.000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:v554q_firmware:r2.000:*:*:*:*:*:*:*",
+            "cpeNameId": "6158041C-51EF-4B23-9305-A005B4C470C3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:v554q_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F7C00B64-10AC-43E3-B817-9A488970314C",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:52:19.427",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions V554Q FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:v554q_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "25203FF5-0D7B-4822-9B06-35AB87C55CCA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:v554q_firmware:r2.000:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions V554Q FIRMWARE R2.000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:v554q_firmware:r2.000:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:v554q_firmware:-:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions V554Q FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:v554q_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:tricon_tcm_4351b_firmware:10.3.x:*:*:*:*:*:*:*",
+        "cpeNameId": "605A64A9-7244-487C-86F3-9AC2BF209D35",
+        "lastModified": "2022-01-31T20:08:11.107",
+        "created": "2020-04-23T11:46:15.013",
+        "titles": [
+          {
+            "title": "Schneider Electric Tricon TCM 4351B Firmware 10.3.x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:tricon_tcm_4351b_firmware:10.3.x:*:*:*:*:*:*:*",
+            "cpeNameId": "E41DCB03-D76D-4534-BD3D-57E030E95C85"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:tricon_tcm_4351b_firmware:10.4.x:*:*:*:*:*:*:*",
+        "cpeNameId": "6EE5AD60-26A4-4E66-B0EB-8F2AB0965B09",
+        "lastModified": "2022-01-31T20:08:11.107",
+        "created": "2020-04-23T11:46:15.013",
+        "titles": [
+          {
+            "title": "Schneider Electric Tricon TCM 4351B Firmware 10.4.x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:tricon_tcm_4351b_firmware:10.4.x:*:*:*:*:*:*:*",
+            "cpeNameId": "9BCB72D0-3F96-468C-93A9-0E6D2B81ACED"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:se:tricon_tcm_4351b_firmware:10.3.x:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Tricon TCM 4351B Firmware 10.3.x",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:tricon_tcm_4351b_firmware:10.3.x:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:se:tricon_tcm_4351b_firmware:10.4.x:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Tricon TCM 4351B Firmware 10.4.x",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:tricon_tcm_4351b_firmware:10.4.x:*:*:*:*:*:*:*"
+    }
+  ]
+}

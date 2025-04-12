@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sgi:fam:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DB6E4879-A644-432A-AD33-6B4464AD85F7",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "SGI FAM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sgi:fam:2.6.6:*:*:*:*:*:*:*",
+        "cpeNameId": "7454E9F6-A07E-4DF7-B221-C7FB16F6F9CF",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "SGI FAM 2.6.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sgi:fam:2.6.8:*:*:*:*:*:*:*",
+        "cpeNameId": "79348CDF-3828-434D-A975-A742D1544047",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "SGI FAM 2.6.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sgi:fam:-:*:*:*:*:*:*:*",
+      "title": "SGI FAM",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sgi:fam:2.6.6:*:*:*:*:*:*:*",
+      "title": "SGI FAM 2.6.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sgi:fam:2.6.8:*:*:*:*:*:*:*",
+      "title": "SGI FAM 2.6.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

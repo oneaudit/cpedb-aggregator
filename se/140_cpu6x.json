@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:se:140_cpu6x:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DA7792D1-45AB-40AD-9C6C-A1561A496DFB",
+        "lastModified": "2022-01-31T19:44:14.463",
+        "created": "2020-04-24T14:05:28.860",
+        "titles": [
+          {
+            "title": "Schneider Electric 140 CPU6x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:140_cpu6x:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E2706B7E-B42D-4DB7-831A-79A4EF877E59"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:se:140_cpu6x:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric 140 CPU6x",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:140_cpu6x:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

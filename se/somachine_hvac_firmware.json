@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:somachine_hvac_firmware:2.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "D304C02F-2186-4514-B23A-AA0C70609250",
+        "lastModified": "2022-01-31T20:07:35.137",
+        "created": "2021-08-16T18:00:30.290",
+        "titles": [
+          {
+            "title": "Schneider Electric SoMachine HVAC Firmware 2.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:somachine_hvac_firmware:2.0.2:*:*:*:*:*:*:*",
+            "cpeNameId": "01EE58C1-0AE3-4B6D-A625-C80F8C985606"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:se:somachine_hvac_firmware:2.0.2:*:*:*:*:*:*:*",
+      "title": "Schneider Electric SoMachine HVAC Firmware 2.0.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:somachine_hvac_firmware:2.0.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

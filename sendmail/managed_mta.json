@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sendmail:managed_mta:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EBA2A063-89C0-4A36-A88D-12C56A0DF4EB",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sendmail Managed MTA",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sendmail:managed_mta:3.1.7:*:*:*:*:*:*:*",
+        "cpeNameId": "CD4960D7-8F0E-4FAE-99CE-DC7AADCA2D0C",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sendmail Managed MTA 3.1.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sendmail:managed_mta:3.1.8:*:*:*:*:*:*:*",
+        "cpeNameId": "5DB9D011-636C-4FB9-AD95-0EBFF4C0ECFC",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sendmail Managed MTA 3.1.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sendmail:managed_mta:-:*:*:*:*:*:*:*",
+      "title": "Sendmail Managed MTA",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sendmail:managed_mta:3.1.7:*:*:*:*:*:*:*",
+      "title": "Sendmail Managed MTA 3.1.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sendmail:managed_mta:3.1.8:*:*:*:*:*:*:*",
+      "title": "Sendmail Managed MTA 3.1.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

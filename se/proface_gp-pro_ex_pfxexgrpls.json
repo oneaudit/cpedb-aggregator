@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:proface_gp-pro_ex_pfxexgrpls:4.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "A0056D78-6CF1-4FFE-86FD-4574F4D40C96",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2016-04-07T14:28:49.210",
+        "titles": [
+          {
+            "title": "Schneider Electric PROFACE GP-PRO EX PFXEXGRPLS 4.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_pfxexgrpls:4.0.4:*:*:*:*:*:*:*",
+            "cpeNameId": "AA8AE1A1-011D-43D1-8D05-4328CD959489"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:proface_gp-pro_ex_pfxexgrpls:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7C778B4B-E084-4100-A23F-0B8DD02A3F83",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2021-08-03T19:51:53.783",
+        "titles": [
+          {
+            "title": "Schneider Electric PROFACE GP-PRO EX PFXEXGRPLS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_pfxexgrpls:-:*:*:*:*:*:*:*",
+            "cpeNameId": "863DA269-8B8D-4B0C-BDF4-87E1C58B0B47"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:proface_gp-pro_ex_pfxexgrpls:4.0.4:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PROFACE GP-PRO EX PFXEXGRPLS 4.0.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_pfxexgrpls:4.0.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:proface_gp-pro_ex_pfxexgrpls:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PROFACE GP-PRO EX PFXEXGRPLS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_pfxexgrpls:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

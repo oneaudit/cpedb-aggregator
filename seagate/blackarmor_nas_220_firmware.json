@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:seagate:blackarmor_nas_220_firmware:sg2000-2000.1331:*:*:*:*:*:*:*",
+        "cpeNameId": "FE31A17A-BD19-44F3-A6B7-6CB19F09E0DF",
+        "lastModified": "2014-01-10T15:52:16.363",
+        "created": "2014-01-10T15:47:56.127",
+        "titles": [
+          {
+            "title": "SeaGate BlackArmor NAS 220 Firmware SG2000-2000.1331",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:seagate:blackarmor_nas_220_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BF2A1D78-8EA8-4388-9ECA-649794D8E9FB",
+        "lastModified": "2021-05-27T14:05:27.343",
+        "created": "2018-03-12T18:50:15.380",
+        "titles": [
+          {
+            "title": "Seagate BlackArmor NAS 220 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:seagate:blackarmor_nas_220_firmware:sg2000-2000.1331:*:*:*:*:*:*:*",
+      "title": "SeaGate BlackArmor NAS 220 Firmware SG2000-2000.1331",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:seagate:blackarmor_nas_220_firmware:-:*:*:*:*:*:*:*",
+      "title": "Seagate BlackArmor NAS 220 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

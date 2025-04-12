@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:c861q_firmware:r2.000:*:*:*:*:*:*:*",
+        "cpeNameId": "2DABC711-B0DA-4E7D-B188-A2436553759C",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:49:34.123",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions C861Q FIRMWARE R2.000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:c861q_firmware:r2.000:*:*:*:*:*:*:*",
+            "cpeNameId": "E29FD042-BC84-4833-A295-D36A5571C2D2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:c861q_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9BAA94F8-9842-487D-B12E-7F56110C2C25",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:49:34.123",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions C861Q FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:c861q_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7575F627-3671-4847-B06A-CA57F340C92F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:c861q_firmware:r2.000:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions C861Q FIRMWARE R2.000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:c861q_firmware:r2.000:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:c861q_firmware:-:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions C861Q FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:c861q_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

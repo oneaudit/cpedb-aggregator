@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:proface_gp-pro_ex_ex-ed:4.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "97631126-D3F6-42D2-9383-A58641897482",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2016-04-07T14:28:49.210",
+        "titles": [
+          {
+            "title": "Schneider Electric PROFACE GP-PRO EX EX-ED 4.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_ex-ed:4.0.4:*:*:*:*:*:*:*",
+            "cpeNameId": "13B7D0E1-4BEA-4E2D-859C-0DD0E32E3920"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:proface_gp-pro_ex_ex-ed:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8E3F48CB-23F2-4CC7-81F9-56629EA3486B",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2021-08-03T19:51:29.350",
+        "titles": [
+          {
+            "title": "Schneider Electric PROFACE GP-PRO EX EX-ED",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_ex-ed:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D62E2E05-F9E8-4A38-A743-2AF053E53817"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:proface_gp-pro_ex_ex-ed:4.0.4:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PROFACE GP-PRO EX EX-ED 4.0.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_ex-ed:4.0.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:proface_gp-pro_ex_ex-ed:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PROFACE GP-PRO EX EX-ED",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_ex-ed:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

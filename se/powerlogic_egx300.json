@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:se:powerlogic_egx300:-:*:*:*:*:*:*:*",
+        "cpeNameId": "69141AB8-7A41-47BA-AD58-75DA8A61E6D3",
+        "lastModified": "2022-01-31T19:44:14.463",
+        "created": "2021-06-22T15:26:18.047",
+        "titles": [
+          {
+            "title": "Schneider Electric PowerLogic EGX300",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:powerlogic_egx300:-:*:*:*:*:*:*:*",
+            "cpeNameId": "8852B1BB-8D62-4FEF-84AC-BE1E89CFE0F2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:se:powerlogic_egx300:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PowerLogic EGX300",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:powerlogic_egx300:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

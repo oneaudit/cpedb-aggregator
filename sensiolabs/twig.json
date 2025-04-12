@@ -1,0 +1,165 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sensiolabs:twig:1.19.0:*:*:*:*:*:*:*",
+        "cpeNameId": "22685153-AE83-4301-AB50-A763E0B9A68E",
+        "lastModified": "2018-09-06T13:33:56.503",
+        "created": "2015-11-09T16:02:10.000",
+        "titles": [
+          {
+            "title": "SensioLabs Twig 1.19.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:symfony:twig:1.19.0:*:*:*:*:*:*:*",
+            "cpeNameId": "D9BABDD0-131C-42C9-B963-23745E36B206"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sensiolabs:twig:5.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "513B1351-EA2D-4411-A220-6795D093C8F6",
+        "lastModified": "2023-11-18T02:36:33.123",
+        "created": "2023-11-18T02:36:33.123",
+        "titles": [
+          {
+            "title": "SensioLabs Twig 5.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sensiolabs:twig:5.4.31:*:*:*:*:*:*:*",
+        "cpeNameId": "B5ECA779-7212-4465-81C4-86A17AB59DD9",
+        "lastModified": "2023-11-18T02:36:33.123",
+        "created": "2023-11-18T02:36:33.123",
+        "titles": [
+          {
+            "title": "SensioLabs Twig 5.4.31",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sensiolabs:twig:6.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E06C4FAA-4721-46D8-918C-BFB0C06689A1",
+        "lastModified": "2023-11-18T02:36:33.123",
+        "created": "2023-11-18T02:36:33.123",
+        "titles": [
+          {
+            "title": "SensioLabs Twig 6.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sensiolabs:twig:6.3.8:*:*:*:*:*:*:*",
+        "cpeNameId": "861385F4-C142-41C2-B26E-CF481EF33852",
+        "lastModified": "2023-11-18T02:36:33.123",
+        "created": "2023-11-18T02:36:33.123",
+        "titles": [
+          {
+            "title": "SensioLabs Twig 6.3.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sensiolabs:twig:2.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "39BD9291-5039-414E-8381-D15192281048",
+        "lastModified": "2023-12-01T13:06:12.100",
+        "created": "2023-12-01T13:06:12.100",
+        "titles": [
+          {
+            "title": "SensioLabs Twig 2.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sensiolabs:twig:4.4.51:*:*:*:*:*:*:*",
+        "cpeNameId": "D97ED1E6-BDC2-4F14-8747-E18D9CDFE57A",
+        "lastModified": "2023-12-01T13:06:12.100",
+        "created": "2023-12-01T13:06:12.100",
+        "titles": [
+          {
+            "title": "SensioLabs Twig 4.4.51",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sensiolabs:twig:1.19.0:*:*:*:*:*:*:*",
+      "title": "SensioLabs Twig 1.19.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:symfony:twig:1.19.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:sensiolabs:twig:5.0.0:*:*:*:*:*:*:*",
+      "title": "SensioLabs Twig 5.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sensiolabs:twig:5.4.31:*:*:*:*:*:*:*",
+      "title": "SensioLabs Twig 5.4.31",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sensiolabs:twig:6.0.0:*:*:*:*:*:*:*",
+      "title": "SensioLabs Twig 6.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sensiolabs:twig:6.3.8:*:*:*:*:*:*:*",
+      "title": "SensioLabs Twig 6.3.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sensiolabs:twig:2.0.0:*:*:*:*:*:*:*",
+      "title": "SensioLabs Twig 2.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sensiolabs:twig:4.4.51:*:*:*:*:*:*:*",
+      "title": "SensioLabs Twig 4.4.51",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

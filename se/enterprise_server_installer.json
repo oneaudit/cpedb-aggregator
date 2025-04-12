@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:enterprise_server_installer:1.9:*:*:*:*:*:*:*",
+        "cpeNameId": "E2170720-978E-4243-8A40-BDFF426FE075",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2020-12-16T14:21:09.677",
+        "titles": [
+          {
+            "title": "Schneider-Electric Enterprise Server Installer 1.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:enterprise_server_installer:1.9:*:*:*:*:*:*:*",
+            "cpeNameId": "42CF549E-04A3-455C-BAC4-91F01C8635F6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:enterprise_server_installer:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "503B47C6-B397-4354-ADDF-A3C6E53C9D03",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2020-12-16T14:21:09.783",
+        "titles": [
+          {
+            "title": "Schneider-Electric Enterprise Server Installer 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:enterprise_server_installer:3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "1B8C30EB-EFF2-42BE-BA07-144D389183D8"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:enterprise_server_installer:1.9:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric Enterprise Server Installer 1.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:enterprise_server_installer:1.9:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:enterprise_server_installer:3.1:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric Enterprise Server Installer 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:enterprise_server_installer:3.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

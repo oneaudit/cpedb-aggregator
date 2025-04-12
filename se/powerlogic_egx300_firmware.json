@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:powerlogic_egx300_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4AB4E84D-1230-4E46-B5A7-3901A764CA5E",
+        "lastModified": "2022-01-31T20:07:35.137",
+        "created": "2021-06-22T15:26:18.047",
+        "titles": [
+          {
+            "title": "Schneider Electric PowerLogic EGX300 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:powerlogic_egx300_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "DF475FAA-80E9-40CC-905A-D0FC3456E38E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:se:powerlogic_egx300_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PowerLogic EGX300 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:powerlogic_egx300_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

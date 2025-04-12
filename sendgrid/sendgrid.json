@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sendgrid:sendgrid:1.11.8:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "50A12A3E-8801-4714-A600-8F206872AD23",
+        "lastModified": "2021-08-31T15:54:50.927",
+        "created": "2021-08-04T20:00:25.717",
+        "titles": [
+          {
+            "title": "SendGrid 1.11.8 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sendgrid:sendgrid:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "811BCBDB-D03A-4C02-809B-D43E48AA3BFA",
+        "lastModified": "2021-08-31T15:54:50.927",
+        "created": "2021-08-04T20:00:25.717",
+        "titles": [
+          {
+            "title": "SendGrid for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sendgrid:sendgrid:1.11.8:*:*:*:*:wordpress:*:*",
+      "title": "SendGrid 1.11.8 for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sendgrid:sendgrid:-:*:*:*:*:wordpress:*:*",
+      "title": "SendGrid for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

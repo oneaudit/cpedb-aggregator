@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:somachine_hvac:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3922657B-A068-4813-B0E3-D19894D6C637",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2021-08-16T18:00:30.290",
+        "titles": [
+          {
+            "title": "Schneider Electric SoMachine HVAC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:somachine_hvac:-:*:*:*:*:*:*:*",
+            "cpeNameId": "18D74B77-6023-4A6C-89F5-902A6167C01B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:somachine_hvac:2.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0591B1D5-9E07-4633-98AB-B4C12F3DA18E",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2021-08-16T18:00:30.290",
+        "titles": [
+          {
+            "title": "Schneider Electric SoMachine HVAC 2.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:somachine_hvac:2.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "EBBD481D-B20E-42A6-A7D2-17F293C7E8F5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:somachine_hvac:2.4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "958CE5E0-CA04-4B76-A39E-0D4986F2804D",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2021-08-16T18:00:30.290",
+        "titles": [
+          {
+            "title": "Schneider Electric SoMachine HVAC 2.4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:somachine_hvac:2.4.1:*:*:*:*:*:*:*",
+            "cpeNameId": "F178ED64-932F-4711-9E5B-1F14E69C0145"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:somachine_hvac:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric SoMachine HVAC",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:somachine_hvac:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:somachine_hvac:2.1.0:*:*:*:*:*:*:*",
+      "title": "Schneider Electric SoMachine HVAC 2.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:somachine_hvac:2.1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:somachine_hvac:2.4.1:*:*:*:*:*:*:*",
+      "title": "Schneider Electric SoMachine HVAC 2.4.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:somachine_hvac:2.4.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

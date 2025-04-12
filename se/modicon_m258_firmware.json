@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:modicon_m258_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C874B3C6-6511-4031-B7FB-3ADEA705C257",
+        "lastModified": "2022-01-31T19:54:35.053",
+        "created": "2021-08-16T18:11:39.693",
+        "titles": [
+          {
+            "title": "Schneider Electric Modicon M258 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m258_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "996CC73E-41F9-43A3-9FA7-2360342F1FEE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:se:modicon_m258_firmware:5.0.4.11:*:*:*:*:*:*:*",
+        "cpeNameId": "0B0D5B3A-2E21-4BF2-BD74-C9D2148B1F82",
+        "lastModified": "2022-01-31T19:54:35.053",
+        "created": "2021-08-16T18:11:39.693",
+        "titles": [
+          {
+            "title": "Schneider Electric Modicon M258 Firmware 5.0.4.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m258_firmware:5.0.4.11:*:*:*:*:*:*:*",
+            "cpeNameId": "BD59EF22-1C22-47FF-AE39-64DE15BB0980"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:se:modicon_m258_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modicon M258 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m258_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:se:modicon_m258_firmware:5.0.4.11:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modicon M258 Firmware 5.0.4.11",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m258_firmware:5.0.4.11:*:*:*:*:*:*:*"
+    }
+  ]
+}

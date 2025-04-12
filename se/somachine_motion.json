@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:somachine_motion:-:*:*:*:*:*:*:*",
+        "cpeNameId": "69C7830D-8E3D-45D1-9DA0-BAF0798CF9DB",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2020-04-24T13:40:06.810",
+        "titles": [
+          {
+            "title": "Schneider Electric SoMachine Motion",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:somachine_motion:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F32B3C42-94C6-40CC-A843-339D37BFCEB4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:somachine_motion:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric SoMachine Motion",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:somachine_motion:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:serenityos:serenity:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CCC178A3-ABC7-4D54-8CDB-E0AF4F79D745",
+        "lastModified": "2022-12-08T18:55:40.097",
+        "created": "2020-03-31T19:52:26.247",
+        "titles": [
+          {
+            "title": "SerenityOS Serenity",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:serenityos:serenityos:-:*:*:*:*:*:*:*",
+            "cpeNameId": "1F978475-FD37-4366-96A1-E433725120B3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:serenityos:serenity:2019-12-30:*:*:*:*:*:*:*",
+        "cpeNameId": "4F34AB31-281A-426A-924C-27E50F4C1DB3",
+        "lastModified": "2022-12-08T18:55:40.097",
+        "created": "2020-03-31T19:52:26.573",
+        "titles": [
+          {
+            "title": "SerenityOS Serenity 2019-12-30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:serenityos:serenityos:2019-12-30:*:*:*:*:*:*:*",
+            "cpeNameId": "7AB03ED1-A541-4EE0-9282-EE9D0A221A94"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:serenityos:serenity:2021-03-27:*:*:*:*:*:*:*",
+        "cpeNameId": "6576D70E-85F5-4798-A264-90B4DE7C29D9",
+        "lastModified": "2022-12-08T18:55:40.097",
+        "created": "2021-04-08T20:04:19.567",
+        "titles": [
+          {
+            "title": "Serenityos Serenity 2021-03-27",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:serenityos:serenityos:2021-03-27:*:*:*:*:*:*:*",
+            "cpeNameId": "9878F7CD-28F2-4E6B-ABA8-76C92B55D3E1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:serenityos:serenity:-:*:*:*:*:*:*:*",
+      "title": "SerenityOS Serenity",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:serenityos:serenityos:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:serenityos:serenity:2019-12-30:*:*:*:*:*:*:*",
+      "title": "SerenityOS Serenity 2019-12-30",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:serenityos:serenityos:2019-12-30:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:serenityos:serenity:2021-03-27:*:*:*:*:*:*:*",
+      "title": "Serenityos Serenity 2021-03-27",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:serenityos:serenityos:2021-03-27:*:*:*:*:*:*:*"
+    }
+  ]
+}

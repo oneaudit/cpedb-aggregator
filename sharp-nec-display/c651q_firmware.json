@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:c651q_firmware:r2.000:*:*:*:*:*:*:*",
+        "cpeNameId": "8853174B-9006-4F9A-8826-7099ED9C4A0B",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:49:06.570",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions C651Q FIRMWARE R2.000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:c651q_firmware:r2.000:*:*:*:*:*:*:*",
+            "cpeNameId": "679DAAFF-CB14-4C9A-801F-B31C1E9E6E0F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:c651q_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "11096C93-E98E-4566-B577-F5EB70FFA3D4",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:49:06.570",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions C651Q FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:c651q_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "2CA7CFFD-4E4E-4C12-9749-92B7FC7DF053"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:c651q_firmware:r2.000:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions C651Q FIRMWARE R2.000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:c651q_firmware:r2.000:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:c651q_firmware:-:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions C651Q FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:c651q_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

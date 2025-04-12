@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:unity_loader:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CA32D77B-E090-4A4F-ABCF-6AAF324FBFCC",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2020-08-03T12:41:58.090",
+        "titles": [
+          {
+            "title": "Schneider Electric Unity Loader",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:unity_loader:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D8966B76-FAC3-4BF2-AE6F-BD9567A50AF7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:unity_loader:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Unity Loader",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:unity_loader:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

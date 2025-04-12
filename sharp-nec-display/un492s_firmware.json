@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:un492s_firmware:r1.300:*:*:*:*:*:*:*",
+        "cpeNameId": "80A31003-D846-45DD-9B21-9AF18866B40B",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:50:25.683",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions UN492S FIRMWARE R1.300",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:un492s_firmware:r1.300:*:*:*:*:*:*:*",
+            "cpeNameId": "0951DDB8-AAD0-40A6-B4B2-D75E7A0F13D5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:un492s_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "25A7C25C-1E4B-4412-896E-9F4535BC7E39",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:50:25.683",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions UN492S FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:un492s_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "61A6F76A-F824-416D-B432-2075F7B23303"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:un492s_firmware:r1.300:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions UN492S FIRMWARE R1.300",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:un492s_firmware:r1.300:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:un492s_firmware:-:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions UN492S FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:un492s_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

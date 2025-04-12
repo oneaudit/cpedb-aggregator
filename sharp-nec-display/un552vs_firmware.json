@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:un552vs_firmware:r1.300:*:*:*:*:*:*:*",
+        "cpeNameId": "2F4C07F6-00DF-47AD-B2B0-CEB12EA4C86A",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:51:19.067",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions UN552VS FIRMWARE R1.300",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:un552vs_firmware:r1.300:*:*:*:*:*:*:*",
+            "cpeNameId": "4F42DC25-2EB0-4E63-B8E8-CF9CDBFA1006"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sharp-nec-display:un552vs_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "91660729-D31C-4966-AB8F-EC1115D1E2C4",
+        "lastModified": "2022-05-23T14:11:28.027",
+        "created": "2021-06-14T12:51:19.067",
+        "titles": [
+          {
+            "title": "Sharp NEC Display Solutions UN552VS FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sharp-nec-displays:un552vs_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4CCD021C-6527-4B13-B8E7-1A7E4FC2C606"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:un552vs_firmware:r1.300:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions UN552VS FIRMWARE R1.300",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:un552vs_firmware:r1.300:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:sharp-nec-display:un552vs_firmware:-:*:*:*:*:*:*:*",
+      "title": "Sharp NEC Display Solutions UN552VS FIRMWARE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sharp-nec-displays:un552vs_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

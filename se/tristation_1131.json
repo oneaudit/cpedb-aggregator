@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:tristation_1131:4.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8311823B-67BE-4153-9278-623D2E3F9F75",
+        "lastModified": "2020-06-09T16:58:36.127",
+        "created": "2020-04-28T19:30:08.353",
+        "titles": [
+          {
+            "title": "Schneider Electric TriStation 1131 4.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:tristation_1131:4.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3573867F-3618-48EC-B309-F5C4ED62E98D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:tristation_1131:4.9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "08E82192-9440-43B0-BDD0-D53738153E94",
+        "lastModified": "2020-06-09T16:58:37.160",
+        "created": "2020-04-28T19:30:08.433",
+        "titles": [
+          {
+            "title": "Schneider Electric TriStation 1131 4.9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:tristation_1131:4.9.0:*:*:*:*:*:*:*",
+            "cpeNameId": "9E5C8EB7-C411-492F-AD6C-8A145A26BFA3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:tristation_1131:4.0.0:*:*:*:*:*:*:*",
+      "title": "Schneider Electric TriStation 1131 4.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:tristation_1131:4.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:tristation_1131:4.9.0:*:*:*:*:*:*:*",
+      "title": "Schneider Electric TriStation 1131 4.9.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:tristation_1131:4.9.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

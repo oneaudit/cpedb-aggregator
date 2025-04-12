@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:se:powerlogic_pm8000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E58DD52F-6253-43F8-8821-C5CE20A01BFE",
+        "lastModified": "2022-01-31T19:52:26.683",
+        "created": "2021-02-22T16:27:43.077",
+        "titles": [
+          {
+            "title": "Schneider Electric PowerLogic PM8000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:powerlogic_pm8000:-:*:*:*:*:*:*:*",
+            "cpeNameId": "8F8D3D4D-1A89-4073-A726-AAEFD79A4ED1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:se:powerlogic_pm8000:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric PowerLogic PM8000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:powerlogic_pm8000:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

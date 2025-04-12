@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:sosafe_configurable:1.8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "8A57B969-F975-4D96-A2A6-09454C1D7AA3",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2021-07-27T12:09:53.673",
+        "titles": [
+          {
+            "title": "Schneider Electric SoSafe Configurable 1.8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:sosafe_configurable:1.8.1:*:*:*:*:*:*:*",
+            "cpeNameId": "8CB2AB2E-8170-4AFE-8820-CFEFAC8D0DB2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:sosafe_configurable:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E80CE0C5-94D5-46AD-877B-55E7CCC0868C",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2021-07-27T12:09:53.673",
+        "titles": [
+          {
+            "title": "Schneider Electric SoSafe Configurable",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:sosafe_configurable:-:*:*:*:*:*:*:*",
+            "cpeNameId": "FC7E0607-B0C4-4E20-93BE-ECCDC8684E3F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:sosafe_configurable:1.8.1:*:*:*:*:*:*:*",
+      "title": "Schneider Electric SoSafe Configurable 1.8.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:sosafe_configurable:1.8.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:sosafe_configurable:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric SoSafe Configurable",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:sosafe_configurable:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

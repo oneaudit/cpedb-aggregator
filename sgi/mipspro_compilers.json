@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sgi:mipspro_compilers:-:*:*:*:*:*:*:*",
+        "cpeNameId": "19851FCD-B2BD-49FD-AB25-2FF3D568F59B",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "SGI MIPSPro Compilers",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sgi:mipspro_compilers:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "03C2A769-DD4E-4229-A023-35004FCACDEA",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "SGI MIPSPro Compilers 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sgi:mipspro_compilers:7.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7494819B-F6B0-4747-9AD5-8026136FD296",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "SGI MIPSPro Compilers 7.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sgi:mipspro_compilers:-:*:*:*:*:*:*:*",
+      "title": "SGI MIPSPro Compilers",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sgi:mipspro_compilers:7.1:*:*:*:*:*:*:*",
+      "title": "SGI MIPSPro Compilers 7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sgi:mipspro_compilers:7.2.1:*:*:*:*:*:*:*",
+      "title": "SGI MIPSPro Compilers 7.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

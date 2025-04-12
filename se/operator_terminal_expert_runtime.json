@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:operator_terminal_expert_runtime:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B9D89D80-A8B5-41EC-A7F1-D1C5D462CE4B",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2021-02-09T15:56:47.917",
+        "titles": [
+          {
+            "title": "Schneider-Electric Operator Terminal Expert Runtime",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0FB0DA1E-9CAB-431F-A819-FB0ED2D70176"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:operator_terminal_expert_runtime:3.1:-:*:*:*:*:*:*",
+        "cpeNameId": "D9B081E8-32CC-4347-88E3-49F6CAA22392",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2021-02-09T15:56:48.337",
+        "titles": [
+          {
+            "title": "Schneider-Electric Operator Terminal Expert Runtime 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:3.1:-:*:*:*:*:*:*",
+            "cpeNameId": "38DAD719-CC1C-451F-AA37-75AB23707F12"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:se:operator_terminal_expert_runtime:3.1:service_pack_1a:*:*:*:*:*:*",
+        "cpeNameId": "96AA1FEB-29D6-4C59-A8A5-BF351518EFA2",
+        "lastModified": "2022-01-31T19:32:59.153",
+        "created": "2021-02-09T15:56:48.400",
+        "titles": [
+          {
+            "title": "Schneider-Electric Operator Terminal Expert Runtime 3.1 Service Pack 1A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:3.1:service_pack_1a:*:*:*:*:*:*",
+            "cpeNameId": "EF92F3BD-E61D-483A-9D54-8FAE10FDA3C4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:se:operator_terminal_expert_runtime:-:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric Operator Terminal Expert Runtime",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:operator_terminal_expert_runtime:3.1:-:*:*:*:*:*:*",
+      "title": "Schneider-Electric Operator Terminal Expert Runtime 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:3.1:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:se:operator_terminal_expert_runtime:3.1:service_pack_1a:*:*:*:*:*:*",
+      "title": "Schneider-Electric Operator Terminal Expert Runtime 3.1 Service Pack 1A",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:3.1:service_pack_1a:*:*:*:*:*:*"
+    }
+  ]
+}
