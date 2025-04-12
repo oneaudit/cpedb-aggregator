@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ge:s2020_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "711F8721-D06B-4203-BF5F-2B5E99C98248",
+        "lastModified": "2020-06-18T20:04:32.197",
+        "created": "2020-06-18T20:04:32.197",
+        "titles": [
+          {
+            "title": "General Electric S2020 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ge:s2020_firmware:07a03:*:*:*:*:*:*:*",
+        "cpeNameId": "CBB568A6-E119-4B5F-A1E1-F512677380B6",
+        "lastModified": "2020-06-18T20:04:32.510",
+        "created": "2020-06-18T20:04:32.510",
+        "titles": [
+          {
+            "title": "General Electric S2020 Firmware 07a03",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ge:s2020_firmware:07a06:*:*:*:*:*:*:*",
+        "cpeNameId": "6BCD6C59-9D0C-4E70-A52F-B73CFF451E83",
+        "lastModified": "2021-06-08T13:53:59.453",
+        "created": "2020-09-29T15:19:02.030",
+        "titles": [
+          {
+            "title": "General Electric S2020 Firmware 07A06",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ge:s2020_firmware:-:*:*:*:*:*:*:*",
+      "title": "General Electric S2020 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ge:s2020_firmware:07a03:*:*:*:*:*:*:*",
+      "title": "General Electric S2020 Firmware 07a03",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ge:s2020_firmware:07a06:*:*:*:*:*:*:*",
+      "title": "General Electric S2020 Firmware 07A06",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

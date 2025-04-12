@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:gegridsolutions:d60_line_distance_relay:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B0FAC080-E3DE-44DE-8A98-10987923A36C",
+        "lastModified": "2021-08-18T14:12:42.233",
+        "created": "2018-03-14T16:57:57.550",
+        "titles": [
+          {
+            "title": "GE gridsolutions D60 Line Distance Relay",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:ge:d60_line_distance_relay:-:*:*:*:*:*:*:*",
+            "cpeNameId": "88C465D2-D107-4C2C-BCF0-0DE7684CAEB9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:gegridsolutions:d60_line_distance_relay:-:*:*:*:*:*:*:*",
+      "title": "GE gridsolutions D60 Line Distance Relay",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:ge:d60_line_distance_relay:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

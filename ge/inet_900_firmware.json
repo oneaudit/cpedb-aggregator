@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ge:inet_900_firmware:8.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "273526DB-46FD-4E60-8318-6FEBC0152431",
+        "lastModified": "2023-08-21T14:16:19.277",
+        "created": "2023-01-03T15:23:36.390",
+        "titles": [
+          {
+            "title": "General Electric iNET 900 Firmware 8.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ge:inet_900_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "65957933-2623-4545-8890-9280CB8FEB90",
+        "lastModified": "2023-08-21T14:16:19.277",
+        "created": "2023-01-03T15:23:36.390",
+        "titles": [
+          {
+            "title": "General Electric iNET 900 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ge:inet_900_firmware:8.3.0:*:*:*:*:*:*:*",
+      "title": "General Electric iNET 900 Firmware 8.3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ge:inet_900_firmware:-:*:*:*:*:*:*:*",
+      "title": "General Electric iNET 900 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

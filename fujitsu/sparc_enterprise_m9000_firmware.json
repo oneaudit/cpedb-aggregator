@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:fujitsu:sparc_enterprise_m9000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A33A91F3-F776-43DD-A3C8-49ECC393B65F",
+        "lastModified": "2020-03-04T15:39:01.487",
+        "created": "2020-03-04T15:39:01.487",
+        "titles": [
+          {
+            "title": "Fujitsu SPARC Enterprise M9000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:fujitsu:sparc_enterprise_m9000_firmware:xcp:*:*:*:*:*:*:*",
+        "cpeNameId": "0C48C5B8-365C-4794-848D-ED1C0CAD95AA",
+        "lastModified": "2020-12-21T15:46:15.327",
+        "created": "2020-12-21T15:46:15.327",
+        "titles": [
+          {
+            "title": "Fujitsu SPARC Enterprise M9000 Firmware XCP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:fujitsu:sparc_enterprise_m9000_firmware:xcp_1121:*:*:*:*:*:*:*",
+        "cpeNameId": "5DB68CA5-CAD9-46C7-B776-63A51AEA27B8",
+        "lastModified": "2020-12-21T15:46:15.480",
+        "created": "2020-12-21T15:46:15.480",
+        "titles": [
+          {
+            "title": "Fujitsu SPARC Enterprise M9000 Firmware XCP 1121",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:fujitsu:sparc_enterprise_m9000_firmware:-:*:*:*:*:*:*:*",
+      "title": "Fujitsu SPARC Enterprise M9000 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:fujitsu:sparc_enterprise_m9000_firmware:xcp:*:*:*:*:*:*:*",
+      "title": "Fujitsu SPARC Enterprise M9000 Firmware XCP",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:fujitsu:sparc_enterprise_m9000_firmware:xcp_1121:*:*:*:*:*:*:*",
+      "title": "Fujitsu SPARC Enterprise M9000 Firmware XCP 1121",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

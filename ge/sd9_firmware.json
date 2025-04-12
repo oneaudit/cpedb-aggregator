@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ge:sd9_firmware:6.4.7:*:*:*:*:*:*:*",
+        "cpeNameId": "2340B022-89D2-4D4B-BCC3-C64D3E198582",
+        "lastModified": "2023-08-21T14:16:19.277",
+        "created": "2023-01-03T15:25:00.423",
+        "titles": [
+          {
+            "title": "General Electric SD9 Firmware 6.4.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ge:sd9_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E22FB6E4-EBE3-4A6F-8B3A-9E1654FF34C2",
+        "lastModified": "2023-08-21T14:16:19.277",
+        "created": "2023-01-03T15:25:00.423",
+        "titles": [
+          {
+            "title": "General Electric SD9 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ge:sd9_firmware:6.4.7:*:*:*:*:*:*:*",
+      "title": "General Electric SD9 Firmware 6.4.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ge:sd9_firmware:-:*:*:*:*:*:*:*",
+      "title": "General Electric SD9 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

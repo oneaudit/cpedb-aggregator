@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ge:multilin_d30_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "08FAF082-1A08-445C-8674-9474259CA1AA",
+        "lastModified": "2022-04-01T13:23:28.970",
+        "created": "2022-03-31T18:14:05.757",
+        "titles": [
+          {
+            "title": "General Electric Multilin D30 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ge:multilin_d30_firmware:8.10:*:*:*:*:*:*:*",
+        "cpeNameId": "FF01E9F6-90B0-4328-90FD-F06F6570E981",
+        "lastModified": "2022-04-01T13:23:28.970",
+        "created": "2022-03-31T18:14:34.760",
+        "titles": [
+          {
+            "title": "General Electric Multilin D30 Firmware 8.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ge:multilin_d30_firmware:-:*:*:*:*:*:*:*",
+      "title": "General Electric Multilin D30 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ge:multilin_d30_firmware:8.10:*:*:*:*:*:*:*",
+      "title": "General Electric Multilin D30 Firmware 8.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

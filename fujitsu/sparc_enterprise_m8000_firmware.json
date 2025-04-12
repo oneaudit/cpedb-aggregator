@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:fujitsu:sparc_enterprise_m8000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A4324DC7-75E6-4D39-AF08-687FC5DA3D4E",
+        "lastModified": "2020-03-04T15:39:00.437",
+        "created": "2020-03-04T15:39:00.437",
+        "titles": [
+          {
+            "title": "Fujitsu SPARC Enterprise M8000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:fujitsu:sparc_enterprise_m8000_firmware:xcp:*:*:*:*:*:*:*",
+        "cpeNameId": "A2628731-2D8B-4BEE-894E-BCE09F91BD9B",
+        "lastModified": "2020-12-21T15:46:15.027",
+        "created": "2020-12-21T15:46:15.027",
+        "titles": [
+          {
+            "title": "Fujitsu SPARC Enterprise M8000 Firmware XCP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:fujitsu:sparc_enterprise_m8000_firmware:xcp_1121:*:*:*:*:*:*:*",
+        "cpeNameId": "BF1E1956-8E15-4A3E-8DF5-185DE602F681",
+        "lastModified": "2020-12-21T15:46:15.183",
+        "created": "2020-12-21T15:46:15.183",
+        "titles": [
+          {
+            "title": "Fujitsu SPARC Enterprise M8000 Firmware XCP 1121",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:fujitsu:sparc_enterprise_m8000_firmware:-:*:*:*:*:*:*:*",
+      "title": "Fujitsu SPARC Enterprise M8000 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:fujitsu:sparc_enterprise_m8000_firmware:xcp:*:*:*:*:*:*:*",
+      "title": "Fujitsu SPARC Enterprise M8000 Firmware XCP",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:fujitsu:sparc_enterprise_m8000_firmware:xcp_1121:*:*:*:*:*:*:*",
+      "title": "Fujitsu SPARC Enterprise M8000 Firmware XCP 1121",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

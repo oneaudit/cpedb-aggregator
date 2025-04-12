@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ge:communicator:3.15:*:*:*:*:*:*:*",
+        "cpeNameId": "C1C7376F-633B-449B-969D-DEAAEACC8640",
+        "lastModified": "2019-05-16T16:16:30.353",
+        "created": "2019-05-10T19:11:54.547",
+        "titles": [
+          {
+            "title": "GE Communicator 3.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ge:ge_communicator:3.15:*:*:*:*:*:*:*",
+            "cpeNameId": "4C3EDF0D-2E34-42B7-8873-B2BAB5F07FE5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ge:communicator:4.0.517:*:*:*:*:*:*:*",
+        "cpeNameId": "D28E8E94-944C-40EE-B49C-39DD872AEB90",
+        "lastModified": "2019-05-16T16:16:31.823",
+        "created": "2019-05-10T19:11:54.640",
+        "titles": [
+          {
+            "title": "GE Communicator 4.0.517",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ge:ge_communicator:4.0.517:*:*:*:*:*:*:*",
+            "cpeNameId": "35B84427-9049-4462-AFD1-CEB1C25F0E8C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ge:communicator:3.15:*:*:*:*:*:*:*",
+      "title": "GE Communicator 3.15",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ge:ge_communicator:3.15:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ge:communicator:4.0.517:*:*:*:*:*:*:*",
+      "title": "GE Communicator 4.0.517",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ge:ge_communicator:4.0.517:*:*:*:*:*:*:*"
+    }
+  ]
+}

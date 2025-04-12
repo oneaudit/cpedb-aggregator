@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ge:multilin_f35_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9B44954A-BBFE-4D2B-9C52-FF8AC542366E",
+        "lastModified": "2022-04-01T13:23:28.970",
+        "created": "2022-03-31T18:14:05.757",
+        "titles": [
+          {
+            "title": "General Electric Multilin F35 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ge:multilin_f35_firmware:8.10:*:*:*:*:*:*:*",
+        "cpeNameId": "26CBF933-63C0-4B6D-8526-112591E41313",
+        "lastModified": "2022-04-01T13:23:28.970",
+        "created": "2022-03-31T18:14:34.760",
+        "titles": [
+          {
+            "title": "General Electric Multilin F35 Firmware 8.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ge:multilin_f35_firmware:-:*:*:*:*:*:*:*",
+      "title": "General Electric Multilin F35 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ge:multilin_f35_firmware:8.10:*:*:*:*:*:*:*",
+      "title": "General Electric Multilin F35 Firmware 8.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

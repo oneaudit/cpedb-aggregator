@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:gehealthcare:brivo_6000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6D55286B-C346-45C2-BE83-35C7386BE03D",
+        "lastModified": "2021-04-30T13:48:17.930",
+        "created": "2020-12-15T13:46:50.197",
+        "titles": [
+          {
+            "title": "GE Healthcare Brivo 6000 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:gehealthcare:definium_6000_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "19E19DE6-AF1A-40BF-9C7C-1515D6C3C49A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:gehealthcare:brivo_6000_firmware:-:*:*:*:*:*:*:*",
+      "title": "GE Healthcare Brivo 6000 Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:gehealthcare:definium_6000_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

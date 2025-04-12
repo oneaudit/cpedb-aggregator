@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:fujitsu:sparc_enterprise_m3000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "05AFBE4D-C2FB-49E7-ADB2-6FEDE88E8949",
+        "lastModified": "2020-03-04T15:38:57.173",
+        "created": "2020-03-04T15:38:57.173",
+        "titles": [
+          {
+            "title": "Fujitsu SPARC Enterprise M3000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:fujitsu:sparc_enterprise_m3000_firmware:xcp:*:*:*:*:*:*:*",
+        "cpeNameId": "1B6905F5-3CE6-4540-8EDE-BAA72BC78989",
+        "lastModified": "2020-12-21T15:46:06.717",
+        "created": "2020-12-21T15:46:06.717",
+        "titles": [
+          {
+            "title": "Fujitsu SPARC Enterprise M3000 Firmware XCP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:fujitsu:sparc_enterprise_m3000_firmware:xcp_1121:*:*:*:*:*:*:*",
+        "cpeNameId": "3C795EE7-F752-4915-A8BD-6D1090D8113D",
+        "lastModified": "2020-12-21T15:46:14.137",
+        "created": "2020-12-21T15:46:14.137",
+        "titles": [
+          {
+            "title": "Fujitsu SPARC Enterprise M3000 Firmware XCP 1121",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:fujitsu:sparc_enterprise_m3000_firmware:-:*:*:*:*:*:*:*",
+      "title": "Fujitsu SPARC Enterprise M3000 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:fujitsu:sparc_enterprise_m3000_firmware:xcp:*:*:*:*:*:*:*",
+      "title": "Fujitsu SPARC Enterprise M3000 Firmware XCP",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:fujitsu:sparc_enterprise_m3000_firmware:xcp_1121:*:*:*:*:*:*:*",
+      "title": "Fujitsu SPARC Enterprise M3000 Firmware XCP 1121",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

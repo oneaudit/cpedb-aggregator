@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:gehealthcare:brivo_5000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5BAC7419-478C-4D90-887C-23DB7537C300",
+        "lastModified": "2021-04-30T13:48:17.930",
+        "created": "2020-12-15T13:46:50.197",
+        "titles": [
+          {
+            "title": "GE Healthcare Brivo 5000 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:gehealthcare:definium_5000:-:*:*:*:*:*:*:*",
+            "cpeNameId": "299B208B-EE4D-41CE-B729-E49C02327A63"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:gehealthcare:brivo_5000:-:*:*:*:*:*:*:*",
+      "title": "GE Healthcare Brivo 5000 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:gehealthcare:definium_5000:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

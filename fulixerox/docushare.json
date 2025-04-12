@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:fulixerox:docushare:-:*:*:*:*:*:*:*",
+        "cpeNameId": "054F5A06-85DC-4108-A75B-E84886596747",
+        "lastModified": "2022-02-09T18:25:41.760",
+        "created": "2020-01-14T19:08:32.450",
+        "titles": [
+          {
+            "title": "FUJI XEROX DocuShare",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:fujixerox:docushare:-:*:*:*:*:*:*:*",
+            "cpeNameId": "DDF69565-89F5-4D86-87B3-3EECC53B0626"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:fulixerox:docushare:7.0.0.c1.609:*:*:*:*:*:*:*",
+        "cpeNameId": "89CD4557-EE09-4D67-89E1-16419C60C444",
+        "lastModified": "2022-02-09T18:25:41.760",
+        "created": "2020-01-14T19:08:32.747",
+        "titles": [
+          {
+            "title": "FUJI XEROX DocuShare 7.0.0.c1.609",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:fujixerox:docushare:7.0.0.c1.609:*:*:*:*:*:*:*",
+            "cpeNameId": "B078F465-776B-4FEE-9425-C0A8835F9841"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:fulixerox:docushare:-:*:*:*:*:*:*:*",
+      "title": "FUJI XEROX DocuShare",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:fujixerox:docushare:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:fulixerox:docushare:7.0.0.c1.609:*:*:*:*:*:*:*",
+      "title": "FUJI XEROX DocuShare 7.0.0.c1.609",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:fujixerox:docushare:7.0.0.c1.609:*:*:*:*:*:*:*"
+    }
+  ]
+}
