@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:cloudbees_docker_hub\\/registry_notification:2.6.2.1:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "ABD3276E-A884-4ED2-B999-A9BB3D6A3019",
+        "lastModified": "2022-11-16T15:47:44.140",
+        "created": "2022-11-16T14:16:18.627",
+        "titles": [
+          {
+            "title": "Jenkins CloudBees Docker Hub/registry Notification 2.6.2.1 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:cloudbees_docker_hub\\/registry_notification:2.6.2:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "653A5285-ACE2-416E-B63A-DDE5AEA53079",
+        "lastModified": "2022-11-16T15:47:44.140",
+        "created": "2022-11-16T14:16:18.627",
+        "titles": [
+          {
+            "title": "Jenkins CloudBees Docker Hub/registry Notification 2.6.2 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:cloudbees_docker_hub\\/registry_notification:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "5A26B7DD-9F2C-4EC3-8466-6761A4795A68",
+        "lastModified": "2022-11-16T15:47:44.140",
+        "created": "2022-11-16T14:16:18.627",
+        "titles": [
+          {
+            "title": "Jenkins CloudBees Docker Hub/registry Notification for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:cloudbees_docker_hub\\/registry_notification:2.6.2.1:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins CloudBees Docker Hub/registry Notification 2.6.2.1 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:cloudbees_docker_hub\\/registry_notification:2.6.2:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins CloudBees Docker Hub/registry Notification 2.6.2 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:cloudbees_docker_hub\\/registry_notification:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins CloudBees Docker Hub/registry Notification for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:global_variable_string_parameter:1.2:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "FB364233-03F4-40A0-A507-59EE48C46E77",
+        "lastModified": "2022-11-23T13:27:13.697",
+        "created": "2022-11-23T13:12:37.733",
+        "titles": [
+          {
+            "title": "Jenkins Global Variable String Parameter 1.2 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:global_variable_string_parameter:1.1:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "6DE1095F-7357-45C1-BC9A-CC5A28125142",
+        "lastModified": "2022-11-23T13:27:13.697",
+        "created": "2022-11-23T13:12:37.733",
+        "titles": [
+          {
+            "title": "Jenkins Global Variable String Parameter 1.1 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:global_variable_string_parameter:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "44CDD54E-250E-43DA-BD10-4028C0480B4E",
+        "lastModified": "2022-11-23T13:27:13.697",
+        "created": "2022-11-23T13:12:37.733",
+        "titles": [
+          {
+            "title": "Jenkins Global Variable String Parameter for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:global_variable_string_parameter:1.2:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Global Variable String Parameter 1.2 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:global_variable_string_parameter:1.1:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Global Variable String Parameter 1.1 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:global_variable_string_parameter:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Global Variable String Parameter for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

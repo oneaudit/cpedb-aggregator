@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jboss:jboss:3.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "E11EC4B2-4B7A-4A21-AF83-CFC83CCCDD36",
+        "lastModified": "2020-03-24T16:48:48.877",
+        "created": "2020-03-24T16:48:48.877",
+        "titles": [
+          {
+            "title": "JBoss 3.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jboss:jboss:3.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "C00FAE89-829B-4D3E-98C8-F82630C8663F",
+        "lastModified": "2020-03-24T16:48:49.237",
+        "created": "2020-03-24T16:48:49.237",
+        "titles": [
+          {
+            "title": "JBoss 3.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jboss:jboss:3.0.8:*:*:*:*:*:*:*",
+      "title": "JBoss 3.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jboss:jboss:3.2.1:*:*:*:*:*:*:*",
+      "title": "JBoss 3.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

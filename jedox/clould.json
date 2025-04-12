@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:jedox:clould:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F3DA799D-8D14-43F4-9F56-343D6F0A9241",
+        "lastModified": "2023-08-30T13:03:17.610",
+        "created": "2023-05-08T17:23:46.603",
+        "titles": [
+          {
+            "title": "Jedox Clould",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:jedox:cloud:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4E5633D2-9BCC-4BA4-B60C-D998A7F5A6EA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jedox:clould:-:*:*:*:*:*:*:*",
+      "title": "Jedox Clould",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:jedox:cloud:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

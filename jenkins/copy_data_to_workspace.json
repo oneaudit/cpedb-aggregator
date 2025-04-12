@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:copy_data_to_workspace:1.0:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "08F77AE3-F2D3-4CCA-A8AB-0E4892D8F559",
+        "lastModified": "2020-09-17T17:42:25.570",
+        "created": "2020-09-17T17:42:25.570",
+        "titles": [
+          {
+            "title": "Jenkins Copy Data To Workspace 1.0 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:copy_data_to_workspace:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "176DC166-63B5-4E8F-B50A-610EDE6CD72C",
+        "lastModified": "2022-11-23T13:43:03.340",
+        "created": "2022-11-23T13:42:06.110",
+        "titles": [
+          {
+            "title": "Jenkins Copy data to Workspace for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:copy_data_to_workspace:1.0:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Copy Data To Workspace 1.0 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:copy_data_to_workspace:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Copy data to Workspace for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jason_flatt:basic_webmail:6.x-1.x:dev:*:*:*:*:*:*",
+        "cpeNameId": "419B3FF5-6D87-4A38-AE78-B2FA68844D2D",
+        "lastModified": "2012-12-18T21:36:09.103",
+        "created": "2012-12-04T19:54:15.503",
+        "titles": [
+          {
+            "title": "Jason Flatt Basic webmail module for Drupal 6.x-1.x-dev",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jason_flatt:basic_webmail:6.x-1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "192AD2B3-F6E0-44F6-ACAB-10C86DF58DDF",
+        "lastModified": "2012-12-18T21:36:09.010",
+        "created": "2012-12-04T19:54:15.613",
+        "titles": [
+          {
+            "title": "Jason Flatt Basic webmail module for Drupal 6.x-1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:jason_flatt:basic_webmail:6.x-1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "44B0781B-D9FE-4E3A-8580-4AC130F3235D",
+        "lastModified": "2021-04-15T16:15:12.397",
+        "created": "2012-12-04T19:54:15.723",
+        "titles": [
+          {
+            "title": "Jason Flatt Basic webmail module for Drupal 6.x-1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:basic_webmail_project:basic_webmail:6.x-1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "E633B8D3-F4AB-43D6-92EF-6295D0FF0C28"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jason_flatt:basic_webmail:6.x-1.x:dev:*:*:*:*:*:*",
+      "title": "Jason Flatt Basic webmail module for Drupal 6.x-1.x-dev",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jason_flatt:basic_webmail:6.x-1.0:*:*:*:*:*:*:*",
+      "title": "Jason Flatt Basic webmail module for Drupal 6.x-1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jason_flatt:basic_webmail:6.x-1.1:*:*:*:*:*:*:*",
+      "title": "Jason Flatt Basic webmail module for Drupal 6.x-1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:basic_webmail_project:basic_webmail:6.x-1.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

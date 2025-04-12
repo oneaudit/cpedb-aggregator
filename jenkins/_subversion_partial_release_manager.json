@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:jenkins:_subversion_partial_release_manager:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "C054345A-75BF-42D3-A317-C7ED52744387",
+        "lastModified": "2020-06-04T11:50:37.277",
+        "created": "2020-06-03T18:19:12.797",
+        "titles": [
+          {
+            "title": "Jenkins Subversion Partial Release Manager for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:jenkins:subversion_partial_release_manager:-:*:*:*:*:jenkins:*:*",
+            "cpeNameId": "CA118E3A-EB5D-4FA1-B8AD-9DC51FF4F119"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:jenkins:_subversion_partial_release_manager:1.0.1:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "949FB417-EE21-4461-A288-BEE6040CC257",
+        "lastModified": "2020-06-04T11:50:37.430",
+        "created": "2020-06-03T18:19:13.127",
+        "titles": [
+          {
+            "title": "Jenkins Subversion Partial Release Manager 1.0.1 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:jenkins:subversion_partial_release_manager:1.0.1:*:*:*:*:jenkins:*:*",
+            "cpeNameId": "4DA5FB5A-4935-41D6-9C51-43FD114E32AE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:_subversion_partial_release_manager:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Subversion Partial Release Manager for Jenkins",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:jenkins:subversion_partial_release_manager:-:*:*:*:*:jenkins:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:_subversion_partial_release_manager:1.0.1:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Subversion Partial Release Manager 1.0.1 for Jenkins",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:jenkins:subversion_partial_release_manager:1.0.1:*:*:*:*:jenkins:*:*"
+    }
+  ]
+}

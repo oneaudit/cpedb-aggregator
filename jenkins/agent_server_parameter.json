@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:agent_server_parameter:1.0:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "AB580F50-B08D-4CE6-82EC-1560D1CD42AB",
+        "lastModified": "2022-02-18T13:51:16.393",
+        "created": "2022-02-18T13:50:14.673",
+        "titles": [
+          {
+            "title": "Jenkins Agent Server Parameter 1.0 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:agent_server_parameter:1.1:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "9F2AEE1A-1FBB-43BD-9D17-79FACF94F92A",
+        "lastModified": "2022-02-18T13:51:16.393",
+        "created": "2022-02-18T13:50:14.673",
+        "titles": [
+          {
+            "title": "Jenkins Agent Server Parameter 1.1 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:agent_server_parameter:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "8FB20558-28A5-4430-B6B2-47DDE32F9A8D",
+        "lastModified": "2022-11-23T01:57:27.360",
+        "created": "2022-11-23T01:51:38.190",
+        "titles": [
+          {
+            "title": "Jenkins Agent Server Parameter for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:agent_server_parameter:1.0:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Agent Server Parameter 1.0 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:agent_server_parameter:1.1:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Agent Server Parameter 1.1 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:agent_server_parameter:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Agent Server Parameter for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

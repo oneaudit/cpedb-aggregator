@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ioserver:ioserver:1.0.19.0:*:*:*:*:*:*:*",
+        "cpeNameId": "71A43C0D-E4AD-4079-A439-DD8C19225F61",
+        "lastModified": "2013-06-24T14:18:08.463",
+        "created": "2013-06-17T13:49:07.717",
+        "titles": [
+          {
+            "title": "IOServer 1.0.19.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ioserver:ioserver:1.0.18.0:*:*:*:*:*:*:*",
+        "cpeNameId": "291C6754-9D72-4B25-A434-D9A8448C3FD0",
+        "lastModified": "2013-06-24T14:18:08.420",
+        "created": "2013-06-17T13:49:07.907",
+        "titles": [
+          {
+            "title": "IOServer 1.0.18.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ioserver:ioserver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A7A6B5A4-7F5E-4947-ADCF-F720A499CEFA",
+        "lastModified": "2014-02-28T00:29:37.393",
+        "created": "2013-08-13T18:27:22.413",
+        "titles": [
+          {
+            "title": "IOServer -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ioserver:ioserver:1.0.19.0:*:*:*:*:*:*:*",
+      "title": "IOServer 1.0.19.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ioserver:ioserver:1.0.18.0:*:*:*:*:*:*:*",
+      "title": "IOServer 1.0.18.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ioserver:ioserver:-:*:*:*:*:*:*:*",
+      "title": "IOServer -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

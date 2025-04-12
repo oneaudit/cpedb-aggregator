@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:isaac_sukin:browserid:7.x-1.x-dev:*:*:*:*:*:*:*",
+        "cpeNameId": "3AB52370-A229-48A1-99E9-3AFBE7C3CE9A",
+        "lastModified": "2020-01-27T16:24:24.997",
+        "created": "2012-06-27T15:22:22.137",
+        "titles": [
+          {
+            "title": "Isaac Sukin BrowserID (Mozilla Persona) module for Drupal 7.x-1.x-dev",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:browserid_project:browserid:7.x-1.x-dev:*:*:*:*:*:*:*",
+            "cpeNameId": "3330B6A0-5424-49A8-AFAB-0A6E7328EAD3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:isaac_sukin:browserid:7.x-1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "81022778-ACA3-4943-B24D-9B2FDD6D3A3F",
+        "lastModified": "2020-01-27T16:24:20.870",
+        "created": "2012-06-27T15:22:22.243",
+        "titles": [
+          {
+            "title": "Isaac Sukin BrowserID (Mozilla Persona) module for Drupal 7.x-1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:browserid_project:browserid:7.x-1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "AAFB9B60-FCB1-4023-A2F8-4D9A1879313E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:isaac_sukin:browserid:7.x-1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "DEF9567D-0820-463B-A8F5-06E3E8BA6739",
+        "lastModified": "2020-01-27T16:24:22.387",
+        "created": "2012-06-27T15:22:22.337",
+        "titles": [
+          {
+            "title": "Isaac Sukin BrowserID (Mozilla Persona) module for Drupal 7.x-1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:browserid_project:browserid:7.x-1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "220B9F67-B12B-4060-84C4-2536960B6542"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:isaac_sukin:browserid:7.x-1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "9DEB0FBD-E449-4840-A5D8-1640BBAAF07A",
+        "lastModified": "2020-01-27T16:24:23.823",
+        "created": "2012-06-27T15:22:22.447",
+        "titles": [
+          {
+            "title": "Isaac Sukin BrowserID (Mozilla Persona) module for Drupal 7.x-1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:browserid_project:browserid:7.x-1.2:*:*:*:*:*:*:*",
+            "cpeNameId": "2BE7A73F-E803-4284-84C2-61C3E73D1E7B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:isaac_sukin:browserid:7.x-1.x-dev:*:*:*:*:*:*:*",
+      "title": "Isaac Sukin BrowserID (Mozilla Persona) module for Drupal 7.x-1.x-dev",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:browserid_project:browserid:7.x-1.x-dev:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:isaac_sukin:browserid:7.x-1.0:*:*:*:*:*:*:*",
+      "title": "Isaac Sukin BrowserID (Mozilla Persona) module for Drupal 7.x-1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:browserid_project:browserid:7.x-1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:isaac_sukin:browserid:7.x-1.1:*:*:*:*:*:*:*",
+      "title": "Isaac Sukin BrowserID (Mozilla Persona) module for Drupal 7.x-1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:browserid_project:browserid:7.x-1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:isaac_sukin:browserid:7.x-1.2:*:*:*:*:*:*:*",
+      "title": "Isaac Sukin BrowserID (Mozilla Persona) module for Drupal 7.x-1.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:browserid_project:browserid:7.x-1.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

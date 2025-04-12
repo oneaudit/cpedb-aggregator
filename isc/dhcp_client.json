@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:isc:dhcp_client:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4C7B8D37-C2B2-4E4D-8B03-84F81D34EE12",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "ISC DHCP Client",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:isc:dhcp_client:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "76D21400-D42F-4C34-9249-CA46F3CAAFC7",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "ISC DHCP Client 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:isc:dhcp_client:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "299EF5C9-42D7-49B5-AE29-A6910EDD47F8",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "ISC DHCP Client 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:isc:dhcp_client:3.0b1:*:*:*:*:*:*:*",
+        "cpeNameId": "ECAE143C-84EA-42D2-8680-698287D32830",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "ISC DHCP Client 3.0b1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:isc:dhcp_client:-:*:*:*:*:*:*:*",
+      "title": "ISC DHCP Client",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:isc:dhcp_client:1.0:*:*:*:*:*:*:*",
+      "title": "ISC DHCP Client 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:isc:dhcp_client:2.0:*:*:*:*:*:*:*",
+      "title": "ISC DHCP Client 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:isc:dhcp_client:3.0b1:*:*:*:*:*:*:*",
+      "title": "ISC DHCP Client 3.0b1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

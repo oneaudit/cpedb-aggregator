@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:codescan:0.11:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "CDC4FB98-DE3B-4A72-B4B0-7FD147F79D1F",
+        "lastModified": "2019-09-26T15:07:38.470",
+        "created": "2019-09-26T15:07:38.470",
+        "titles": [
+          {
+            "title": "Jenkins CodeScan 0.11 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:codescan:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "D887184A-FBA6-4549-AA75-02C460B57365",
+        "lastModified": "2019-10-28T16:29:11.753",
+        "created": "2019-10-28T16:29:11.753",
+        "titles": [
+          {
+            "title": "Jenkins CodeScan for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:codescan:1.0:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "A4AB0626-B011-4D36-974A-3588D05C8B62",
+        "lastModified": "2019-10-28T16:29:12.080",
+        "created": "2019-10-28T16:29:12.080",
+        "titles": [
+          {
+            "title": "Jenkins CodeScan 1.0 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:codescan:0.11:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins CodeScan 0.11 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:codescan:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins CodeScan for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:codescan:1.0:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins CodeScan 1.0 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

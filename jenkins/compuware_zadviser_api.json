@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:compuware_zadviser_api:1.0.3:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "560D11E3-5830-4BF1-A357-413F5B03043F",
+        "lastModified": "2022-08-09T12:01:49.980",
+        "created": "2022-08-02T19:30:56.653",
+        "titles": [
+          {
+            "title": "Jenkins Compuware zAdviser API 1.0.3 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:compuware_zadviser_api:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "5FDC412E-56DC-41EC-A35A-B8C0EB132786",
+        "lastModified": "2022-08-09T12:01:49.980",
+        "created": "2022-08-02T19:30:56.653",
+        "titles": [
+          {
+            "title": "Jenkins Compuware zAdviser API for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:compuware_zadviser_api:1.0.3:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Compuware zAdviser API 1.0.3 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:compuware_zadviser_api:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Compuware zAdviser API for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

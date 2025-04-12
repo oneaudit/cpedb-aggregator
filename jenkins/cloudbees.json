@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:cloudbees:1.596.1:*:*:*:lts:jenkins:*:*",
+        "cpeNameId": "9CD9631A-B561-444C-9A02-A2412203CC21",
+        "lastModified": "2020-01-24T16:43:08.463",
+        "created": "2020-01-24T16:43:08.463",
+        "titles": [
+          {
+            "title": "Jenkins CloudBees 1.596.1 LTS Edition for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:cloudbees:1.600:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "3EE895D0-FF81-4304-AC69-EB273505FD73",
+        "lastModified": "2020-01-24T16:43:08.573",
+        "created": "2020-01-24T16:43:08.573",
+        "titles": [
+          {
+            "title": "Jenkins CloudBees 1.600 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:cloudbees:1.596.1:*:*:*:lts:jenkins:*:*",
+      "title": "Jenkins CloudBees 1.596.1 LTS Edition for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:cloudbees:1.600:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins CloudBees 1.600 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

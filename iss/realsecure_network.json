@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:iss:realsecure_network:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5A38D4AE-97E8-4598-8984-58D7B66A7B06",
+        "lastModified": "2008-03-25T19:15:55.570",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Internet Security Systems RealSecure Network",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:iss:realsecure_network:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B171CB1B-5D1D-4B3E-91DD-22FC62B497E2",
+        "lastModified": "2008-03-25T19:15:55.633",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Internet Security Systems RealSecure Network 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:iss:realsecure_network:-:*:*:*:*:*:*:*",
+      "title": "Internet Security Systems RealSecure Network",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:iss:realsecure_network:7.0:*:*:*:*:*:*:*",
+      "title": "Internet Security Systems RealSecure Network 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

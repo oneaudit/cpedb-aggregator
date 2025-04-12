@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:iomega:home_media_network_hard_drive:-:*:*:*:-:*:*:*",
+        "cpeNameId": "45018764-0A12-480D-810A-ACAF31143DD3",
+        "lastModified": "2020-04-14T10:43:10.737",
+        "created": "2020-04-14T10:43:10.737",
+        "titles": [
+          {
+            "title": "Iomega Home Media Network Hard Drive Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:iomega:home_media_network_hard_drive:-:*:*:*:cloud:*:*:*",
+        "cpeNameId": "4BA7451C-B425-46DF-B144-56A6F921A514",
+        "lastModified": "2020-04-14T10:43:11.050",
+        "created": "2020-04-14T10:43:11.050",
+        "titles": [
+          {
+            "title": "Iomega Home Media Network Hard Drive Cloud Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:iomega:home_media_network_hard_drive:-:*:*:*:-:*:*:*",
+      "title": "Iomega Home Media Network Hard Drive Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:iomega:home_media_network_hard_drive:-:*:*:*:cloud:*:*:*",
+      "title": "Iomega Home Media Network Hard Drive Cloud Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

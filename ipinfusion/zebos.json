@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ipinfusion:zebos:7.10.6:*:*:*:*:*:*:*",
+        "cpeNameId": "2DF1C9B7-B951-476E-BE64-B11B3DA8D8F2",
+        "lastModified": "2021-05-19T11:56:37.183",
+        "created": "2019-01-11T16:46:28.443",
+        "titles": [
+          {
+            "title": "IP Infusion ZebOS 7.10.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ipinfusion:zebos:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1A678EC3-0773-480A-8461-04F37B6096C3",
+        "lastModified": "2021-05-19T11:56:37.183",
+        "created": "2019-01-11T16:46:28.443",
+        "titles": [
+          {
+            "title": "IP Infusion ZebOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ipinfusion:zebos:7.10.6:*:*:*:*:*:*:*",
+      "title": "IP Infusion ZebOS 7.10.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ipinfusion:zebos:-:*:*:*:*:*:*:*",
+      "title": "IP Infusion ZebOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

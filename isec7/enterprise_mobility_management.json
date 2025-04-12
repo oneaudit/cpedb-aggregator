@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:isec7:enterprise_mobility_management:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1E92F702-7F90-4A97-978D-6DB334467BDE",
+        "lastModified": "2024-04-19T16:19:39.720",
+        "created": "2019-09-25T15:00:20.500",
+        "titles": [
+          {
+            "title": "iSEC7 Enterprise Mobility Management 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:isec7:sphere:6.0:*:*:*:*:*:*:*",
+            "cpeNameId": "921C9120-16CA-4884-8628-BABF9C163467"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:isec7:enterprise_mobility_management:6.0:*:*:*:*:*:*:*",
+      "title": "iSEC7 Enterprise Mobility Management 6.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:isec7:sphere:6.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

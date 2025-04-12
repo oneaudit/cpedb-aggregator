@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ithemes:2checkout:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "2307AEC9-9F89-4B8B-8A6E-4DEE5225D6AB",
+        "lastModified": "2021-03-16T13:10:13.400",
+        "created": "2019-08-29T16:07:05.490",
+        "titles": [
+          {
+            "title": "iThemes 2Checkout for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:2checkout:ithemes_2checkout:-:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "575352FA-562A-4880-B362-E9101B5B832A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ithemes:2checkout:1.1.0:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "8FC7AAC6-197A-4F20-A2D9-5CE172ACB944",
+        "lastModified": "2021-03-16T13:10:13.400",
+        "created": "2019-08-29T16:07:05.770",
+        "titles": [
+          {
+            "title": "iThemes 2Checkout 1.1.0 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:2checkout:ithemes_2checkout:1.1.0:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "5F3C2BBD-8371-413E-A1FD-28F7900C8144"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ithemes:2checkout:-:*:*:*:*:wordpress:*:*",
+      "title": "iThemes 2Checkout for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:2checkout:ithemes_2checkout:-:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ithemes:2checkout:1.1.0:*:*:*:*:wordpress:*:*",
+      "title": "iThemes 2Checkout 1.1.0 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:2checkout:ithemes_2checkout:1.1.0:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

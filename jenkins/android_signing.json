@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:android_signing:2.2.5:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "46CDB75A-D936-4224-B38C-73F1C001E0A3",
+        "lastModified": "2022-08-09T12:01:49.980",
+        "created": "2022-08-02T18:13:31.327",
+        "titles": [
+          {
+            "title": "Jenkins Android Signing 2.2.5 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:android_signing:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "75843250-BFE1-4323-AF0E-017B2C0580A5",
+        "lastModified": "2022-08-09T12:01:49.980",
+        "created": "2022-08-02T18:13:31.327",
+        "titles": [
+          {
+            "title": "Jenkins Android Signing for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:android_signing:2.2.5:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Android Signing 2.2.5 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:android_signing:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Android Signing for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

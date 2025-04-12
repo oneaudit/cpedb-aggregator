@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:gem_publisher:1.0:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "905F6DF8-7F14-4941-8DD5-1C570E69AF58",
+        "lastModified": "2019-09-26T12:42:46.687",
+        "created": "2019-09-26T12:42:46.687",
+        "titles": [
+          {
+            "title": "Jenkins Gem Publisher 1.0 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:gem_publisher:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "C379AC06-C609-49A7-B212-C4A4FEE35DBF",
+        "lastModified": "2022-11-23T15:50:22.667",
+        "created": "2022-11-23T15:49:46.113",
+        "titles": [
+          {
+            "title": "Jenkins Gem Publisher for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:gem_publisher:1.0:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Gem Publisher 1.0 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:gem_publisher:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Gem Publisher for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

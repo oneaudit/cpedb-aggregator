@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ipdgroup:newsplugin:1.0.18:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "9DB67333-EDEC-4374-B924-362ED2FBDC48",
+        "lastModified": "2021-08-20T13:20:29.297",
+        "created": "2021-08-12T15:42:14.210",
+        "titles": [
+          {
+            "title": "Internet Product Development Group NewsPlugin 1.0.18 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ipdgroup:newsplugin:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "FEA29C35-BA36-489F-BF54-5FD00BDB7F2F",
+        "lastModified": "2021-08-20T13:20:29.297",
+        "created": "2021-08-12T15:42:14.210",
+        "titles": [
+          {
+            "title": "Internet Product Development Group NewsPlugin for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ipdgroup:newsplugin:1.0.18:*:*:*:*:wordpress:*:*",
+      "title": "Internet Product Development Group NewsPlugin 1.0.18 for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ipdgroup:newsplugin:-:*:*:*:*:wordpress:*:*",
+      "title": "Internet Product Development Group NewsPlugin for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

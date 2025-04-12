@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ipswitch:ws_ftp_server_with_ssh:6.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5CE0DCB4-3865-448C-AC61-3BD033B44993",
+        "lastModified": "2019-08-13T14:40:04.623",
+        "created": "2012-06-21T19:07:16.503",
+        "titles": [
+          {
+            "title": "Ipswitch Ws Ftp Server With Ssh 6.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:progress:ipswitch_ws_ftp_server_with_ssh:6.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "BEC3D74D-225E-4552-950A-3C12A12D763D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ipswitch:ws_ftp_server_with_ssh:6.1.0:*:*:*:*:*:*:*",
+      "title": "Ipswitch Ws Ftp Server With Ssh 6.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:progress:ipswitch_ws_ftp_server_with_ssh:6.1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}
