@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:moxa:mgate_mb3280_router_firmware:2.6:*:*:*:*:*:*:*",
+        "cpeNameId": "0D56BAF2-5D72-49DD-9157-5084979EABA2",
+        "lastModified": "2021-07-16T14:57:20.373",
+        "created": "2016-07-19T18:09:18.357",
+        "titles": [
+          {
+            "title": "Moxa MGate MB3280 Router Firmware 2.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:moxa:mgate_mb3280_firmware:2.6:*:*:*:*:*:*:*",
+            "cpeNameId": "120BA4FD-39FB-4AB1-B380-12BF2A805F1C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:moxa:mgate_mb3280_router_firmware:2.6:*:*:*:*:*:*:*",
+      "title": "Moxa MGate MB3280 Router Firmware 2.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:moxa:mgate_mb3280_firmware:2.6:*:*:*:*:*:*:*"
+    }
+  ]
+}

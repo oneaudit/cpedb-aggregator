@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:iologik_e4200_firmware:1.6:*:*:*:*:*:*:*",
+        "cpeNameId": "12E487A3-72EF-436E-A86E-849013078BA3",
+        "lastModified": "2023-08-30T11:42:20.643",
+        "created": "2023-08-29T19:32:37.153",
+        "titles": [
+          {
+            "title": "Moxa ioLogik E4200 Firmware 1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:iologik_e4200_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0945A312-DA2C-419A-857B-D02DFA6E5682",
+        "lastModified": "2023-08-30T11:42:20.643",
+        "created": "2023-08-29T19:44:20.480",
+        "titles": [
+          {
+            "title": "Moxa ioLogik E4200 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:moxa:iologik_e4200_firmware:1.6:*:*:*:*:*:*:*",
+      "title": "Moxa ioLogik E4200 Firmware 1.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:moxa:iologik_e4200_firmware:-:*:*:*:*:*:*:*",
+      "title": "Moxa ioLogik E4200 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

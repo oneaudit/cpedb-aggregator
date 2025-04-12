@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_5110-t_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D0A63F14-DFA6-4793-AF78-CBBAB7B1B92B",
+        "lastModified": "2023-10-05T16:35:02.497",
+        "created": "2023-10-05T16:35:02.497",
+        "titles": [
+          {
+            "title": "Moxa NPort 5110-T Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_5110-t_firmware:2.10:*:*:*:*:*:*:*",
+        "cpeNameId": "607B23DF-E44A-49F8-8640-2637A8D628C9",
+        "lastModified": "2023-10-05T16:35:02.497",
+        "created": "2023-10-05T16:35:02.497",
+        "titles": [
+          {
+            "title": "Moxa NPort 5110-T Firmware 2.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:moxa:nport_5110-t_firmware:-:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 5110-T Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:moxa:nport_5110-t_firmware:2.10:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 5110-T Firmware 2.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

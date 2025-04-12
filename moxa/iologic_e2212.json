@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:moxa:iologic_e2212:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1EA17200-234B-444B-8AF1-3E1DFA37D6D1",
+        "lastModified": "2021-05-19T13:45:00.697",
+        "created": "2016-03-09T16:02:30.177",
+        "titles": [
+          {
+            "title": "Moxa ioLogic E2212",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:moxa:iologik_e2212:-:*:*:*:*:*:*:*",
+            "cpeNameId": "32AA96C9-030A-4E00-ACBE-4AC6DE00B054"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:moxa:iologic_e2212:-:*:*:*:*:*:*:*",
+      "title": "Moxa ioLogic E2212",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:moxa:iologik_e2212:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

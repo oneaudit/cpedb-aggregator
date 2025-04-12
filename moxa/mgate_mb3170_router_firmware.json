@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:moxa:mgate_mb3170_router_firmware:2.4:*:*:*:*:*:*:*",
+        "cpeNameId": "102D077E-D143-4B53-929B-8CEC3A006844",
+        "lastModified": "2021-07-16T14:57:20.373",
+        "created": "2016-07-19T18:09:18.357",
+        "titles": [
+          {
+            "title": "Moxa MGate MB3170 Router Firmware 2.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:moxa:mgate_mb3170_firmware:2.4:*:*:*:*:*:*:*",
+            "cpeNameId": "E0E4C65A-4501-4403-971D-9FE4C04A818A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:moxa:mgate_mb3170_router_firmware:2.4:*:*:*:*:*:*:*",
+      "title": "Moxa MGate MB3170 Router Firmware 2.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:moxa:mgate_mb3170_firmware:2.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

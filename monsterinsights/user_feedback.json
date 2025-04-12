@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:monsterinsights:user_feedback:1.0.9:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "6969C9CD-299C-4647-B4EF-7C8A19C89D9E",
+        "lastModified": "2025-02-06T13:25:40.200",
+        "created": "2023-12-16T03:42:31.200",
+        "titles": [
+          {
+            "title": "MonsterInsights UserFeedback 1.0.9 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:monsterinsights:userfeedback:1.0.9:*:*:*:lite:wordpress:*:*",
+            "cpeNameId": "DE78B98E-371D-425F-A2BF-4F748A879B31"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:monsterinsights:user_feedback:1.0.9:*:*:*:*:wordpress:*:*",
+      "title": "MonsterInsights UserFeedback 1.0.9 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:monsterinsights:userfeedback:1.0.9:*:*:*:lite:wordpress:*:*"
+    }
+  ]
+}

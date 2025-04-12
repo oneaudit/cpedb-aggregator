@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_6250-s-sc_firmware:1.21:*:*:*:*:*:*:*",
+        "cpeNameId": "33FA9D23-87AE-4DEB-A3B8-913C2607D703",
+        "lastModified": "2023-11-07T17:16:58.993",
+        "created": "2023-11-07T17:16:58.993",
+        "titles": [
+          {
+            "title": "Moxa NPort 6250-S-SC Firmware 1.21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_6250-s-sc_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C092D33F-809C-4077-9C3D-E06AD0CC1804",
+        "lastModified": "2023-11-07T17:16:58.993",
+        "created": "2023-11-07T17:16:58.993",
+        "titles": [
+          {
+            "title": "Moxa NPort 6250-S-SC Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:moxa:nport_6250-s-sc_firmware:1.21:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 6250-S-SC Firmware 1.21",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:moxa:nport_6250-s-sc_firmware:-:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 6250-S-SC Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

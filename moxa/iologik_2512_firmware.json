@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:iologik_2512_firmware:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F74CFA17-E3C3-4663-AB4F-05DD25383D31",
+        "lastModified": "2020-03-06T14:27:34.000",
+        "created": "2020-03-06T14:27:34.000",
+        "titles": [
+          {
+            "title": "MOXA ioLogik 2512 Firmware 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:iologik_2512_firmware:2.3:*:*:*:*:*:*:*",
+        "cpeNameId": "6D52D5CF-C8A7-4651-9A45-6636A879D7E3",
+        "lastModified": "2020-04-07T12:17:12.220",
+        "created": "2020-04-07T12:17:12.220",
+        "titles": [
+          {
+            "title": "Moxa ioLogik 2512 Firmware 2.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:moxa:iologik_2512_firmware:3.0:*:*:*:*:*:*:*",
+      "title": "MOXA ioLogik 2512 Firmware 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:moxa:iologik_2512_firmware:2.3:*:*:*:*:*:*:*",
+      "title": "Moxa ioLogik 2512 Firmware 2.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

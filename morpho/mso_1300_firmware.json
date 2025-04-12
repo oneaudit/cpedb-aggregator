@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:morpho:mso_1300_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C63A7DEE-783C-407A-B55F-8051CE3F4535",
+        "lastModified": "2021-06-23T17:28:23.130",
+        "created": "2017-11-14T13:47:43.987",
+        "titles": [
+          {
+            "title": "Morpho MSO 1300 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:idemia:mso_1300_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "11BC4A4E-AE3C-4AA2-8544-B956FC13F4B5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:morpho:mso_1300_firmware:-:*:*:*:*:*:*:*",
+      "title": "Morpho MSO 1300 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:idemia:mso_1300_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

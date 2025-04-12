@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_5210-t_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8C1271B0-F8E5-4B14-A2B9-03A00ECEE8C5",
+        "lastModified": "2023-10-05T16:35:02.497",
+        "created": "2023-10-05T16:35:02.497",
+        "titles": [
+          {
+            "title": "Moxa NPort 5210-T Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_5210-t_firmware:2.12:*:*:*:*:*:*:*",
+        "cpeNameId": "BBBC0761-597D-4183-AC98-58C1A1415FAF",
+        "lastModified": "2023-10-05T16:35:02.497",
+        "created": "2023-10-05T16:35:02.497",
+        "titles": [
+          {
+            "title": "Moxa NPort 5210-T Firmware 2.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:moxa:nport_5210-t_firmware:-:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 5210-T Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:moxa:nport_5210-t_firmware:2.12:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 5210-T Firmware 2.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

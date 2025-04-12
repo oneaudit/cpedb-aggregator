@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_6150_firmware:1.21:*:*:*:*:*:*:*",
+        "cpeNameId": "AA7ACC96-F8DC-457B-94CA-5E727463A8B4",
+        "lastModified": "2023-11-07T17:16:58.993",
+        "created": "2023-11-07T17:16:58.993",
+        "titles": [
+          {
+            "title": "Moxa NPort 6150 Firmware 1.21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_6150_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2975355A-342C-4B4B-BEC5-AD5C82A8F48D",
+        "lastModified": "2023-11-07T17:16:58.993",
+        "created": "2023-11-07T17:16:58.993",
+        "titles": [
+          {
+            "title": "Moxa NPort 6150 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:moxa:nport_6150_firmware:1.21:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 6150 Firmware 1.21",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:moxa:nport_6150_firmware:-:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 6150 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

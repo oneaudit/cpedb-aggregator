@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_6610-8_firmware:1.21:*:*:*:*:*:*:*",
+        "cpeNameId": "748CD45D-E8BB-4573-9273-DE6ABE7510EE",
+        "lastModified": "2023-11-07T17:16:58.993",
+        "created": "2023-11-07T17:16:58.993",
+        "titles": [
+          {
+            "title": "Moxa NPort 6610-8 Firmware 1.21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_6610-8_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D85E7126-2011-4CFE-905C-015F03A275C1",
+        "lastModified": "2023-11-07T17:16:58.993",
+        "created": "2023-11-07T17:16:58.993",
+        "titles": [
+          {
+            "title": "Moxa NPort 6610-8 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:moxa:nport_6610-8_firmware:1.21:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 6610-8 Firmware 1.21",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:moxa:nport_6610-8_firmware:-:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 6610-8 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

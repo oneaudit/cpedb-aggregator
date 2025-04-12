@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:modpagespeed:mod_pagespeed:0.10.22.6:*:*:*:*:*:*:*",
+        "cpeNameId": "4FD6B2A6-03D5-4CEC-8C74-87F462CD0C29",
+        "lastModified": "2013-11-12T17:25:36.037",
+        "created": "2012-09-17T14:18:44.813",
+        "titles": [
+          {
+            "title": "modpagespeed mod_pagespeed 0.10.22.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:google:mod_pagespeed:0.10.22.6:*:*:*:*:*:*:*",
+            "cpeNameId": "ECD99DD1-EF9C-4943-950B-563151044B96"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:modpagespeed:mod_pagespeed:0.10.19.1:*:*:*:*:*:*:*",
+        "cpeNameId": "3A5C2181-B722-42CF-9870-B2E397964B5A",
+        "lastModified": "2013-11-12T17:22:23.280",
+        "created": "2012-09-17T14:18:44.923",
+        "titles": [
+          {
+            "title": "modpagespeed mod_pagespeed 0.10.19.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:google:mod_pagespeed:0.10.19.1:*:*:*:*:*:*:*",
+            "cpeNameId": "5B663085-83C2-467F-A4CD-7BFA740E7396"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:modpagespeed:mod_pagespeed:0.10.22.4:*:*:*:*:*:*:*",
+        "cpeNameId": "65AED017-2298-4F2E-BD5C-753408F3ECD2",
+        "lastModified": "2013-11-12T17:23:59.143",
+        "created": "2012-09-17T14:18:45.030",
+        "titles": [
+          {
+            "title": "modpagespeed mod_pagespeed 0.10.22.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:google:mod_pagespeed:0.10.22.4:*:*:*:*:*:*:*",
+            "cpeNameId": "BD5963C6-E5A5-48DB-AA75-99FA8863C32C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:modpagespeed:mod_pagespeed:0.10.22.6:*:*:*:*:*:*:*",
+      "title": "modpagespeed mod_pagespeed 0.10.22.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:google:mod_pagespeed:0.10.22.6:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:modpagespeed:mod_pagespeed:0.10.19.1:*:*:*:*:*:*:*",
+      "title": "modpagespeed mod_pagespeed 0.10.19.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:google:mod_pagespeed:0.10.19.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:modpagespeed:mod_pagespeed:0.10.22.4:*:*:*:*:*:*:*",
+      "title": "modpagespeed mod_pagespeed 0.10.22.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:google:mod_pagespeed:0.10.22.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

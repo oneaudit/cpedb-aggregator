@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:moxa:mgate_mb3180_router_firmware:1.7:*:*:*:*:*:*:*",
+        "cpeNameId": "6C45700D-3009-47B2-804D-3A7708E1BF76",
+        "lastModified": "2021-07-16T14:57:20.373",
+        "created": "2016-07-19T18:09:18.357",
+        "titles": [
+          {
+            "title": "Moxa MGate MB3180 Router Firmware 1.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:moxa:mgate_mb3180_firmware:1.7:*:*:*:*:*:*:*",
+            "cpeNameId": "3CA68E5C-E587-42A2-800D-7CBE8BA02979"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:moxa:mgate_mb3180_router_firmware:1.7:*:*:*:*:*:*:*",
+      "title": "Moxa MGate MB3180 Router Firmware 1.7",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:moxa:mgate_mb3180_firmware:1.7:*:*:*:*:*:*:*"
+    }
+  ]
+}

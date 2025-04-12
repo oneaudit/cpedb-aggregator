@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_6650-32_firmware:1.21:*:*:*:*:*:*:*",
+        "cpeNameId": "BA2F026F-53AE-4315-AFFB-E46E202F2265",
+        "lastModified": "2023-11-07T17:16:58.993",
+        "created": "2023-11-07T17:16:58.993",
+        "titles": [
+          {
+            "title": "Moxa NPort  6650-32 Firmware 1.21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_6650-32_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BBB685A7-8D3D-4C8F-97B1-3F4E82FBF86D",
+        "lastModified": "2023-11-07T17:16:58.993",
+        "created": "2023-11-07T17:16:58.993",
+        "titles": [
+          {
+            "title": "Moxa NPort 6650-32 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:moxa:nport_6650-32_firmware:1.21:*:*:*:*:*:*:*",
+      "title": "Moxa NPort  6650-32 Firmware 1.21",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:moxa:nport_6650-32_firmware:-:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 6650-32 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

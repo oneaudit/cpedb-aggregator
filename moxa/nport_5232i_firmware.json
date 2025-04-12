@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_5232i_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DC9A60BA-32C3-4E43-A80C-A075BFAE65D1",
+        "lastModified": "2023-10-05T16:35:02.497",
+        "created": "2023-10-05T16:35:02.497",
+        "titles": [
+          {
+            "title": "Moxa NPort 5232I Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:moxa:nport_5232i_firmware:2.12:*:*:*:*:*:*:*",
+        "cpeNameId": "B34733E2-AE92-4865-890D-FB0848357948",
+        "lastModified": "2023-10-05T16:35:02.497",
+        "created": "2023-10-05T16:35:02.497",
+        "titles": [
+          {
+            "title": "Moxa NPort 5232I Firmware 2.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:moxa:nport_5232i_firmware:-:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 5232I Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:moxa:nport_5232i_firmware:2.12:*:*:*:*:*:*:*",
+      "title": "Moxa NPort 5232I Firmware 2.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

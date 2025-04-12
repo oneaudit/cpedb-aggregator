@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:motopress:getwid_-_gutenberg_blocks:1.8.3:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "1005301E-0AA7-4447-8836-8067A514B31C",
+        "lastModified": "2024-11-25T16:47:32.997",
+        "created": "2023-06-14T14:38:05.367",
+        "titles": [
+          {
+            "title": "MotoPress Getwid - Gutenberg Blocks 1.8.3 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:motopress:getwid:1.8.3:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "3112A45E-B0BB-4F10-AE5A-21B085F0D481"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:motopress:getwid_-_gutenberg_blocks:2.0.3:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "88ABF744-D6B1-414E-84A0-3AE75C46C1DB",
+        "lastModified": "2024-11-25T16:47:32.997",
+        "created": "2024-02-03T01:39:22.613",
+        "titles": [
+          {
+            "title": "MotoPress Getwid - Gutenberg Blocks 2.0.3 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:motopress:getwid:2.0.3:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "5DCDBDAC-104D-425E-9287-96A4E2F71EA1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:motopress:getwid_-_gutenberg_blocks:2.0.5:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "C3004092-A501-4FE1-B33F-492E68D34DE6",
+        "lastModified": "2024-11-25T16:47:32.997",
+        "created": "2024-08-07T12:20:35.753",
+        "titles": [
+          {
+            "title": "MotoPress Getwid - Gutenberg Blocks 2.0.5 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:motopress:getwid:2.0.5:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "AAB48DCF-BF11-4A82-AA26-92E0C81287CD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:motopress:getwid_-_gutenberg_blocks:1.8.3:*:*:*:*:wordpress:*:*",
+      "title": "MotoPress Getwid - Gutenberg Blocks 1.8.3 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:motopress:getwid:1.8.3:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:motopress:getwid_-_gutenberg_blocks:2.0.3:*:*:*:*:wordpress:*:*",
+      "title": "MotoPress Getwid - Gutenberg Blocks 2.0.3 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:motopress:getwid:2.0.3:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:motopress:getwid_-_gutenberg_blocks:2.0.5:*:*:*:*:wordpress:*:*",
+      "title": "MotoPress Getwid - Gutenberg Blocks 2.0.5 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:motopress:getwid:2.0.5:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

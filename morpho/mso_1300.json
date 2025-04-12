@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:morpho:mso_1300:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6294563A-C33B-4109-8F21-23B749C17B4B",
+        "lastModified": "2021-06-23T17:28:23.130",
+        "created": "2017-11-14T13:47:43.987",
+        "titles": [
+          {
+            "title": "Morpho MSO 1300",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:idemia:mso_1300:-:*:*:*:*:*:*:*",
+            "cpeNameId": "AA9FB21F-DC2C-453F-866D-1CFF555BA7C5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:morpho:mso_1300:-:*:*:*:*:*:*:*",
+      "title": "Morpho MSO 1300",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:idemia:mso_1300:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
