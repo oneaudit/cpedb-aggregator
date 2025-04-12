@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:windows_2003:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D430EDA4-99BE-431B-9790-E813EBE46150",
+        "lastModified": "2011-02-18T19:32:41.040",
+        "created": "2007-12-29T15:57:10.507",
+        "titles": [
+          {
+            "title": "Microsoft Windows 2003 Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_2003_server:-:*:*:*:*:*:*:*",
+            "cpeNameId": "FB4A8046-7D16-4084-A824-D9DF10AFCF60"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:windows_2003:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows 2003 Server",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_2003_server:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

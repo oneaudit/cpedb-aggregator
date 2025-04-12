@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:lightgbm:4.6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1B588DF5-2EA9-4940-9FD5-DD38A6BE874B",
+        "lastModified": "2025-01-15T20:52:15.830",
+        "created": "2025-01-15T20:52:15.830",
+        "titles": [
+          {
+            "title": "Microsoft LightgGBM 4.6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:lightgbm:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6893681C-6E6D-44C8-AC38-1E29EBB28251",
+        "lastModified": "2025-01-15T20:52:15.830",
+        "created": "2025-01-15T20:52:15.830",
+        "titles": [
+          {
+            "title": "Microsoft LightGBM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:lightgbm:4.6.0:*:*:*:*:*:*:*",
+      "title": "Microsoft LightgGBM 4.6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:lightgbm:-:*:*:*:*:*:*:*",
+      "title": "Microsoft LightGBM",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

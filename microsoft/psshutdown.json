@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:psshutdown:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3600A789-5FB0-478A-886B-B2302D747472",
+        "lastModified": "2007-10-10T11:17:37.887",
+        "created": "2007-10-10T11:17:37.887",
+        "titles": [
+          {
+            "title": "Microsoft PsShutdown",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:psshutdown:2.31:*:*:*:*:*:*:*",
+        "cpeNameId": "8C154BF8-DB82-42E2-85E7-252C02C8FF95",
+        "lastModified": "2007-10-10T11:26:50.540",
+        "created": "2007-10-10T11:26:50.540",
+        "titles": [
+          {
+            "title": "Microsoft PsShutdown 2.31",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:psshutdown:-:*:*:*:*:*:*:*",
+      "title": "Microsoft PsShutdown",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:psshutdown:2.31:*:*:*:*:*:*:*",
+      "title": "Microsoft PsShutdown 2.31",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

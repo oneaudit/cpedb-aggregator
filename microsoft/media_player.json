@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:media_player:6.3:*:*:*:*:*:*:*",
+        "cpeNameId": "3BFBBEA1-7279-4541-AD8E-C799B37F2DE2",
+        "lastModified": "2008-04-15T23:57:32.980",
+        "created": "2008-04-15T22:38:16.650",
+        "titles": [
+          {
+            "title": "Microsoft media player 6.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:windows_media_player:6.3:*:*:*:*:*:*:*",
+            "cpeNameId": "8940BC1C-EE80-4906-AF8D-08A80E68395B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:media_player:6.4:*:*:*:*:*:*:*",
+        "cpeNameId": "B074EACE-928C-460C-847D-7101C2998D39",
+        "lastModified": "2008-04-15T23:57:33.153",
+        "created": "2008-04-15T22:38:16.760",
+        "titles": [
+          {
+            "title": "Microsoft media player 6.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:windows_media_player:6.4:*:*:*:*:*:*:*",
+            "cpeNameId": "0E3F4D91-765B-4DDF-9028-6E3E36804B8F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:media_player:7:*:*:*:*:*:*:*",
+        "cpeNameId": "58D9D8EC-3271-4A92-B6BD-228A17F86F0C",
+        "lastModified": "2008-04-15T23:57:02.103",
+        "created": "2008-04-15T22:38:16.853",
+        "titles": [
+          {
+            "title": "Microsoft media player 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:windows_media_player:7:*:*:*:*:*:*:*",
+            "cpeNameId": "3A8D004D-0AFA-47AF-B362-779A751C3834"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:media_player:6.3:*:*:*:*:*:*:*",
+      "title": "Microsoft media player 6.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:windows_media_player:6.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:media_player:6.4:*:*:*:*:*:*:*",
+      "title": "Microsoft media player 6.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:windows_media_player:6.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:media_player:7:*:*:*:*:*:*:*",
+      "title": "Microsoft media player 7",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:windows_media_player:7:*:*:*:*:*:*:*"
+    }
+  ]
+}

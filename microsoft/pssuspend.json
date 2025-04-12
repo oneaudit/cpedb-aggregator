@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:pssuspend:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6458B21F-9906-4EC1-B914-1F7C0249B4C2",
+        "lastModified": "2007-10-10T11:17:28.010",
+        "created": "2007-10-10T11:17:28.010",
+        "titles": [
+          {
+            "title": "Microsoft PsSuspend",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:pssuspend:1.04:*:*:*:*:*:*:*",
+        "cpeNameId": "459667B6-D59A-45B0-93A7-6B714735E49D",
+        "lastModified": "2007-10-10T11:25:53.500",
+        "created": "2007-10-10T11:25:53.500",
+        "titles": [
+          {
+            "title": "Microsoft PsSuspend 1.04",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:pssuspend:-:*:*:*:*:*:*:*",
+      "title": "Microsoft PsSuspend",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:pssuspend:1.04:*:*:*:*:*:*:*",
+      "title": "Microsoft PsSuspend 1.04",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

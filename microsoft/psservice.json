@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:psservice:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7EF06ED9-6560-484C-9BE9-B1F642111AC3",
+        "lastModified": "2007-10-10T11:17:17.180",
+        "created": "2007-10-10T11:17:17.180",
+        "titles": [
+          {
+            "title": "Microsoft PsService",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:psservice:2.11:*:*:*:*:*:*:*",
+        "cpeNameId": "FC97B47A-3FD9-40CC-804A-145686F017D9",
+        "lastModified": "2007-10-10T11:24:26.000",
+        "created": "2007-10-10T11:24:26.000",
+        "titles": [
+          {
+            "title": "Microsoft PsService 2.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:psservice:-:*:*:*:*:*:*:*",
+      "title": "Microsoft PsService",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:psservice:2.11:*:*:*:*:*:*:*",
+      "title": "Microsoft PsService 2.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

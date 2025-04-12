@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_malicious_software_removal_tool:5.80:*:*:*:*:*:*:*",
+        "cpeNameId": "304BDA7E-71E8-46D9-BB51-3858FFCD7F07",
+        "lastModified": "2020-02-18T16:05:46.427",
+        "created": "2020-02-18T16:05:46.427",
+        "titles": [
+          {
+            "title": "Microsoft Windows Malicious Software Removal Tool 5.80",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_malicious_software_removal_tool:5.109:*:*:*:*:*:*:*",
+        "cpeNameId": "55818B55-8462-40CA-BE6D-CFB6F71026B4",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-01-15T13:46:37.870",
+        "titles": [
+          {
+            "title": "Microsoft Windows Malicious Software Removal Tool 5.109",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_malicious_software_removal_tool:-:*:*:*:*:*:*:*",
+        "cpeNameId": "07C4655E-D634-4401-A8F4-8C80D1782167",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-01-15T13:46:37.870",
+        "titles": [
+          {
+            "title": "Microsoft Windows Malicious Software Removal Tool -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:windows_malicious_software_removal_tool:5.80:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Malicious Software Removal Tool 5.80",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:windows_malicious_software_removal_tool:5.109:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Malicious Software Removal Tool 5.109",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:windows_malicious_software_removal_tool:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Malicious Software Removal Tool -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:telnet_client:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3CEDDFC5-EFAA-45DB-94B8-C4E04D64EC38",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:32:16.030",
+        "titles": [
+          {
+            "title": "Microsoft telnet_client",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:telnet_client:5.1.2600.2180:*:*:*:*:*:*:*",
+        "cpeNameId": "B07337D3-CA0E-45D7-B5F7-7BE451D82C23",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:32:16.030",
+        "titles": [
+          {
+            "title": "Microsoft telnet_client 5.1.2600.2180",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:telnet_client:-:*:*:*:*:*:*:*",
+      "title": "Microsoft telnet_client",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:telnet_client:5.1.2600.2180:*:*:*:*:*:*:*",
+      "title": "Microsoft telnet_client 5.1.2600.2180",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

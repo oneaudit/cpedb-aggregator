@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:outlook_2013_rt:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E6E52F40-A3FB-4FB8-B788-9D91DB6EC80D",
+        "lastModified": "2021-08-30T14:28:26.677",
+        "created": "2013-11-13T15:21:29.227",
+        "titles": [
+          {
+            "title": "Microsoft Outlook 2013 RT",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:outlook:2013:*:*:*:rt:*:*:*",
+            "cpeNameId": "21779103-8529-43A8-9DF2-0A684738C12B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:outlook_2013_rt:-:sp1:*:*:*:*:*:*",
+        "cpeNameId": "737C1898-C54F-449B-A8C0-26440BAF317D",
+        "lastModified": "2021-08-30T14:28:26.677",
+        "created": "2016-09-16T21:07:30.613",
+        "titles": [
+          {
+            "title": "Microsoft Outlook 2013 RT Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:outlook:2013:sp1:*:*:rt:*:*:*",
+            "cpeNameId": "D85DB2F9-E7F1-47BF-AF83-9D2A8FCC84CA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:outlook_2013_rt:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Outlook 2013 RT",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:outlook:2013:*:*:*:rt:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:outlook_2013_rt:-:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Outlook 2013 RT Service Pack 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:outlook:2013:sp1:*:*:rt:*:*:*"
+    }
+  ]
+}

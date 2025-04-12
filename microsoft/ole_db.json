@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:ole_db:18.0:*:*:*:*:sql_server:*:*",
+        "cpeNameId": "E0B30A57-20D4-474E-8C39-D17F9D1DB8FF",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-04-13T13:24:01.203",
+        "titles": [
+          {
+            "title": "Microsoft OLE DB 18.0 for SQL Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:ole_db:19.1.0:*:*:*:*:sql_server:*:*",
+        "cpeNameId": "19E03AE4-285A-4E1B-B86B-8AD55E6EA948",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-04-13T13:24:04.983",
+        "titles": [
+          {
+            "title": "Microsoft OLE DB 19.1.0 for SQL Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:ole_db:19.3.0:*:*:*:*:sql_server:*:*",
+        "cpeNameId": "C13A8B6A-1A20-4365-8ADF-7D709BD0257B",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-04-13T13:24:04.983",
+        "titles": [
+          {
+            "title": "Microsoft OLE DB 19.3.0 for SQL Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:ole_db:18.0:*:*:*:*:sql_server:*:*",
+      "title": "Microsoft OLE DB 18.0 for SQL Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:ole_db:19.1.0:*:*:*:*:sql_server:*:*",
+      "title": "Microsoft OLE DB 19.1.0 for SQL Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:ole_db:19.3.0:*:*:*:*:sql_server:*:*",
+      "title": "Microsoft OLE DB 19.3.0 for SQL Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

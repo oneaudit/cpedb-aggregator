@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:open_enclave_sdk:-:*:*:*:*:*:*:*",
+        "cpeNameId": "552FC9CF-4F6E-434C-A0D0-CEEA48CB572C",
+        "lastModified": "2019-04-11T15:25:08.527",
+        "created": "2019-04-11T15:25:08.527",
+        "titles": [
+          {
+            "title": "Microsoft Open Enclave SDK",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:open_enclave_sdk:0.7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "26B02F9B-8FB0-427C-B0C9-F69FA09AF067",
+        "lastModified": "2020-06-01T15:04:48.787",
+        "created": "2020-06-01T15:04:48.787",
+        "titles": [
+          {
+            "title": "Microsoft Open Enclave SDK 0.7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:open_enclave_sdk:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Open Enclave SDK",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:open_enclave_sdk:0.7.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Open Enclave SDK 0.7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

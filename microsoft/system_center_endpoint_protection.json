@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:system_center_endpoint_protection:-:*:*:*:*:*:*:*",
+        "cpeNameId": "301D2201-914B-4FC4-AF9F-61C9F5EEC916",
+        "lastModified": "2021-06-02T17:37:42.457",
+        "created": "2018-05-10T14:13:51.223",
+        "titles": [
+          {
+            "title": "Microsoft System Center Endpoint Protection",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:system_center_endpoint_protection:2012:-:*:*:*:*:*:*",
+        "cpeNameId": "B1FBD0E4-A59E-4795-86A8-34159B167205",
+        "lastModified": "2020-06-11T17:08:42.603",
+        "created": "2020-06-11T17:08:42.603",
+        "titles": [
+          {
+            "title": "Microsoft System Center Endpoint Protection 2012",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:system_center_endpoint_protection:2012:r2:*:*:*:*:*:*",
+        "cpeNameId": "65A950A5-EFBC-4A26-B403-2343FAFAD3BC",
+        "lastModified": "2020-06-11T17:08:42.710",
+        "created": "2020-06-11T17:08:42.710",
+        "titles": [
+          {
+            "title": "Microsoft System Center Endpoint Protection 2012 R2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:system_center_endpoint_protection:-:*:*:*:*:*:*:*",
+      "title": "Microsoft System Center Endpoint Protection",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:system_center_endpoint_protection:2012:-:*:*:*:*:*:*",
+      "title": "Microsoft System Center Endpoint Protection 2012",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:system_center_endpoint_protection:2012:r2:*:*:*:*:*:*",
+      "title": "Microsoft System Center Endpoint Protection 2012 R2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

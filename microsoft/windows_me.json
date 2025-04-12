@@ -1,0 +1,77 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_me:-:*:*:*:*:*:*:*",
+        "cpeNameId": "25B4E2CA-DEF5-427F-A320-5C245F760871",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Microsoft Windows ME",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_me:-:gold:*:*:*:*:*:*",
+        "cpeNameId": "26526F63-CF0F-4CD8-A85F-39046E29FC54",
+        "lastModified": "2008-04-07T14:28:48.700",
+        "created": "2007-08-28T18:18:09.333",
+        "titles": [
+          {
+            "title": "Microsoft windows me_gold",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_me:-:scd:*:*:*:*:*:*",
+        "cpeNameId": "5ABB474D-344B-4516-9E9D-A45D14C9A0B1",
+        "lastModified": "2009-04-30T17:26:45.627",
+        "created": "2008-04-15T23:55:07.590",
+        "titles": [
+          {
+            "title": "Microsoft Windows Millenium Edition SCD",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_me:-:*:*:*:*:*:*:*",
+            "cpeNameId": "25B4E2CA-DEF5-427F-A320-5C245F760871"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:microsoft:windows_me:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows ME",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_me:-:gold:*:*:*:*:*:*",
+      "title": "Microsoft windows me_gold",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_me:-:scd:*:*:*:*:*:*",
+      "title": "Microsoft Windows Millenium Edition SCD",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_me:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

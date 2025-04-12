@@ -1,0 +1,2642 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F892733B-7932-48FE-980B-0706D0453C93",
+        "lastModified": "2010-04-19T13:51:41.100",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:professional:*:*:*:*:*",
+        "cpeNameId": "CB4B09B3-86A9-4DB9-B1C2-9D6469CA1ED7",
+        "lastModified": "2019-05-07T17:48:14.863",
+        "created": "2007-08-24T02:07:52.323",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Professional SP2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:professional:*:itanium:*",
+            "cpeNameId": "8C6C53FE-64AE-486C-B270-B2623692CFBC"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:professional:*:x64:*",
+            "cpeNameId": "B6C732C4-89EA-42D3-AEF2-55DCD383E7CD"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:professional:*:x86:*",
+            "cpeNameId": "613A290D-7756-4EF7-8B18-67DD958EBAC5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:professional:*:*:*:*:*",
+        "cpeNameId": "DEF2FB10-0995-43FE-9991-A59E6943E535",
+        "lastModified": "2019-05-07T17:48:14.177",
+        "created": "2007-08-24T02:07:52.497",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Professional SP1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:professional:*:itanium:*",
+            "cpeNameId": "101B96D2-6F0E-47BC-B51F-8AB0ED4094C3"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:professional:*:x64:*",
+            "cpeNameId": "241B074A-BF73-4907-AFEA-A66906D40919"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:professional:*:x86:*",
+            "cpeNameId": "AEAAFD2B-2F85-410C-80C9-C062A08BF844"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:gold:professional:*:*:*:*:*",
+        "cpeNameId": "43CB255E-DAB8-4EFB-9D05-45C0196F84AD",
+        "lastModified": "2019-05-07T17:48:13.583",
+        "created": "2007-08-24T02:18:09.963",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Professional Gold",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:professional:*:itanium:*",
+            "cpeNameId": "B12753F2-467D-48F6-9BF6-9A044032523F"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:professional:*:x64:*",
+            "cpeNameId": "DCE61F8B-DB38-437E-8F39-21C1F6973F8B"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:professional:*:x86:*",
+            "cpeNameId": "39538912-436C-4FE0-B6F6-DF92D4873FD9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:gold:*:*:*:*:*:*",
+        "cpeNameId": "663CE829-401E-4458-8877-17D41DA7E35C",
+        "lastModified": "2008-04-07T14:29:13.823",
+        "created": "2007-08-28T18:18:39.807",
+        "titles": [
+          {
+            "title": "Microsoft windows xp_gold",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:*:*:*:*",
+        "cpeNameId": "A9EDB8DB-E03C-4E3C-90B4-95E5073DA769",
+        "lastModified": "2012-03-22T15:21:44.643",
+        "created": "2007-08-28T18:18:39.947",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:gold:media_center:*:*:*:*:*",
+        "cpeNameId": "8E96CE8B-D9C4-4BDF-8198-5A7B8AA98F15",
+        "lastModified": "2019-05-07T17:48:13.457",
+        "created": "2007-08-28T18:18:41.840",
+        "titles": [
+          {
+            "title": "Microsoft windows xp_gold media_center",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:media_center:*:itanium:*",
+            "cpeNameId": "204850A4-103E-4852-A816-E868F6421D4F"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:media_center:*:x64:*",
+            "cpeNameId": "406D5E06-897F-4201-8E8B-11DA4B117A71"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:media_center:*:x86:*",
+            "cpeNameId": "F3205961-757E-4366-BD1D-1E80859E38E4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:media_center:*:*:*:*:*",
+        "cpeNameId": "B8EA0A4A-93F7-4652-9C2B-501B880C2BF2",
+        "lastModified": "2019-05-07T17:48:14.067",
+        "created": "2007-08-28T18:18:42.353",
+        "titles": [
+          {
+            "title": "Microsoft windows xp_sp1 media_center",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:media_center:*:itanium:*",
+            "cpeNameId": "06068CF1-9A0A-4998-BF06-521E81501E46"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:media_center:*:x64:*",
+            "cpeNameId": "ABDA2A7F-1040-4C77-9CB4-E8D4B314F83A"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:media_center:*:x86:*",
+            "cpeNameId": "685954BA-9477-48BF-BF11-2C9D1B71714A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:media_center:*:*:*:*:*",
+        "cpeNameId": "AA32807C-EE38-4B16-B02A-0B4EFC951514",
+        "lastModified": "2019-05-07T17:48:14.753",
+        "created": "2007-08-28T18:18:42.620",
+        "titles": [
+          {
+            "title": "Microsoft windows xp_sp2 media_center",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:media_center:*:itanium:*",
+            "cpeNameId": "DF0D1444-3389-453F-9036-749A7DFDC8BF"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:media_center:*:x64:*",
+            "cpeNameId": "6D6F97D9-7FA1-495D-B7EB-82CBE36C07E8"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:media_center:*:x86:*",
+            "cpeNameId": "D9434A42-5AF5-460D-B60A-A8DC96EDA3AB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:gold:tablet_pc:*:*:*:*:*",
+        "cpeNameId": "C0218173-9FED-48BF-BA0A-98160E84F2EA",
+        "lastModified": "2019-05-07T17:48:13.707",
+        "created": "2007-08-28T18:18:43.200",
+        "titles": [
+          {
+            "title": "Microsoft windows xp_gold tablet_pc",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:tablet_pc:*:itanium:*",
+            "cpeNameId": "F50F279A-5EBD-44EF-A7E8-88AECD788398"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:tablet_pc:*:x64:*",
+            "cpeNameId": "17D07041-F84B-4A9F-B62D-0F7EAF373B13"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:tablet_pc:*:x86:*",
+            "cpeNameId": "FE4CF0BC-2A44-4F92-9A95-01BE427A4429"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:tablet_pc:*:*:*:*:*",
+        "cpeNameId": "65573178-9A0D-43A6-A682-47CBD911FA2E",
+        "lastModified": "2019-05-07T17:48:14.300",
+        "created": "2007-08-28T18:18:43.323",
+        "titles": [
+          {
+            "title": "Microsoft windows xp_sp1 tablet_pc",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:tablet_pc:*:itanium:*",
+            "cpeNameId": "25658F42-38F6-4774-89CA-80041BB61CDE"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:tablet_pc:*:x64:*",
+            "cpeNameId": "8D4D170B-D82F-4B34-AE87-A2BA8A10EE6C"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:tablet_pc:*:x86:*",
+            "cpeNameId": "78AC0BBB-4673-4CA2-B892-E4941CAC3FB2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:tablet_pc:*:*:*:*:*",
+        "cpeNameId": "E86D0C3A-B074-4920-A53B-6344E27BF376",
+        "lastModified": "2019-05-07T17:48:14.957",
+        "created": "2007-08-28T18:18:43.420",
+        "titles": [
+          {
+            "title": "Microsoft windows xp_sp2 tablet_pc",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:tablet_pc:*:itanium:*",
+            "cpeNameId": "24FB84D3-630E-403C-957F-4B4D60013983"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:tablet_pc:*:x64:*",
+            "cpeNameId": "0FB33B48-F5A3-47EF-9436-BAE51003CC7F"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:tablet_pc:*:x86:*",
+            "cpeNameId": "91270CA2-FD4D-4A86-9AB5-088846C01750"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:gold:embedded:*:*:*:*:*",
+        "cpeNameId": "139B6065-028C-418A-A767-152FC05C312A",
+        "lastModified": "2019-05-07T17:48:12.583",
+        "created": "2007-08-28T18:18:43.527",
+        "titles": [
+          {
+            "title": "Microsoft windows xp_gold embedded",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:embedded:*:itanium:*",
+            "cpeNameId": "A29E86B3-20A4-4310-B892-3A022AA64629"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:embedded:*:x64:*",
+            "cpeNameId": "2BD00688-818A-430B-83BD-C26E0BA8D162"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:embedded:*:x86:*",
+            "cpeNameId": "B93CBBEF-A906-40B7-97F2-7AAC52FD3FB2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:embedded:*:*:*:*:*",
+        "cpeNameId": "47D95D4F-572D-4171-B066-0AECFEBCB321",
+        "lastModified": "2019-05-07T17:48:13.817",
+        "created": "2007-08-28T18:18:43.747",
+        "titles": [
+          {
+            "title": "Microsoft windows xp_sp1 embedded",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:embedded:*:itanium:*",
+            "cpeNameId": "A943BC66-8D5B-4D3C-B80C-3CB630BE018E"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:embedded:*:x64:*",
+            "cpeNameId": "DA0FB5D9-B5C9-49B3-BF5C-50BCD5E0048C"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:embedded:*:x86:*",
+            "cpeNameId": "7804E9A3-F99C-415E-882E-16AC9E0D72BA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:embedded:*:*:*:*:*",
+        "cpeNameId": "3256B6B7-FB99-433E-9DDD-DFFDE6620B4F",
+        "lastModified": "2019-05-07T17:48:14.410",
+        "created": "2007-08-28T18:18:44.090",
+        "titles": [
+          {
+            "title": "Microsoft windows xp_sp2 embedded",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:embedded:*:itanium:*",
+            "cpeNameId": "E8DBFCAC-C342-486C-99BC-A457AC3A005F"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:embedded:*:x64:*",
+            "cpeNameId": "9713410F-5FB0-4C10-9210-2A887D5BF237"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:embedded:*:x86:*",
+            "cpeNameId": "34C9B997-2B9A-4597-88B5-653337B345EB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:*:x64:*:*:*:*:*",
+        "cpeNameId": "0ABE504A-5D53-41B8-9729-4C77A9FD688C",
+        "lastModified": "2012-02-10T19:22:59.627",
+        "created": "2007-08-28T18:18:44.920",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP 64-bit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:*:*:*:*",
+        "cpeNameId": "6D0A7592-FFA6-4260-825F-794E66D8FD3F",
+        "lastModified": "2008-12-10T21:58:45.777",
+        "created": "2007-11-16T20:21:04.767",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:sp3:unknown:english:*:*:*:*:*",
+        "cpeNameId": "6713D5EA-4B1C-4140-B2DF-6B2CE7D3076E",
+        "lastModified": "2008-09-30T14:26:09.777",
+        "created": "2008-09-30T14:26:09.777",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP SP3 English",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:unknown:sp3:*:*:*:*:*:*",
+        "cpeNameId": "D3A931E9-9958-4783-8F5A-7CE5D416C0BA",
+        "lastModified": "2009-04-03T18:29:32.827",
+        "created": "2008-09-30T18:02:44.727",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP SP3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:*:*:*:*",
+            "cpeNameId": "DFD47DEF-D5A6-4B33-BA5B-3917B62C0BE8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:*:*:*:*",
+        "cpeNameId": "DFD47DEF-D5A6-4B33-BA5B-3917B62C0BE8",
+        "lastModified": "2008-12-10T21:51:51.037",
+        "created": "2008-10-15T19:23:50.627",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:sp2:*:*:*:*:*:*:*",
+        "cpeNameId": "9DE7D4F1-B798-4E97-824A-40903B2D8E6F",
+        "lastModified": "2013-05-20T15:31:53.273",
+        "created": "2008-10-24T17:52:44.863",
+        "titles": [
+          {
+            "title": "Windows XP Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:*:*:*:*",
+            "cpeNameId": "6D0A7592-FFA6-4260-825F-794E66D8FD3F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:sp3:*:*:*:*:*:*:*",
+        "cpeNameId": "B8211C8A-4429-40DA-AC53-76ABF145439D",
+        "lastModified": "2009-04-03T18:29:32.750",
+        "created": "2008-10-24T17:52:45.067",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP SP3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:*:*:*:*",
+            "cpeNameId": "DFD47DEF-D5A6-4B33-BA5B-3917B62C0BE8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:gold:home:*:*:*:*:*",
+        "cpeNameId": "0C03A49F-FF97-434D-A029-F761D51B1B9A",
+        "lastModified": "2019-05-07T17:48:13.287",
+        "created": "2009-04-30T17:26:41.530",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP (gold) Home Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:home:*:itanium:*",
+            "cpeNameId": "EA71AF0B-1C0F-4DDA-BEE7-DFB06B075C04"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:home:*:x64:*",
+            "cpeNameId": "F162D0B2-0A7E-4A38-87F3-803F1EEA84A2"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:home:*:x86:*",
+            "cpeNameId": "8AECD6A3-3FC0-4556-97EB-1FDBA1E74234"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:home:*:*:*:*:*",
+        "cpeNameId": "9C819704-898D-4DDB-B04C-7B5C1E87DDE2",
+        "lastModified": "2019-05-07T17:48:13.957",
+        "created": "2009-04-30T17:26:41.687",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Home Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:home:*:itanium:*",
+            "cpeNameId": "2DFA5A23-4993-417B-9728-DC138677C9BB"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:home:*:x64:*",
+            "cpeNameId": "41BC4030-22B0-473D-8F74-6B5874A10946"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:home:*:x86:*",
+            "cpeNameId": "2E34FF38-3D1A-472F-B77A-1E5C0A9E7B67"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:home:*:*:*:*:*",
+        "cpeNameId": "0B42175B-B577-409C-8595-D3D6E1EED243",
+        "lastModified": "2019-05-07T17:48:14.647",
+        "created": "2009-04-30T17:26:41.813",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Home Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:home:*:itanium:*",
+            "cpeNameId": "AAB7F8DE-2A89-4028-8944-CB3C91A25446"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:home:*:x64:*",
+            "cpeNameId": "F0982C85-32F3-45E6-9E01-AAF00A5DF429"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:home:*:x86:*",
+            "cpeNameId": "6DE92FA6-D2FB-4880-9D1B-F71B6CC1FE89"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:home:*:*:*:*:*",
+        "cpeNameId": "7C1FBC6A-A3D7-4657-B786-295C5FE2C952",
+        "lastModified": "2019-05-07T17:48:15.207",
+        "created": "2009-04-30T17:26:41.983",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Home Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:home:*:x64:*",
+            "cpeNameId": "3F3D7D9D-6E8F-4291-B6A4-AB2437EA6272"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:home:*:x86:*",
+            "cpeNameId": "7261AC93-5687-4140-960F-350C72E47BB2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:embedded:*:*:*:*:*",
+        "cpeNameId": "34D981ED-AC01-4061-8063-4B5F9EB2820A",
+        "lastModified": "2019-05-07T17:48:15.083",
+        "created": "2009-04-30T17:26:42.110",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Embedded Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:embedded:*:x64:*",
+            "cpeNameId": "70B1D8E2-28BE-4767-B109-D96ADFF49FD6"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:embedded:*:x86:*",
+            "cpeNameId": "75615B32-2C8C-4C0B-AC1C-D8F6891DF31F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:media_center:*:*:*:*:*",
+        "cpeNameId": "21FDE30D-7A1B-4510-A86E-E1EC3FBA187D",
+        "lastModified": "2019-05-07T17:48:15.300",
+        "created": "2009-04-30T17:26:42.233",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Media Center Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:media_center:*:x64:*",
+            "cpeNameId": "EBB9D9D0-1F43-4CF6-825C-C0F2F1759BD9"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:media_center:*:x86:*",
+            "cpeNameId": "1FFE71E9-E6C0-4BEA-A9C8-645DBC4326B4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:professional:*:*:*:*:*",
+        "cpeNameId": "47D93DBA-B0DE-4334-9670-CBB5CCACC9C8",
+        "lastModified": "2019-05-07T17:48:15.410",
+        "created": "2009-04-30T17:26:42.360",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Professional Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:professional:*:x64:*",
+            "cpeNameId": "D243F625-779A-4628-98DA-776BEA89A23D"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:professional:*:x86:*",
+            "cpeNameId": "65064B6E-22A6-47E1-BF4B-FBBE9E71F241"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:tablet_pc:*:*:*:*:*",
+        "cpeNameId": "A9C7B4DD-FD10-41D8-B49B-9F9F624073DE",
+        "lastModified": "2019-05-07T17:48:15.520",
+        "created": "2009-04-30T17:26:42.467",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Tablet PC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:tablet_pc:*:x64:*",
+            "cpeNameId": "79B41A35-0737-4EFD-979A-71C176C7F5C9"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:tablet_pc:*:x86:*",
+            "cpeNameId": "F8681582-B076-44E3-9E2C-E7575F2FE7C8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:gold:64-bit-2002:*:*:*:*:*",
+        "cpeNameId": "04A64B23-C6CF-4593-82E3-243686A64EAE",
+        "lastModified": "2009-04-30T17:26:42.593",
+        "created": "2009-04-30T17:26:42.593",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP (gold) 64-Bit Edition for Itanium systems, Version 2002",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:gold:64-bit-2003:*:*:*:*:*",
+        "cpeNameId": "1AA42493-67C0-4A77-BB51-2B42AEF303F2",
+        "lastModified": "2009-04-30T17:26:42.717",
+        "created": "2009-04-30T17:26:42.717",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP (gold) 64-Bit Edition, Version 2003",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:gold:x64:*:*:*:*:*",
+        "cpeNameId": "1FB3002C-1B4B-4FF0-AECC-96A5FDEFAFA3",
+        "lastModified": "2011-12-19T17:54:43.943",
+        "created": "2009-04-30T17:26:42.843",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP (gold) x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:x64:*:*:*:*:*",
+        "cpeNameId": "5B2C7432-F73A-4B8C-8FD9-E174126447B9",
+        "lastModified": "2011-12-19T17:54:44.053",
+        "created": "2009-04-30T17:26:42.967",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:*:x86:*:*:*:*:*",
+        "cpeNameId": "A9A79317-7FB8-4C74-B3D5-6A250C0DFE28",
+        "lastModified": "2011-12-19T17:35:31.023",
+        "created": "2010-01-14T14:46:58.013",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:x86:*:*:*:*:*",
+        "cpeNameId": "99304359-002F-4CCD-95C1-A51E8658B21E",
+        "lastModified": "2011-12-19T17:35:31.083",
+        "created": "2010-01-14T14:46:58.123",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP x86 (32-bit) Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:x86:*:*:*:*:*",
+        "cpeNameId": "B4763083-2631-4114-B6F7-223DAF2733A8",
+        "lastModified": "2010-01-14T14:46:58.250",
+        "created": "2010-01-14T14:46:58.250",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP (x86) Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:x64:*:*:*:*:*",
+        "cpeNameId": "3D8FF4BE-C972-42DD-818E-6E47DC84DEA9",
+        "lastModified": "2021-09-13T01:23:05.003",
+        "created": "2011-03-04T17:47:07.233",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:*:*:x64:*",
+            "cpeNameId": "5643808B-BF87-4C02-9125-FA29F8D1ECF5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:gold:*:*:professional:*:*:*",
+        "cpeNameId": "DA266951-0E57-4BF5-9DF6-05F149F849B2",
+        "lastModified": "2021-06-24T16:44:32.637",
+        "created": "2017-11-21T19:25:38.017",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Gold Professional Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:home:*:*:*",
+        "cpeNameId": "41450988-57DC-4D43-A583-2D80E32F64A5",
+        "lastModified": "2021-06-24T16:44:32.637",
+        "created": "2017-11-21T19:25:50.323",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Home Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:gold:*:*:professional:*:x64:*",
+        "cpeNameId": "78CFA49E-DA81-4B26-97F7-79A31DEAA9D6",
+        "lastModified": "2021-06-24T16:44:32.637",
+        "created": "2019-02-28T01:00:49.067",
+        "titles": [
+          {
+            "title": "Microsoft Windows Xp - Gold Professional Edition on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:embedded:*:itanium:*",
+        "cpeNameId": "A29E86B3-20A4-4310-B892-3A022AA64629",
+        "lastModified": "2019-05-01T15:37:36.827",
+        "created": "2019-05-01T15:37:36.827",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Embedded Edition (XPe) on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:embedded:*:x64:*",
+        "cpeNameId": "2BD00688-818A-430B-83BD-C26E0BA8D162",
+        "lastModified": "2019-05-01T15:37:37.203",
+        "created": "2019-05-01T15:37:37.203",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Embedded Edition (XPe) on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:embedded:*:x86:*",
+        "cpeNameId": "B93CBBEF-A906-40B7-97F2-7AAC52FD3FB2",
+        "lastModified": "2019-05-01T15:37:37.453",
+        "created": "2019-05-01T15:37:37.453",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Embedded Edition (XPe) on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:home:*:itanium:*",
+        "cpeNameId": "EA71AF0B-1C0F-4DDA-BEE7-DFB06B075C04",
+        "lastModified": "2019-05-01T15:37:37.750",
+        "created": "2019-05-01T15:37:37.750",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Home Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:home:*:x64:*",
+        "cpeNameId": "F162D0B2-0A7E-4A38-87F3-803F1EEA84A2",
+        "lastModified": "2019-05-01T15:37:37.983",
+        "created": "2019-05-01T15:37:37.983",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Home Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:home:*:x86:*",
+        "cpeNameId": "8AECD6A3-3FC0-4556-97EB-1FDBA1E74234",
+        "lastModified": "2019-05-01T15:37:38.217",
+        "created": "2019-05-01T15:37:38.217",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Home Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:media_center:*:itanium:*",
+        "cpeNameId": "204850A4-103E-4852-A816-E868F6421D4F",
+        "lastModified": "2019-05-01T15:37:38.467",
+        "created": "2019-05-01T15:37:38.467",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Media Center Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:media_center:*:x64:*",
+        "cpeNameId": "406D5E06-897F-4201-8E8B-11DA4B117A71",
+        "lastModified": "2019-05-01T15:37:38.703",
+        "created": "2019-05-01T15:37:38.703",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Media Center Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:media_center:*:x86:*",
+        "cpeNameId": "F3205961-757E-4366-BD1D-1E80859E38E4",
+        "lastModified": "2019-05-01T15:37:38.953",
+        "created": "2019-05-01T15:37:38.953",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Media Center Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:professional:*:itanium:*",
+        "cpeNameId": "B12753F2-467D-48F6-9BF6-9A044032523F",
+        "lastModified": "2019-05-01T15:37:39.187",
+        "created": "2019-05-01T15:37:39.187",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Professional Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:professional:*:x64:*",
+        "cpeNameId": "DCE61F8B-DB38-437E-8F39-21C1F6973F8B",
+        "lastModified": "2019-05-01T15:37:39.437",
+        "created": "2019-05-01T15:37:39.437",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Professional Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:professional:*:x86:*",
+        "cpeNameId": "39538912-436C-4FE0-B6F6-DF92D4873FD9",
+        "lastModified": "2019-05-01T15:37:39.670",
+        "created": "2019-05-01T15:37:39.670",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Professional Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:starter:*:itanium:*",
+        "cpeNameId": "9C262994-AD77-483C-97F8-EA240D415FE4",
+        "lastModified": "2019-05-01T15:37:39.920",
+        "created": "2019-05-01T15:37:39.920",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Starter Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:starter:*:x64:*",
+        "cpeNameId": "2E52527A-2D96-4248-B35A-168B2C96ED06",
+        "lastModified": "2019-05-01T15:37:40.170",
+        "created": "2019-05-01T15:37:40.170",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Starter Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:starter:*:x86:*",
+        "cpeNameId": "42D30417-2AFE-4D4B-9205-47A38FFBD9F2",
+        "lastModified": "2019-05-01T15:37:40.407",
+        "created": "2019-05-01T15:37:40.407",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Starter Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:tablet_pc:*:itanium:*",
+        "cpeNameId": "F50F279A-5EBD-44EF-A7E8-88AECD788398",
+        "lastModified": "2019-05-01T15:37:40.657",
+        "created": "2019-05-01T15:37:40.657",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Tablet PC Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:tablet_pc:*:x64:*",
+        "cpeNameId": "17D07041-F84B-4A9F-B62D-0F7EAF373B13",
+        "lastModified": "2019-05-01T15:37:40.907",
+        "created": "2019-05-01T15:37:40.907",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Tablet PC Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:tablet_pc:*:x86:*",
+        "cpeNameId": "FE4CF0BC-2A44-4F92-9A95-01BE427A4429",
+        "lastModified": "2019-05-01T15:37:41.170",
+        "created": "2019-05-01T15:37:41.170",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Tablet PC Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:embedded:*:itanium:*",
+        "cpeNameId": "A943BC66-8D5B-4D3C-B80C-3CB630BE018E",
+        "lastModified": "2019-05-01T15:37:41.420",
+        "created": "2019-05-01T15:37:41.420",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Embedded Edition (XPe) on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:embedded:*:x64:*",
+        "cpeNameId": "DA0FB5D9-B5C9-49B3-BF5C-50BCD5E0048C",
+        "lastModified": "2019-05-01T15:37:41.687",
+        "created": "2019-05-01T15:37:41.687",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Embedded Edition (XPe) on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:embedded:*:x86:*",
+        "cpeNameId": "7804E9A3-F99C-415E-882E-16AC9E0D72BA",
+        "lastModified": "2019-05-01T15:37:41.937",
+        "created": "2019-05-01T15:37:41.937",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Embedded Edition (XPe) on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:home:*:itanium:*",
+        "cpeNameId": "2DFA5A23-4993-417B-9728-DC138677C9BB",
+        "lastModified": "2019-05-01T15:37:42.203",
+        "created": "2019-05-01T15:37:42.203",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Home Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:home:*:x64:*",
+        "cpeNameId": "41BC4030-22B0-473D-8F74-6B5874A10946",
+        "lastModified": "2019-05-01T15:37:42.467",
+        "created": "2019-05-01T15:37:42.467",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Home Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:home:*:x86:*",
+        "cpeNameId": "2E34FF38-3D1A-472F-B77A-1E5C0A9E7B67",
+        "lastModified": "2019-05-01T15:37:42.733",
+        "created": "2019-05-01T15:37:42.733",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Home Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:media_center:*:itanium:*",
+        "cpeNameId": "06068CF1-9A0A-4998-BF06-521E81501E46",
+        "lastModified": "2019-05-01T15:37:43.030",
+        "created": "2019-05-01T15:37:43.030",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Media Center Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:media_center:*:x64:*",
+        "cpeNameId": "ABDA2A7F-1040-4C77-9CB4-E8D4B314F83A",
+        "lastModified": "2019-05-01T15:37:43.280",
+        "created": "2019-05-01T15:37:43.280",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Media Center Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:media_center:*:x86:*",
+        "cpeNameId": "685954BA-9477-48BF-BF11-2C9D1B71714A",
+        "lastModified": "2019-05-01T15:37:43.547",
+        "created": "2019-05-01T15:37:43.547",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Media Center Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:professional:*:itanium:*",
+        "cpeNameId": "101B96D2-6F0E-47BC-B51F-8AB0ED4094C3",
+        "lastModified": "2019-05-01T15:37:43.813",
+        "created": "2019-05-01T15:37:43.813",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Professional Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:professional:*:x64:*",
+        "cpeNameId": "241B074A-BF73-4907-AFEA-A66906D40919",
+        "lastModified": "2019-05-01T15:37:44.077",
+        "created": "2019-05-01T15:37:44.077",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Professional Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:professional:*:x86:*",
+        "cpeNameId": "AEAAFD2B-2F85-410C-80C9-C062A08BF844",
+        "lastModified": "2019-05-01T15:37:44.360",
+        "created": "2019-05-01T15:37:44.360",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Professional Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:starter:*:itanium:*",
+        "cpeNameId": "BCF22D9E-2DE0-4EC6-B478-AF430271E10B",
+        "lastModified": "2019-05-01T15:37:44.703",
+        "created": "2019-05-01T15:37:44.703",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Starter Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:starter:*:x64:*",
+        "cpeNameId": "8864FBB6-2871-4753-990C-2E9FF6334A4F",
+        "lastModified": "2019-05-01T15:37:45.093",
+        "created": "2019-05-01T15:37:45.093",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Starter Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:starter:*:x86:*",
+        "cpeNameId": "E6E72D92-5D80-45A8-9613-2FBE9EE834BD",
+        "lastModified": "2019-05-01T15:37:45.360",
+        "created": "2019-05-01T15:37:45.360",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Starter Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:tablet_pc:*:itanium:*",
+        "cpeNameId": "25658F42-38F6-4774-89CA-80041BB61CDE",
+        "lastModified": "2019-05-01T15:37:45.640",
+        "created": "2019-05-01T15:37:45.640",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Tablet PC Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:tablet_pc:*:x64:*",
+        "cpeNameId": "8D4D170B-D82F-4B34-AE87-A2BA8A10EE6C",
+        "lastModified": "2019-05-01T15:37:45.920",
+        "created": "2019-05-01T15:37:45.920",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Tablet PC Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:tablet_pc:*:x86:*",
+        "cpeNameId": "78AC0BBB-4673-4CA2-B892-E4941CAC3FB2",
+        "lastModified": "2019-05-01T15:37:46.203",
+        "created": "2019-05-01T15:37:46.203",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 Tablet PC Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:embedded:*:itanium:*",
+        "cpeNameId": "E8DBFCAC-C342-486C-99BC-A457AC3A005F",
+        "lastModified": "2019-05-01T15:37:46.483",
+        "created": "2019-05-01T15:37:46.483",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Embedded Edition (XPe) on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:embedded:*:x64:*",
+        "cpeNameId": "9713410F-5FB0-4C10-9210-2A887D5BF237",
+        "lastModified": "2019-05-01T15:37:46.797",
+        "created": "2019-05-01T15:37:46.797",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Embedded Edition (XPe) on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:embedded:*:x86:*",
+        "cpeNameId": "34C9B997-2B9A-4597-88B5-653337B345EB",
+        "lastModified": "2019-05-01T15:37:47.077",
+        "created": "2019-05-01T15:37:47.077",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Embedded Edition (XPe) on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:home:*:itanium:*",
+        "cpeNameId": "AAB7F8DE-2A89-4028-8944-CB3C91A25446",
+        "lastModified": "2019-05-01T15:37:47.360",
+        "created": "2019-05-01T15:37:47.360",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Home Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:home:*:x64:*",
+        "cpeNameId": "F0982C85-32F3-45E6-9E01-AAF00A5DF429",
+        "lastModified": "2019-05-01T15:37:47.657",
+        "created": "2019-05-01T15:37:47.657",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Home Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:home:*:x86:*",
+        "cpeNameId": "6DE92FA6-D2FB-4880-9D1B-F71B6CC1FE89",
+        "lastModified": "2019-05-01T15:37:47.983",
+        "created": "2019-05-01T15:37:47.983",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Home Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:media_center:*:itanium:*",
+        "cpeNameId": "DF0D1444-3389-453F-9036-749A7DFDC8BF",
+        "lastModified": "2019-05-01T15:37:48.267",
+        "created": "2019-05-01T15:37:48.267",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Media Center Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:media_center:*:x64:*",
+        "cpeNameId": "6D6F97D9-7FA1-495D-B7EB-82CBE36C07E8",
+        "lastModified": "2019-05-01T15:37:48.563",
+        "created": "2019-05-01T15:37:48.563",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Media Center Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:media_center:*:x86:*",
+        "cpeNameId": "D9434A42-5AF5-460D-B60A-A8DC96EDA3AB",
+        "lastModified": "2019-05-01T15:37:48.843",
+        "created": "2019-05-01T15:37:48.843",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Media Center Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:professional:*:itanium:*",
+        "cpeNameId": "8C6C53FE-64AE-486C-B270-B2623692CFBC",
+        "lastModified": "2019-05-01T15:37:49.140",
+        "created": "2019-05-01T15:37:49.140",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Professional Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:professional:*:x64:*",
+        "cpeNameId": "B6C732C4-89EA-42D3-AEF2-55DCD383E7CD",
+        "lastModified": "2019-05-01T15:37:49.437",
+        "created": "2019-05-01T15:37:49.437",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Professional Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:professional:*:x86:*",
+        "cpeNameId": "613A290D-7756-4EF7-8B18-67DD958EBAC5",
+        "lastModified": "2019-05-01T15:37:49.767",
+        "created": "2019-05-01T15:37:49.767",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Professional Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:starter:*:itanium:*",
+        "cpeNameId": "7BE7F154-BDAE-4F80-B981-3F69BCB5654D",
+        "lastModified": "2019-05-01T15:37:50.063",
+        "created": "2019-05-01T15:37:50.063",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Starter Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:starter:*:x64:*",
+        "cpeNameId": "B446E17F-5529-4C04-8261-88D21A29C3BF",
+        "lastModified": "2019-05-01T15:37:50.360",
+        "created": "2019-05-01T15:37:50.360",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Starter Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:starter:*:x86:*",
+        "cpeNameId": "60EAC17C-85CD-4669-BE05-8F35B116CAC6",
+        "lastModified": "2019-05-01T15:37:50.657",
+        "created": "2019-05-01T15:37:50.657",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Starter Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:tablet_pc:*:itanium:*",
+        "cpeNameId": "24FB84D3-630E-403C-957F-4B4D60013983",
+        "lastModified": "2019-05-01T15:37:50.953",
+        "created": "2019-05-01T15:37:50.953",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Tablet PC Edition on Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:tablet_pc:*:x64:*",
+        "cpeNameId": "0FB33B48-F5A3-47EF-9436-BAE51003CC7F",
+        "lastModified": "2019-05-01T15:37:51.267",
+        "created": "2019-05-01T15:37:51.267",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Tablet PC Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:tablet_pc:*:x86:*",
+        "cpeNameId": "91270CA2-FD4D-4A86-9AB5-088846C01750",
+        "lastModified": "2019-05-01T15:37:51.563",
+        "created": "2019-05-01T15:37:51.563",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Tablet PC Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:embedded:*:x64:*",
+        "cpeNameId": "70B1D8E2-28BE-4767-B109-D96ADFF49FD6",
+        "lastModified": "2019-05-01T15:37:51.877",
+        "created": "2019-05-01T15:37:51.877",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Embedded Edition (XPe) on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:embedded:*:x86:*",
+        "cpeNameId": "75615B32-2C8C-4C0B-AC1C-D8F6891DF31F",
+        "lastModified": "2019-05-01T15:37:52.187",
+        "created": "2019-05-01T15:37:52.187",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Embedded Edition (XPe) on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:home:*:x64:*",
+        "cpeNameId": "3F3D7D9D-6E8F-4291-B6A4-AB2437EA6272",
+        "lastModified": "2019-05-01T15:37:52.500",
+        "created": "2019-05-01T15:37:52.500",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Home Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:home:*:x86:*",
+        "cpeNameId": "7261AC93-5687-4140-960F-350C72E47BB2",
+        "lastModified": "2019-05-01T15:37:52.813",
+        "created": "2019-05-01T15:37:52.813",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Home Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:media_center:*:x64:*",
+        "cpeNameId": "EBB9D9D0-1F43-4CF6-825C-C0F2F1759BD9",
+        "lastModified": "2019-05-01T15:37:53.173",
+        "created": "2019-05-01T15:37:53.173",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Media Center Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:media_center:*:x86:*",
+        "cpeNameId": "1FFE71E9-E6C0-4BEA-A9C8-645DBC4326B4",
+        "lastModified": "2019-05-01T15:37:53.530",
+        "created": "2019-05-01T15:37:53.530",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Media Center Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:professional:*:x64:*",
+        "cpeNameId": "D243F625-779A-4628-98DA-776BEA89A23D",
+        "lastModified": "2019-05-01T15:37:53.843",
+        "created": "2019-05-01T15:37:53.843",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Professional Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:professional:*:x86:*",
+        "cpeNameId": "65064B6E-22A6-47E1-BF4B-FBBE9E71F241",
+        "lastModified": "2019-05-01T15:37:54.157",
+        "created": "2019-05-01T15:37:54.157",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Professional Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:tablet_pc:*:x64:*",
+        "cpeNameId": "79B41A35-0737-4EFD-979A-71C176C7F5C9",
+        "lastModified": "2019-05-01T15:37:54.467",
+        "created": "2019-05-01T15:37:54.467",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Tablet PC Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:tablet_pc:*:x86:*",
+        "cpeNameId": "F8681582-B076-44E3-9E2C-E7575F2FE7C8",
+        "lastModified": "2019-05-01T15:37:54.797",
+        "created": "2019-05-01T15:37:54.797",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Tablet PC Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:*:*:x64:*",
+        "cpeNameId": "5643808B-BF87-4C02-9125-FA29F8D1ECF5",
+        "lastModified": "2021-09-13T01:23:05.003",
+        "created": "2020-05-26T17:46:13.603",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 1 on x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:professional:*:-:*",
+        "cpeNameId": "F908EAFB-2B7D-49C0-8F34-CD852FE4C571",
+        "lastModified": "2021-01-25T18:28:23.947",
+        "created": "2021-01-25T18:28:23.947",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 2 Professional Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:professional:*:-:*",
+        "cpeNameId": "7DFDC640-A07D-45BF-91DD-9BDF4650C8CA",
+        "lastModified": "2021-01-25T18:28:24.447",
+        "created": "2021-01-25T18:28:24.447",
+        "titles": [
+          {
+            "title": "Microsoft Windows XP Service Pack 3 Professional Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows XP",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:professional:*:*:*:*:*",
+      "title": "Microsoft Windows XP Professional SP2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:professional:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:professional:*:*:*:*:*",
+      "title": "Microsoft Windows XP Professional SP1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:professional:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:gold:professional:*:*:*:*:*",
+      "title": "Microsoft Windows XP Professional Gold",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:professional:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:gold:*:*:*:*:*:*",
+      "title": "Microsoft windows xp_gold",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:gold:media_center:*:*:*:*:*",
+      "title": "Microsoft windows xp_gold media_center",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:media_center:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:media_center:*:*:*:*:*",
+      "title": "Microsoft windows xp_sp1 media_center",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:media_center:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:media_center:*:*:*:*:*",
+      "title": "Microsoft windows xp_sp2 media_center",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:media_center:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:gold:tablet_pc:*:*:*:*:*",
+      "title": "Microsoft windows xp_gold tablet_pc",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:tablet_pc:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:tablet_pc:*:*:*:*:*",
+      "title": "Microsoft windows xp_sp1 tablet_pc",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:tablet_pc:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:tablet_pc:*:*:*:*:*",
+      "title": "Microsoft windows xp_sp2 tablet_pc",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:tablet_pc:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:gold:embedded:*:*:*:*:*",
+      "title": "Microsoft windows xp_gold embedded",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:embedded:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:embedded:*:*:*:*:*",
+      "title": "Microsoft windows xp_sp1 embedded",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:embedded:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:embedded:*:*:*:*:*",
+      "title": "Microsoft windows xp_sp2 embedded",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:embedded:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:*:x64:*:*:*:*:*",
+      "title": "Microsoft Windows XP 64-bit",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:sp3:unknown:english:*:*:*:*:*",
+      "title": "Microsoft Windows XP SP3 English",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:unknown:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Windows XP SP3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:sp2:*:*:*:*:*:*:*",
+      "title": "Windows XP Service Pack 2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:sp3:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows XP SP3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:gold:home:*:*:*:*:*",
+      "title": "Microsoft Windows XP (gold) Home Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:home:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:home:*:*:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 1 Home Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:home:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:home:*:*:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 2 Home Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:home:*:itanium:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:home:*:*:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 3 Home Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:home:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:embedded:*:*:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 3 Embedded Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:embedded:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:media_center:*:*:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 3 Media Center Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:media_center:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:professional:*:*:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 3 Professional Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:professional:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:tablet_pc:*:*:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 3 Tablet PC",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:tablet_pc:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:gold:64-bit-2002:*:*:*:*:*",
+      "title": "Microsoft Windows XP (gold) 64-Bit Edition for Itanium systems, Version 2002",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:gold:64-bit-2003:*:*:*:*:*",
+      "title": "Microsoft Windows XP (gold) 64-Bit Edition, Version 2003",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:gold:x64:*:*:*:*:*",
+      "title": "Microsoft Windows XP (gold) x64 (64-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:x64:*:*:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 2 x64 (64-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:*:x86:*:*:*:*:*",
+      "title": "Microsoft Windows XP x86 (32-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:x86:*:*:*:*:*",
+      "title": "Microsoft Windows XP x86 (32-bit) Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:x86:*:*:*:*:*",
+      "title": "Microsoft Windows XP (x86) Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:x64:*:*:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 1 x64 (64-bit)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:*:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:gold:*:*:professional:*:*:*",
+      "title": "Microsoft Windows XP Gold Professional Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:home:*:*:*",
+      "title": "Microsoft Windows XP Service Pack 1 Home Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:gold:*:*:professional:*:x64:*",
+      "title": "Microsoft Windows Xp - Gold Professional Edition on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:embedded:*:itanium:*",
+      "title": "Microsoft Windows XP Embedded Edition (XPe) on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:embedded:*:x64:*",
+      "title": "Microsoft Windows XP Embedded Edition (XPe) on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:embedded:*:x86:*",
+      "title": "Microsoft Windows XP Embedded Edition (XPe) on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:home:*:itanium:*",
+      "title": "Microsoft Windows XP Home Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:home:*:x64:*",
+      "title": "Microsoft Windows XP Home Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:home:*:x86:*",
+      "title": "Microsoft Windows XP Home Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:media_center:*:itanium:*",
+      "title": "Microsoft Windows XP Media Center Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:media_center:*:x64:*",
+      "title": "Microsoft Windows XP Media Center Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:media_center:*:x86:*",
+      "title": "Microsoft Windows XP Media Center Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:professional:*:itanium:*",
+      "title": "Microsoft Windows XP Professional Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:professional:*:x64:*",
+      "title": "Microsoft Windows XP Professional Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:professional:*:x86:*",
+      "title": "Microsoft Windows XP Professional Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:starter:*:itanium:*",
+      "title": "Microsoft Windows XP Starter Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:starter:*:x64:*",
+      "title": "Microsoft Windows XP Starter Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:starter:*:x86:*",
+      "title": "Microsoft Windows XP Starter Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:tablet_pc:*:itanium:*",
+      "title": "Microsoft Windows XP Tablet PC Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:tablet_pc:*:x64:*",
+      "title": "Microsoft Windows XP Tablet PC Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:tablet_pc:*:x86:*",
+      "title": "Microsoft Windows XP Tablet PC Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:embedded:*:itanium:*",
+      "title": "Microsoft Windows XP Service Pack 1 Embedded Edition (XPe) on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:embedded:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 1 Embedded Edition (XPe) on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:embedded:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 1 Embedded Edition (XPe) on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:home:*:itanium:*",
+      "title": "Microsoft Windows XP Service Pack 1 Home Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:home:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 1 Home Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:home:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 1 Home Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:media_center:*:itanium:*",
+      "title": "Microsoft Windows XP Service Pack 1 Media Center Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:media_center:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 1 Media Center Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:media_center:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 1 Media Center Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:professional:*:itanium:*",
+      "title": "Microsoft Windows XP Service Pack 1 Professional Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:professional:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 1 Professional Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:professional:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 1 Professional Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:starter:*:itanium:*",
+      "title": "Microsoft Windows XP Service Pack 1 Starter Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:starter:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 1 Starter Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:starter:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 1 Starter Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:tablet_pc:*:itanium:*",
+      "title": "Microsoft Windows XP Service Pack 1 Tablet PC Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:tablet_pc:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 1 Tablet PC Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:tablet_pc:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 1 Tablet PC Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:embedded:*:itanium:*",
+      "title": "Microsoft Windows XP Service Pack 2 Embedded Edition (XPe) on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:embedded:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 2 Embedded Edition (XPe) on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:embedded:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 2 Embedded Edition (XPe) on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:home:*:itanium:*",
+      "title": "Microsoft Windows XP Service Pack 2 Home Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:home:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 2 Home Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:home:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 2 Home Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:media_center:*:itanium:*",
+      "title": "Microsoft Windows XP Service Pack 2 Media Center Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:media_center:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 2 Media Center Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:media_center:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 2 Media Center Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:professional:*:itanium:*",
+      "title": "Microsoft Windows XP Service Pack 2 Professional Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:professional:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 2 Professional Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:professional:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 2 Professional Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:starter:*:itanium:*",
+      "title": "Microsoft Windows XP Service Pack 2 Starter Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:starter:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 2 Starter Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:starter:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 2 Starter Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:tablet_pc:*:itanium:*",
+      "title": "Microsoft Windows XP Service Pack 2 Tablet PC Edition on Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:tablet_pc:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 2 Tablet PC Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:tablet_pc:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 2 Tablet PC Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:embedded:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 3 Embedded Edition (XPe) on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:embedded:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 3 Embedded Edition (XPe) on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:home:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 3 Home Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:home:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 3 Home Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:media_center:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 3 Media Center Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:media_center:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 3 Media Center Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:professional:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 3 Professional Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:professional:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 3 Professional Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:tablet_pc:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 3 Tablet PC Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:tablet_pc:*:x86:*",
+      "title": "Microsoft Windows XP Service Pack 3 Tablet PC Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:*:*:x64:*",
+      "title": "Microsoft Windows XP Service Pack 1 on x64 (64-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp2:*:*:professional:*:-:*",
+      "title": "Microsoft Windows XP Service Pack 2 Professional Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:professional:*:-:*",
+      "title": "Microsoft Windows XP Service Pack 3 Professional Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

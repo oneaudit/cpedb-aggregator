@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:small_business_srv:-:*:*:*:*:*:*:*",
+        "cpeNameId": "05978BC3-BC67-4854-AB86-EFDEEB18482F",
+        "lastModified": "2008-04-15T23:57:19.417",
+        "created": "2008-04-15T22:38:08.273",
+        "titles": [
+          {
+            "title": "Microsoft small_business_srv",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:small_business_server:-:*:*:*:*:*:*:*",
+            "cpeNameId": "FB94157C-BA94-498A-98ED-FA7DE4838EDE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:small_business_srv:2000:*:*:*:*:*:*:*",
+        "cpeNameId": "87F80BA3-6510-4C27-8B86-DA6D4664ED9A",
+        "lastModified": "2008-04-16T00:00:39.610",
+        "created": "2008-04-15T22:38:43.637",
+        "titles": [
+          {
+            "title": "Microsoft small_business_srv 2000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:small_business_server:2000:*:*:*:*:*:*:*",
+            "cpeNameId": "E3C810B9-7F82-49A8-97A2-F3C446973D8E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:small_business_srv:2003:*:*:*:*:*:*:*",
+        "cpeNameId": "3F369F1D-DBBF-4B41-AB3E-F154D884528F",
+        "lastModified": "2008-04-16T00:00:39.420",
+        "created": "2008-04-15T22:38:43.840",
+        "titles": [
+          {
+            "title": "Microsoft small_business_srv 2003",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:small_business_server:2003:*:*:*:*:*:*:*",
+            "cpeNameId": "EBB7388D-7CF2-4D57-937B-DCE0708D0A9B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:small_business_srv:-:*:*:*:*:*:*:*",
+      "title": "Microsoft small_business_srv",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:small_business_server:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:small_business_srv:2000:*:*:*:*:*:*:*",
+      "title": "Microsoft small_business_srv 2000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:small_business_server:2000:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:small_business_srv:2003:*:*:*:*:*:*:*",
+      "title": "Microsoft small_business_srv 2003",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:small_business_server:2003:*:*:*:*:*:*:*"
+    }
+  ]
+}

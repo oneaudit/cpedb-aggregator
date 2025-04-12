@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:msn_messenger_service_for_exchange:4.5:*:*:*:*:*:*:*",
+        "cpeNameId": "C6755AB1-CF54-425E-820F-7ED50EEC7D68",
+        "lastModified": "2008-04-07T14:26:34.433",
+        "created": "2007-08-28T21:31:41.400",
+        "titles": [
+          {
+            "title": "Microsoft exchange_instant_messenger 4.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:msn_messenger_service_for_exchange:4.6:*:*:*:*:*:*:*",
+        "cpeNameId": "99E6BA41-42A9-4CF2-8473-B1B303BA60D6",
+        "lastModified": "2008-04-07T14:26:34.717",
+        "created": "2007-08-28T21:31:41.493",
+        "titles": [
+          {
+            "title": "Microsoft exchange_instant_messenger 4.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:msn_messenger_service_for_exchange:4.5:*:*:*:*:*:*:*",
+      "title": "Microsoft exchange_instant_messenger 4.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:msn_messenger_service_for_exchange:4.6:*:*:*:*:*:*:*",
+      "title": "Microsoft exchange_instant_messenger 4.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

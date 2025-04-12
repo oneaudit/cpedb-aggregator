@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:ole_db_provider:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4EBB29E1-E235-4867-983D-C43A315A9DAF",
+        "lastModified": "2023-12-01T13:06:12.100",
+        "created": "2023-12-01T13:06:12.100",
+        "titles": [
+          {
+            "title": "Microsoft OLE DB Provider",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:ole_db_provider:7.0:*:*:*:*:db2:*:*",
+        "cpeNameId": "96053120-100E-4D93-970D-37E04958D98A",
+        "lastModified": "2024-08-01T16:07:08.440",
+        "created": "2024-08-01T16:07:08.440",
+        "titles": [
+          {
+            "title": "Microsoft OLE DB Provider 7.0 for DB2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:ole_db_provider:-:*:*:*:*:*:*:*",
+      "title": "Microsoft OLE DB Provider",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:ole_db_provider:7.0:*:*:*:*:db2:*:*",
+      "title": "Microsoft OLE DB Provider 7.0 for DB2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

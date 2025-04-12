@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:pskill:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2E04013E-4C0F-466C-85FB-44AA41DC2858",
+        "lastModified": "2007-10-10T11:16:33.097",
+        "created": "2007-10-10T11:16:33.097",
+        "titles": [
+          {
+            "title": "Microsoft PsKill",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:pskill:1.02:*:*:*:*:*:*:*",
+        "cpeNameId": "27F7645C-F487-49E2-AA74-6159605537BD",
+        "lastModified": "2007-10-10T11:19:22.280",
+        "created": "2007-10-10T11:19:22.280",
+        "titles": [
+          {
+            "title": "Microsoft PsKill 1.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:pskill:-:*:*:*:*:*:*:*",
+      "title": "Microsoft PsKill",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:pskill:1.02:*:*:*:*:*:*:*",
+      "title": "Microsoft PsKill 1.02",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

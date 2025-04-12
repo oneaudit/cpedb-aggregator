@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:services:-:*:*:*:*:*:*:*",
+        "cpeNameId": "27B28F97-2F5A-496A-9D8F-1E2E2EA11BFB",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:31:56.620",
+        "titles": [
+          {
+            "title": "Microsoft services",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:services:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AA85A3B7-CCD9-4438-B9EF-07307325F43A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:31:56.620",
+        "titles": [
+          {
+            "title": "Microsoft services 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:services:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "849BC8D8-56C4-4F57-BE27-6108383F3D54",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:31:56.823",
+        "titles": [
+          {
+            "title": "Microsoft services 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:services:-:*:*:*:*:*:*:*",
+      "title": "Microsoft services",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:services:2.0:*:*:*:*:*:*:*",
+      "title": "Microsoft services 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:services:3.0:*:*:*:*:*:*:*",
+      "title": "Microsoft services 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

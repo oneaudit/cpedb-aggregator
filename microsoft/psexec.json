@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:psexec:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2AB48EB6-3AFF-498B-8320-9D0DC61A2331",
+        "lastModified": "2007-10-10T11:13:47.070",
+        "created": "2007-10-10T11:13:47.070",
+        "titles": [
+          {
+            "title": "Microsoft PsExec",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:psexec:1.53:*:*:*:*:*:*:*",
+        "cpeNameId": "E35157F5-88D1-4237-B1ED-73C96F002ACC",
+        "lastModified": "2007-10-10T11:14:31.920",
+        "created": "2007-10-10T11:14:31.920",
+        "titles": [
+          {
+            "title": "Microsoft PsExec 1.53",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:psexec:-:*:*:*:*:*:*:*",
+      "title": "Microsoft PsExec",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:psexec:1.53:*:*:*:*:*:*:*",
+      "title": "Microsoft PsExec 1.53",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

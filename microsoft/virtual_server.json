@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:virtual_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E95F4AA0-D592-4B9E-89F6-B4476D2EB937",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Microsoft Virtual Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:virtual_server:2005:*:*:*:*:*:*:*",
+        "cpeNameId": "41465B78-3E31-4492-ACCF-BD3D8251623F",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Virtual Server 2005",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:virtual_server:2005:r2:*:*:*:*:*:*",
+        "cpeNameId": "5626AD88-BF43-4689-B6FE-4ACF7E9BB687",
+        "lastModified": "2008-04-07T14:28:11.340",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Virtual Server 2005 r2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:virtual_server:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Virtual Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:virtual_server:2005:*:*:*:*:*:*:*",
+      "title": "Microsoft Virtual Server 2005",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:virtual_server:2005:r2:*:*:*:*:*:*",
+      "title": "Microsoft Virtual Server 2005 r2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

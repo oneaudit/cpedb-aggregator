@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:rms_sharing:-:*:*:*:*:mac_os:*:*",
+        "cpeNameId": "F5900A7D-C20B-4F7F-84D5-1AE1114D5A50",
+        "lastModified": "2020-05-04T14:14:03.777",
+        "created": "2020-05-01T19:26:38.053",
+        "titles": [
+          {
+            "title": "Microsoft RMS Sharing for Mac OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:rms_sharing:-:*:*:*:*:macos:*:*",
+            "cpeNameId": "18073B13-1F72-4D10-ACD7-E0707BB613BB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:rms_sharing:-:*:*:*:*:macos:*:*",
+        "cpeNameId": "18073B13-1F72-4D10-ACD7-E0707BB613BB",
+        "lastModified": "2020-05-04T14:13:14.133",
+        "created": "2020-05-04T14:13:14.133",
+        "titles": [
+          {
+            "title": "Microsoft RMS Sharing for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:rms_sharing:-:*:*:*:*:mac_os:*:*",
+      "title": "Microsoft RMS Sharing for Mac OS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:rms_sharing:-:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:rms_sharing:-:*:*:*:*:macos:*:*",
+      "title": "Microsoft RMS Sharing for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

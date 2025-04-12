@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_365:-:*:*:*:proplus:*:*:*",
+        "cpeNameId": "C05D3073-06D5-4670-B847-3BFD2825B665",
+        "lastModified": "2021-05-18T18:04:41.287",
+        "created": "2019-01-11T19:26:26.630",
+        "titles": [
+          {
+            "title": "Microsoft Office 365 ProPlus Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_365:-:*:*:*:proplus:*:x64:*",
+        "cpeNameId": "8A5B5D51-7645-4C7D-8BC7-510A7BFB1049",
+        "lastModified": "2021-05-18T18:04:41.287",
+        "created": "2019-03-06T04:27:18.100",
+        "titles": [
+          {
+            "title": "Microsoft Office 365 - Proplus Edition on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_365:-:*:*:*:proplus:*:x86:*",
+        "cpeNameId": "D430ABD6-6863-485D-AA13-BC792242E607",
+        "lastModified": "2021-05-18T18:04:41.287",
+        "created": "2019-03-06T04:27:18.100",
+        "titles": [
+          {
+            "title": "Microsoft Office 365 - Proplus Edition on X86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_365:-:*:*:*:-:*:*:*",
+        "cpeNameId": "8ABC0476-AAFF-4238-9B64-87F171E35F9A",
+        "lastModified": "2022-11-27T13:33:47.497",
+        "created": "2022-06-22T13:30:00.320",
+        "titles": [
+          {
+            "title": "Microsoft Office 365",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:office_365:-:*:*:*:proplus:*:*:*",
+      "title": "Microsoft Office 365 ProPlus Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office_365:-:*:*:*:proplus:*:x64:*",
+      "title": "Microsoft Office 365 - Proplus Edition on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office_365:-:*:*:*:proplus:*:x86:*",
+      "title": "Microsoft Office 365 - Proplus Edition on X86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office_365:-:*:*:*:-:*:*:*",
+      "title": "Microsoft Office 365",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

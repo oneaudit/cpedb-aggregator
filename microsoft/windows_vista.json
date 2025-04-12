@@ -1,0 +1,1645 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A750A795-1CC6-49B8-A25C-7248DA851CB6",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:beta:*:*:*:*:*:*",
+        "cpeNameId": "E36D587B-337A-4CB3-8A85-F1E871615E77",
+        "lastModified": "2008-04-15T22:27:38.710",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Beta",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:beta1:*:*:*:*:*:*",
+        "cpeNameId": "A113C3E2-5AF4-4E8F-AC9A-F131FC4DC257",
+        "lastModified": "2008-04-15T22:27:39.020",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Beta 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:beta2:*:*:*:*:*:*",
+        "cpeNameId": "879B0660-F042-4EA1-AA85-454279E4CBB4",
+        "lastModified": "2008-04-15T22:27:39.273",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Beta 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:gold:*:*:*:*:*:*",
+        "cpeNameId": "66FACC4A-1B5B-4C0A-BE7F-115FBB5A3109",
+        "lastModified": "2008-04-07T14:30:36.027",
+        "created": "2007-09-12T20:44:26.390",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista gold",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:*:x64-ultimate:*:*:*:*:*",
+        "cpeNameId": "55515328-595F-46C4-92CA-E2FA1C6C53DD",
+        "lastModified": "2019-04-30T12:34:26.930",
+        "created": "2007-09-12T22:53:29.423",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista x64 (64-bit) Ultimate Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:ultimate:*:x64:*",
+            "cpeNameId": "C650370F-ED5B-4B4B-B75C-4444231EDE23"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:*:x64-enterprise:*:*:*:*:*",
+        "cpeNameId": "783AAF01-E10C-4216-82F7-8AADD16A9EC5",
+        "lastModified": "2019-04-30T12:34:26.180",
+        "created": "2007-09-12T22:53:30.283",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista x64 (64-bit) Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:enterprise:*:x64:*",
+            "cpeNameId": "63BCAEA6-E46F-4FEE-8D4C-D7B6CBE3417D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:*:x64:*:*:*:*:*",
+        "cpeNameId": "9680EA86-ECF6-4BB3-B769-AF653BDEB5D0",
+        "lastModified": "2011-12-19T17:50:04.287",
+        "created": "2007-12-12T16:05:32.410",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x64:*:*:*:*:*",
+        "cpeNameId": "0597CE53-AD87-44B5-8E52-AAA642302D8E",
+        "lastModified": "2023-12-07T18:38:56.040",
+        "created": "2008-10-15T19:23:51.207",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:-:*:x64:*",
+            "cpeNameId": "F2B82264-2DC6-4855-A14E-B5E8F1CF8082"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:x64:*:*:*:*:*",
+        "cpeNameId": "2E3D8AC2-FA8D-4704-BBA3-6DE2D2BCB585",
+        "lastModified": "2023-12-07T18:38:56.040",
+        "created": "2009-06-10T18:34:32.577",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:-:*:x64:*",
+            "cpeNameId": "0A7BF6AA-4A1F-40EA-AA79-A9576D5F12ED"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:*:*:*:*",
+        "cpeNameId": "F19E72B0-CA7B-45ED-BDE5-8926A9863A05",
+        "lastModified": "2011-08-18T14:07:06.617",
+        "created": "2009-06-10T19:35:42.640",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 (initial release)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:*:*:*:*",
+        "cpeNameId": "4051F36B-7BE3-44E5-A182-7223705F3578",
+        "lastModified": "2010-03-12T19:34:26.903",
+        "created": "2009-06-10T19:35:42.750",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:*:x86:*:*:*:*:*",
+        "cpeNameId": "6B02ED17-A60B-4E50-90B1-4765F4C19087",
+        "lastModified": "2011-08-18T14:07:06.553",
+        "created": "2010-01-14T14:46:57.750",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x64-home_premium:*:*:*:*:*",
+        "cpeNameId": "518CFDF0-1DD6-48E8-9EAE-768103A41A6E",
+        "lastModified": "2019-04-30T12:34:27.650",
+        "created": "2011-08-18T14:06:11.427",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 x64 (64-bit) Home Premium Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_premium:*:x64:*",
+            "cpeNameId": "260A534D-F430-46D2-B2A0-913083C395BF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x64-ultimate:*:*:*:*:*",
+        "cpeNameId": "DB2B6A26-7A83-4A75-99C3-6542F5603E3D",
+        "lastModified": "2019-04-30T12:34:27.757",
+        "created": "2011-08-18T14:06:11.583",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 x64 (64-bit) Ultimate Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:ultimate:*:x64:*",
+            "cpeNameId": "2C177FAD-9082-4FBF-A545-0184D382222F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:*:x86-enterprise:*:*:*:*:*",
+        "cpeNameId": "B691C7DE-96CB-4DD6-9FEA-E00BC8B7D341",
+        "lastModified": "2019-04-30T12:34:26.993",
+        "created": "2011-08-18T14:07:05.850",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista x86 (32-bit) Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:enterprise:*:x86:*",
+            "cpeNameId": "C826B4B2-41A5-4C2F-81F1-EF5181196E6A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:*:x86-ultimate:*:*:*:*:*",
+        "cpeNameId": "AB8FCA54-0A5D-446A-A14C-405D72A41800",
+        "lastModified": "2019-04-30T12:34:27.070",
+        "created": "2011-08-18T14:07:05.977",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista x86 (32-bit) Ultimate Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:ultimate:*:x86:*",
+            "cpeNameId": "D9819D00-C8C3-4B6B-B0A7-61C9D4315D7B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x86-enterprise:*:*:*:*:*",
+        "cpeNameId": "038DB6C6-EE8E-4098-AFA6-C9040F50B1B0",
+        "lastModified": "2019-04-30T12:34:27.853",
+        "created": "2011-08-18T14:07:06.227",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 x86 (32-bit) Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:enterprise:*:x86:*",
+            "cpeNameId": "F49F2C52-0002-42DD-8053-88A792757A4A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x86-ultimate:*:*:*:*:*",
+        "cpeNameId": "F5869551-0C58-485A-9D98-C358F93E5029",
+        "lastModified": "2019-04-30T12:34:27.917",
+        "created": "2011-08-18T14:07:06.367",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 x86 (32-bit) Ultimate Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:ultimate:*:x86:*",
+            "cpeNameId": "6565E93A-5A4D-4109-84AE-D7D114B6AF8A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x64-enterprise:*:*:*:*:*",
+        "cpeNameId": "D73DA40D-7235-484D-9264-84B378CC1CBD",
+        "lastModified": "2019-04-30T12:34:27.167",
+        "created": "2011-08-18T14:07:06.477",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 x64 (64-bit) Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:enterprise:*:x64:*",
+            "cpeNameId": "F20EA2CC-562D-42EA-A928-91ED0620D5B7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:x64:*:*:*:*:*",
+        "cpeNameId": "8186A293-8B26-42EA-81E4-0E137A444FA7",
+        "lastModified": "2021-06-24T16:44:32.637",
+        "created": "2017-11-16T19:36:32.950",
+        "titles": [
+          {
+            "title": "Microsoft PowerPoint x64 Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:*:*:x64:*",
+        "cpeNameId": "9BC1BFCC-1ACA-4294-A42C-63E511C95E67",
+        "lastModified": "2021-06-24T16:44:32.637",
+        "created": "2017-12-07T17:32:17.313",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:gold:*:*:*:*:x64:*",
+        "cpeNameId": "6B7ADAAD-2BAB-4AFF-97B4-B417F33E0AEC",
+        "lastModified": "2021-06-24T16:44:32.637",
+        "created": "2019-02-27T16:00:10.050",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Gold on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:business:*:x64:*",
+        "cpeNameId": "AB1A48B1-D484-4293-821C-F078CD9A0F61",
+        "lastModified": "2019-03-26T14:46:38.017",
+        "created": "2019-03-26T14:46:38.017",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Business Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:business:*:x86:*",
+        "cpeNameId": "C1504D6E-59D2-4F72-A78C-C8761D398D54",
+        "lastModified": "2019-03-26T14:46:38.283",
+        "created": "2019-03-26T14:46:38.283",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Business Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:business_n:*:x64:*",
+        "cpeNameId": "3C62E227-7C96-4D00-8563-FD9CD6161157",
+        "lastModified": "2019-03-26T14:46:38.470",
+        "created": "2019-03-26T14:46:38.470",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Business N Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:business_n:*:x86:*",
+        "cpeNameId": "7CD11466-1FBB-4CE1-8461-1752B46C5F00",
+        "lastModified": "2019-03-26T14:46:38.657",
+        "created": "2019-03-26T14:46:38.657",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Business N Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:enterprise:*:x64:*",
+        "cpeNameId": "63BCAEA6-E46F-4FEE-8D4C-D7B6CBE3417D",
+        "lastModified": "2019-03-26T14:46:38.847",
+        "created": "2019-03-26T14:46:38.847",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Enterprise Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:enterprise:*:x86:*",
+        "cpeNameId": "C826B4B2-41A5-4C2F-81F1-EF5181196E6A",
+        "lastModified": "2019-03-26T14:46:39.033",
+        "created": "2019-03-26T14:46:39.033",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Enterprise Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:home_basic:*:x64:*",
+        "cpeNameId": "88AE1596-68C7-474E-833D-B980CFB5B028",
+        "lastModified": "2019-03-26T14:46:39.237",
+        "created": "2019-03-26T14:46:39.237",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Home Basic Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:home_basic:*:x86:*",
+        "cpeNameId": "ACEABA0C-EEFE-447A-90E4-424679F7062F",
+        "lastModified": "2019-03-26T14:46:39.457",
+        "created": "2019-03-26T14:46:39.457",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Home Basic Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:home_basic_n:*:x64:*",
+        "cpeNameId": "DAEDC74B-FBD7-4C2D-90AB-B2DA8BEE9333",
+        "lastModified": "2019-03-26T14:46:39.657",
+        "created": "2019-03-26T14:46:39.657",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Home Basic N Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:home_basic_n:*:x86:*",
+        "cpeNameId": "58CA04DD-651B-4336-9578-698007BF5886",
+        "lastModified": "2019-03-26T14:46:39.847",
+        "created": "2019-03-26T14:46:39.847",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Home Basic N Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:home_premium:*:x64:*",
+        "cpeNameId": "923A0E23-CC0A-4833-80CB-0923B02CFC14",
+        "lastModified": "2019-03-26T14:46:40.047",
+        "created": "2019-03-26T14:46:40.047",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Home Premium Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:home_premium:*:x86:*",
+        "cpeNameId": "5D810626-B803-4E6A-8457-1AEAD9F4898B",
+        "lastModified": "2019-03-26T14:46:40.253",
+        "created": "2019-03-26T14:46:40.253",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Home Premium Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:starter:*:x86:*",
+        "cpeNameId": "9FB2BE94-6311-4D4F-8F10-2BEE5FEAA885",
+        "lastModified": "2019-03-26T14:46:40.457",
+        "created": "2019-03-26T14:46:40.457",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Starter Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:ultimate:*:x64:*",
+        "cpeNameId": "C650370F-ED5B-4B4B-B75C-4444231EDE23",
+        "lastModified": "2019-03-26T14:46:40.657",
+        "created": "2019-03-26T14:46:40.657",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Ultimate Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:ultimate:*:x86:*",
+        "cpeNameId": "D9819D00-C8C3-4B6B-B0A7-61C9D4315D7B",
+        "lastModified": "2019-03-26T14:46:40.860",
+        "created": "2019-03-26T14:46:40.860",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Ultimate Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:business:*:x64:*",
+        "cpeNameId": "3CF11C7D-7D2C-4749-BF09-8BA05F710AFA",
+        "lastModified": "2019-03-26T14:46:41.063",
+        "created": "2019-03-26T14:46:41.063",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Business Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:business:*:x86:*",
+        "cpeNameId": "D5F64B72-B5A9-4079-B2D0-194D5BB4B248",
+        "lastModified": "2019-03-26T14:46:41.297",
+        "created": "2019-03-26T14:46:41.297",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Business Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:business_n:*:x64:*",
+        "cpeNameId": "6430A54F-8193-452B-8E55-358A0C8FB8E0",
+        "lastModified": "2019-03-26T14:46:41.517",
+        "created": "2019-03-26T14:46:41.517",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Business N Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:business_n:*:x86:*",
+        "cpeNameId": "77CFC879-1B8F-4C27-BD97-604FC335D844",
+        "lastModified": "2019-03-26T14:46:41.720",
+        "created": "2019-03-26T14:46:41.720",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Business N Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:enterprise:*:x64:*",
+        "cpeNameId": "F20EA2CC-562D-42EA-A928-91ED0620D5B7",
+        "lastModified": "2019-03-26T14:46:41.923",
+        "created": "2019-03-26T14:46:41.923",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Enterprise Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:enterprise:*:x86:*",
+        "cpeNameId": "F49F2C52-0002-42DD-8053-88A792757A4A",
+        "lastModified": "2019-03-26T14:46:42.143",
+        "created": "2019-03-26T14:46:42.143",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Enterprise Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_basic:*:x64:*",
+        "cpeNameId": "FC869CD1-9E83-441E-BD80-630DAB790BD3",
+        "lastModified": "2019-03-26T14:46:42.347",
+        "created": "2019-03-26T14:46:42.347",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Home Basic Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_basic:*:x86:*",
+        "cpeNameId": "E19BBFEC-3D2E-4242-9D96-8F8989A1248F",
+        "lastModified": "2019-03-26T14:46:42.563",
+        "created": "2019-03-26T14:46:42.563",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Home Basic Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_basic_n:*:x64:*",
+        "cpeNameId": "4D13EE8D-BFD8-4D2C-85EA-D36EAE34BC1A",
+        "lastModified": "2019-03-26T14:46:42.783",
+        "created": "2019-03-26T14:46:42.783",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Home Basic N Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_basic_n:*:x86:*",
+        "cpeNameId": "FF965075-3276-453E-AF19-FD3ABABC9808",
+        "lastModified": "2019-03-26T14:46:42.987",
+        "created": "2019-03-26T14:46:42.987",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Home Basic N Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_premium:*:x64:*",
+        "cpeNameId": "260A534D-F430-46D2-B2A0-913083C395BF",
+        "lastModified": "2019-03-26T14:46:43.207",
+        "created": "2019-03-26T14:46:43.207",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Home Premium Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_premium:*:x86:*",
+        "cpeNameId": "3552323B-CA47-4BB3-B21D-3C5077C19D53",
+        "lastModified": "2019-03-26T14:46:43.407",
+        "created": "2019-03-26T14:46:43.407",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Home Premium Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:starter:*:x86:*",
+        "cpeNameId": "E087FF43-C877-4A52-80B8-F43A40B39E97",
+        "lastModified": "2019-03-26T14:46:43.627",
+        "created": "2019-03-26T14:46:43.627",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Starter Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:ultimate:*:x64:*",
+        "cpeNameId": "2C177FAD-9082-4FBF-A545-0184D382222F",
+        "lastModified": "2019-03-26T14:46:43.847",
+        "created": "2019-03-26T14:46:43.847",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Ultimate Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:ultimate:*:x86:*",
+        "cpeNameId": "6565E93A-5A4D-4109-84AE-D7D114B6AF8A",
+        "lastModified": "2019-03-26T14:46:44.063",
+        "created": "2019-03-26T14:46:44.063",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 Ultimate Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:business:*:x64:*",
+        "cpeNameId": "3B068A6F-078D-47E4-BEEA-199380BD18BC",
+        "lastModified": "2019-03-26T14:46:44.283",
+        "created": "2019-03-26T14:46:44.283",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Business Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:business:*:x86:*",
+        "cpeNameId": "1F51FCE2-40AD-46E9-ACA9-C80EAB91D09A",
+        "lastModified": "2019-03-26T14:46:44.533",
+        "created": "2019-03-26T14:46:44.533",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Business Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:business_n:*:x64:*",
+        "cpeNameId": "FFF2CCBF-8A0E-4E1D-9DCB-09EB9EB01F9E",
+        "lastModified": "2019-03-26T14:46:44.767",
+        "created": "2019-03-26T14:46:44.767",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Business N Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:business_n:*:x86:*",
+        "cpeNameId": "538FA4FE-A06E-45FD-B759-B6B31469DCCC",
+        "lastModified": "2019-03-26T14:46:45.003",
+        "created": "2019-03-26T14:46:45.003",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Business N Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:enterprise:*:x64:*",
+        "cpeNameId": "30519016-83AE-43B3-9BD5-CA6A978ECC59",
+        "lastModified": "2019-03-26T14:46:45.220",
+        "created": "2019-03-26T14:46:45.220",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Enterprise Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:enterprise:*:x86:*",
+        "cpeNameId": "0715D51F-4B51-4DF5-BABE-C1F6C387312B",
+        "lastModified": "2019-03-26T14:46:45.457",
+        "created": "2019-03-26T14:46:45.457",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Enterprise Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:home_basic:*:x64:*",
+        "cpeNameId": "17B2435E-0026-4A9C-A48F-17FC2E998C5F",
+        "lastModified": "2019-03-26T14:46:45.690",
+        "created": "2019-03-26T14:46:45.690",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Home Basic Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:home_basic:*:x86:*",
+        "cpeNameId": "8E8DA8BD-9E61-45DD-9743-1924A70E02EE",
+        "lastModified": "2019-03-26T14:46:45.907",
+        "created": "2019-03-26T14:46:45.907",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Home Basic Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:home_basic_n:*:x64:*",
+        "cpeNameId": "2B8AF169-9A79-4B7F-A7AA-5329019C06B2",
+        "lastModified": "2019-03-26T14:46:46.143",
+        "created": "2019-03-26T14:46:46.143",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Home Basic N Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:home_basic_n:*:x86:*",
+        "cpeNameId": "6EF54A7D-ABB3-41C3-96CA-A88685F80DAB",
+        "lastModified": "2019-03-26T14:46:46.377",
+        "created": "2019-03-26T14:46:46.377",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Home Basic N Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:home_premium:*:x64:*",
+        "cpeNameId": "78206520-922F-4829-AF55-A26502188DE1",
+        "lastModified": "2019-03-26T14:46:46.610",
+        "created": "2019-03-26T14:46:46.610",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Home Premium Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:home_premium:*:x86:*",
+        "cpeNameId": "97A84C38-7546-4D64-9073-70DC397655A8",
+        "lastModified": "2019-03-26T14:46:46.847",
+        "created": "2019-03-26T14:46:46.847",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Home Premium Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:starter:*:x86:*",
+        "cpeNameId": "2F7B7F8B-01F4-45C8-B9E6-691921F07B3A",
+        "lastModified": "2019-03-26T14:46:47.080",
+        "created": "2019-03-26T14:46:47.080",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Starter Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:ultimate:*:x64:*",
+        "cpeNameId": "F06587DA-B890-4D42-8434-A11C1D270FF7",
+        "lastModified": "2019-03-26T14:46:47.313",
+        "created": "2019-03-26T14:46:47.313",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Ultimate Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:ultimate:*:x86:*",
+        "cpeNameId": "4B4E7154-4370-4127-8A1D-D4E7EDD75964",
+        "lastModified": "2019-03-26T14:46:47.550",
+        "created": "2019-03-26T14:46:47.550",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 Ultimate Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:*:*:*:*:*:-:*",
+        "cpeNameId": "D351C821-11CD-4AF4-9BDA-D294D83B8257",
+        "lastModified": "2021-01-25T18:27:52.023",
+        "created": "2021-01-25T18:27:52.023",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:*:*:-:*",
+        "cpeNameId": "FFB99E50-9D42-44AD-A30A-408AF6516AF9",
+        "lastModified": "2021-01-25T18:27:52.477",
+        "created": "2021-01-25T18:27:52.477",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:-:*:x64:*",
+        "cpeNameId": "F2B82264-2DC6-4855-A14E-B5E8F1CF8082",
+        "lastModified": "2023-12-07T18:38:56.040",
+        "created": "2021-01-25T18:27:53.053",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 1 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:-:*:x64:*",
+        "cpeNameId": "0A7BF6AA-4A1F-40EA-AA79-A9576D5F12ED",
+        "lastModified": "2023-12-07T18:38:56.040",
+        "created": "2021-01-25T18:27:53.633",
+        "titles": [
+          {
+            "title": "Microsoft Windows Vista Service Pack 2 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Vista",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:beta:*:*:*:*:*:*",
+      "title": "Microsoft Windows Vista Beta",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:beta1:*:*:*:*:*:*",
+      "title": "Microsoft Windows Vista Beta 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:beta2:*:*:*:*:*:*",
+      "title": "Microsoft Windows Vista Beta 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:gold:*:*:*:*:*:*",
+      "title": "Microsoft Windows Vista gold",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:*:x64-ultimate:*:*:*:*:*",
+      "title": "Microsoft Windows Vista x64 (64-bit) Ultimate Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:ultimate:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:*:x64-enterprise:*:*:*:*:*",
+      "title": "Microsoft Windows Vista x64 (64-bit) Enterprise Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:enterprise:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:*:x64:*:*:*:*:*",
+      "title": "Microsoft Windows Vista x64 (64-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x64:*:*:*:*:*",
+      "title": "Microsoft Windows Vista Service Pack 1 x64 (64-bit)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:-:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:x64:*:*:*:*:*",
+      "title": "Microsoft Windows Vista Service Pack 2 x64 (64-bit)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:-:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Windows Vista Service Pack 1 (initial release)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Windows Vista Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:*:x86:*:*:*:*:*",
+      "title": "Microsoft Windows Vista x86 (32-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x64-home_premium:*:*:*:*:*",
+      "title": "Microsoft Windows Vista Service Pack 1 x64 (64-bit) Home Premium Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_premium:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x64-ultimate:*:*:*:*:*",
+      "title": "Microsoft Windows Vista Service Pack 1 x64 (64-bit) Ultimate Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:ultimate:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:*:x86-enterprise:*:*:*:*:*",
+      "title": "Microsoft Windows Vista x86 (32-bit) Enterprise Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:enterprise:*:x86:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:*:x86-ultimate:*:*:*:*:*",
+      "title": "Microsoft Windows Vista x86 (32-bit) Ultimate Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:ultimate:*:x86:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x86-enterprise:*:*:*:*:*",
+      "title": "Microsoft Windows Vista Service Pack 1 x86 (32-bit) Enterprise Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:enterprise:*:x86:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x86-ultimate:*:*:*:*:*",
+      "title": "Microsoft Windows Vista Service Pack 1 x86 (32-bit) Ultimate Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:ultimate:*:x86:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x64-enterprise:*:*:*:*:*",
+      "title": "Microsoft Windows Vista Service Pack 1 x64 (64-bit) Enterprise Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:enterprise:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:x64:*:*:*:*:*",
+      "title": "Microsoft PowerPoint x64 Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:*:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 1 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:gold:*:*:*:*:x64:*",
+      "title": "Microsoft Windows Vista Gold on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:business:*:x64:*",
+      "title": "Microsoft Windows Vista Business Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:business:*:x86:*",
+      "title": "Microsoft Windows Vista Business Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:business_n:*:x64:*",
+      "title": "Microsoft Windows Vista Business N Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:business_n:*:x86:*",
+      "title": "Microsoft Windows Vista Business N Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:enterprise:*:x64:*",
+      "title": "Microsoft Windows Vista Enterprise Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:enterprise:*:x86:*",
+      "title": "Microsoft Windows Vista Enterprise Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:home_basic:*:x64:*",
+      "title": "Microsoft Windows Vista Home Basic Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:home_basic:*:x86:*",
+      "title": "Microsoft Windows Vista Home Basic Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:home_basic_n:*:x64:*",
+      "title": "Microsoft Windows Vista Home Basic N Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:home_basic_n:*:x86:*",
+      "title": "Microsoft Windows Vista Home Basic N Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:home_premium:*:x64:*",
+      "title": "Microsoft Windows Vista Home Premium Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:home_premium:*:x86:*",
+      "title": "Microsoft Windows Vista Home Premium Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:starter:*:x86:*",
+      "title": "Microsoft Windows Vista Starter Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:ultimate:*:x64:*",
+      "title": "Microsoft Windows Vista Ultimate Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:ultimate:*:x86:*",
+      "title": "Microsoft Windows Vista Ultimate Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:business:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Business Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:business:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Business Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:business_n:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Business N Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:business_n:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Business N Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:enterprise:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Enterprise Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:enterprise:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Enterprise Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_basic:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Home Basic Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_basic:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Home Basic Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_basic_n:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Home Basic N Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_basic_n:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Home Basic N Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_premium:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Home Premium Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_premium:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Home Premium Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:starter:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Starter Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:ultimate:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Ultimate Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:ultimate:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 1 Ultimate Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:business:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Business Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:business:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Business Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:business_n:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Business N Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:business_n:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Business N Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:enterprise:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Enterprise Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:enterprise:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Enterprise Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:home_basic:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Home Basic Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:home_basic:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Home Basic Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:home_basic_n:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Home Basic N Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:home_basic_n:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Home Basic N Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:home_premium:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Home Premium Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:home_premium:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Home Premium Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:starter:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Starter Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:ultimate:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Ultimate Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:ultimate:*:x86:*",
+      "title": "Microsoft Windows Vista Service Pack 2 Ultimate Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:*:*:*:*:*:-:*",
+      "title": "Microsoft Windows Vista",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:*:*:-:*",
+      "title": "Microsoft Windows Vista Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:-:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 1 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:-:*:x64:*",
+      "title": "Microsoft Windows Vista Service Pack 2 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

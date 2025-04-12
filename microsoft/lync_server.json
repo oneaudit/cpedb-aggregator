@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:lync_server:2013:*:*:*:*:*:*:*",
+        "cpeNameId": "2F5C5463-EC53-4837-860F-57ABC224BABA",
+        "lastModified": "2013-05-16T18:37:34.223",
+        "created": "2013-05-15T13:58:44.813",
+        "titles": [
+          {
+            "title": "Microsoft Lync Server 2013",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:lync_server:2010:*:*:*:*:*:*:*",
+        "cpeNameId": "BC12B847-F8C0-4458-AAA9-B1C282A748D3",
+        "lastModified": "2014-06-11T15:58:54.603",
+        "created": "2014-06-11T15:57:16.237",
+        "titles": [
+          {
+            "title": "Microsoft Lync Server 2010",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:lync_server:2013:cumulative_update_10:*:*:*:*:*:*",
+        "cpeNameId": "0DD40567-0DBA-461C-90C8-23B024D14AE3",
+        "lastModified": "2021-08-19T14:28:08.957",
+        "created": "2021-05-13T14:27:02.610",
+        "titles": [
+          {
+            "title": "Microsoft Lync Server 2013 Cumulative Update 10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:lync_server:2013:*:*:*:*:*:*:*",
+      "title": "Microsoft Lync Server 2013",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:lync_server:2010:*:*:*:*:*:*:*",
+      "title": "Microsoft Lync Server 2010",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:lync_server:2013:cumulative_update_10:*:*:*:*:*:*",
+      "title": "Microsoft Lync Server 2013 Cumulative Update 10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server_reporting_services:2000:sp2:*:*:*:*:*:*",
+        "cpeNameId": "3A800822-A958-4C58-867C-2440B5C88BC8",
+        "lastModified": "2012-10-10T16:14:32.033",
+        "created": "2008-09-11T14:21:30.070",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server Reporting Services 2000 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server_reporting_services:2017:*:*:*:*:*:*:*",
+        "cpeNameId": "C300E51E-A44C-4D8F-A5CE-4C3F39FF9CC4",
+        "lastModified": "2021-08-17T14:24:23.200",
+        "created": "2020-09-16T14:14:47.993",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server Reporting Services 2017",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server_reporting_services:2019:*:*:*:*:*:*:*",
+        "cpeNameId": "54C8018A-8A89-4A76-A056-C415513D3AC5",
+        "lastModified": "2021-08-17T14:24:23.200",
+        "created": "2020-09-16T14:14:47.993",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server Reporting Services 2019",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server_reporting_services:2000:sp2:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server Reporting Services 2000 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server_reporting_services:2017:*:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server Reporting Services 2017",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server_reporting_services:2019:*:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server Reporting Services 2019",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

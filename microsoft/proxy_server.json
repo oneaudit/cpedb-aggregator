@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:proxy_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "95D32E1D-8286-437C-A8F6-5EE4C4E83357",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:31:56.400",
+        "titles": [
+          {
+            "title": "Microsoft proxy_server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:proxy_server:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3ED3B806-B65E-4031-8A7C-0175955064CD",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:31:56.417",
+        "titles": [
+          {
+            "title": "Microsoft proxy_server 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:proxy_server:-:*:*:*:*:*:*:*",
+      "title": "Microsoft proxy_server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:proxy_server:2.0:*:*:*:*:*:*:*",
+      "title": "Microsoft proxy_server 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

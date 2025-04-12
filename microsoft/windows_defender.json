@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_defender:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C89B462B-620D-4231-843F-D84F26B7543D",
+        "lastModified": "2013-04-10T15:03:33.597",
+        "created": "2007-08-28T21:32:24.547",
+        "titles": [
+          {
+            "title": "Microsoft Windows Defender",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_defender:1.1.23060.3001:*:*:*:*:*:*:*",
+        "cpeNameId": "0AD00147-D6E8-42F1-A2E8-5BF356C5D1F7",
+        "lastModified": "2023-08-25T07:22:33.470",
+        "created": "2023-08-10T18:55:12.183",
+        "titles": [
+          {
+            "title": "Microsoft Windows Defender 1.1.23060.3001",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_defender:4.18.23100.2009:*:*:*:*:*:*:*",
+        "cpeNameId": "4C1F4F18-0EC7-4358-B840-3FA12F6098A4",
+        "lastModified": "2023-12-01T13:06:12.100",
+        "created": "2023-12-01T13:06:12.100",
+        "titles": [
+          {
+            "title": "Microsoft Windows Defender 4.18.23100.2009",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:windows_defender:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Defender",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:windows_defender:1.1.23060.3001:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Defender 1.1.23060.3001",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:windows_defender:4.18.23100.2009:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Defender 4.18.23100.2009",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

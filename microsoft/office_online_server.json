@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_online_server:2016:*:*:*:*:*:*:*",
+        "cpeNameId": "5353936D-C1AA-4008-B0F6-CF52AB7A8515",
+        "lastModified": "2021-05-18T18:21:59.820",
+        "created": "2017-05-25T17:37:15.573",
+        "titles": [
+          {
+            "title": "Microsoft Office Online Server 2016",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_online_server:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6E7922D0-6493-40C9-9597-828C40DE0B82",
+        "lastModified": "2020-03-18T17:21:34.340",
+        "created": "2020-03-18T17:21:34.340",
+        "titles": [
+          {
+            "title": "Microsoft Office Online Server 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_online_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "31D20EDC-0B9D-406F-A0C2-23677BDB5BBE",
+        "lastModified": "2021-01-05T15:07:25.503",
+        "created": "2021-01-05T15:07:25.503",
+        "titles": [
+          {
+            "title": "Microsoft Office Online Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:office_online_server:2016:*:*:*:*:*:*:*",
+      "title": "Microsoft Office Online Server 2016",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office_online_server:1.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Office Online Server 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office_online_server:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Office Online Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

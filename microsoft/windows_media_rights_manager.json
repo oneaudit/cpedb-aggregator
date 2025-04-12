@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_media_rights_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FF25AB9E-E28C-445E-B3B1-37160EAD1B68",
+        "lastModified": "2008-04-01T16:15:42.640",
+        "created": "2007-08-28T21:32:24.890",
+        "titles": [
+          {
+            "title": "Microsoft windows_media_license_manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_media_rights_manager:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5A3AB48C-D21C-4338-BB6B-5382039BC8EB",
+        "lastModified": "2008-04-01T16:15:42.717",
+        "created": "2007-08-28T21:32:24.890",
+        "titles": [
+          {
+            "title": "Microsoft windows_media_license_manager 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_media_rights_manager:4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "B90BE06A-182D-422B-909B-8BE12AD982CF",
+        "lastModified": "2008-04-01T16:15:42.810",
+        "created": "2007-08-28T21:32:24.983",
+        "titles": [
+          {
+            "title": "Microsoft windows_media_license_manager 4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:windows_media_rights_manager:-:*:*:*:*:*:*:*",
+      "title": "Microsoft windows_media_license_manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:windows_media_rights_manager:4.0:*:*:*:*:*:*:*",
+      "title": "Microsoft windows_media_license_manager 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:windows_media_rights_manager:4.1:*:*:*:*:*:*:*",
+      "title": "Microsoft windows_media_license_manager 4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

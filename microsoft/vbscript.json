@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:vbscript:5.6:*:*:*:*:*:*:*",
+        "cpeNameId": "D940F7BE-8ADF-4759-9679-AD899CDFF030",
+        "lastModified": "2012-08-20T17:13:49.387",
+        "created": "2011-04-14T15:29:45.207",
+        "titles": [
+          {
+            "title": "Microsoft VBScript 5.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:vbscript:5.7:*:*:*:*:*:*:*",
+        "cpeNameId": "F91E2352-C8F5-44FB-B682-6C8F010FCA57",
+        "lastModified": "2012-08-20T17:13:49.497",
+        "created": "2011-04-14T15:29:45.377",
+        "titles": [
+          {
+            "title": "Microsoft VBScript 5.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:vbscript:5.8:*:*:*:*:*:*:*",
+        "cpeNameId": "A3C01E81-CC56-4288-A994-6434CDFA093C",
+        "lastModified": "2012-08-20T17:13:49.590",
+        "created": "2011-04-14T15:29:45.470",
+        "titles": [
+          {
+            "title": "Microsoft VBScript 5.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:vbscript:5.8:-:x64:*:*:*:*:*",
+        "cpeNameId": "27434A6B-6C7A-4CD2-AE17-92C814FC6A2D",
+        "lastModified": "2012-08-20T17:13:49.667",
+        "created": "2012-08-15T15:58:23.273",
+        "titles": [
+          {
+            "title": "Microsoft VBScript 5.8 for 64-bit systems (x64)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:vbscript:5.6:*:*:*:*:*:*:*",
+      "title": "Microsoft VBScript 5.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:vbscript:5.7:*:*:*:*:*:*:*",
+      "title": "Microsoft VBScript 5.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:vbscript:5.8:*:*:*:*:*:*:*",
+      "title": "Microsoft VBScript 5.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:vbscript:5.8:-:x64:*:*:*:*:*",
+      "title": "Microsoft VBScript 5.8 for 64-bit systems (x64)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8.0:-:*:*:*:*:*:*:*",
+        "cpeNameId": "71978367-C616-4EA7-A772-ED5766DD935B",
+        "lastModified": "2023-05-08T13:29:01.540",
+        "created": "2019-06-16T02:35:35.553",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:*:*:*:*",
+            "cpeNameId": "C7E28AE1-5DB9-42A9-875E-30857AC08DC6"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8.0:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

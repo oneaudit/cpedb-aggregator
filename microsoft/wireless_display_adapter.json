@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:microsoft:wireless_display_adapter:2:*:*:*:*:*:*:*",
+        "cpeNameId": "59E87758-0176-47BB-A537-BE2C8A83A556",
+        "lastModified": "2021-08-11T16:39:27.657",
+        "created": "2018-09-04T15:50:36.750",
+        "titles": [
+          {
+            "title": "Microsoft Wireless Display Adapter V2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:microsoft:wireless_display_adapter:-:*:*:*:*:*:*:*",
+        "cpeNameId": "42BBE8E8-F1B1-4214-A6E6-4B4F62EA49C6",
+        "lastModified": "2023-09-27T11:18:22.640",
+        "created": "2023-09-27T11:18:22.640",
+        "titles": [
+          {
+            "title": "Microsoft Wireless Display Adapter",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:microsoft:wireless_display_adapter:2:*:*:*:*:*:*:*",
+      "title": "Microsoft Wireless Display Adapter V2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:microsoft:wireless_display_adapter:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Wireless Display Adapter",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

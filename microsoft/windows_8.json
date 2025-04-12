@@ -1,0 +1,378 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:consumer_preview:*:*:*:*:*:*:*",
+        "cpeNameId": "816928F6-3A0E-4B9C-ABDC-04B6674422D0",
+        "lastModified": "2012-06-15T15:23:45.077",
+        "created": "2012-05-09T14:54:21.017",
+        "titles": [
+          {
+            "title": "Windows 8 Consumer Preview",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:-:x86:*:*:*:*:*",
+        "cpeNameId": "32964742-0245-48EB-A882-0FBB253497F3",
+        "lastModified": "2019-05-08T22:11:28.783",
+        "created": "2012-11-14T13:21:10.867",
+        "titles": [
+          {
+            "title": "Windows 8 x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise:*:x86:*",
+            "cpeNameId": "D27D8975-8DC6-4ED4-8B7A-89FAC9422912"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise_n:*:x86:*",
+            "cpeNameId": "A1B4B6C6-6443-4DD9-B7E0-EEC9AAF06774"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:n:*:x86:*",
+            "cpeNameId": "D60EE5B9-2DF2-4B86-8D31-FD15F4BC7AC3"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro:*:x86:*",
+            "cpeNameId": "D0B71856-0810-490A-A293-E2A9FE2E2C63"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro_n:*:x86:*",
+            "cpeNameId": "33B81849-D9CC-49E9-82A0-0293C8DA865D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:-:x64:*:*:*:*:*",
+        "cpeNameId": "2CCE91A6-1557-4C0D-AFAD-F401AFE6A889",
+        "lastModified": "2019-05-08T22:11:28.673",
+        "created": "2012-11-14T13:21:11.007",
+        "titles": [
+          {
+            "title": "Windows 8 x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise:*:x64:*",
+            "cpeNameId": "DED777D9-3D59-4D38-9145-554E8DAB219B"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise_n:*:x64:*",
+            "cpeNameId": "85015D39-6602-45CC-A82D-25E6BB524143"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:n:*:x64:*",
+            "cpeNameId": "1841DFB6-C27D-46AF-A00F-6CFD111C3888"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro:*:x64:*",
+            "cpeNameId": "246D04B4-95B8-45D0-B4E6-46D103B4065F"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro_n:*:x64:*",
+            "cpeNameId": "C557AC7A-4FC9-42AD-B4A6-3A4ABD8492C8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise:*:x64:*",
+        "cpeNameId": "DED777D9-3D59-4D38-9145-554E8DAB219B",
+        "lastModified": "2019-05-07T14:19:58.233",
+        "created": "2019-05-07T14:19:58.233",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8 Enterprise Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise:*:x86:*",
+        "cpeNameId": "D27D8975-8DC6-4ED4-8B7A-89FAC9422912",
+        "lastModified": "2019-05-07T14:19:58.530",
+        "created": "2019-05-07T14:19:58.530",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8 Enterprise Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise_n:*:x64:*",
+        "cpeNameId": "85015D39-6602-45CC-A82D-25E6BB524143",
+        "lastModified": "2019-05-07T14:19:58.780",
+        "created": "2019-05-07T14:19:58.780",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8 Enterprise N Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise_n:*:x86:*",
+        "cpeNameId": "A1B4B6C6-6443-4DD9-B7E0-EEC9AAF06774",
+        "lastModified": "2019-05-07T14:19:58.983",
+        "created": "2019-05-07T14:19:58.983",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8 Enterprise N Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:n:*:x64:*",
+        "cpeNameId": "1841DFB6-C27D-46AF-A00F-6CFD111C3888",
+        "lastModified": "2019-05-07T14:19:59.200",
+        "created": "2019-05-07T14:19:59.200",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8 N Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:n:*:x86:*",
+        "cpeNameId": "D60EE5B9-2DF2-4B86-8D31-FD15F4BC7AC3",
+        "lastModified": "2019-05-07T14:19:59.420",
+        "created": "2019-05-07T14:19:59.420",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8 N Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro:*:x64:*",
+        "cpeNameId": "246D04B4-95B8-45D0-B4E6-46D103B4065F",
+        "lastModified": "2019-05-07T14:19:59.637",
+        "created": "2019-05-07T14:19:59.637",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8 Pro Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro:*:x86:*",
+        "cpeNameId": "D0B71856-0810-490A-A293-E2A9FE2E2C63",
+        "lastModified": "2019-05-07T14:19:59.857",
+        "created": "2019-05-07T14:19:59.857",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8 Pro Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro_n:*:x64:*",
+        "cpeNameId": "C557AC7A-4FC9-42AD-B4A6-3A4ABD8492C8",
+        "lastModified": "2019-05-07T14:20:00.077",
+        "created": "2019-05-07T14:20:00.077",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8 Pro N Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro_n:*:x86:*",
+        "cpeNameId": "33B81849-D9CC-49E9-82A0-0293C8DA865D",
+        "lastModified": "2019-05-07T14:20:00.297",
+        "created": "2019-05-07T14:20:00.297",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8 Pro N Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:professional:*:*:*",
+        "cpeNameId": "45A7F60F-78C3-4852-962D-F6BF43E119F3",
+        "lastModified": "2021-06-24T15:44:38.760",
+        "created": "2019-05-13T17:20:26.477",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8 Professional Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C7E28AE1-5DB9-42A9-875E-30857AC08DC6",
+        "lastModified": "2023-05-08T13:29:01.540",
+        "created": "2022-06-30T13:13:44.260",
+        "titles": [
+          {
+            "title": "Microsoft Windows 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:consumer_preview:*:*:*:*:*:*:*",
+      "title": "Windows 8 Consumer Preview",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:-:x86:*:*:*:*:*",
+      "title": "Windows 8 x86 (32-bit)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise:*:x86:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:-:x64:*:*:*:*:*",
+      "title": "Windows 8 x64 (64-bit)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise:*:x64:*",
+      "title": "Microsoft Windows 8 Enterprise Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise:*:x86:*",
+      "title": "Microsoft Windows 8 Enterprise Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise_n:*:x64:*",
+      "title": "Microsoft Windows 8 Enterprise N Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:enterprise_n:*:x86:*",
+      "title": "Microsoft Windows 8 Enterprise N Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:n:*:x64:*",
+      "title": "Microsoft Windows 8 N Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:n:*:x86:*",
+      "title": "Microsoft Windows 8 N Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro:*:x64:*",
+      "title": "Microsoft Windows 8 Pro Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro:*:x86:*",
+      "title": "Microsoft Windows 8 Pro Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro_n:*:x64:*",
+      "title": "Microsoft Windows 8 Pro N Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro_n:*:x86:*",
+      "title": "Microsoft Windows 8 Pro N Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:professional:*:*:*",
+      "title": "Microsoft Windows 8 Professional Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

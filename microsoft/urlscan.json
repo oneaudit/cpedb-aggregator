@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:urlscan:-:*:*:*:*:*:*:*",
+        "cpeNameId": "ABF0727F-7056-4C5C-93FB-AEF3380FFED6",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Microsoft URLScan",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:urlscan:2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "C556D191-672D-415D-ADAF-C2ECB95C19EC",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft URLScan 2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:urlscan:-:*:*:*:*:*:*:*",
+      "title": "Microsoft URLScan",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:urlscan:2.5:*:*:*:*:*:*:*",
+      "title": "Microsoft URLScan 2.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

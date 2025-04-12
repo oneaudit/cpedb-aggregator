@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_services_for_unix:-:*:*:*:*:*:*:*",
+        "cpeNameId": "02889A26-4D9A-4CD3-B77F-1BFD67527005",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-09-12T20:07:44.830",
+        "titles": [
+          {
+            "title": "Microsoft Windows Services for UNIX",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_services_for_unix:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "62BA3B0B-F866-44E6-AB64-D529D8F4160F",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-09-12T20:08:37.087",
+        "titles": [
+          {
+            "title": "Microsoft Windows Services for UNIX 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_services_for_unix:3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "67C4FF9A-8F79-4126-A369-77070AE48F88",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-09-12T20:08:44.837",
+        "titles": [
+          {
+            "title": "Microsoft Windows Services for UNIX 3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:windows_services_for_unix:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Services for UNIX",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:windows_services_for_unix:3.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Services for UNIX 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:windows_services_for_unix:3.5:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Services for UNIX 3.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

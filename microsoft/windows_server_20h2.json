@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "409B6740-02C4-43A4-B939-7CFA74CD497A",
+        "lastModified": "2023-10-14T21:33:13.750",
+        "created": "2023-05-20T21:21:04.613",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 20H2 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9D456417-9301-4BC7-BD07-1B19D3087E31",
+        "lastModified": "2023-10-14T21:33:13.750",
+        "created": "2023-09-22T13:06:58.723",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 20H2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:x64:*",
+            "cpeNameId": "409B6740-02C4-43A4-B939-7CFA74CD497A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:x64:*",
+      "title": "Microsoft Windows Server 20H2 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Server 20H2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:x64:*"
+    }
+  ]
+}

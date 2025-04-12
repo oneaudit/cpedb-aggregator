@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:pslist:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D4A4CA53-E7FE-4DDA-AB5D-793B4D86BAEB",
+        "lastModified": "2007-10-10T11:16:44.037",
+        "created": "2007-10-10T11:16:44.037",
+        "titles": [
+          {
+            "title": "Microsoft PsList",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:pslist:1.25:*:*:*:*:*:*:*",
+        "cpeNameId": "95C9CAAE-BFF1-4747-BE96-3C3CBB91A320",
+        "lastModified": "2007-10-10T11:21:15.830",
+        "created": "2007-10-10T11:21:15.830",
+        "titles": [
+          {
+            "title": "Microsoft PsList 1.25",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:pslist:-:*:*:*:*:*:*:*",
+      "title": "Microsoft PsList",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:pslist:1.25:*:*:*:*:*:*:*",
+      "title": "Microsoft PsList 1.25",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

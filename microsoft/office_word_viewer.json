@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_word_viewer:-:*:*:*:*:*:*:*",
+        "cpeNameId": "00F79D28-2419-4284-8680-96176DEC9E2A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Microsoft Office Word Viewer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_word_viewer:2003:*:*:*:*:*:*:*",
+        "cpeNameId": "7387D7E1-BA89-4992-977A-17DFBC1F6DBE",
+        "lastModified": "2008-12-10T21:05:12.763",
+        "created": "2008-12-10T21:05:12.763",
+        "titles": [
+          {
+            "title": "Microsoft Office Word Viewer 2003",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_word_viewer:2003:sp3:*:*:*:*:*:*",
+        "cpeNameId": "30D7D2B5-2850-441E-BB89-7DCC26D99CB0",
+        "lastModified": "2008-12-10T21:05:12.920",
+        "created": "2008-12-10T21:05:12.920",
+        "titles": [
+          {
+            "title": "Microsoft Office Word Viewer 2003 SP3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:office_word_viewer:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Office Word Viewer",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office_word_viewer:2003:*:*:*:*:*:*:*",
+      "title": "Microsoft Office Word Viewer 2003",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office_word_viewer:2003:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Office Word Viewer 2003 SP3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

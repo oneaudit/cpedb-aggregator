@@ -1,0 +1,2372 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "791F28BF-B0CF-4085-911D-CA3115FCF314",
+        "lastModified": "2008-04-15T23:55:07.667",
+        "created": "2007-08-28T21:31:59.590",
+        "titles": [
+          {
+            "title": "Microsoft SQLServer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2000:*:*:*:*:*:*:*",
+        "cpeNameId": "ABEE6526-55B7-4A75-A54C-A995A35EA720",
+        "lastModified": "2020-04-02T11:56:40.643",
+        "created": "2007-08-28T21:31:59.590",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server:2000:-:*:*:*:*:*:*",
+            "cpeNameId": "36550072-A888-43AB-B334-FEB5C979FEA1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1D45C211-86B6-48AF-85C9-2C160710E7BE",
+        "lastModified": "2008-04-15T23:55:09.277",
+        "created": "2007-08-28T21:32:00.260",
+        "titles": [
+          {
+            "title": "Microsoft SQLServer 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:6.5:*:*:*:*:*:*:*",
+        "cpeNameId": "F6AB1164-56F2-49BE-863E-08CDC4C0283E",
+        "lastModified": "2008-04-15T23:55:09.167",
+        "created": "2007-08-28T21:32:00.387",
+        "titles": [
+          {
+            "title": "Microsoft SQLServer 6.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "15CE855C-90CC-4103-8BCA-B0A7B643338C",
+        "lastModified": "2020-04-02T11:56:40.470",
+        "created": "2007-08-28T21:32:00.510",
+        "titles": [
+          {
+            "title": "Microsoft SQLServer 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:-:*:*:*:*:*:*",
+            "cpeNameId": "AC01C5A9-3D5F-4D6A-B8D2-5156A6F018E7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2000:gold:*:*:*:*:*:*",
+        "cpeNameId": "96CB9439-29F2-4B10-9384-64EA61918DC2",
+        "lastModified": "2008-04-15T23:33:39.770",
+        "created": "2007-09-12T22:54:35.010",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2000 (Initial Release)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2000:sp1:*:*:*:*:*:*",
+        "cpeNameId": "B8DD44E7-862B-4793-8C5B-7F449AF666A1",
+        "lastModified": "2008-04-15T23:55:07.387",
+        "created": "2007-09-12T22:54:35.213",
+        "titles": [
+          {
+            "title": "Microsoft SQLServer 2000 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2000:sp2:*:*:*:*:*:*",
+        "cpeNameId": "6D477EA7-E2FE-42EE-90E4-1D4E189B59CF",
+        "lastModified": "2008-04-15T23:55:07.480",
+        "created": "2007-09-12T22:54:35.417",
+        "titles": [
+          {
+            "title": "Microsoft SQLServer 2000 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2000:sp3:*:*:*:*:*:*",
+        "cpeNameId": "0FB67FCD-D1B8-4990-A359-BBB1D0440643",
+        "lastModified": "2008-04-15T23:55:07.293",
+        "created": "2007-09-12T22:54:35.620",
+        "titles": [
+          {
+            "title": "Microsoft SQLServer 2000 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2000:sp3a:*:*:*:*:*:*",
+        "cpeNameId": "CBCAFB62-1252-4311-B500-5116E90D2230",
+        "lastModified": "2008-04-15T23:55:09.090",
+        "created": "2007-09-12T22:54:35.887",
+        "titles": [
+          {
+            "title": "Microsoft SQLServer 2000 Service Pack 3a",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:sp1:*:*:*:*:*:*",
+        "cpeNameId": "93AAF0D3-ED90-4D7E-BF8A-B46781669931",
+        "lastModified": "2008-04-15T23:33:39.067",
+        "created": "2007-09-12T22:54:37.043",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 7.0 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:sp1_alpha:*:*:*:*:*:*",
+        "cpeNameId": "B429A054-EC40-49F3-B4F3-66EBD144BF27",
+        "lastModified": "2008-04-15T23:33:39.490",
+        "created": "2007-09-12T22:54:37.293",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 7.0 Service Pack 1 Alpha",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:sp2:*:*:*:*:*:*",
+        "cpeNameId": "107B8B96-80B8-40B5-8546-6053838A701D",
+        "lastModified": "2008-04-15T23:33:39.177",
+        "created": "2007-09-12T22:54:37.497",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 7.0 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:sp2_alpha:*:*:*:*:*:*",
+        "cpeNameId": "623B0645-5A42-4F2D-B67C-082F36B16B83",
+        "lastModified": "2008-04-15T23:33:39.567",
+        "created": "2007-09-12T22:54:37.730",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 7.0 Service Pack 2 Alpha",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:sp3:*:*:*:*:*:*",
+        "cpeNameId": "30C008AE-7A22-40BE-8055-F1B161FD12CE",
+        "lastModified": "2008-04-15T23:33:39.270",
+        "created": "2007-09-12T22:54:37.997",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 7.0 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:sp3_alpha:*:*:*:*:*:*",
+        "cpeNameId": "3B36B620-2289-43F2-A0AB-D7FEE5B97DCB",
+        "lastModified": "2008-04-15T23:55:09.857",
+        "created": "2007-09-12T22:54:38.183",
+        "titles": [
+          {
+            "title": "Microsoft SQLServer 7.0 Service Pack 3 (alpha)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:sp4:*:*:*:*:*:*",
+        "cpeNameId": "F79AF010-8DD6-45B4-8273-4E4ED9CB01E1",
+        "lastModified": "2008-04-15T23:33:39.363",
+        "created": "2007-09-12T22:54:38.387",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 7.0 Service Pack 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:*:*:*:*:*:*:*",
+        "cpeNameId": "848BE77B-CC78-473D-B808-83F15E4E0799",
+        "lastModified": "2020-04-02T11:56:40.957",
+        "created": "2007-11-08T20:33:27.043",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:-:*:*:*:*:*:*",
+            "cpeNameId": "006170D6-2D73-43DD-A10C-FCF49CCEA903"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp2:*:*:*:*:*:*",
+        "cpeNameId": "B0B82C98-6502-4E67-811E-D5D1C04D2472",
+        "lastModified": "2010-12-27T17:09:40.963",
+        "created": "2007-11-19T21:29:43.537",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp1:*:*:*:*:*:*",
+        "cpeNameId": "DC8E00F9-481C-499B-9951-029971C52C57",
+        "lastModified": "2010-12-27T17:09:41.057",
+        "created": "2007-11-19T21:30:26.513",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:alpha:*:*:*:*:*:*",
+        "cpeNameId": "AB78A505-A975-469F-A9E7-6208866E75C1",
+        "lastModified": "2008-04-15T23:55:08.777",
+        "created": "2008-04-15T23:55:08.777",
+        "titles": [
+          {
+            "title": "Microsoft Microsoft SQLServer 7.0 (alpha)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2000:sp4:*:*:*:*:*:*",
+        "cpeNameId": "6EB3261B-D14D-480E-A8A7-CF7A649E825D",
+        "lastModified": "2012-04-18T21:49:12.607",
+        "created": "2008-09-05T20:07:29.423",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2000 Service Pack 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp3:x64:*:*:*:*:*",
+        "cpeNameId": "418582CE-4403-48E8-9442-45DAF8B65B7F",
+        "lastModified": "2012-04-18T21:53:58.107",
+        "created": "2009-10-14T15:48:22.563",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Service Pack 3 64-bit (X64)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp3:itanium:*:*:*:*:*",
+        "cpeNameId": "D781B6D0-EFE8-4030-A6AC-C6A6464ECB2B",
+        "lastModified": "2012-04-18T21:53:58.047",
+        "created": "2009-10-14T15:48:22.813",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Service Pack 3 Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp3:*:*:*:*:*:*",
+        "cpeNameId": "0D905DBF-D12E-4974-B7AF-B41C72C3A69D",
+        "lastModified": "2011-03-04T17:47:04.437",
+        "created": "2009-10-14T15:55:26.483",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp4:*:*:*:*:*:*",
+        "cpeNameId": "3A02D956-EDF9-44A2-B06D-27144B1CE00A",
+        "lastModified": "2012-04-18T21:53:58.157",
+        "created": "2011-06-17T15:45:14.587",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Service Pack 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp4:x64:*:*:*:*:*",
+        "cpeNameId": "257D6E37-FA3E-46E8-8386-8078534277B6",
+        "lastModified": "2012-04-18T21:53:58.407",
+        "created": "2011-06-17T15:45:14.680",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Service Pack 4 64-bit (X64)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp4:itanium:*:*:*:*:*",
+        "cpeNameId": "A3675C54-19A4-4F59-A8B5-283860CD270A",
+        "lastModified": "2012-04-18T21:49:12.780",
+        "created": "2011-06-17T15:45:14.787",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Service Pack 4 Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp1:x64:*:*:*:*:*",
+        "cpeNameId": "5BACEB4C-F956-4EB1-BE4F-5629A93267F5",
+        "lastModified": "2012-04-18T21:53:58.750",
+        "created": "2011-06-17T15:45:14.897",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 1 64-bit (X64)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp1:itanium:*:*:*:*:*",
+        "cpeNameId": "31FF9B4D-149A-4185-BC62-DA140B78F4D6",
+        "lastModified": "2012-04-18T21:53:58.640",
+        "created": "2011-06-17T15:45:15.007",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 1 Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp2:x32:*:*:*:*:*",
+        "cpeNameId": "0EA75647-FB23-4F5E-9069-DD2701CAE14F",
+        "lastModified": "2012-04-18T21:53:58.873",
+        "created": "2011-06-17T15:45:15.117",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 2 32-bit (X32)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp2:x64:*:*:*:*:*",
+        "cpeNameId": "67C3AE93-C3E2-4819-92A2-A772B452D4E8",
+        "lastModified": "2012-04-18T21:53:58.937",
+        "created": "2011-06-17T15:45:15.227",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 2 64-bit (X64)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp2:itanium:*:*:*:*:*",
+        "cpeNameId": "4DA69E53-5D12-4558-842F-2F49ECD95FDF",
+        "lastModified": "2012-04-18T21:49:13.157",
+        "created": "2011-06-17T15:45:15.320",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 2 Itanium Based System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:r2:x64:*:*:*:*:*",
+        "cpeNameId": "A9501EFC-5938-4328-8131-3F32C208D49C",
+        "lastModified": "2012-04-18T21:53:58.577",
+        "created": "2011-06-17T15:45:15.430",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 R2 64-bit (X64)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:r2:itanium:*:*:*:*:*",
+        "cpeNameId": "C16C6D7A-5924-4E95-8E5A-EF9EDF9159E7",
+        "lastModified": "2012-04-18T21:49:12.967",
+        "created": "2011-06-17T15:45:15.537",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 R2 Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp3:express:*:*:*:*:*",
+        "cpeNameId": "AF00F5CE-A9DC-47D2-867E-A32D43C3E16A",
+        "lastModified": "2012-04-18T21:53:57.920",
+        "created": "2011-06-17T15:45:15.633",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Express Edition Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp4:express:*:*:*:*:*",
+        "cpeNameId": "5A4B0C32-41F1-4EE1-851F-FBE2AA359B2F",
+        "lastModified": "2012-04-18T21:53:58.217",
+        "created": "2011-06-17T15:45:15.743",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Express Edition Service Pack 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp4:express_advanced_services:*:*:*:*:*",
+        "cpeNameId": "6B91AA75-3EBC-4FBD-B96C-4DD04B7E0DFC",
+        "lastModified": "2012-04-18T21:49:12.717",
+        "created": "2011-06-17T16:28:55.883",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp3:express_advanced_services:*:*:*:*:*",
+        "cpeNameId": "33B40463-2065-4032-A76C-72A49CF8B77A",
+        "lastModified": "2012-04-18T21:53:57.983",
+        "created": "2011-06-17T16:28:55.977",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:*:*:*:*:*:*:*",
+        "cpeNameId": "9275D462-3D8D-4807-A3BD-2CBA3386CE3D",
+        "lastModified": "2020-04-02T11:56:41.110",
+        "created": "2012-04-04T14:06:55.103",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:-:*:*:*:*:*:*",
+            "cpeNameId": "75FA776F-031F-4BE6-9A02-DC33C4513EA0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp1:x32:*:*:*:*:*",
+        "cpeNameId": "B09979FE-05A6-4C02-9A05-B66BDDDDAAA2",
+        "lastModified": "2012-04-18T21:53:58.703",
+        "created": "2012-04-04T14:06:55.290",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 1 32-bit (X32)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp3:x32:*:*:*:*:*",
+        "cpeNameId": "D6012AC6-BD8E-47D9-B009-0A4EB09737C9",
+        "lastModified": "2012-04-18T21:53:59.060",
+        "created": "2012-04-04T14:06:55.510",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 3 32-bit (X32)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp3:x64:*:*:*:*:*",
+        "cpeNameId": "DACE87A7-7880-4D1C-B113-0DC4D76CBF7C",
+        "lastModified": "2012-04-18T21:53:59.140",
+        "created": "2012-04-04T14:06:55.760",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 3 64-bit (X64)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp3:itanium:*:*:*:*:*",
+        "cpeNameId": "30DDD40B-4AA5-441C-AF35-4A98B5252A00",
+        "lastModified": "2012-10-10T16:14:32.097",
+        "created": "2012-04-04T14:06:55.883",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 3 Itanium Based System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2000:sp4:analysis_services:*:*:*:*:*",
+        "cpeNameId": "70E36652-B716-4027-BFFA-CA1B088E2D57",
+        "lastModified": "2012-04-18T21:49:12.670",
+        "created": "2012-04-11T16:35:53.310",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2000 Service Pack 4 Analysis Services",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:sp4:x86:*:*:*:*:*",
+        "cpeNameId": "C915407A-9D5C-40B5-BD2E-D631F5F036CB",
+        "lastModified": "2012-04-18T21:49:12.907",
+        "created": "2012-04-11T16:35:53.420",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005 Service Pack 4 x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp2:x86:*:*:*:*:*",
+        "cpeNameId": "2288436B-F214-4CB5-8EB3-8CE6312605A3",
+        "lastModified": "2012-04-18T21:49:13.280",
+        "created": "2012-04-11T16:35:53.637",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 2 x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp3:x86:*:*:*:*:*",
+        "cpeNameId": "73C3E4E2-BA4A-4BCF-BD03-10C547CB8B00",
+        "lastModified": "2012-04-18T21:49:13.467",
+        "created": "2012-04-11T16:35:53.793",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 3 x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:r2:x86:*:*:*:*:*",
+        "cpeNameId": "90D39C5F-9B27-475A-865D-7148B862AF84",
+        "lastModified": "2012-04-18T21:49:13.093",
+        "created": "2012-04-11T16:35:54.077",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 R2 x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:*:*:*:*:*:*:*",
+        "cpeNameId": "87F9AB59-8725-468F-854D-818500B26AD3",
+        "lastModified": "2020-04-02T11:56:41.283",
+        "created": "2012-04-27T16:41:02.827",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:-:*:*:*:*:*:*",
+            "cpeNameId": "8FF383AF-9C30-430A-A6EA-0581BC05CB13"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:-:enterprise:*:*:*:*:*",
+        "cpeNameId": "5926ABA8-A279-4137-9164-107513FF512E",
+        "lastModified": "2012-04-27T16:41:02.953",
+        "created": "2012-04-27T16:41:02.953",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012 Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:-:business_intelligence:*:*:*:*:*",
+        "cpeNameId": "186768B3-8D5C-4B90-9C03-4C213F2CE489",
+        "lastModified": "2012-04-27T16:41:03.063",
+        "created": "2012-04-27T16:41:03.063",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012 Business Intelligence Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:-:standard:*:*:*:*:*",
+        "cpeNameId": "88ADD227-0E33-43D8-A0E7-9967B3CB1E2D",
+        "lastModified": "2012-04-27T16:41:03.187",
+        "created": "2012-04-27T16:41:03.187",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012 Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:-:web:*:*:*:*:*",
+        "cpeNameId": "6EB5E0C9-AE1C-4830-89A0-D19D642B839A",
+        "lastModified": "2012-04-27T16:41:03.297",
+        "created": "2012-04-27T16:41:03.297",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012 Web Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:-:developer:*:*:*:*:*",
+        "cpeNameId": "4D0F5704-DF52-44E9-97C6-A24A250EE5DD",
+        "lastModified": "2012-04-27T16:41:03.423",
+        "created": "2012-04-27T16:41:03.423",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012 Developer Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:-:express:*:*:*:*:*",
+        "cpeNameId": "5A135AAF-B2EE-42F3-88B5-F681E3B75AC1",
+        "lastModified": "2012-04-27T16:41:03.547",
+        "created": "2012-04-27T16:41:03.547",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012 Express Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:-:compact:*:*:*:*:*",
+        "cpeNameId": "CDE352F7-17A8-42D7-ABF4-D9D04BEC5AE0",
+        "lastModified": "2012-04-27T16:41:03.657",
+        "created": "2012-04-27T16:41:03.657",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012 Compact Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp1:x86:*:*:*:*:*",
+        "cpeNameId": "85A059FD-349A-4BD2-8AF6-E20581225117",
+        "lastModified": "2012-08-20T17:05:47.683",
+        "created": "2012-08-15T15:37:39.883",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 R2 Service Pack 1 x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp2:x86:*:*:*:*:*",
+        "cpeNameId": "5E5311B4-080D-4680-8964-40AFE440992F",
+        "lastModified": "2012-08-20T17:05:47.887",
+        "created": "2012-08-15T15:37:40.010",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 R2 Service Pack 2 x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp1:x64:*:*:*:*:*",
+        "cpeNameId": "033F9D2A-30E8-48E4-BD75-8C65786BC66E",
+        "lastModified": "2012-08-20T17:05:47.607",
+        "created": "2012-08-15T15:37:40.133",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 R2 Service Pack 1 X64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp2:x64:*:*:*:*:*",
+        "cpeNameId": "ADBFEBC2-387E-453D-93FE-420F1B301A8D",
+        "lastModified": "2012-08-20T17:05:47.810",
+        "created": "2012-08-15T15:37:40.273",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 R2 Service Pack 2X64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp1:itanium:*:*:*:*:*",
+        "cpeNameId": "99879304-A04F-4531-B84D-25EC875153DC",
+        "lastModified": "2012-08-20T17:05:47.543",
+        "created": "2012-08-15T15:37:40.383",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 R2 Service Pack 1 Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp2:itanium:*:*:*:*:*",
+        "cpeNameId": "161736E7-FB55-4A7E-BCB4-EDA986C9ED22",
+        "lastModified": "2012-08-20T17:05:47.747",
+        "created": "2012-08-15T15:37:40.510",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 R2 Service Pack 2 Itanium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2016:sp1:*:*:*:*:*:*",
+        "cpeNameId": "A5DEEC36-A766-4593-A58F-DEC6C5F4ED40",
+        "lastModified": "2024-08-08T18:24:57.920",
+        "created": "2017-09-11T14:04:00.170",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2016 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2016:13.0.4001.0:*:*:*:*:*:*:*",
+            "cpeNameId": "08F34AE4-897B-4038-AED0-D250F58A00B0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2014:sp1:*:*:*:*:*:*",
+        "cpeNameId": "088F4CD7-F63F-44ED-A2FB-243DE3A544F3",
+        "lastModified": "2017-09-11T14:06:31.457",
+        "created": "2017-09-11T14:06:31.457",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2014 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2014:sp2:*:*:*:*:*:*",
+        "cpeNameId": "337890FA-E70B-4CB4-81DB-3A4E534479AF",
+        "lastModified": "2017-09-11T14:06:31.520",
+        "created": "2017-09-11T14:06:31.520",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2014 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2016:*:*:*:*:*:*:*",
+        "cpeNameId": "823E84AF-1189-46CD-961F-9661D831C080",
+        "lastModified": "2020-04-02T11:56:41.580",
+        "created": "2017-09-11T14:06:31.533",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2016",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server:2016:-:*:*:*:*:*:*",
+            "cpeNameId": "C06D7186-026D-482C-BE8B-FB42170C1E7D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:sp3:*:*:*:*:*:*",
+        "cpeNameId": "AFA3C4A1-8D07-42C3-8D88-CEF0A88E50E2",
+        "lastModified": "2017-09-11T14:07:09.397",
+        "created": "2017-09-11T14:07:09.397",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2014:*:*:*:*:*:*:*",
+        "cpeNameId": "0E78EE03-9F90-4BBB-9C13-4FFEFFF8DDE3",
+        "lastModified": "2020-04-02T11:56:41.440",
+        "created": "2017-09-13T17:04:20.040",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2014",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server:2014:-:*:*:*:*:*:*",
+            "cpeNameId": "8621D6AC-5C4E-470D-9528-74BB56F7F3CE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:sql_server:2017:*:*:*:*:*:x64:*",
+        "cpeNameId": "6E7269E2-09D3-4BC4-8F3B-11E55ED6419D",
+        "lastModified": "2021-07-09T15:07:25.340",
+        "created": "2018-10-18T19:24:09.690",
+        "titles": [
+          {
+            "title": "Microsoft ASP.NET Model View Controller (MVC) 2017 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:sql_server:2016:sp2:*:*:*:*:x64:*",
+        "cpeNameId": "41D6E361-0709-4C45-80A5-0E530841D118",
+        "lastModified": "2021-07-09T15:07:25.340",
+        "created": "2018-10-18T19:24:09.690",
+        "titles": [
+          {
+            "title": "Microsoft ASP.NET Model View Controller (MVC) 2016 Service Pack 2 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:sql_server:2016:sp1:*:*:*:*:x64:*",
+        "cpeNameId": "C7BDD42E-ED14-4E81-AFF1-3A818904BF03",
+        "lastModified": "2021-07-09T15:07:25.340",
+        "created": "2018-10-18T19:24:09.690",
+        "titles": [
+          {
+            "title": "Microsoft ASP.NET Model View Controller (MVC) 2016 Service Pack 1 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2017:*:*:*:*:*:*:*",
+        "cpeNameId": "A82485F0-899F-4A59-A86C-194EEB695D5D",
+        "lastModified": "2024-08-08T18:09:46.950",
+        "created": "2019-11-07T13:21:58.720",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2017",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2017:14.0.2052.1:*:*:*:*:*:*:*",
+            "cpeNameId": "BEA09B4A-9F3A-4195-BBA1-FBD4854652DF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2014:sp3:*:*:*:*:*:*",
+        "cpeNameId": "B24C0009-8025-4C8A-B2EB-438FCB95E9BA",
+        "lastModified": "2019-11-15T16:09:04.080",
+        "created": "2019-11-15T16:09:04.080",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2014 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2016:sp1:*:*:*:*:x64:*",
+        "cpeNameId": "ED66D78F-91BA-4621-BDD3-7B29ACB34C18",
+        "lastModified": "2024-08-08T18:20:26.983",
+        "created": "2019-11-15T16:09:04.360",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2016 2016 Service Pack 1 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2016:13.0.4001.0:*:*:*:*:*:*:*",
+            "cpeNameId": "08F34AE4-897B-4038-AED0-D250F58A00B0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2016:sp2:*:*:*:*:x64:*",
+        "cpeNameId": "6D6548C7-5C75-41AE-9530-6C7B0E6A9610",
+        "lastModified": "2024-08-08T18:20:26.983",
+        "created": "2019-11-15T16:09:04.517",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2016 2016 Service Pack 2 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2016:13.0.5026.0:*:*:*:*:*:*:*",
+            "cpeNameId": "174D3202-3BEE-461B-AFD0-40C4F64167EB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2017:-:*:*:*:*:x64:*",
+        "cpeNameId": "24E7CCFD-615F-4B81-8BB6-69D8308930D6",
+        "lastModified": "2024-08-08T18:09:46.950",
+        "created": "2019-11-15T16:09:04.643",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2017 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2017:14.0.3465.1:*:*:*:*:*:*:*",
+            "cpeNameId": "98E0A91C-C36C-4016-8925-053BE7DA57D6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2019:*:*:*:*:*:*:*",
+        "cpeNameId": "6E43446F-26F3-4607-93EA-8853C0686D19",
+        "lastModified": "2024-08-08T17:20:16.220",
+        "created": "2019-12-02T14:05:04.963",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2019 2019",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2019:15.0.2104.1:*:*:*:*:*:*:*",
+            "cpeNameId": "0B7B7368-99FF-47D2-ACEE-D7483F51B708"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:sp4:*:*:*:*:*:*",
+        "cpeNameId": "5ABC2A66-F38B-4363-AA6D-19D8A102F94A",
+        "lastModified": "2020-02-13T16:47:15.067",
+        "created": "2020-02-13T16:47:15.067",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012 Service Pack 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:7.0:-:*:*:*:*:*:*",
+        "cpeNameId": "AC01C5A9-3D5F-4D6A-B8D2-5156A6F018E7",
+        "lastModified": "2020-04-02T11:56:39.657",
+        "created": "2020-04-02T11:56:39.657",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2000:-:*:*:*:*:*:*",
+        "cpeNameId": "36550072-A888-43AB-B334-FEB5C979FEA1",
+        "lastModified": "2020-04-02T11:56:39.830",
+        "created": "2020-04-02T11:56:39.830",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2005:-:*:*:*:*:*:*",
+        "cpeNameId": "006170D6-2D73-43DD-A10C-FCF49CCEA903",
+        "lastModified": "2020-04-02T11:56:39.907",
+        "created": "2020-04-02T11:56:39.907",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2005",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:-:*:*:*:*:*:*",
+        "cpeNameId": "75FA776F-031F-4BE6-9A02-DC33C4513EA0",
+        "lastModified": "2020-04-02T11:56:40.017",
+        "created": "2020-04-02T11:56:40.017",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:-:*:*:*:*:*:*",
+        "cpeNameId": "8FF383AF-9C30-430A-A6EA-0581BC05CB13",
+        "lastModified": "2020-04-02T11:56:40.080",
+        "created": "2020-04-02T11:56:40.080",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2014:-:*:*:*:*:*:*",
+        "cpeNameId": "8621D6AC-5C4E-470D-9528-74BB56F7F3CE",
+        "lastModified": "2020-04-02T11:56:40.173",
+        "created": "2020-04-02T11:56:40.173",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2014",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2016:-:*:*:*:*:*:*",
+        "cpeNameId": "C06D7186-026D-482C-BE8B-FB42170C1E7D",
+        "lastModified": "2024-08-08T18:24:57.920",
+        "created": "2020-04-02T11:56:40.267",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2016",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2016:13.0.5103.6:*:*:*:*:*:*:*",
+            "cpeNameId": "88B547DB-EB45-4023-9DFB-DD5A98468386"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2019:*:*:*:*:*:x64:*",
+        "cpeNameId": "265EF397-3843-4D10-BA30-0944B380A47D",
+        "lastModified": "2024-08-08T17:22:04.080",
+        "created": "2021-01-20T19:16:39.477",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2019 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2019:15.0.2104.1:*:*:*:*:*:*:*",
+            "cpeNameId": "0B7B7368-99FF-47D2-ACEE-D7483F51B708"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2016:sp3:*:*:*:*:x64:*",
+        "cpeNameId": "4D3C4DC9-1062-46FF-8324-1789320C351D",
+        "lastModified": "2024-08-08T18:20:26.983",
+        "created": "2022-06-22T14:50:56.457",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2016 2016 Service Pack 3 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2016:13.0.6300.2:*:*:*:*:*:*:*",
+            "cpeNameId": "0580507F-4EC1-4B72-8E44-83BC83313B68"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2022:*:*:*:*:*:x64:*",
+        "cpeNameId": "206812E0-5F2C-493B-A1AE-78DDA320DA68",
+        "lastModified": "2024-08-08T17:43:08.363",
+        "created": "2023-02-21T20:40:56.640",
+        "titles": [
+          {
+            "title": "Microsoft Sql Server 2022 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2022:16.0.1110.1:*:*:*:*:*:*:*",
+            "cpeNameId": "22FAA373-8DC8-42F9-94F6-DA24ECD0AEFB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp4:*:*:*:*:x64:*",
+        "cpeNameId": "5E7F00A1-6C33-447E-BDEB-207E9BDACC8E",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T15:13:25.877",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 4 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp4:*:*:*:*:x86:*",
+        "cpeNameId": "4BD83025-B208-400A-9370-4E142DAD5EDD",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T15:13:25.877",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 4 on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008_r2:sp3:*:*:*:*:x64:*",
+        "cpeNameId": "AB93780C-8779-4533-B3A4-DE7409850E1F",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T15:13:25.877",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 R2 Service Pack 3 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008_r2:sp3:*:*:*:*:x86:*",
+        "cpeNameId": "E1479A86-6124-436B-A340-C385EEACA1D3",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T15:13:25.877",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 R2 Service Pack 3 on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:sp4:*:*:*:*:x64:*",
+        "cpeNameId": "E5F17D75-D0FE-4A3D-9E60-EE6C06A893C2",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T15:13:25.877",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012 Service Pack 4 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2012:sp4:*:*:*:*:x86:*",
+        "cpeNameId": "AB77E8E9-1826-417B-B412-6B5B20931253",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T15:13:25.877",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2012 Service Pack 4 on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2014:sp3:*:*:*:*:x64:*",
+        "cpeNameId": "88556C4F-AEB2-44BB-A5B2-1EE77AB6452B",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T15:13:25.877",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2014 Service Pack 3 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2014:sp3:*:*:*:*:x86:*",
+        "cpeNameId": "75101D71-1E1F-46FC-AAA3-E4FE9104D875",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T15:13:25.877",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2014 Service Pack 3 on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:sp4:*:*:*:*:-:*",
+        "cpeNameId": "BF1202E6-1E3F-441B-B120-0EF0BDA569F8",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-23T15:50:00.820",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 Service Pack 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008_r2:sp3:*:*:*:*:-:*",
+        "cpeNameId": "75CDF518-E72E-4F15-BC67-90ADAC13D7E0",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-23T16:00:19.440",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2008 R2 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp3:*:*:*:*:*:*",
+        "cpeNameId": "73701C31-0634-40FE-8C45-7BC4335537F0",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-04-13T17:11:31.560",
+        "titles": [
+          {
+            "title": "Microsoft Sql Server 2008 R2 Sp3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2019:cumulative_update_22:*:*:*:*:*:*",
+        "cpeNameId": "B5ACF9FB-A0F9-4B56-9E7F-5476FF93B2AE",
+        "lastModified": "2024-08-08T17:20:16.220",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "Microsoft SQL Server 2019 2019 Cumulative Update 22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2019:15.0.4322.2:*:*:*:*:*:*:*",
+            "cpeNameId": "EF3CD612-718C-4ACC-9165-E07A3AC5996E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2022:cumulative_update_8:*:*:*:*:*:*",
+        "cpeNameId": "69488C95-7964-4998-B837-795C90D0E8A3",
+        "lastModified": "2024-08-08T17:43:08.363",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "Microsoft Sql Server 2022 Cumulative Update 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2022:16.0.4075.1:*:*:*:*:*:*:*",
+            "cpeNameId": "531CB296-96D8-4CB2-989A-9D6DE7125429"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server:2022:cumulative_update_10:*:*:*:*:*:*",
+        "cpeNameId": "824CF0C8-3BFE-4AF6-B26C-2F46DBBDE018",
+        "lastModified": "2024-08-08T17:43:08.363",
+        "created": "2024-01-18T16:30:54.280",
+        "titles": [
+          {
+            "title": "Microsoft Sql Server 2022 Cumulative Update 10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:sql_server_2022:16.0.4095.4:*:*:*:*:*:*:*",
+            "cpeNameId": "D769FF13-63DB-4C8F-9A4D-4A33E183EB00"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:-:*:*:*:*:*:*:*",
+      "title": "Microsoft SQLServer",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2000:*:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server:2000:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:6.0:*:*:*:*:*:*:*",
+      "title": "Microsoft SQLServer 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:6.5:*:*:*:*:*:*:*",
+      "title": "Microsoft SQLServer 6.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:7.0:*:*:*:*:*:*:*",
+      "title": "Microsoft SQLServer 7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server:7.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2000:gold:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2000 (Initial Release)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2000:sp1:*:*:*:*:*:*",
+      "title": "Microsoft SQLServer 2000 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2000:sp2:*:*:*:*:*:*",
+      "title": "Microsoft SQLServer 2000 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2000:sp3:*:*:*:*:*:*",
+      "title": "Microsoft SQLServer 2000 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2000:sp3a:*:*:*:*:*:*",
+      "title": "Microsoft SQLServer 2000 Service Pack 3a",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:7.0:sp1:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 7.0 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:7.0:sp1_alpha:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 7.0 Service Pack 1 Alpha",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:7.0:sp2:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 7.0 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:7.0:sp2_alpha:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 7.0 Service Pack 2 Alpha",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:7.0:sp3:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 7.0 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:7.0:sp3_alpha:*:*:*:*:*:*",
+      "title": "Microsoft SQLServer 7.0 Service Pack 3 (alpha)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:7.0:sp4:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 7.0 Service Pack 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:*:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server:2005:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp2:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp1:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:7.0:alpha:*:*:*:*:*:*",
+      "title": "Microsoft Microsoft SQLServer 7.0 (alpha)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2000:sp4:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2000 Service Pack 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp3:x64:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Service Pack 3 64-bit (X64)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp3:itanium:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Service Pack 3 Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp3:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp4:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Service Pack 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp4:x64:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Service Pack 4 64-bit (X64)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp4:itanium:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Service Pack 4 Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp1:x64:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 1 64-bit (X64)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp1:itanium:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 1 Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp2:x32:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 2 32-bit (X32)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp2:x64:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 2 64-bit (X64)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp2:itanium:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 2 Itanium Based System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:r2:x64:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 R2 64-bit (X64)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:r2:itanium:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 R2 Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp3:express:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Express Edition Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp4:express:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Express Edition Service Pack 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp4:express_advanced_services:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp3:express_advanced_services:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:*:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server:2008:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp1:x32:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 1 32-bit (X32)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp3:x32:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 3 32-bit (X32)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp3:x64:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 3 64-bit (X64)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp3:itanium:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 3 Itanium Based System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2000:sp4:analysis_services:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2000 Service Pack 4 Analysis Services",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:sp4:x86:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005 Service Pack 4 x86 (32-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp2:x86:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 2 x86 (32-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp3:x86:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 3 x86 (32-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:r2:x86:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 R2 x86 (32-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:*:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2012",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server:2012:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:-:enterprise:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2012 Enterprise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:-:business_intelligence:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2012 Business Intelligence Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:-:standard:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2012 Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:-:web:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2012 Web Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:-:developer:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2012 Developer Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:-:express:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2012 Express Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:-:compact:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2012 Compact Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp1:x86:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 R2 Service Pack 1 x86 (32-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp2:x86:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 R2 Service Pack 2 x86 (32-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp1:x64:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 R2 Service Pack 1 X64 (64-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp2:x64:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 R2 Service Pack 2X64 (64-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp1:itanium:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 R2 Service Pack 1 Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp2:itanium:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008 R2 Service Pack 2 Itanium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2016:sp1:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2016 Service Pack 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2016:13.0.4001.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2014:sp1:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2014 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2014:sp2:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2014 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2016:*:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2016",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server:2016:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:sp3:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2012 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2014:*:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2014",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server:2014:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:sql_server:2017:*:*:*:*:*:x64:*",
+      "title": "Microsoft ASP.NET Model View Controller (MVC) 2017 on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:sql_server:2016:sp2:*:*:*:*:x64:*",
+      "title": "Microsoft ASP.NET Model View Controller (MVC) 2016 Service Pack 2 on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:sql_server:2016:sp1:*:*:*:*:x64:*",
+      "title": "Microsoft ASP.NET Model View Controller (MVC) 2016 Service Pack 1 on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2017:*:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2017",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2017:14.0.2052.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2014:sp3:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2014 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2016:sp1:*:*:*:*:x64:*",
+      "title": "Microsoft SQL Server 2016 2016 Service Pack 1 on X64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2016:13.0.4001.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2016:sp2:*:*:*:*:x64:*",
+      "title": "Microsoft SQL Server 2016 2016 Service Pack 2 on X64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2016:13.0.5026.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2017:-:*:*:*:*:x64:*",
+      "title": "Microsoft SQL Server 2017 on X64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2017:14.0.3465.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2019:*:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2019 2019",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2019:15.0.2104.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:sp4:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2012 Service Pack 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:7.0:-:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2000:-:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2000",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2005:-:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2005",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:-:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2008",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:-:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2012",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2014:-:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2014",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2016:-:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2016",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2016:13.0.5103.6:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2019:*:*:*:*:*:x64:*",
+      "title": "Microsoft SQL Server 2019 on x64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2019:15.0.2104.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2016:sp3:*:*:*:*:x64:*",
+      "title": "Microsoft SQL Server 2016 2016 Service Pack 3 on X64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2016:13.0.6300.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2022:*:*:*:*:*:x64:*",
+      "title": "Microsoft Sql Server 2022 on X64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2022:16.0.1110.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp4:*:*:*:*:x64:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 4 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp4:*:*:*:*:x86:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 4 on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008_r2:sp3:*:*:*:*:x64:*",
+      "title": "Microsoft SQL Server 2008 R2 Service Pack 3 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008_r2:sp3:*:*:*:*:x86:*",
+      "title": "Microsoft SQL Server 2008 R2 Service Pack 3 on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:sp4:*:*:*:*:x64:*",
+      "title": "Microsoft SQL Server 2012 Service Pack 4 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2012:sp4:*:*:*:*:x86:*",
+      "title": "Microsoft SQL Server 2012 Service Pack 4 on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2014:sp3:*:*:*:*:x64:*",
+      "title": "Microsoft SQL Server 2014 Service Pack 3 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2014:sp3:*:*:*:*:x86:*",
+      "title": "Microsoft SQL Server 2014 Service Pack 3 on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:sp4:*:*:*:*:-:*",
+      "title": "Microsoft SQL Server 2008 Service Pack 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008_r2:sp3:*:*:*:*:-:*",
+      "title": "Microsoft SQL Server 2008 R2 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp3:*:*:*:*:*:*",
+      "title": "Microsoft Sql Server 2008 R2 Sp3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2019:cumulative_update_22:*:*:*:*:*:*",
+      "title": "Microsoft SQL Server 2019 2019 Cumulative Update 22",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2019:15.0.4322.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2022:cumulative_update_8:*:*:*:*:*:*",
+      "title": "Microsoft Sql Server 2022 Cumulative Update 8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2022:16.0.4075.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server:2022:cumulative_update_10:*:*:*:*:*:*",
+      "title": "Microsoft Sql Server 2022 Cumulative Update 10",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:sql_server_2022:16.0.4095.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

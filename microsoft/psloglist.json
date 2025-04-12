@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:psloglist:-:*:*:*:*:*:*:*",
+        "cpeNameId": "654D74E6-B854-4BEB-9636-7D9833916FC1",
+        "lastModified": "2007-10-10T11:16:56.880",
+        "created": "2007-10-10T11:16:56.880",
+        "titles": [
+          {
+            "title": "Microsoft PsLoglist",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:psloglist:2.50:*:*:*:*:*:*:*",
+        "cpeNameId": "6F43ABDB-C9B0-45D1-A916-D735504B07B6",
+        "lastModified": "2007-10-10T11:22:03.180",
+        "created": "2007-10-10T11:22:03.180",
+        "titles": [
+          {
+            "title": "Microsoft PsLoglist 2.50",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:psloglist:-:*:*:*:*:*:*:*",
+      "title": "Microsoft PsLoglist",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:psloglist:2.50:*:*:*:*:*:*:*",
+      "title": "Microsoft PsLoglist 2.50",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

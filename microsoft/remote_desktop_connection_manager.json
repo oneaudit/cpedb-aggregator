@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:remote_desktop_connection_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A67E5B75-9855-4D1F-8EF7-D2D78DE3F8BE",
+        "lastModified": "2020-03-18T18:06:56.053",
+        "created": "2020-03-18T18:06:56.053",
+        "titles": [
+          {
+            "title": "Microsoft Remote Desktop Connection Manager (RDCMan)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:remote_desktop_connection_manager:2.7:*:*:*:*:*:*:*",
+        "cpeNameId": "A9B12336-05E5-41BD-9F32-5AD5CFF06510",
+        "lastModified": "2020-03-18T18:06:56.317",
+        "created": "2020-03-18T18:06:56.317",
+        "titles": [
+          {
+            "title": "Microsoft Remote Desktop Connection Manager (RDCMan) 2.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:remote_desktop_connection_manager:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Remote Desktop Connection Manager (RDCMan)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:remote_desktop_connection_manager:2.7:*:*:*:*:*:*:*",
+      "title": "Microsoft Remote Desktop Connection Manager (RDCMan) 2.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

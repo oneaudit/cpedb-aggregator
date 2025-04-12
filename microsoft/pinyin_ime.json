@@ -1,0 +1,77 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:x86:*:*",
+        "cpeNameId": "CCB532EC-EF22-4C5B-806E-E69C49A54EE4",
+        "lastModified": "2021-04-12T13:17:12.933",
+        "created": "2013-09-11T18:16:35.227",
+        "titles": [
+          {
+            "title": "Microsoft Pinyin IME 2010 x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:x64:*:*",
+        "cpeNameId": "E6EC26FA-DA4C-4BD2-AD31-08B11CE0AF3E",
+        "lastModified": "2014-12-08T18:29:25.523",
+        "created": "2013-09-11T18:16:35.450",
+        "titles": [
+          {
+            "title": "Microsoft Pinyin IME 2010 x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:*:x64:*",
+            "cpeNameId": "5F139B81-7664-4B33-BE67-8AB71D3DFCFD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:*:x64:*",
+        "cpeNameId": "5F139B81-7664-4B33-BE67-8AB71D3DFCFD",
+        "lastModified": "2014-12-08T18:29:25.523",
+        "created": "2014-12-08T18:28:40.913",
+        "titles": [
+          {
+            "title": "Microsoft Pinyin IME 2010 x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:x86:*:*",
+      "title": "Microsoft Pinyin IME 2010 x86 (32-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:x64:*:*",
+      "title": "Microsoft Pinyin IME 2010 x64 (64-bit)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:*:x64:*",
+      "title": "Microsoft Pinyin IME 2010 x64 (64-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

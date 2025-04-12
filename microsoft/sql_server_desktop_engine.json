@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server_desktop_engine:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F0C878A9-47F9-40E4-B75F-DC049E7B4A49",
+        "lastModified": "2008-04-01T16:14:56.917",
+        "created": "2007-09-12T22:55:19.173",
+        "titles": [
+          {
+            "title": "Microsoft sql_srv_desktop_engine",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sql_server_desktop_engine:2000:*:*:*:*:*:*:*",
+        "cpeNameId": "09759F8A-A5B1-40EF-8270-7D78AE6E7C2C",
+        "lastModified": "2008-04-01T16:14:57.013",
+        "created": "2007-09-12T22:55:19.190",
+        "titles": [
+          {
+            "title": "Microsoft sql_srv_desktop_engine 2000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server_desktop_engine:-:*:*:*:*:*:*:*",
+      "title": "Microsoft sql_srv_desktop_engine",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sql_server_desktop_engine:2000:*:*:*:*:*:*:*",
+      "title": "Microsoft sql_srv_desktop_engine 2000",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

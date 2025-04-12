@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:report_viewer:2005:sp1:*:*:*:*:*:*",
+        "cpeNameId": "9177DFF0-1555-490C-AB7E-321788DFA0F8",
+        "lastModified": "2011-08-29T14:21:31.143",
+        "created": "2008-09-11T14:21:30.147",
+        "titles": [
+          {
+            "title": "Microsoft Report Viewer 2005 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:report_viewer:2008:*:*:*:*:*:*:*",
+        "cpeNameId": "420278B7-D402-4BA3-B29D-8A12B24252FC",
+        "lastModified": "2008-09-11T14:21:30.227",
+        "created": "2008-09-11T14:21:30.227",
+        "titles": [
+          {
+            "title": "Microsoft Report Viewer 2008",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:report_viewer:2005:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Report Viewer 2005 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:report_viewer:2008:*:*:*:*:*:*:*",
+      "title": "Microsoft Report Viewer 2008",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

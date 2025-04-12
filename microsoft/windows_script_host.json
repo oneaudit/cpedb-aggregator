@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_script_host:-:*:*:*:*:*:*:*",
+        "cpeNameId": "19AC46E6-9C4E-4F63-94E6-5B94296C0667",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:32:26.453",
+        "titles": [
+          {
+            "title": "Microsoft windows_script_host",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_script_host:5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7EFCB504-EFBA-4795-8B2E-E061CE558C8A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:32:26.470",
+        "titles": [
+          {
+            "title": "Microsoft windows_script_host 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_script_host:5.5:*:*:*:*:*:*:*",
+        "cpeNameId": "542BFA64-4E66-495A-9856-276AC5CC7290",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:32:26.563",
+        "titles": [
+          {
+            "title": "Microsoft windows_script_host 5.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:windows_script_host:-:*:*:*:*:*:*:*",
+      "title": "Microsoft windows_script_host",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:windows_script_host:5.1:*:*:*:*:*:*:*",
+      "title": "Microsoft windows_script_host 5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:windows_script_host:5.5:*:*:*:*:*:*:*",
+      "title": "Microsoft windows_script_host 5.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:word_viewer:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9810D43C-139A-417B-B6F0-CEDAEA793816",
+        "lastModified": "2010-10-14T16:08:33.700",
+        "created": "2007-08-28T21:32:30.500",
+        "titles": [
+          {
+            "title": "Microsoft Word Viewer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:word_viewer:2003:*:*:*:*:*:*:*",
+        "cpeNameId": "868142A0-EC2E-40E6-8902-9DE8C1C133B5",
+        "lastModified": "2009-10-14T17:56:16.627",
+        "created": "2007-08-28T21:32:30.500",
+        "titles": [
+          {
+            "title": "Microsoft Word Viewer 2003",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:word_viewer:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Word Viewer",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:word_viewer:2003:*:*:*:*:*:*:*",
+      "title": "Microsoft Word Viewer 2003",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

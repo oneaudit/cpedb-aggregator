@@ -1,0 +1,121 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:virtual_machine_manager:2007:*:*:*:*:*:*:*",
+        "cpeNameId": "95C73208-6C99-432B-A91E-67AE9FAA6CB3",
+        "lastModified": "2009-04-03T18:29:33.250",
+        "created": "2008-11-25T19:12:39.753",
+        "titles": [
+          {
+            "title": "Microsoft System Center Virtual Machine Manager 2007",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:virtual_machine_manager:2007:*:*:*:*:*:*:*",
+            "cpeNameId": "929DB0EF-6FD1-48CB-92EC-FE64732A7BA0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:virtual_machine_manager:2007:*:*:*:*:*:*:*",
+        "cpeNameId": "929DB0EF-6FD1-48CB-92EC-FE64732A7BA0",
+        "lastModified": "2009-04-02T19:04:17.797",
+        "created": "2009-04-02T19:04:17.797",
+        "titles": [
+          {
+            "title": "Microsoft System Center Virtual Machine Manager 2007",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:virtual_machine_manager:2008:*:*:*:*:*:*:*",
+        "cpeNameId": "43C4A867-89C6-47AD-AACF-E5D455241195",
+        "lastModified": "2009-04-02T19:04:17.907",
+        "created": "2009-04-02T19:04:17.907",
+        "titles": [
+          {
+            "title": "Microsoft System Center Virtual Machine Manager 2008",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:virtual_machine_manager:2012:r2:*:*:*:*:*:*",
+        "cpeNameId": "BC811DA2-7366-4B8D-A235-33B937301F48",
+        "lastModified": "2015-02-17T13:24:11.010",
+        "created": "2015-02-11T18:59:23.347",
+        "titles": [
+          {
+            "title": "Microsoft System Center Virtual Machine Manager 2012 R2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:virtual_machine_manager:2012:r2_rollup4:*:*:*:*:*:*",
+        "cpeNameId": "3184ED91-D67F-4985-8904-8AEB9A611DF1",
+        "lastModified": "2020-06-16T17:01:41.187",
+        "created": "2020-06-16T17:01:41.187",
+        "titles": [
+          {
+            "title": "Microsoft Virtual Machine Manager 2012 R2 Rollup4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:microsoft:virtual_machine_manager:2007:*:*:*:*:*:*:*",
+      "title": "Microsoft System Center Virtual Machine Manager 2007",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:virtual_machine_manager:2007:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:virtual_machine_manager:2007:*:*:*:*:*:*:*",
+      "title": "Microsoft System Center Virtual Machine Manager 2007",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:virtual_machine_manager:2008:*:*:*:*:*:*:*",
+      "title": "Microsoft System Center Virtual Machine Manager 2008",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:virtual_machine_manager:2012:r2:*:*:*:*:*:*",
+      "title": "Microsoft System Center Virtual Machine Manager 2012 R2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:virtual_machine_manager:2012:r2_rollup4:*:*:*:*:*:*",
+      "title": "Microsoft Virtual Machine Manager 2012 R2 Rollup4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

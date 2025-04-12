@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:intune_company_portal:-:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "3FE568A5-3499-4975-BB5F-99AC15520CDB",
+        "lastModified": "2023-08-25T07:22:33.470",
+        "created": "2022-03-11T20:34:04.100",
+        "titles": [
+          {
+            "title": "Microsoft Intune Company Portal - for iPhone OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:intune_company_portal:1.2402.12:*:*:*:*:android:*:*",
+        "cpeNameId": "B5CDF44A-D5DF-4CD0-9CEA-304CCA0BD30F",
+        "lastModified": "2025-01-15T20:56:24.273",
+        "created": "2025-01-15T20:56:24.273",
+        "titles": [
+          {
+            "title": "Microsoft Intune Company Portal 1.2402.12 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:intune_company_portal:-:*:*:*:*:android:*:*",
+        "cpeNameId": "0538C812-EAB7-4E80-8724-4DE76F0E8BC4",
+        "lastModified": "2025-01-15T20:56:24.273",
+        "created": "2025-01-15T20:56:24.273",
+        "titles": [
+          {
+            "title": "Microsoft Intune Company Portal for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:intune_company_portal:-:*:*:*:*:iphone_os:*:*",
+      "title": "Microsoft Intune Company Portal - for iPhone OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:intune_company_portal:1.2402.12:*:*:*:*:android:*:*",
+      "title": "Microsoft Intune Company Portal 1.2402.12 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:intune_company_portal:-:*:*:*:*:android:*:*",
+      "title": "Microsoft Intune Company Portal for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

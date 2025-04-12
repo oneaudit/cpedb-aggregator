@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:project_2016:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "39DBF7BD-D661-488A-A4A9-2751C7C59B17",
+        "lastModified": "2020-09-16T14:44:14.053",
+        "created": "2020-09-16T14:44:14.053",
+        "titles": [
+          {
+            "title": "Microsoft Project 2016 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:project_2016:-:*:*:*:*:*:x86:*",
+        "cpeNameId": "EDDCAAB8-2FB3-4C28-9AE5-A7E5C8684410",
+        "lastModified": "2020-09-16T14:44:14.460",
+        "created": "2020-09-16T14:44:14.460",
+        "titles": [
+          {
+            "title": "Microsoft Project 2016 on X86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:project_2016:-:*:*:*:*:*:x64:*",
+      "title": "Microsoft Project 2016 on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:project_2016:-:*:*:*:*:*:x86:*",
+      "title": "Microsoft Project 2016 on X86",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_rt:-:*:*:*:*:*:*:*",
+        "cpeNameId": "ACB0B041-6FA5-4429-840F-70210EF2F583",
+        "lastModified": "2012-12-24T15:34:25.007",
+        "created": "2012-11-14T15:14:55.570",
+        "titles": [
+          {
+            "title": "Microsoft Windows RT",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_rt:-:gold:*:*:*:*:*:*",
+        "cpeNameId": "D0E949E2-4B29-4CED-B5B3-56E044F305A5",
+        "lastModified": "2015-12-09T19:07:17.217",
+        "created": "2015-12-09T19:07:17.217",
+        "titles": [
+          {
+            "title": "Microsoft Windows RT Gold",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:microsoft:windows_rt:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows RT",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_rt:-:gold:*:*:*:*:*:*",
+      "title": "Microsoft Windows RT Gold",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

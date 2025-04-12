@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_1709:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6F020CED-FC3F-4E6C-A266-E3D69DAD7A74",
+        "lastModified": "2018-08-02T15:49:45.563",
+        "created": "2018-03-06T15:23:01.057",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 1709",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_server_2016:1709:*:*:*:*:*:*:*",
+            "cpeNameId": "45C246A6-9A10-4094-A93E-62640F8390D8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_1709:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "7E1F2F3A-3EF5-49A6-A118-E7A694AA19E7",
+        "lastModified": "2023-05-22T14:36:47.827",
+        "created": "2023-05-20T21:21:04.613",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 1709 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_1709:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Server 1709",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_server_2016:1709:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_1709:-:*:*:*:*:*:x64:*",
+      "title": "Microsoft Windows Server 1709 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

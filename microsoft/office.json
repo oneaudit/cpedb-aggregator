@@ -1,0 +1,2603 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FCF9EECC-8F7F-4A84-8BAC-58F3AF7556E2",
+        "lastModified": "2008-04-15T22:39:15.843",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Microsoft Office",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2000:*:*:*:*:*:*:*",
+        "cpeNameId": "F57AF4F7-AE04-4052-9C87-8BC3AD8B049B",
+        "lastModified": "2008-04-15T23:55:38.203",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 2000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2001:*:*:*:*:*:*:*",
+        "cpeNameId": "2581A551-D8EF-4446-814A-694F59278093",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 2001",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2001:sr1:*:*:*:*:*:*",
+        "cpeNameId": "1C5E11FA-8A61-4BC8-93BF-18E8A12C8720",
+        "lastModified": "2008-04-07T14:27:21.263",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 2001 SR1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:office:2002:sp3:*:*:*:*:*:*",
+        "cpeNameId": "5E0BFC70-5717-4E4A-93C8-7347FDC97D7F",
+        "lastModified": "2010-01-20T17:10:55.757",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 2002 SP3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:office:xp:sp3:*:*:*:*:*:*",
+            "cpeNameId": "87D4A54F-1254-4538-9232-B8F921594A6F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2003:*:*:*:*:*:*:*",
+        "cpeNameId": "6E0EDCD6-370B-4A36-B9C6-83D05069FBA4",
+        "lastModified": "2008-04-15T23:55:38.327",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 2003",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2004:*:*:*:*:*:*:*",
+        "cpeNameId": "9AB41C45-CFBC-4981-A46B-3C810B91C847",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 2004",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:*:*:*:*:*:*:*",
+        "cpeNameId": "58E0F1C3-0A8A-4552-8491-011258F65199",
+        "lastModified": "2008-04-15T23:55:38.437",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "217401DF-67B7-4FF6-8AAB-3BFF5E977A53",
+        "lastModified": "2008-04-15T23:00:58.913",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "50091D87-CC64-4654-924E-887AE15CBF46",
+        "lastModified": "2008-04-15T23:00:59.007",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:4.3:*:*:*:*:*:*:*",
+        "cpeNameId": "B07EA4A9-8CC7-47F4-897C-B0FA54D48299",
+        "lastModified": "2008-04-15T23:00:59.117",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 4.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:95:*:*:*:*:*:*:*",
+        "cpeNameId": "A5735F41-A575-4A59-B1E4-85C82313C8F1",
+        "lastModified": "2008-04-15T23:00:59.243",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 95",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:97:*:*:*:*:*:*:*",
+        "cpeNameId": "A6C1E009-F708-4368-9BAD-5F22DD36AD78",
+        "lastModified": "2008-04-15T23:00:59.320",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 97",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:98:*:*:*:*:*:*:*",
+        "cpeNameId": "30873A49-3D9D-4521-82D0-20FCE9FC692A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 98",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:xp:*:*:*:*:*:*:*",
+        "cpeNameId": "6AC2794A-1D6D-438C-9AC7-711F498F3A06",
+        "lastModified": "2008-04-15T23:55:38.967",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft Office XP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2004:*:mac:*:*:*:*:*",
+        "cpeNameId": "E0F7E8AF-53FF-4353-BF98-51E03A3E04B9",
+        "lastModified": "2010-11-19T18:28:06.577",
+        "created": "2007-08-24T02:12:28.793",
+        "titles": [
+          {
+            "title": "Microsoft Office 2004 Mac",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:97:*:*:zh:*:*:*:*",
+        "cpeNameId": "DDBE72AE-871C-45CD-94A0-18C6FFDE15ED",
+        "lastModified": "2008-04-15T22:38:53.527",
+        "created": "2007-09-12T22:54:41.217",
+        "titles": [
+          {
+            "title": "Microsoft Office 97 any any zh",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:97:*:*:ja:*:*:*:*",
+        "cpeNameId": "4BFA9938-5D3A-4303-908B-16689C981A8C",
+        "lastModified": "2008-04-15T22:38:53.623",
+        "created": "2007-09-12T22:54:41.527",
+        "titles": [
+          {
+            "title": "Microsoft Office 97 any any ja",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:97:*:*:ko:*:*:*:*",
+        "cpeNameId": "9928545C-4EBB-4151-B7EE-1C8E74DB60D9",
+        "lastModified": "2008-04-15T22:38:53.730",
+        "created": "2007-09-12T22:54:41.997",
+        "titles": [
+          {
+            "title": "Microsoft Office 97 any any ko",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2000:sp1:*:*:*:*:*:*",
+        "cpeNameId": "F30D36BD-76AD-4942-BE74-8EA5202DC441",
+        "lastModified": "2008-04-15T22:38:54.027",
+        "created": "2007-09-12T22:54:45.543",
+        "titles": [
+          {
+            "title": "Microsoft Office 2000 sp1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2000:sp2:*:*:*:*:*:*",
+        "cpeNameId": "87A5AF85-5C37-43D8-8B89-56F4FC469C9A",
+        "lastModified": "2008-04-15T22:38:54.123",
+        "created": "2007-09-12T22:54:46.027",
+        "titles": [
+          {
+            "title": "Microsoft Office 2000 sp2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2000:sp3:*:*:*:*:*:*",
+        "cpeNameId": "4378999A-EE1C-47D8-AED8-36D55203D70C",
+        "lastModified": "2008-04-15T22:38:54.217",
+        "created": "2007-09-12T22:54:46.293",
+        "titles": [
+          {
+            "title": "Microsoft Office 2000 sp3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:xp:sp1:*:*:*:*:*:*",
+        "cpeNameId": "009EEE77-6101-4D0C-B6B7-76502E91C586",
+        "lastModified": "2008-04-15T22:38:54.433",
+        "created": "2007-09-12T22:54:47.433",
+        "titles": [
+          {
+            "title": "Microsoft Office XP sp1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:xp:sp2:*:*:*:*:*:*",
+        "cpeNameId": "FC7105A9-A6AE-4932-A228-66A7A7D39690",
+        "lastModified": "2008-04-15T22:38:54.527",
+        "created": "2007-09-12T22:54:48.200",
+        "titles": [
+          {
+            "title": "Microsoft Office XP sp2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:xp:sp3:*:*:*:*:*:*",
+        "cpeNameId": "87D4A54F-1254-4538-9232-B8F921594A6F",
+        "lastModified": "2010-06-09T17:36:20.953",
+        "created": "2007-09-12T22:54:48.577",
+        "titles": [
+          {
+            "title": "Microsoft Office XP Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:office:2003:*:student_teacher:*:*:*:*:*",
+        "cpeNameId": "619BE234-1DA8-4CCD-99DC-7CFB85A78AA6",
+        "lastModified": "2008-04-15T23:56:53.413",
+        "created": "2007-09-12T22:54:51.450",
+        "titles": [
+          {
+            "title": "Microsoft Office 2003 any student_teacher",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:office:2003:*:*:*:student_and_teacher:*:*:*",
+            "cpeNameId": "69D4A657-B6D4-4006-A26B-ED898E76B655"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2003:sp1:*:*:*:*:*:*",
+        "cpeNameId": "A707A191-091D-4B30-8B3E-0F86EE090AE6",
+        "lastModified": "2008-04-15T22:38:55.137",
+        "created": "2007-09-12T22:54:52.420",
+        "titles": [
+          {
+            "title": "Microsoft Office 2003 sp1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2003:sp2:*:*:*:*:*:*",
+        "cpeNameId": "4EF00230-320F-49C0-B1B0-DF45842177D8",
+        "lastModified": "2008-04-15T22:38:55.217",
+        "created": "2007-09-12T22:54:53.077",
+        "titles": [
+          {
+            "title": "Microsoft Office 2003 sp2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2003:sp3:*:*:*:*:*:*",
+        "cpeNameId": "0E2043E0-6D47-44B6-B8BF-55B89DF70606",
+        "lastModified": "2010-06-09T17:36:20.687",
+        "created": "2007-09-12T22:54:54.763",
+        "titles": [
+          {
+            "title": "Microsoft Office 2003 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2001:sr1:mac_os:*:*:*:*:*",
+        "cpeNameId": "620EC946-7842-40C6-AA7E-BFE30112E952",
+        "lastModified": "2008-04-11T21:13:42.427",
+        "created": "2007-09-12T22:54:55.890",
+        "titles": [
+          {
+            "title": "Microsoft office_macos 2001 sr1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2008:*:mac:*:*:*:*:*",
+        "cpeNameId": "13478809-894D-4C4B-B6D5-C6867BA84F00",
+        "lastModified": "2010-11-19T18:30:09.390",
+        "created": "2008-09-05T20:00:45.947",
+        "titles": [
+          {
+            "title": "Microsoft Office 2008 Mac",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:sp1:*:*:*:*:*:*",
+        "cpeNameId": "DF03BCAC-9721-4B88-AE9B-62936C154C9B",
+        "lastModified": "2010-06-09T17:36:20.767",
+        "created": "2008-09-05T20:07:28.063",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:sp2:*:*:*:*:*:*",
+        "cpeNameId": "E2D07B14-1D84-4B42-9798-7BF8182D1CE8",
+        "lastModified": "2010-06-09T17:36:20.860",
+        "created": "2009-10-14T17:00:27.890",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:*:professional:*:*:*:*:*",
+        "cpeNameId": "552D6136-531F-4469-8F7C-511B0294313D",
+        "lastModified": "2009-11-25T18:26:34.653",
+        "created": "2009-11-25T18:26:34.653",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Professional",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:sp1:professional:*:*:*:*:*",
+        "cpeNameId": "8A66EF04-FF84-4492-9ABC-307A4D302404",
+        "lastModified": "2009-11-25T18:26:35.013",
+        "created": "2009-11-25T18:26:35.013",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Professional SP1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:sp2:professional:*:*:*:*:*",
+        "cpeNameId": "6A68DCCD-360A-4EDB-9097-8B8B1CA7EC2F",
+        "lastModified": "2009-11-25T18:26:35.387",
+        "created": "2009-11-25T18:26:35.387",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Professional SP2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:*:enterprise:*:*:*:*:*",
+        "cpeNameId": "9B610092-EB85-420E-A75F-332CDBEF4083",
+        "lastModified": "2009-11-25T18:26:35.747",
+        "created": "2009-11-25T18:26:35.747",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Enterprise",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:*:ultimate:*:*:*:*:*",
+        "cpeNameId": "F6A760BF-F9D8-4767-813F-7D30F988C8F8",
+        "lastModified": "2009-11-25T18:26:36.107",
+        "created": "2009-11-25T18:26:36.107",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Ultimate",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:*:small_business:*:*:*:*:*",
+        "cpeNameId": "FCB8D938-E54E-49FA-AB6C-55B6B1DBF850",
+        "lastModified": "2009-11-25T18:26:36.480",
+        "created": "2009-11-25T18:26:36.480",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Small Business",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:*:standard:*:*:*:*:*",
+        "cpeNameId": "84C00F05-8398-42CE-8BA7-EB5EC616344B",
+        "lastModified": "2009-11-25T18:26:36.840",
+        "created": "2009-11-25T18:26:36.840",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Standard",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:*:basic:*:*:*:*:*",
+        "cpeNameId": "0727871B-E417-45A9-BC52-3911C0F0CDDA",
+        "lastModified": "2009-11-25T18:26:37.200",
+        "created": "2009-11-25T18:26:37.200",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Basic",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:*:mobile:*:*:*:*:*",
+        "cpeNameId": "B25CAC12-37CE-4172-B9D0-3E68E9F64781",
+        "lastModified": "2009-11-25T18:26:37.573",
+        "created": "2009-11-25T18:26:37.573",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Mobile",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:*:home_and_student:*:*:*:*:*",
+        "cpeNameId": "5EC5544E-EAB4-46E8-975E-4C91D8CA24BE",
+        "lastModified": "2009-11-25T18:26:38.120",
+        "created": "2009-11-25T18:26:38.120",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Home and Student",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:*:professional_plus:*:*:*:*:*",
+        "cpeNameId": "E6FCF96E-AC75-4F28-AE3D-D43CCBEA8A48",
+        "lastModified": "2009-11-25T18:26:38.590",
+        "created": "2009-11-25T18:26:38.590",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Professional Plus",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2010:*:*:*:*:*:*:*",
+        "cpeNameId": "931240CA-6F19-4E48-B580-233A9D46C896",
+        "lastModified": "2010-11-19T18:30:09.437",
+        "created": "2010-11-10T18:55:18.110",
+        "titles": [
+          {
+            "title": "Microsoft Office 2010",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2011:*:mac:*:*:*:*:*",
+        "cpeNameId": "363EE9AE-F4C1-4001-B293-4475805C991F",
+        "lastModified": "2012-11-14T13:42:04.837",
+        "created": "2010-11-10T18:55:18.280",
+        "titles": [
+          {
+            "title": "Microsoft Office 2011 Mac",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2010:sp1:x64:*:*:*:*:*",
+        "cpeNameId": "6C2E6271-C7E6-4784-B045-9ADB87CE215B",
+        "lastModified": "2012-08-20T17:14:01.823",
+        "created": "2011-09-15T14:17:58.917",
+        "titles": [
+          {
+            "title": "Microsoft Office 2010 Service Pack 1 for 64 bit systems (x64)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2007:sp3:*:*:*:*:*:*",
+        "cpeNameId": "AACEFF9A-2166-48D2-9E95-CA726FEF5DFE",
+        "lastModified": "2012-04-18T21:49:12.357",
+        "created": "2011-12-14T17:31:06.340",
+        "titles": [
+          {
+            "title": "Microsoft Office 2007 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2010:*:x86:*:*:*:*:*",
+        "cpeNameId": "35F98683-D51D-4E79-8C15-CA15F3CF2AB7",
+        "lastModified": "2012-04-18T21:49:12.420",
+        "created": "2012-04-11T16:27:17.450",
+        "titles": [
+          {
+            "title": "Microsoft Office 2010 for x86 (32-bit Systems)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2010:sp1:x86:*:*:*:*:*",
+        "cpeNameId": "A06ADD4F-BCC6-48E8-AE0F-3596A190F2D0",
+        "lastModified": "2012-04-18T21:49:12.483",
+        "created": "2012-04-11T16:27:17.560",
+        "titles": [
+          {
+            "title": "Microsoft Office 2010 for x86 (32-bit Systems) Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2010:sp1:*:*:*:*:*:*",
+        "cpeNameId": "3F192669-8A2D-4BF0-AF30-E2865DE75C41",
+        "lastModified": "2012-06-15T15:23:44.687",
+        "created": "2012-05-09T14:54:21.143",
+        "titles": [
+          {
+            "title": "Microsoft Office 2010 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:*:*:*:*:*:*:*",
+        "cpeNameId": "9CE97E56-EE31-4645-BDC6-90893A020D3C",
+        "lastModified": "2012-07-27T22:14:36.230",
+        "created": "2012-07-27T22:14:36.230",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2010:sp2:x64:*:*:*:*:*",
+        "cpeNameId": "D69EAFB4-0276-430F-A48E-1583AFC24D0E",
+        "lastModified": "2013-11-07T19:50:01.953",
+        "created": "2013-11-06T21:58:12.530",
+        "titles": [
+          {
+            "title": "Microsoft Office 2010 Service Pack 2 for 64 bit systems (x64)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2010:sp2:x86:*:*:*:*:*",
+        "cpeNameId": "C75DF885-028C-465F-8B50-89350C0CFE40",
+        "lastModified": "2013-11-07T19:50:02.047",
+        "created": "2013-11-06T21:59:55.717",
+        "titles": [
+          {
+            "title": "Microsoft Office 2010 Service Pack 2 for 32 bit systems (x86)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:-:-:*:-:-:x64:*",
+        "cpeNameId": "FDA7556C-2024-41D8-9F57-4DEF11312C9C",
+        "lastModified": "2013-11-13T14:27:45.167",
+        "created": "2013-11-13T14:26:19.147",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:-:-:*:-:-:x86:*",
+        "cpeNameId": "DA6E81EF-2BCC-4E14-B738-59CE64FE9EC1",
+        "lastModified": "2013-11-13T14:27:45.273",
+        "created": "2013-11-13T14:26:19.303",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:*:*:*:*:rt:*:*",
+        "cpeNameId": "8A53D8CF-7B6D-460E-8848-D488669C5401",
+        "lastModified": "2018-06-07T13:12:54.030",
+        "created": "2014-05-14T14:06:22.413",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 RT",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:office:2013:*:*:*:rt:*:*:*",
+            "cpeNameId": "91B21083-8A25-4FC5-95ED-9912539ECEBC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:*:*:*",
+        "cpeNameId": "C4C70968-5F94-45EB-A0D3-7BC73D822BCC",
+        "lastModified": "2014-05-15T00:28:12.590",
+        "created": "2014-05-14T14:06:22.697",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 SP1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:rt:*:*",
+        "cpeNameId": "58C9B9EF-49AA-471C-8C76-631CA1B44E48",
+        "lastModified": "2018-06-07T13:12:54.043",
+        "created": "2014-05-14T14:35:05.817",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 RT SP1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:rt:*:*:*",
+            "cpeNameId": "9077F931-4666-415B-8CF9-981042B14219"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:*:*",
+        "cpeNameId": "8B2946B1-0970-4659-8B52-4B0E809B4300",
+        "lastModified": "2020-06-12T14:33:15.323",
+        "created": "2016-01-14T18:09:01.883",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:office:2016:-:*:*:*:-:-:*",
+            "cpeNameId": "A95C9B77-265A-4DA2-BBBA-0EBA6E7DFEC8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2003:*:*:*:student_and_teacher:*:*:*",
+        "cpeNameId": "69D4A657-B6D4-4006-A26B-ED898E76B655",
+        "lastModified": "2016-11-30T15:04:04.443",
+        "created": "2016-11-30T15:04:04.443",
+        "titles": [
+          {
+            "title": "Microsoft Office 2003 Student and Teacher Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2000:*:*:zh:*:*:*:*",
+        "cpeNameId": "5353C74C-EFC1-4475-A1C8-A7A36B9EA163",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2017-11-16T13:37:52.677",
+        "titles": [
+          {
+            "title": "Microsoft Office 2000 Chinese",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2000:*:*:ja:*:*:*:*",
+        "cpeNameId": "189FB1C8-26AD-44CC-9DC2-4AC6BD9370EA",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2017-11-16T13:37:52.677",
+        "titles": [
+          {
+            "title": "Microsoft Office 2000 Japanese",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2000:*:*:ko:*:*:*:*",
+        "cpeNameId": "35C81539-932F-472F-94DB-D0FF1EA3568C",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2017-11-16T13:37:52.677",
+        "titles": [
+          {
+            "title": "Microsoft Office 2000 Korean",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2004:*:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "ECCF8815-5437-431E-84E5-FB7775B77BC8",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2017-11-21T13:57:59.923",
+        "titles": [
+          {
+            "title": "Microsoft Office 2004 for Mac OS X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2003:sp2:*:pt:*:*:*:*",
+        "cpeNameId": "77736282-D7FD-4406-8CA3-D87B9552722D",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2017-11-22T15:30:33.797",
+        "titles": [
+          {
+            "title": "Microsoft Office 2003 Service Pack 2 Brazilian Portuguese",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "2DF820F7-786B-4F64-8E95-EBE1954DC1B6",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2017-12-28T19:52:22.370",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016 for Mac OS X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:click-to-run:*:*:*",
+        "cpeNameId": "0EF2D7F3-81E5-4F43-BFFA-C6F009C4DFA9",
+        "lastModified": "2018-03-14T16:00:17.397",
+        "created": "2018-03-14T16:00:17.397",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016 Click-to-Run (C2R)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:*:x64:*",
+        "cpeNameId": "BCE162FB-11E5-42DB-B704-153FF4C95CA6",
+        "lastModified": "2018-03-14T17:57:42.817",
+        "created": "2018-03-14T17:57:42.817",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 Service Pack 1 x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:x64:*",
+        "cpeNameId": "6719058C-C5DB-46DB-B7DB-740EC4364A7A",
+        "lastModified": "2018-03-14T17:57:42.910",
+        "created": "2018-03-14T17:57:42.910",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016 x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:click-to-run:*:x64:*",
+        "cpeNameId": "7482F7C7-E7B7-45D0-9E04-4A869C09B341",
+        "lastModified": "2018-03-14T17:57:42.973",
+        "created": "2018-03-14T17:57:42.973",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016 Click-to-Run (C2R) x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013_rt:sp1:*:*:*:*:*:*",
+        "cpeNameId": "C9FC5017-F990-4A05-BCF5-3993CAF4C144",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2018-05-14T17:38:31.733",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 RT Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:*:*:*:rt:*:*:*",
+        "cpeNameId": "91B21083-8A25-4FC5-95ED-9912539ECEBC",
+        "lastModified": "2018-06-07T13:12:53.857",
+        "created": "2018-06-07T13:12:53.857",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 RT Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:rt:*:*:*",
+        "cpeNameId": "9077F931-4666-415B-8CF9-981042B14219",
+        "lastModified": "2018-06-07T13:12:53.937",
+        "created": "2018-06-07T13:12:53.937",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 Service Pack 1 RT Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:mac_os:*:*",
+        "cpeNameId": "1E7473C8-1D7C-4A01-9201-70E1588A4C6B",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2018-09-05T15:16:50.180",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016 for Mac OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:*:*:*",
+        "cpeNameId": "297CC2ED-AA1E-423F-B556-9D515EE398D6",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2018-11-26T18:37:48.343",
+        "titles": [
+          {
+            "title": "Microsoft Office 2019",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:*:mac_os:*:*:*:*:*",
+        "cpeNameId": "CC8B935D-D457-424A-AC5B-45C267D7909F",
+        "lastModified": "2018-11-26T18:52:48.650",
+        "created": "2018-11-26T18:52:48.650",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016 Mac OS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:*:x86:*",
+        "cpeNameId": "D1EA52E8-6715-4A44-8288-2CBD10F06DEF",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2019-03-06T04:27:18.100",
+        "titles": [
+          {
+            "title": "Microsoft Office 2019 on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:*:x64:*",
+        "cpeNameId": "B7691251-FCD0-4082-B9CE-D51D193DDE47",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2019-03-06T04:27:18.100",
+        "titles": [
+          {
+            "title": "Microsoft Office 2019 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2019:*:mac_os:*:*:*:*:*",
+        "cpeNameId": "0845C214-FBB2-4CB0-A1A3-FBF963FC1CAC",
+        "lastModified": "2019-03-07T20:17:53.333",
+        "created": "2019-03-07T20:17:53.333",
+        "titles": [
+          {
+            "title": "Microsoft Office 2019 Mac OS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "059C1595-F74E-46AB-97FF-36A9B92F614C",
+        "lastModified": "2020-05-11T18:38:40.727",
+        "created": "2019-04-15T17:23:41.927",
+        "titles": [
+          {
+            "title": "Microsoft Office 2019 for Mac OS X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:macos:*:*",
+            "cpeNameId": "E62D5A07-452E-45FF-840F-120BF08E530A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:click-to-run:*:x64:*",
+        "cpeNameId": "10C8976B-CD24-4E17-B7EB-5BD0D398C25E",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2019-05-16T20:45:46.040",
+        "titles": [
+          {
+            "title": "Microsoft Office 2019 Click-to-Run Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:click-to-run:*:x86:*",
+        "cpeNameId": "03931766-CDDE-464A-BEE9-9284EDE7630E",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2019-05-16T20:45:46.040",
+        "titles": [
+          {
+            "title": "Microsoft Office 2019 Click-to-Run Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:mac_os:*:*",
+        "cpeNameId": "D37F82E9-5626-4673-B296-2A379D5B85BA",
+        "lastModified": "2020-05-04T14:13:56.980",
+        "created": "2019-06-14T18:56:49.430",
+        "titles": [
+          {
+            "title": "Microsoft Office 2019 for Mac OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:macos:*:*",
+            "cpeNameId": "E62D5A07-452E-45FF-840F-120BF08E530A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:-:*:*",
+        "cpeNameId": "6C6DEED8-8BEA-4BB5-BB84-5A37DD23A1EA",
+        "lastModified": "2019-12-06T15:08:41.437",
+        "created": "2019-12-06T15:08:41.437",
+        "titles": [
+          {
+            "title": "Microsoft Office 2019",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:-:*:*:*",
+        "cpeNameId": "A96332C3-32C1-4EAE-A02F-E47F3C994405",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2020-04-16T18:07:19.443",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:macos:*:*",
+        "cpeNameId": "E62D5A07-452E-45FF-840F-120BF08E530A",
+        "lastModified": "2020-05-04T14:13:13.777",
+        "created": "2020-05-04T14:13:13.777",
+        "titles": [
+          {
+            "title": "Microsoft Office 2019 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:-:*:*",
+        "cpeNameId": "299FF389-89F2-4B83-B0B7-01E4BF81749D",
+        "lastModified": "2020-06-12T14:33:15.620",
+        "created": "2020-06-12T14:29:24.677",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:office:2016:-:*:*:*:-:-:*",
+            "cpeNameId": "A95C9B77-265A-4DA2-BBBA-0EBA6E7DFEC8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:-:*:*:*:-:-:*",
+        "cpeNameId": "A95C9B77-265A-4DA2-BBBA-0EBA6E7DFEC8",
+        "lastModified": "2020-06-12T14:36:20.267",
+        "created": "2020-06-12T14:33:15.263",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:office:2016:*:-:*:-:*:-:*",
+            "cpeNameId": "AC5E935B-B1C3-4E5A-9CD4-92FD25E497C6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:*:-:*:-:*:-:*",
+        "cpeNameId": "AC5E935B-B1C3-4E5A-9CD4-92FD25E497C6",
+        "lastModified": "2020-06-12T14:36:20.190",
+        "created": "2020-06-12T14:36:20.190",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:macos:*:*",
+        "cpeNameId": "E6669148-8A1D-4586-ABE4-6A4E11D4C603",
+        "lastModified": "2020-06-16T14:37:11.787",
+        "created": "2020-06-16T14:37:11.787",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016 for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2010:sp2:*:*:*:*:x64:*",
+        "cpeNameId": "4B442962-57B4-4EAF-B3D7-C696AC535CF9",
+        "lastModified": "2020-09-16T14:44:13.567",
+        "created": "2020-09-16T14:44:13.567",
+        "titles": [
+          {
+            "title": "Microsoft Office 2010 Service Pack 2 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2010:sp2:*:*:*:*:x86:*",
+        "cpeNameId": "717E0DFF-1F98-4CC8-857A-FE9218523CF4",
+        "lastModified": "2020-09-16T14:44:13.757",
+        "created": "2020-09-16T14:44:13.757",
+        "titles": [
+          {
+            "title": "Microsoft Office 2010 Service Pack 2 on X86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:*:x86:*",
+        "cpeNameId": "33130AFD-5A1D-4B13-982A-504E42544457",
+        "lastModified": "2020-09-16T14:44:13.897",
+        "created": "2020-09-16T14:44:13.897",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 Service Pack 1 on X86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:macos:*:*:*",
+        "cpeNameId": "5609C75C-AC4B-4538-9269-E4BE4A7607EC",
+        "lastModified": "2020-09-16T16:20:58.983",
+        "created": "2020-09-16T16:20:58.983",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016 MacOS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:-:x64:*",
+        "cpeNameId": "FB706CA8-EF17-45F0-8D08-E653CD9FDF1F",
+        "lastModified": "2020-09-16T16:20:59.077",
+        "created": "2020-09-16T16:20:59.077",
+        "titles": [
+          {
+            "title": "Microsoft Office 2019 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:-:x86:*",
+        "cpeNameId": "64BDB1A7-7579-49E6-9AAD-AB9432516683",
+        "lastModified": "2020-09-16T16:20:59.203",
+        "created": "2020-09-16T16:20:59.203",
+        "titles": [
+          {
+            "title": "Microsoft Office 2019 on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:*:*:*:click-to-run:*:*:*",
+        "cpeNameId": "CB2D8BD9-2009-4330-8734-36EA54002CDD",
+        "lastModified": "2020-10-08T19:05:32.297",
+        "created": "2020-10-08T19:05:32.297",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 Click-to-Run (C2R)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2013:sp2:*:*:*:*:x86:*",
+        "cpeNameId": "B60C9119-632E-4201-938C-3DD3E8672EE4",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2021-01-15T11:18:03.907",
+        "titles": [
+          {
+            "title": "Microsoft Office 2013 Service Pack 2 on X86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:x86:*",
+        "cpeNameId": "92BE0718-3A8F-4BE1-8B6F-5411EF05EB50",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2021-01-15T11:18:03.907",
+        "titles": [
+          {
+            "title": "Microsoft Office 2016 on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2010:sp2:*:*:*:*:*:*",
+        "cpeNameId": "7181C0B1-96E0-4A82-995A-73B287B8E014",
+        "lastModified": "2021-05-18T17:48:37.347",
+        "created": "2021-02-27T03:25:43.180",
+        "titles": [
+          {
+            "title": "Microsoft Office 2010 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:macos:*:*",
+        "cpeNameId": "DB9DA528-3F3A-4209-A827-39565003F160",
+        "lastModified": "2021-12-13T19:29:36.160",
+        "created": "2021-10-18T18:08:56.830",
+        "titles": [
+          {
+            "title": "Microsoft Office 2021 Long Term Servicing Channel (LTSC) Edition for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:x64:*",
+        "cpeNameId": "153061F4-6EF5-4E73-AC64-CC47E1CEF755",
+        "lastModified": "2022-12-01T19:54:55.890",
+        "created": "2021-11-12T21:31:25.087",
+        "titles": [
+          {
+            "title": "Microsoft Office 2021 Long Term Servicing Channel (LTSC) Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:x86:*",
+        "cpeNameId": "50C79BCE-B6E4-4E9B-B9FD-E22ED9A1E608",
+        "lastModified": "2022-12-01T19:54:55.890",
+        "created": "2021-11-12T21:31:25.087",
+        "titles": [
+          {
+            "title": "Microsoft Office 2021 Long Term Servicing Channel (LTSC) Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2004:*:*:*:*:macos:*:*",
+        "cpeNameId": "62547E2E-8A39-4261-822A-B41494D793B2",
+        "lastModified": "2022-02-14T17:13:50.523",
+        "created": "2022-02-09T17:35:14.517",
+        "titles": [
+          {
+            "title": "Microsoft Office 2004 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2008:*:*:*:*:macos:*:*",
+        "cpeNameId": "60ABE892-C543-4DAA-96B6-EA7F1F190E3B",
+        "lastModified": "2022-02-14T17:13:50.523",
+        "created": "2022-02-09T17:35:14.517",
+        "titles": [
+          {
+            "title": "Microsoft Office 2008 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:*:*",
+        "cpeNameId": "1855C51D-0DFA-48F3-81D2-6506C2692685",
+        "lastModified": "2023-08-25T07:22:33.470",
+        "created": "2022-03-10T20:59:29.190",
+        "titles": [
+          {
+            "title": "Microsoft Office 2021 LTSC Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:2.70.23021003:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "FAABD2D2-F14C-430D-BD37-E8545E004969",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T17:20:04.170",
+        "titles": [
+          {
+            "title": "Microsoft Office 2.70.23021003 for iPhone OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:-:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "BA35E048-F998-4F5D-860F-220BD1D655D0",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T17:20:04.170",
+        "titles": [
+          {
+            "title": "Microsoft Office for iPhone OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:16.0.14326.21330:*:*:*:*:universal:*:*",
+        "cpeNameId": "3C0216EF-9333-40A8-82FC-DED6FACFE96B",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T17:20:20.077",
+        "titles": [
+          {
+            "title": "Microsoft Office 16.0.14326.21330 for Universal",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:16.0.16130.20156:*:*:*:*:android:*:*",
+        "cpeNameId": "0361BE04-6CE1-4A1A-BE58-8C9E67CE83C6",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T17:21:47.447",
+        "titles": [
+          {
+            "title": "Microsoft Office 16.0.16130.20156 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:-:*:*:*:*:android:*:*",
+        "cpeNameId": "D925B4FB-50C4-4C04-8E0A-03F9979A7312",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T17:21:47.447",
+        "titles": [
+          {
+            "title": "Microsoft Office for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:-:*:*:*:*:universal:*:*",
+        "cpeNameId": "6AD31444-CC2F-4180-A649-449B99EDBF78",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-02-22T17:22:03.040",
+        "titles": [
+          {
+            "title": "Microsoft Office for Universal",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:16.0.16026.20172:*:*:*:*:android:*:*",
+        "cpeNameId": "8A47FE86-117D-4F21-AB46-1268CCA4B5FB",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-03-16T19:20:33.343",
+        "titles": [
+          {
+            "title": "Microsoft Office 16.0.16026.20172 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:16.0.14326.21606:*:*:*:*:universal:*:*",
+        "cpeNameId": "840AF6ED-D4B1-47EF-BB39-012C94FF2C55",
+        "lastModified": "2023-10-27T00:40:27.500",
+        "created": "2023-10-27T00:40:27.500",
+        "titles": [
+          {
+            "title": "Microsoft Office 16.0.14326.21606 for Universal",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office:16.0.16827.20138:*:*:*:*:android:*:*",
+        "cpeNameId": "88892461-489E-4ACD-B3EC-379366CC220A",
+        "lastModified": "2023-10-27T00:40:27.500",
+        "created": "2023-10-27T00:40:27.500",
+        "titles": [
+          {
+            "title": "Microsoft Office 16.0.16827.20138 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:office:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Office",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2000:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 2000",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2001:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 2001",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2001:sr1:*:*:*:*:*:*",
+      "title": "Microsoft Office 2001 SR1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2002:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Office 2002 SP3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:office:xp:sp3:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2003:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 2003",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2004:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 2004",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 2007",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:3.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:4.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:4.3:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 4.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:95:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 95",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:97:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 97",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:98:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 98",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:xp:*:*:*:*:*:*:*",
+      "title": "Microsoft Office XP",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2004:*:mac:*:*:*:*:*",
+      "title": "Microsoft Office 2004 Mac",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:97:*:*:zh:*:*:*:*",
+      "title": "Microsoft Office 97 any any zh",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:97:*:*:ja:*:*:*:*",
+      "title": "Microsoft Office 97 any any ja",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:97:*:*:ko:*:*:*:*",
+      "title": "Microsoft Office 97 any any ko",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2000:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Office 2000 sp1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2000:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Office 2000 sp2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2000:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Office 2000 sp3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:xp:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Office XP sp1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:xp:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Office XP sp2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:xp:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Office XP Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2003:*:student_teacher:*:*:*:*:*",
+      "title": "Microsoft Office 2003 any student_teacher",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:office:2003:*:*:*:student_and_teacher:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2003:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Office 2003 sp1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2003:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Office 2003 sp2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2003:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Office 2003 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2001:sr1:mac_os:*:*:*:*:*",
+      "title": "Microsoft office_macos 2001 sr1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2008:*:mac:*:*:*:*:*",
+      "title": "Microsoft Office 2008 Mac",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:*:professional:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Professional",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:sp1:professional:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Professional SP1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:sp2:professional:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Professional SP2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:*:enterprise:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Enterprise",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:*:ultimate:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Ultimate",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:*:small_business:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Small Business",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:*:standard:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Standard",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:*:basic:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Basic",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:*:mobile:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Mobile",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:*:home_and_student:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Home and Student",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:*:professional_plus:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Professional Plus",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2010:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 2010",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2011:*:mac:*:*:*:*:*",
+      "title": "Microsoft Office 2011 Mac",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2010:sp1:x64:*:*:*:*:*",
+      "title": "Microsoft Office 2010 Service Pack 1 for 64 bit systems (x64)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2007:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Office 2007 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2010:*:x86:*:*:*:*:*",
+      "title": "Microsoft Office 2010 for x86 (32-bit Systems)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2010:sp1:x86:*:*:*:*:*",
+      "title": "Microsoft Office 2010 for x86 (32-bit Systems) Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2010:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Office 2010 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 2013",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2010:sp2:x64:*:*:*:*:*",
+      "title": "Microsoft Office 2010 Service Pack 2 for 64 bit systems (x64)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2010:sp2:x86:*:*:*:*:*",
+      "title": "Microsoft Office 2010 Service Pack 2 for 32 bit systems (x86)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:-:-:*:-:-:x64:*",
+      "title": "Microsoft Office 2013 x64 (64-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:-:-:*:-:-:x86:*",
+      "title": "Microsoft Office 2013 x86 (32-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:*:*:*:*:rt:*:*",
+      "title": "Microsoft Office 2013 RT",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:office:2013:*:*:*:rt:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Office 2013 SP1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:rt:*:*",
+      "title": "Microsoft Office 2013 RT SP1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:rt:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 2016",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:office:2016:-:*:*:*:-:-:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2003:*:*:*:student_and_teacher:*:*:*",
+      "title": "Microsoft Office 2003 Student and Teacher Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2000:*:*:zh:*:*:*:*",
+      "title": "Microsoft Office 2000 Chinese",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2000:*:*:ja:*:*:*:*",
+      "title": "Microsoft Office 2000 Japanese",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2000:*:*:ko:*:*:*:*",
+      "title": "Microsoft Office 2000 Korean",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2004:*:*:*:*:mac_os_x:*:*",
+      "title": "Microsoft Office 2004 for Mac OS X",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2003:sp2:*:pt:*:*:*:*",
+      "title": "Microsoft Office 2003 Service Pack 2 Brazilian Portuguese",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:mac_os_x:*:*",
+      "title": "Microsoft Office 2016 for Mac OS X",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:*:*:*:click-to-run:*:*:*",
+      "title": "Microsoft Office 2016 Click-to-Run (C2R)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:*:x64:*",
+      "title": "Microsoft Office 2013 Service Pack 1 x64 (64-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:x64:*",
+      "title": "Microsoft Office 2016 x64 (64-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:*:*:*:click-to-run:*:x64:*",
+      "title": "Microsoft Office 2016 Click-to-Run (C2R) x64 (64-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013_rt:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Office 2013 RT Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:*:*:*:rt:*:*:*",
+      "title": "Microsoft Office 2013 RT Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:rt:*:*:*",
+      "title": "Microsoft Office 2013 Service Pack 1 RT Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:mac_os:*:*",
+      "title": "Microsoft Office 2016 for Mac OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:*:*:*",
+      "title": "Microsoft Office 2019",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:*:mac_os:*:*:*:*:*",
+      "title": "Microsoft Office 2016 Mac OS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:*:x86:*",
+      "title": "Microsoft Office 2019 on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:*:x64:*",
+      "title": "Microsoft Office 2019 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2019:*:mac_os:*:*:*:*:*",
+      "title": "Microsoft Office 2019 Mac OS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:mac_os_x:*:*",
+      "title": "Microsoft Office 2019 for Mac OS X",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2019:*:*:*:click-to-run:*:x64:*",
+      "title": "Microsoft Office 2019 Click-to-Run Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2019:*:*:*:click-to-run:*:x86:*",
+      "title": "Microsoft Office 2019 Click-to-Run Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:mac_os:*:*",
+      "title": "Microsoft Office 2019 for Mac OS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:-:*:*",
+      "title": "Microsoft Office 2019",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:-:*:*:*",
+      "title": "Microsoft Office 2013 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:macos:*:*",
+      "title": "Microsoft Office 2019 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:-:*:*",
+      "title": "Microsoft Office 2016",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:office:2016:-:*:*:*:-:-:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:-:*:*:*:-:-:*",
+      "title": "Microsoft Office 2016",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:office:2016:*:-:*:-:*:-:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:*:-:*:-:*:-:*",
+      "title": "Microsoft Office 2016",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:macos:*:*",
+      "title": "Microsoft Office 2016 for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2010:sp2:*:*:*:*:x64:*",
+      "title": "Microsoft Office 2010 Service Pack 2 on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2010:sp2:*:*:*:*:x86:*",
+      "title": "Microsoft Office 2010 Service Pack 2 on X86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:*:x86:*",
+      "title": "Microsoft Office 2013 Service Pack 1 on X86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:*:*:*:macos:*:*:*",
+      "title": "Microsoft Office 2016 MacOS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:-:x64:*",
+      "title": "Microsoft Office 2019 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:-:x86:*",
+      "title": "Microsoft Office 2019 on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:*:*:*:click-to-run:*:*:*",
+      "title": "Microsoft Office 2013 Click-to-Run (C2R)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2013:sp2:*:*:*:*:x86:*",
+      "title": "Microsoft Office 2013 Service Pack 2 on X86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:x86:*",
+      "title": "Microsoft Office 2016 on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2010:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Office 2010 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:macos:*:*",
+      "title": "Microsoft Office 2021 Long Term Servicing Channel (LTSC) Edition for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:x64:*",
+      "title": "Microsoft Office 2021 Long Term Servicing Channel (LTSC) Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:x86:*",
+      "title": "Microsoft Office 2021 Long Term Servicing Channel (LTSC) Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2004:*:*:*:*:macos:*:*",
+      "title": "Microsoft Office 2004 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2008:*:*:*:*:macos:*:*",
+      "title": "Microsoft Office 2008 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2021:*:*:*:ltsc:*:*:*",
+      "title": "Microsoft Office 2021 LTSC Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:2.70.23021003:*:*:*:*:iphone_os:*:*",
+      "title": "Microsoft Office 2.70.23021003 for iPhone OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:-:*:*:*:*:iphone_os:*:*",
+      "title": "Microsoft Office for iPhone OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:16.0.14326.21330:*:*:*:*:universal:*:*",
+      "title": "Microsoft Office 16.0.14326.21330 for Universal",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:16.0.16130.20156:*:*:*:*:android:*:*",
+      "title": "Microsoft Office 16.0.16130.20156 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:-:*:*:*:*:android:*:*",
+      "title": "Microsoft Office for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:-:*:*:*:*:universal:*:*",
+      "title": "Microsoft Office for Universal",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:16.0.16026.20172:*:*:*:*:android:*:*",
+      "title": "Microsoft Office 16.0.16026.20172 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:16.0.14326.21606:*:*:*:*:universal:*:*",
+      "title": "Microsoft Office 16.0.14326.21606 for Universal",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office:16.0.16827.20138:*:*:*:*:android:*:*",
+      "title": "Microsoft Office 16.0.16827.20138 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

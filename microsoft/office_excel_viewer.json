@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_excel_viewer:-:sp2:*:*:*:*:*:*",
+        "cpeNameId": "B2738037-D286-4917-B440-4046625E1223",
+        "lastModified": "2024-01-19T14:42:16.223",
+        "created": "2024-01-19T14:42:16.223",
+        "titles": [
+          {
+            "title": "Microsoft Office Excel Viewer - Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_excel_viewer:-:sp1:*:*:*:*:*:*",
+        "cpeNameId": "3D2D2AE1-A958-47FB-AEA3-5DFB17F5BA03",
+        "lastModified": "2024-01-19T14:42:16.223",
+        "created": "2024-01-19T14:42:16.223",
+        "titles": [
+          {
+            "title": "Microsoft Office Excel Viewer - Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:office_excel_viewer:-:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Office Excel Viewer - Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office_excel_viewer:-:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Office Excel Viewer - Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

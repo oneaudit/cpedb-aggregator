@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:system.io.pipelines:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D1901305-30EE-4D19-BEFF-20874FAB231B",
+        "lastModified": "2021-08-13T14:19:51.740",
+        "created": "2018-10-31T18:34:24.437",
+        "titles": [
+          {
+            "title": "Microsoft System.IO.Pipelines",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:system.io.pipelines:4.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7F49605F-96CE-4A3A-8C28-BFB50FF3EFB3",
+        "lastModified": "2022-11-08T19:29:03.787",
+        "created": "2022-10-04T17:03:14.980",
+        "titles": [
+          {
+            "title": "Microsoft System.IO.Pipelines 4.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:system.io.pipelines:-:*:*:*:*:*:*:*",
+      "title": "Microsoft System.IO.Pipelines",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:system.io.pipelines:4.5.0:*:*:*:*:*:*:*",
+      "title": "Microsoft System.IO.Pipelines 4.5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

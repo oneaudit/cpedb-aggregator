@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:miraheze:channelmgnt:1.0.3:*:*:*:*:sopel:*:*",
+        "cpeNameId": "4E4581EA-E576-4B69-8E37-01AFEFFDB210",
+        "lastModified": "2021-05-04T09:36:31.707",
+        "created": "2020-12-09T17:56:26.373",
+        "titles": [
+          {
+            "title": "Miraheze Channelmgnt 1.0.3 for Sopel",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mirahezebots:channelmgnt:1.0.3:*:*:*:*:sopel:*:*",
+            "cpeNameId": "84D992F6-890B-4A32-ABAA-2FFEBEC0AD84"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:miraheze:channelmgnt:1.0.3:*:*:*:*:sopel:*:*",
+      "title": "Miraheze Channelmgnt 1.0.3 for Sopel",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mirahezebots:channelmgnt:1.0.3:*:*:*:*:sopel:*:*"
+    }
+  ]
+}

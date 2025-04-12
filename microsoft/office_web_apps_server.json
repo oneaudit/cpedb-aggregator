@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_web_apps_server:2013:*:*:*:*:*:*:*",
+        "cpeNameId": "870AB084-88F3-47B4-B32D-58E4725BC76F",
+        "lastModified": "2014-01-15T21:14:59.357",
+        "created": "2014-01-15T21:07:07.517",
+        "titles": [
+          {
+            "title": "Microsoft Office Web Apps Server 2013",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:office_web_apps_server:2013:sp1:*:*:*:*:*:*",
+        "cpeNameId": "463710A6-0D3E-4DAD-8D01-6FA4D44C4DA7",
+        "lastModified": "2020-02-28T17:54:28.283",
+        "created": "2020-02-28T17:54:28.283",
+        "titles": [
+          {
+            "title": "Microsoft Office Web Apps Server 2013 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:office_web_apps_server:2013:*:*:*:*:*:*:*",
+      "title": "Microsoft Office Web Apps Server 2013",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:office_web_apps_server:2013:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Office Web Apps Server 2013 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

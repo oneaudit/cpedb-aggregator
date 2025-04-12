@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:system.net.websockets.client:4.0.0:*:*:*:*:asp.net:*:*",
+        "cpeNameId": "07043BD5-0D31-4CB1-A17D-0009DCAA57BC",
+        "lastModified": "2017-08-08T18:11:57.277",
+        "created": "2017-08-08T18:11:57.277",
+        "titles": [
+          {
+            "title": "Microsoft System.Net.WebSockets.Client 4.0.0 For ASP.NET",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:system.net.websockets.client:4.3.0:*:*:*:*:asp.net:*:*",
+        "cpeNameId": "EAE2A7ED-691A-4ABF-A78D-EB77369D5D1C",
+        "lastModified": "2017-08-08T18:11:57.373",
+        "created": "2017-08-08T18:11:57.373",
+        "titles": [
+          {
+            "title": "Microsoft System.Net.WebSockets.Client 4.3.0 For ASP.NET",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:system.net.websockets.client:4.0.0:*:*:*:*:asp.net:*:*",
+      "title": "Microsoft System.Net.WebSockets.Client 4.0.0 For ASP.NET",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:system.net.websockets.client:4.3.0:*:*:*:*:asp.net:*:*",
+      "title": "Microsoft System.Net.WebSockets.Client 4.3.0 For ASP.NET",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

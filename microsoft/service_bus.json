@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:service_bus:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "745A121F-7005-4C57-9AC7-2CC23416BBF5",
+        "lastModified": "2014-07-09T00:51:24.160",
+        "created": "2014-07-08T23:42:48.330",
+        "titles": [
+          {
+            "title": "Microsoft Service Bus 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:service_bus:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4CA3D10F-F018-45F3-902E-1C59448C9990",
+        "lastModified": "2014-07-09T00:51:24.333",
+        "created": "2014-07-08T23:42:48.787",
+        "titles": [
+          {
+            "title": "Microsoft Service Bus 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:service_bus:1.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Service Bus 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:service_bus:1.1:*:*:*:*:*:*:*",
+      "title": "Microsoft Service Bus 1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

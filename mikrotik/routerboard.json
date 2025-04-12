@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:mikrotik:routerboard:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F58136DE-4C2E-4E86-B12F-7EAB75505FB8",
+        "lastModified": "2019-08-02T14:41:57.530",
+        "created": "2019-08-02T14:41:57.530",
+        "titles": [
+          {
+            "title": "MikroTik RouterBOARD",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:mikrotik:routerboard:6.39.2:*:*:*:*:*:*:*",
+        "cpeNameId": "C0ECD52C-78CC-4B04-B539-59DCED36BB65",
+        "lastModified": "2019-08-02T14:41:57.827",
+        "created": "2019-08-02T14:41:57.827",
+        "titles": [
+          {
+            "title": "MikroTik RouterBOARD 6.39.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:mikrotik:routerboard:6.40.5:*:*:*:*:*:*:*",
+        "cpeNameId": "A3A59EAF-BA3D-4E81-A7AE-1334FE9DEED9",
+        "lastModified": "2019-08-02T14:41:57.953",
+        "created": "2019-08-02T14:41:57.953",
+        "titles": [
+          {
+            "title": "MikroTik RouterBOARD 6.40.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:mikrotik:routerboard:-:*:*:*:*:*:*:*",
+      "title": "MikroTik RouterBOARD",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:mikrotik:routerboard:6.39.2:*:*:*:*:*:*:*",
+      "title": "MikroTik RouterBOARD 6.39.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:mikrotik:routerboard:6.40.5:*:*:*:*:*:*:*",
+      "title": "MikroTik RouterBOARD 6.40.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:small_business_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FB94157C-BA94-498A-98ED-FA7DE4838EDE",
+        "lastModified": "2009-11-25T18:26:27.497",
+        "created": "2007-08-28T21:31:27.897",
+        "titles": [
+          {
+            "title": "Microsoft Small Business Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:small_business_server:2000:*:*:*:*:*:*:*",
+        "cpeNameId": "E3C810B9-7F82-49A8-97A2-F3C446973D8E",
+        "lastModified": "2008-04-15T23:55:08.480",
+        "created": "2007-08-28T21:31:27.910",
+        "titles": [
+          {
+            "title": "Microsoft Small Business Server 2000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:small_business_server:2003:*:*:*:*:*:*:*",
+        "cpeNameId": "EBB7388D-7CF2-4D57-937B-DCE0708D0A9B",
+        "lastModified": "2008-04-15T23:55:08.387",
+        "created": "2007-08-28T21:31:28.037",
+        "titles": [
+          {
+            "title": "Microsoft Small Business Server 2003",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:small_business_server:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Small Business Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:small_business_server:2000:*:*:*:*:*:*:*",
+      "title": "Microsoft Small Business Server 2000",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:small_business_server:2003:*:*:*:*:*:*:*",
+      "title": "Microsoft Small Business Server 2003",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

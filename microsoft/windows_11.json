@@ -1,0 +1,167 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_11:-:*:*:*:*:*:arm64:*",
+        "cpeNameId": "E929E3A1-0F92-4703-9BAA-769BFF55F52F",
+        "lastModified": "2022-12-15T20:18:51.627",
+        "created": "2021-10-14T11:21:28.880",
+        "titles": [
+          {
+            "title": "Microsoft Windows 11 on ARM64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_11_21h2:10.0.22000.739:*:*:*:*:*:arm64:*",
+            "cpeNameId": "7BC28113-EBD8-48DB-B7CC-7EA54F2FDA95"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_11:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "46138D1E-853D-4899-9D8F-E1B0E8D484D0",
+        "lastModified": "2022-12-15T20:18:51.627",
+        "created": "2021-10-14T11:21:28.880",
+        "titles": [
+          {
+            "title": "Microsoft Windows 11 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_11_21h2:10.0.22000.739:*:*:*:*:*:x64:*",
+            "cpeNameId": "D7520C5C-CB77-447E-92E7-C3ADFD9735E4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_11:-:*:*:*:*:*:-:*",
+        "cpeNameId": "B0999990-7B58-4C15-B070-588C98980AEB",
+        "lastModified": "2023-02-13T22:46:08.053",
+        "created": "2022-02-03T18:47:45.650",
+        "titles": [
+          {
+            "title": "Microsoft Windows 11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_11_21h2:-:*:*:*:*:*:x64:*",
+            "cpeNameId": "A65BF58F-826F-4A96-B79A-D5F07E7BD6EF"
+          },
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_11_21h2:-:*:*:*:*:*:arm64:*",
+            "cpeNameId": "48504715-402D-4051-A4BF-D5CD1C5B30FD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_11:22h2:*:*:*:*:*:arm64:*",
+        "cpeNameId": "9C70C532-5EBB-40AF-A1A8-59819C4EBC99",
+        "lastModified": "2023-10-12T16:45:00.307",
+        "created": "2023-04-17T18:50:57.223",
+        "titles": [
+          {
+            "title": "Microsoft Windows 11 22h2 on Arm64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_11_22h2:-:*:*:*:*:*:arm64:*",
+            "cpeNameId": "7D7EBF5C-A3B8-4840-B0B3-5B94EC9B3787"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_11:22h2:*:*:*:*:*:x64:*",
+        "cpeNameId": "CCCFCAB0-20D8-46F2-9F3A-A6805715832B",
+        "lastModified": "2023-10-12T16:45:00.307",
+        "created": "2023-04-17T18:50:57.223",
+        "titles": [
+          {
+            "title": "Microsoft Windows 11 22h2 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_11_22h2:-:*:*:*:*:*:x64:*",
+            "cpeNameId": "E4604687-B03E-478C-B119-226D2BF51448"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_11:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4C638C42-4F80-4C16-9601-F525BD20DD0E",
+        "lastModified": "2023-09-22T13:06:58.723",
+        "created": "2023-09-22T13:06:58.723",
+        "titles": [
+          {
+            "title": "Microsoft Windows 11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:microsoft:windows_11:-:*:*:*:*:*:arm64:*",
+      "title": "Microsoft Windows 11 on ARM64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_11_21h2:10.0.22000.739:*:*:*:*:*:arm64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_11:-:*:*:*:*:*:x64:*",
+      "title": "Microsoft Windows 11 on x64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_11_21h2:10.0.22000.739:*:*:*:*:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_11:-:*:*:*:*:*:-:*",
+      "title": "Microsoft Windows 11",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_11_21h2:-:*:*:*:*:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_11:22h2:*:*:*:*:*:arm64:*",
+      "title": "Microsoft Windows 11 22h2 on Arm64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_11_22h2:-:*:*:*:*:*:arm64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_11:22h2:*:*:*:*:*:x64:*",
+      "title": "Microsoft Windows 11 22h2 on X64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_11_22h2:-:*:*:*:*:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_11:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows 11",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

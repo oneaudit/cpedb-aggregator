@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sharepoint_team_services:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5399B70D-F5EF-4EBC-845F-8677FBA6C337",
+        "lastModified": "2009-11-25T18:26:26.857",
+        "created": "2007-08-28T21:32:13.310",
+        "titles": [
+          {
+            "title": "Microsoft Sharepoint Team Services",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sharepoint_team_services:2002:*:*:*:*:*:*:*",
+        "cpeNameId": "B1A74AA0-DBE9-40E5-9E6C-A94EFD528630",
+        "lastModified": "2009-11-25T18:26:26.967",
+        "created": "2007-08-28T21:32:13.327",
+        "titles": [
+          {
+            "title": "Microsoft Sharepoint Team Services 2002",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:sharepoint_team_services:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Sharepoint Team Services",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sharepoint_team_services:2002:*:*:*:*:*:*:*",
+      "title": "Microsoft Sharepoint Team Services 2002",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

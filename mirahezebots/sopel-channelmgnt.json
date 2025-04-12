@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mirahezebots:sopel-channelmgnt:2.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "AD50C2AF-6AAD-4098-A947-4A3F88922BAD",
+        "lastModified": "2021-05-04T09:36:31.707",
+        "created": "2021-04-13T15:09:14.490",
+        "titles": [
+          {
+            "title": "Mirahezebots Sopel-channelmgnt 2.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mirahezebots:channelmgnt:2.0.1:*:*:*:*:sopel:*:*",
+            "cpeNameId": "391AD373-1367-40CE-BC2B-FB82FE69955F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mirahezebots:sopel-channelmgnt:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3478B55E-BD34-4127-9C51-87F1A334003B",
+        "lastModified": "2021-05-04T09:36:31.707",
+        "created": "2021-04-13T15:09:14.490",
+        "titles": [
+          {
+            "title": "Mirahezebots Sopel-channelmgnt",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mirahezebots:channelmgnt:-:*:*:*:*:sopel:*:*",
+            "cpeNameId": "539D3586-566F-4DD3-81CC-B39E57B99684"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mirahezebots:sopel-channelmgnt:2.0.1:*:*:*:*:*:*:*",
+      "title": "Mirahezebots Sopel-channelmgnt 2.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mirahezebots:channelmgnt:2.0.1:*:*:*:*:sopel:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:mirahezebots:sopel-channelmgnt:-:*:*:*:*:*:*:*",
+      "title": "Mirahezebots Sopel-channelmgnt",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mirahezebots:channelmgnt:-:*:*:*:*:sopel:*:*"
+    }
+  ]
+}

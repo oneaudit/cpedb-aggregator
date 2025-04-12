@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:remote_desktop_protocol:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CD5239D2-BF88-40EB-9B00-005780B6C904",
+        "lastModified": "2012-03-22T15:14:07.817",
+        "created": "2007-08-28T21:32:12.513",
+        "titles": [
+          {
+            "title": "Microsoft Remote Desktop Connection 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:remote_desktop_connection:2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "AB103324-B5EE-4B90-81EB-89BA4F475B83"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:remote_desktop_protocol:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Remote Desktop Connection 2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:remote_desktop_connection:2.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

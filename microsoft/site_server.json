@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:site_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6A0CD378-1D11-41FA-9BA0-36F9304ED83C",
+        "lastModified": "2009-11-25T18:26:27.060",
+        "created": "2007-08-28T21:31:57.010",
+        "titles": [
+          {
+            "title": "Microsoft Site Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:site_server:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EAD92142-FD18-4DB0-AF6C-DB5C51B1DF9E",
+        "lastModified": "2009-11-25T18:26:27.293",
+        "created": "2007-08-28T21:31:57.010",
+        "titles": [
+          {
+            "title": "Microsoft Site Server 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:site_server:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5343A723-0BB7-4D7D-BF0D-4FA7138D0599",
+        "lastModified": "2009-11-25T18:26:27.167",
+        "created": "2007-08-28T21:32:13.420",
+        "titles": [
+          {
+            "title": "Microsoft Site Server 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:site_server:3.0:unknown:commerce:*:*:*:*:*",
+        "cpeNameId": "520BFDF1-A934-4F11-B631-36C01BEF2081",
+        "lastModified": "2008-09-10T18:01:05.993",
+        "created": "2008-09-10T18:01:05.993",
+        "titles": [
+          {
+            "title": "Microsoft site_server 3.0 Commerce Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:site_server:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Site Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:site_server:3.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Site Server 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:site_server:2.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Site Server 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:site_server:3.0:unknown:commerce:*:*:*:*:*",
+      "title": "Microsoft site_server 3.0 Commerce Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

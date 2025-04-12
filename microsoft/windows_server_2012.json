@@ -1,0 +1,620 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A7D888ED-5019-448A-A8DE-9CEB6CE60820",
+        "lastModified": "2022-05-23T17:29:13.120",
+        "created": "2012-11-14T13:21:11.133",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:-:-:*:datacenter:*:*:*",
+        "cpeNameId": "96C9560C-266D-4604-B19C-5E9197FC2330",
+        "lastModified": "2019-05-08T22:03:14.273",
+        "created": "2013-11-12T18:50:10.507",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 R2 DataCenter Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:datacenter:*:x64:*",
+            "cpeNameId": "9E9FC40F-42A4-4BB5-9EE9-3FCD3387BE7E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:-:-:*:standard:*:*:*",
+        "cpeNameId": "313B8212-37B6-4B18-A868-6AD9D0693BEF",
+        "lastModified": "2019-05-08T22:03:15.507",
+        "created": "2013-11-12T18:50:10.757",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 R2 Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:standard:*:x64:*",
+            "cpeNameId": "5A17F2BC-E9F0-4234-998F-EBF136C6B936"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:-:-:*:essentials:*:*:*",
+        "cpeNameId": "5E7A2D24-89D9-4EA4-AEF7-09A24A057938",
+        "lastModified": "2019-05-08T22:03:15.257",
+        "created": "2013-11-12T18:50:10.947",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 R2 Essentials Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:essentials:*:x64:*",
+            "cpeNameId": "A9B4A3C6-C7C4-4490-A8F8-195DBDCC48E9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:-:gold:*:*:*:*:*:*",
+        "cpeNameId": "7C5BC119-2130-4875-A162-6B64E9FB6973",
+        "lastModified": "2015-12-09T18:27:51.693",
+        "created": "2015-12-09T18:27:51.693",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 Gold",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:-:r2:*:*:*:*:*:*",
+        "cpeNameId": "6E91FC1E-D3EB-46B2-AE99-957DB8302AA0",
+        "lastModified": "2023-02-23T18:36:41.500",
+        "created": "2016-06-17T15:02:20.087",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 R2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:*:*:*:*",
+            "cpeNameId": "BF8268D3-4E2E-4E41-9779-70BD0D4F0BB4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:datacenter:*:x64:*",
+        "cpeNameId": "01610AFF-D7CC-4607-822F-BCC4D4D5B10D",
+        "lastModified": "2019-05-02T14:49:13.523",
+        "created": "2019-05-02T14:49:13.523",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 Datacenter Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:embedded_systems:*:x64:*",
+        "cpeNameId": "4F95A7B2-5DDB-40A2-9127-2932ABF384B6",
+        "lastModified": "2019-05-02T14:49:13.757",
+        "created": "2019-05-02T14:49:13.757",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 Embedded Systems Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:essentials:*:x64:*",
+        "cpeNameId": "62752460-CB57-4ABF-A317-DA6F8838F5CE",
+        "lastModified": "2019-05-02T14:49:13.960",
+        "created": "2019-05-02T14:49:13.960",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 Essentials Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:foundation:*:x64:*",
+        "cpeNameId": "5A6B3F8B-58DD-446F-A54B-2DC922AFF221",
+        "lastModified": "2019-05-02T14:49:14.163",
+        "created": "2019-05-02T14:49:14.163",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 Foundation Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:standard:*:x64:*",
+        "cpeNameId": "667B3A3D-82D1-4269-A4F1-EB7D9FF4ADA6",
+        "lastModified": "2019-05-02T14:49:14.383",
+        "created": "2019-05-02T14:49:14.383",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 Standard Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:datacenter:*:x64:*",
+        "cpeNameId": "9E9FC40F-42A4-4BB5-9EE9-3FCD3387BE7E",
+        "lastModified": "2023-10-14T20:37:55.477",
+        "created": "2019-05-02T14:49:14.587",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 R2 Datacenter Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:embedded_systems:*:x64:*",
+        "cpeNameId": "ED2DEE1F-058C-4456-AA72-EC6F8C6698E6",
+        "lastModified": "2023-10-14T20:37:55.477",
+        "created": "2019-05-02T14:49:14.693",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 R2 Embedded Systems Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:essentials:*:x64:*",
+        "cpeNameId": "A9B4A3C6-C7C4-4490-A8F8-195DBDCC48E9",
+        "lastModified": "2023-10-14T20:37:55.477",
+        "created": "2019-05-02T14:49:14.803",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 R2 Essentials Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:foundation:*:x64:*",
+        "cpeNameId": "E1EDF119-08DC-4D49-AFA1-AA8F3BEBFB51",
+        "lastModified": "2023-10-14T20:37:55.477",
+        "created": "2019-05-02T14:49:14.897",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 R2 Foundation Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:standard:*:x64:*",
+        "cpeNameId": "5A17F2BC-E9F0-4234-998F-EBF136C6B936",
+        "lastModified": "2023-10-14T20:37:55.477",
+        "created": "2019-05-02T14:49:15.007",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 R2 Standard Edition on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:datacenter:*:x86:*",
+        "cpeNameId": "7BF4F0B4-951F-4EED-9B06-491976090B95",
+        "lastModified": "2020-03-04T15:39:07.893",
+        "created": "2020-03-04T15:39:07.893",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 Datacenter Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:foundation:*:x86:*",
+        "cpeNameId": "15DB3191-2D46-4DCA-B1B1-C041F1CA341C",
+        "lastModified": "2020-03-04T15:39:09.127",
+        "created": "2020-03-04T15:39:09.127",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 Foundation Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:standard:*:x86:*",
+        "cpeNameId": "6A9BCA44-F5EB-4DD0-A654-1FFBA039E562",
+        "lastModified": "2020-03-04T15:39:10.267",
+        "created": "2020-03-04T15:39:10.267",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 Standard Edition on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:sp1:*:*:*:*:x64:*",
+        "cpeNameId": "116CE8C0-1548-4B6B-96BA-66E4E5C90AA2",
+        "lastModified": "2023-10-14T20:30:05.117",
+        "created": "2020-04-20T16:21:51.710",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 R2 Service Pack 1 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:*:*:*:*",
+        "cpeNameId": "BF8268D3-4E2E-4E41-9779-70BD0D4F0BB4",
+        "lastModified": "2023-02-23T18:36:41.500",
+        "created": "2021-04-14T18:06:42.603",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 R2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.24116:*:*:*:*:*:*:*",
+        "cpeNameId": "F17B4F4D-DBE3-43BC-BC1B-8728E6F81D4D",
+        "lastModified": "2023-02-23T18:36:41.500",
+        "created": "2023-02-21T19:23:14.067",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 6.2.9200.24116",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.24919:*:*:*:standard:*:x64:*",
+        "cpeNameId": "0ECA80FE-C71C-4866-B724-CBD5FC1133B5",
+        "lastModified": "2025-01-03T20:39:20.653",
+        "created": "2025-01-03T20:39:20.653",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 6.2.9200.24919 Standard Edition on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.25031:*:*:*:standard:*:x64:*",
+        "cpeNameId": "82EC466B-6B50-42F1-81FB-D7899A26D785",
+        "lastModified": "2025-01-03T20:39:20.653",
+        "created": "2025-01-03T20:39:20.653",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 6.2.9200.25031 Standard Edition on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.24975:*:*:*:standard:*:x64:*",
+        "cpeNameId": "9DE046C4-75F6-410F-A921-20CAD04D8EA6",
+        "lastModified": "2025-01-03T20:39:20.653",
+        "created": "2025-01-03T20:39:20.653",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 6.2.9200.24975 Standard Edition on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.25073:*:*:*:standard:*:x64:*",
+        "cpeNameId": "BAEF7F41-1897-4A9F-B597-2BCE6B9108AA",
+        "lastModified": "2025-01-03T20:39:20.653",
+        "created": "2025-01-03T20:39:20.653",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 6.2.9200.25073 Standard Edition on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.24768:*:*:*:standard:*:x64:*",
+        "cpeNameId": "B04F100E-1862-4B94-BBF4-108028F44978",
+        "lastModified": "2025-01-03T20:39:20.653",
+        "created": "2025-01-03T20:39:20.653",
+        "titles": [
+          {
+            "title": "Microsoft Windows Server 2012 6.2.9200.24768 Standard Edition on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Server 2012",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:r2:-:-:*:datacenter:*:*:*",
+      "title": "Microsoft Windows Server 2012 R2 DataCenter Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:datacenter:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:r2:-:-:*:standard:*:*:*",
+      "title": "Microsoft Windows Server 2012 R2 Standard Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:standard:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:r2:-:-:*:essentials:*:*:*",
+      "title": "Microsoft Windows Server 2012 R2 Essentials Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:essentials:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:-:gold:*:*:*:*:*:*",
+      "title": "Microsoft Windows Server 2012 Gold",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:-:r2:*:*:*:*:*:*",
+      "title": "Microsoft Windows Server 2012 R2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:datacenter:*:x64:*",
+      "title": "Microsoft Windows Server 2012 Datacenter Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:embedded_systems:*:x64:*",
+      "title": "Microsoft Windows Server 2012 Embedded Systems Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:essentials:*:x64:*",
+      "title": "Microsoft Windows Server 2012 Essentials Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:foundation:*:x64:*",
+      "title": "Microsoft Windows Server 2012 Foundation Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:standard:*:x64:*",
+      "title": "Microsoft Windows Server 2012 Standard Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:datacenter:*:x64:*",
+      "title": "Microsoft Windows Server 2012 R2 Datacenter Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:embedded_systems:*:x64:*",
+      "title": "Microsoft Windows Server 2012 R2 Embedded Systems Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:essentials:*:x64:*",
+      "title": "Microsoft Windows Server 2012 R2 Essentials Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:foundation:*:x64:*",
+      "title": "Microsoft Windows Server 2012 R2 Foundation Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:standard:*:x64:*",
+      "title": "Microsoft Windows Server 2012 R2 Standard Edition on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:datacenter:*:x86:*",
+      "title": "Microsoft Windows Server 2012 Datacenter Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:foundation:*:x86:*",
+      "title": "Microsoft Windows Server 2012 Foundation Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:standard:*:x86:*",
+      "title": "Microsoft Windows Server 2012 Standard Edition on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:r2:sp1:*:*:*:*:x64:*",
+      "title": "Microsoft Windows Server 2012 R2 Service Pack 1 on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Server 2012 R2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.24116:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Server 2012 6.2.9200.24116",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.24919:*:*:*:standard:*:x64:*",
+      "title": "Microsoft Windows Server 2012 6.2.9200.24919 Standard Edition on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.25031:*:*:*:standard:*:x64:*",
+      "title": "Microsoft Windows Server 2012 6.2.9200.25031 Standard Edition on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.24975:*:*:*:standard:*:x64:*",
+      "title": "Microsoft Windows Server 2012 6.2.9200.24975 Standard Edition on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.25073:*:*:*:standard:*:x64:*",
+      "title": "Microsoft Windows Server 2012 6.2.9200.25073 Standard Edition on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.24768:*:*:*:standard:*:x64:*",
+      "title": "Microsoft Windows Server 2012 6.2.9200.24768 Standard Edition on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

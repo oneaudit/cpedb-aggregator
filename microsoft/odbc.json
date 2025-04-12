@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:odbc:17.0:*:*:*:*:sql_server:*:*",
+        "cpeNameId": "326D2616-0ED1-44F1-9CF9-61E0AFA8D15F",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-04-13T13:23:53.173",
+        "titles": [
+          {
+            "title": "Microsoft ODBC 17.0 for SQL Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:odbc:17.10.3.1:*:*:*:*:sql_server:*:*",
+        "cpeNameId": "B68DFAC8-210E-485D-A095-62092F139D22",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-04-13T13:23:53.173",
+        "titles": [
+          {
+            "title": "Microsoft ODBC 17.10.3.1 for SQL Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:odbc:18.0:*:*:*:*:sql_server:*:*",
+        "cpeNameId": "AC8FBE24-4C6B-4916-8077-2798AECF42CE",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-04-13T13:23:57.397",
+        "titles": [
+          {
+            "title": "Microsoft ODBC 18.0 for SQL Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:odbc:17.0:*:*:*:*:sql_server:*:*",
+      "title": "Microsoft ODBC 17.0 for SQL Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:odbc:17.10.3.1:*:*:*:*:sql_server:*:*",
+      "title": "Microsoft ODBC 17.10.3.1 for SQL Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:odbc:18.0:*:*:*:*:sql_server:*:*",
+      "title": "Microsoft ODBC 18.0 for SQL Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

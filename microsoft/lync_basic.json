@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:lync_basic:2013:-:x86:*:*:*:*:*",
+        "cpeNameId": "AE70E636-D930-4EB7-A67F-512212BA69B2",
+        "lastModified": "2013-07-12T18:27:30.387",
+        "created": "2013-07-10T13:44:39.250",
+        "titles": [
+          {
+            "title": "Microsoft Lync Basic 2013 for 32-bit systems (x86)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:lync_basic:2013:-:x64:*:*:*:*:*",
+        "cpeNameId": "7E266DC1-4A4B-4F79-BA02-F59EB1ED2064",
+        "lastModified": "2013-07-12T18:27:30.340",
+        "created": "2013-07-10T13:44:39.407",
+        "titles": [
+          {
+            "title": "Microsoft Lync Basic 2013 for 64-bit systems (x64)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:lync_basic:2013:-:x86:*:*:*:*:*",
+      "title": "Microsoft Lync Basic 2013 for 32-bit systems (x86)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:lync_basic:2013:-:x64:*:*:*:*:*",
+      "title": "Microsoft Lync Basic 2013 for 64-bit systems (x64)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

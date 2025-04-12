@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sharepoint_services:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "16233E46-97C5-4501-933E-59AB2FC030E5",
+        "lastModified": "2009-11-25T18:26:26.637",
+        "created": "2007-08-28T21:32:26.673",
+        "titles": [
+          {
+            "title": "Microsoft Sharepoint Services 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sharepoint_services:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4296D6A1-4910-4200-BD57-F45784F2BDF0",
+        "lastModified": "2009-11-25T18:26:26.200",
+        "created": "2007-12-29T15:55:33.210",
+        "titles": [
+          {
+            "title": "Microsoft Sharepoint Services",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sharepoint_services:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E8730200-B04B-4335-9045-DDC27C46CA37",
+        "lastModified": "2009-11-25T18:26:26.747",
+        "created": "2007-12-29T15:55:42.150",
+        "titles": [
+          {
+            "title": "Microsoft Sharepoint Services 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:sharepoint_services:3.0:sp3:*:*:*:*:*:*",
+        "cpeNameId": "A9A9C257-C2C6-4665-9D66-7798B81DF747",
+        "lastModified": "2014-05-15T00:11:43.913",
+        "created": "2014-05-14T16:46:08.070",
+        "titles": [
+          {
+            "title": "Microsoft Sharepoint Services 3.0 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:sharepoint_services:2.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Sharepoint Services 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sharepoint_services:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Sharepoint Services",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sharepoint_services:3.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Sharepoint Services 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:sharepoint_services:3.0:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Sharepoint Services 3.0 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:visio_2000:-:sp2:*:*:*:*:*:*",
+        "cpeNameId": "25ABC1CD-A488-470D-AC87-FF27CB1917A6",
+        "lastModified": "2009-03-05T17:19:19.203",
+        "created": "2009-02-11T15:26:32.123",
+        "titles": [
+          {
+            "title": "Microsoft Visio 2000 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:visio:2000:sp2:*:*:*:*:*:*",
+            "cpeNameId": "C4714132-53DC-4253-A6E2-13DE2380B9DD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:visio_2000:-:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Visio 2000 Service Pack 2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:visio:2000:sp2:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_mail:-:*:*:*:*:*:*:*",
+        "cpeNameId": "49BF5785-5F24-4CC9-AF4F-5458794A291D",
+        "lastModified": "2010-05-12T20:46:11.703",
+        "created": "2007-08-28T21:32:24.873",
+        "titles": [
+          {
+            "title": "Microsoft Windows Mail",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:windows_mail:-:*:*:*:*:vista:*:*",
+        "cpeNameId": "55B3D088-A105-4257-8BE8-0D5482273CED",
+        "lastModified": "2021-08-13T14:09:11.893",
+        "created": "2018-10-24T13:03:55.297",
+        "titles": [
+          {
+            "title": "Microsoft Windows Mail for Vista",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:windows_mail:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Windows Mail",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:windows_mail:-:*:*:*:*:vista:*:*",
+      "title": "Microsoft Windows Mail for Vista",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
