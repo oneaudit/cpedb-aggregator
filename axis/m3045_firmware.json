@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:axis:m3045_firmware:6.15.4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0008C28A-DEBD-4FD8-A180-4D70FB007CFC",
+        "lastModified": "2022-06-24T20:21:53.093",
+        "created": "2022-06-21T14:21:34.833",
+        "titles": [
+          {
+            "title": "Axis M3045 Firmware 6.15.4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:axis:m3045_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3DB68243-73D6-4905-9263-502262F4D800",
+        "lastModified": "2022-06-24T20:21:53.093",
+        "created": "2022-06-21T14:21:34.833",
+        "titles": [
+          {
+            "title": "Axis M3045 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:axis:m3045_firmware:6.15.4.1:*:*:*:*:*:*:*",
+      "title": "Axis M3045 Firmware 6.15.4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:axis:m3045_firmware:-:*:*:*:*:*:*:*",
+      "title": "Axis M3045 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

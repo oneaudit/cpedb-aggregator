@@ -1,0 +1,82 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:baxter:welch_allyn_q-stress_cardiac_stress_testing_system:6.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "59D47779-B1BD-4E4E-85D3-2E40541605C7",
+        "lastModified": "2021-12-22T19:08:09.020",
+        "created": "2021-12-20T16:38:49.880",
+        "titles": [
+          {
+            "title": "Baxter Welch Allyn Q-Stress Cardiac Stress Testing System 6.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:baxter:welch_allyn_q-stress_cardiac_stress_testing_system_firmware:6.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "6CCC9531-1A56-40A8-8700-4B041242795B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:baxter:welch_allyn_q-stress_cardiac_stress_testing_system:6.3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "B7722669-EE55-427A-A8B1-3A41173ADBB0",
+        "lastModified": "2021-12-22T19:08:09.020",
+        "created": "2021-12-20T16:38:49.880",
+        "titles": [
+          {
+            "title": "Baxter Welch Allyn Q-Stress Cardiac Stress Testing System 6.3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:baxter:welch_allyn_q-stress_cardiac_stress_testing_system_firmware:6.3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "1FA903C1-B630-449E-A328-CBD25284324F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:baxter:welch_allyn_q-stress_cardiac_stress_testing_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4BD8538E-CCF7-48B0-BC46-2476D73027ED",
+        "lastModified": "2022-01-21T17:11:29.863",
+        "created": "2021-12-21T14:17:35.010",
+        "titles": [
+          {
+            "title": "Baxter Welch Allyn Q-Stress Cardiac Stress Testing System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:baxter:welch_allyn_q-stress_cardiac_stress_testing_system:6.0.0:*:*:*:*:*:*:*",
+      "title": "Baxter Welch Allyn Q-Stress Cardiac Stress Testing System 6.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:baxter:welch_allyn_q-stress_cardiac_stress_testing_system_firmware:6.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:baxter:welch_allyn_q-stress_cardiac_stress_testing_system:6.3.1:*:*:*:*:*:*:*",
+      "title": "Baxter Welch Allyn Q-Stress Cardiac Stress Testing System 6.3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:baxter:welch_allyn_q-stress_cardiac_stress_testing_system_firmware:6.3.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:baxter:welch_allyn_q-stress_cardiac_stress_testing_system:-:*:*:*:*:*:*:*",
+      "title": "Baxter Welch Allyn Q-Stress Cardiac Stress Testing System",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

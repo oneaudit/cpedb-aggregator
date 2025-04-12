@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:barracuda:yosemite_server_backup:8.8.3:*:*:*:*:*:*:*",
+        "cpeNameId": "BA9E05F8-A531-450F-B3B8-B42F98940813",
+        "lastModified": "2012-10-12T13:26:13.710",
+        "created": "2012-05-08T13:49:58.897",
+        "titles": [
+          {
+            "title": "Barracuda Networks Yosemite Server Backup 8.8.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:barracudanetworks:yosemite_server_backup:8.8.3:*:*:*:*:*:*:*",
+            "cpeNameId": "7F398367-40C8-471A-800A-E2BF816B4FF1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:barracuda:yosemite_server_backup:8.9.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0CAF7DE1-A256-49FB-99E8-57F69992718A",
+        "lastModified": "2012-10-12T13:26:13.803",
+        "created": "2012-05-08T13:49:58.987",
+        "titles": [
+          {
+            "title": "Barracuda Networks Yosemite Server Backup 8.9.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:barracudanetworks:yosemite_server_backup:8.9.1:*:*:*:*:*:*:*",
+            "cpeNameId": "72F1F830-C945-4A68-8A6A-57F1F3282491"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:barracuda:yosemite_server_backup:8.8.3:*:*:*:*:*:*:*",
+      "title": "Barracuda Networks Yosemite Server Backup 8.8.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:barracudanetworks:yosemite_server_backup:8.8.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:barracuda:yosemite_server_backup:8.9.1:*:*:*:*:*:*:*",
+      "title": "Barracuda Networks Yosemite Server Backup 8.9.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:barracudanetworks:yosemite_server_backup:8.9.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

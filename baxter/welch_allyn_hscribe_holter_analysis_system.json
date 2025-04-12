@@ -1,0 +1,82 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:baxter:welch_allyn_hscribe_holter_analysis_system:5.01:*:*:*:*:*:*:*",
+        "cpeNameId": "DF16E8C8-8F5A-4211-BCB5-A53DB457AC0D",
+        "lastModified": "2021-12-22T19:08:09.020",
+        "created": "2021-12-20T16:37:26.603",
+        "titles": [
+          {
+            "title": "Baxter Welch Allyn HScribe Holter Analysis System 5.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:baxter:welch_allyn_hscribe_holter_analysis_system_firmware:5.01:*:*:*:*:*:*:*",
+            "cpeNameId": "621305EE-F4DB-4362-A4FC-F771D773C5D9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:baxter:welch_allyn_hscribe_holter_analysis_system:6.4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "53CE6BBE-7FAC-4E26-A1BE-60343FFBEB09",
+        "lastModified": "2021-12-22T19:08:09.020",
+        "created": "2021-12-20T16:37:26.603",
+        "titles": [
+          {
+            "title": "Baxter Welch Allyn HScribe Holter Analysis System 6.4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:baxter:welch_allyn_hscribe_holter_analysis_system_firmware:6.4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "D75796C8-7DF4-429E-BBC1-0C6859C310D2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:baxter:welch_allyn_hscribe_holter_analysis_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "045404DD-C54D-4A05-9EE9-48D75DB6D231",
+        "lastModified": "2022-01-21T17:11:29.863",
+        "created": "2021-12-21T14:17:35.010",
+        "titles": [
+          {
+            "title": "Baxter Welch Allyn HScribe Holter Analysis System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:baxter:welch_allyn_hscribe_holter_analysis_system:5.01:*:*:*:*:*:*:*",
+      "title": "Baxter Welch Allyn HScribe Holter Analysis System 5.01",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:baxter:welch_allyn_hscribe_holter_analysis_system_firmware:5.01:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:baxter:welch_allyn_hscribe_holter_analysis_system:6.4.0:*:*:*:*:*:*:*",
+      "title": "Baxter Welch Allyn HScribe Holter Analysis System 6.4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:baxter:welch_allyn_hscribe_holter_analysis_system_firmware:6.4.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:baxter:welch_allyn_hscribe_holter_analysis_system:-:*:*:*:*:*:*:*",
+      "title": "Baxter Welch Allyn HScribe Holter Analysis System",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bd:alaris_systems_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "46D70EE1-3D17-47AE-9887-70EC4DA10F81",
+        "lastModified": "2021-05-21T13:35:40.143",
+        "created": "2020-11-19T16:49:40.693",
+        "titles": [
+          {
+            "title": "BD Alaris Systems Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bd:alaris_systems_manager:4.33:*:*:*:*:*:*:*",
+        "cpeNameId": "D41E64AC-7127-41A0-94C6-8D584C3120A5",
+        "lastModified": "2021-05-21T13:35:40.143",
+        "created": "2020-11-19T16:49:40.693",
+        "titles": [
+          {
+            "title": "BD Alaris Systems Manager 4.33",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bd:alaris_systems_manager:12.3:*:*:*:*:*:*:*",
+        "cpeNameId": "BE453C0F-A62B-4BA3-AEFD-FA9CF9324052",
+        "lastModified": "2023-08-28T17:31:10.803",
+        "created": "2023-07-20T18:05:45.310",
+        "titles": [
+          {
+            "title": "BD Alaris Systems Manager 12.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:bd:alaris_systems_manager:-:*:*:*:*:*:*:*",
+      "title": "BD Alaris Systems Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bd:alaris_systems_manager:4.33:*:*:*:*:*:*:*",
+      "title": "BD Alaris Systems Manager 4.33",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bd:alaris_systems_manager:12.3:*:*:*:*:*:*:*",
+      "title": "BD Alaris Systems Manager 12.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

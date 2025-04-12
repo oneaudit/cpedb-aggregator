@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:axis:p1204_firmware:5.51.5:*:*:*:*:*:*:*",
+        "cpeNameId": "BB066389-0249-493E-A643-05F1978057DA",
+        "lastModified": "2021-04-28T14:46:05.450",
+        "created": "2019-03-20T17:44:53.673",
+        "titles": [
+          {
+            "title": "Axis Communications P1204 Firmware 5.51.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:axis:p1204_firmware:5.50.4:*:*:*:*:*:*:*",
+        "cpeNameId": "4C7F1BED-C3A8-4B6C-91EE-7B90BF34A118",
+        "lastModified": "2022-06-24T20:21:53.093",
+        "created": "2022-06-21T14:21:56.463",
+        "titles": [
+          {
+            "title": "Axis P1204 Firmware 5.50.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:axis:p1204_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1F3622F2-2526-4E7F-945B-B8B9FB0A936F",
+        "lastModified": "2022-06-24T20:21:53.093",
+        "created": "2022-06-21T14:21:56.463",
+        "titles": [
+          {
+            "title": "Axis P1204 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:axis:p1204_firmware:5.51.5:*:*:*:*:*:*:*",
+      "title": "Axis Communications P1204 Firmware 5.51.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:axis:p1204_firmware:5.50.4:*:*:*:*:*:*:*",
+      "title": "Axis P1204 Firmware 5.50.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:axis:p1204_firmware:-:*:*:*:*:*:*:*",
+      "title": "Axis P1204 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
