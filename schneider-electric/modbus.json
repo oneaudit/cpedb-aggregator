@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:schneider-electric:modbus:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4A4513A5-1F8D-49A3-9F60-6A023877D00E",
+        "lastModified": "2021-08-10T14:12:56.310",
+        "created": "2017-07-06T18:15:01.077",
+        "titles": [
+          {
+            "title": "Schneider Electric Modbus Protocol",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:schneider-electric:modbus:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2937B7C3-6BA7-45F8-8DDA-FAF035C6C742",
+        "lastModified": "2021-06-17T17:29:45.357",
+        "created": "2017-07-06T18:29:34.583",
+        "titles": [
+          {
+            "title": "Schneider Electric Modbus",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:schneider-electric:modbus:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modbus Protocol",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:schneider-electric:modbus:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modbus",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

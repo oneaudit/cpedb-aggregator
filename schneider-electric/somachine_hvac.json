@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:schneider-electric:somachine_hvac:-:*:*:*:*:*:*:*",
+        "cpeNameId": "18D74B77-6023-4A6C-89F5-902A6167C01B",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2019-09-19T11:29:06.900",
+        "titles": [
+          {
+            "title": "Schneider Electric SoMachine HVAC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:schneider-electric:somachine_hvac:2.4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "F178ED64-932F-4711-9E5B-1F14E69C0145",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2019-09-19T11:29:07.087",
+        "titles": [
+          {
+            "title": "Schneider Electric SoMachine HVAC 2.4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:schneider-electric:somachine_hvac:2.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EBBD481D-B20E-42A6-A7D2-17F293C7E8F5",
+        "lastModified": "2022-01-31T19:42:54.627",
+        "created": "2019-10-01T18:59:33.677",
+        "titles": [
+          {
+            "title": "Schneider Electric SoMachine HVAC 2.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:schneider-electric:somachine_hvac:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric SoMachine HVAC",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:schneider-electric:somachine_hvac:2.4.1:*:*:*:*:*:*:*",
+      "title": "Schneider Electric SoMachine HVAC 2.4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:schneider-electric:somachine_hvac:2.1.0:*:*:*:*:*:*:*",
+      "title": "Schneider Electric SoMachine HVAC 2.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

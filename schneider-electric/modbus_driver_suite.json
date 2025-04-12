@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:schneider-electric:modbus_driver_suite:-:*:*:*:*:*:*:*",
+        "cpeNameId": "88B2ADE9-7620-427F-8A26-6FD1BA78471E",
+        "lastModified": "2021-06-04T14:15:54.330",
+        "created": "2021-06-04T13:53:51.873",
+        "titles": [
+          {
+            "title": "Schneider Electric Modbus Driver Suite",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:schneider-electric:modbus_driver_suite:14.15.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "ED5F6AE8-3A0E-452A-9239-F8F5809960F1",
+        "lastModified": "2021-06-04T14:15:54.330",
+        "created": "2021-06-04T13:53:51.873",
+        "titles": [
+          {
+            "title": "Schneider Electric Modbus Driver Suite 14.15.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:schneider-electric:modbus_driver_suite:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modbus Driver Suite",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:schneider-electric:modbus_driver_suite:14.15.0.0:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Modbus Driver Suite 14.15.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

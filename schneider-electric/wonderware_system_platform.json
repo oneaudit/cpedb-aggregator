@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:schneider-electric:wonderware_system_platform:2014:r2:*:*:*:*:*:*",
+        "cpeNameId": "B2F9AF70-F182-486C-B7AA-7D76EBF5FA7E",
+        "lastModified": "2021-05-26T17:12:35.070",
+        "created": "2015-08-04T13:27:32.893",
+        "titles": [
+          {
+            "title": "Schneider Electric Wonderware System Platform 2014 R2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:aveva:wonderware_system_platform:2014:r2:*:*:*:*:*:*",
+            "cpeNameId": "D2CCA04B-9E5A-455A-B33E-D66C00648118"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:schneider-electric:wonderware_system_platform:2014:r2:*:*:*:*:*:*",
+      "title": "Schneider Electric Wonderware System Platform 2014 R2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:aveva:wonderware_system_platform:2014:r2:*:*:*:*:*:*"
+    }
+  ]
+}

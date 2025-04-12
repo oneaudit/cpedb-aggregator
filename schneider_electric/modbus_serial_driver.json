@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:schneider_electric:modbus_serial_driver:-:*:*:*:*:*:x86:*",
+        "cpeNameId": "9CC2BD35-D51B-4F1E-B666-CD2F979497E4",
+        "lastModified": "2021-06-04T14:15:54.330",
+        "created": "2020-09-01T12:39:18.533",
+        "titles": [
+          {
+            "title": "Schneider Electric Modbus Serial Driver on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:modbus_serial_driver:-:*:*:*:*:*:x86:*",
+            "cpeNameId": "FF472DFC-4EBC-4D25-B1FC-94FCC6B1D993"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:schneider_electric:modbus_serial_driver:2.20_ie_30:*:*:*:*:*:x86:*",
+        "cpeNameId": "5AC14866-A06A-4F70-BF97-66F0EFDAD164",
+        "lastModified": "2021-06-04T14:15:54.330",
+        "created": "2020-09-01T12:39:18.533",
+        "titles": [
+          {
+            "title": "Schneider Electric Modbus Serial Driver 2.20 IE 30 on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:modbus_serial_driver:2.20_ie_30:*:*:*:*:*:x86:*",
+            "cpeNameId": "70398AF8-E3AF-4EEC-B242-76EFA28FA273"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:schneider_electric:modbus_serial_driver:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "3D35019B-AE5D-421D-B16E-B5AE710DF008",
+        "lastModified": "2021-06-04T14:15:54.330",
+        "created": "2020-09-01T12:39:19.487",
+        "titles": [
+          {
+            "title": "Schneider Electric Modbus Serial Driver on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:modbus_serial_driver:-:*:*:*:*:*:x64:*",
+            "cpeNameId": "4D909136-6DDE-41EA-ADCC-04B452AF1CAB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:schneider_electric:modbus_serial_driver:3.20_ie_30:*:*:*:*:*:x64:*",
+        "cpeNameId": "CFE9A8B5-7D82-4A72-8846-B8C528803C2E",
+        "lastModified": "2021-06-04T14:15:54.330",
+        "created": "2020-09-01T12:39:19.487",
+        "titles": [
+          {
+            "title": "Schneider Electric Modbus Serial Driver 3.20 IE 30 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:schneider-electric:modbus_serial_driver:3.20_ie_30:*:*:*:*:*:x64:*",
+            "cpeNameId": "78A04FE9-BF6E-40F5-B7E4-CA440AC22BF7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:schneider_electric:modbus_serial_driver:-:*:*:*:*:*:x86:*",
+      "title": "Schneider Electric Modbus Serial Driver on x86",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:modbus_serial_driver:-:*:*:*:*:*:x86:*"
+    },
+    {
+      "name": "cpe:2.3:a:schneider_electric:modbus_serial_driver:2.20_ie_30:*:*:*:*:*:x86:*",
+      "title": "Schneider Electric Modbus Serial Driver 2.20 IE 30 on x86",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:modbus_serial_driver:2.20_ie_30:*:*:*:*:*:x86:*"
+    },
+    {
+      "name": "cpe:2.3:a:schneider_electric:modbus_serial_driver:-:*:*:*:*:*:x64:*",
+      "title": "Schneider Electric Modbus Serial Driver on x64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:modbus_serial_driver:-:*:*:*:*:*:x64:*"
+    },
+    {
+      "name": "cpe:2.3:a:schneider_electric:modbus_serial_driver:3.20_ie_30:*:*:*:*:*:x64:*",
+      "title": "Schneider Electric Modbus Serial Driver 3.20 IE 30 on x64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:schneider-electric:modbus_serial_driver:3.20_ie_30:*:*:*:*:*:x64:*"
+    }
+  ]
+}

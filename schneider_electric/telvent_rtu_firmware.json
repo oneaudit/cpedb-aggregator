@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider_electric:telvent_rtu_firmware:c3413-500-001d3:*:*:*:*:*:*:*",
+        "cpeNameId": "AFD67532-B373-4896-A506-5E8C4A9E71B1",
+        "lastModified": "2018-09-24T16:21:37.883",
+        "created": "2016-03-23T18:33:06.890",
+        "titles": [
+          {
+            "title": "Schneider Electric Telvent Rtu Firmware C3413-500-001d3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:telvent_rtu_firmware:c3413-500-001d3:*:*:*:*:*:*:*",
+            "cpeNameId": "DFA1D30A-A16A-4E63-92CF-8BFB5BED6009"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider_electric:telvent_rtu_firmware:c3414-500-s02j1:*:*:*:*:*:*:*",
+        "cpeNameId": "B443F799-D83C-4C5F-AEA1-BF9DDC562C1E",
+        "lastModified": "2018-09-24T16:21:37.897",
+        "created": "2016-03-23T18:33:06.953",
+        "titles": [
+          {
+            "title": "Schneider Electric Telvent Rtu Firmware C3414-500-s02j1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:telvent_rtu_firmware:c3414-500-s02j1:*:*:*:*:*:*:*",
+            "cpeNameId": "CEFDFB1F-C707-4DD7-B234-79CEDC45F2C4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:schneider_electric:telvent_rtu_firmware:c3413-500-001d3:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Telvent Rtu Firmware C3413-500-001d3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:telvent_rtu_firmware:c3413-500-001d3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:schneider_electric:telvent_rtu_firmware:c3414-500-s02j1:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Telvent Rtu Firmware C3414-500-s02j1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:telvent_rtu_firmware:c3414-500-s02j1:*:*:*:*:*:*:*"
+    }
+  ]
+}
