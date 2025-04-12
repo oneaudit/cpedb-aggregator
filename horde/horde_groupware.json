@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:horde:horde_groupware:5.2.11:*:*:*:webmail:*:*:*",
+        "cpeNameId": "54B8EDA8-3F0C-445A-869A-9AAD7EB6E0EB",
+        "lastModified": "2019-06-18T16:29:40.080",
+        "created": "2016-12-30T16:31:21.653",
+        "titles": [
+          {
+            "title": "Horde Groupware 5.2.11 Webmail",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:horde:groupware:5.2.11:*:*:*:webmail:*:*:*",
+            "cpeNameId": "D5B94B18-8D4F-4F6A-ADA3-27F532DB37DB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:horde:horde_groupware:5.2.11:*:*:*:*:*:*:*",
+        "cpeNameId": "F2DCE295-822A-4C9B-9E96-F46270BF0FF8",
+        "lastModified": "2019-06-18T16:29:39.817",
+        "created": "2016-12-30T16:31:21.683",
+        "titles": [
+          {
+            "title": "Horde Groupware 5.2.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:horde:groupware:5.2.11:*:*:*:*:*:*:*",
+            "cpeNameId": "385FF336-3219-4770-A70A-E474173C1E9B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:horde:horde_groupware:5.2.11:*:*:*:webmail:*:*:*",
+      "title": "Horde Groupware 5.2.11 Webmail",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:horde:groupware:5.2.11:*:*:*:webmail:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:horde:horde_groupware:5.2.11:*:*:*:*:*:*:*",
+      "title": "Horde Groupware 5.2.11",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:horde:groupware:5.2.11:*:*:*:*:*:*:*"
+    }
+  ]
+}

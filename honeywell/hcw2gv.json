@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:honeywell:hcw2gv:_:*:*:*:*:*:*:*",
+        "cpeNameId": "7F4FEC76-1FFF-4ED7-B24A-F892CAEB9DD6",
+        "lastModified": "2020-04-27T17:45:07.447",
+        "created": "2020-01-15T16:46:46.550",
+        "titles": [
+          {
+            "title": "Honeywell HCW2GV",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:honeywell:hcw2gv:-:*:*:*:*:*:*:*",
+            "cpeNameId": "9B75527D-3BF0-4F3B-AF2E-7144307286CE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:honeywell:hcw2gv:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9B75527D-3BF0-4F3B-AF2E-7144307286CE",
+        "lastModified": "2020-04-27T17:43:29.177",
+        "created": "2020-04-27T17:43:29.177",
+        "titles": [
+          {
+            "title": "Honeywell HCW2GV",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:honeywell:hcw2gv:_:*:*:*:*:*:*:*",
+      "title": "Honeywell HCW2GV",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:honeywell:hcw2gv:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:honeywell:hcw2gv:-:*:*:*:*:*:*:*",
+      "title": "Honeywell HCW2GV",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

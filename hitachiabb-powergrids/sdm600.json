@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hitachiabb-powergrids:sdm600:-:*:*:*:*:*:*:*",
+        "cpeNameId": "353FCC42-58A7-4073-A742-D348DDB0311E",
+        "lastModified": "2023-05-16T20:56:47.737",
+        "created": "2021-09-15T12:14:32.577",
+        "titles": [
+          {
+            "title": "Hitachi ABB Power Grids SDM600",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:sdm600:-:*:*:*:*:*:*:*",
+            "cpeNameId": "53A2C891-04D5-4D93-A917-8BAE061615B2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hitachiabb-powergrids:sdm600:-:*:*:*:*:*:*:*",
+      "title": "Hitachi ABB Power Grids SDM600",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:sdm600:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

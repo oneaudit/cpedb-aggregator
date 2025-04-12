@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hitachi:pwc600:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5FB15128-0466-432B-A7CE-8A214C03A83C",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2021-11-23T15:36:15.617",
+        "titles": [
+          {
+            "title": "Hitachi PWC600",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:pwc600:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A8572B03-11B5-4005-BB00-AC73CCD15EA1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hitachi:pwc600:-:*:*:*:*:*:*:*",
+      "title": "Hitachi PWC600",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:pwc600:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hitachi:application_server_v10_manual:10-11-01:*:*:*:*:linux:*:*",
+        "cpeNameId": "595A66F2-A481-40D2-BFC1-E464A1E781AA",
+        "lastModified": "2021-07-06T13:57:28.323",
+        "created": "2021-06-25T12:38:44.993",
+        "titles": [
+          {
+            "title": "Hitachi Application Server V10 Manual 10-11-01 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hitachi:application_server_v10_manual:-:*:*:*:*:linux:*:*",
+        "cpeNameId": "E38D6005-B1AA-4E22-95CD-7FE8CA944EF5",
+        "lastModified": "2021-07-06T13:57:28.323",
+        "created": "2021-06-25T12:38:44.993",
+        "titles": [
+          {
+            "title": "Hitachi Application Server V10 Manual - for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hitachi:application_server_v10_manual:10-11-01:*:*:*:*:windows:*:*",
+        "cpeNameId": "4E42C052-48CA-40B0-8810-CD266130A9A8",
+        "lastModified": "2021-07-06T13:57:28.323",
+        "created": "2021-06-25T12:38:51.030",
+        "titles": [
+          {
+            "title": "Hitachi Application Server V10 Manual 10-11-01 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hitachi:application_server_v10_manual:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "22485DF7-0893-4AAA-A680-37E7CD3C8CA3",
+        "lastModified": "2021-07-06T13:57:28.323",
+        "created": "2021-06-25T12:38:51.030",
+        "titles": [
+          {
+            "title": "Hitachi Application Server V10 Manual - for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hitachi:application_server_v10_manual:10-11-01:*:*:*:*:linux:*:*",
+      "title": "Hitachi Application Server V10 Manual 10-11-01 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hitachi:application_server_v10_manual:-:*:*:*:*:linux:*:*",
+      "title": "Hitachi Application Server V10 Manual - for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hitachi:application_server_v10_manual:10-11-01:*:*:*:*:windows:*:*",
+      "title": "Hitachi Application Server V10 Manual 10-11-01 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hitachi:application_server_v10_manual:-:*:*:*:*:windows:*:*",
+      "title": "Hitachi Application Server V10 Manual - for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

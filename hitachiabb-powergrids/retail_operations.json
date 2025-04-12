@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hitachiabb-powergrids:retail_operations:5.7.3:*:*:*:*:*:*:*",
+        "cpeNameId": "9FADAB54-6384-44F9-9233-963241524649",
+        "lastModified": "2021-11-19T12:27:23.880",
+        "created": "2021-08-26T13:47:54.643",
+        "titles": [
+          {
+            "title": "Hitachi ABB Power Grids Retail Operations 5.7.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hitachienergy:retail_operations:5.7.3:*:*:*:*:*:*:*",
+            "cpeNameId": "CDD92EFA-0BD6-439B-8AC4-88376658E0FC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hitachiabb-powergrids:retail_operations:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8456B071-A682-47FD-B73D-AC2247EC3A7F",
+        "lastModified": "2021-11-19T12:27:23.880",
+        "created": "2021-08-26T13:47:54.643",
+        "titles": [
+          {
+            "title": "Hitachi ABB Power Grids Retail Operations",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hitachienergy:retail_operations:-:*:*:*:*:*:*:*",
+            "cpeNameId": "60EF7A4E-1D8B-4227-9E0A-7A47E5F438BA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hitachiabb-powergrids:retail_operations:5.7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "BF9E4DEF-7BCA-4C1C-B55E-B868A39F2D40",
+        "lastModified": "2021-11-19T12:27:23.880",
+        "created": "2021-08-26T13:47:54.643",
+        "titles": [
+          {
+            "title": "Hitachi ABB Power Grids Retail Operations 5.7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hitachienergy:retail_operations:5.7.2:*:*:*:*:*:*:*",
+            "cpeNameId": "244E5739-0140-4C98-95CD-CE4761D973E0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hitachiabb-powergrids:retail_operations:5.7.3:*:*:*:*:*:*:*",
+      "title": "Hitachi ABB Power Grids Retail Operations 5.7.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hitachienergy:retail_operations:5.7.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:hitachiabb-powergrids:retail_operations:-:*:*:*:*:*:*:*",
+      "title": "Hitachi ABB Power Grids Retail Operations",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hitachienergy:retail_operations:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:hitachiabb-powergrids:retail_operations:5.7.2:*:*:*:*:*:*:*",
+      "title": "Hitachi ABB Power Grids Retail Operations 5.7.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hitachienergy:retail_operations:5.7.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

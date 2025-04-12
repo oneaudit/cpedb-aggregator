@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hitachi:gms600:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4251F65C-EB75-4BBB-BA67-49CB9B0AE3AD",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2021-11-23T15:36:15.617",
+        "titles": [
+          {
+            "title": "Hitachi GMS600",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:gms600:-:*:*:*:*:*:*:*",
+            "cpeNameId": "AD780931-308D-4FE3-BB87-9BAC0D021552"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hitachi:gms600:-:*:*:*:*:*:*:*",
+      "title": "Hitachi GMS600",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:gms600:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

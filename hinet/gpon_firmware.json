@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hinet:gpon_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AD3E5730-48AD-4F1B-B091-F9A06BA9BDC0",
+        "lastModified": "2019-11-01T12:51:57.230",
+        "created": "2019-11-01T12:51:57.230",
+        "titles": [
+          {
+            "title": "HiNet GPON Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hinet:gpon_firmware:i040gwr190731:*:*:*:*:*:*:*",
+        "cpeNameId": "CC1D347F-C4D1-4427-8A68-AB0CD357C217",
+        "lastModified": "2019-11-01T12:51:57.480",
+        "created": "2019-11-01T12:51:57.480",
+        "titles": [
+          {
+            "title": "HiNet GPON Firmware I040GWR190731",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hinet:gpon_firmware:-:*:*:*:*:*:*:*",
+      "title": "HiNet GPON Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hinet:gpon_firmware:i040gwr190731:*:*:*:*:*:*:*",
+      "title": "HiNet GPON Firmware I040GWR190731",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

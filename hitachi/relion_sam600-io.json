@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hitachi:relion_sam600-io:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6261512C-3BBE-4A33-83A7-6CFD5579B6DD",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2021-11-23T12:57:21.407",
+        "titles": [
+          {
+            "title": "Hitachi RELION SAM600-IO",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:relion_sam600-io:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5FF2C28C-10F3-434C-A63F-CF9B2D5E5A17"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hitachi:relion_sam600-io:-:*:*:*:*:*:*:*",
+      "title": "Hitachi RELION SAM600-IO",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:relion_sam600-io:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

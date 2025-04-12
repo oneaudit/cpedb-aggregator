@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hitachiabb-powergrids:counterparty_settlement_and_billing:5.7.3:*:*:*:*:*:*:*",
+        "cpeNameId": "91EE799E-AC5D-47B7-8F0A-D586AD1C8BAF",
+        "lastModified": "2023-05-16T20:08:59.893",
+        "created": "2021-08-26T13:45:39.043",
+        "titles": [
+          {
+            "title": "Hitachi ABB Power Grids Counterparty Settlement and Billing 5.7.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hitachienergy:counterparty_settlement_and_billing:5.7.3:*:*:*:*:*:*:*",
+            "cpeNameId": "A58E808D-E53E-4000-A3E9-71CF63E4EE84"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hitachiabb-powergrids:counterparty_settlement_and_billing:5.7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "7B7F814B-F9AA-46B0-B629-A70F86ECB2A6",
+        "lastModified": "2023-05-16T20:08:59.893",
+        "created": "2021-08-26T13:45:39.043",
+        "titles": [
+          {
+            "title": "Hitachi ABB Power Grids Counterparty Settlement and Billing 5.7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hitachienergy:counterparty_settlement_and_billing:5.7.2:*:*:*:*:*:*:*",
+            "cpeNameId": "E2450F28-8B8A-49E9-8B4F-EB6FA047DAE0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hitachiabb-powergrids:counterparty_settlement_and_billing:-:*:*:*:*:*:*:*",
+        "cpeNameId": "66D35A86-34C1-4681-BE76-7535C0621896",
+        "lastModified": "2023-05-16T20:08:59.893",
+        "created": "2021-08-26T13:45:39.043",
+        "titles": [
+          {
+            "title": "Hitachi ABB Power Grids Counterparty Settlement and Billing",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hitachienergy:counterparty_settlement_and_billing:-:*:*:*:*:*:*:*",
+            "cpeNameId": "74221071-9CB7-4923-AAD5-43B580DE734C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hitachiabb-powergrids:counterparty_settlement_and_billing:5.7.3:*:*:*:*:*:*:*",
+      "title": "Hitachi ABB Power Grids Counterparty Settlement and Billing 5.7.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hitachienergy:counterparty_settlement_and_billing:5.7.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:hitachiabb-powergrids:counterparty_settlement_and_billing:5.7.2:*:*:*:*:*:*:*",
+      "title": "Hitachi ABB Power Grids Counterparty Settlement and Billing 5.7.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hitachienergy:counterparty_settlement_and_billing:5.7.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:hitachiabb-powergrids:counterparty_settlement_and_billing:-:*:*:*:*:*:*:*",
+      "title": "Hitachi ABB Power Grids Counterparty Settlement and Billing",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hitachienergy:counterparty_settlement_and_billing:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

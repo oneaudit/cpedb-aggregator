@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hitachi:sys600:-:*:*:*:*:*:*:*",
+        "cpeNameId": "073CB936-73B3-40CE-8527-DC4EC6936AE5",
+        "lastModified": "2022-10-05T13:45:55.850",
+        "created": "2022-09-15T13:51:28.540",
+        "titles": [
+          {
+            "title": "Hitachi SYS600",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:sys600:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D9B6258A-908F-416F-A628-2CDDD63D44E5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hitachi:sys600:-:*:*:*:*:*:*:*",
+      "title": "Hitachi SYS600",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:sys600:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

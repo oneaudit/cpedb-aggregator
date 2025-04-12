@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hitachi:relion_670:-:*:*:*:*:*:*:*",
+        "cpeNameId": "015278E6-BA5D-439B-B92F-45A8E8E84418",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2021-11-23T12:57:21.407",
+        "titles": [
+          {
+            "title": "Hitachi RELION 670",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:relion_670:-:*:*:*:*:*:*:*",
+            "cpeNameId": "061D9913-2ED4-4D5D-B121-FFF9116FA4B4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hitachi:relion_670:-:*:*:*:*:*:*:*",
+      "title": "Hitachi RELION 670",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:relion_670:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

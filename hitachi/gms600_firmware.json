@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:hitachi:gms600_firmware:1.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3C051B76-8919-42E7-833C-FF612F50A4C2",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2021-11-23T15:36:15.617",
+        "titles": [
+          {
+            "title": "Hitachi GMS600 FIRMWARE 1.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:gms600_firmware:1.2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "0BEB205A-C7F7-4373-8FDC-7BC4DE6CD335"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:hitachi:gms600_firmware:1.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AC7F4B4E-FE61-434A-BB99-30611F6BD62F",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2021-11-23T15:36:15.617",
+        "titles": [
+          {
+            "title": "Hitachi GMS600 FIRMWARE 1.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:gms600_firmware:1.3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "6F5A5EF4-6A21-4F4F-9ED6-9782DDD4DB88"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:hitachi:gms600_firmware:1.3.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "BEA1EB0F-7752-429A-9A51-0F6E6C877C73",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2021-11-23T15:36:15.617",
+        "titles": [
+          {
+            "title": "Hitachi GMS600 FIRMWARE 1.3.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:gms600_firmware:1.3.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "A4FC0796-30E4-4EF5-839D-BE0FF1365EB2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hitachi:gms600_firmware:1.2.0:*:*:*:*:*:*:*",
+      "title": "Hitachi GMS600 FIRMWARE 1.2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:gms600_firmware:1.2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:hitachi:gms600_firmware:1.3.0:*:*:*:*:*:*:*",
+      "title": "Hitachi GMS600 FIRMWARE 1.3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:gms600_firmware:1.3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:hitachi:gms600_firmware:1.3.1.0:*:*:*:*:*:*:*",
+      "title": "Hitachi GMS600 FIRMWARE 1.3.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:gms600_firmware:1.3.1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}
