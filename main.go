@@ -121,20 +121,52 @@ func main() {
 			return
 		}
 		for jsonFilePath, vendorProduct := range vendorProducts {
-			file, err := os.Create(jsonFilePath)
+			var finalProduct *types.AggregatorResult
+			file, err := os.OpenFile(jsonFilePath, os.O_RDWR|os.O_CREATE, 0644)
 			if err != nil {
-				fmt.Printf("error creating JSON file: %v", err)
+				fmt.Printf("error opening JSON file: %v\n", err)
 				return
 			}
-			encoder := json.NewEncoder(file)
-			encoder.SetIndent("", "  ")
-			err = encoder.Encode(vendorProduct)
+			info, err := file.Stat()
 			if err != nil {
 				file.Close()
-				fmt.Printf("error writing to JSON file: %v", err)
+				fmt.Printf("error stating file: %v\n", err)
 				return
+			}
+			if info.Size() > 0 {
+				var existingProduct types.AggregatorResult
+				decoder := json.NewDecoder(file)
+				err = decoder.Decode(&existingProduct)
+				if err != nil {
+					file.Close()
+					fmt.Printf("error decoding existing JSON file: %v\n", err)
+					return
+				}
+				finalProduct = MergeAggregatorResults(vendorProduct, &existingProduct)
 			} else {
+				finalProduct = vendorProduct
+			}
+
+			err = file.Truncate(0)
+			if err != nil {
 				file.Close()
+				fmt.Printf("error truncating file: %v\n", err)
+				return
+			}
+			_, err = file.Seek(0, 0)
+			if err != nil {
+				file.Close()
+				fmt.Printf("error seeking to file start: %v\n", err)
+				return
+			}
+
+			encoder := json.NewEncoder(file)
+			encoder.SetIndent("", "  ")
+			err = encoder.Encode(finalProduct)
+			file.Close()
+			if err != nil {
+				fmt.Printf("error writing to JSON file: %v\n", err)
+				return
 			}
 		}
 	}
@@ -145,6 +177,45 @@ func main() {
 			fmt.Printf("Error writing to %s: %v\n", UpdateFile, err)
 		}
 	}
+}
+
+func MergeAggregatorResults(newResult *types.AggregatorResult, oldResult *types.AggregatorResult) *types.AggregatorResult {
+	finalResult := types.AggregatorResult{}
+
+	for _, oldNistProduct := range oldResult.Nist {
+		var found *types.NistProduct
+		for _, newNistProduct := range newResult.Nist {
+			if oldNistProduct.CPE.CPENameID == newNistProduct.CPE.CPENameID {
+				found = &newNistProduct
+				break
+			}
+		}
+		if found == nil {
+			// the product did not change
+			finalResult.Nist = append(finalResult.Nist, oldNistProduct)
+		} else {
+			// the product changed
+			finalResult.Nist = append(finalResult.Nist, *found)
+		}
+	}
+
+	for _, oldOpenCpeProduct := range oldResult.Opencpe {
+		var found *types.OpenCPEProduct
+		for _, newNistProduct := range newResult.Opencpe {
+			if oldOpenCpeProduct.Name == newNistProduct.Name {
+				found = &newNistProduct
+				break
+			}
+		}
+		if found == nil {
+			// the product did not change
+			finalResult.Opencpe = append(finalResult.Opencpe, oldOpenCpeProduct)
+		} else {
+			// the product changed
+			finalResult.Opencpe = append(finalResult.Opencpe, *found)
+		}
+	}
+	return &finalResult
 }
 
 func fetchCPEs(startDate string, endDate string, apiKey string) []types.NistProduct {
