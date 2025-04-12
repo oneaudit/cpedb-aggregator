@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkpad_hybrid_usb-c_with_usb-a_dock_firmware:1.0.35_v2:*:*:*:*:windows:*:*",
+        "cpeNameId": "91561938-5F67-4948-93A9-2352A6E45941",
+        "lastModified": "2023-08-19T04:12:53.843",
+        "created": "2023-06-12T20:25:57.837",
+        "titles": [
+          {
+            "title": "Lenovo ThinkPad Hybrid USB-C with USB-A Dock Firmware 1.0.35 V2 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkpad_hybrid_usb-c_with_usb-a_dock_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "56A5C007-DCEA-479E-A52E-D961C10E21C2",
+        "lastModified": "2023-08-19T04:12:53.843",
+        "created": "2023-06-12T20:25:57.837",
+        "titles": [
+          {
+            "title": "Lenovo ThinkPad Hybrid USB-C with USB-A Dock Firmware - for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:thinkpad_hybrid_usb-c_with_usb-a_dock_firmware:1.0.35_v2:*:*:*:*:windows:*:*",
+      "title": "Lenovo ThinkPad Hybrid USB-C with USB-A Dock Firmware 1.0.35 V2 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinkpad_hybrid_usb-c_with_usb-a_dock_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Lenovo ThinkPad Hybrid USB-C with USB-A Dock Firmware - for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
