@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dgs-1500_firmware:2.50.008:*:*:*:*:*:*:*",
+        "cpeNameId": "32CE8E4E-98A1-4023-B38E-1772606D915F",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2017-11-15T14:59:58.983",
+        "titles": [
+          {
+            "title": "D-Link DGS-1500 Firmware 2.50.008",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dgs-1500_firmware:2.50.008:*:*:*:*:*:*:*",
+            "cpeNameId": "9E188098-4B3A-40EA-AE8E-F2797280D709"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dgs-1500_firmware:2.10.002:*:*:*:*:*:*:*",
+        "cpeNameId": "37E905A4-C004-4356-BB02-DE1CD39F2032",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2017-11-15T14:59:58.983",
+        "titles": [
+          {
+            "title": "D-Link DGS-1500 Firmware 2.10.002",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dgs-1500_firmware:2.10.002:*:*:*:*:*:*:*",
+            "cpeNameId": "9733A069-5AAF-4CD5-8D46-021459EE0197"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dgs-1500_firmware:2.51.005:*:*:*:*:*:*:*",
+        "cpeNameId": "BD61B4F9-80E3-49EA-AE94-4488AB9ECB47",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2017-11-15T14:59:58.983",
+        "titles": [
+          {
+            "title": "D-Link DGS-1500 Firmware 2.51.005",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dgs-1500_firmware:2.51.005:*:*:*:*:*:*:*",
+            "cpeNameId": "4CDF97E3-7F18-4E2D-84EE-64B59A363A39"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dgs-1500_firmware:2.50.008:*:*:*:*:*:*:*",
+      "title": "D-Link DGS-1500 Firmware 2.50.008",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dgs-1500_firmware:2.50.008:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dgs-1500_firmware:2.10.002:*:*:*:*:*:*:*",
+      "title": "D-Link DGS-1500 Firmware 2.10.002",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dgs-1500_firmware:2.10.002:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dgs-1500_firmware:2.51.005:*:*:*:*:*:*:*",
+      "title": "D-Link DGS-1500 Firmware 2.51.005",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dgs-1500_firmware:2.51.005:*:*:*:*:*:*:*"
+    }
+  ]
+}

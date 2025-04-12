@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dart:http_server:0.9.6:*:*:*:*:*:*:*",
+        "cpeNameId": "96C323A0-F513-4B8D-94BA-998EE74478CF",
+        "lastModified": "2023-11-01T16:06:12.990",
+        "created": "2023-11-01T16:06:12.990",
+        "titles": [
+          {
+            "title": "Dart HTTP Server 0.9.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dart:http_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9AC6B48E-5878-4F07-BCFA-8ECA95D67092",
+        "lastModified": "2023-11-01T16:06:12.990",
+        "created": "2023-11-01T16:06:12.990",
+        "titles": [
+          {
+            "title": "Dart HTTP Server -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dart:http_server:0.9.6:*:*:*:*:*:*:*",
+      "title": "Dart HTTP Server 0.9.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dart:http_server:-:*:*:*:*:*:*:*",
+      "title": "Dart HTTP Server -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

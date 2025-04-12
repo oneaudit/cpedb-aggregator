@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-5010_firmware:1.12.03:*:*:*:*:*:*:*",
+        "cpeNameId": "B9D27065-8665-4E7A-BD52-4E636C627298",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-11-01T14:34:49.947",
+        "titles": [
+          {
+            "title": "D-link DCS-5010 Firmware 1.12.03",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-5010_firmware:1.12.03:*:*:*:*:*:*:*",
+            "cpeNameId": "78E2E11D-2AC6-4D17-9CEB-79EE20834E45"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-5010_firmware:1.14.09:*:*:*:*:*:*:*",
+        "cpeNameId": "7E5CF193-9D67-402A-9685-124247FC6F86",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-11-01T14:34:50.010",
+        "titles": [
+          {
+            "title": "D-Link DCS-5010 Firmware 1.14.09",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-5010_firmware:1.14.09:*:*:*:*:*:*:*",
+            "cpeNameId": "55500436-2A2C-4D06-A501-0EE09877ABA3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dcs-5010_firmware:1.12.03:*:*:*:*:*:*:*",
+      "title": "D-link DCS-5010 Firmware 1.12.03",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-5010_firmware:1.12.03:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dcs-5010_firmware:1.14.09:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-5010 Firmware 1.14.09",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-5010_firmware:1.14.09:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-640l_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "36A7D567-2644-4648-8A25-75572FEB099B",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-12-02T17:57:06.890",
+        "titles": [
+          {
+            "title": "D-Link DIR-640L Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-640l_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "3DCD44D8-5392-447F-92BD-63CEC1AE0683"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-640l_firmware:1.02:*:*:*:*:*:*:*",
+        "cpeNameId": "8C2E0A20-5590-4748-8253-91FA556FA4D7",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-12-02T17:57:07.060",
+        "titles": [
+          {
+            "title": "D-Link DIR-640L Firmware 1.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-640l_firmware:1.02:*:*:*:*:*:*:*",
+            "cpeNameId": "BCD4DB83-4117-44CE-AB36-B64040E61FFA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dir-640l_firmware:-:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-640L Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-640l_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dir-640l_firmware:1.02:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-640L Firmware 1.02",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-640l_firmware:1.02:*:*:*:*:*:*:*"
+    }
+  ]
+}

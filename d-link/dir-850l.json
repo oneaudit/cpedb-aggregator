@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-850l:b1:*:*:*:*:*:*:*",
+        "cpeNameId": "FAA3DAE2-0127-45E3-A24B-4E10455BAEE2",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2016-08-26T16:05:36.747",
+        "titles": [
+          {
+            "title": "D-Link DIR-850L B1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-850l:b1:*:*:*:*:*:*:*",
+            "cpeNameId": "2F2859D6-22A0-47A1-A773-7D54FD4F0351"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-850l:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0BEB507A-450E-4A9B-8BAA-165B4B7EEDB0",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2017-09-18T18:05:15.437",
+        "titles": [
+          {
+            "title": "D-Link DIR-850L",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-850l:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BFE63809-E754-4F6E-AFAB-FFFA0316C0A7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-850l:a1:*:*:*:*:*:*:*",
+        "cpeNameId": "3000503C-026D-4D5F-A0A2-DC4007012CE2",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2018-04-24T14:04:19.437",
+        "titles": [
+          {
+            "title": "D-Link DIR-850L A1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-850l:a1:*:*:*:*:*:*:*",
+            "cpeNameId": "D87F7B71-4E7C-482A-A669-1BDF036E3CE4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:d-link:dir-850l:b1:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-850L B1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-850l:b1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dir-850l:-:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-850L",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-850l:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dir-850l:a1:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-850L A1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-850l:a1:*:*:*:*:*:*:*"
+    }
+  ]
+}

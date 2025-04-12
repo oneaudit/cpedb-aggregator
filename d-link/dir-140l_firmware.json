@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-140l_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "637E98EE-2809-4100-A62A-87AAC8933C62",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-12-02T17:57:06.657",
+        "titles": [
+          {
+            "title": "D-Link DIR-140L Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-140l_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "729F47BB-CFD2-4E3C-9A13-53870BA1F43F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-140l_firmware:1.02:*:*:*:*:*:*:*",
+        "cpeNameId": "8C6C57B7-E151-40D6-B00A-901C6378723B",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-12-02T17:57:06.827",
+        "titles": [
+          {
+            "title": "D-Link DIR-140L Firmware 1.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-140l_firmware:1.02:*:*:*:*:*:*:*",
+            "cpeNameId": "B260E98B-23E6-4840-BA55-F6DB974648A9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dir-140l_firmware:-:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-140L Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-140l_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dir-140l_firmware:1.02:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-140L Firmware 1.02",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-140l_firmware:1.02:*:*:*:*:*:*:*"
+    }
+  ]
+}

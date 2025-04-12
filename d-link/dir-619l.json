@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-619l:a1:*:*:*:*:*:*:*",
+        "cpeNameId": "E4E2F38C-CAE7-4FF7-BD4E-BCC2B4932E4C",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2015-05-04T14:51:43.577",
+        "titles": [
+          {
+            "title": "D-Link Dir-619L A1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-619l:a1:*:*:*:*:*:*:*",
+            "cpeNameId": "82D29E16-6221-4614-8E0E-11481BFFD950"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-619l:b1:*:*:*:*:*:*:*",
+        "cpeNameId": "E5E78B17-159A-427B-88EB-479233ED1E63",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2015-05-04T14:51:43.577",
+        "titles": [
+          {
+            "title": "D-Link Dir-619L B1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-619l:b1:*:*:*:*:*:*:*",
+            "cpeNameId": "C1AB52DA-EA62-4017-A5FD-3E9CAE0DD0F0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-619l:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3DD9DDAE-A9FE-43E1-B9E1-A67AB843BBC4",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2018-12-31T17:35:48.283",
+        "titles": [
+          {
+            "title": "D-Link DIR-619L",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-619l:-:*:*:*:*:*:*:*",
+            "cpeNameId": "63CAD339-4107-4C27-94F1-B654254B3779"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:d-link:dir-619l:a1:*:*:*:*:*:*:*",
+      "title": "D-Link Dir-619L A1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-619l:a1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dir-619l:b1:*:*:*:*:*:*:*",
+      "title": "D-Link Dir-619L B1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-619l:b1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dir-619l:-:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-619L",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-619l:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

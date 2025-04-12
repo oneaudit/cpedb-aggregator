@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-815_firmware:2.07.b01:*:*:*:*:*:*:*",
+        "cpeNameId": "F15F10D5-A2D2-4EED-BAAF-4194610E5243",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2020-05-28T18:24:11.957",
+        "titles": [
+          {
+            "title": "D-Link DIR-815 Firmware 2.07.b01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-815_firmware:2.07.b01:*:*:*:*:*:*:*",
+            "cpeNameId": "3ADE9CB1-AE91-4C2B-A52D-36DFFB5B17B5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-815_firmware:2.03.b02:*:*:*:*:*:*:*",
+        "cpeNameId": "DF2A60AD-B3A1-4299-B34B-72B8B63B0DE0",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2020-09-18T16:43:06.947",
+        "titles": [
+          {
+            "title": "D-Link DIR-815 Firmware 2.03.b02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-815_firmware:2.03.b02:*:*:*:*:*:*:*",
+            "cpeNameId": "B667BDF9-D618-44BA-999A-B456322408A2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dir-815_firmware:2.07.b01:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-815 Firmware 2.07.b01",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-815_firmware:2.07.b01:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dir-815_firmware:2.03.b02:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-815 Firmware 2.03.b02",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-815_firmware:2.03.b02:*:*:*:*:*:*:*"
+    }
+  ]
+}

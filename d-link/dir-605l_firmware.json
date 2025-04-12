@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-605l_firmware:1.13:*:*:*:*:*:*:*",
+        "cpeNameId": "B223BEE5-843C-4D69-8F27-BE77C46DCB63",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2015-05-04T14:51:43.577",
+        "titles": [
+          {
+            "title": "D-Link Dir-605L Firmware 1.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-605l_firmware:1.13:*:*:*:*:*:*:*",
+            "cpeNameId": "E9B8C3C4-EB7B-4057-8E31-067DE7000DDB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-605l_firmware:2.04:*:*:*:*:*:*:*",
+        "cpeNameId": "C5E6C6A1-9E56-46CE-89D8-F2BBD6876E07",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2015-05-04T14:51:43.577",
+        "titles": [
+          {
+            "title": "D-Link Dir-605L Firmware 2.04",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-605l_firmware:2.04:*:*:*:*:*:*:*",
+            "cpeNameId": "FF276AF9-DD32-46D6-BBA6-9783D610DEE2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dir-605l_firmware:1.13:*:*:*:*:*:*:*",
+      "title": "D-Link Dir-605L Firmware 1.13",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-605l_firmware:1.13:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dir-605l_firmware:2.04:*:*:*:*:*:*:*",
+      "title": "D-Link Dir-605L Firmware 2.04",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-605l_firmware:2.04:*:*:*:*:*:*:*"
+    }
+  ]
+}

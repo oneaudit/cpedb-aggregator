@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-932l_camera_firmware:1.02:*:*:*:*:*:*:*",
+        "cpeNameId": "0FE80BF8-13B9-47A4-A460-263E92FFF743",
+        "lastModified": "2015-03-18T15:06:39.103",
+        "created": "2012-12-26T16:33:21.957",
+        "titles": [
+          {
+            "title": "D-Link DCS-932L Camera Firmware 1.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:d-link:dcs-932l_firmware:1.02:*:*:*:*:*:*:*",
+            "cpeNameId": "1155542D-2FCC-4372-8103-331C09279316"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-932l_camera_firmware:1.00:*:*:*:*:*:*:*",
+        "cpeNameId": "3BC11589-712B-4E11-9DE0-9C15C7C8615E",
+        "lastModified": "2015-03-18T15:01:27.637",
+        "created": "2012-12-26T21:09:01.283",
+        "titles": [
+          {
+            "title": "D-Link DCS-932L Camera Firmware 1.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:d-link:dcs-932l_firmware:1.00:*:*:*:*:*:*:*",
+            "cpeNameId": "FBA565CF-C6A7-4221-84EA-487DAFD06B32"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dcs-932l_camera_firmware:1.02:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-932L Camera Firmware 1.02",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:d-link:dcs-932l_firmware:1.02:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dcs-932l_camera_firmware:1.00:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-932L Camera Firmware 1.00",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:d-link:dcs-932l_firmware:1.00:*:*:*:*:*:*:*"
+    }
+  ]
+}

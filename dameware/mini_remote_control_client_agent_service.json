@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dameware:mini_remote_control_client_agent_service:6.9.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0C3DFC32-0A08-4669-99B2-70382E55C597",
+        "lastModified": "2019-10-22T15:20:46.427",
+        "created": "2012-05-08T13:52:42.223",
+        "titles": [
+          {
+            "title": "Dameware Mini Remote Control Client Agent Service 6.9.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:solarwinds:dameware_mini_remote_control_client_agent_service:6.9.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "7C027ED1-0FA0-4179-86F5-100454A5AD75"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dameware:mini_remote_control_client_agent_service:6.9.0.0:*:*:*:*:*:*:*",
+      "title": "Dameware Mini Remote Control Client Agent Service 6.9.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:solarwinds:dameware_mini_remote_control_client_agent_service:6.9.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

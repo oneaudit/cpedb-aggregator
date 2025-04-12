@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dva-2800:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6FA548FE-4AE6-4B37-9F4E-5871E71FA257",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2021-02-16T15:21:25.717",
+        "titles": [
+          {
+            "title": "D-Link DVA-2800",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dva-2800:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B6DD213F-8E42-4E1B-9B3B-900328A327EB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dva-2800:revision_t:*:*:*:*:*:*:*",
+        "cpeNameId": "C9F24310-0BA0-4F86-90F7-1268AABAE297",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2021-02-16T15:32:57.227",
+        "titles": [
+          {
+            "title": "D-Link DVA-2800 RT",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dva-2800:revision_t:*:*:*:*:*:*:*",
+            "cpeNameId": "BDBE312E-5CEE-416B-A5E8-4438BBD020ED"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:d-link:dva-2800:-:*:*:*:*:*:*:*",
+      "title": "D-Link DVA-2800",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dva-2800:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dva-2800:revision_t:*:*:*:*:*:*:*",
+      "title": "D-Link DVA-2800 RT",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dva-2800:revision_t:*:*:*:*:*:*:*"
+    }
+  ]
+}

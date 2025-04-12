@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-5009_firmware:1.07.05:*:*:*:*:*:*:*",
+        "cpeNameId": "9616F879-2C69-4635-9DA1-ED58D215F6E1",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-11-01T14:34:49.807",
+        "titles": [
+          {
+            "title": "D-link DCS-5009 Firmware 1.07.05",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-5009_firmware:1.07.05:*:*:*:*:*:*:*",
+            "cpeNameId": "837501B5-762B-4DBE-8328-ACDBC573F646"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-5009_firmware:1.08.11:*:*:*:*:*:*:*",
+        "cpeNameId": "B468CC7F-6911-4931-8047-8403FC86CB16",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-11-01T14:34:49.887",
+        "titles": [
+          {
+            "title": "D-Link DCS-5009 Firmware 1.08.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-5009_firmware:1.08.11:*:*:*:*:*:*:*",
+            "cpeNameId": "3C690BEB-62D0-4098-A5E7-D4F377122B48"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dcs-5009_firmware:1.07.05:*:*:*:*:*:*:*",
+      "title": "D-link DCS-5009 Firmware 1.07.05",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-5009_firmware:1.07.05:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dcs-5009_firmware:1.08.11:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-5009 Firmware 1.08.11",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-5009_firmware:1.08.11:*:*:*:*:*:*:*"
+    }
+  ]
+}

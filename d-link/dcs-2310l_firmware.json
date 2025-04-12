@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-2310l_firmware:1.08.01:*:*:*:*:*:*:*",
+        "cpeNameId": "A3552CF8-EE9A-4E28-98AB-3C657C2B867B",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2017-05-08T19:54:01.880",
+        "titles": [
+          {
+            "title": "D-Link DCS-2310L Firmware 1.08.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-2310l_firmware:1.08.01:*:*:*:*:*:*:*",
+            "cpeNameId": "FB146C6C-8EAF-49B5-BC13-7CF588CDE3B6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-2310l_firmware:2.03.00:*:*:*:*:*:*:*",
+        "cpeNameId": "D0397291-BE52-4DB5-AF49-A5941866F704",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2017-05-08T19:54:01.927",
+        "titles": [
+          {
+            "title": "D-Link DCS-2310L Firmware 2.03.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-2310l_firmware:2.03.00:*:*:*:*:*:*:*",
+            "cpeNameId": "D5A93F2B-59B7-4C7B-8B2D-577F87193EED"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dcs-2310l_firmware:1.08.01:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-2310L Firmware 1.08.01",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-2310l_firmware:1.08.01:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dcs-2310l_firmware:2.03.00:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-2310L Firmware 2.03.00",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-2310l_firmware:2.03.00:*:*:*:*:*:*:*"
+    }
+  ]
+}

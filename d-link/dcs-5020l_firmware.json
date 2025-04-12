@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-5020l_firmware:1.13.05:*:*:*:*:*:*:*",
+        "cpeNameId": "4954C02B-9041-4691-A874-F90709384F2E",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2017-05-08T19:54:02.317",
+        "titles": [
+          {
+            "title": "D-Link DCS-5020L Firmware 1.13.05",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-5020l_firmware:1.13.05:*:*:*:*:*:*:*",
+            "cpeNameId": "07EE5AF2-57AB-4185-AB2B-ECECAC34AF1B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-5020l_firmware:1.14.09:*:*:*:*:*:*:*",
+        "cpeNameId": "1CE542DA-75B4-4FF0-BD14-CBAFD9AB694E",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-11-01T14:34:50.087",
+        "titles": [
+          {
+            "title": "D-Link DCS-5020L Firmware 1.14.09",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-5020l_firmware:1.14.09:*:*:*:*:*:*:*",
+            "cpeNameId": "BF618199-B877-488C-BBE9-1CEBF0D9B70B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dcs-5020l_firmware:1.13.05:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-5020L Firmware 1.13.05",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-5020l_firmware:1.13.05:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dcs-5020l_firmware:1.14.09:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-5020L Firmware 1.14.09",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-5020l_firmware:1.14.09:*:*:*:*:*:*:*"
+    }
+  ]
+}

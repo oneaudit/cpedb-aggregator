@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-601_firmware:1.02na:*:*:*:*:*:*:*",
+        "cpeNameId": "73460C8E-2D7D-4FC1-AAE0-2B00C54D4D02",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2014-06-23T13:30:10.787",
+        "titles": [
+          {
+            "title": "D-Link DIR-601 Wireless N150 Home Router firmware 1.02NA",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-601_firmware:1.02na:*:*:*:*:*:*:*",
+            "cpeNameId": "775D574F-4735-4747-B4AC-3A7BDB8E2C30"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-601_firmware:2.02na:*:*:*:*:*:*:*",
+        "cpeNameId": "5035C543-DA62-46F7-A897-7607793B819C",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2020-08-11T14:34:20.650",
+        "titles": [
+          {
+            "title": "D-Link DIR-601 Firmware 2.02NA",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-601_firmware:2.02na:*:*:*:*:*:*:*",
+            "cpeNameId": "B04093FF-7DDC-4F02-8C3D-9A3CE5B4DBDC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dir-601_firmware:1.02na:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-601 Wireless N150 Home Router firmware 1.02NA",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-601_firmware:1.02na:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dir-601_firmware:2.02na:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-601 Firmware 2.02NA",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-601_firmware:2.02na:*:*:*:*:*:*:*"
+    }
+  ]
+}

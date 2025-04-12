@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-895l:a1:*:*:*:*:*:*:*",
+        "cpeNameId": "CD4F2A3A-0453-4AE4-BF01-2567B22175A6",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2016-08-26T16:05:36.747",
+        "titles": [
+          {
+            "title": "D-Link DIR-895L A1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-895l:a1:*:*:*:*:*:*:*",
+            "cpeNameId": "A2FCA783-20EA-4489-B4A4-8BF176E04FB7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-895l:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5DBD27B6-A250-4B60-AB8D-80F673C296AC",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2018-09-07T17:35:45.183",
+        "titles": [
+          {
+            "title": "D-Link DIR-895L",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-895l:-:*:*:*:*:*:*:*",
+            "cpeNameId": "440DDF6D-142B-46EC-8FDE-D4050B88799A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:d-link:dir-895l:a1:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-895L A1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-895l:a1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dir-895l:-:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-895L",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-895l:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

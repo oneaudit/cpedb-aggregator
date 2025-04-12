@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-878:1.12b01:*:*:*:*:*:*:*",
+        "cpeNameId": "932DCCAE-15F1-4273-8A5A-59C6E6037EA7",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2019-02-25T17:57:14.917",
+        "titles": [
+          {
+            "title": "D-Link Dir-878 1.12b01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-878:1.12b01:*:*:*:*:*:*:*",
+            "cpeNameId": "9F7CCF29-5493-4601-A874-6A20D646F7D4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-878:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7E1E25C0-6031-4DFC-BC0D-70E151EAB985",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2019-02-26T17:30:46.433",
+        "titles": [
+          {
+            "title": "D-link DIR-878",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-878:-:*:*:*:*:*:*:*",
+            "cpeNameId": "C1F630FB-B5D9-4471-BB90-CB56ABCA4A62"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-878:ax:*:*:*:*:*:*:*",
+        "cpeNameId": "662DC0D5-F0D5-4033-A88B-64FCED9B35EE",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2021-04-07T14:56:13.170",
+        "titles": [
+          {
+            "title": "D-Link DIR-878 Ax",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-878:ax:*:*:*:*:*:*:*",
+            "cpeNameId": "09E33AF5-AA48-43D9-85B5-8F5B16E2E3D5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dir-878:1.12b01:*:*:*:*:*:*:*",
+      "title": "D-Link Dir-878 1.12b01",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-878:1.12b01:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dir-878:-:*:*:*:*:*:*:*",
+      "title": "D-link DIR-878",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-878:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dir-878:ax:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-878 Ax",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-878:ax:*:*:*:*:*:*:*"
+    }
+  ]
+}

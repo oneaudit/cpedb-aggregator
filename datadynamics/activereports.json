@@ -1,0 +1,143 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:datadynamics:activereports:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9AB473BE-4215-4A53-899D-22130E818855",
+        "lastModified": "2008-03-25T19:15:20.320",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Data Dynamics ActiveReports",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:datadynamics:activereports:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DAF4F98E-F86D-42D9-BD3E-1EEA7C8936B7",
+        "lastModified": "2008-03-25T19:15:20.367",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Data Dynamics ActiveReports 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:datadynamics:activereports:2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "8AD0B3C3-63EF-4043-A80A-48ACBB3CF618",
+        "lastModified": "2008-03-25T19:15:20.773",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Data Dynamics ActiveReports 2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:datadynamics:activereports:2.5.0.1314:*:*:*:*:*:*:*",
+        "cpeNameId": "3849864F-E69E-489A-B24C-16BC47421864",
+        "lastModified": "2008-11-17T15:09:34.797",
+        "created": "2008-11-17T15:09:34.797",
+        "titles": [
+          {
+            "title": "Data Dynamics ActiveReports 2.5.0.1314",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:datadynamics:activereports:2.5.0.1314:_nil_:pro:*:*:*:*:*",
+        "cpeNameId": "C02D30FC-230E-4565-A5D3-69112DB35432",
+        "lastModified": "2009-03-05T17:19:19.500",
+        "created": "2008-11-17T16:00:24.487",
+        "titles": [
+          {
+            "title": "Data Dynamics ActiveReports 2.5.0.1314 Professional Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:datadynamics:activereports:2.5.0.1314:-:pro:*:*:*:*:*",
+            "cpeNameId": "C8BA2A60-C64F-4254-85D9-34EB572D5C36"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:datadynamics:activereports:2.5.0.1314:-:pro:*:*:*:*:*",
+        "cpeNameId": "C8BA2A60-C64F-4254-85D9-34EB572D5C36",
+        "lastModified": "2009-03-05T17:19:02.577",
+        "created": "2009-03-05T17:19:02.577",
+        "titles": [
+          {
+            "title": "Data Dynamics ActiveReports 2.5.0.1314 Professional Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:datadynamics:activereports:-:*:*:*:*:*:*:*",
+      "title": "Data Dynamics ActiveReports",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:datadynamics:activereports:2.0:*:*:*:*:*:*:*",
+      "title": "Data Dynamics ActiveReports 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:datadynamics:activereports:2.5:*:*:*:*:*:*:*",
+      "title": "Data Dynamics ActiveReports 2.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:datadynamics:activereports:2.5.0.1314:*:*:*:*:*:*:*",
+      "title": "Data Dynamics ActiveReports 2.5.0.1314",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:datadynamics:activereports:2.5.0.1314:_nil_:pro:*:*:*:*:*",
+      "title": "Data Dynamics ActiveReports 2.5.0.1314 Professional Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:datadynamics:activereports:2.5.0.1314:-:pro:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:datadynamics:activereports:2.5.0.1314:-:pro:*:*:*:*:*",
+      "title": "Data Dynamics ActiveReports 2.5.0.1314 Professional Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

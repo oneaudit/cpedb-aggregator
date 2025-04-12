@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-942l_firmware:1.27:*:*:*:*:*:*:*",
+        "cpeNameId": "8492C977-91D1-4ADA-83C5-0B8C5DACC072",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2017-05-08T19:54:03.240",
+        "titles": [
+          {
+            "title": "D-Link DCS-942L Firmware 1.27",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-942l_firmware:1.27:*:*:*:*:*:*:*",
+            "cpeNameId": "26B1AC08-333F-4B6A-9579-C40E0923535D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-942l_firmware:2.11.03:*:*:*:*:*:*:*",
+        "cpeNameId": "1FD39D0B-54DB-4E39-82FA-745B6FF8A50F",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2017-05-08T19:54:03.287",
+        "titles": [
+          {
+            "title": "D-Link DCS-942L Firmware 2.11.03",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-942l_firmware:2.11.03:*:*:*:*:*:*:*",
+            "cpeNameId": "BA39F61B-2010-4E10-A3D9-A169F1AAD595"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dcs-942l_firmware:1.27:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-942L Firmware 1.27",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-942l_firmware:1.27:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dcs-942l_firmware:2.11.03:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-942L Firmware 2.11.03",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-942l_firmware:2.11.03:*:*:*:*:*:*:*"
+    }
+  ]
+}

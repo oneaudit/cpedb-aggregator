@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-1935_firmware:1.03:*:*:*:*:*:*:*",
+        "cpeNameId": "268B8E58-A949-45EB-866C-88B755A0EA55",
+        "lastModified": "2023-11-08T13:29:59.940",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "D-Link Dir-1935 Firmware 1.03",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-1935_firmware:1.03:*:*:*:*:*:*:*",
+            "cpeNameId": "9D17DC41-895E-4DD1-A5FB-94DBFE3EDEC7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-1935_firmware:1.03:b1:*:*:*:*:*:*",
+        "cpeNameId": "AF6877ED-2C92-4099-9AB6-FB599018A969",
+        "lastModified": "2023-11-08T13:29:59.940",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "D-Link Dir-1935 Firmware 1.03 B1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-1935_firmware:1.03:b1:*:*:*:*:*:*",
+            "cpeNameId": "857251A7-7675-48C9-A355-4D7EC4149BDC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-1935_firmware:1.03:b2:*:*:*:*:*:*",
+        "cpeNameId": "1CA3E2A2-6D2F-497C-94E7-5B03AA9A45FA",
+        "lastModified": "2023-11-08T13:29:59.940",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "D-Link Dir-1935 Firmware 1.03 B2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-1935_firmware:1.03:b2:*:*:*:*:*:*",
+            "cpeNameId": "546A611C-BBFD-4E86-9724-24A37B082C05"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dir-1935_firmware:1.03:*:*:*:*:*:*:*",
+      "title": "D-Link Dir-1935 Firmware 1.03",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-1935_firmware:1.03:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dir-1935_firmware:1.03:b1:*:*:*:*:*:*",
+      "title": "D-Link Dir-1935 Firmware 1.03 B1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-1935_firmware:1.03:b1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dir-1935_firmware:1.03:b2:*:*:*:*:*:*",
+      "title": "D-Link Dir-1935 Firmware 1.03 B2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-1935_firmware:1.03:b2:*:*:*:*:*:*"
+    }
+  ]
+}

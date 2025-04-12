@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dameware:remote_support:10.0.0.372:*:*:*:*:*:*:*",
+        "cpeNameId": "62641F71-D81C-41AB-93B2-C5D8EDE8EC9A",
+        "lastModified": "2019-10-22T12:45:20.860",
+        "created": "2014-03-20T18:43:16.683",
+        "titles": [
+          {
+            "title": "DameWare Remote Support 10.0.0.372",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:solarwinds:dameware_remote_support:10.0.0.372:*:*:*:*:*:*:*",
+            "cpeNameId": "FEDAFE38-67F0-4394-A0D1-CAFE80FBB15E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dameware:remote_support:9.0.1.247:*:*:*:*:*:*:*",
+        "cpeNameId": "2F15C5C3-02D2-4F09-8782-3D9C325E8B5B",
+        "lastModified": "2019-10-22T12:45:19.347",
+        "created": "2014-03-20T18:43:16.840",
+        "titles": [
+          {
+            "title": "DameWare Remote Support 9.0.1.247",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:solarwinds:dameware_remote_support:9.0.1.247:*:*:*:*:*:*:*",
+            "cpeNameId": "AFC45244-C33D-4C39-8669-E93B456C8E5A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dameware:remote_support:10.0.0.372:*:*:*:*:*:*:*",
+      "title": "DameWare Remote Support 10.0.0.372",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:solarwinds:dameware_remote_support:10.0.0.372:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:dameware:remote_support:9.0.1.247:*:*:*:*:*:*:*",
+      "title": "DameWare Remote Support 9.0.1.247",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:solarwinds:dameware_remote_support:9.0.1.247:*:*:*:*:*:*:*"
+    }
+  ]
+}

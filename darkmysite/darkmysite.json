@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:darkmysite:darkmysite:1.2.8:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "1CA64FA2-73DF-44BA-A4D0-88D8456952DA",
+        "lastModified": "2025-01-14T17:20:39.983",
+        "created": "2025-01-14T17:20:39.983",
+        "titles": [
+          {
+            "title": "DarkMySite 1.2.8 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:darkmysite:darkmysite:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "E1592A87-9037-4FC5-AB96-621D2F5075F4",
+        "lastModified": "2025-01-14T17:20:39.983",
+        "created": "2025-01-14T17:20:39.983",
+        "titles": [
+          {
+            "title": "DarkMySite for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:darkmysite:darkmysite:1.2.8:*:*:*:*:wordpress:*:*",
+      "title": "DarkMySite 1.2.8 for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:darkmysite:darkmysite:-:*:*:*:*:wordpress:*:*",
+      "title": "DarkMySite for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

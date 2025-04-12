@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dairy_farm_shop_management_system_project:dairy_farm_shop_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "38D235C4-04EC-4A2C-A854-0F14AFA3FAF0",
+        "lastModified": "2023-10-04T17:35:33.953",
+        "created": "2022-02-15T17:41:22.280",
+        "titles": [
+          {
+            "title": "Dairy Farm Shop Management System Project Dairy Farm Shop Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:dairy_farm_shop_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3BC2743F-26D4-4C29-A9F5-3C5C8355D75B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dairy_farm_shop_management_system_project:dairy_farm_shop_management_system:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "E6D48CCC-B6FB-4B14-8421-2FD25947A2DF",
+        "lastModified": "2023-10-04T17:35:33.953",
+        "created": "2023-09-28T16:39:47.113",
+        "titles": [
+          {
+            "title": "Dairy Farm Shop Management System Project Dairy Farm Shop Management System 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:dairy_farm_shop_management_system:1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "05AEFDBF-1329-4A89-996B-18D1420877F4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dairy_farm_shop_management_system_project:dairy_farm_shop_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Dairy Farm Shop Management System Project Dairy Farm Shop Management System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:dairy_farm_shop_management_system:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:dairy_farm_shop_management_system_project:dairy_farm_shop_management_system:1.1:*:*:*:*:*:*:*",
+      "title": "Dairy Farm Shop Management System Project Dairy Farm Shop Management System 1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:dairy_farm_shop_management_system:1.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

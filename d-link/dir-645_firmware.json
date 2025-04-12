@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-645_firmware:1.04:b11:*:*:*:*:*:*",
+        "cpeNameId": "6900B042-52AA-4C06-B6F7-29C355583C24",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2014-07-08T13:03:26.220",
+        "titles": [
+          {
+            "title": "D-Link DIR-645 firmware 1.05B11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-645_firmware:1.04:b11:*:*:*:*:*:*",
+            "cpeNameId": "7269E4BF-2983-4BCC-AF45-37EA5C935116"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-645_firmware:1.03:b08:*:*:*:*:*:*",
+        "cpeNameId": "E67DD220-1B12-4316-9FC4-9238E522BEE1",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2014-07-08T13:03:26.687",
+        "titles": [
+          {
+            "title": "D-Link DIR-645 firmware 1.03B08",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-645_firmware:1.03:b08:*:*:*:*:*:*",
+            "cpeNameId": "6FF07F79-9900-45BB-9905-8693199B7D0F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dir-645_firmware:1.04:b11:*:*:*:*:*:*",
+      "title": "D-Link DIR-645 firmware 1.05B11",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-645_firmware:1.04:b11:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dir-645_firmware:1.03:b08:*:*:*:*:*:*",
+      "title": "D-Link DIR-645 firmware 1.03B08",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-645_firmware:1.03:b08:*:*:*:*:*:*"
+    }
+  ]
+}

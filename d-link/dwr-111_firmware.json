@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dwr-111_firmware:1.00:*:*:*:*:*:*:*",
+        "cpeNameId": "9F680F29-5A9F-4DA6-B148-537F27088851",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-12-02T17:49:31.163",
+        "titles": [
+          {
+            "title": "D-Link DWR-111 Firmware 1.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dwr-111_firmware:1.00:*:*:*:*:*:*:*",
+            "cpeNameId": "7F64ADF6-2DBC-4652-AB2C-6A875EA878B8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dwr-111_firmware:1.01:*:*:*:*:*:*:*",
+        "cpeNameId": "23F0E904-4E98-4953-BEEF-8F7F7B29702E",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-12-02T17:49:31.287",
+        "titles": [
+          {
+            "title": "D-Link DWR-111 Firmware 1.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dwr-111_firmware:1.01:*:*:*:*:*:*:*",
+            "cpeNameId": "0A224CBF-A38E-4DA2-A5B6-52D9F7890DBF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dwr-111_firmware:1.00:*:*:*:*:*:*:*",
+      "title": "D-Link DWR-111 Firmware 1.00",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dwr-111_firmware:1.00:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dwr-111_firmware:1.01:*:*:*:*:*:*:*",
+      "title": "D-Link DWR-111 Firmware 1.01",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dwr-111_firmware:1.01:*:*:*:*:*:*:*"
+    }
+  ]
+}

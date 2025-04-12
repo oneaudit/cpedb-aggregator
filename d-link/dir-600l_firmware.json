@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-600l_firmware:1.15:*:*:*:*:*:*:*",
+        "cpeNameId": "0D02CA69-9125-4AB7-ACA9-3476A3122B54",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2015-05-04T14:51:43.577",
+        "titles": [
+          {
+            "title": "D-Link Dir-600L Firmware 1.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-600l_firmware:1.15:*:*:*:*:*:*:*",
+            "cpeNameId": "839B2C2A-26B5-4425-8E1C-55CB5DA2DA43"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-600l_firmware:2.05:*:*:*:*:*:*:*",
+        "cpeNameId": "DACAC136-F826-487C-9F62-2DCC64D3B8B8",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2015-05-04T14:51:43.577",
+        "titles": [
+          {
+            "title": "D-Link Dir-600L Firmware 2.05",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-600l_firmware:2.05:*:*:*:*:*:*:*",
+            "cpeNameId": "312F536D-F3C3-4014-95BA-086B0E816062"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dir-600l_firmware:1.15:*:*:*:*:*:*:*",
+      "title": "D-Link Dir-600L Firmware 1.15",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-600l_firmware:1.15:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dir-600l_firmware:2.05:*:*:*:*:*:*:*",
+      "title": "D-Link Dir-600L Firmware 2.05",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-600l_firmware:2.05:*:*:*:*:*:*:*"
+    }
+  ]
+}

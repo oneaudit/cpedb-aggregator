@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dsp-w215_firmware:1.01:b06:*:*:*:*:*:*",
+        "cpeNameId": "D3FF5A89-345D-42E6-9124-26AE6422DAD9",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2014-06-03T11:15:03.247",
+        "titles": [
+          {
+            "title": "D-LINK DSP-W215 firmware 1.01 b06",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dsp-w215_firmware:1.01:b06:*:*:*:*:*:*",
+            "cpeNameId": "FD1911D9-3939-4090-ACF0-825A7C4DB6A3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dsp-w215_firmware:1.26b03:*:*:*:*:*:*:*",
+        "cpeNameId": "47DC88F6-D289-46B6-9C74-4571737BC8B6",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2020-05-20T19:33:48.610",
+        "titles": [
+          {
+            "title": "D-LINK DSP-W215 Firmware 1.26b03",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dsp-w215_firmware:1.26b03:*:*:*:*:*:*:*",
+            "cpeNameId": "5C9C7C98-7D3C-4776-ACC7-1A4BABDBAE36"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dsp-w215_firmware:1.01:b06:*:*:*:*:*:*",
+      "title": "D-LINK DSP-W215 firmware 1.01 b06",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dsp-w215_firmware:1.01:b06:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dsp-w215_firmware:1.26b03:*:*:*:*:*:*:*",
+      "title": "D-LINK DSP-W215 Firmware 1.26b03",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dsp-w215_firmware:1.26b03:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dsr-150n_firmware:1.05b64:*:*:*:*:*:*:*",
+        "cpeNameId": "3E90DB7B-DB13-420F-AB9E-A1507E9ECCE7",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2013-12-19T18:23:51.107",
+        "titles": [
+          {
+            "title": "D-Link DSR-150N Firmware 1.05B64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dsr-150n_firmware:1.05b64:*:*:*:*:*:*:*",
+            "cpeNameId": "4B281779-462E-4321-BC90-AF9B56E63060"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dsr-150n_firmware:1.05b48:*:*:*:*:*:*:*",
+        "cpeNameId": "7FD4E0DC-9D13-4D81-8A34-13B64F9A046C",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2013-12-19T18:23:51.217",
+        "titles": [
+          {
+            "title": "D-Link DSR-150N Firmware 1.05B48",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dsr-150n_firmware:1.05b48:*:*:*:*:*:*:*",
+            "cpeNameId": "CC04F9FD-23D9-4725-9C96-4C8F5DAD3D01"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dsr-150n_firmware:1.05b64:*:*:*:*:*:*:*",
+      "title": "D-Link DSR-150N Firmware 1.05B64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dsr-150n_firmware:1.05b64:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dsr-150n_firmware:1.05b48:*:*:*:*:*:*:*",
+      "title": "D-Link DSR-150N Firmware 1.05B48",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dsr-150n_firmware:1.05b48:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-605l:b1:*:*:*:*:*:*:*",
+        "cpeNameId": "994BABCF-F4B6-4FDC-9C89-62EB0BEE15CE",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2015-05-04T14:51:43.577",
+        "titles": [
+          {
+            "title": "D-Link Dir-605L B1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-605l:b1:*:*:*:*:*:*:*",
+            "cpeNameId": "5A405333-46E3-427E-90BE-BDE7DFB12787"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-605l:a1:*:*:*:*:*:*:*",
+        "cpeNameId": "3AB79D91-4239-4944-8E5A-BA3D8997A98A",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2015-05-04T14:51:43.577",
+        "titles": [
+          {
+            "title": "D-Link Dir-605L A1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-605l:a1:*:*:*:*:*:*:*",
+            "cpeNameId": "F0258C2C-C5FC-4919-99A1-17E312041C27"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-605l:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3B102B38-BBBA-4EF1-A440-3438C50D3AF4",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2018-12-31T17:35:48.283",
+        "titles": [
+          {
+            "title": "D-Link DIR-605L",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-605l:-:*:*:*:*:*:*:*",
+            "cpeNameId": "437E4BD0-C050-4E74-82F3-6CBB67BC287E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:d-link:dir-605l:b1:*:*:*:*:*:*:*",
+      "title": "D-Link Dir-605L B1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-605l:b1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dir-605l:a1:*:*:*:*:*:*:*",
+      "title": "D-Link Dir-605L A1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-605l:a1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dir-605l:-:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-605L",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-605l:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dhp-1565:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D6945900-E618-447C-9AFC-F76B2BD67514",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2019-09-30T16:51:00.843",
+        "titles": [
+          {
+            "title": "D-Link DHP-1565",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dhp-1565:-:*:*:*:*:*:*:*",
+            "cpeNameId": "3B29D036-05EB-43C3-82C0-DCB07630D491"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dhp-1565:ax:*:*:*:*:*:*:*",
+        "cpeNameId": "C54C0DF5-702F-4105-998C-9FFE317F32FD",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2019-09-30T16:53:16.577",
+        "titles": [
+          {
+            "title": "D-Link DHP-1565 Ax",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dhp-1565:ax:*:*:*:*:*:*:*",
+            "cpeNameId": "4680EB4A-8DA5-4491-9659-42AF4B09C415"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:d-link:dhp-1565:-:*:*:*:*:*:*:*",
+      "title": "D-Link DHP-1565",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dhp-1565:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dhp-1565:ax:*:*:*:*:*:*:*",
+      "title": "D-Link DHP-1565 Ax",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dhp-1565:ax:*:*:*:*:*:*:*"
+    }
+  ]
+}

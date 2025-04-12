@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-615jx10_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0ADE1F7C-A03F-469E-B4FB-2152A28BD0E2",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2020-03-06T14:32:03.200",
+        "titles": [
+          {
+            "title": "D-Link DIR-615JX10 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-615jx10_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "AC30ADA9-FEC5-4741-8106-93959C9636AE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-615jx10_firmware:20.06:*:*:*:*:*:*:*",
+        "cpeNameId": "E4B3117C-A4EC-4EAD-BCE9-2CEF73BEE2F6",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2022-08-24T14:14:22.580",
+        "titles": [
+          {
+            "title": "D-Link DIR-615JX10 Firmware 20.06",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-615jx10_firmware:20.06:*:*:*:*:*:*:*",
+            "cpeNameId": "4FB623AD-F50A-458D-A37D-F592EB3CB782"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dir-615jx10_firmware:-:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-615JX10 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-615jx10_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dir-615jx10_firmware:20.06:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-615JX10 Firmware 20.06",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-615jx10_firmware:20.06:*:*:*:*:*:*:*"
+    }
+  ]
+}

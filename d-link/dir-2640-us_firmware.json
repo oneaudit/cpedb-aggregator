@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-2640-us_firmware:1.01:b04:*:*:*:*:*:*",
+        "cpeNameId": "3191C442-3460-4061-86CB-78EF118528E8",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2021-06-22T18:41:08.867",
+        "titles": [
+          {
+            "title": "D-Link Dir-2640-US Firmware 1.01 B04",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-2640-us_firmware:1.01:b04:*:*:*:*:*:*",
+            "cpeNameId": "28DCBF94-F191-4E3E-A30F-504ED39DAEA6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dir-2640-us_firmware:1.01b04:*:*:*:*:*:*:*",
+        "cpeNameId": "17D72D39-5389-4892-8B63-F29677B27934",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2021-06-24T14:00:57.840",
+        "titles": [
+          {
+            "title": "D-Link DIR-2640-US Firmware 1.01b04",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dir-2640-us_firmware:1.01b04:*:*:*:*:*:*:*",
+            "cpeNameId": "F0F7963E-EF2E-4364-8EA8-40B71FD2DF3B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dir-2640-us_firmware:1.01:b04:*:*:*:*:*:*",
+      "title": "D-Link Dir-2640-US Firmware 1.01 B04",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-2640-us_firmware:1.01:b04:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dir-2640-us_firmware:1.01b04:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-2640-US Firmware 1.01b04",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dir-2640-us_firmware:1.01b04:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dwr-912:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B2411FF2-8B1C-45B6-BA01-78D8855CEFFD",
+        "lastModified": "2023-04-26T18:56:58.960",
+        "created": "2018-12-02T17:49:30.943",
+        "titles": [
+          {
+            "title": "D-Link DWR-912",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:d-link:dwr-921:-:*:*:*:*:*:*:*",
+            "cpeNameId": "888664A6-74B4-49FC-A51B-18679866C607"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:d-link:dwr-912:-:*:*:*:*:*:*:*",
+      "title": "D-Link DWR-912",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:d-link:dwr-921:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

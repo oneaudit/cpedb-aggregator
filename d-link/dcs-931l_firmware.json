@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-931l_firmware:1.04:*:*:*:*:*:*:*",
+        "cpeNameId": "AD0F0CF3-15C1-4995-90B9-F307A9B9C918",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2015-02-24T14:59:43.940",
+        "titles": [
+          {
+            "title": "D-Link DCS-931L Firmware 1.04",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-931l_firmware:1.04:*:*:*:*:*:*:*",
+            "cpeNameId": "8A68EBFF-1A59-470E-A554-1C46FE5938DA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-931l_firmware:1.13.05:*:*:*:*:*:*:*",
+        "cpeNameId": "70A451BC-19AC-44A2-B6C5-837399F88DEE",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2017-05-08T19:54:02.943",
+        "titles": [
+          {
+            "title": "D-Link DCS-931L Firmware 1.13.05",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-931l_firmware:1.13.05:*:*:*:*:*:*:*",
+            "cpeNameId": "E06A695C-807D-4189-9664-C9A589D8D844"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dcs-931l_firmware:1.04:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-931L Firmware 1.04",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-931l_firmware:1.04:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dcs-931l_firmware:1.13.05:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-931L Firmware 1.13.05",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-931l_firmware:1.13.05:*:*:*:*:*:*:*"
+    }
+  ]
+}

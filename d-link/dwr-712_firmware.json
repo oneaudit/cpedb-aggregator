@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dwr-712_firmware:2.00:*:*:*:*:*:*:*",
+        "cpeNameId": "7EEFFFAE-442D-4080-B6F1-451FB270EE0F",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-12-02T17:57:07.140",
+        "titles": [
+          {
+            "title": "D-Link DWR-712 Firmware 2.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dwr-712_firmware:2.00:*:*:*:*:*:*:*",
+            "cpeNameId": "C663933A-AFF0-4958-A921-810F04DFF495"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dwr-712_firmware:2.01:*:*:*:*:*:*:*",
+        "cpeNameId": "9DA51A69-62D1-4806-A81D-19E6F4F92E44",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-12-02T17:57:07.217",
+        "titles": [
+          {
+            "title": "D-Link DWR-712 Firmware 2.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dwr-712_firmware:2.01:*:*:*:*:*:*:*",
+            "cpeNameId": "15D8AAAE-AEB2-4E18-B6FA-6D8352AAC90E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dwr-712_firmware:2.02:*:*:*:*:*:*:*",
+        "cpeNameId": "AC764452-8A44-460D-BB4F-8D303E344AC9",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2018-12-02T17:57:07.297",
+        "titles": [
+          {
+            "title": "D-Link DWR-712 Firmware 2.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dwr-712_firmware:2.02:*:*:*:*:*:*:*",
+            "cpeNameId": "A01410F0-6CAE-4BBE-8320-1132C9760D3B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dwr-712_firmware:2.00:*:*:*:*:*:*:*",
+      "title": "D-Link DWR-712 Firmware 2.00",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dwr-712_firmware:2.00:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dwr-712_firmware:2.01:*:*:*:*:*:*:*",
+      "title": "D-Link DWR-712 Firmware 2.01",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dwr-712_firmware:2.01:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dwr-712_firmware:2.02:*:*:*:*:*:*:*",
+      "title": "D-Link DWR-712 Firmware 2.02",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dwr-712_firmware:2.02:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13-1:*:*:*:*:*:*:*",
+        "cpeNameId": "6350884B-00C8-4972-97C0-989B18C3EDB6",
+        "lastModified": "2024-01-31T19:19:40.597",
+        "created": "2022-04-08T11:24:20.373",
+        "titles": [
+          {
+            "title": "Darkhttpd Project Darkhttpd 1.13-1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:unix4lyfe:darkhttpd:1.13-1:*:*:*:*:*:*:*",
+            "cpeNameId": "40C7D62A-2131-485F-9773-869698446DA2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:darkhttpd_project:darkhttpd:-:*:*:*:*:*:*:*",
+        "cpeNameId": "245DFA45-E739-4766-83F9-D5EAE99CD25F",
+        "lastModified": "2024-01-31T19:19:40.597",
+        "created": "2022-04-08T11:24:20.373",
+        "titles": [
+          {
+            "title": "Darkhttpd Project Darkhttpd",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:unix4lyfe:darkhttpd:-:*:*:*:*:*:*:*",
+            "cpeNameId": "65A01383-DC6B-4013-9CD0-AA0834BAC7F4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13:*:*:*:*:*:*:*",
+        "cpeNameId": "27085E10-599C-4865-AE5E-C20048DD8E0E",
+        "lastModified": "2024-01-31T19:19:40.597",
+        "created": "2022-04-08T11:24:20.373",
+        "titles": [
+          {
+            "title": "Darkhttpd Project Darkhttpd 1.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:unix4lyfe:darkhttpd:1.13:*:*:*:*:*:*:*",
+            "cpeNameId": "F6483F2B-43DF-4B74-A8D7-B3EE4257A070"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13-1:*:*:*:*:*:*:*",
+      "title": "Darkhttpd Project Darkhttpd 1.13-1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:unix4lyfe:darkhttpd:1.13-1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:darkhttpd_project:darkhttpd:-:*:*:*:*:*:*:*",
+      "title": "Darkhttpd Project Darkhttpd",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:unix4lyfe:darkhttpd:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13:*:*:*:*:*:*:*",
+      "title": "Darkhttpd Project Darkhttpd 1.13",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:unix4lyfe:darkhttpd:1.13:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-816l:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CBBC1500-30F9-4BD1-85FF-D5F31BAAB489",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2015-11-19T15:12:00.107",
+        "titles": [
+          {
+            "title": "D-Link DIR-816L Wireless Router",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-816l:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7994E4A7-5C41-4706-8A4E-41D24B0C7580"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dir-816l:b1:*:*:*:*:*:*:*",
+        "cpeNameId": "40466737-3A45-4D54-B280-0BAEBA26B6DB",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2020-08-18T20:48:22.603",
+        "titles": [
+          {
+            "title": "D-Link DIR-816L B1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-816l:b1:*:*:*:*:*:*:*",
+            "cpeNameId": "9584FAC9-889E-4C39-85F1-45304D2FFD84"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:d-link:dir-816l:-:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-816L Wireless Router",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-816l:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dir-816l:b1:*:*:*:*:*:*:*",
+      "title": "D-Link DIR-816L B1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-816l:b1:*:*:*:*:*:*:*"
+    }
+  ]
+}
