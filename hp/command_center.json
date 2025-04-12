@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:command_center:1.10.30.0:*:*:*:*:*:*:*",
+        "cpeNameId": "851AF05E-ACFA-45F7-B9A3-EA123815A316",
+        "lastModified": "2022-12-14T22:29:25.447",
+        "created": "2022-12-13T15:34:10.703",
+        "titles": [
+          {
+            "title": "HP Command Center 1.10.30.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:command_center:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C64B4391-D77F-4DED-8C65-BC9E654ADB09",
+        "lastModified": "2022-12-14T22:29:25.447",
+        "created": "2022-12-13T15:34:10.703",
+        "titles": [
+          {
+            "title": "HP Command Center",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:command_center:1.10.30.0:*:*:*:*:*:*:*",
+      "title": "HP Command Center 1.10.30.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:command_center:-:*:*:*:*:*:*:*",
+      "title": "HP Command Center",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

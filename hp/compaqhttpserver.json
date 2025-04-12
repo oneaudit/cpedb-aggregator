@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:compaqhttpserver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "935A801E-98A3-4144-A09D-148C4748B0CD",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-09-05T21:04:58.817",
+        "titles": [
+          {
+            "title": "HP compaqhttpserver",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:compaqhttpserver:9.9:*:*:*:*:*:*:*",
+        "cpeNameId": "52E551FC-ABE3-438D-AD02-60FD7A4A429F",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-09-05T21:04:58.817",
+        "titles": [
+          {
+            "title": "HP compaqhttpserver 9.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:compaqhttpserver:-:*:*:*:*:*:*:*",
+      "title": "HP compaqhttpserver",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:compaqhttpserver:9.9:*:*:*:*:*:*:*",
+      "title": "HP compaqhttpserver 9.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
