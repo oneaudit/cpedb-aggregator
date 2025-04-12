@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nvidia:jetson_tx2:r28.3:*:*:*:*:*:*:*",
+        "cpeNameId": "63C21B98-A613-4863-A8D8-8E6738FE7A01",
+        "lastModified": "2019-04-15T12:33:53.103",
+        "created": "2019-04-15T12:33:53.103",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson TX2 R28.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nvidia:jetson_tx2:r28.1:*:*:*:*:*:*:*",
+        "cpeNameId": "3F6AF5C8-D269-4928-AA52-E5F7E3A8E32F",
+        "lastModified": "2020-01-08T18:09:59.817",
+        "created": "2020-01-08T18:09:59.817",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson TX2 R28.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nvidia:jetson_tx2:r28.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "AD4F0DEE-1783-4889-96C9-572E80A45BB0",
+        "lastModified": "2020-01-08T18:10:02.067",
+        "created": "2020-01-08T18:10:02.067",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson TX2 R28.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:nvidia:jetson_tx2:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D89FC382-FD5F-49E3-A3B1-5358C8FB4AF1",
+        "lastModified": "2021-01-28T22:15:00.330",
+        "created": "2021-01-28T22:15:00.330",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson TX2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:nvidia:jetson_tx2:r28.3:*:*:*:*:*:*:*",
+      "title": "NVIDIA Jetson TX2 R28.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:nvidia:jetson_tx2:r28.1:*:*:*:*:*:*:*",
+      "title": "NVIDIA Jetson TX2 R28.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:nvidia:jetson_tx2:r28.2.1:*:*:*:*:*:*:*",
+      "title": "NVIDIA Jetson TX2 R28.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:nvidia:jetson_tx2:-:*:*:*:*:*:*:*",
+      "title": "NVIDIA Jetson TX2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

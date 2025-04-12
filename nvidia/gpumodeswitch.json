@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nvidia:gpumodeswitch:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1E471FD4-FF7F-4917-9373-57D0EFBE5C44",
+        "lastModified": "2019-12-02T14:54:52.067",
+        "created": "2019-12-02T14:54:52.067",
+        "titles": [
+          {
+            "title": "NVIDIA GPUModeSwitch",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nvidia:gpumodeswitch:2019-11:*:*:*:*:*:*:*",
+        "cpeNameId": "C3BCA67E-8F03-4FF9-BF69-E8CCAF5BEEAE",
+        "lastModified": "2019-12-02T14:54:52.380",
+        "created": "2019-12-02T14:54:52.380",
+        "titles": [
+          {
+            "title": "NVIDIA GPUModeSwitch 2019-11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:nvidia:gpumodeswitch:-:*:*:*:*:*:*:*",
+      "title": "NVIDIA GPUModeSwitch",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:nvidia:gpumodeswitch:2019-11:*:*:*:*:*:*:*",
+      "title": "NVIDIA GPUModeSwitch 2019-11",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

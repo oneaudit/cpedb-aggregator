@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:dgx_a800_firmware:1.21:*:*:*:sbios:*:*:*",
+        "cpeNameId": "C8201666-6E69-4930-AD75-9898770D51AA",
+        "lastModified": "2023-08-29T14:56:23.337",
+        "created": "2023-07-10T16:44:38.560",
+        "titles": [
+          {
+            "title": "NVIDIA DGX A800 Firmware 1.21 SBIOS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:dgx_a800_firmware:-:*:*:*:sbios:*:*:*",
+        "cpeNameId": "ABEF3768-EA94-4E9D-BADE-F64D6F8BFFBC",
+        "lastModified": "2023-08-29T14:56:23.337",
+        "created": "2023-07-10T16:44:38.560",
+        "titles": [
+          {
+            "title": "NVIDIA DGX A800 Firmware SBIOS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:dgx_a800_firmware:-:*:*:*:bmc:*:*:*",
+        "cpeNameId": "75BF6A62-D3B5-4970-974D-E9878EA73342",
+        "lastModified": "2023-08-29T14:56:23.337",
+        "created": "2023-07-10T16:45:33.433",
+        "titles": [
+          {
+            "title": "NVIDIA DGX A800 Firmware BMC Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:dgx_a800_firmware:00.20.04:*:*:*:bmc:*:*:*",
+        "cpeNameId": "7E0E57A6-1E09-4F1E-956E-E9DD6C521778",
+        "lastModified": "2023-08-29T14:56:23.337",
+        "created": "2023-07-10T16:45:33.433",
+        "titles": [
+          {
+            "title": "NVIDIA DGX A800 Firmware 00.20.04 BMC Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:nvidia:dgx_a800_firmware:1.21:*:*:*:sbios:*:*:*",
+      "title": "NVIDIA DGX A800 Firmware 1.21 SBIOS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nvidia:dgx_a800_firmware:-:*:*:*:sbios:*:*:*",
+      "title": "NVIDIA DGX A800 Firmware SBIOS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nvidia:dgx_a800_firmware:-:*:*:*:bmc:*:*:*",
+      "title": "NVIDIA DGX A800 Firmware BMC Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nvidia:dgx_a800_firmware:00.20.04:*:*:*:bmc:*:*:*",
+      "title": "NVIDIA DGX A800 Firmware 00.20.04 BMC Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

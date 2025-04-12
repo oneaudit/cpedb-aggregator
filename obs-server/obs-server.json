@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:obs-server:obs-server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7600520E-30AA-4BB2-B0BC-D8B45F8264B9",
+        "lastModified": "2020-01-24T16:50:58.477",
+        "created": "2020-01-24T16:50:58.477",
+        "titles": [
+          {
+            "title": "OBS Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:obs-server:obs-server:1.7.7:*:*:*:*:*:*:*",
+        "cpeNameId": "BB72D8B0-C693-4098-AE4C-9C6F78B18544",
+        "lastModified": "2020-01-24T16:50:58.743",
+        "created": "2020-01-24T16:50:58.743",
+        "titles": [
+          {
+            "title": "OBS Server 1.7.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:obs-server:obs-server:-:*:*:*:*:*:*:*",
+      "title": "OBS Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:obs-server:obs-server:1.7.7:*:*:*:*:*:*:*",
+      "title": "OBS Server 1.7.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

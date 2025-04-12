@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:nvidia:jetpack_sdk:4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "827C9A1A-6131-4B7B-B85D-E5CB48A1F8D8",
+        "lastModified": "2020-07-14T16:16:17.797",
+        "created": "2020-07-10T17:51:01.740",
+        "titles": [
+          {
+            "title": "NVIDIA JetPack SDK 4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:nvidia:jetpack_software_development_kit:4.2:*:*:*:*:*:*:*",
+            "cpeNameId": "337398F1-A639-4120-AC35-105A2ECC1D19"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:nvidia:jetpack_sdk:4.3:*:*:*:*:*:*:*",
+        "cpeNameId": "DEB69981-A635-4550-B2B1-80AC2860FEEB",
+        "lastModified": "2020-07-14T16:16:17.953",
+        "created": "2020-07-10T17:51:01.817",
+        "titles": [
+          {
+            "title": "NVIDIA JetPack SDK 4.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:nvidia:jetpack_software_development_kit:4.3:*:*:*:*:*:*:*",
+            "cpeNameId": "9D191735-CCEC-4C1F-953C-98917E4CA505"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:nvidia:jetpack_sdk:4.4:*:*:*:*:*:*:*",
+        "cpeNameId": "EF84AAC6-EF0D-403D-AC26-5D3767D1BE34",
+        "lastModified": "2020-07-14T16:16:18.110",
+        "created": "2020-07-10T17:51:01.880",
+        "titles": [
+          {
+            "title": "NVIDIA JetPack SDK 4.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:nvidia:jetpack_software_development_kit:4.4:*:*:*:*:*:*:*",
+            "cpeNameId": "4DFD89C7-6F8B-48D2-9A5B-CA1BD7AD2F95"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:nvidia:jetpack_sdk:4.2:*:*:*:*:*:*:*",
+      "title": "NVIDIA JetPack SDK 4.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:nvidia:jetpack_software_development_kit:4.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:nvidia:jetpack_sdk:4.3:*:*:*:*:*:*:*",
+      "title": "NVIDIA JetPack SDK 4.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:nvidia:jetpack_software_development_kit:4.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:nvidia:jetpack_sdk:4.4:*:*:*:*:*:*:*",
+      "title": "NVIDIA JetPack SDK 4.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:nvidia:jetpack_software_development_kit:4.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

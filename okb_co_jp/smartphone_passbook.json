@@ -1,0 +1,58 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:okb.co.jp:smartphone_passbook:1.00:*:*:*:*:android:*:*",
+        "cpeNameId": "31F6F82F-B5C1-494E-919D-68F328044EA5",
+        "lastModified": "2015-02-18T17:21:41.510",
+        "created": "2015-02-18T17:18:52.573",
+        "titles": [
+          {
+            "title": "大垣共立銀行 スマホ通帳 for Android 1.00",
+            "lang": "ja"
+          },
+          {
+            "title": "Ogaki Kyoritsu bank Smartphone Passbook for Android 1.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:okb.co.jp:smartphone_passbook:1.00:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "6C5B50A7-95F3-4388-807F-F95BF977C3AB",
+        "lastModified": "2015-02-18T17:24:32.493",
+        "created": "2015-02-18T17:18:56.790",
+        "titles": [
+          {
+            "title": "Ogaki Kyoritsu bank Smartphone Passbook for iOS 1.00",
+            "lang": "en"
+          },
+          {
+            "title": "大垣共立銀行 スマホ通帳 for iOS 1.00",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:okb.co.jp:smartphone_passbook:1.00:*:*:*:*:android:*:*",
+      "title": "Ogaki Kyoritsu bank Smartphone Passbook for Android 1.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:okb.co.jp:smartphone_passbook:1.00:*:*:*:*:iphone_os:*:*",
+      "title": "Ogaki Kyoritsu bank Smartphone Passbook for iOS 1.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

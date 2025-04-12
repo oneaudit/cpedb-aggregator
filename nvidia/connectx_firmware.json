@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:connectx_firmware:35.1012:*:*:*:*:*:*:*",
+        "cpeNameId": "307BB7D3-18D0-4DCA-AE8A-AABFEECFF272",
+        "lastModified": "2023-09-29T03:56:47.257",
+        "created": "2023-09-29T03:56:47.257",
+        "titles": [
+          {
+            "title": "NVIDIA ConnectX Firmware 35.1012",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:connectx_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C6A7C1FB-0669-49AC-A0D3-062F8652C9B3",
+        "lastModified": "2023-09-29T03:56:47.257",
+        "created": "2023-09-29T03:56:47.257",
+        "titles": [
+          {
+            "title": "NVIDIA ConnectX Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:nvidia:connectx_firmware:35.1012:*:*:*:*:*:*:*",
+      "title": "NVIDIA ConnectX Firmware 35.1012",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nvidia:connectx_firmware:-:*:*:*:*:*:*:*",
+      "title": "NVIDIA ConnectX Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nxp:mqx:5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0491A4B1-1717-4E41-862B-C955A96FBC8B",
+        "lastModified": "2022-05-10T19:54:17.190",
+        "created": "2022-05-10T16:20:59.300",
+        "titles": [
+          {
+            "title": "NXP MQX 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nxp:mqx:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3C649A7C-7796-4E88-A293-E1AB914FCAA4",
+        "lastModified": "2022-05-10T19:54:17.190",
+        "created": "2022-05-10T16:20:59.300",
+        "titles": [
+          {
+            "title": "NXP MQX",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:nxp:mqx:5.1:*:*:*:*:*:*:*",
+      "title": "NXP MQX 5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nxp:mqx:-:*:*:*:*:*:*:*",
+      "title": "NXP MQX",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

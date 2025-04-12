@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ogmacms:ogma_cms:0.2:beta:*:*:*:*:*:*",
+        "cpeNameId": "17BD8E4C-F710-44EA-AAC3-3C3D86AA5F96",
+        "lastModified": "2019-09-23T13:30:34.420",
+        "created": "2019-09-16T16:16:18.187",
+        "titles": [
+          {
+            "title": "OGMA CMS 0.2 Beta",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:digimute:ogma_cms:0.2:beta:*:*:*:*:*:*",
+            "cpeNameId": "842D5D62-DE31-4A79-9D8E-68C9CD337C69"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ogmacms:ogma_cms:0.3:beta:*:*:*:*:*:*",
+        "cpeNameId": "FCF29779-5363-49F9-BBF4-DB32976BD5E3",
+        "lastModified": "2019-09-23T13:30:34.593",
+        "created": "2019-09-16T16:16:18.293",
+        "titles": [
+          {
+            "title": "OGMA CMS 0.3 Beta",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:digimute:ogma_cms:0.3:beta:*:*:*:*:*:*",
+            "cpeNameId": "339A40B2-281F-48D5-928C-FC9123DEFECF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ogmacms:ogma_cms:0.4:beta:*:*:*:*:*:*",
+        "cpeNameId": "C76819BB-8DF7-4E36-94FF-981D82DAD87A",
+        "lastModified": "2019-09-23T13:30:34.703",
+        "created": "2019-09-16T16:16:18.403",
+        "titles": [
+          {
+            "title": "OGMA CMS 0.4 Beta",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:digimute:ogma_cms:0.4:beta:*:*:*:*:*:*",
+            "cpeNameId": "2A3D4379-4321-4D5C-9BC6-02A9AE26737A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ogmacms:ogma_cms:0.2:beta:*:*:*:*:*:*",
+      "title": "OGMA CMS 0.2 Beta",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:digimute:ogma_cms:0.2:beta:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ogmacms:ogma_cms:0.3:beta:*:*:*:*:*:*",
+      "title": "OGMA CMS 0.3 Beta",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:digimute:ogma_cms:0.3:beta:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ogmacms:ogma_cms:0.4:beta:*:*:*:*:*:*",
+      "title": "OGMA CMS 0.4 Beta",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:digimute:ogma_cms:0.4:beta:*:*:*:*:*:*"
+    }
+  ]
+}

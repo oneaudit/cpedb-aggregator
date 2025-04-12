@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nvidia:nvuflash:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6B7F00C0-B9AC-4FA2-8470-750E417ED2FF",
+        "lastModified": "2019-12-02T14:54:52.490",
+        "created": "2019-12-02T14:54:52.490",
+        "titles": [
+          {
+            "title": "NVIDIA NVUFlash",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nvidia:nvuflash:5.588.0:*:*:*:*:*:*:*",
+        "cpeNameId": "138E0CE2-6060-4C3B-B4B3-883295A0BB38",
+        "lastModified": "2019-12-02T14:54:52.770",
+        "created": "2019-12-02T14:54:52.770",
+        "titles": [
+          {
+            "title": "NVIDIA NVUFlash 5.588.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:nvidia:nvuflash:-:*:*:*:*:*:*:*",
+      "title": "NVIDIA NVUFlash",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:nvidia:nvuflash:5.588.0:*:*:*:*:*:*:*",
+      "title": "NVIDIA NVUFlash 5.588.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

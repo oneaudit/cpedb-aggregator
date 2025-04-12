@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:nvidia:jetson_xavier_nx:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1C28B901-912C-4C94-AC87-C57CAF87A853",
+        "lastModified": "2021-01-28T22:15:00.720",
+        "created": "2021-01-28T22:15:00.720",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson Xavier Nx",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:nvidia:jetson_xavier_nx:-:*:developer_kit:*:*:*:*:*",
+        "cpeNameId": "460750A2-8812-4456-8BD3-D803CC1F4876",
+        "lastModified": "2021-08-26T13:40:34.140",
+        "created": "2021-06-24T17:02:33.743",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson Xavier NX Developer Kit Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:nvidia:jetson_xavier_nx:-:*:production:*:*:*:*:*",
+        "cpeNameId": "8FEB13D0-CAAD-4015-B2CC-8A57F25BFD06",
+        "lastModified": "2021-08-26T13:40:34.140",
+        "created": "2021-06-24T17:02:33.743",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson Xavier NX Production Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:nvidia:jetson_xavier_nx:-:*:*:*:*:*:*:*",
+      "title": "NVIDIA Jetson Xavier Nx",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:nvidia:jetson_xavier_nx:-:*:developer_kit:*:*:*:*:*",
+      "title": "NVIDIA Jetson Xavier NX Developer Kit Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:nvidia:jetson_xavier_nx:-:*:production:*:*:*:*:*",
+      "title": "NVIDIA Jetson Xavier NX Production Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

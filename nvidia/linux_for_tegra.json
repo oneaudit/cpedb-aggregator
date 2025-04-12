@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:linux_for_tegra:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D34862E7-5D29-4D39-847A-B3FA5DA94501",
+        "lastModified": "2021-01-28T22:15:01.033",
+        "created": "2021-01-28T22:15:01.033",
+        "titles": [
+          {
+            "title": "NVIDIA Linux for Tegra (L4T)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:linux_for_tegra:r32.5:*:*:*:*:*:*:*",
+        "cpeNameId": "1323695F-B767-4AC8-A6D6-7BC299511025",
+        "lastModified": "2021-01-28T22:15:01.360",
+        "created": "2021-01-28T22:15:01.360",
+        "titles": [
+          {
+            "title": "NVIDIA Linux for Tegra (L4T) R32.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:linux_for_tegra:r21.6:*:*:*:*:*:*:*",
+        "cpeNameId": "28053A6E-48D9-4091-9B14-271E2CFF6BA9",
+        "lastModified": "2022-10-03T18:13:22.090",
+        "created": "2022-03-28T15:22:26.507",
+        "titles": [
+          {
+            "title": "NVIDIA Linux for Tegra R21.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:linux_for_tegra:r24.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "4D6C3589-71BD-4286-8F7C-39B526FDE0B3",
+        "lastModified": "2022-10-03T18:13:22.090",
+        "created": "2022-03-28T15:22:35.883",
+        "titles": [
+          {
+            "title": "NVIDIA Linux for Tegra R24.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:nvidia:linux_for_tegra:-:*:*:*:*:*:*:*",
+      "title": "NVIDIA Linux for Tegra (L4T)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nvidia:linux_for_tegra:r32.5:*:*:*:*:*:*:*",
+      "title": "NVIDIA Linux for Tegra (L4T) R32.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nvidia:linux_for_tegra:r21.6:*:*:*:*:*:*:*",
+      "title": "NVIDIA Linux for Tegra R21.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nvidia:linux_for_tegra:r24.2.2:*:*:*:*:*:*:*",
+      "title": "NVIDIA Linux for Tegra R24.2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

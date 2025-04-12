@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:nvidia:jetson_nano:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6A693226-F2D2-4835-9A23-4F3A45071D03",
+        "lastModified": "2021-01-28T22:14:59.643",
+        "created": "2021-01-28T22:14:59.643",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson Nano",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:nvidia:jetson_nano:-:*:-:*:*:*:*:*",
+        "cpeNameId": "7D47BF72-C3D7-469F-BFFB-F16C3BE3094B",
+        "lastModified": "2021-08-26T13:40:34.140",
+        "created": "2021-06-24T17:02:33.743",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson Nano",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:nvidia:jetson_nano:-:*:developer_kit:*:*:*:*:*",
+        "cpeNameId": "1FB9AEE4-19D8-46CB-9C9E-92CE88DD3049",
+        "lastModified": "2021-08-26T13:40:34.140",
+        "created": "2021-06-24T17:02:33.743",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson Nano Developer Kit Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:nvidia:jetson_nano:-:*:*:*:*:*:*:*",
+      "title": "NVIDIA Jetson Nano",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:nvidia:jetson_nano:-:*:-:*:*:*:*:*",
+      "title": "NVIDIA Jetson Nano",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:nvidia:jetson_nano:-:*:developer_kit:*:*:*:*:*",
+      "title": "NVIDIA Jetson Nano Developer Kit Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

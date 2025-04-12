@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:okta:oidc_middleware:-:*:*:*:*:node.js:*:*",
+        "cpeNameId": "20FC2EE5-C02F-4562-B44E-BA74879E52DE",
+        "lastModified": "2023-03-03T18:44:05.190",
+        "created": "2023-01-18T18:46:05.750",
+        "titles": [
+          {
+            "title": "Okta OpenID Connect Middleware for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:okta:oidc_middleware:5.0.0:*:*:*:*:node.js:*:*",
+        "cpeNameId": "D3626374-C072-4495-ADFD-B69836989ED0",
+        "lastModified": "2023-03-03T18:44:05.190",
+        "created": "2023-01-18T18:49:50.487",
+        "titles": [
+          {
+            "title": "Okta OpenID Connect Middleware 5.0.0 for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:okta:oidc_middleware:-:*:*:*:*:node.js:*:*",
+      "title": "Okta OpenID Connect Middleware for Node.js",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:okta:oidc_middleware:5.0.0:*:*:*:*:node.js:*:*",
+      "title": "Okta OpenID Connect Middleware 5.0.0 for Node.js",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

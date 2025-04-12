@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:octobercms:octobercms:-:*:*:*:*:*:*:*",
+        "cpeNameId": "836722F5-8292-4247-97A8-31BB24EC5A95",
+        "lastModified": "2020-08-03T12:43:37.327",
+        "created": "2020-01-30T17:28:37.127",
+        "titles": [
+          {
+            "title": "October CMS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:octobercms:october:-:*:*:*:*:*:*:*",
+            "cpeNameId": "06DF1B1E-5380-4309-919E-38C619AFE9F7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:octobercms:octobercms:-:*:*:*:*:*:*:*",
+      "title": "October CMS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:octobercms:october:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

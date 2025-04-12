@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:nvidia:jetson_tk1:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DB4486EB-4E98-49FE-BF38-75A09A0D279A",
+        "lastModified": "2021-06-24T15:35:57.433",
+        "created": "2018-04-23T13:58:35.207",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson TK1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nvidia:jetson_tk1:r21:*:*:*:*:*:*:*",
+        "cpeNameId": "729FD2CF-5E35-4B70-B034-7FFEE4F0FA2D",
+        "lastModified": "2020-05-29T15:23:17.933",
+        "created": "2020-05-29T15:23:17.933",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson TK1 R21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nvidia:jetson_tk1:r24:*:*:*:*:*:*:*",
+        "cpeNameId": "5EF33605-E203-4C78-A95B-A29C9230D749",
+        "lastModified": "2020-05-29T15:23:18.060",
+        "created": "2020-05-29T15:23:18.060",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson TK1 R24",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:nvidia:jetson_tk1:-:*:*:*:*:*:*:*",
+      "title": "NVIDIA Jetson TK1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:nvidia:jetson_tk1:r21:*:*:*:*:*:*:*",
+      "title": "NVIDIA Jetson TK1 R21",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:nvidia:jetson_tk1:r24:*:*:*:*:*:*:*",
+      "title": "NVIDIA Jetson TK1 R24",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

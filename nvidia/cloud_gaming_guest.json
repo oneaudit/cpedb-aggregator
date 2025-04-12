@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nvidia:cloud_gaming_guest:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B8128DE6-2243-4C5F-B76A-AE6CF92D206B",
+        "lastModified": "2022-08-27T00:43:41.173",
+        "created": "2022-05-11T13:09:13.110",
+        "titles": [
+          {
+            "title": "NVIDIA Cloud Gaming Guest",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nvidia:cloud_gaming_guest:516.94:*:*:*:*:*:*:*",
+        "cpeNameId": "6FEA91BC-3598-4549-9619-C012ED431CE2",
+        "lastModified": "2023-02-21T17:43:46.510",
+        "created": "2022-11-22T15:21:00.420",
+        "titles": [
+          {
+            "title": "NVIDIA Cloud Gaming Guest 516.94",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nvidia:cloud_gaming_guest:515.65.01:*:*:*:*:*:*:*",
+        "cpeNameId": "89F6EF3E-B017-457B-8A00-AF1062BEF13F",
+        "lastModified": "2023-02-21T17:43:46.510",
+        "created": "2022-11-22T15:23:13.977",
+        "titles": [
+          {
+            "title": "NVIDIA Cloud Gaming Guest 515.65.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:nvidia:cloud_gaming_guest:-:*:*:*:*:*:*:*",
+      "title": "NVIDIA Cloud Gaming Guest",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:nvidia:cloud_gaming_guest:516.94:*:*:*:*:*:*:*",
+      "title": "NVIDIA Cloud Gaming Guest 516.94",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:nvidia:cloud_gaming_guest:515.65.01:*:*:*:*:*:*:*",
+      "title": "NVIDIA Cloud Gaming Guest 515.65.01",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

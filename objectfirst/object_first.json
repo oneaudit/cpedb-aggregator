@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:objectfirst:object_first:1.0.7.712:*:*:*:*:*:*:*",
+        "cpeNameId": "EF6A08AF-23BB-4DD0-824E-D66980B4CCB6",
+        "lastModified": "2023-05-08T13:47:54.410",
+        "created": "2022-11-07T18:37:57.083",
+        "titles": [
+          {
+            "title": "Object First 1.0.7.712",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:objectfirst:ootbi:beta:*:*:*:*:*:*:*",
+            "cpeNameId": "7639607E-A041-4B05-A680-E1FC009A3951"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:objectfirst:object_first:1.0.13.1611:*:*:*:*:*:*:*",
+        "cpeNameId": "A651C975-BDDB-4AA2-8AEF-DCE3BC899E15",
+        "lastModified": "2022-11-08T19:29:03.787",
+        "created": "2022-11-07T18:44:17.520",
+        "titles": [
+          {
+            "title": "Object First 1.0.13.1611",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:objectfirst:object_first:1.0.7.712:*:*:*:*:*:*:*",
+      "title": "Object First 1.0.7.712",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:objectfirst:ootbi:beta:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:objectfirst:object_first:1.0.13.1611:*:*:*:*:*:*:*",
+      "title": "Object First 1.0.13.1611",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

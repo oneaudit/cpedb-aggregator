@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:objectfirst:objectfirst:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6B044880-02CC-4574-A588-AC4B21C1E591",
+        "lastModified": "2023-05-08T13:40:42.713",
+        "created": "2022-10-04T14:51:43.623",
+        "titles": [
+          {
+            "title": "Object First Objectfirst",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:objectfirst:ootbi:-:*:*:*:*:*:*:*",
+            "cpeNameId": "C4FEFDC9-A1C1-43CF-B601-71833D1601EB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:objectfirst:objectfirst:-:*:*:*:*:*:*:*",
+      "title": "Object First Objectfirst",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:objectfirst:ootbi:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

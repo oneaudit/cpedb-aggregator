@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:jetson_tx1_firmware:24.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "6F7A71B4-90C0-4359-A293-94018521CC03",
+        "lastModified": "2021-06-25T14:23:11.777",
+        "created": "2018-04-23T13:59:24.770",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson TX1 Firmware 24.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:jetson_tx1_firmware:28.1:*:*:*:*:*:*:*",
+        "cpeNameId": "BEBB7CB2-1D1D-4DAE-BD3D-A7C6A7D0C462",
+        "lastModified": "2021-06-25T14:23:11.777",
+        "created": "2018-04-23T13:59:31.050",
+        "titles": [
+          {
+            "title": "NVIDIA Jetson TX1 Firmware 28.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nvidia:jetson_tx1_firmware:r32.2:*:*:*:*:*:*:*",
+        "cpeNameId": "A4BF39BC-01E7-4F2F-ADCF-8C6B981CDBA8",
+        "lastModified": "2020-06-12T19:26:33.523",
+        "created": "2020-06-12T19:26:33.523",
+        "titles": [
+          {
+            "title": "Nvidia Jetson TX1 Firmware R32.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:nvidia:jetson_tx1_firmware:24.2.2:*:*:*:*:*:*:*",
+      "title": "NVIDIA Jetson TX1 Firmware 24.2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nvidia:jetson_tx1_firmware:28.1:*:*:*:*:*:*:*",
+      "title": "NVIDIA Jetson TX1 Firmware 28.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nvidia:jetson_tx1_firmware:r32.2:*:*:*:*:*:*:*",
+      "title": "Nvidia Jetson TX1 Firmware R32.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
