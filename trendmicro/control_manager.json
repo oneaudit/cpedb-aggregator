@@ -1,0 +1,148 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:trendmicro:control_manager:6.0:sp3:*:*:*:*:*:*",
+        "cpeNameId": "F97276D4-7412-4A7A-8697-36B735E696BD",
+        "lastModified": "2021-08-10T15:19:42.000",
+        "created": "2017-08-15T13:14:53.263",
+        "titles": [
+          {
+            "title": "Trend Micro Control Manager 6.0 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:trendmicro:control_manager:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8E0D7026-7EB3-4CD4-8A63-9B81CAC9C638",
+        "lastModified": "2020-05-28T12:41:07.457",
+        "created": "2019-08-13T15:30:19.900",
+        "titles": [
+          {
+            "title": "Trend Micro Control Manager 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:trendmicro:control_manager:6.0:*:*:*:*:*:*:*",
+            "cpeNameId": "59F30E20-1D50-47D7-9B1B-CB26E4D89472"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:trendmicro:control_manager:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "85CDE12A-65B7-4EC1-8ABF-F98876CB428A",
+        "lastModified": "2020-05-28T12:41:11.443",
+        "created": "2019-08-13T15:30:20.073",
+        "titles": [
+          {
+            "title": "Trend Micro Control Manager 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:trendmicro:control_manager:7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "35DB031C-2EE4-48F5-BB28-2A73A9B55F18"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:trendmicro:control_manager:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "59F30E20-1D50-47D7-9B1B-CB26E4D89472",
+        "lastModified": "2020-05-28T12:41:07.193",
+        "created": "2020-05-28T12:41:07.193",
+        "titles": [
+          {
+            "title": "Trend Micro Control Manager 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:trendmicro:control_manager:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "35DB031C-2EE4-48F5-BB28-2A73A9B55F18",
+        "lastModified": "2020-05-28T12:41:07.333",
+        "created": "2020-05-28T12:41:07.333",
+        "titles": [
+          {
+            "title": "Trend Micro Control Manager 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:trendmicro:control_manager:7.0:-:*:*:*:*:*:*",
+        "cpeNameId": "E35B147C-7BA6-4E86-9DE2-F983CEA0B1D7",
+        "lastModified": "2022-04-25T16:46:36.397",
+        "created": "2021-08-27T13:57:01.307",
+        "titles": [
+          {
+            "title": "Trend Micro Control Manager 7.0 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:trendmicro:control_manager:6.0:sp3:*:*:*:*:*:*",
+      "title": "Trend Micro Control Manager 6.0 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:trendmicro:control_manager:6.0:*:*:*:*:*:*:*",
+      "title": "Trend Micro Control Manager 6.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:trendmicro:control_manager:6.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:trendmicro:control_manager:7.0:*:*:*:*:*:*:*",
+      "title": "Trend Micro Control Manager 7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:trendmicro:control_manager:7.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:trendmicro:control_manager:6.0:*:*:*:*:*:*:*",
+      "title": "Trend Micro Control Manager 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:trendmicro:control_manager:7.0:*:*:*:*:*:*:*",
+      "title": "Trend Micro Control Manager 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:trendmicro:control_manager:7.0:-:*:*:*:*:*:*",
+      "title": "Trend Micro Control Manager 7.0 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

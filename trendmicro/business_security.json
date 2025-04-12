@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:trendmicro:business_security:9.5:*:*:*:*:*:*:*",
+        "cpeNameId": "0EE68D10-1979-471D-A53C-39D1C586D3A3",
+        "lastModified": "2021-09-24T13:40:55.257",
+        "created": "2019-10-31T16:01:58.327",
+        "titles": [
+          {
+            "title": "Trend Micro Business Security 9.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:trendmicro:worry-free_business_security:9.5:*:*:*:*:*:*:*",
+            "cpeNameId": "E5019A7C-5DEB-4A96-AF9F-C15ADBFCB100"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:trendmicro:business_security:10.0:-:*:*:*:*:*:*",
+        "cpeNameId": "DE92420B-D3D7-45B8-A961-8A60DA99DFE8",
+        "lastModified": "2021-09-24T13:40:55.257",
+        "created": "2019-10-31T16:01:58.467",
+        "titles": [
+          {
+            "title": "Trend Micro Business Security 10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:trendmicro:worry-free_business_security:10.0:-:*:*:*:*:*:*",
+            "cpeNameId": "E7CBE4C5-51FE-45AF-84F4-8604FD505E76"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:trendmicro:business_security:10.0:sp1:*:*:*:*:*:*",
+        "cpeNameId": "DF25F103-D0C5-46A9-BE07-9625CB224736",
+        "lastModified": "2021-09-24T13:40:55.257",
+        "created": "2019-10-31T16:01:58.610",
+        "titles": [
+          {
+            "title": "Trend Micro Business Security 10.0 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:trendmicro:worry-free_business_security:10.0:sp1:*:*:*:*:*:*",
+            "cpeNameId": "957D0252-56A1-43E8-A001-FC2DF9CA018D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:trendmicro:business_security:9.5:*:*:*:*:*:*:*",
+      "title": "Trend Micro Business Security 9.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:trendmicro:worry-free_business_security:9.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:trendmicro:business_security:10.0:-:*:*:*:*:*:*",
+      "title": "Trend Micro Business Security 10.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:trendmicro:worry-free_business_security:10.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:trendmicro:business_security:10.0:sp1:*:*:*:*:*:*",
+      "title": "Trend Micro Business Security 10.0 Service Pack 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:trendmicro:worry-free_business_security:10.0:sp1:*:*:*:*:*:*"
+    }
+  ]
+}

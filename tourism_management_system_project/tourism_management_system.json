@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tourism_management_system_project:tourism_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "00743702-D841-4378-9C4F-7DB67BFEE6E6",
+        "lastModified": "2023-11-14T16:30:22.583",
+        "created": "2020-11-23T23:22:15.753",
+        "titles": [
+          {
+            "title": "Tourism Management System Project Tourism Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:tourism_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "73E32951-F3AD-4917-B66F-6F1D0B6D562B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tourism_management_system_project:tourism_management_system:3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "04FC44D5-9ED2-42F6-A3C2-C3F39E28B4CD",
+        "lastModified": "2023-11-14T16:30:22.583",
+        "created": "2022-06-17T14:01:19.397",
+        "titles": [
+          {
+            "title": "Tourism Management System Project Tourism Management System 3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:tourism_management_system:3.2:*:*:*:*:*:*:*",
+            "cpeNameId": "31C43BA4-A094-4529-AD05-9AF1C056ACCE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:tourism_management_system_project:tourism_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Tourism Management System Project Tourism Management System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:tourism_management_system:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:tourism_management_system_project:tourism_management_system:3.2:*:*:*:*:*:*:*",
+      "title": "Tourism Management System Project Tourism Management System 3.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:tourism_management_system:3.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

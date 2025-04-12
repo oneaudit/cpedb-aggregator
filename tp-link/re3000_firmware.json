@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:tp-link:re3000_firmware:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "45E28DA7-CEF4-4E03-BFF1-F8D16C956265",
+        "lastModified": "2023-08-29T11:34:59.340",
+        "created": "2022-12-09T14:14:01.483",
+        "titles": [
+          {
+            "title": "TP-Link RE3000 Firmware 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:tp-link:re3000_firmware:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "240FE20B-EF78-4A4B-A90B-857BF1AD2145",
+        "lastModified": "2023-08-29T11:34:59.340",
+        "created": "2022-12-09T14:14:01.483",
+        "titles": [
+          {
+            "title": "TP-Link RE3000 Firmware 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:tp-link:re3000_firmware:1.0:*:*:*:*:*:*:*",
+      "title": "TP-Link RE3000 Firmware 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:tp-link:re3000_firmware:2.0:*:*:*:*:*:*:*",
+      "title": "TP-Link RE3000 Firmware 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

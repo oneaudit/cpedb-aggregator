@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:tp-link:tapo:2.8.14:*:*:*:*:*:*:*",
+        "cpeNameId": "C71FF049-70C7-40F4-BF9F-AC4670BFC190",
+        "lastModified": "2023-08-29T11:34:59.340",
+        "created": "2023-08-24T17:34:03.607",
+        "titles": [
+          {
+            "title": "TP-Link TAPO 2.8.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:tp-link:tapo:2.11.44:*:*:*:*:android:*:*",
+        "cpeNameId": "50DC3203-8EE0-48D9-A69E-383EECDD5C92",
+        "lastModified": "2024-01-12T18:55:24.630",
+        "created": "2024-01-12T18:55:24.630",
+        "titles": [
+          {
+            "title": "TP-Link TAPO 2.11.44 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:tp-link:tapo:-:*:*:*:*:android:*:*",
+        "cpeNameId": "0E936BF0-A9FA-4274-931F-FAB7C60FD40C",
+        "lastModified": "2024-01-12T18:55:24.630",
+        "created": "2024-01-12T18:55:24.630",
+        "titles": [
+          {
+            "title": "TP-Link TAPO - for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:tp-link:tapo:2.8.14:*:*:*:*:*:*:*",
+      "title": "TP-Link TAPO 2.8.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:tp-link:tapo:2.11.44:*:*:*:*:android:*:*",
+      "title": "TP-Link TAPO 2.11.44 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:tp-link:tapo:-:*:*:*:*:android:*:*",
+      "title": "TP-Link TAPO - for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

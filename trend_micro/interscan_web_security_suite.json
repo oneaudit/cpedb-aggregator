@@ -1,0 +1,68 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:trend_micro:interscan_web_security_suite:2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "6C5699E7-38AD-4EFD-948C-75AA056E19FC",
+        "lastModified": "2014-06-16T18:32:55.390",
+        "created": "2009-02-18T17:46:56.040",
+        "titles": [
+          {
+            "title": "Trend Micro InterScan Web Security Suite 2.5",
+            "lang": "en"
+          },
+          {
+            "title": "トレンドマイクロ インタースキャン ウェブセキュリティ スイート 2.5",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:trendmicro:interscan_web_security_suite:2.5:*:*:*:*:*:*:*",
+            "cpeNameId": "F06D1167-BFC2-4E52-9E31-058B54F25713"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:trend_micro:interscan_web_security_suite:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "05AF4863-9DEE-475B-9AA0-CA27D59BB8A8",
+        "lastModified": "2014-06-16T18:34:03.457",
+        "created": "2009-02-18T17:46:56.133",
+        "titles": [
+          {
+            "title": "Trend Micro InterScan Web Security Suite 3.1",
+            "lang": "en"
+          },
+          {
+            "title": "トレンドマイクロ インタースキャン ウェブセキュリティ スイート 3.1",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:trendmicro:interscan_web_security_suite:3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "3CEE00DF-5F9A-46E0-9A10-6F44EE14CA30"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:trend_micro:interscan_web_security_suite:2.5:*:*:*:*:*:*:*",
+      "title": "Trend Micro InterScan Web Security Suite 2.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:trendmicro:interscan_web_security_suite:2.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:trend_micro:interscan_web_security_suite:3.1:*:*:*:*:*:*:*",
+      "title": "Trend Micro InterScan Web Security Suite 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:trendmicro:interscan_web_security_suite:3.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

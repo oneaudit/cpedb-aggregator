@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:trend_micro:endpoint_sensor:1.6:*:*:*:*:*:*:*",
+        "cpeNameId": "D513E137-A84E-4283-8166-97D7FCF3B9CF",
+        "lastModified": "2021-08-09T13:23:08.067",
+        "created": "2017-03-10T19:12:18.703",
+        "titles": [
+          {
+            "title": "TREND Micro Endpoint Sensor 1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:trendmicro:endpoint_sensor:1.6:*:*:*:*:*:*:*",
+            "cpeNameId": "B287C82A-8316-4430-89A1-29D471AFB337"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:trend_micro:endpoint_sensor:1.6:*:*:*:*:*:*:*",
+      "title": "TREND Micro Endpoint Sensor 1.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:trendmicro:endpoint_sensor:1.6:*:*:*:*:*:*:*"
+    }
+  ]
+}

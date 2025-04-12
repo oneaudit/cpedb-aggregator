@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:trend_micro:hijackthis:1.99.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4ADC008B-C1DD-416A-9DB1-C38FD63AD5CC",
+        "lastModified": "2014-06-16T18:28:48.370",
+        "created": "2012-08-01T21:32:57.813",
+        "titles": [
+          {
+            "title": "Trend Micro Hijackthis 1.99.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:trendmicro:hijackthis:1.99.1:*:*:*:*:*:*:*",
+            "cpeNameId": "B96ACD7B-681B-406B-B707-F0DAF314401A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:trend_micro:hijackthis:2.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E692B102-1A2F-41CF-9704-D5B66F98AFEF",
+        "lastModified": "2014-06-16T18:29:47.840",
+        "created": "2012-08-01T21:32:57.967",
+        "titles": [
+          {
+            "title": "Trend Micro Hijackthis 2.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:trendmicro:hijackthis:2.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "903F51D8-A20C-476C-AF23-7FA5F9956BB5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:trend_micro:hijackthis:1.99.1:*:*:*:*:*:*:*",
+      "title": "Trend Micro Hijackthis 1.99.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:trendmicro:hijackthis:1.99.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:trend_micro:hijackthis:2.0.0:*:*:*:*:*:*:*",
+      "title": "Trend Micro Hijackthis 2.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:trendmicro:hijackthis:2.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}
