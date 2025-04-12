@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:dell:sonicwall_secure_remote_access_firmware:7.5.1.0-38sv:*:*:*:*:*:*:*",
+        "cpeNameId": "BED5EA41-1EC5-415F-BEC4-6A33C55BCBD1",
+        "lastModified": "2018-03-12T13:04:55.687",
+        "created": "2015-05-04T14:04:24.093",
+        "titles": [
+          {
+            "title": "Dell SonicWall Secure Remote Access (SRA) Firmware 7.5.1.0-38SV",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sonicwall:remote_access_firmware:7.5.1.0-38sv:*:*:*:*:*:*:*",
+            "cpeNameId": "DA4C4EAD-3847-47FE-9898-FFA16538B60E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:dell:sonicwall_secure_remote_access_firmware:8.0.0.1-16sv:*:*:*:*:*:*:*",
+        "cpeNameId": "ADE2FF54-A184-4075-9080-ED91AC21605D",
+        "lastModified": "2018-03-12T13:04:55.717",
+        "created": "2015-05-04T14:04:24.093",
+        "titles": [
+          {
+            "title": "Dell SonicWall Secure Remote Access (SRA) Firmware 8.0.0.1-16SV",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sonicwall:remote_access_firmware:8.0.0.1-16sv:*:*:*:*:*:*:*",
+            "cpeNameId": "6802F555-EE4A-4FA2-9E9B-9BDAF6DAC3FE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:sonicwall_secure_remote_access_firmware:7.5.1.0-38sv:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall Secure Remote Access (SRA) Firmware 7.5.1.0-38SV",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sonicwall:remote_access_firmware:7.5.1.0-38sv:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:dell:sonicwall_secure_remote_access_firmware:8.0.0.1-16sv:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall Secure Remote Access (SRA) Firmware 8.0.0.1-16SV",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sonicwall:remote_access_firmware:8.0.0.1-16sv:*:*:*:*:*:*:*"
+    }
+  ]
+}

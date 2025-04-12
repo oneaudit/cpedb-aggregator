@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:storage_manager:2016:r2.1:*:*:*:*:*:*",
+        "cpeNameId": "14D4949A-4D04-49DA-9DC1-C2F0EA65A6D7",
+        "lastModified": "2021-05-18T14:08:25.890",
+        "created": "2017-08-10T16:46:13.540",
+        "titles": [
+          {
+            "title": "Dell Storage Manager 2016 R2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:storage_manager:16.3.20:*:*:*:*:*:*:*",
+        "cpeNameId": "A1CA49D0-46DE-448C-90F7-F0B44016E4B0",
+        "lastModified": "2020-09-16T17:24:02.137",
+        "created": "2020-09-16T17:24:02.137",
+        "titles": [
+          {
+            "title": "Dell Storage Manager 16.3.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:storage_manager:2016:r2.1:*:*:*:*:*:*",
+      "title": "Dell Storage Manager 2016 R2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:storage_manager:16.3.20:*:*:*:*:*:*:*",
+      "title": "Dell Storage Manager 16.3.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

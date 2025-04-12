@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9343_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5FF43F02-211E-40BD-A58E-9ACD87DDF11E",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9343 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9343_firmware:a19:*:*:*:*:*:*:*",
+        "cpeNameId": "ADA69C22-725E-4DF8-9438-84A03136A6D5",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9343 Firmware A19",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:xps_9343_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9343 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:xps_9343_firmware:a19:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9343 Firmware A19",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

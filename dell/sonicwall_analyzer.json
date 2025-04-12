@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dell:sonicwall_analyzer:7.2:sp1:*:*:*:*:*:*",
+        "cpeNameId": "9EC43E24-FB15-4FCF-A9FB-2CBA9DF1066F",
+        "lastModified": "2018-03-12T13:11:43.797",
+        "created": "2014-07-25T16:17:39.593",
+        "titles": [
+          {
+            "title": "Dell SonicWall Analyzer 7.2 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sonicwall:analyzer:7.2:sp1:*:*:*:*:*:*",
+            "cpeNameId": "191CFC63-2ECA-4077-95FF-04ABF3988B41"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dell:sonicwall_analyzer:7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "2D8D52F4-17FB-4AC7-8995-C6EBC931E4EF",
+        "lastModified": "2018-03-12T12:28:34.680",
+        "created": "2014-07-25T16:17:40.203",
+        "titles": [
+          {
+            "title": "Dell SonicWall Analyzer 7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sonicwall:analyzer:7.2:*:*:*:*:*:*:*",
+            "cpeNameId": "1CC93AC1-38DA-4B9D-ACC7-F69D08B797E3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dell:sonicwall_analyzer:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A5E22A3B-AB80-499A-9C10-4D8656841640",
+        "lastModified": "2018-03-12T13:11:33.687",
+        "created": "2016-03-03T14:19:47.960",
+        "titles": [
+          {
+            "title": "Dell SonicWALL Analyzer 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sonicwall:analyzer:8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "08ED2A8F-A1EE-4928-919D-38935902C7C7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dell:sonicwall_analyzer:8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "257FD305-4435-4D55-B0C6-BD042BA10FFA",
+        "lastModified": "2018-03-12T13:11:26.890",
+        "created": "2016-03-03T14:19:48.023",
+        "titles": [
+          {
+            "title": "Dell SonicWALL Analyzer 8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sonicwall:analyzer:8.1:*:*:*:*:*:*:*",
+            "cpeNameId": "7A2B90CA-9DE3-4E64-8D28-FF5D238482FE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:sonicwall_analyzer:7.2:sp1:*:*:*:*:*:*",
+      "title": "Dell SonicWall Analyzer 7.2 Service Pack 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sonicwall:analyzer:7.2:sp1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:dell:sonicwall_analyzer:7.2:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall Analyzer 7.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sonicwall:analyzer:7.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:dell:sonicwall_analyzer:8.0:*:*:*:*:*:*:*",
+      "title": "Dell SonicWALL Analyzer 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sonicwall:analyzer:8.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:dell:sonicwall_analyzer:8.1:*:*:*:*:*:*:*",
+      "title": "Dell SonicWALL Analyzer 8.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sonicwall:analyzer:8.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

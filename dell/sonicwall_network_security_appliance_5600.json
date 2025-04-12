@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:dell:sonicwall_network_security_appliance_5600:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E5F99E93-04D3-4998-80A5-EEE4DC284BC1",
+        "lastModified": "2022-06-16T15:02:44.810",
+        "created": "2018-01-30T02:38:44.163",
+        "titles": [
+          {
+            "title": "Dell SonicWall Network Security Appliance 5600",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:sonicwall:nsa_5600:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B7C44CD7-7430-466B-84C2-87B399B4C876"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:dell:sonicwall_network_security_appliance_5600:-:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall Network Security Appliance 5600",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:sonicwall:nsa_5600:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

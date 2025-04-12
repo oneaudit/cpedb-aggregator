@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:x1000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B25FDFDD-C9DA-4E73-B90D-86BFC88B150E",
+        "lastModified": "2021-03-19T17:58:30.617",
+        "created": "2020-04-13T11:13:47.573",
+        "titles": [
+          {
+            "title": "Dell X1000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:x1000_firmware:2.0.0.77:*:*:*:*:*:*:*",
+        "cpeNameId": "32A29A03-B7E1-4BCD-BECB-C2341E04A968",
+        "lastModified": "2021-03-19T17:58:30.617",
+        "created": "2020-04-13T11:13:47.573",
+        "titles": [
+          {
+            "title": "Dell X1000 Firmware 2.0.0.77",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:x1000_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell X1000 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:x1000_firmware:2.0.0.77:*:*:*:*:*:*:*",
+      "title": "Dell X1000 Firmware 2.0.0.77",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

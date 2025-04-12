@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9380_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3CFDEB21-58C8-48EC-98ED-83C485B3B7D8",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9380 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9380_firmware:1.3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "22935FBC-C98D-469F-BA87-220329FEA553",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9380 Firmware 1.3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:xps_9380_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9380 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:xps_9380_firmware:1.3.2:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9380 Firmware 1.3.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:device42:device42:17.05.01:*:*:*:*:*:*:*",
+        "cpeNameId": "3664F3D5-F524-478A-9CE5-F9EE6A49D1D1",
+        "lastModified": "2021-09-30T18:01:56.933",
+        "created": "2021-09-30T17:59:11.573",
+        "titles": [
+          {
+            "title": "Device42 17.05.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:device42:device42:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4E5F2C2C-021F-4062-964D-1B0E37D6C47C",
+        "lastModified": "2021-09-30T18:01:56.933",
+        "created": "2021-09-30T17:59:11.573",
+        "titles": [
+          {
+            "title": "Device42 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:device42:device42:17.05.01:*:*:*:*:*:*:*",
+      "title": "Device42 17.05.01",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:device42:device42:-:*:*:*:*:*:*:*",
+      "title": "Device42 -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

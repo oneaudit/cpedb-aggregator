@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9250_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "42EAF6F4-213A-4C70-9D40-045CD03DC52B",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9250 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9250_firmware:1.5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "BBA84C6E-0DC3-4118-A15F-0E9B05B3C4E2",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9250 Firmware 1.5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:xps_9250_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9250 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:xps_9250_firmware:1.5.1:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9250 Firmware 1.5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

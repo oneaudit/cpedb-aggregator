@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xc430_firmware:2.19.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6FD9D742-14C5-4596-A41A-4155C4C8168E",
+        "lastModified": "2025-01-27T18:37:45.880",
+        "created": "2025-01-27T18:37:45.880",
+        "titles": [
+          {
+            "title": "Dell XC430 Firmware 2.19.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xc430_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "03552CDA-B964-44F3-B815-E439D1BEF9C9",
+        "lastModified": "2025-01-27T18:37:45.880",
+        "created": "2025-01-27T18:37:45.880",
+        "titles": [
+          {
+            "title": "Dell XC430 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:xc430_firmware:2.19.0:*:*:*:*:*:*:*",
+      "title": "Dell XC430 Firmware 2.19.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:xc430_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell XC430 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

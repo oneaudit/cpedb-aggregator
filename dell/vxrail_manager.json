@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:vxrail_manager:7.0.410:*:*:*:*:vmware_vcenter:*:*",
+        "cpeNameId": "80883A93-BCC5-4A76-A956-374A6499C9EE",
+        "lastModified": "2023-02-09T17:50:21.540",
+        "created": "2023-02-08T18:46:36.530",
+        "titles": [
+          {
+            "title": "Dell Vxrail Manager 7.0.410 for Vmware Vcenter",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:vxrail_manager:-:*:*:*:*:vmware_vcenter:*:*",
+        "cpeNameId": "AD7D423E-5CBB-4B56-A92B-4E8E774C0AF1",
+        "lastModified": "2023-02-09T17:50:21.540",
+        "created": "2023-02-08T18:46:36.530",
+        "titles": [
+          {
+            "title": "Dell Vxrail Manager - for Vmware Vcenter",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:vxrail_manager:7.0.410:*:*:*:*:vmware_vcenter:*:*",
+      "title": "Dell Vxrail Manager 7.0.410 for Vmware Vcenter",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:vxrail_manager:-:*:*:*:*:vmware_vcenter:*:*",
+      "title": "Dell Vxrail Manager - for Vmware Vcenter",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

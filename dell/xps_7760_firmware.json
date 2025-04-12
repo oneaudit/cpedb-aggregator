@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_7760_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4F8CD788-CB9F-4D51-ACCC-74A7CC7D835B",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 7760 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_7760_firmware:2.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "27EBFD88-EF10-4402-838B-917DC0E2C437",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 7760 Firmware 2.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:xps_7760_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell XPS 7760 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:xps_7760_firmware:2.4.2:*:*:*:*:*:*:*",
+      "title": "Dell XPS 7760 Firmware 2.4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

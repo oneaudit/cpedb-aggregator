@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9570_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6AE98EC7-50A3-46DE-800B-D6B5F8AB161E",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9570 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9570_firmware:1.9.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7A6BD613-C47A-4068-92BB-CCC0F584B033",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9570 Firmware 1.9.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:xps_9570_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9570 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:xps_9570_firmware:1.9.1:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9570 Firmware 1.9.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

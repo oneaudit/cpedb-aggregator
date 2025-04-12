@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:device42:remote_collector:17.05.01:*:*:*:*:*:*:*",
+        "cpeNameId": "1DAF9D4B-CF41-49BE-AAFB-D0B3D274E612",
+        "lastModified": "2021-09-30T18:01:56.933",
+        "created": "2021-09-30T16:59:20.223",
+        "titles": [
+          {
+            "title": "Device42 Remote Collector (RC) 17.05.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:device42:remote_collector:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D9599937-CC42-4747-B6A9-93D7CE06B994",
+        "lastModified": "2021-09-30T18:01:56.933",
+        "created": "2021-09-30T16:59:20.223",
+        "titles": [
+          {
+            "title": "Device42 Remote Collector (RC)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:device42:remote_collector:17.05.01:*:*:*:*:*:*:*",
+      "title": "Device42 Remote Collector (RC) 17.05.01",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:device42:remote_collector:-:*:*:*:*:*:*:*",
+      "title": "Device42 Remote Collector (RC)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

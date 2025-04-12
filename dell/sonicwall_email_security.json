@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dell:sonicwall_email_security:7.5:*:*:*:*:*:*:*",
+        "cpeNameId": "284B18CD-48F9-46CE-AF9C-8CBA20C95E2B",
+        "lastModified": "2018-03-12T12:53:10.320",
+        "created": "2014-04-18T18:02:27.180",
+        "titles": [
+          {
+            "title": "Dell SonicWall Email Security 7.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sonicwall:email_security_appliance:7.5:*:*:*:*:*:*:*",
+            "cpeNameId": "29E6BF1A-BDDC-42F7-AC74-E3DDC51EBCCF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:sonicwall_email_security:7.5:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall Email Security 7.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sonicwall:email_security_appliance:7.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

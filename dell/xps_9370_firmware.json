@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9370_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9E2AE8D3-536A-435C-A099-71B1579F9A43",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9370 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9370_firmware:1.9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "814AD7A2-A70E-4062-9796-90B433E7E27C",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9370 Firmware 1.9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:xps_9370_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9370 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:xps_9370_firmware:1.9.0:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9370 Firmware 1.9.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

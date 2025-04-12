@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:x1052\\/p_firmware:3.0.1.8:*:*:*:*:*:*:*",
+        "cpeNameId": "13A29B52-CE74-4DA8-A61A-E815AAA9926F",
+        "lastModified": "2021-05-19T14:36:42.823",
+        "created": "2021-05-06T12:22:17.530",
+        "titles": [
+          {
+            "title": "Dell X1052/P FIRMWARE 3.0.1.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:x1052\\/p_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FF30AAC2-3F85-4F1B-96D7-FA88DBD32D29",
+        "lastModified": "2021-05-19T14:36:42.823",
+        "created": "2021-05-06T12:22:17.530",
+        "titles": [
+          {
+            "title": "Dell X1052/P FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:x1052\\/p_firmware:3.0.1.8:*:*:*:*:*:*:*",
+      "title": "Dell X1052/P FIRMWARE 3.0.1.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:x1052\\/p_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell X1052/P FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

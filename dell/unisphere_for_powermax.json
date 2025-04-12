@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:unisphere_for_powermax:9.2.1.6:*:*:*:*:*:*:*",
+        "cpeNameId": "6B5CB62C-208A-4299-A1C8-344A14501D24",
+        "lastModified": "2021-05-18T14:08:25.890",
+        "created": "2021-05-06T13:02:41.447",
+        "titles": [
+          {
+            "title": "Dell Unisphere for PowerMax 9.2.1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:unisphere_for_powermax:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4AAA1C91-0560-432E-BACB-14C48A663536",
+        "lastModified": "2021-05-18T14:08:25.890",
+        "created": "2021-05-06T13:02:41.447",
+        "titles": [
+          {
+            "title": "Dell Unisphere for PowerMax",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:unisphere_for_powermax:9.2.1.6:*:*:*:*:*:*:*",
+      "title": "Dell Unisphere for PowerMax 9.2.1.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:unisphere_for_powermax:-:*:*:*:*:*:*:*",
+      "title": "Dell Unisphere for PowerMax",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:storage_vsphere_client_plugin:6.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0248D9CF-C7B5-4AE9-A762-855187CEFC74",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "Dell Storage vSphere Client Plugin 6.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:storage_vsphere_client_plugin:-:*:*:*:*:*:*:*",
+        "cpeNameId": "64E7BAC8-1ABA-4FE6-BE17-0256F6E6C2CD",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "Dell Storage vSphere Client Plugin -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:storage_vsphere_client_plugin:6.1.1:*:*:*:*:*:*:*",
+      "title": "Dell Storage vSphere Client Plugin 6.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:storage_vsphere_client_plugin:-:*:*:*:*:*:*:*",
+      "title": "Dell Storage vSphere Client Plugin -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

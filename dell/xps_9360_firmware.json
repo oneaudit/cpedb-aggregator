@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9360_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D9581BBF-1138-47F3-9E11-008304932EB7",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9360 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9360_firmware:2.11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B24FEC65-B022-4A55-9E70-53F48C045D98",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9360 Firmware 2.11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:xps_9360_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9360 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:xps_9360_firmware:2.11.0:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9360 Firmware 2.11.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

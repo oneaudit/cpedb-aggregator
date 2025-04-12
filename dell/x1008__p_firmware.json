@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:x1008\\/p_firmware:3.0.1.8:*:*:*:*:*:*:*",
+        "cpeNameId": "29C6D1DF-257B-4295-ACFB-85ADDE712B9D",
+        "lastModified": "2021-05-19T14:36:42.823",
+        "created": "2021-05-06T12:21:54.687",
+        "titles": [
+          {
+            "title": "Dell X1008/P FIRMWARE 3.0.1.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:x1008\\/p_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EF8788A5-AA54-431B-A58D-D8701013D4E8",
+        "lastModified": "2021-05-19T14:36:42.823",
+        "created": "2021-05-06T12:21:54.687",
+        "titles": [
+          {
+            "title": "Dell X1008/P FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:x1008\\/p_firmware:3.0.1.8:*:*:*:*:*:*:*",
+      "title": "Dell X1008/P FIRMWARE 3.0.1.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:x1008\\/p_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell X1008/P FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

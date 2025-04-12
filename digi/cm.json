@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:digi:cm:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AF249282-090F-40BA-B778-2EB4E485C882",
+        "lastModified": "2008-04-01T14:41:58.917",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "DiGi Console Management Switch",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:digi:cm:32:*:*:*:*:*:*:*",
+        "cpeNameId": "9698114C-FC49-4460-9CC8-B779C1F6BC25",
+        "lastModified": "2008-04-07T14:04:27.707",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "DiGi Console Management Switch CM32",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:digi:cm:-:*:*:*:*:*:*:*",
+      "title": "DiGi Console Management Switch",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:digi:cm:32:*:*:*:*:*:*:*",
+      "title": "DiGi Console Management Switch CM32",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

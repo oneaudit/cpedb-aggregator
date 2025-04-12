@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:dell:sonicwall_umaem5000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6D5B8CC5-5A46-4469-95FB-E140FABD6A26",
+        "lastModified": "2018-03-12T13:05:34.283",
+        "created": "2014-07-25T16:19:17.503",
+        "titles": [
+          {
+            "title": "Dell SonicWall UMA EM5000 Universal Management Appliance",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:sonicwall:uma_em5000:-:*:*:*:*:*:*:*",
+            "cpeNameId": "1783FAB6-24EE-42B0-A256-2D6FF8F9CA56"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:dell:sonicwall_umaem5000:-:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall UMA EM5000 Universal Management Appliance",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:sonicwall:uma_em5000:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

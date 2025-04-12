@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:trusted_device_agent:5.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D55E4759-2657-4B38-86D6-419B3297019B",
+        "lastModified": "2023-04-17T15:16:36.763",
+        "created": "2023-04-11T15:05:26.460",
+        "titles": [
+          {
+            "title": "Dell Trusted Device Agent 5.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:trusted_device_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AF183970-2C26-492F-8BE8-1FE5A05E6932",
+        "lastModified": "2023-04-17T15:16:36.763",
+        "created": "2023-04-11T15:05:26.460",
+        "titles": [
+          {
+            "title": "Dell Trusted Device Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:trusted_device_agent:5.3.0:*:*:*:*:*:*:*",
+      "title": "Dell Trusted Device Agent 5.3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:trusted_device_agent:-:*:*:*:*:*:*:*",
+      "title": "Dell Trusted Device Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

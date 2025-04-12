@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_15_9550_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "21D4EFFA-29D3-4DB7-BD73-ED8B11B81B2F",
+        "lastModified": "2020-03-06T20:01:44.793",
+        "created": "2020-03-06T20:01:44.793",
+        "titles": [
+          {
+            "title": "Dell XPS 15 9550 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_15_9550_firmware:1.12.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7812C49A-CC8A-457E-8B3E-2E7D79D9F9F7",
+        "lastModified": "2020-03-06T20:01:45.670",
+        "created": "2020-03-06T20:01:45.670",
+        "titles": [
+          {
+            "title": "Dell XPS 15 9550 Firmware 1.12.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:xps_15_9550_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell XPS 15 9550 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:xps_15_9550_firmware:1.12.0:*:*:*:*:*:*:*",
+      "title": "Dell XPS 15 9550 Firmware 1.12.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

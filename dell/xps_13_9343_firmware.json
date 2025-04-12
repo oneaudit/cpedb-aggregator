@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_13_9343_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "18A3E5E4-12B5-4174-879B-4F6FB044D318",
+        "lastModified": "2020-03-06T20:01:38.560",
+        "created": "2020-03-06T20:01:38.560",
+        "titles": [
+          {
+            "title": "Dell XPS 13 9343 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_13_9343_firmware:a20:*:*:*:*:*:*:*",
+        "cpeNameId": "27486AC4-9197-4C3B-96A6-23769AA55EDB",
+        "lastModified": "2020-03-06T20:01:39.420",
+        "created": "2020-03-06T20:01:39.420",
+        "titles": [
+          {
+            "title": "Dell XPS 13 9343 Firmware A20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:xps_13_9343_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell XPS 13 9343 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:xps_13_9343_firmware:a20:*:*:*:*:*:*:*",
+      "title": "Dell XPS 13 9343 Firmware A20",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

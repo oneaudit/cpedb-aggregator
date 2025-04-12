@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:system_update:1.9:*:*:*:*:*:*:*",
+        "cpeNameId": "22D8006C-D289-4D33-9AE2-2AED85E1EA41",
+        "lastModified": "2021-04-22T15:29:43.430",
+        "created": "2021-04-07T16:35:08.993",
+        "titles": [
+          {
+            "title": "Dell System Update (DSU) 1.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:system_update:1.9.1:*:*:*:*:*:*:*",
+        "cpeNameId": "8DC99199-E70C-4727-9EA7-5B59F2EF68BC",
+        "lastModified": "2021-04-22T15:29:43.430",
+        "created": "2021-04-07T16:35:08.993",
+        "titles": [
+          {
+            "title": "Dell System Update (DSU) 1.9.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:system_update:1.9:*:*:*:*:*:*:*",
+      "title": "Dell System Update (DSU) 1.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:system_update:1.9.1:*:*:*:*:*:*:*",
+      "title": "Dell System Update (DSU) 1.9.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

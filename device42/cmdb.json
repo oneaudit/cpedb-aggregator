@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:device42:cmdb:18.01.00:*:*:*:*:*:*:*",
+        "cpeNameId": "F6C01D86-339A-4705-86DB-75D1DE8EF002",
+        "lastModified": "2022-11-04T18:43:33.913",
+        "created": "2022-08-17T20:21:04.137",
+        "titles": [
+          {
+            "title": "Device42 CMDB (Configuration Management Database) 18.01.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:device42:cmdb:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4C9BBC1A-90D1-4FA4-8CE1-D35E75DC3F0C",
+        "lastModified": "2022-11-04T18:43:33.913",
+        "created": "2022-08-17T20:21:04.137",
+        "titles": [
+          {
+            "title": "Device42 CMDB (Configuration Management Database)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:device42:cmdb:18.01.00:*:*:*:*:*:*:*",
+      "title": "Device42 CMDB (Configuration Management Database) 18.01.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:device42:cmdb:-:*:*:*:*:*:*:*",
+      "title": "Device42 CMDB (Configuration Management Database)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

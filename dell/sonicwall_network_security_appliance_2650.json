@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:dell:sonicwall_network_security_appliance_2650:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6AD32396-509D-422A-AAAE-87D3A29B61F0",
+        "lastModified": "2022-06-16T15:02:44.810",
+        "created": "2018-01-30T02:38:44.163",
+        "titles": [
+          {
+            "title": "Dell SonicWall Network Security Appliance 2650",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:sonicwall:nsa_2650:-:*:*:*:*:*:*:*",
+            "cpeNameId": "C167C20F-340A-4804-80A6-EC341351435E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:dell:sonicwall_network_security_appliance_2650:-:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall Network Security Appliance 2650",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:sonicwall:nsa_2650:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

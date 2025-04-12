@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:replay_manager_for_vmware:3.1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "FEB65BB5-39C6-469E-83B3-4A581A3F7978",
+        "lastModified": "2023-10-20T12:07:05.477",
+        "created": "2023-10-20T12:07:05.477",
+        "titles": [
+          {
+            "title": "Dell Replay Manager for VMware 3.1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:replay_manager_for_vmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1D1C5CDD-0E67-4E83-8170-F82F06F17F77",
+        "lastModified": "2023-10-20T12:07:05.477",
+        "created": "2023-10-20T12:07:05.477",
+        "titles": [
+          {
+            "title": "Dell Replay Manager for VMware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:replay_manager_for_vmware:3.1.2:*:*:*:*:*:*:*",
+      "title": "Dell Replay Manager for VMware 3.1.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:replay_manager_for_vmware:-:*:*:*:*:*:*:*",
+      "title": "Dell Replay Manager for VMware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:xtremio_management_server:6.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CC09BC3E-4495-4A7F-8DC2-30166239B597",
+        "lastModified": "2020-03-30T17:37:17.057",
+        "created": "2020-03-30T17:37:17.057",
+        "titles": [
+          {
+            "title": "Dell XtremIO Management Server 6.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:xtremio_management_server:6.3.3-8:*:*:*:*:*:*:*",
+        "cpeNameId": "47463263-6E51-4207-B446-12671C3BF2AD",
+        "lastModified": "2021-05-28T14:17:26.783",
+        "created": "2021-05-27T19:00:52.190",
+        "titles": [
+          {
+            "title": "Dell XtremIO Management Server (XMS) 6.3.3-8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:xtremio_management_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8F1F62A5-291E-4238-A121-7CA5DE59790A",
+        "lastModified": "2021-05-28T14:17:26.783",
+        "created": "2021-05-27T19:00:52.190",
+        "titles": [
+          {
+            "title": "Dell XtremIO Management Server (XMS)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:xtremio_management_server:6.4.0-22:*:*:*:*:*:*:*",
+        "cpeNameId": "75EBB010-5524-4989-A4FF-915F978CE47F",
+        "lastModified": "2022-10-14T16:41:53.160",
+        "created": "2022-10-14T15:33:23.313",
+        "titles": [
+          {
+            "title": "Dell XtremIO Management Server (XMS) 6.4.0-22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:xtremio_management_server:6.3.0:*:*:*:*:*:*:*",
+      "title": "Dell XtremIO Management Server 6.3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:xtremio_management_server:6.3.3-8:*:*:*:*:*:*:*",
+      "title": "Dell XtremIO Management Server (XMS) 6.3.3-8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:xtremio_management_server:-:*:*:*:*:*:*:*",
+      "title": "Dell XtremIO Management Server (XMS)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:xtremio_management_server:6.4.0-22:*:*:*:*:*:*:*",
+      "title": "Dell XtremIO Management Server (XMS) 6.4.0-22",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

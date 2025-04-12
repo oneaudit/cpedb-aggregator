@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:dell:sonicwall_sonicos:7.5.0.12:*:*:*:*:*:*:*",
+        "cpeNameId": "099DBA65-9CFB-4002-83F6-6A02433C2400",
+        "lastModified": "2018-03-12T13:04:31.660",
+        "created": "2015-04-30T17:49:19.187",
+        "titles": [
+          {
+            "title": "Dell SonicWall SonicOS 7.5.0.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sonicwall:sonicos:7.5.0.12:*:*:*:*:*:*:*",
+            "cpeNameId": "654269A0-546F-4238-B0ED-A358B0362C0F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:dell:sonicwall_sonicos:6.2.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "20337E2E-CAB3-4E5C-81D6-73CF253C36FD",
+        "lastModified": "2018-03-12T13:04:31.643",
+        "created": "2015-04-30T17:49:19.187",
+        "titles": [
+          {
+            "title": "Dell SonicWall SonicOS 6.2.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sonicwall:sonicos:6.2.2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "C74D19C2-ED6A-401E-93EC-505B77966E74"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:dell:sonicwall_sonicos:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FBF9B904-32F9-4A8A-BCAD-B94E3F9F35E7",
+        "lastModified": "2022-06-16T15:04:37.437",
+        "created": "2018-01-30T02:38:44.163",
+        "titles": [
+          {
+            "title": "Dell SonicWALL SonicOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sonicwall:sonicos:-:*:*:*:*:*:*:*",
+            "cpeNameId": "DDFF5DE8-6927-404A-B5F0-F55C28EBF7C3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:sonicwall_sonicos:7.5.0.12:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall SonicOS 7.5.0.12",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sonicwall:sonicos:7.5.0.12:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:dell:sonicwall_sonicos:6.2.2.0:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall SonicOS 6.2.2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sonicwall:sonicos:6.2.2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:dell:sonicwall_sonicos:-:*:*:*:*:*:*:*",
+      "title": "Dell SonicWALL SonicOS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sonicwall:sonicos:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

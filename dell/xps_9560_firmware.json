@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9560_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B9FC5133-2CC9-4346-8097-8AA1A5A6BDED",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9560 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9560_firmware:1.14.2:*:*:*:*:*:*:*",
+        "cpeNameId": "2D1A34ED-4056-4D15-AB77-300558FA5285",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9560 Firmware 1.14.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:xps_9560_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9560 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:xps_9560_firmware:1.14.2:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9560 Firmware 1.14.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

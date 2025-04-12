@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9350_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F7B901B1-B877-4E77-95CB-01995559A751",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9350 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:xps_9350_firmware:1.10.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0417830C-DDF3-4576-879D-B29084610E6F",
+        "lastModified": "2021-03-19T17:07:35.150",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell XPS 9350 Firmware 1.10.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:xps_9350_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9350 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:xps_9350_firmware:1.10.1:*:*:*:*:*:*:*",
+      "title": "Dell XPS 9350 Firmware 1.10.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

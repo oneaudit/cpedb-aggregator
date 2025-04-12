@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:dell:sonicwall_netextender_firmware:7.5.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "99579B66-BF27-4522-B220-F40811BCD568",
+        "lastModified": "2018-03-12T13:05:52.330",
+        "created": "2015-08-27T12:36:20.217",
+        "titles": [
+          {
+            "title": "Dell SonicWall NetExtender Firmware 7.5.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sonicwall:netextender_firmware:7.5.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "6710F3E0-5A9F-442D-83B9-BDA8C820FC04"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:dell:sonicwall_netextender_firmware:8.0.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "1BE9D11A-4C33-43ED-B8B1-0B5981F28B6C",
+        "lastModified": "2018-03-12T13:05:52.377",
+        "created": "2015-08-27T12:36:20.217",
+        "titles": [
+          {
+            "title": "Dell SonicWall NetExtender Firmware 8.0.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sonicwall:netextender_firmware:8.0.0.2:*:*:*:*:*:*:*",
+            "cpeNameId": "195C3274-45E9-4AE6-A22D-7EA59D4664C5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:dell:sonicwall_netextender_firmware:8.0.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7C52A735-63AD-41FA-B31A-6258B12C25CC",
+        "lastModified": "2018-03-12T13:05:52.363",
+        "created": "2015-08-27T12:36:20.217",
+        "titles": [
+          {
+            "title": "Dell SonicWall NetExtender Firmware 8.0.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sonicwall:netextender_firmware:8.0.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "20FA79D8-7EC3-4789-8E5C-C9DDAD00347A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:dell:sonicwall_netextender_firmware:8.0.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7CCEB16A-B32C-4496-8B5E-B446B8D8251F",
+        "lastModified": "2018-03-12T13:05:52.347",
+        "created": "2015-08-27T12:36:20.217",
+        "titles": [
+          {
+            "title": "Dell SonicWall NetExtender Firmware 8.0.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:sonicwall:netextender_firmware:8.0.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "908AE9BF-1D95-49E3-B54D-1323F3EE3B3B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:sonicwall_netextender_firmware:7.5.1.1:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall NetExtender Firmware 7.5.1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sonicwall:netextender_firmware:7.5.1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:dell:sonicwall_netextender_firmware:8.0.0.2:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall NetExtender Firmware 8.0.0.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sonicwall:netextender_firmware:8.0.0.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:dell:sonicwall_netextender_firmware:8.0.0.1:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall NetExtender Firmware 8.0.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sonicwall:netextender_firmware:8.0.0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:dell:sonicwall_netextender_firmware:8.0.0.0:*:*:*:*:*:*:*",
+      "title": "Dell SonicWall NetExtender Firmware 8.0.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:sonicwall:netextender_firmware:8.0.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}
