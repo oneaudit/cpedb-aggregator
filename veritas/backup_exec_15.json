@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:veritas:backup_exec_15:14.2.1180.3160:*:*:*:*:*:*:*",
+        "cpeNameId": "19AEBDFE-26C5-4FFF-9FA0-83441F23F91D",
+        "lastModified": "2021-08-12T16:22:49.827",
+        "created": "2018-09-17T12:45:35.320",
+        "titles": [
+          {
+            "title": "Veritas Backup Exec 15 14.2.1180.3160",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:veritas:backup_exec:14.2.1180.3160:*:*:*:*:*:*:*",
+            "cpeNameId": "7C6DCDDD-6528-42D8-8242-1DF298ECE9CA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:veritas:backup_exec_15:14.2.1180.3160:*:*:*:*:*:*:*",
+      "title": "Veritas Backup Exec 15 14.2.1180.3160",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:veritas:backup_exec:14.2.1180.3160:*:*:*:*:*:*:*"
+    }
+  ]
+}

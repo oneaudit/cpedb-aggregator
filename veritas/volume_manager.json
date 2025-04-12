@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:veritas:volume_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E6DAA758-C1AE-4605-BCF5-21335F719638",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Veritas Volume Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:veritas:volume_manager:4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "DC2363E5-E308-4181-9112-FF8450E1A35A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Veritas Volume Manager 4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:veritas:volume_manager:-:*:*:*:*:*:*:*",
+      "title": "Veritas Volume Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:veritas:volume_manager:4.1:*:*:*:*:*:*:*",
+      "title": "Veritas Volume Manager 4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

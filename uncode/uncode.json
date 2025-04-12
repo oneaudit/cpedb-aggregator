@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:uncode:uncode:2.8.6:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "3B287C8F-B854-4CC2-A82E-B76C54444398",
+        "lastModified": "2025-02-21T14:19:47.473",
+        "created": "2024-02-03T01:39:22.613",
+        "titles": [
+          {
+            "title": "Uncode uncode 2.8.6 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:undsgn:uncode:2.8.6:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "3334824F-BB6F-4D18-9CBD-3678544B3805"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:uncode:uncode:2.8.6:*:*:*:*:woocommerce:*:*",
+        "cpeNameId": "917CF722-0CA4-4FDD-B71D-77EA5CF9C8DA",
+        "lastModified": "2025-02-21T14:19:47.473",
+        "created": "2025-02-21T14:19:47.473",
+        "titles": [
+          {
+            "title": " Uncode uncode 2.8.6 for WooCommerce",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:uncode:uncode:2.8.6:*:*:*:*:wordpress:*:*",
+      "title": "Uncode uncode 2.8.6 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:undsgn:uncode:2.8.6:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:uncode:uncode:2.8.6:*:*:*:*:woocommerce:*:*",
+      "title": " Uncode uncode 2.8.6 for WooCommerce",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

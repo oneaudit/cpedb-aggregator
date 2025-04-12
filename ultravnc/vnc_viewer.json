@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ultravnc:vnc_viewer:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7622CA8D-FC61-47A0-8362-4FA38BC2FD22",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "UltraVNC VNC Viewer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ultravnc:vnc_viewer:3.3.3_r2:*:*:*:*:*:*:*",
+        "cpeNameId": "BCF7E9C9-A760-46E7-B731-0F0919DA32AF",
+        "lastModified": "2008-04-01T16:16:46.313",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Virtual Network Computing VNC Viewer 3.3.3 R2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ultravnc:vnc_viewer:-:*:*:*:*:*:*:*",
+      "title": "UltraVNC VNC Viewer",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ultravnc:vnc_viewer:3.3.3_r2:*:*:*:*:*:*:*",
+      "title": "Virtual Network Computing VNC Viewer 3.3.3 R2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

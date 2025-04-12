@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:verbatim:corporate_secure:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0B633A79-7942-4F25-9020-79568C2006C1",
+        "lastModified": "2021-08-10T19:19:47.983",
+        "created": "2017-11-22T16:57:51.347",
+        "titles": [
+          {
+            "title": "Verbatim Corporate Secure",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:verbatim:corporate_secure:-:*:*:*:fips:*:*:*",
+        "cpeNameId": "19243863-1EB8-485D-82C1-27C1D678522F",
+        "lastModified": "2021-08-10T19:19:47.983",
+        "created": "2017-11-22T16:57:58.920",
+        "titles": [
+          {
+            "title": "Verbatim Corporate Secure FIPS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:verbatim:corporate_secure:-:*:*:*:*:*:*:*",
+      "title": "Verbatim Corporate Secure",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:verbatim:corporate_secure:-:*:*:*:fips:*:*:*",
+      "title": "Verbatim Corporate Secure FIPS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

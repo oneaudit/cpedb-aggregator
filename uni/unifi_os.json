@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:uni:unifi_os:3.0.13:*:*:*:*:*:*:*",
+        "cpeNameId": "83568A3C-0C16-4AC3-B795-7FF86FCE4F6A",
+        "lastModified": "2023-09-28T21:37:07.280",
+        "created": "2023-09-28T21:37:07.280",
+        "titles": [
+          {
+            "title": "Uni UniFi OS 3.0.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:uni:unifi_os:-:*:*:*:*:*:*:*",
+        "cpeNameId": "371E6FFE-D803-4D9E-A91C-4F2FF6ABD54D",
+        "lastModified": "2023-09-28T21:37:07.280",
+        "created": "2023-09-28T21:37:07.280",
+        "titles": [
+          {
+            "title": "Uni UniFi OS -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:uni:unifi_os:3.0.13:*:*:*:*:*:*:*",
+      "title": "Uni UniFi OS 3.0.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:uni:unifi_os:-:*:*:*:*:*:*:*",
+      "title": "Uni UniFi OS -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

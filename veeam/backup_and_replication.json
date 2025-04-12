@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:veeam:backup_and_replication:5.0.2.230:*:*:*:*:*:*:*",
+        "cpeNameId": "F2167B33-424C-4B9C-9815-102DEB60C195",
+        "lastModified": "2024-05-09T18:37:53.550",
+        "created": "2012-08-01T21:33:16.687",
+        "titles": [
+          {
+            "title": "Veeam Backup \u0026 Replication (B\u0026R) 5.0.2.230",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:veeam:veeam_backup_\\\u0026_replication:5.0.2.230:*:*:*:*:*:*:*",
+            "cpeNameId": "B1CB03BF-63B3-417C-AFD8-D06A23F8ABF8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:veeam:backup_and_replication:8.0.0.2030:*:*:*:*:*:*:*",
+        "cpeNameId": "6475C1CF-D114-45D1-9085-F77B6338EE26",
+        "lastModified": "2024-05-09T18:37:53.550",
+        "created": "2016-11-23T16:27:07.070",
+        "titles": [
+          {
+            "title": "Veeam Backup \u0026 Replication (B\u0026R) 8.0.0.2030",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:veeam:veeam_backup_\\\u0026_replication:8.0.0.2030:*:*:*:*:*:*:*",
+            "cpeNameId": "45AF711B-1976-4EEC-B091-B4E080B8310E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:veeam:backup_and_replication:5.0.2.230:*:*:*:*:*:*:*",
+      "title": "Veeam Backup \u0026 Replication (B\u0026R) 5.0.2.230",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:veeam:veeam_backup_\\\u0026_replication:5.0.2.230:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:veeam:backup_and_replication:8.0.0.2030:*:*:*:*:*:*:*",
+      "title": "Veeam Backup \u0026 Replication (B\u0026R) 8.0.0.2030",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:veeam:veeam_backup_\\\u0026_replication:8.0.0.2030:*:*:*:*:*:*:*"
+    }
+  ]
+}

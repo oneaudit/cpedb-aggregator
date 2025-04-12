@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vadesecure:secure_gateway:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F5C940C3-F5CB-4C34-B359-030E633857A0",
+        "lastModified": "2023-09-07T17:25:25.420",
+        "created": "2023-06-15T13:29:51.957",
+        "titles": [
+          {
+            "title": "Vade Secure Gateway 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vadesecure:secure_gateway:-:*:*:*:*:*:*:*",
+        "cpeNameId": "36409F19-091D-4DC0-856E-CD818E0B525F",
+        "lastModified": "2023-09-07T17:25:25.420",
+        "created": "2023-06-15T13:29:51.957",
+        "titles": [
+          {
+            "title": "Vade Secure Gateway",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:vadesecure:secure_gateway:3.0:*:*:*:*:*:*:*",
+      "title": "Vade Secure Gateway 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vadesecure:secure_gateway:-:*:*:*:*:*:*:*",
+      "title": "Vade Secure Gateway",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

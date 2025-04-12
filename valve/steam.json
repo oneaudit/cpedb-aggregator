@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:valve:steam:2.10.91.91:*:*:*:*:*:*:*",
+        "cpeNameId": "F4018889-0220-4EAB-B0DC-1FE96BD4F35D",
+        "lastModified": "2022-02-07T19:09:08.330",
+        "created": "2016-08-25T13:56:42.557",
+        "titles": [
+          {
+            "title": "Valve Steam 2.10.91.91",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:valvesoftware:steam_client:2.10.91.91:*:*:*:*:*:*:*",
+            "cpeNameId": "3D1B1284-2EB0-4227-BA55-E3C3B6C05C4D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:valve:steam:2.10.91.91:*:*:*:*:*:*:*",
+      "title": "Valve Steam 2.10.91.91",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:valvesoftware:steam_client:2.10.91.91:*:*:*:*:*:*:*"
+    }
+  ]
+}

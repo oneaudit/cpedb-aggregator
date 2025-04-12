@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:veritas:cluster_server:6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "6FF8179A-C70B-4A64-BF9C-C622F415EB2C",
+        "lastModified": "2019-12-06T14:59:42.837",
+        "created": "2019-12-06T14:59:42.837",
+        "titles": [
+          {
+            "title": "Veritas Cluster Server 6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:veritas:cluster_server:6.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "FECDB4E1-79A0-4130-A692-E8B25C1DCA59",
+        "lastModified": "2019-12-06T14:59:42.960",
+        "created": "2019-12-06T14:59:42.960",
+        "titles": [
+          {
+            "title": "Veritas Cluster Server 6.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:veritas:cluster_server:6.1:*:*:*:*:*:*:*",
+      "title": "Veritas Cluster Server 6.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:veritas:cluster_server:6.2.1:*:*:*:*:*:*:*",
+      "title": "Veritas Cluster Server 6.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

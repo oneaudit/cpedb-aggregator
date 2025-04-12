@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:vapor_project:vapor:4.29.4:*:*:*:*:swift:*:*",
+        "cpeNameId": "2D312091-FE56-4CDE-B8A4-EF4B0D3AF173",
+        "lastModified": "2022-06-07T18:11:55.433",
+        "created": "2020-10-20T17:35:36.073",
+        "titles": [
+          {
+            "title": "Vapor Project Vapor 4.29.4 for Swift",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:vapor:vapor:4.29.4:*:*:*:*:*:*:*",
+            "cpeNameId": "FE5A6AA0-59FC-46DB-8D8C-8C43AE800171"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:vapor_project:vapor:4.29.4:*:*:*:*:swift:*:*",
+      "title": "Vapor Project Vapor 4.29.4 for Swift",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:vapor:vapor:4.29.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

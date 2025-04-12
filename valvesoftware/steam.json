@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:valvesoftware:steam:1528829181:beta:*:*:*:*:*:*",
+        "cpeNameId": "CC8213A0-B23E-418F-BCDF-192C7B9CBC5E",
+        "lastModified": "2022-02-07T19:09:08.330",
+        "created": "2019-06-25T12:43:20.837",
+        "titles": [
+          {
+            "title": "Valve Software Steam 1528829181 Beta",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:valvesoftware:steam_client:1528829181:beta:*:*:*:*:*:*",
+            "cpeNameId": "6930EA8C-B28C-4FC3-BD2A-86F37FC12BFE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:valvesoftware:steam:2021-04-10:*:*:*:*:*:*:*",
+        "cpeNameId": "D3C510EA-CCEB-419A-9BA4-EC035A0419D3",
+        "lastModified": "2022-02-07T19:09:08.330",
+        "created": "2021-04-14T13:42:38.053",
+        "titles": [
+          {
+            "title": "Valve Software Steam 2021-04-10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:valvesoftware:steam_client:2021-04-10:*:*:*:*:*:*:*",
+            "cpeNameId": "E00FE5B8-6EF8-43DB-A07D-11A6FC38BA37"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:valvesoftware:steam:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B962342D-3003-46CC-A356-FEE20B986AFF",
+        "lastModified": "2022-02-07T19:09:08.330",
+        "created": "2021-04-14T13:42:38.053",
+        "titles": [
+          {
+            "title": "Valve Software Steam ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:valvesoftware:steam_client:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E39B1A67-4A97-4275-B6DB-2F886AE3C49A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:valvesoftware:steam:1528829181:beta:*:*:*:*:*:*",
+      "title": "Valve Software Steam 1528829181 Beta",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:valvesoftware:steam_client:1528829181:beta:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:valvesoftware:steam:2021-04-10:*:*:*:*:*:*:*",
+      "title": "Valve Software Steam 2021-04-10",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:valvesoftware:steam_client:2021-04-10:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:valvesoftware:steam:-:*:*:*:*:*:*:*",
+      "title": "Valve Software Steam ",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:valvesoftware:steam_client:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

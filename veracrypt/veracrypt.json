@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:veracrypt:veracrypt:1.14:*:*:*:*:*:*:*",
+        "cpeNameId": "499D7A80-4336-41C0-A612-B92C0BAD16BB",
+        "lastModified": "2021-06-28T18:20:27.033",
+        "created": "2017-10-13T21:00:18.010",
+        "titles": [
+          {
+            "title": "VeraCrypt 1.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:idrix:veracrypt:1.14:*:*:*:*:*:*:*",
+            "cpeNameId": "A75F7870-C234-45BC-8658-9AC0AEBEA96C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:veracrypt:veracrypt:1.14:*:*:*:*:*:*:*",
+      "title": "VeraCrypt 1.14",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:idrix:veracrypt:1.14:*:*:*:*:*:*:*"
+    }
+  ]
+}

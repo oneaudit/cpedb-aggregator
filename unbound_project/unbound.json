@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:unbound_project:unbound:1.6.6-5:*:*:*:*:*:*:*",
+        "cpeNameId": "62554DCF-CB54-4A86-ABDA-B7CB73AEEF55",
+        "lastModified": "2020-12-07T18:18:00.690",
+        "created": "2020-12-01T20:08:51.410",
+        "titles": [
+          {
+            "title": "unbound Project unbound 1.6.6-5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:nlnetlabs:unbound:1.6.6-5:*:*:*:*:*:*:*",
+            "cpeNameId": "ED76D58E-44F7-4754-AA99-7281D483B0C9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:unbound_project:unbound:1.6.6-5:*:*:*:*:*:*:*",
+      "title": "unbound Project unbound 1.6.6-5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:nlnetlabs:unbound:1.6.6-5:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:umbraco:umbraco:8.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "0D648146-01E0-43B1-BCA6-3893C31637A0",
+        "lastModified": "2020-06-11T11:59:58.937",
+        "created": "2020-02-07T17:01:43.800",
+        "titles": [
+          {
+            "title": "Umbraco 8.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:umbraco:umbraco_cms:8.2.2:*:*:*:*:*:*:*",
+            "cpeNameId": "73A4F79F-4E81-4391-8731-C9D6D5AA6CD4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:umbraco:umbraco:8.2.2:*:*:*:*:*:*:*",
+      "title": "Umbraco 8.2.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:umbraco:umbraco_cms:8.2.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

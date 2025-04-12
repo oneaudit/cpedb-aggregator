@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:valve:dota_2:2020-02-17:*:*:*:*:*:*:*",
+        "cpeNameId": "3647EE34-11E2-4DBB-9100-675DAFE2A4B6",
+        "lastModified": "2022-02-07T19:09:08.330",
+        "created": "2020-02-27T14:38:51.143",
+        "titles": [
+          {
+            "title": "Valve DotA 2 2020-02-17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:valvesoftware:dota_2:2020-02-17:*:*:*:*:*:*:*",
+            "cpeNameId": "AD9BF1E8-07DC-4A50-A227-CA02839D465C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:valve:dota_2:2020-02-17:*:*:*:*:*:*:*",
+      "title": "Valve DotA 2 2020-02-17",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:valvesoftware:dota_2:2020-02-17:*:*:*:*:*:*:*"
+    }
+  ]
+}
