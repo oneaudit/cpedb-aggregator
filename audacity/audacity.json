@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:audacity:audacity:1.2.6:*:*:*:*:*:*:*",
+        "cpeNameId": "4D12B29D-8155-462C-B169-E5458E976B0C",
+        "lastModified": "2022-02-07T18:18:20.777",
+        "created": "2009-02-10T15:51:51.150",
+        "titles": [
+          {
+            "title": "Audacity 1.2.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:audacityteam:audacity:1.2.6:*:*:*:*:*:*:*",
+            "cpeNameId": "5D7DEF4B-8BFE-43FF-88D5-BDF1898C8987"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:audacity:audacity:1.2.6:*:*:*:*:*:*:*",
+      "title": "Audacity 1.2.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:audacityteam:audacity:1.2.6:*:*:*:*:*:*:*"
+    }
+  ]
+}

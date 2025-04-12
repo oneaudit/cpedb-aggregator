@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:atlassian:jira_service_management_server_and_data_center:4.21.0:*:*:*:*:*:*:*",
+        "cpeNameId": "92019EB9-DA78-4524-90E9-089D1C620314",
+        "lastModified": "2022-03-04T14:52:45.610",
+        "created": "2022-01-13T15:11:33.820",
+        "titles": [
+          {
+            "title": "Atlassian Jira Service Management Server And Data Center 4.21.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:atlassian:jira_service_management:4.21.0:*:*:*:server:*:*:*",
+            "cpeNameId": "4E0D8065-C680-42AE-86AD-5D8569C9A2F7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:atlassian:jira_service_management_server_and_data_center:4.21.0:*:*:*:*:*:*:*",
+      "title": "Atlassian Jira Service Management Server And Data Center 4.21.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:atlassian:jira_service_management:4.21.0:*:*:*:server:*:*:*"
+    }
+  ]
+}

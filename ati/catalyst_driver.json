@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ati:catalyst_driver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2BA27403-D504-4B0C-897E-49C204CBC375",
+        "lastModified": "2008-03-25T18:12:23.373",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "ATI Technologies Catalyst Driver",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ati:catalyst_driver:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "79C56EC5-1969-426E-B26C-CDBB69B5D2E7",
+        "lastModified": "2008-04-01T14:36:34.590",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "ATI Technologies Display Driver 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ati:catalyst_driver:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D99A720A-268A-434C-B86E-8F037815E7E6",
+        "lastModified": "2008-04-01T14:36:34.687",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "ATI Technologies Display Driver 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ati:catalyst_driver:-:*:*:*:*:*:*:*",
+      "title": "ATI Technologies Catalyst Driver",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ati:catalyst_driver:7.0:*:*:*:*:*:*:*",
+      "title": "ATI Technologies Display Driver 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ati:catalyst_driver:8.0:*:*:*:*:*:*:*",
+      "title": "ATI Technologies Display Driver 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

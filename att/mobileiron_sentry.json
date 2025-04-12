@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:att:mobileiron_sentry:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A6F6C3AA-7C1E-4396-A2CE-1739C37BB6C6",
+        "lastModified": "2021-08-12T11:43:07.680",
+        "created": "2021-07-28T18:43:53.160",
+        "titles": [
+          {
+            "title": "AT\u0026T MobileIron Sentry 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:att:mobileiron_sentry:-:*:*:*:*:*:*:*",
+        "cpeNameId": "03777D99-5EBA-45B3-8021-22AB435DA9EE",
+        "lastModified": "2021-08-12T11:43:07.680",
+        "created": "2021-07-28T18:43:53.160",
+        "titles": [
+          {
+            "title": "AT\u0026T MobileIron Sentry",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:att:mobileiron_sentry:5.0:*:*:*:*:*:*:*",
+      "title": "AT\u0026T MobileIron Sentry 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:att:mobileiron_sentry:-:*:*:*:*:*:*:*",
+      "title": "AT\u0026T MobileIron Sentry",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
