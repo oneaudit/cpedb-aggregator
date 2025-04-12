@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:intel:xeon_gold_6240l__firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6AA19C80-8429-4BA1-9AFC-B2A31FAF4ADF",
+        "lastModified": "2023-09-27T20:51:36.947",
+        "created": "2020-03-23T17:32:30.500",
+        "titles": [
+          {
+            "title": "Intel Xeon Gold 6240L  Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:intel:xeon_gold_6240l_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E8500D66-AC67-4415-9F34-6C65717669A0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_gold_6240l__firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Gold 6240L  Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:intel:xeon_gold_6240l_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

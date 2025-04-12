@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:intel:xeon_gold_5218t__firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A4F2CD4A-C7C1-4656-8CFB-29836BAB1CC5",
+        "lastModified": "2023-09-27T20:51:36.947",
+        "created": "2020-03-23T17:32:19.173",
+        "titles": [
+          {
+            "title": "Intel Xeon Gold 5218T  Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:intel:xeon_gold_5218t_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D79B587A-8929-4E93-B380-4998C42EF7D1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_gold_5218t__firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Gold 5218T  Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:intel:xeon_gold_5218t_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

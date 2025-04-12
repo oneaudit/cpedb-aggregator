@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:intel:xeon_gold_6240y__firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F547848B-8A91-4F3E-BDE7-1047ED633B59",
+        "lastModified": "2023-09-27T20:51:36.947",
+        "created": "2020-03-23T17:32:31.953",
+        "titles": [
+          {
+            "title": "Intel Xeon Gold 6240Y  Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:intel:xeon_gold_6240y_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A6E84A80-A738-4CD5-8687-1D953D9CCB71"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_gold_6240y__firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Gold 6240Y  Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:intel:xeon_gold_6240y_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
