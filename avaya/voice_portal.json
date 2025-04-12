@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:voice_portal:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "71A8D9F8-8490-4486-AC6A-95DDD3A0914D",
+        "lastModified": "2021-03-29T13:54:09.360",
+        "created": "2020-08-07T12:54:09.217",
+        "titles": [
+          {
+            "title": "Avaya Voice Portal 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:voice_portal:5.1:-:*:*:*:*:*:*",
+        "cpeNameId": "B47EB68B-A1B5-4661-8F7F-DB0D532C889C",
+        "lastModified": "2021-03-29T13:54:09.360",
+        "created": "2020-08-07T12:54:09.217",
+        "titles": [
+          {
+            "title": "Avaya Voice Portal 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:voice_portal:5.1:sp1:*:*:*:*:*:*",
+        "cpeNameId": "F15B461C-F5E9-4502-8BC7-09F6C5A2C724",
+        "lastModified": "2021-03-29T13:54:09.360",
+        "created": "2020-08-07T12:54:09.217",
+        "titles": [
+          {
+            "title": "Avaya Voice Portal 5.1 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:avaya:voice_portal:5.0:*:*:*:*:*:*:*",
+      "title": "Avaya Voice Portal 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avaya:voice_portal:5.1:-:*:*:*:*:*:*",
+      "title": "Avaya Voice Portal 5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avaya:voice_portal:5.1:sp1:*:*:*:*:*:*",
+      "title": "Avaya Voice Portal 5.1 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

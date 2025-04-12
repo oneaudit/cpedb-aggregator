@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:ip_office_application_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BAF7B080-B553-4B32-9CAC-DD429BE7594F",
+        "lastModified": "2019-12-30T18:54:07.147",
+        "created": "2019-12-30T18:54:07.147",
+        "titles": [
+          {
+            "title": "Avaya IP Office Application Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:ip_office_application_server:11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C33AAED0-E2B7-4580-9D5B-83BD54A2EC16",
+        "lastModified": "2019-12-30T18:54:07.460",
+        "created": "2019-12-30T18:54:07.460",
+        "titles": [
+          {
+            "title": "Avaya IP Office Application Server 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:ip_office_application_server:11.0.4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C9096CCE-2B5C-4EC4-B3D0-05BEDDB7A5E0",
+        "lastModified": "2019-12-30T18:54:07.600",
+        "created": "2019-12-30T18:54:07.600",
+        "titles": [
+          {
+            "title": "Avaya IP Office Application Server 11.0.4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:avaya:ip_office_application_server:-:*:*:*:*:*:*:*",
+      "title": "Avaya IP Office Application Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avaya:ip_office_application_server:11.0:*:*:*:*:*:*:*",
+      "title": "Avaya IP Office Application Server 11.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avaya:ip_office_application_server:11.0.4.0:*:*:*:*:*:*:*",
+      "title": "Avaya IP Office Application Server 11.0.4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

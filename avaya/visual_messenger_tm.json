@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:avaya:visual_messenger_tm:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4EADD58C-B812-423E-AC56-515208A8F26B",
+        "lastModified": "2021-03-26T17:29:51.363",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Avaya Visual Messenger TM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:avaya:visual_messenger:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BA56B8B7-491C-4966-B596-6AE983A97144"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:avaya:visual_messenger_tm:-:*:*:*:*:*:*:*",
+      "title": "Avaya Visual Messenger TM",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:avaya:visual_messenger:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

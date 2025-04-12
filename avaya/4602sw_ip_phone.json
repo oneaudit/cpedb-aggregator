@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:avaya:4602sw_ip_phone:-:*:*:*:*:*:*:*",
+        "cpeNameId": "70BB7C00-4A47-4C7C-9F65-1DF5526B3024",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Avaya 4602SW IP Phone",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:avaya:4602sw_ip_phone:r2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "7E938A95-FF63-44B3-8E95-EA63549D861B",
+        "lastModified": "2008-04-07T13:41:26.057",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Avaya 4602SW IP Phone firmware 2.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:avaya:4602sw_ip_phone:-:*:*:*:*:*:*:*",
+      "title": "Avaya 4602SW IP Phone",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:avaya:4602sw_ip_phone:r2.2:*:*:*:*:*:*:*",
+      "title": "Avaya 4602SW IP Phone firmware 2.2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

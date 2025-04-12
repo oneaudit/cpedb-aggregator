@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avira:phantom_vpn:2.23.1:*:*:*:*:macos:*:*",
+        "cpeNameId": "4AD74121-9506-4A86-B2C5-7D9460192473",
+        "lastModified": "2023-08-28T17:58:28.677",
+        "created": "2023-08-16T14:51:48.550",
+        "titles": [
+          {
+            "title": "Avira Phantom VPN 2.23.1 for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avira:phantom_vpn:-:*:*:*:*:macos:*:*",
+        "cpeNameId": "BF70C30A-AA7A-478A-99DD-57955AD137F9",
+        "lastModified": "2023-08-28T17:58:28.677",
+        "created": "2023-08-16T14:51:48.550",
+        "titles": [
+          {
+            "title": "Avira Phantom VPN for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:avira:phantom_vpn:2.23.1:*:*:*:*:macos:*:*",
+      "title": "Avira Phantom VPN 2.23.1 for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avira:phantom_vpn:-:*:*:*:*:macos:*:*",
+      "title": "Avira Phantom VPN for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:auth0:auth0-wcf-service-jwt:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2BDFAB64-D3C7-4BD1-92AF-71760D6ACECD",
+        "lastModified": "2019-12-10T14:49:22.090",
+        "created": "2019-12-10T14:49:22.090",
+        "titles": [
+          {
+            "title": "Auth0-WCF-Service-JWT",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:auth0:auth0-wcf-service-jwt:1.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "889AE02D-85FC-4E4C-96A4-7E90AE7E8B9D",
+        "lastModified": "2019-12-10T14:49:22.437",
+        "created": "2019-12-10T14:49:22.437",
+        "titles": [
+          {
+            "title": "Auth0-WCF-Service-JWT 1.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:auth0:auth0-wcf-service-jwt:-:*:*:*:*:*:*:*",
+      "title": "Auth0-WCF-Service-JWT",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:auth0:auth0-wcf-service-jwt:1.0.4:*:*:*:*:*:*:*",
+      "title": "Auth0-WCF-Service-JWT 1.0.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

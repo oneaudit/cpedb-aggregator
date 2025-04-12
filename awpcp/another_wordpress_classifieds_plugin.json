@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:3.3.1:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "D74FA72B-AB8D-4089-85CA-23BA3740AB70",
+        "lastModified": "2024-09-25T14:33:46.627",
+        "created": "2015-01-13T18:01:01.413",
+        "titles": [
+          {
+            "title": "AWPCP Another WordPress Classifieds Plugin for WordPress 3.3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:strategy11:awp_classifieds:3.3.1:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "1DE05B67-E997-474B-A075-7DEA8424AA44"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:4.3:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "BD998DE4-3ADF-4A46-9791-C5034CFB5381",
+        "lastModified": "2024-09-25T14:33:46.627",
+        "created": "2022-10-31T17:23:18.693",
+        "titles": [
+          {
+            "title": "AWPCP Another WordPress Classifieds Plugin 4.3 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:strategy11:awp_classifieds:4.3:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "CDBEEC22-25B8-40C4-8F5C-A040AF7F1CBE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:4.3.1:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "D0811335-CC3A-445C-8E48-22CC29B36C2D",
+        "lastModified": "2024-09-25T14:33:46.627",
+        "created": "2023-11-25T04:35:20.817",
+        "titles": [
+          {
+            "title": "AWPCP Another WordPress Classifieds Plugin 4.3.1 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:strategy11:awp_classifieds:4.3.1:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "A07B606E-A956-49F6-AA59-C1CC1785B33B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:3.3.1:*:*:*:*:wordpress:*:*",
+      "title": "AWPCP Another WordPress Classifieds Plugin for WordPress 3.3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:strategy11:awp_classifieds:3.3.1:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:4.3:*:*:*:*:wordpress:*:*",
+      "title": "AWPCP Another WordPress Classifieds Plugin 4.3 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:strategy11:awp_classifieds:4.3:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:4.3.1:*:*:*:*:wordpress:*:*",
+      "title": "AWPCP Another WordPress Classifieds Plugin 4.3.1 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:strategy11:awp_classifieds:4.3.1:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

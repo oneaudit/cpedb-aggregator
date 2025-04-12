@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:aura_communication_manager_messaging:7.0:-:*:*:*:*:*:*",
+        "cpeNameId": "8FC0600C-3334-42AA-AF86-64B8BAB8CC95",
+        "lastModified": "2021-03-26T13:18:42.813",
+        "created": "2019-11-20T19:16:11.733",
+        "titles": [
+          {
+            "title": "Avaya Aura Communication Manager Messaging 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:aura_communication_manager_messaging:7.0:sp1:*:*:*:*:*:*",
+        "cpeNameId": "E830A908-6D18-4B73-A735-BDCE9000A943",
+        "lastModified": "2021-03-26T13:18:42.813",
+        "created": "2019-11-20T19:16:11.733",
+        "titles": [
+          {
+            "title": "Avaya Aura Communication Manager Messaging 7.0 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:aura_communication_manager_messaging:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F3EE8B4E-44F9-41BB-B78D-9E032BE55B0F",
+        "lastModified": "2021-04-09T13:18:18.903",
+        "created": "2021-03-26T12:41:59.110",
+        "titles": [
+          {
+            "title": "Avaya Aura Communication Manager Messaging",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:avaya:aura_communication_manager_messaging:7.0:-:*:*:*:*:*:*",
+      "title": "Avaya Aura Communication Manager Messaging 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avaya:aura_communication_manager_messaging:7.0:sp1:*:*:*:*:*:*",
+      "title": "Avaya Aura Communication Manager Messaging 7.0 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avaya:aura_communication_manager_messaging:-:*:*:*:*:*:*:*",
+      "title": "Avaya Aura Communication Manager Messaging",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

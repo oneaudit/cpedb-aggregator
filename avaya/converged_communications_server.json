@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:avaya:converged_communications_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DBE1D0A7-9B39-4DE7-A1A6-1410A5591076",
+        "lastModified": "2008-04-01T14:36:39.590",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Avaya Converged Communications Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:avaya:converged_communications_server:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B0AF333D-AD97-42B8-9A9F-2B31ACD8138D",
+        "lastModified": "2008-04-01T14:36:39.637",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Avaya Converged Communications Server 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:avaya:converged_communications_server:-:*:*:*:*:*:*:*",
+      "title": "Avaya Converged Communications Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:avaya:converged_communications_server:2.0:*:*:*:*:*:*:*",
+      "title": "Avaya Converged Communications Server 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

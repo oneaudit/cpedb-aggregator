@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:sip_enablement_services:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1DE1FC46-517E-4F98-9831-3F6B0E08C016",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Avaya SIP Enablement Services",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:sip_enablement_services:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D6E652AA-30FA-4756-AB09-5BA473A46094",
+        "lastModified": "2021-03-29T13:49:49.823",
+        "created": "2020-08-07T11:02:27.307",
+        "titles": [
+          {
+            "title": "Avaya SIP Enablement Services 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:avaya:sip_enablement_services:-:*:*:*:*:*:*:*",
+      "title": "Avaya SIP Enablement Services",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avaya:sip_enablement_services:4.0:*:*:*:*:*:*:*",
+      "title": "Avaya SIP Enablement Services 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

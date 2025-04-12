@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avast:avg_antitrack:-:*:*:*:*:*:*:*",
+        "cpeNameId": "500EE789-179B-4BF4-8DD6-EC7E96A3F98E",
+        "lastModified": "2021-03-23T18:33:03.660",
+        "created": "2020-03-10T18:13:43.663",
+        "titles": [
+          {
+            "title": "Avast AVG AntiTrack",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avast:avg_antitrack:2.0.0.178:*:*:*:*:*:*:*",
+        "cpeNameId": "4D52B157-7EB1-42AE-8AF8-BE4732FCF0DA",
+        "lastModified": "2021-03-23T18:33:03.660",
+        "created": "2020-03-10T18:13:43.663",
+        "titles": [
+          {
+            "title": "Avast AVG AntiTrack 2.0.0.178",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:avast:avg_antitrack:-:*:*:*:*:*:*:*",
+      "title": "Avast AVG AntiTrack",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avast:avg_antitrack:2.0.0.178:*:*:*:*:*:*:*",
+      "title": "Avast AVG AntiTrack 2.0.0.178",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

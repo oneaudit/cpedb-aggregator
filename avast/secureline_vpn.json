@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avast:secureline_vpn:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4F7D4BF9-0355-40E4-B297-C81BEE92D28D",
+        "lastModified": "2020-09-15T16:43:10.133",
+        "created": "2020-09-15T16:43:10.133",
+        "titles": [
+          {
+            "title": "AVAST SecureLine VPN",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avast:secureline_vpn:5.6.4982.470:*:*:*:*:*:*:*",
+        "cpeNameId": "405FF5B6-98AE-4C66-9900-E4129A3910ED",
+        "lastModified": "2020-09-15T16:43:10.430",
+        "created": "2020-09-15T16:43:10.430",
+        "titles": [
+          {
+            "title": "AVAST SecureLine VPN 5.6.4982.470",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:avast:secureline_vpn:-:*:*:*:*:*:*:*",
+      "title": "AVAST SecureLine VPN",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avast:secureline_vpn:5.6.4982.470:*:*:*:*:*:*:*",
+      "title": "AVAST SecureLine VPN 5.6.4982.470",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

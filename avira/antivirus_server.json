@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avira:antivirus_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C801852B-401C-4BEE-BD50-98AAE9804ED8",
+        "lastModified": "2021-05-06T13:19:11.800",
+        "created": "2020-02-18T16:11:06.803",
+        "titles": [
+          {
+            "title": "Avira Antivirus Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avira:antivirus_server:8.2.12.58:*:*:*:*:*:*:*",
+        "cpeNameId": "94E958FA-13E9-44AC-807B-58F75C1FCA8D",
+        "lastModified": "2021-05-06T13:19:11.800",
+        "created": "2020-02-18T16:11:06.803",
+        "titles": [
+          {
+            "title": "Avira Antivirus Server 8.2.12.58",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avira:antivirus_server:8.3.54.138:*:*:*:*:*:*:*",
+        "cpeNameId": "229EBECC-2176-479F-93EA-F207E778367C",
+        "lastModified": "2021-05-21T13:10:26.457",
+        "created": "2020-06-01T13:46:02.713",
+        "titles": [
+          {
+            "title": "Avira Antivirus Server 8.3.54.138",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:avira:antivirus_server:-:*:*:*:*:*:*:*",
+      "title": "Avira Antivirus Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avira:antivirus_server:8.2.12.58:*:*:*:*:*:*:*",
+      "title": "Avira Antivirus Server 8.2.12.58",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avira:antivirus_server:8.3.54.138:*:*:*:*:*:*:*",
+      "title": "Avira Antivirus Server 8.3.54.138",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

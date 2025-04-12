@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:autodesk:design_review_2013:-:*:*:*:*:*:*:*",
+        "cpeNameId": "74F010E8-88BE-487F-9755-0DD11CE6E165",
+        "lastModified": "2015-12-16T17:13:09.287",
+        "created": "2014-12-09T16:21:29.917",
+        "titles": [
+          {
+            "title": "Autodesk Design Review 2013",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:autodesk:design_review:2013:*:*:*:*:*:*:*",
+            "cpeNameId": "B02455B5-2056-446F-A637-43686848D803"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:autodesk:design_review_2013:-:*:*:*:*:*:*:*",
+      "title": "Autodesk Design Review 2013",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:autodesk:design_review:2013:*:*:*:*:*:*:*"
+    }
+  ]
+}

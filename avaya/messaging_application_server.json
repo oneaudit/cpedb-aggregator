@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:messaging_application_server:4.0.x:*:*:*:*:*:*:*",
+        "cpeNameId": "E0811682-CDE2-41E4-B223-8AE6B7147126",
+        "lastModified": "2021-03-29T13:28:00.097",
+        "created": "2019-02-27T17:57:39.607",
+        "titles": [
+          {
+            "title": "Avaya Messaging Application Server 4.0.x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:avaya:messaging_application_server:5.2.x:*:*:*:*:*:*:*",
+        "cpeNameId": "6489879D-F7D6-46E8-934F-EBDCEB5BEDF2",
+        "lastModified": "2021-03-29T13:28:00.097",
+        "created": "2019-02-27T17:57:39.607",
+        "titles": [
+          {
+            "title": "Avaya Messaging Application Server 5.2.x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:avaya:messaging_application_server:4.0.x:*:*:*:*:*:*:*",
+      "title": "Avaya Messaging Application Server 4.0.x",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:avaya:messaging_application_server:5.2.x:*:*:*:*:*:*:*",
+      "title": "Avaya Messaging Application Server 5.2.x",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:avaya:csu_5000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FC1DBDAD-3040-4B5C-94B9-55ECA0325F7F",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Avaya CSU 5000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:avaya:csu_5000:3.2.40:*:*:*:*:*:*:*",
+        "cpeNameId": "BE1390B4-DE1A-4068-B203-61D987AA12CC",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Avaya CSU 5000 3.2.40",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:avaya:csu_5000:-:*:*:*:*:*:*:*",
+      "title": "Avaya CSU 5000",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:avaya:csu_5000:3.2.40:*:*:*:*:*:*:*",
+      "title": "Avaya CSU 5000 3.2.40",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
