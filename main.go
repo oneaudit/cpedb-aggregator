@@ -283,12 +283,12 @@ func fetchCPEs(startDate string, endDate string, apiKey string) []types.NistProd
 			return nil
 		}
 
-		if offset > apiResponse.TotalResults {
-			break
-		}
-
 		nistProducts = append(nistProducts, apiResponse.Products...)
 		offset += resultsPerPage
+
+		if offset >= apiResponse.TotalResults {
+			break
+		}
 	}
 
 	return nistProducts
