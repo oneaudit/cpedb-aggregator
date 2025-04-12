@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:docker:spiped_alpine_docker_image:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E78BE76D-094C-4229-A6B6-C659BF722804",
+        "lastModified": "2021-01-20T19:44:44.727",
+        "created": "2021-01-20T19:44:44.727",
+        "titles": [
+          {
+            "title": "Docker Spiped Alpine Docker Image",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:docker:spiped_alpine_docker_image:1.5:*:*:*:*:*:*:*",
+        "cpeNameId": "C241B16B-0086-4775-98DF-7335C3A6FFCC",
+        "lastModified": "2021-01-20T19:44:45.490",
+        "created": "2021-01-20T19:44:45.490",
+        "titles": [
+          {
+            "title": "Docker Spiped Alpine Docker Image 1.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:docker:spiped_alpine_docker_image:-:*:*:*:*:*:*:*",
+      "title": "Docker Spiped Alpine Docker Image",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:docker:spiped_alpine_docker_image:1.5:*:*:*:*:*:*:*",
+      "title": "Docker Spiped Alpine Docker Image 1.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dukapress_project:dukapress:2.5.3:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "C54BB776-E30D-44CA-BE41-ADDE69F1877E",
+        "lastModified": "2020-02-05T16:09:23.210",
+        "created": "2014-11-28T19:08:01.093",
+        "titles": [
+          {
+            "title": "DukaPress project DukaPress for WordPress 2.5.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dukapress:dukapress:2.5.3:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "07D2679E-BA2C-4B92-B8CE-0EDEFF1A40ED"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dukapress_project:dukapress:2.5.9:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "1DA140D6-E9B9-4A57-9FEC-3472E63013B2",
+        "lastModified": "2021-11-01T15:33:24.783",
+        "created": "2021-11-01T15:28:33.213",
+        "titles": [
+          {
+            "title": "DukaPress Project DukaPress 2.5.9 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dukapress_project:dukapress:2.5.3:*:*:*:*:wordpress:*:*",
+      "title": "DukaPress project DukaPress for WordPress 2.5.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dukapress:dukapress:2.5.3:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:dukapress_project:dukapress:2.5.9:*:*:*:*:wordpress:*:*",
+      "title": "DukaPress Project DukaPress 2.5.9 for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

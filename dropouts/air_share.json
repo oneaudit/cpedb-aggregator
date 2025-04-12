@@ -1,0 +1,99 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:ios:*:*",
+        "cpeNameId": "261D9A79-EDEE-45DB-9C85-68A6015336DD",
+        "lastModified": "2022-09-24T01:03:22.837",
+        "created": "2021-10-27T15:52:39.103",
+        "titles": [
+          {
+            "title": "Dropouts Air Share 1.2 for iOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:iphone_os:*:*",
+            "cpeNameId": "8AC4D3DE-7755-45F6-A862-C499BEC3F232"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:ipados:*:*",
+        "cpeNameId": "486316B9-D538-41CA-9504-5864628F6517",
+        "lastModified": "2022-09-12T13:46:00.747",
+        "created": "2021-10-27T16:29:27.190",
+        "titles": [
+          {
+            "title": "Dropouts Air Share 1.2 for iPadOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "8AC4D3DE-7755-45F6-A862-C499BEC3F232",
+        "lastModified": "2022-09-24T01:03:22.837",
+        "created": "2021-10-27T16:29:27.190",
+        "titles": [
+          {
+            "title": "Dropouts Air Share 1.2 for iPhone OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "1817DA9B-3F3D-4B91-B8E7-620CF6A75FBC",
+        "lastModified": "2022-09-12T13:46:00.747",
+        "created": "2021-10-28T03:14:53.227",
+        "titles": [
+          {
+            "title": "Dropouts Air Share 1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:ios:*:*",
+      "title": "Dropouts Air Share 1.2 for iOS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:iphone_os:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:ipados:*:*",
+      "title": "Dropouts Air Share 1.2 for iPadOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:iphone_os:*:*",
+      "title": "Dropouts Air Share 1.2 for iPhone OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:*:*:*",
+      "title": "Dropouts Air Share 1.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

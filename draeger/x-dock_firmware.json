@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:draeger:x-dock_firmware:03.00.13:*:*:*:*:*:*:*",
+        "cpeNameId": "52519283-553E-49EF-8437-CAB8C988594E",
+        "lastModified": "2021-07-08T19:25:48.787",
+        "created": "2021-05-25T14:32:47.607",
+        "titles": [
+          {
+            "title": "Draeger X-Dock Firmware 03.00.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:draeger:x-dock_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F4A88E6F-7391-4DC7-AE7F-8110ED10079C",
+        "lastModified": "2021-07-08T19:25:48.787",
+        "created": "2021-05-25T14:32:47.607",
+        "titles": [
+          {
+            "title": "Draeger X-Dock Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:draeger:x-dock_firmware:03.00.13:*:*:*:*:*:*:*",
+      "title": "Draeger X-Dock Firmware 03.00.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:draeger:x-dock_firmware:-:*:*:*:*:*:*:*",
+      "title": "Draeger X-Dock Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

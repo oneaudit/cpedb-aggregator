@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:druya:insync:6.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2F885ECC-9027-45EF-BCE3-7CD806A6C933",
+        "lastModified": "2020-03-13T19:48:43.800",
+        "created": "2020-03-12T20:37:03.237",
+        "titles": [
+          {
+            "title": "Druya Insync 6.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:druva:insync:6.5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "95BD9AA4-D4CE-4B6F-962A-7E5B3D859749"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:druya:insync:6.5.0:*:*:*:*:*:*:*",
+      "title": "Druya Insync 6.5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:druva:insync:6.5.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

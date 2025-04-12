@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dolby:audio_x2:0.8.8.90:*:*:*:*:*:*:*",
+        "cpeNameId": "A5F36529-2B87-4A9C-AE5A-8A8F10C98E4E",
+        "lastModified": "2021-06-02T12:48:55.547",
+        "created": "2021-04-12T18:20:05.427",
+        "titles": [
+          {
+            "title": "Dolby Audio X2 (DAX2) 0.8.8.90",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dolby:audio_x2:-:*:*:*:*:*:*:*",
+        "cpeNameId": "377A3DEB-74FF-4D9E-AED9-22CDBB1B22C3",
+        "lastModified": "2021-05-28T14:02:02.030",
+        "created": "2021-04-12T18:20:05.427",
+        "titles": [
+          {
+            "title": "Dolby Audio X2 (DAX2)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dolby:audio_x2:0.8.8.90:*:*:*:*:*:*:*",
+      "title": "Dolby Audio X2 (DAX2) 0.8.8.90",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dolby:audio_x2:-:*:*:*:*:*:*:*",
+      "title": "Dolby Audio X2 (DAX2)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

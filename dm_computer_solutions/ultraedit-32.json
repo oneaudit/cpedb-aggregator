@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dm_computer_solutions:ultraedit-32:10.20d\\+:*:*:*:*:*:*:*",
+        "cpeNameId": "5F7AF7E3-8839-41AF-93FD-656F1FD2FB20",
+        "lastModified": "2012-03-07T23:08:54.823",
+        "created": "2009-11-25T18:32:00.887",
+        "titles": [
+          {
+            "title": "IDM Computer Solutions UltraEdit-32 10.20d+B",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ultraedit:ultraedit-32:10.20d\\+:*:*:*:*:*:*:*",
+            "cpeNameId": "DE1CA0D9-1332-4DC7-8424-56C3814872FD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dm_computer_solutions:ultraedit-32:11.00a:*:*:*:*:*:*:*",
+        "cpeNameId": "724BB681-C511-49CE-993A-5D4136DE2A7F",
+        "lastModified": "2012-03-07T23:08:54.980",
+        "created": "2009-11-25T18:32:01.497",
+        "titles": [
+          {
+            "title": "IDM Computer Solutions UltraEdit-32 11.00a",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ultraedit:ultraedit-32:11.00a:*:*:*:*:*:*:*",
+            "cpeNameId": "34D3AC4F-D259-4613-B8B6-5429E498EE46"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dm_computer_solutions:ultraedit-32:10.20d\\+:*:*:*:*:*:*:*",
+      "title": "IDM Computer Solutions UltraEdit-32 10.20d+B",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ultraedit:ultraedit-32:10.20d\\+:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:dm_computer_solutions:ultraedit-32:11.00a:*:*:*:*:*:*:*",
+      "title": "IDM Computer Solutions UltraEdit-32 11.00a",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ultraedit:ultraedit-32:11.00a:*:*:*:*:*:*:*"
+    }
+  ]
+}

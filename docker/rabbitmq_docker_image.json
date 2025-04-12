@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:docker:rabbitmq_docker_image:-:*:*:*:*:*:*:*",
+        "cpeNameId": "933E3B63-CFA5-4B18-9382-EBACBE6203CD",
+        "lastModified": "2021-05-28T12:58:08.887",
+        "created": "2020-12-17T19:34:17.560",
+        "titles": [
+          {
+            "title": "Docker RabbitMq Docker Image",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:docker:rabbitmq_docker_image:3.7.12:-:*:*:*:*:*:*",
+        "cpeNameId": "E90353FF-FCF7-44AE-AD3D-7D10FDFDBCF5",
+        "lastModified": "2021-05-28T12:58:08.887",
+        "created": "2020-12-17T19:34:17.560",
+        "titles": [
+          {
+            "title": "Docker RabbitMq Docker Image 3.7.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:docker:rabbitmq_docker_image:-:*:*:*:*:*:*:*",
+      "title": "Docker RabbitMq Docker Image",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:docker:rabbitmq_docker_image:3.7.12:-:*:*:*:*:*:*",
+      "title": "Docker RabbitMq Docker Image 3.7.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
