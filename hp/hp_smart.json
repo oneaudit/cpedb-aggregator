@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:hp_smart:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "E336158C-0BFE-4713-BB83-7484B81F38E2",
+        "lastModified": "2021-11-19T12:29:29.880",
+        "created": "2021-11-03T14:08:32.983",
+        "titles": [
+          {
+            "title": "HP Smart for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:hp_smart:128.1.217:*:*:*:*:windows:*:*",
+        "cpeNameId": "39D91A42-58B7-41B1-B204-FF34DAC4E530",
+        "lastModified": "2021-11-19T12:29:29.880",
+        "created": "2021-11-03T14:08:32.983",
+        "titles": [
+          {
+            "title": "HP Smart 128.1.217 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:hp_smart:-:*:*:*:*:windows:*:*",
+      "title": "HP Smart for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:hp_smart:128.1.217:*:*:*:*:windows:*:*",
+      "title": "HP Smart 128.1.217 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

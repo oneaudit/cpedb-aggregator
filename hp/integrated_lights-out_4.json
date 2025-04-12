@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:integrated_lights-out_4:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FEBE0DB5-10DA-4926-B3D0-B4EE4521DA33",
+        "lastModified": "2023-02-14T17:31:33.960",
+        "created": "2016-09-09T03:06:57.293",
+        "titles": [
+          {
+            "title": "HP Integrated Lights-Out 4 (iLO4)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:integrated_lights-out_4:2.78:*:*:*:*:*:*:*",
+        "cpeNameId": "FEAFBCF0-0754-4F22-B0D1-349C16085460",
+        "lastModified": "2021-06-25T15:15:40.903",
+        "created": "2021-06-02T14:51:52.670",
+        "titles": [
+          {
+            "title": "HP Integrated Lights-out 4 2.78",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:integrated_lights-out_4:2.80:*:*:*:*:*:*:*",
+        "cpeNameId": "F595742A-BB00-471E-938D-BE6229DB7212",
+        "lastModified": "2022-05-23T13:41:06.457",
+        "created": "2022-05-17T11:07:30.690",
+        "titles": [
+          {
+            "title": "HP Integrated Lights-out 4 2.80",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:integrated_lights-out_4:-:*:*:*:*:*:*:*",
+      "title": "HP Integrated Lights-Out 4 (iLO4)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:integrated_lights-out_4:2.78:*:*:*:*:*:*:*",
+      "title": "HP Integrated Lights-out 4 2.78",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:integrated_lights-out_4:2.80:*:*:*:*:*:*:*",
+      "title": "HP Integrated Lights-out 4 2.80",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

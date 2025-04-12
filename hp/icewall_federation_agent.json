@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:icewall_federation_agent:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DDB92957-5C85-4D45-9CA6-C54B08AE8FB4",
+        "lastModified": "2014-02-21T16:04:06.547",
+        "created": "2013-09-23T18:34:41.583",
+        "titles": [
+          {
+            "title": "HP IceWall Federation Agent 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:icewall_federation_agent:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "203BE01B-6423-4F57-9059-BEB6019FDF13",
+        "lastModified": "2016-06-29T18:16:49.570",
+        "created": "2016-06-29T18:16:49.570",
+        "titles": [
+          {
+            "title": "HP IceWall Federation Agent 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:icewall_federation_agent:8.0:*:*:*:*:*:*:*",
+      "title": "HP IceWall Federation Agent 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:icewall_federation_agent:3.0:*:*:*:*:*:*:*",
+      "title": "HP IceWall Federation Agent 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

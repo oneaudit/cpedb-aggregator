@@ -1,0 +1,77 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:integrated_lights-out:-:*:*:*:*:*:*:*",
+        "cpeNameId": "87E005B5-9D06-4CFF-BFDC-AFB8AA63B9FA",
+        "lastModified": "2010-12-29T17:10:39.743",
+        "created": "2010-12-29T17:10:39.743",
+        "titles": [
+          {
+            "title": "HP Integrated Lights-Out",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hp:integrated_lights-out:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B970BC7F-2E24-4A2A-BD72-B184714EE802",
+        "lastModified": "2023-02-14T17:31:33.960",
+        "created": "2013-11-18T21:43:02.673",
+        "titles": [
+          {
+            "title": "HP Integrated Lights-Out 4.0 (iLO4)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hp:integrated_lights-out_4:-:*:*:*:*:*:*:*",
+            "cpeNameId": "FEBE0DB5-10DA-4926-B3D0-B4EE4521DA33"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:integrated_lights-out:6:*:*:*:*:*:*:*",
+        "cpeNameId": "CDB7233F-2350-4194-889C-672BEEC0393C",
+        "lastModified": "2023-12-01T15:29:36.947",
+        "created": "2023-12-01T15:29:36.947",
+        "titles": [
+          {
+            "title": "HP Integrated Lights-out 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:integrated_lights-out:-:*:*:*:*:*:*:*",
+      "title": "HP Integrated Lights-Out",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:hp:integrated_lights-out:4.0:*:*:*:*:*:*:*",
+      "title": "HP Integrated Lights-Out 4.0 (iLO4)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hp:integrated_lights-out_4:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:hp:integrated_lights-out:6:*:*:*:*:*:*:*",
+      "title": "HP Integrated Lights-out 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

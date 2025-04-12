@@ -1,0 +1,116 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:icewall_sso:10.0:*:*:*:dfw:*:*:*",
+        "cpeNameId": "23B38A27-6CEA-43A1-B4A0-1B8448FBD3B9",
+        "lastModified": "2014-05-28T16:29:04.330",
+        "created": "2014-05-23T13:03:25.390",
+        "titles": [
+          {
+            "title": "HP Icewall SSO 10.0 Dfw",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:icewall_sso:10.0:*:*:*:certd:*:*:*",
+        "cpeNameId": "A3016F21-2A88-4674-A164-1EA6763C8236",
+        "lastModified": "2021-06-03T17:19:53.840",
+        "created": "2016-08-25T15:30:46.963",
+        "titles": [
+          {
+            "title": "HP IceWall SSO 10.0 Certd",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:icewall_sso:11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D17543B2-2747-4951-BA4B-C0266221B2FA",
+        "lastModified": "2021-06-03T17:19:53.840",
+        "created": "2018-03-08T18:58:25.173",
+        "titles": [
+          {
+            "title": "HP IceWall SSO 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:icewall_sso:10.0:p8:*:*:dfw:*:*:*",
+        "cpeNameId": "2CC1B791-236A-4B64-AAD0-4986E464B607",
+        "lastModified": "2021-06-03T17:19:53.840",
+        "created": "2018-03-08T18:58:25.173",
+        "titles": [
+          {
+            "title": "HP IceWall SSO 10.0 Patch 8 Dfw",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:icewall_sso:10.0:p9:*:*:certd:*:*:*",
+        "cpeNameId": "A1E53BB8-4773-424E-901E-2879B4EE4873",
+        "lastModified": "2022-12-01T19:37:52.183",
+        "created": "2022-07-13T16:36:16.430",
+        "titles": [
+          {
+            "title": "HP Icewall Sso 10.0 Patch 9 Certd Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:icewall_sso:10.0:*:*:*:dfw:*:*:*",
+      "title": "HP Icewall SSO 10.0 Dfw",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:icewall_sso:10.0:*:*:*:certd:*:*:*",
+      "title": "HP IceWall SSO 10.0 Certd",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:icewall_sso:11.0:*:*:*:*:*:*:*",
+      "title": "HP IceWall SSO 11.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:icewall_sso:10.0:p8:*:*:dfw:*:*:*",
+      "title": "HP IceWall SSO 10.0 Patch 8 Dfw",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:icewall_sso:10.0:p9:*:*:certd:*:*:*",
+      "title": "HP Icewall Sso 10.0 Patch 9 Certd Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

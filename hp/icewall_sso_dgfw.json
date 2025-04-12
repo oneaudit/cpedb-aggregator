@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:icewall_sso_dgfw:11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "93D41AE5-E088-47D0-B33C-6929F4DED266",
+        "lastModified": "2020-09-24T15:27:39.297",
+        "created": "2020-09-24T15:27:39.297",
+        "titles": [
+          {
+            "title": "HP IceWall SSO Dgfw 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:icewall_sso_dgfw:10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6EBE08D2-F7EB-45C9-ACB3-9B1CC762462A",
+        "lastModified": "2021-08-20T12:59:57.417",
+        "created": "2021-04-22T15:06:18.073",
+        "titles": [
+          {
+            "title": "HP Icewall SSO DGFW 10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:icewall_sso_dgfw:11.0:*:*:*:*:*:*:*",
+      "title": "HP IceWall SSO Dgfw 11.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:icewall_sso_dgfw:10.0:*:*:*:*:*:*:*",
+      "title": "HP Icewall SSO DGFW 10.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

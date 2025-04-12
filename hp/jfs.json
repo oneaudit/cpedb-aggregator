@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:jfs:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8E934813-B11F-416B-ABF8-C5BEBC679F71",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "HP JFS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:jfs:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "966D4C5C-4798-47CE-BACE-E756002FFE75",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP JFS 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:jfs:-:*:*:*:*:*:*:*",
+      "title": "HP JFS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:jfs:3.1:*:*:*:*:*:*:*",
+      "title": "HP JFS 3.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

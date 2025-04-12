@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:hpsfviewer:8.6.3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "3CE17132-A680-49B8-B41A-8D17D3BF4567",
+        "lastModified": "2023-02-08T20:09:13.020",
+        "created": "2023-02-08T17:05:07.037",
+        "titles": [
+          {
+            "title": "HP HPSFViewer 8.6.3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:hpsfviewer:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D3D5C6DF-A33F-4066-8A78-5C8EFDF735A2",
+        "lastModified": "2023-02-08T20:09:13.020",
+        "created": "2023-02-08T17:05:07.037",
+        "titles": [
+          {
+            "title": "HP HPSFViewer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:hpsfviewer:8.6.3.1:*:*:*:*:*:*:*",
+      "title": "HP HPSFViewer 8.6.3.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:hpsfviewer:-:*:*:*:*:*:*:*",
+      "title": "HP HPSFViewer",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

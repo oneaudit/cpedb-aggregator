@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:ftp_print_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BAA2805C-B5CE-4E6C-B9C2-AFC5FEF539A5",
+        "lastModified": "2008-04-01T16:10:13.843",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "HP HP FTP Print Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:ftp_print_server:2.4:*:*:*:*:*:*:*",
+        "cpeNameId": "C4BA6468-BCA9-4FC2-AEE8-761153768343",
+        "lastModified": "2008-04-01T16:10:13.920",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP HP FTP Print Server 2.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:ftp_print_server:2.4.5:*:*:*:*:*:*:*",
+        "cpeNameId": "861063ED-0BBE-4E2A-A4B8-5136D6CA3229",
+        "lastModified": "2008-04-01T16:10:14.000",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP HP FTP Print Server 2.4.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:ftp_print_server:-:*:*:*:*:*:*:*",
+      "title": "HP HP FTP Print Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:ftp_print_server:2.4:*:*:*:*:*:*:*",
+      "title": "HP HP FTP Print Server 2.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:ftp_print_server:2.4.5:*:*:*:*:*:*:*",
+      "title": "HP HP FTP Print Server 2.4.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
