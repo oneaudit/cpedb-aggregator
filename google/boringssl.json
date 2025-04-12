@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:boringssl:-:*:*:*:*:*:*:*",
+        "cpeNameId": "566E3A18-0715-46A0-A08B-4F2FDA5E748B",
+        "lastModified": "2020-06-19T17:42:18.397",
+        "created": "2020-06-19T17:42:18.397",
+        "titles": [
+          {
+            "title": "Google BoringSSL",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:boringssl:2018-06-14:*:*:*:*:*:*:*",
+        "cpeNameId": "DA284AC8-542D-4655-B22C-2225F20B0376",
+        "lastModified": "2020-06-19T17:42:18.913",
+        "created": "2020-06-19T17:42:18.913",
+        "titles": [
+          {
+            "title": "Google BoringSSL 2018-06-14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:google:boringssl:-:*:*:*:*:*:*:*",
+      "title": "Google BoringSSL",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:google:boringssl:2018-06-14:*:*:*:*:*:*:*",
+      "title": "Google BoringSSL 2018-06-14",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

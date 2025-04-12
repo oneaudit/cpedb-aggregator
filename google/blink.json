@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:blink:m12:*:*:*:*:chromium:x64:*",
+        "cpeNameId": "35F8F36C-6AC6-437F-9707-9E85255D3551",
+        "lastModified": "2020-01-22T15:33:10.023",
+        "created": "2020-01-22T15:33:10.023",
+        "titles": [
+          {
+            "title": "Google Blink M12 for Chromium on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:blink:m13:*:*:*:*:chromium:*:*",
+        "cpeNameId": "A243A720-F129-4B23-9C20-56B4CF1FB7C6",
+        "lastModified": "2020-01-22T16:01:20.367",
+        "created": "2020-01-22T16:01:20.367",
+        "titles": [
+          {
+            "title": "Google Blink M13 for Chromium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:blink:-:*:*:*:*:chromium:*:*",
+        "cpeNameId": "B7F10002-73A1-4505-8C59-83F64863DC64",
+        "lastModified": "2020-04-14T15:00:01.150",
+        "created": "2020-04-14T15:00:01.150",
+        "titles": [
+          {
+            "title": "Google Blink for Chromium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:blink:m11:*:*:*:*:chromium:*:*",
+        "cpeNameId": "BBF9BE1D-D41A-44D8-B66B-4BE81F5FFC6F",
+        "lastModified": "2020-04-14T15:00:01.493",
+        "created": "2020-04-14T15:00:01.493",
+        "titles": [
+          {
+            "title": "Google Blink M11 for Chromium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:google:blink:m12:*:*:*:*:chromium:x64:*",
+      "title": "Google Blink M12 for Chromium on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:google:blink:m13:*:*:*:*:chromium:*:*",
+      "title": "Google Blink M13 for Chromium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:google:blink:-:*:*:*:*:chromium:*:*",
+      "title": "Google Blink for Chromium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:google:blink:m11:*:*:*:*:chromium:*:*",
+      "title": "Google Blink M11 for Chromium",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

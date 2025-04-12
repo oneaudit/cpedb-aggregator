@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gtk:gtk\\+:3.10.9:*:*:*:*:*:*:*",
+        "cpeNameId": "FD00B4E4-B9E7-4786-9E74-3D7A18FBEB42",
+        "lastModified": "2015-04-06T15:25:10.767",
+        "created": "2015-01-16T20:18:16.653",
+        "titles": [
+          {
+            "title": "GTK GTK+ 3.10.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gtk:gtk\\+:3.9.6:*:*:*:*:*:*:*",
+        "cpeNameId": "2D5BD9E1-1A47-420C-B7A6-855EA89E92C6",
+        "lastModified": "2016-03-14T18:11:38.287",
+        "created": "2016-03-14T18:11:38.287",
+        "titles": [
+          {
+            "title": "GTK+ 3.9.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gtk:gtk\\+:3.10.9:*:*:*:*:*:*:*",
+      "title": "GTK GTK+ 3.10.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gtk:gtk\\+:3.9.6:*:*:*:*:*:*:*",
+      "title": "GTK+ 3.9.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

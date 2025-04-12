@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:golang:h2c:2022-11-04:*:*:*:*:go:*:*",
+        "cpeNameId": "03445DC6-D246-42FF-AF50-E8201688BE55",
+        "lastModified": "2023-03-21T16:16:20.630",
+        "created": "2023-01-20T18:50:11.580",
+        "titles": [
+          {
+            "title": "Golang h2c 2022-11-04 for Go",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:golang:h2c:-:*:*:*:*:go:*:*",
+        "cpeNameId": "08BB5276-B4BE-45E0-967F-12422AB67B98",
+        "lastModified": "2023-03-21T16:16:20.630",
+        "created": "2023-01-20T18:50:11.580",
+        "titles": [
+          {
+            "title": "Golang h2c for Go",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:golang:h2c:2022-11-04:*:*:*:*:go:*:*",
+      "title": "Golang h2c 2022-11-04 for Go",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:golang:h2c:-:*:*:*:*:go:*:*",
+      "title": "Golang h2c for Go",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

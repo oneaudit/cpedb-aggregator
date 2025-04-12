@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:guac-dev:guacamole:0.9.8:*:*:*:*:*:*:*",
+        "cpeNameId": "16E4E51D-791B-450A-A7EC-F38B1A7D90DE",
+        "lastModified": "2021-05-07T18:33:42.930",
+        "created": "2017-02-03T18:10:43.307",
+        "titles": [
+          {
+            "title": "Guac-dev Guacamole 0.9.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apache:guacamole:0.9.8:*:*:*:*:*:*:*",
+            "cpeNameId": "3B0DA071-89CE-4460-A471-B8A8F4AC95E1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:guac-dev:guacamole:0.9.9:*:*:*:*:*:*:*",
+        "cpeNameId": "22D5BBE2-A0CB-4EDA-9885-A41E69514C3D",
+        "lastModified": "2021-05-07T18:33:42.930",
+        "created": "2017-02-03T18:10:43.307",
+        "titles": [
+          {
+            "title": "Guac-dev Guacamole 0.9.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apache:guacamole:0.9.9:*:*:*:*:*:*:*",
+            "cpeNameId": "8F7A9087-86EA-4607-8C5C-CB1B13AC470F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:guac-dev:guacamole:0.9.8:*:*:*:*:*:*:*",
+      "title": "Guac-dev Guacamole 0.9.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apache:guacamole:0.9.8:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:guac-dev:guacamole:0.9.9:*:*:*:*:*:*:*",
+      "title": "Guac-dev Guacamole 0.9.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apache:guacamole:0.9.9:*:*:*:*:*:*:*"
+    }
+  ]
+}

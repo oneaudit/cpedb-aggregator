@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:govicture:pc420_firmware:1.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "B1FFDB27-3869-4E3A-B531-891233CDFE07",
+        "lastModified": "2021-09-30T18:25:42.303",
+        "created": "2021-08-31T18:14:15.753",
+        "titles": [
+          {
+            "title": "Victure PC420 Firmware 1.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:govicture:pc420_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CAB4F1E7-7FC5-4198-BEF0-9152AC24412D",
+        "lastModified": "2021-09-30T18:25:42.303",
+        "created": "2021-08-31T18:14:15.753",
+        "titles": [
+          {
+            "title": "Victure PC420 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:govicture:pc420_firmware:1.2.2:*:*:*:*:*:*:*",
+      "title": "Victure PC420 Firmware 1.2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:govicture:pc420_firmware:-:*:*:*:*:*:*:*",
+      "title": "Victure PC420 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:google:kubernetes:-:*:*:*:*:*:*:*",
+        "cpeNameId": "29F9A23D-F5A3-48BE-BB2C-89B1BFC79ECD",
+        "lastModified": "2021-06-03T15:04:26.753",
+        "created": "2016-02-25T21:46:14.747",
+        "titles": [
+          {
+            "title": "Google Kubernetes",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:kubernetes:kubernetes:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E49C448E-E0B1-4B1D-9D6A-88343002E296"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:google:kubernetes:-:*:*:*:*:*:*:*",
+      "title": "Google Kubernetes",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:kubernetes:kubernetes:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

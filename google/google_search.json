@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:google_search:13.41:*:*:*:*:android:*:*",
+        "cpeNameId": "DE9D210A-FF2E-44FE-96F8-57E84CAD5C2C",
+        "lastModified": "2023-09-28T11:03:45.310",
+        "created": "2023-09-28T11:03:45.310",
+        "titles": [
+          {
+            "title": "Google Search 13.41 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:google_search:-:*:*:*:*:android:*:*",
+        "cpeNameId": "32AC42E2-0356-4EB6-9734-4D231F5DA961",
+        "lastModified": "2023-09-28T11:03:45.310",
+        "created": "2023-09-28T11:03:45.310",
+        "titles": [
+          {
+            "title": "Google Search for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:google:google_search:13.41:*:*:*:*:android:*:*",
+      "title": "Google Search 13.41 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:google:google_search:-:*:*:*:*:android:*:*",
+      "title": "Google Search for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

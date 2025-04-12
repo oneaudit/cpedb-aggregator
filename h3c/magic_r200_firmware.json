@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:h3c:magic_r200_firmware:r200v200r004l02:*:*:*:*:*:*:*",
+        "cpeNameId": "3517C3EB-7677-4E0A-BEA2-D65FAF398AD5",
+        "lastModified": "2023-01-04T20:06:55.250",
+        "created": "2022-07-25T18:16:01.717",
+        "titles": [
+          {
+            "title": "H3C Magic R200 Firmware R200V200R004L02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:h3c:magic_r200_firmware:r200v100r004:*:*:*:*:*:*:*",
+        "cpeNameId": "65DB27C4-A4E1-4FF8-AC22-9B0D09A20371",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "H3C Magic R200 Firmware R200V100V004",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:h3c:magic_r200_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D6D4CB4A-0D3A-443F-8E52-7A4CDA23D6FC",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "H3C Magic R200 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:h3c:magic_r200_firmware:r200v200r004l02:*:*:*:*:*:*:*",
+      "title": "H3C Magic R200 Firmware R200V200R004L02",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:h3c:magic_r200_firmware:r200v100r004:*:*:*:*:*:*:*",
+      "title": "H3C Magic R200 Firmware R200V100V004",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:h3c:magic_r200_firmware:-:*:*:*:*:*:*:*",
+      "title": "H3C Magic R200 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

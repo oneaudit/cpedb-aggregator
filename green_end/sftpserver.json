@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:green_end:sftpserver:0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0B32C0AD-79AA-407A-85D5-02856580EE74",
+        "lastModified": "2022-12-30T17:53:22.797",
+        "created": "2018-04-19T12:17:40.800",
+        "titles": [
+          {
+            "title": "Green End SFTP server 0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:greenend:sftpserver:0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "F7962542-FE09-4889-807B-91A929F6E9CC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:green_end:sftpserver:0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "5C30A439-F20A-4577-B3C1-312A30F0AE09",
+        "lastModified": "2022-12-30T17:53:22.797",
+        "created": "2018-04-19T12:17:40.863",
+        "titles": [
+          {
+            "title": "Green End SFTP server 0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:greenend:sftpserver:0.2:*:*:*:*:*:*:*",
+            "cpeNameId": "425D0BDD-DEC8-4D67-876D-45288E92C2EC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:green_end:sftpserver:0.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "E14EA478-C417-4305-A2D4-338305F321E1",
+        "lastModified": "2022-12-30T17:53:22.797",
+        "created": "2018-04-19T12:17:40.927",
+        "titles": [
+          {
+            "title": "Green End SFTP server 0.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:greenend:sftpserver:0.2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "0EBEF6EE-7840-4219-A2E2-411A397218A0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:green_end:sftpserver:0.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "E6CE46F6-B7B9-43DA-92A0-B902B88AA5D0",
+        "lastModified": "2022-12-30T17:53:22.797",
+        "created": "2018-04-19T12:17:41.007",
+        "titles": [
+          {
+            "title": "Green End SFTP server 0.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:greenend:sftpserver:0.2.2:*:*:*:*:*:*:*",
+            "cpeNameId": "0AD33835-4259-49CC-8346-BAB1EF522290"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:green_end:sftpserver:0.1:*:*:*:*:*:*:*",
+      "title": "Green End SFTP server 0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:greenend:sftpserver:0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:green_end:sftpserver:0.2:*:*:*:*:*:*:*",
+      "title": "Green End SFTP server 0.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:greenend:sftpserver:0.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:green_end:sftpserver:0.2.1:*:*:*:*:*:*:*",
+      "title": "Green End SFTP server 0.2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:greenend:sftpserver:0.2.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:green_end:sftpserver:0.2.2:*:*:*:*:*:*:*",
+      "title": "Green End SFTP server 0.2.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:greenend:sftpserver:0.2.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

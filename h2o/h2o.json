@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:h2o:h2o:-:*:*:*:*:*:*:*",
+        "cpeNameId": "551DDFC6-4EDD-40EC-9202-986AD302C0DD",
+        "lastModified": "2023-12-16T03:29:20.353",
+        "created": "2023-12-16T03:29:20.353",
+        "titles": [
+          {
+            "title": "H2O -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:h2o:h2o:3.40.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "18F72885-407F-4525-8224-7F92BC21CD5A",
+        "lastModified": "2023-12-29T10:15:30.570",
+        "created": "2023-12-29T10:15:30.570",
+        "titles": [
+          {
+            "title": "H2o H2o 3.40.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:h2o:h2o:-:*:*:*:*:*:*:*",
+      "title": "H2O -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:h2o:h2o:3.40.0.4:*:*:*:*:*:*:*",
+      "title": "H2o H2o 3.40.0.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

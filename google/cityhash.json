@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:cityhash:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1A7563CC-FE96-4DE9-9DFC-A2F2B9056EC4",
+        "lastModified": "2012-11-29T03:47:00.017",
+        "created": "2012-11-28T18:07:18.107",
+        "titles": [
+          {
+            "title": "Google CityHash",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:cityhash:1.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E47F056B-9459-4D9F-AFC2-E17B5A79DD36",
+        "lastModified": "2012-11-29T03:47:00.093",
+        "created": "2012-11-28T18:07:18.247",
+        "titles": [
+          {
+            "title": "Google CityHash 1.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:google:cityhash:-:*:*:*:*:*:*:*",
+      "title": "Google CityHash",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:google:cityhash:1.1.0:*:*:*:*:*:*:*",
+      "title": "Google CityHash 1.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

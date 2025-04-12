@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:cloud_messaging_notification:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "91A29DE6-F9DB-45D9-A177-E45BD314B719",
+        "lastModified": "2019-11-26T13:38:49.490",
+        "created": "2019-11-26T13:38:49.490",
+        "titles": [
+          {
+            "title": "Google Cloud Messaging Notification for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:cloud_messaging_notification:1.0:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "AD69FB38-EC22-4BFA-AB43-78AA23777D37",
+        "lastModified": "2019-11-26T13:38:49.803",
+        "created": "2019-11-26T13:38:49.803",
+        "titles": [
+          {
+            "title": "Google Cloud Messaging Notification 1.0 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:google:cloud_messaging_notification:-:*:*:*:*:jenkins:*:*",
+      "title": "Google Cloud Messaging Notification for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:google:cloud_messaging_notification:1.0:*:*:*:*:jenkins:*:*",
+      "title": "Google Cloud Messaging Notification 1.0 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

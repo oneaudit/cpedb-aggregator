@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:exposure_notifications:-:*:*:*:*:android:*:*",
+        "cpeNameId": "AC61FF5B-2225-4C86-B34C-E8371E66029C",
+        "lastModified": "2020-11-06T12:10:19.927",
+        "created": "2020-11-06T12:10:19.927",
+        "titles": [
+          {
+            "title": "Google Exposure Notifications for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:google:exposure_notifications:1.5:*:*:*:*:android:*:*",
+        "cpeNameId": "8DDC95A1-0394-4DE9-BD13-2C584649BF3F",
+        "lastModified": "2020-11-06T12:10:20.317",
+        "created": "2020-11-06T12:10:20.317",
+        "titles": [
+          {
+            "title": "Google Exposure Notifications 1.5 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:google:exposure_notifications:-:*:*:*:*:android:*:*",
+      "title": "Google Exposure Notifications for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:google:exposure_notifications:1.5:*:*:*:*:android:*:*",
+      "title": "Google Exposure Notifications 1.5 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

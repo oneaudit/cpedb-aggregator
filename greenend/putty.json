@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:greenend:putty:0.63:*:*:*:*:*:*:*",
+        "cpeNameId": "0EA0F6FC-1A8F-4B60-8C66-94453A9500B5",
+        "lastModified": "2015-09-02T17:14:23.767",
+        "created": "2015-03-27T17:42:48.177",
+        "titles": [
+          {
+            "title": "Putty 0.63",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:simon_tatham:putty:0.63:*:*:*:*:*:*:*",
+            "cpeNameId": "4EA1B43D-BDDE-47CE-A156-CE9CC3B06BCB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:greenend:putty:0.63:*:*:*:*:*:*:*",
+      "title": "Putty 0.63",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:simon_tatham:putty:0.63:*:*:*:*:*:*:*"
+    }
+  ]
+}

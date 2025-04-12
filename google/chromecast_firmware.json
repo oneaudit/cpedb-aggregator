@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:google:chromecast_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A50C7557-E010-4048-A31F-2B6F02A68B88",
+        "lastModified": "2021-06-22T16:13:18.837",
+        "created": "2018-08-16T17:17:22.377",
+        "titles": [
+          {
+            "title": "Google Chromecast Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:google:chromecast_firmware:2023-10-01:*:*:*:*:*:*:*",
+        "cpeNameId": "2323DB7C-579C-4559-A9B6-A5655C2182C9",
+        "lastModified": "2023-12-29T18:13:53.080",
+        "created": "2023-12-29T18:13:53.080",
+        "titles": [
+          {
+            "title": "Google Chromecast Firmware 2023-10-01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:google:chromecast_firmware:-:*:*:*:*:*:*:*",
+      "title": "Google Chromecast Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:google:chromecast_firmware:2023-10-01:*:*:*:*:*:*:*",
+      "title": "Google Chromecast Firmware 2023-10-01",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

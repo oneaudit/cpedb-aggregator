@@ -1,0 +1,77 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:gym_management_system_project:gym_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "BB8D9765-AA8D-4358-81C6-AC7C436C6875",
+        "lastModified": "2024-10-17T12:39:40.803",
+        "created": "2020-11-23T23:21:12.700",
+        "titles": [
+          {
+            "title": "Gym Management System Project Gym Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:adrianmercurio:gym_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "33E3DE1C-F04C-4834-B487-26BAD10FBABD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gym_management_system_project:gym_management_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B1C9952F-BB1C-4CF0-9912-1C991118A198",
+        "lastModified": "2022-08-09T15:09:31.080",
+        "created": "2022-08-07T22:46:58.170",
+        "titles": [
+          {
+            "title": "Gym Management System Project Gym Management System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gym_management_system_project:gym_management_system:0.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "CAC4FBC2-EC46-4B08-AC19-E833C1060D2E",
+        "lastModified": "2023-08-19T04:00:21.067",
+        "created": "2022-12-14T18:20:58.127",
+        "titles": [
+          {
+            "title": "Gym Management System Project Gym Management System 0.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gym_management_system_project:gym_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Gym Management System Project Gym Management System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:adrianmercurio:gym_management_system:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:gym_management_system_project:gym_management_system:-:*:*:*:*:*:*:*",
+      "title": "Gym Management System Project Gym Management System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gym_management_system_project:gym_management_system:0.0.1:*:*:*:*:*:*:*",
+      "title": "Gym Management System Project Gym Management System 0.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

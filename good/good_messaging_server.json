@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:good:good_messaging_server:_6.3.1.24:*:*:*:*:*:*:*",
+        "cpeNameId": "F68465E8-8E6F-4E59-BB3F-D68783BCE729",
+        "lastModified": "2019-01-17T17:15:13.100",
+        "created": "2012-05-14T23:29:16.610",
+        "titles": [
+          {
+            "title": "Good Messaging Server  6.3.1.24",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:gooddomino:mobile_messaging_server:6.3.1.24:*:*:*:*:*:*:*",
+            "cpeNameId": "B5340611-9894-42C7-9E37-F5A4304E671F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:good:good_messaging_server:_6.3.1.24:*:*:*:*:*:*:*",
+      "title": "Good Messaging Server  6.3.1.24",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:gooddomino:mobile_messaging_server:6.3.1.24:*:*:*:*:*:*:*"
+    }
+  ]
+}
