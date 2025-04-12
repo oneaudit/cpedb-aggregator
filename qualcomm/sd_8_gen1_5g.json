@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:qualcomm:sd_8_gen1_5g:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E40B82D2-7B47-4B6C-8C2D-F1B0CECE5AF9",
+        "lastModified": "2023-04-19T17:10:54.247",
+        "created": "2022-01-14T19:10:11.743",
+        "titles": [
+          {
+            "title": "Qualcomm SD 8 Gen1 5G ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:qualcomm:sm8475:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F38C63D1-9A39-4D1A-9483-4DE26F26C64E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:qualcomm:sd_8_gen1_5g:-:*:*:*:*:*:*:*",
+      "title": "Qualcomm SD 8 Gen1 5G ",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:qualcomm:sm8475:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
