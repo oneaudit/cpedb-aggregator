@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:2022.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "1495B7F7-712D-432F-9196-1D16FE9FEFCB",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-02-13T14:29:08.977",
+        "titles": [
+          {
+            "title": "Intel oneAPI DPC++/C++ Compiler 2022.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:2022.1:*:*:*:*:*:*:*",
+        "cpeNameId": "8EE7F6D7-8977-4A62-9527-BB4D7243B565",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-02-28T19:03:44.563",
+        "titles": [
+          {
+            "title": "Intel oneAPI DPC++/C++ Compiler 2022.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FA4DEFB6-A3B7-4248-8B86-B2FE673F2F9D",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-02-28T19:03:44.563",
+        "titles": [
+          {
+            "title": "Intel oneAPI DPC++/C++ Compiler",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:2023.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C7F7BFB8-7ACE-456D-914A-AF3439C22194",
+        "lastModified": "2023-05-22T13:20:37.577",
+        "created": "2023-05-18T22:05:10.183",
+        "titles": [
+          {
+            "title": "Intel OneAPI DPC++/C++ Compiler 2023.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:2022.2.1:*:*:*:*:*:*:*",
+      "title": "Intel oneAPI DPC++/C++ Compiler 2022.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:2022.1:*:*:*:*:*:*:*",
+      "title": "Intel oneAPI DPC++/C++ Compiler 2022.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:-:*:*:*:*:*:*:*",
+      "title": "Intel oneAPI DPC++/C++ Compiler",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:2023.0:*:*:*:*:*:*:*",
+      "title": "Intel OneAPI DPC++/C++ Compiler 2023.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:openbmc:egs-0.91-179:*:*:*:*:*:*:*",
+        "cpeNameId": "ECDE969E-EA95-442B-A31D-29E08597B700",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-03-08T17:07:16.983",
+        "titles": [
+          {
+            "title": "Intel OpenBMC egs-0.91-179",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:openbmc:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5E19FFB1-D434-4EB3-AA38-E5D74ABEDB12",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-03-08T17:07:16.983",
+        "titles": [
+          {
+            "title": "Intel OpenBMC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:openbmc:wht-1.01-61_0.72:*:*:*:*:*:*:*",
+        "cpeNameId": "A263786E-C10F-4923-ADE2-115F2FC7F8A6",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-03-08T17:07:26.577",
+        "titles": [
+          {
+            "title": "Intel OpenBMC wht-1.01-61 0.72",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:openbmc:egs-0.91-179:*:*:*:*:*:*:*",
+      "title": "Intel OpenBMC egs-0.91-179",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:openbmc:-:*:*:*:*:*:*:*",
+      "title": "Intel OpenBMC",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:openbmc:wht-1.01-61_0.72:*:*:*:*:*:*:*",
+      "title": "Intel OpenBMC wht-1.01-61 0.72",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

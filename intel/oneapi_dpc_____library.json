@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_dpc\\+\\+_library:2022.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2393AC37-4F3C-4D89-AFDA-0D3055DCE460",
+        "lastModified": "2023-05-22T13:20:37.577",
+        "created": "2023-05-18T22:05:20.547",
+        "titles": [
+          {
+            "title": "Intel OneAPI DPC++ Library 2022.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_dpc\\+\\+_library:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3DA9906C-0F24-4D45-B08E-7D76235A3A27",
+        "lastModified": "2023-05-22T13:20:37.577",
+        "created": "2023-05-18T22:05:20.547",
+        "titles": [
+          {
+            "title": "Intel OneAPI DPC++ Library",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:oneapi_dpc\\+\\+_library:2022.0:*:*:*:*:*:*:*",
+      "title": "Intel OneAPI DPC++ Library 2022.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:oneapi_dpc\\+\\+_library:-:*:*:*:*:*:*:*",
+      "title": "Intel OneAPI DPC++ Library",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

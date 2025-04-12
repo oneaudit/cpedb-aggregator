@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc_kit_nuc7i3bnhx1_firmware:bnkbl357.86a.0081:*:*:*:*:*:*:*",
+        "cpeNameId": "E471FCD8-93B7-498D-92C9-93F740B38943",
+        "lastModified": "2020-09-23T12:46:28.033",
+        "created": "2020-09-23T12:46:28.033",
+        "titles": [
+          {
+            "title": "Intel NUC Kit NUC7i3BNHX1 Firmware BNKBL357.86A.0081",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc_kit_nuc7i3bnhx1_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "77D7324E-8AE0-41CA-8BE9-D506772B2C3B",
+        "lastModified": "2023-08-18T18:48:29.510",
+        "created": "2023-08-17T14:22:54.123",
+        "titles": [
+          {
+            "title": "Intel NUC Kit NUC7i5BNHX1 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc_kit_nuc7i3bnhx1_firmware:bnkbl357.86a.0081:*:*:*:*:*:*:*",
+      "title": "Intel NUC Kit NUC7i3BNHX1 Firmware BNKBL357.86A.0081",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc_kit_nuc7i3bnhx1_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel NUC Kit NUC7i5BNHX1 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

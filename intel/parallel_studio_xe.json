@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:parallel_studio_xe:2017:*:*:*:*:*:*:*",
+        "cpeNameId": "287D1F40-C911-499B-BEE3-74CD09C553DE",
+        "lastModified": "2021-06-10T17:38:56.010",
+        "created": "2017-03-15T19:23:33.160",
+        "titles": [
+          {
+            "title": "Intel Parallel Studio XE 2017",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:parallel_studio_xe:2018:2:*:*:*:*:*:*",
+        "cpeNameId": "65C3A3C4-03CC-4674-AEBD-CD6A77641E66",
+        "lastModified": "2020-07-14T16:19:42.947",
+        "created": "2020-07-14T16:19:42.947",
+        "titles": [
+          {
+            "title": "Intel Parallel Studio XE 2018 Update 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:parallel_studio_xe:2018:3:*:*:*:*:*:*",
+        "cpeNameId": "6608876D-D447-4566-A767-B44ED72C053D",
+        "lastModified": "2020-07-14T16:19:43.057",
+        "created": "2020-07-14T16:19:43.057",
+        "titles": [
+          {
+            "title": "Intel Parallel Studio XE 2018 Update 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:parallel_studio_xe:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "D745FFAD-E8E4-4BDE-B355-65137EEED5E3",
+        "lastModified": "2020-08-26T16:41:55.137",
+        "created": "2020-08-26T16:41:55.137",
+        "titles": [
+          {
+            "title": "Intel Parallel Studio XE for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:parallel_studio_xe:2017:*:*:*:*:*:*:*",
+      "title": "Intel Parallel Studio XE 2017",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:parallel_studio_xe:2018:2:*:*:*:*:*:*",
+      "title": "Intel Parallel Studio XE 2018 Update 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:parallel_studio_xe:2018:3:*:*:*:*:*:*",
+      "title": "Intel Parallel Studio XE 2018 Update 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:parallel_studio_xe:-:*:*:*:*:windows:*:*",
+      "title": "Intel Parallel Studio XE for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

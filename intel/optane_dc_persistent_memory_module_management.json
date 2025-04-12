@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:optane_dc_persistent_memory_module_management:01.00.00.3455:*:*:*:*:*:*:*",
+        "cpeNameId": "854A80D7-AAE1-4DD8-AA06-F0676728871A",
+        "lastModified": "2020-03-26T15:08:23.517",
+        "created": "2020-03-26T15:08:23.517",
+        "titles": [
+          {
+            "title": "Intel Optane DC Persistent Memory Module Management (DCPM) 01.00.00.3455",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:optane_dc_persistent_memory_module_management:1.0.0.3461:*:*:*:*:*:*:*",
+        "cpeNameId": "FAD7BBFF-E7D5-4E49-8749-BD50CCFD456F",
+        "lastModified": "2020-03-26T15:08:23.627",
+        "created": "2020-03-26T15:08:23.627",
+        "titles": [
+          {
+            "title": "Intel Optane DC Persistent Memory Module Management (DCPM) 1.0.0.3461",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:optane_dc_persistent_memory_module_management:01.00.00.3497:*:*:*:*:*:*:*",
+        "cpeNameId": "9F5F27CF-28A4-4F2F-9A37-58D3D93E8186",
+        "lastModified": "2020-03-26T15:08:23.720",
+        "created": "2020-03-26T15:08:23.720",
+        "titles": [
+          {
+            "title": "Intel Optane DC Persistent Memory Module Management (DCPM) 01.00.00.3497",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:optane_dc_persistent_memory_module_management:1.00.00.3506:*:*:*:*:windows:*:*",
+        "cpeNameId": "7DCF454B-7935-40AF-A15D-CC39E06B7C53",
+        "lastModified": "2021-06-10T16:45:12.350",
+        "created": "2021-02-18T18:12:40.097",
+        "titles": [
+          {
+            "title": "Intel Optane DC Persistent Memory Module Management 1.00.00.3506 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:optane_dc_persistent_memory_module_management:01.00.00.3455:*:*:*:*:*:*:*",
+      "title": "Intel Optane DC Persistent Memory Module Management (DCPM) 01.00.00.3455",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:optane_dc_persistent_memory_module_management:1.0.0.3461:*:*:*:*:*:*:*",
+      "title": "Intel Optane DC Persistent Memory Module Management (DCPM) 1.0.0.3461",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:optane_dc_persistent_memory_module_management:01.00.00.3497:*:*:*:*:*:*:*",
+      "title": "Intel Optane DC Persistent Memory Module Management (DCPM) 01.00.00.3497",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:optane_dc_persistent_memory_module_management:1.00.00.3506:*:*:*:*:windows:*:*",
+      "title": "Intel Optane DC Persistent Memory Module Management 1.00.00.3506 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

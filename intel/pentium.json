@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:pentium:-:*:*:*:*:*:*:*",
+        "cpeNameId": "ECDB6322-22A5-4BBB-89F1-B6FD443E9A08",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Intel Pentium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:pentium:n4100:*:*:*:*:*:*:*",
+        "cpeNameId": "DF8C56BC-BED7-4A0F-AB64-A291D7B596F8",
+        "lastModified": "2021-04-29T14:52:53.070",
+        "created": "2018-06-27T14:23:42.180",
+        "titles": [
+          {
+            "title": "Intel Pentium N4100",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:pentium:n4200:*:*:*:*:*:*:*",
+        "cpeNameId": "DCE7097E-D4CC-4BA0-AB7A-FFB3A17E88F4",
+        "lastModified": "2021-05-10T16:53:23.560",
+        "created": "2018-06-27T14:23:42.180",
+        "titles": [
+          {
+            "title": "Intel Pentium N4200",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:pentium:n4000:*:*:*:*:*:*:*",
+        "cpeNameId": "30E22424-F63C-40A2-BBBF-BFC705D06D08",
+        "lastModified": "2021-04-29T14:52:53.070",
+        "created": "2018-06-27T14:23:42.180",
+        "titles": [
+          {
+            "title": "Intel Pentium N4000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:pentium:-:*:*:*:*:*:*:*",
+      "title": "Intel Pentium",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:pentium:n4100:*:*:*:*:*:*:*",
+      "title": "Intel Pentium N4100",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:pentium:n4200:*:*:*:*:*:*:*",
+      "title": "Intel Pentium N4200",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:pentium:n4000:*:*:*:*:*:*:*",
+      "title": "Intel Pentium N4000",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

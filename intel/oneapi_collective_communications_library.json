@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_collective_communications_library:2021.6:*:*:*:*:*:*:*",
+        "cpeNameId": "EB65BD5F-D22F-41BA-A3B5-041BA4D37EE6",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-02-28T18:52:24.867",
+        "titles": [
+          {
+            "title": "Intel oneAPI Collective Communications Library 2021.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_collective_communications_library:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D6B464CC-D76F-4D6F-AE79-15B7617F13C7",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-02-28T18:52:24.867",
+        "titles": [
+          {
+            "title": "Intel oneAPI Collective Communications Library",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:oneapi_collective_communications_library:2021.6:*:*:*:*:*:*:*",
+      "title": "Intel oneAPI Collective Communications Library 2021.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:oneapi_collective_communications_library:-:*:*:*:*:*:*:*",
+      "title": "Intel oneAPI Collective Communications Library",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

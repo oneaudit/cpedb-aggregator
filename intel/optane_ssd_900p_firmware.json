@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:optane_ssd_900p_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F203047E-D0D7-4C72-BECE-0331AFF6DF55",
+        "lastModified": "2021-04-30T18:28:52.840",
+        "created": "2020-11-17T14:31:09.563",
+        "titles": [
+          {
+            "title": "Intel Optane SSD 900P Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:optane_ssd_900p_firmware:e2010480:*:*:*:*:*:*:*",
+        "cpeNameId": "476DFE1A-00F3-4DC1-824B-ECFDFF4E05FC",
+        "lastModified": "2021-04-30T18:28:52.840",
+        "created": "2020-11-17T14:31:09.563",
+        "titles": [
+          {
+            "title": "Intel Optane SSD 900P Firmware E2010480",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:optane_ssd_900p_firmware:e2010650:*:*:*:*:*:*:*",
+        "cpeNameId": "12D8BA46-41B5-4B72-AAEE-84FE289307CB",
+        "lastModified": "2023-12-29T18:13:53.080",
+        "created": "2023-12-29T18:13:53.080",
+        "titles": [
+          {
+            "title": "Intel Optane SSD 900P Firmware E2010650",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:optane_ssd_900p_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Optane SSD 900P Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:optane_ssd_900p_firmware:e2010480:*:*:*:*:*:*:*",
+      "title": "Intel Optane SSD 900P Firmware E2010480",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:optane_ssd_900p_firmware:e2010650:*:*:*:*:*:*:*",
+      "title": "Intel Optane SSD 900P Firmware E2010650",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

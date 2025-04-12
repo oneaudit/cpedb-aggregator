@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:on_event_series:2.0:*:*:*:*:android:*:*",
+        "cpeNameId": "840408E4-55E0-4E3B-908F-3302AB172003",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-03-07T17:05:01.277",
+        "titles": [
+          {
+            "title": "Intel ON Event Series 2.0 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:on_event_series:-:*:*:*:*:android:*:*",
+        "cpeNameId": "DC173251-92CD-421F-A1F3-824BBBA7847E",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-03-07T17:05:01.277",
+        "titles": [
+          {
+            "title": "Intel ON Event Series for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:on_event_series:2.0:*:*:*:*:android:*:*",
+      "title": "Intel ON Event Series 2.0 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:on_event_series:-:*:*:*:*:android:*:*",
+      "title": "Intel ON Event Series for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

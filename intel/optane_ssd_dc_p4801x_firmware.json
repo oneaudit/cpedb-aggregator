@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:optane_ssd_dc_p4801x_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C0E0C83A-8C5B-420B-A84A-2CC6A83561C1",
+        "lastModified": "2022-05-20T00:20:26.260",
+        "created": "2022-05-18T19:28:26.393",
+        "titles": [
+          {
+            "title": "Intel Optane SSD DC P4801X Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:optane_ssd_dc_p4801x_firmware:e2010650:*:*:*:*:*:*:*",
+        "cpeNameId": "8DFB38A7-038E-4C23-90BC-7898FD6C7BC1",
+        "lastModified": "2023-12-29T18:13:53.080",
+        "created": "2023-12-29T18:13:53.080",
+        "titles": [
+          {
+            "title": "Intel Optane SSD DC P4801X Firmware E2010650",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:optane_ssd_dc_p4801x_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Optane SSD DC P4801X Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:optane_ssd_dc_p4801x_firmware:e2010650:*:*:*:*:*:*:*",
+      "title": "Intel Optane SSD DC P4801X Firmware E2010650",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

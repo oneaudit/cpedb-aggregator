@@ -1,0 +1,116 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_base_toolkit:2023.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8AF78D1A-4CB9-4D18-9F6C-AA042355D597",
+        "lastModified": "2023-05-22T13:20:37.577",
+        "created": "2023-05-18T22:02:47.750",
+        "titles": [
+          {
+            "title": "Intel OneAPI Base Toolkit 2023.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_base_toolkit:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D694DFDE-E88F-472E-920C-C8F1DF60F909",
+        "lastModified": "2023-05-22T13:20:37.577",
+        "created": "2023-05-18T22:02:47.750",
+        "titles": [
+          {
+            "title": "Intel OneAPI Base Toolkit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_base_toolkit:2021.1:-:*:*:*:*:*:*",
+        "cpeNameId": "DD08DEBA-B04C-40DD-92D7-9CB60BF07F50",
+        "lastModified": "2023-05-22T18:09:28.160",
+        "created": "2023-05-22T14:11:54.303",
+        "titles": [
+          {
+            "title": "Intel oneAPI Base Toolkit 2021.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_base_toolkit:2021.1:beta10:*:*:*:*:*:*",
+        "cpeNameId": "8CA71290-6D62-44A9-9B77-9A2627594F87",
+        "lastModified": "2023-05-22T18:09:28.160",
+        "created": "2023-05-22T14:12:10.563",
+        "titles": [
+          {
+            "title": "Intel oneAPI Base Toolkit 2021.1 Beta 10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_base_toolkit:2023.1:*:*:*:*:*:*:*",
+        "cpeNameId": "FBCF5DE4-588A-43F3-9F85-E352334A2700",
+        "lastModified": "2023-12-01T13:06:12.100",
+        "created": "2023-12-01T13:06:12.100",
+        "titles": [
+          {
+            "title": "Intel OneAPI Base Toolkit 2023.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:oneapi_base_toolkit:2023.0:*:*:*:*:*:*:*",
+      "title": "Intel OneAPI Base Toolkit 2023.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:oneapi_base_toolkit:-:*:*:*:*:*:*:*",
+      "title": "Intel OneAPI Base Toolkit",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:oneapi_base_toolkit:2021.1:-:*:*:*:*:*:*",
+      "title": "Intel oneAPI Base Toolkit 2021.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:oneapi_base_toolkit:2021.1:beta10:*:*:*:*:*:*",
+      "title": "Intel oneAPI Base Toolkit 2021.1 Beta 10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:oneapi_base_toolkit:2023.1:*:*:*:*:*:*:*",
+      "title": "Intel OneAPI Base Toolkit 2023.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

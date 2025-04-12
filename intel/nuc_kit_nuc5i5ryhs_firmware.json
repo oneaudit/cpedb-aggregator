@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc_kit_nuc5i5ryhs_firmware:rybdwi35.86a.0383:*:*:*:*:*:*:*",
+        "cpeNameId": "E1430A3D-8980-474B-8743-3CF3C51EC375",
+        "lastModified": "2020-09-23T12:46:24.347",
+        "created": "2020-09-23T12:46:24.347",
+        "titles": [
+          {
+            "title": "Intel NUC Kit NUC5i5RYHS Firmware RYBDWi35.86A.0383",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc_kit_nuc5i5ryhs_firmware:ry0386:*:*:*:*:*:*:*",
+        "cpeNameId": "DE09D998-352F-4712-8868-202C95994494",
+        "lastModified": "2022-11-16T15:47:44.140",
+        "created": "2022-11-16T15:33:37.707",
+        "titles": [
+          {
+            "title": "Intel NUC KIT NUC5I5RYHS Firmware RY0386",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc_kit_nuc5i5ryhs_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A1957E6E-1D3F-4B17-AF73-F6B47501A7F5",
+        "lastModified": "2022-11-16T15:47:44.140",
+        "created": "2022-11-16T15:33:37.707",
+        "titles": [
+          {
+            "title": "Intel NUC KIT NUC5I5RYHS Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc_kit_nuc5i5ryhs_firmware:rybdwi35.86a.0383:*:*:*:*:*:*:*",
+      "title": "Intel NUC Kit NUC5i5RYHS Firmware RYBDWi35.86A.0383",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc_kit_nuc5i5ryhs_firmware:ry0386:*:*:*:*:*:*:*",
+      "title": "Intel NUC KIT NUC5I5RYHS Firmware RY0386",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc_kit_nuc5i5ryhs_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel NUC KIT NUC5I5RYHS Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

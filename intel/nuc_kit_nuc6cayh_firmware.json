@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc_kit_nuc6cayh_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F74D5EB7-BAC4-4501-A415-025AE9E62EA6",
+        "lastModified": "2020-04-28T11:44:58.713",
+        "created": "2020-04-28T11:44:58.713",
+        "titles": [
+          {
+            "title": "Intel NUC Kit NUC6CAYH Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc_kit_nuc6cayh_firmware:ayaplcel.86a0053:*:*:*:*:*:*:*",
+        "cpeNameId": "49647DDD-B466-4B3D-BF64-80A9E20699E1",
+        "lastModified": "2020-04-28T11:44:59.023",
+        "created": "2020-04-28T11:44:59.023",
+        "titles": [
+          {
+            "title": "Intel NUC Kit NUC6CAYH Firmware AYAPLCEL.86A0053",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc_kit_nuc6cayh_firmware:ayaplcel.86a.0066:*:*:*:*:*:*:*",
+        "cpeNameId": "40D5E602-D8E6-42D5-86D5-7BD98A8386D6",
+        "lastModified": "2020-09-23T12:46:25.720",
+        "created": "2020-09-23T12:46:25.720",
+        "titles": [
+          {
+            "title": "Intel NUC Kit NUC6CAYH Firmware AYAPLCEL.86A.0066",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc_kit_nuc6cayh_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel NUC Kit NUC6CAYH Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc_kit_nuc6cayh_firmware:ayaplcel.86a0053:*:*:*:*:*:*:*",
+      "title": "Intel NUC Kit NUC6CAYH Firmware AYAPLCEL.86A0053",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc_kit_nuc6cayh_firmware:ayaplcel.86a.0066:*:*:*:*:*:*:*",
+      "title": "Intel NUC Kit NUC6CAYH Firmware AYAPLCEL.86A.0066",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

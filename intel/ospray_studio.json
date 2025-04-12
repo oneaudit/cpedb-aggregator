@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:ospray_studio:2023.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2F2FAAD2-39FE-4CF2-BC1C-D46F3D455E96",
+        "lastModified": "2023-05-22T13:20:37.577",
+        "created": "2023-05-18T22:05:51.027",
+        "titles": [
+          {
+            "title": "Intel OSPRay Studio 2023.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:ospray_studio:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7CBBB2BE-11B0-44B9-AB94-358219AE83BF",
+        "lastModified": "2023-05-22T13:20:37.577",
+        "created": "2023-05-18T22:05:51.027",
+        "titles": [
+          {
+            "title": "Intel OSPRay Studio",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:ospray_studio:2023.0:*:*:*:*:*:*:*",
+      "title": "Intel OSPRay Studio 2023.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:ospray_studio:-:*:*:*:*:*:*:*",
+      "title": "Intel OSPRay Studio",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

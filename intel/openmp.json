@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:openmp:2022.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4336F09C-8332-4DB6-AA46-8FBC98AE4D65",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-02-28T16:37:43.113",
+        "titles": [
+          {
+            "title": "Intel OpenMP 2022.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:openmp:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DF40FFA2-BD13-4A0C-94B3-472508DFFD13",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-02-28T16:37:43.113",
+        "titles": [
+          {
+            "title": "Intel OpenMP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:openmp:2022.1:*:*:*:*:*:*:*",
+      "title": "Intel OpenMP 2022.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:openmp:-:*:*:*:*:*:*:*",
+      "title": "Intel OpenMP",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

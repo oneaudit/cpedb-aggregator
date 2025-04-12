@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_rendering_toolkit:2021.2:*:*:*:*:*:*:*",
+        "cpeNameId": "7EC8E66F-46F7-409A-9C71-DE72FADF1F4A",
+        "lastModified": "2021-12-13T19:29:36.160",
+        "created": "2021-11-22T17:13:51.300",
+        "titles": [
+          {
+            "title": "Intel oneAPI Rendering Toolkit 2021.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_rendering_toolkit:-:*:*:*:*:*:*:*",
+        "cpeNameId": "79CD48B1-0215-434B-85A1-4F25B20FF85E",
+        "lastModified": "2021-12-13T19:29:36.160",
+        "created": "2021-11-22T17:13:51.300",
+        "titles": [
+          {
+            "title": "Intel oneAPI Rendering Toolkit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_rendering_toolkit:2021.1:-:*:*:*:*:*:*",
+        "cpeNameId": "A6A7F15C-4477-414E-8B6B-4A9028DB2527",
+        "lastModified": "2023-05-22T18:09:28.160",
+        "created": "2023-05-22T14:11:54.303",
+        "titles": [
+          {
+            "title": "Intel oneAPI Rendering Toolkit 2021.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:oneapi_rendering_toolkit:2021.1:beta10:*:*:*:*:*:*",
+        "cpeNameId": "BE6FC1BD-C273-433E-A9F6-F30DCE0FADEB",
+        "lastModified": "2023-05-22T18:09:28.160",
+        "created": "2023-05-22T14:12:10.563",
+        "titles": [
+          {
+            "title": "Intel oneAPI Rendering Toolkit 2021.1 Beta 10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:oneapi_rendering_toolkit:2021.2:*:*:*:*:*:*:*",
+      "title": "Intel oneAPI Rendering Toolkit 2021.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:oneapi_rendering_toolkit:-:*:*:*:*:*:*:*",
+      "title": "Intel oneAPI Rendering Toolkit",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:oneapi_rendering_toolkit:2021.1:-:*:*:*:*:*:*",
+      "title": "Intel oneAPI Rendering Toolkit 2021.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:oneapi_rendering_toolkit:2021.1:beta10:*:*:*:*:*:*",
+      "title": "Intel oneAPI Rendering Toolkit 2021.1 Beta 10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
