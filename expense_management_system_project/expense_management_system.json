@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:expense_management_system_project:expense_management_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DB7FBC7C-CA3E-43FA-973C-E7F7F240EA8B",
+        "lastModified": "2022-10-25T16:34:43.650",
+        "created": "2022-08-07T22:48:27.100",
+        "titles": [
+          {
+            "title": "Expense Management System Project Expense Management System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:expense_management_system_project:expense_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E92BA8C1-BF37-4DD1-94ED-EA8D8E357028",
+        "lastModified": "2024-04-17T16:21:03.257",
+        "created": "2022-09-07T18:00:35.727",
+        "titles": [
+          {
+            "title": "Expense Management System Project Expense Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oretnom23:expense_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "139D66D1-4ED4-4AA7-8691-A85E4517ED95"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:expense_management_system_project:expense_management_system:-:*:*:*:*:*:*:*",
+      "title": "Expense Management System Project Expense Management System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:expense_management_system_project:expense_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Expense Management System Project Expense Management System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oretnom23:expense_management_system:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

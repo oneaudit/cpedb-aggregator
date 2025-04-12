@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:eracent:eda_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0A27FC87-5ECB-4812-9B8D-872AB9221285",
+        "lastModified": "2019-12-13T15:30:38.203",
+        "created": "2019-12-13T15:30:38.203",
+        "titles": [
+          {
+            "title": "Eracent Eda Agent -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:eracent:eda_agent:10.2.26:*:*:*:*:*:*:*",
+        "cpeNameId": "FD23FD0F-AA93-4CC2-BF0B-7AF8699568A1",
+        "lastModified": "2019-12-13T15:30:38.547",
+        "created": "2019-12-13T15:30:38.547",
+        "titles": [
+          {
+            "title": "Eracent EDA Agent 10.2.26",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:eracent:eda_agent:-:*:*:*:*:*:*:*",
+      "title": "Eracent Eda Agent -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:eracent:eda_agent:10.2.26:*:*:*:*:*:*:*",
+      "title": "Eracent EDA Agent 10.2.26",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

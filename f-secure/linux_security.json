@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f-secure:linux_security:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8822EB6C-26D4-4573-AC67-EEF3692F7925",
+        "lastModified": "2022-05-18T16:32:57.927",
+        "created": "2021-06-28T18:59:10.170",
+        "titles": [
+          {
+            "title": "F-secure Linux Security",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f-secure:linux_security:-:*:*:*:*:*:x86:*",
+        "cpeNameId": "03FBAA4E-6B41-46BE-8EC7-B67D8E87F5CC",
+        "lastModified": "2021-12-31T01:35:41.457",
+        "created": "2021-12-27T16:09:08.770",
+        "titles": [
+          {
+            "title": "F-Secure Linux Security 32-bit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f-secure:linux_security:2022-02-01_01:*:*:*:*:*:*:*",
+        "cpeNameId": "7AA50639-0351-4968-824A-4BA8D4460F40",
+        "lastModified": "2022-02-25T19:30:08.177",
+        "created": "2022-02-11T14:03:52.333",
+        "titles": [
+          {
+            "title": "F-secure Linux Security 2022-02-01 01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f-secure:linux_security:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "40E7ED01-2F3B-45C5-8DAF-2C4C73764AE7",
+        "lastModified": "2022-11-06T15:03:38.527",
+        "created": "2022-09-08T13:04:29.260",
+        "titles": [
+          {
+            "title": "F-secure Linux Security on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:f-secure:linux_security:-:*:*:*:*:*:*:*",
+      "title": "F-secure Linux Security",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:f-secure:linux_security:-:*:*:*:*:*:x86:*",
+      "title": "F-Secure Linux Security 32-bit",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:f-secure:linux_security:2022-02-01_01:*:*:*:*:*:*:*",
+      "title": "F-secure Linux Security 2022-02-01 01",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:f-secure:linux_security:-:*:*:*:*:*:x64:*",
+      "title": "F-secure Linux Security on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:f-secure:safe_anywhere:-:-:-:*:*:mac_os_x:*:*",
+        "cpeNameId": "CE76787D-1A54-4DA2-868C-9059F56F3642",
+        "lastModified": "2020-05-11T17:38:21.083",
+        "created": "2014-04-21T14:18:17.410",
+        "titles": [
+          {
+            "title": "F-Secure Safe Anywhere for Mac OS X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:f-secure:safe_anywhere:-:-:-:*:*:macos:*:*",
+            "cpeNameId": "66F54663-887D-4555-B264-835B1BEE92EB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f-secure:safe_anywhere:-:-:-:*:*:macos:*:*",
+        "cpeNameId": "66F54663-887D-4555-B264-835B1BEE92EB",
+        "lastModified": "2020-05-11T17:37:28.067",
+        "created": "2020-05-11T17:37:28.067",
+        "titles": [
+          {
+            "title": "F-secure Safe Anywhere - - - Edition for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:f-secure:safe_anywhere:-:-:-:*:*:mac_os_x:*:*",
+      "title": "F-Secure Safe Anywhere for Mac OS X",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:f-secure:safe_anywhere:-:-:-:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:f-secure:safe_anywhere:-:-:-:*:*:macos:*:*",
+      "title": "F-secure Safe Anywhere - - - Edition for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

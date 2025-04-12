@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f-secure:server_security:9.20:*:*:*:*:*:*:*",
+        "cpeNameId": "91E09835-6E2A-461F-B9A1-BABFB4942E76",
+        "lastModified": "2014-05-06T11:56:44.460",
+        "created": "2014-04-21T14:46:47.693",
+        "titles": [
+          {
+            "title": "F-Secure Server Security 9.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f-secure:server_security:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A91D2D7C-A4F5-46E5-8B18-9721B0F68C4D",
+        "lastModified": "2022-08-15T19:48:16.527",
+        "created": "2022-03-15T10:54:30.797",
+        "titles": [
+          {
+            "title": "F-secure Server Security",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f-secure:server_security:15.00:*:*:*:*:*:*:*",
+        "cpeNameId": "0839E2A0-242D-44C3-BA5A-232A30D990B1",
+        "lastModified": "2023-09-27T10:35:51.667",
+        "created": "2023-09-27T10:35:51.667",
+        "titles": [
+          {
+            "title": "F-secure Server Security 15.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:f-secure:server_security:9.20:*:*:*:*:*:*:*",
+      "title": "F-Secure Server Security 9.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:f-secure:server_security:-:*:*:*:*:*:*:*",
+      "title": "F-secure Server Security",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:f-secure:server_security:15.00:*:*:*:*:*:*:*",
+      "title": "F-secure Server Security 15.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

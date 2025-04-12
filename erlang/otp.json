@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:erlang:otp:18.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F04F51AF-6951-40E6-9A57-41A556538CD3",
+        "lastModified": "2023-02-21T19:09:46.910",
+        "created": "2020-05-27T17:55:25.637",
+        "titles": [
+          {
+            "title": "Erlang OTP 18.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:erlang:erlang\\/otp:18.0:*:*:*:*:*:*:*",
+            "cpeNameId": "11BB9DE7-7B83-4279-81DB-67C6BD562EDA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:erlang:otp:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1643101B-2DE1-4192-BF43-EEE778C60AEB",
+        "lastModified": "2022-09-27T12:58:47.787",
+        "created": "2021-01-21T17:29:20.410",
+        "titles": [
+          {
+            "title": "Erlang OTP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:erlang:erlang\\/otp:-:*:*:*:*:*:*:*",
+            "cpeNameId": "2C03C407-02B5-4FFE-9869-AC73506B5477"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:erlang:otp:23.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "16A17337-D83D-45BE-B375-B8092A5E7B60",
+        "lastModified": "2023-02-21T19:09:46.910",
+        "created": "2021-01-21T17:29:20.740",
+        "titles": [
+          {
+            "title": "Erlang OTP 23.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:erlang:erlang\\/otp:23.2.2:*:*:*:*:*:*:*",
+            "cpeNameId": "92CB9C97-964B-4A07-8A2D-DC5C3C727181"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:erlang:otp:18.0:*:*:*:*:*:*:*",
+      "title": "Erlang OTP 18.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:erlang:erlang\\/otp:18.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:erlang:otp:-:*:*:*:*:*:*:*",
+      "title": "Erlang OTP",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:erlang:erlang\\/otp:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:erlang:otp:23.2.2:*:*:*:*:*:*:*",
+      "title": "Erlang OTP 23.2.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:erlang:erlang\\/otp:23.2.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

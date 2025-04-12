@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:esri:arcgis_for_server:10.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7C7D70F3-8E86-41BB-B13D-3188311DA35B",
+        "lastModified": "2024-05-21T12:29:45.263",
+        "created": "2014-08-22T17:34:26.707",
+        "titles": [
+          {
+            "title": "ESRI ArcGIS for Server 10.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:esri:arcgis_server:10.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "91FE20C0-CA69-4A07-A7DB-06BA4FF8C890"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:esri:arcgis_for_server:10.1.1:*:*:*:*:*:*:*",
+      "title": "ESRI ArcGIS for Server 10.1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:esri:arcgis_server:10.1.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:espressif:esp32-pico-d4_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E4FEED9E-3FB6-4E22-81E6-8652669934D7",
+        "lastModified": "2020-01-15T14:35:09.517",
+        "created": "2020-01-15T14:35:09.517",
+        "titles": [
+          {
+            "title": "Espressif ESP32-PICO-D4 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:espressif:esp32-pico-d4_firmware:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FA0DC8C4-A43E-4E84-89ED-E5221E0D78D9",
+        "lastModified": "2023-08-11T23:40:51.993",
+        "created": "2023-07-27T11:05:21.263",
+        "titles": [
+          {
+            "title": "Espressif ESP32-PICO-D4 FIRMWARE 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:espressif:esp32-pico-d4_firmware:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "E6E016D9-535D-4EEB-A747-04C4379D1F59",
+        "lastModified": "2023-08-11T23:40:51.993",
+        "created": "2023-07-27T11:05:21.263",
+        "titles": [
+          {
+            "title": "Espressif ESP32-PICO-D4 FIRMWARE 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:espressif:esp32-pico-d4_firmware:-:*:*:*:*:*:*:*",
+      "title": "Espressif ESP32-PICO-D4 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:espressif:esp32-pico-d4_firmware:3.0:*:*:*:*:*:*:*",
+      "title": "Espressif ESP32-PICO-D4 FIRMWARE 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:espressif:esp32-pico-d4_firmware:3.1:*:*:*:*:*:*:*",
+      "title": "Espressif ESP32-PICO-D4 FIRMWARE 3.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

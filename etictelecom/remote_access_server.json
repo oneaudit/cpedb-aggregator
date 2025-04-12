@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:etictelecom:remote_access_server:4.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DDA6A7F3-F1B9-4930-9FEC-76455FF70C93",
+        "lastModified": "2023-12-26T19:57:05.423",
+        "created": "2022-11-14T14:11:26.143",
+        "titles": [
+          {
+            "title": "Etic Telecom Remote Access Server (RAS) 4.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:etictelecom:remote_access_server_firmware:4.5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "BC64B2EE-67EE-46DE-B7A8-0A208F6D786D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:etictelecom:remote_access_server:4.7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6806FCD8-332F-4659-8B72-1B404C93C524",
+        "lastModified": "2023-12-26T19:57:05.423",
+        "created": "2023-09-28T11:03:45.310",
+        "titles": [
+          {
+            "title": "ETIC Telecom Remote Access Server (RAS) 4.7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:etictelecom:remote_access_server_firmware:4.7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "454D9B13-3729-48E2-A083-9F5E0B85D747"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:etictelecom:remote_access_server:4.5.0:*:*:*:*:*:*:*",
+      "title": "Etic Telecom Remote Access Server (RAS) 4.5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:etictelecom:remote_access_server_firmware:4.5.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:etictelecom:remote_access_server:4.7.0:*:*:*:*:*:*:*",
+      "title": "ETIC Telecom Remote Access Server (RAS) 4.7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:etictelecom:remote_access_server_firmware:4.7.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

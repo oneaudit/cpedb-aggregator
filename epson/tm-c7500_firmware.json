@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:epson:tm-c7500_firmware:wam31500:*:*:*:*:*:*:*",
+        "cpeNameId": "BB82B17F-6086-4CDA-85BF-FA0792D1363D",
+        "lastModified": "2022-11-29T15:01:22.457",
+        "created": "2022-11-29T14:44:26.553",
+        "titles": [
+          {
+            "title": "Epson TM-C7500 Firmware WAM31500",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:epson:tm-c7500_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DCE0AB9E-F6EF-4BE3-9E24-27DCDF35BA95",
+        "lastModified": "2023-04-17T15:16:36.763",
+        "created": "2023-04-17T13:41:05.150",
+        "titles": [
+          {
+            "title": "EPSON TM-C7500 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:epson:tm-c7500_firmware:wam31500:*:*:*:*:*:*:*",
+      "title": "Epson TM-C7500 Firmware WAM31500",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:epson:tm-c7500_firmware:-:*:*:*:*:*:*:*",
+      "title": "EPSON TM-C7500 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

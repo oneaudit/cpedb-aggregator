@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:esri:arcgis_desktop:10.8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "EB6629A0-C402-4E15-B8D6-63E66A52E644",
+        "lastModified": "2024-05-21T14:14:16.333",
+        "created": "2021-03-26T13:58:20.750",
+        "titles": [
+          {
+            "title": "ESRI ArcGIS Desktop 10.8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:esri:arcmap:10.8.1:*:*:*:*:*:*:*",
+            "cpeNameId": "92C921D0-EC3E-4497-800D-36B8CD0A9228"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:esri:arcgis_desktop:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D7860632-6F22-44BA-874D-534DD2367EB7",
+        "lastModified": "2024-05-21T14:14:16.333",
+        "created": "2021-03-26T13:58:34.873",
+        "titles": [
+          {
+            "title": "ESRI ArcGIS Desktop",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:esri:arcmap:-:*:*:*:*:*:*:*",
+            "cpeNameId": "35D5A4C1-2D8E-4417-A3D3-44572FB78C73"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:esri:arcgis_desktop:10.8.1:*:*:*:*:*:*:*",
+      "title": "ESRI ArcGIS Desktop 10.8.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:esri:arcmap:10.8.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:esri:arcgis_desktop:-:*:*:*:*:*:*:*",
+      "title": "ESRI ArcGIS Desktop",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:esri:arcmap:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

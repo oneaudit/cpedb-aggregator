@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:expense_tracker_project:expense_tracker:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FCE43CD2-A80E-4578-99E8-B359E01148CE",
+        "lastModified": "2023-09-30T03:15:43.443",
+        "created": "2023-09-28T13:37:44.340",
+        "titles": [
+          {
+            "title": "Expense Tracker Project Expense Tracker 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oretnom23:expense_tracker:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "6E67BF76-953A-4987-AF62-7172134360D2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:expense_tracker_project:expense_tracker:1.0:*:*:*:*:*:*:*",
+      "title": "Expense Tracker Project Expense Tracker 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oretnom23:expense_tracker:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

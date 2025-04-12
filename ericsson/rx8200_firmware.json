@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ericsson:rx8200_firmware:5.13.3:*:*:*:*:*:*:*",
+        "cpeNameId": "191644BE-C21B-4684-9F63-4CC786727E39",
+        "lastModified": "2020-11-12T12:20:26.630",
+        "created": "2020-09-16T16:54:37.027",
+        "titles": [
+          {
+            "title": "Ericsson RX8200 Firmware 5.13.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:mediakind:rx8200_firmware:5.13.3:*:*:*:*:*:*:*",
+            "cpeNameId": "ED0F5C6D-75AC-4DBB-8CFE-78EAFD95A68B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ericsson:rx8200_firmware:5.13.3:*:*:*:*:*:*:*",
+      "title": "Ericsson RX8200 Firmware 5.13.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:mediakind:rx8200_firmware:5.13.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

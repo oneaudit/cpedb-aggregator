@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:esri:arcgis_online:10.9:*:*:*:*:*:*:*",
+        "cpeNameId": "B1DCD433-448E-4E88-9B54-538D3004A3DB",
+        "lastModified": "2024-05-21T14:33:58.443",
+        "created": "2021-04-12T14:28:30.940",
+        "titles": [
+          {
+            "title": "Esri ArcGIS Online 10.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:esri:arcgis_online:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E38AB3BA-F00D-4ADE-9912-769183C1BF23",
+        "lastModified": "2024-05-21T14:33:58.443",
+        "created": "2021-04-12T14:28:30.940",
+        "titles": [
+          {
+            "title": "Esri ArcGIS Online",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:esri:arcgis_online:10.9:*:*:*:*:*:*:*",
+      "title": "Esri ArcGIS Online 10.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:esri:arcgis_online:-:*:*:*:*:*:*:*",
+      "title": "Esri ArcGIS Online",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

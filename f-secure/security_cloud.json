@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f-secure:security_cloud:2022-02-01_01:*:*:*:*:*:*:*",
+        "cpeNameId": "D6DF82E9-6FB3-4DF7-88AE-A460F046679D",
+        "lastModified": "2022-02-25T19:30:08.177",
+        "created": "2022-02-11T14:04:03.433",
+        "titles": [
+          {
+            "title": "F-secure Security Cloud 2022-02-01 01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f-secure:security_cloud:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9D8D6322-45BD-41B4-A91C-F3492B9596F6",
+        "lastModified": "2022-02-25T19:30:08.177",
+        "created": "2022-02-11T14:05:40.683",
+        "titles": [
+          {
+            "title": "F-secure Security Cloud",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:f-secure:security_cloud:2022-02-01_01:*:*:*:*:*:*:*",
+      "title": "F-secure Security Cloud 2022-02-01 01",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:f-secure:security_cloud:-:*:*:*:*:*:*:*",
+      "title": "F-secure Security Cloud",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

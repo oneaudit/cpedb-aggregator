@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:eracent:flw_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B146E760-B95D-431B-B6CB-4347E83B07B4",
+        "lastModified": "2019-12-13T15:30:40.127",
+        "created": "2019-12-13T15:30:40.127",
+        "titles": [
+          {
+            "title": "Eracent Flw Agent -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:eracent:flw_agent:10.2.26:*:*:*:*:*:*:*",
+        "cpeNameId": "0D23AFD8-B91E-4A01-B41B-42BB07BC6863",
+        "lastModified": "2019-12-13T15:30:40.423",
+        "created": "2019-12-13T15:30:40.423",
+        "titles": [
+          {
+            "title": "Eracent FLW Agent 10.2.26",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:eracent:flw_agent:-:*:*:*:*:*:*:*",
+      "title": "Eracent Flw Agent -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:eracent:flw_agent:10.2.26:*:*:*:*:*:*:*",
+      "title": "Eracent FLW Agent 10.2.26",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

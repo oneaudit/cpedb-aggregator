@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:espressif:esp32_firmware:4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "1360A39B-0412-474C-B0D9-4ED73ED2BEB4",
+        "lastModified": "2021-09-23T19:45:40.123",
+        "created": "2021-07-21T16:58:45.867",
+        "titles": [
+          {
+            "title": "Espressif Esp32 Firmware 4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:espressif:esp32_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "143A95B6-D13D-434A-AD4A-3F0C4FCD6122",
+        "lastModified": "2021-09-23T19:45:40.123",
+        "created": "2021-07-21T16:58:45.867",
+        "titles": [
+          {
+            "title": "Espressif Esp32 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:espressif:esp32_firmware:4.2:*:*:*:*:*:*:*",
+      "title": "Espressif Esp32 Firmware 4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:espressif:esp32_firmware:-:*:*:*:*:*:*:*",
+      "title": "Espressif Esp32 Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

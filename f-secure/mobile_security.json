@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f-secure:mobile_security:18.4.0:*:*:*:*:android:*:*",
+        "cpeNameId": "7F7E7764-2C58-4600-BC6D-33C67DB4271D",
+        "lastModified": "2021-08-19T16:18:35.807",
+        "created": "2021-08-19T12:25:48.583",
+        "titles": [
+          {
+            "title": "F-Secure Mobile Security 18.4.0 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f-secure:mobile_security:-:*:*:*:*:android:*:*",
+        "cpeNameId": "E1180531-8612-4A1D-89A7-6A5397FC1FB5",
+        "lastModified": "2021-08-19T16:18:35.807",
+        "created": "2021-08-19T12:25:48.583",
+        "titles": [
+          {
+            "title": "F-Secure Mobile Security for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:f-secure:mobile_security:18.4.0:*:*:*:*:android:*:*",
+      "title": "F-Secure Mobile Security 18.4.0 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:f-secure:mobile_security:-:*:*:*:*:android:*:*",
+      "title": "F-Secure Mobile Security for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
