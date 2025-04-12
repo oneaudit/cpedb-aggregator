@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:c530_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "27FB4AB0-D92D-423B-9514-F833FA74F944",
+        "lastModified": "2020-04-14T14:14:52.727",
+        "created": "2020-04-14T14:14:52.727",
+        "titles": [
+          {
+            "title": "Lexmark C530 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:c530_firmware:ls.sw.p026avcs:*:*:*:*:*:*:*",
+        "cpeNameId": "B11BF008-0184-4D07-9F95-5F38C5381AF1",
+        "lastModified": "2020-04-14T14:14:53.197",
+        "created": "2020-04-14T14:14:53.197",
+        "titles": [
+          {
+            "title": "Lexmark C530 Firmware LS.SW.P026avcS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lexmark:c530_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lexmark C530 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lexmark:c530_firmware:ls.sw.p026avcs:*:*:*:*:*:*:*",
+      "title": "Lexmark C530 Firmware LS.SW.P026avcS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

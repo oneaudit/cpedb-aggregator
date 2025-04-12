@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lexmark:g4_driver:4.2.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C255CDEC-3679-42F4-9295-DC533D4ABE1D",
+        "lastModified": "2021-08-23T12:55:57.507",
+        "created": "2021-08-03T15:16:39.470",
+        "titles": [
+          {
+            "title": "Lexmark G4 Driver 4.2.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lexmark:g4_driver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "099C42AA-4EB3-4D48-BB87-57A31D19C280",
+        "lastModified": "2021-08-23T12:55:57.507",
+        "created": "2021-08-03T15:16:39.470",
+        "titles": [
+          {
+            "title": "Lexmark G4 Driver",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lexmark:g4_driver:4.2.1.0:*:*:*:*:*:*:*",
+      "title": "Lexmark G4 Driver 4.2.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lexmark:g4_driver:-:*:*:*:*:*:*:*",
+      "title": "Lexmark G4 Driver",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

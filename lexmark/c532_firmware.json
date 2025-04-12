@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:c532_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7B3E90F6-8AB8-410C-A320-D368ADA6C04F",
+        "lastModified": "2020-04-14T14:14:53.493",
+        "created": "2020-04-14T14:14:53.493",
+        "titles": [
+          {
+            "title": "Lexmark C532 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:c532_firmware:ls.sw.p026avcs:*:*:*:*:*:*:*",
+        "cpeNameId": "1700B76C-E8F7-40A0-BC96-EB19AFF257FA",
+        "lastModified": "2020-04-14T14:14:53.960",
+        "created": "2020-04-14T14:14:53.960",
+        "titles": [
+          {
+            "title": "Lexmark C532 Firmware LS.SW.P026avcS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lexmark:c532_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lexmark C532 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lexmark:c532_firmware:ls.sw.p026avcs:*:*:*:*:*:*:*",
+      "title": "Lexmark C532 Firmware LS.SW.P026avcS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:c789_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4ECAACBE-6199-41BB-8BCE-9BAA08985D21",
+        "lastModified": "2020-04-14T14:15:00.103",
+        "created": "2020-04-14T14:15:00.103",
+        "titles": [
+          {
+            "title": "Lexmark C789 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:c789_firmware:lc.io.p165as:*:*:*:*:*:*:*",
+        "cpeNameId": "6BC82713-98EB-4240-9C85-0521F9118286",
+        "lastModified": "2020-04-14T14:15:00.633",
+        "created": "2020-04-14T14:15:00.633",
+        "titles": [
+          {
+            "title": "Lexmark C789 Firmware LC.IO.P165aS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lexmark:c789_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lexmark C789 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lexmark:c789_firmware:lc.io.p165as:*:*:*:*:*:*:*",
+      "title": "Lexmark C789 Firmware LC.IO.P165aS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

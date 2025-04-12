@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:leostream:agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D202539B-4675-4E0C-9C05-BDBFDC83E525",
+        "lastModified": "2021-03-30T19:38:06.343",
+        "created": "2018-12-14T20:10:40.847",
+        "titles": [
+          {
+            "title": "Leostream Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:leostream:agent:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DA165866-0A87-46D2-AF8D-B3ED805D91F9",
+        "lastModified": "2021-03-30T19:38:06.343",
+        "created": "2018-12-14T20:10:40.847",
+        "titles": [
+          {
+            "title": "Leostream Agent 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:leostream:agent:-:*:*:*:*:*:*:*",
+      "title": "Leostream Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:leostream:agent:7.0:*:*:*:*:*:*:*",
+      "title": "Leostream Agent 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

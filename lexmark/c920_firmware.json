@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:c920_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "79AA42DE-F393-475C-B4D6-CBB70F74AAF9",
+        "lastModified": "2020-04-14T14:15:01.727",
+        "created": "2020-04-14T14:15:01.727",
+        "titles": [
+          {
+            "title": "Lexmark C920 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:c920_firmware:ls.ta.p127s:*:*:*:*:*:*:*",
+        "cpeNameId": "665A26E4-0450-421F-A626-FA72AA1239FF",
+        "lastModified": "2020-04-14T14:15:02.243",
+        "created": "2020-04-14T14:15:02.243",
+        "titles": [
+          {
+            "title": "Lexmark C920 Firmware LS.TA.P127S",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lexmark:c920_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lexmark C920 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lexmark:c920_firmware:ls.ta.p127s:*:*:*:*:*:*:*",
+      "title": "Lexmark C920 Firmware LS.TA.P127S",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

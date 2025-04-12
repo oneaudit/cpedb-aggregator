@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:v530-15arr_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E321EABF-0EC4-4BBB-82AA-476AD5D10277",
+        "lastModified": "2021-12-03T19:22:08.893",
+        "created": "2021-11-19T17:54:44.997",
+        "titles": [
+          {
+            "title": "Lenovo V530-15ARR Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:v530-15arr_firmware:not_affected:*:*:*:*:*:*:*",
+        "cpeNameId": "96E51C5D-9395-4B7C-A0C1-3EEE55EDC370",
+        "lastModified": "2023-02-14T19:55:07.353",
+        "created": "2023-02-07T17:28:20.883",
+        "titles": [
+          {
+            "title": "Lenovo V530-15ARR FIRMWARE NOT AFFECTED",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:v530-15arr_firmware:o4dkt44a:*:*:*:*:*:*:*",
+        "cpeNameId": "127A5B56-F3DE-4A12-BCDF-70E684A6C0D3",
+        "lastModified": "2023-09-01T03:44:42.880",
+        "created": "2023-02-08T13:17:31.050",
+        "titles": [
+          {
+            "title": "Lenovo V530-15ARR FIRMWARE O4DKT44A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:v530-15arr_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lenovo V530-15ARR Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:v530-15arr_firmware:not_affected:*:*:*:*:*:*:*",
+      "title": "Lenovo V530-15ARR FIRMWARE NOT AFFECTED",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:v530-15arr_firmware:o4dkt44a:*:*:*:*:*:*:*",
+      "title": "Lenovo V530-15ARR FIRMWARE O4DKT44A",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

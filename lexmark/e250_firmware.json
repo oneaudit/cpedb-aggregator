@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:e250_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DC614C8C-C70E-4682-89AD-5320988A75DA",
+        "lastModified": "2020-04-14T14:15:12.807",
+        "created": "2020-04-14T14:15:12.807",
+        "titles": [
+          {
+            "title": "Lexmark E250 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:e250_firmware:le.pm.p121:*:*:*:*:*:*:*",
+        "cpeNameId": "B784B5B0-F9E3-44E1-91CA-B70ECE973D33",
+        "lastModified": "2020-04-14T14:15:13.413",
+        "created": "2020-04-14T14:15:13.413",
+        "titles": [
+          {
+            "title": "Lexmark E250 Firmware LE.PM.P121",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lexmark:e250_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lexmark E250 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lexmark:e250_firmware:le.pm.p121:*:*:*:*:*:*:*",
+      "title": "Lexmark E250 Firmware LE.PM.P121",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

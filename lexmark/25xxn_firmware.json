@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:25xxn_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7FB6DC1F-D5AA-4F69-8875-A0F0863E5C46",
+        "lastModified": "2020-04-14T14:14:47.807",
+        "created": "2020-04-14T14:14:47.807",
+        "titles": [
+          {
+            "title": "Lexmark 25xxN Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:25xxn_firmware:lcl.cu.p106:*:*:*:*:*:*:*",
+        "cpeNameId": "B3EF4B38-7808-4454-A1E4-051C23097B97",
+        "lastModified": "2020-04-14T14:14:48.353",
+        "created": "2020-04-14T14:14:48.353",
+        "titles": [
+          {
+            "title": "Lexmark 25xxN Firmware LCL.CU.P106",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lexmark:25xxn_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lexmark 25xxN Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lexmark:25xxn_firmware:lcl.cu.p106:*:*:*:*:*:*:*",
+      "title": "Lexmark 25xxN Firmware LCL.CU.P106",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
