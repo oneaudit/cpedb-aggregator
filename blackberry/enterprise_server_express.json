@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:blackberry:enterprise_server_express:5.0.4:*:*:*:*:lotus_domino:*:*",
+        "cpeNameId": "55B53F18-C9E6-4105-87FA-8F5A068A1DFF",
+        "lastModified": "2014-02-24T15:02:29.193",
+        "created": "2014-02-14T17:28:36.060",
+        "titles": [
+          {
+            "title": "BlackBerry Enterprise Server Express for Lotus Domino 5.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:blackberry:enterprise_server_express:5.0.4:*:*:*:*:exchange_server:*:*",
+        "cpeNameId": "487E4E7A-9E15-4993-89A2-AC17C19649D5",
+        "lastModified": "2014-02-24T15:02:29.303",
+        "created": "2014-02-14T17:28:36.233",
+        "titles": [
+          {
+            "title": "BlackBerry Enterprise Server Express for Microsoft Exchange Server 5.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:blackberry:enterprise_server_express:5.0.4:*:*:*:*:lotus_domino:*:*",
+      "title": "BlackBerry Enterprise Server Express for Lotus Domino 5.0.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:blackberry:enterprise_server_express:5.0.4:*:*:*:*:exchange_server:*:*",
+      "title": "BlackBerry Enterprise Server Express for Microsoft Exchange Server 5.0.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

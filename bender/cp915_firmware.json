@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bender:cp915_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4513E8EF-C556-4BB6-8736-535BF999EA3D",
+        "lastModified": "2020-10-30T13:49:46.790",
+        "created": "2020-10-30T13:49:46.790",
+        "titles": [
+          {
+            "title": "Bender CP915 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bender:cp915_firmware:4.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "03B97C7A-2B7F-4E69-BFFF-A918D870C617",
+        "lastModified": "2020-10-30T13:49:47.133",
+        "created": "2020-10-30T13:49:47.133",
+        "titles": [
+          {
+            "title": "Bender CP915 Firmware 4.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:bender:cp915_firmware:-:*:*:*:*:*:*:*",
+      "title": "Bender CP915 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:bender:cp915_firmware:4.2.0:*:*:*:*:*:*:*",
+      "title": "Bender CP915 Firmware 4.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

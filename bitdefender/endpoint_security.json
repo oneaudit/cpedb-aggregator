@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bitdefender:endpoint_security:-:*:*:*:*:macos:*:*",
+        "cpeNameId": "7CAC55A0-03E1-4CD6-BB6F-83EDB52ADA77",
+        "lastModified": "2020-08-05T16:19:36.177",
+        "created": "2020-08-05T16:19:36.177",
+        "titles": [
+          {
+            "title": "Bitdefender Endpoint Security for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bitdefender:endpoint_security:4.12.80:*:*:*:*:macos:*:*",
+        "cpeNameId": "0368F652-AE05-4332-8847-E1C1786B4DD7",
+        "lastModified": "2020-08-05T16:19:36.490",
+        "created": "2020-08-05T16:19:36.490",
+        "titles": [
+          {
+            "title": "Bitdefender Endpoint Security 4.12.80 for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bitdefender:endpoint_security:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "C5BA104F-94A2-4FAB-B199-BAC457C757C3",
+        "lastModified": "2021-04-05T16:16:21.547",
+        "created": "2020-08-31T16:24:33.443",
+        "titles": [
+          {
+            "title": "Bitdefender Endpoint Security for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bitdefender:endpoint_security:6.6.18.261:*:*:*:*:windows:*:*",
+        "cpeNameId": "8AF723DE-E6E6-49E9-B032-0B4C3FABD172",
+        "lastModified": "2021-04-05T16:16:21.547",
+        "created": "2020-08-31T16:24:33.443",
+        "titles": [
+          {
+            "title": "Bitdefender Endpoint Security 6.6.18.261 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:bitdefender:endpoint_security:-:*:*:*:*:macos:*:*",
+      "title": "Bitdefender Endpoint Security for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bitdefender:endpoint_security:4.12.80:*:*:*:*:macos:*:*",
+      "title": "Bitdefender Endpoint Security 4.12.80 for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bitdefender:endpoint_security:-:*:*:*:*:windows:*:*",
+      "title": "Bitdefender Endpoint Security for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bitdefender:endpoint_security:6.6.18.261:*:*:*:*:windows:*:*",
+      "title": "Bitdefender Endpoint Security 6.6.18.261 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

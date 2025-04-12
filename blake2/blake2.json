@@ -1,0 +1,168 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:blake2:blake2:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A6198F4E-5FB7-4579-B340-2E802D9164CE",
+        "lastModified": "2020-08-31T12:52:59.640",
+        "created": "2019-09-10T11:51:29.320",
+        "titles": [
+          {
+            "title": "BLAKE2 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blake2:blake2-rust:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F1617FFF-603D-4D62-8BB8-CF161A3CBDBF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:blake2:blake2:0.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "639098A6-46C8-48CB-BABF-C84C066A0429",
+        "lastModified": "2020-08-31T12:53:00.157",
+        "created": "2019-09-10T11:51:29.600",
+        "titles": [
+          {
+            "title": "BLAKE2 0.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blake2:blake2-rust:0.3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "48785B57-46FD-4182-82A1-63D340A71756"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:blake2:blake2:0.7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A8983390-4EA3-429F-85E3-A3CB5B9FCCD0",
+        "lastModified": "2020-08-31T12:53:00.310",
+        "created": "2019-09-10T11:51:29.727",
+        "titles": [
+          {
+            "title": "BLAKE2 0.7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blake2:blake2-rust:0.7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "6DE664C9-0A1A-4360-B6FF-AB05A63348CA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:blake2:blake2:0.7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "1CBA34F7-E18E-4A88-BF16-ABB451A97CBB",
+        "lastModified": "2020-08-31T12:53:00.467",
+        "created": "2019-09-10T11:51:29.837",
+        "titles": [
+          {
+            "title": "BLAKE2 0.7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blake2:blake2-rust:0.7.1:*:*:*:*:*:*:*",
+            "cpeNameId": "318DF1E7-5B54-4344-BA03-33B607711969"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:blake2:blake2:0.8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0E8B3660-0FE4-43E9-AB53-B6597693FFB6",
+        "lastModified": "2020-08-31T12:53:00.607",
+        "created": "2019-09-10T11:51:29.947",
+        "titles": [
+          {
+            "title": "BLAKE2 0.8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blake2:blake2-rust:0.8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "7D64993F-6C8A-45F0-9407-D9DAE450AFA3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:blake2:blake2:0.8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4BB7B2B5-F97C-46E5-A791-D6A9C927F8C0",
+        "lastModified": "2020-08-31T12:53:01.060",
+        "created": "2019-09-10T11:51:30.070",
+        "titles": [
+          {
+            "title": "BLAKE2 0.8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blake2:blake2-rust:0.8.1:*:*:*:*:*:*:*",
+            "cpeNameId": "1054E5FF-3394-47EB-A286-19C65F2E9ED4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:blake2:blake2:-:*:*:*:*:*:*:*",
+      "title": "BLAKE2 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blake2:blake2-rust:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:blake2:blake2:0.3.0:*:*:*:*:*:*:*",
+      "title": "BLAKE2 0.3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blake2:blake2-rust:0.3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:blake2:blake2:0.7.0:*:*:*:*:*:*:*",
+      "title": "BLAKE2 0.7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blake2:blake2-rust:0.7.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:blake2:blake2:0.7.1:*:*:*:*:*:*:*",
+      "title": "BLAKE2 0.7.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blake2:blake2-rust:0.7.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:blake2:blake2:0.8.0:*:*:*:*:*:*:*",
+      "title": "BLAKE2 0.8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blake2:blake2-rust:0.8.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:blake2:blake2:0.8.1:*:*:*:*:*:*:*",
+      "title": "BLAKE2 0.8.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blake2:blake2-rust:0.8.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

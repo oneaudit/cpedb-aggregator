@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:beckhoff:twincat_opc_ua_server:2.3.0.12:*:*:*:*:*:*:*",
+        "cpeNameId": "387B1193-899D-4771-932E-EF96A7CFF00E",
+        "lastModified": "2021-05-21T18:51:21.633",
+        "created": "2021-05-21T11:08:31.640",
+        "titles": [
+          {
+            "title": "Beckhoff TwinCAT OPC UA Server 2.3.0.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:beckhoff:twincat_opc_ua_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5AB3A18D-B727-41B1-88DF-E43634356BFF",
+        "lastModified": "2021-05-21T18:51:21.633",
+        "created": "2021-05-21T11:08:31.640",
+        "titles": [
+          {
+            "title": "Beckhoff TwinCAT OPC UA Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:beckhoff:twincat_opc_ua_server:2.3.0.12:*:*:*:*:*:*:*",
+      "title": "Beckhoff TwinCAT OPC UA Server 2.3.0.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:beckhoff:twincat_opc_ua_server:-:*:*:*:*:*:*:*",
+      "title": "Beckhoff TwinCAT OPC UA Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

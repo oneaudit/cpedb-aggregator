@@ -1,0 +1,82 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "62F0548C-5D1F-4D51-ADFC-9030F8C8A701",
+        "lastModified": "2020-05-11T17:00:41.233",
+        "created": "2018-11-21T15:20:15.290",
+        "titles": [
+          {
+            "title": "Bloop Airmail 3 3.5.9 for Mac OS X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:macos:*:*",
+            "cpeNameId": "176B38A8-7BA9-410C-B106-6E45A3B317DA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:mac_os:*:*",
+        "cpeNameId": "05E350B7-557E-4761-8575-6B078060D699",
+        "lastModified": "2020-05-04T13:43:37.647",
+        "created": "2019-10-08T11:26:05.280",
+        "titles": [
+          {
+            "title": "Bloop SRL Airmail 3 3.5.9 for Mac OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:macos:*:*",
+            "cpeNameId": "176B38A8-7BA9-410C-B106-6E45A3B317DA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:macos:*:*",
+        "cpeNameId": "176B38A8-7BA9-410C-B106-6E45A3B317DA",
+        "lastModified": "2020-05-04T13:43:01.333",
+        "created": "2020-05-04T13:43:01.333",
+        "titles": [
+          {
+            "title": "Bloop Airmail 3 3.5.9 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:mac_os_x:*:*",
+      "title": "Bloop Airmail 3 3.5.9 for Mac OS X",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:mac_os:*:*",
+      "title": "Bloop SRL Airmail 3 3.5.9 for Mac OS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:macos:*:*",
+      "title": "Bloop Airmail 3 3.5.9 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

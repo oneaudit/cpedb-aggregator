@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:biborb_project:biborb:1.3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "A49E1623-3086-42C3-B8FE-3F7C80CA5F57",
+        "lastModified": "2024-01-31T19:19:40.597",
+        "created": "2023-12-29T16:41:44.613",
+        "titles": [
+          {
+            "title": "BibORB Project BibORB 1.3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:guillaumegardey:biborb:1.3.2:-:*:*:*:*:*:*",
+            "cpeNameId": "4E249148-6049-41B5-87FD-01A9E47EE3B3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:biborb_project:biborb:1.3.2:*:*:*:*:*:*:*",
+      "title": "BibORB Project BibORB 1.3.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:guillaumegardey:biborb:1.3.2:-:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:bitdefender:antivirus:-:*:*:*:*:mac_os:*:*",
+        "cpeNameId": "316E8382-5420-44E5-9127-F34B97A50D77",
+        "lastModified": "2020-05-04T13:43:35.257",
+        "created": "2020-02-05T17:54:01.097",
+        "titles": [
+          {
+            "title": "Bitdefender Antivirus for Mac OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:bitdefender:antivirus:-:*:*:*:*:macos:*:*",
+            "cpeNameId": "CB4EF2A6-7719-48B6-9BF1-9DCD99FBCEB3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:bitdefender:antivirus:8.0.0:*:*:*:*:mac_os:*:*",
+        "cpeNameId": "D3C0DE6E-C35E-4E18-8884-D22C54D359A0",
+        "lastModified": "2020-05-04T13:43:35.520",
+        "created": "2020-02-05T17:54:01.380",
+        "titles": [
+          {
+            "title": "Bitdefender Antivirus 8.0.0 for Mac OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:bitdefender:antivirus:8.0.0:*:*:*:*:macos:*:*",
+            "cpeNameId": "78D40E17-484C-4ABB-9845-28E2F1EB4F3B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bitdefender:antivirus:-:*:*:*:*:macos:*:*",
+        "cpeNameId": "CB4EF2A6-7719-48B6-9BF1-9DCD99FBCEB3",
+        "lastModified": "2020-05-04T13:43:00.583",
+        "created": "2020-05-04T13:43:00.583",
+        "titles": [
+          {
+            "title": "Bitdefender Antivirus for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bitdefender:antivirus:8.0.0:*:*:*:*:macos:*:*",
+        "cpeNameId": "78D40E17-484C-4ABB-9845-28E2F1EB4F3B",
+        "lastModified": "2020-05-04T13:43:01.067",
+        "created": "2020-05-04T13:43:01.067",
+        "titles": [
+          {
+            "title": "Bitdefender Antivirus 8.0.0 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bitdefender:antivirus:7.60825:*:*:*:*:*:*:*",
+        "cpeNameId": "1B8D3F5D-0F83-4D5F-9279-C52301A0F722",
+        "lastModified": "2025-01-15T13:43:47.803",
+        "created": "2025-01-15T13:43:47.803",
+        "titles": [
+          {
+            "title": "Bitdefender Antivirus 7.60825",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bitdefender:antivirus:-:*:*:*:*:-:*:*",
+        "cpeNameId": "037A0D0B-5FE9-4002-9F12-F0A672A0E3F6",
+        "lastModified": "2025-01-15T13:43:47.803",
+        "created": "2025-01-15T13:43:47.803",
+        "titles": [
+          {
+            "title": "Bitdefender Antivirus",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:bitdefender:antivirus:-:*:*:*:*:mac_os:*:*",
+      "title": "Bitdefender Antivirus for Mac OS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:bitdefender:antivirus:-:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:bitdefender:antivirus:8.0.0:*:*:*:*:mac_os:*:*",
+      "title": "Bitdefender Antivirus 8.0.0 for Mac OS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:bitdefender:antivirus:8.0.0:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:bitdefender:antivirus:-:*:*:*:*:macos:*:*",
+      "title": "Bitdefender Antivirus for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bitdefender:antivirus:8.0.0:*:*:*:*:macos:*:*",
+      "title": "Bitdefender Antivirus 8.0.0 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bitdefender:antivirus:7.60825:*:*:*:*:*:*:*",
+      "title": "Bitdefender Antivirus 7.60825",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bitdefender:antivirus:-:*:*:*:*:-:*:*",
+      "title": "Bitdefender Antivirus",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

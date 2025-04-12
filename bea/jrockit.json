@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bea:jrockit:-:*:*:*:*:*:*:*",
+        "cpeNameId": "59FED71D-4FFF-4160-AFE4-79E6A84BA2F3",
+        "lastModified": "2008-03-25T18:12:36.733",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "BEA Systems JRockit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bea:jrockit:1.4.2:r24.5:*:*:*:*:*:*",
+        "cpeNameId": "EAF49E23-AAA5-446C-A7B8-17273EB5E12A",
+        "lastModified": "2008-04-07T13:41:45.073",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "BEA Systems JRockit 1.4.2 R4.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:bea:jrockit:-:*:*:*:*:*:*:*",
+      "title": "BEA Systems JRockit",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bea:jrockit:1.4.2:r24.5:*:*:*:*:*:*",
+      "title": "BEA Systems JRockit 1.4.2 R4.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

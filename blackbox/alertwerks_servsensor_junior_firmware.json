@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:blackbox:alertwerks_servsensor_junior_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C4F6E7FC-F042-4D96-9025-DF818D04A768",
+        "lastModified": "2021-06-16T13:36:42.190",
+        "created": "2017-04-07T19:24:59.470",
+        "titles": [
+          {
+            "title": "Black Box AlertWerks ServSensor Junior Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:blackbox:alertwerks_servsensor_junior_firmware:-:*:*:*:poe:*:*:*",
+        "cpeNameId": "79B70C20-7B9C-4930-B4C1-889D77495950",
+        "lastModified": "2021-06-16T13:36:42.190",
+        "created": "2017-04-07T19:24:59.470",
+        "titles": [
+          {
+            "title": "Black Box AlertWerks ServSensor Junior Firmware with PoE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:blackbox:alertwerks_servsensor_junior_firmware:-:*:*:*:*:*:*:*",
+      "title": "Black Box AlertWerks ServSensor Junior Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:blackbox:alertwerks_servsensor_junior_firmware:-:*:*:*:poe:*:*:*",
+      "title": "Black Box AlertWerks ServSensor Junior Firmware with PoE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

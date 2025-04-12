@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bitdefender:box_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "00610430-79D9-4E95-B870-72A9A5DABD81",
+        "lastModified": "2019-10-30T18:03:45.290",
+        "created": "2019-10-30T18:03:45.290",
+        "titles": [
+          {
+            "title": "Bitdefender BOX Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bitdefender:box_firmware:2.1.37.37-34:*:*:*:*:*:*:*",
+        "cpeNameId": "D548B248-08AC-40A4-B6E4-F4538D251E60",
+        "lastModified": "2019-10-30T18:03:45.557",
+        "created": "2019-10-30T18:03:45.557",
+        "titles": [
+          {
+            "title": "Bitdefender BOX 2.1.37.37-34",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:bitdefender:box_firmware:-:*:*:*:*:*:*:*",
+      "title": "Bitdefender BOX Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:bitdefender:box_firmware:2.1.37.37-34:*:*:*:*:*:*:*",
+      "title": "Bitdefender BOX 2.1.37.37-34",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
