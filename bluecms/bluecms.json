@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:bluecms:bluecms:1.6:*:*:*:*:*:*:*",
+        "cpeNameId": "74113089-3814-4082-BE03-D70BB166820C",
+        "lastModified": "2020-02-18T17:47:15.143",
+        "created": "2019-06-20T12:57:12.763",
+        "titles": [
+          {
+            "title": "BlueCMS 1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:bluecms_project:bluecms:1.6:*:*:*:*:*:*:*",
+            "cpeNameId": "80E38C13-2E6E-450D-9D41-06609B6B3952"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:bluecms:bluecms:1.6:*:*:*:*:*:*:*",
+      "title": "BlueCMS 1.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:bluecms_project:bluecms:1.6:*:*:*:*:*:*:*"
+    }
+  ]
+}

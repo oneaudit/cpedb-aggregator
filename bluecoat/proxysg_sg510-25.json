@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:bluecoat:proxysg_sg510-25:-:-:full_proxy:*:*:*:*:*",
+        "cpeNameId": "201C8C18-76BE-4401-928F-650D7C03244E",
+        "lastModified": "2010-12-28T17:27:40.803",
+        "created": "2010-12-28T17:27:40.803",
+        "titles": [
+          {
+            "title": "Blue Coat Systems SG510-20 (510 series) Full Proxy Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:bluecoat:proxysg_sg510-25:-:-:acceleration:*:*:*:*:*",
+        "cpeNameId": "68823B91-33FF-4848-8F87-3E751DBA9123",
+        "lastModified": "2010-12-28T17:27:44.617",
+        "created": "2010-12-28T17:27:44.617",
+        "titles": [
+          {
+            "title": "Blue Coat Systems SG510-20 (510 series) Acceleration Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:bluecoat:proxysg_sg510-25:-:-:full_proxy:*:*:*:*:*",
+      "title": "Blue Coat Systems SG510-20 (510 series) Full Proxy Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:bluecoat:proxysg_sg510-25:-:-:acceleration:*:*:*:*:*",
+      "title": "Blue Coat Systems SG510-20 (510 series) Acceleration Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

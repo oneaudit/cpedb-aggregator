@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bosch:fsm-5000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2D0A9BAA-AAEB-4AF3-A901-17AD1E89E9CE",
+        "lastModified": "2021-02-17T17:40:33.830",
+        "created": "2021-02-17T17:40:33.830",
+        "titles": [
+          {
+            "title": "Bosch FSM-5000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bosch:fsm-5000_firmware:5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "C12A21AF-DA49-4890-B5B1-3FF62DBFBAD5",
+        "lastModified": "2021-02-17T17:40:34.157",
+        "created": "2021-02-17T17:40:34.157",
+        "titles": [
+          {
+            "title": "Bosch FSM-5000 Firmware 5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bosch:fsm-5000_firmware:5.6:*:*:*:*:*:*:*",
+        "cpeNameId": "E8AB34F0-2776-4499-ADB2-31030E375839",
+        "lastModified": "2021-02-17T17:40:34.220",
+        "created": "2021-02-17T17:40:34.220",
+        "titles": [
+          {
+            "title": "Bosch FSM-5000 Firmware 5.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:bosch:fsm-5000_firmware:-:*:*:*:*:*:*:*",
+      "title": "Bosch FSM-5000 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:bosch:fsm-5000_firmware:5.2:*:*:*:*:*:*:*",
+      "title": "Bosch FSM-5000 Firmware 5.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:bosch:fsm-5000_firmware:5.6:*:*:*:*:*:*:*",
+      "title": "Bosch FSM-5000 Firmware 5.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

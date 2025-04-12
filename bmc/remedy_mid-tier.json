@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bmc:remedy_mid-tier:7.1.00:*:*:*:*:*:*:*",
+        "cpeNameId": "7EEFC8EC-408D-4B24-8EB8-7256E35603F9",
+        "lastModified": "2019-07-22T12:41:20.777",
+        "created": "2019-07-22T12:41:20.777",
+        "titles": [
+          {
+            "title": "BMC Remedy Mid-Tier 7.1.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bmc:remedy_mid-tier:9.1:sp3:*:*:*:*:*:*",
+        "cpeNameId": "DC14DD6F-5E35-4CDB-8E56-9D6371AD112D",
+        "lastModified": "2021-07-07T16:56:32.897",
+        "created": "2021-05-24T17:16:35.850",
+        "titles": [
+          {
+            "title": "BMC Remedy Mid-Tier 9.1 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:bmc:remedy_mid-tier:7.1.00:*:*:*:*:*:*:*",
+      "title": "BMC Remedy Mid-Tier 7.1.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bmc:remedy_mid-tier:9.1:sp3:*:*:*:*:*:*",
+      "title": "BMC Remedy Mid-Tier 9.1 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

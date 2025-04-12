@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bosch:b426-cn_firmware:03.08:*:*:*:*:*:*:*",
+        "cpeNameId": "A9F8F167-9AC5-4ECE-A233-533487989B3E",
+        "lastModified": "2021-06-24T15:17:51.460",
+        "created": "2021-06-24T13:00:40.060",
+        "titles": [
+          {
+            "title": "Bosch B426-CN FIRMWARE 03.08",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bosch:b426-cn_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BCB9723D-DDC3-48D6-81C0-CAE0B62F5CB4",
+        "lastModified": "2021-06-24T15:17:51.460",
+        "created": "2021-06-24T13:00:40.060",
+        "titles": [
+          {
+            "title": "Bosch B426-CN FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:bosch:b426-cn_firmware:03.08:*:*:*:*:*:*:*",
+      "title": "Bosch B426-CN FIRMWARE 03.08",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:bosch:b426-cn_firmware:-:*:*:*:*:*:*:*",
+      "title": "Bosch B426-CN FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

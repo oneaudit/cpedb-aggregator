@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:endpoint_protection_cloud:-:*:*:*:*:mac:*:*",
+        "cpeNameId": "60B587D2-88C4-4346-8985-45B816D2862D",
+        "lastModified": "2022-04-21T16:05:38.873",
+        "created": "2017-04-25T18:53:00.067",
+        "titles": [
+          {
+            "title": "Broadcom Endpoint Protection Cloud - for Mac",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:endpoint_protection_cloud:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "C2D26826-F29E-45F3-B084-B58533D9BE4F",
+        "lastModified": "2022-04-21T16:05:38.873",
+        "created": "2017-04-25T18:53:00.067",
+        "titles": [
+          {
+            "title": "Broadcom Endpoint Protection Cloud - for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:endpoint_protection_cloud:22.16.3:*:*:*:*:*:*:*",
+        "cpeNameId": "4F8A7523-4CCB-45E5-BE47-737661316201",
+        "lastModified": "2021-11-17T15:12:53.050",
+        "created": "2019-05-01T18:47:22.207",
+        "titles": [
+          {
+            "title": "Broadcom Endpoint Protection Cloud 22.16.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:broadcom:endpoint_protection_cloud:-:*:*:*:*:mac:*:*",
+      "title": "Broadcom Endpoint Protection Cloud - for Mac",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:broadcom:endpoint_protection_cloud:-:*:*:*:*:windows:*:*",
+      "title": "Broadcom Endpoint Protection Cloud - for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:broadcom:endpoint_protection_cloud:22.16.3:*:*:*:*:*:*:*",
+      "title": "Broadcom Endpoint Protection Cloud 22.16.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

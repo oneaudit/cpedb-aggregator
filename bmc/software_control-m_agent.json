@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bmc:software_control-m_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AEB64546-DF3D-458D-9970-6494FCC52CA3",
+        "lastModified": "2008-03-25T18:13:01.983",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "BMC Software Software Control-M Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bmc:software_control-m_agent:6.1.03:*:*:*:*:*:*:*",
+        "cpeNameId": "41971066-E235-4C2F-8086-4BB34DD58ECB",
+        "lastModified": "2008-03-25T18:13:02.030",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "BMC Software Software Control-M Agent 6.1.03",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:bmc:software_control-m_agent:-:*:*:*:*:*:*:*",
+      "title": "BMC Software Software Control-M Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bmc:software_control-m_agent:6.1.03:*:*:*:*:*:*:*",
+      "title": "BMC Software Software Control-M Agent 6.1.03",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

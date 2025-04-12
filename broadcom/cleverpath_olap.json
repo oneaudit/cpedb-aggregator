@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:cleverpath_olap:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BF984732-9337-4750-8EA4-CF6930861399",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2021-04-07T14:58:35.723",
+        "titles": [
+          {
+            "title": "Broadcom CleverPath OLAP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:cleverpath_olap:5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "B523925E-1D7A-4F3C-999A-B3D184533B1C",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2021-04-07T14:58:35.723",
+        "titles": [
+          {
+            "title": "Broadcom CleverPath OLAP 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:broadcom:cleverpath_olap:-:*:*:*:*:*:*:*",
+      "title": "Broadcom CleverPath OLAP",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:broadcom:cleverpath_olap:5.1:*:*:*:*:*:*:*",
+      "title": "Broadcom CleverPath OLAP 5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

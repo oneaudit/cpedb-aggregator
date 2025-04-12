@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bmc:truesight_server_automation:22.2:*:*:*:*:*:*:*",
+        "cpeNameId": "BE42B57B-00D1-42E8-B27C-47400BE65402",
+        "lastModified": "2022-09-20T17:14:25.383",
+        "created": "2022-09-19T20:59:29.840",
+        "titles": [
+          {
+            "title": "BMC Software TrueSight Server Automation 22.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bmc:truesight_server_automation:23.2:*:*:*:*:*:*:*",
+        "cpeNameId": "CE23E1E3-1847-405B-BBBE-3D16EFA8F55D",
+        "lastModified": "2023-05-31T16:02:18.050",
+        "created": "2023-05-31T14:42:56.220",
+        "titles": [
+          {
+            "title": "BMC TrueSight Server Automation 23.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:bmc:truesight_server_automation:22.2:*:*:*:*:*:*:*",
+      "title": "BMC Software TrueSight Server Automation 22.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bmc:truesight_server_automation:23.2:*:*:*:*:*:*:*",
+      "title": "BMC TrueSight Server Automation 23.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

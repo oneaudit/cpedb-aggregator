@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bluecoat:winproxy:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F70C9333-6467-4F19-898B-DE9230CE7E91",
+        "lastModified": "2008-03-25T18:13:00.623",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Blue Coat Systems WinProxy",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bluecoat:winproxy:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "168A1F24-4A88-4C39-A66E-1BF55E5453EF",
+        "lastModified": "2008-04-01T16:09:39.700",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Blue Coat Systems Blue Coat Systems WinProxy 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bluecoat:winproxy:6.0:r1c:*:*:*:*:*:*",
+        "cpeNameId": "52E3C0E2-9A33-4B2B-873B-17D26F8BB4FA",
+        "lastModified": "2008-04-14T20:19:48.660",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Blue Coat Systems WinProxy 6.0 r1c",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bluecoat:winproxy:6.1:r1a:*:*:*:*:*:*",
+        "cpeNameId": "828A0FDC-967B-40DB-9C8C-2D758634D987",
+        "lastModified": "2008-04-14T20:19:48.817",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Blue Coat Systems WinProxy 6.1a",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:bluecoat:winproxy:-:*:*:*:*:*:*:*",
+      "title": "Blue Coat Systems WinProxy",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bluecoat:winproxy:6.0:*:*:*:*:*:*:*",
+      "title": "Blue Coat Systems Blue Coat Systems WinProxy 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bluecoat:winproxy:6.0:r1c:*:*:*:*:*:*",
+      "title": "Blue Coat Systems WinProxy 6.0 r1c",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bluecoat:winproxy:6.1:r1a:*:*:*:*:*:*",
+      "title": "Blue Coat Systems WinProxy 6.1a",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

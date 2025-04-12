@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:bluecoat:proxysg_sg210-10:-:-:full_proxy:*:*:*:*:*",
+        "cpeNameId": "5CC4A7F5-0244-4FA5-BBAD-6B00CAFE37AB",
+        "lastModified": "2010-12-28T17:27:41.460",
+        "created": "2010-12-28T17:27:41.460",
+        "titles": [
+          {
+            "title": "Blue Coat Systems SG210-10 (210 series) Full Proxy Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:bluecoat:proxysg_sg210-10:-:-:acceleration:*:*:*:*:*",
+        "cpeNameId": "246CF486-B2F4-4BBA-AEDB-947CDEC5DEC3",
+        "lastModified": "2010-12-28T17:27:45.257",
+        "created": "2010-12-28T17:27:45.257",
+        "titles": [
+          {
+            "title": "Blue Coat Systems SG210-10 (210 series) Acceleration Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:bluecoat:proxysg_sg210-10:-:-:full_proxy:*:*:*:*:*",
+      "title": "Blue Coat Systems SG210-10 (210 series) Full Proxy Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:bluecoat:proxysg_sg210-10:-:-:acceleration:*:*:*:*:*",
+      "title": "Blue Coat Systems SG210-10 (210 series) Acceleration Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

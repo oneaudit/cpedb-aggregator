@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:blue-admin_project:blue-admin:21.06.01:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "5A55434D-FE93-4F50-8BBA-D7488B0DE7A5",
+        "lastModified": "2021-09-01T11:57:18.713",
+        "created": "2021-09-01T00:37:14.933",
+        "titles": [
+          {
+            "title": "Blue Admin Project Blue Admin 21.06.01 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:blue-admin_project:blue-admin:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "C5E61405-139A-452B-B648-50A04897C01D",
+        "lastModified": "2021-09-01T11:57:18.713",
+        "created": "2021-09-01T00:37:14.933",
+        "titles": [
+          {
+            "title": "Blue Admin Project Blue Admin for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:blue-admin_project:blue-admin:21.06.01:*:*:*:*:wordpress:*:*",
+      "title": "Blue Admin Project Blue Admin 21.06.01 for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:blue-admin_project:blue-admin:-:*:*:*:*:wordpress:*:*",
+      "title": "Blue Admin Project Blue Admin for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

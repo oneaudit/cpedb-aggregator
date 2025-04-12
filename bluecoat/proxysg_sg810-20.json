@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:bluecoat:proxysg_sg810-20:-:-:full_proxy:*:*:*:*:*",
+        "cpeNameId": "5418E7BE-395F-48AF-A19A-98BBEFE7BB60",
+        "lastModified": "2010-12-28T17:27:39.227",
+        "created": "2010-12-28T17:27:39.227",
+        "titles": [
+          {
+            "title": "Blue Coat Systems SG810-20 (810 series) Full Proxy Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:bluecoat:proxysg_sg810-20:-:-:acceleration:*:*:*:*:*",
+        "cpeNameId": "52383607-9DAC-4236-9E8E-C9546C82C44C",
+        "lastModified": "2010-12-28T17:27:43.350",
+        "created": "2010-12-28T17:27:43.350",
+        "titles": [
+          {
+            "title": "Blue Coat Systems SG810-20 (810 series) Acceleration Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:bluecoat:proxysg_sg810-20:-:-:full_proxy:*:*:*:*:*",
+      "title": "Blue Coat Systems SG810-20 (810 series) Full Proxy Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:bluecoat:proxysg_sg810-20:-:-:acceleration:*:*:*:*:*",
+      "title": "Blue Coat Systems SG810-20 (810 series) Acceleration Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

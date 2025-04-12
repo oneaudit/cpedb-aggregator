@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:cleverpath_ecm:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6358B63A-FF8C-41E0-98CB-F335DE15AF1A",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2021-04-07T14:58:35.723",
+        "titles": [
+          {
+            "title": "Broadcom CleverPath ECM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:cleverpath_ecm:3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "0255356C-964E-424E-89C0-D2F4999D6D67",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2021-04-07T14:58:35.723",
+        "titles": [
+          {
+            "title": "Broadcom CleverPath ECM 3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:broadcom:cleverpath_ecm:-:*:*:*:*:*:*:*",
+      "title": "Broadcom CleverPath ECM",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:broadcom:cleverpath_ecm:3.5:*:*:*:*:*:*:*",
+      "title": "Broadcom CleverPath ECM 3.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

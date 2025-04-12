@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bosch:praesideo_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B6449F1A-B8B8-44E6-A936-7209809F6A85",
+        "lastModified": "2021-01-21T22:18:30.323",
+        "created": "2021-01-21T22:18:30.323",
+        "titles": [
+          {
+            "title": "Bosch PRAESIDEO Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bosch:praesideo_firmware:4.41:*:*:*:*:*:*:*",
+        "cpeNameId": "44A481A4-0F15-47FA-95FD-CCD5A69A6A95",
+        "lastModified": "2021-01-21T22:18:30.637",
+        "created": "2021-01-21T22:18:30.637",
+        "titles": [
+          {
+            "title": "Bosch PRAESIDEO Firmware 4.41",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:bosch:praesideo_firmware:-:*:*:*:*:*:*:*",
+      "title": "Bosch PRAESIDEO Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:bosch:praesideo_firmware:4.41:*:*:*:*:*:*:*",
+      "title": "Bosch PRAESIDEO Firmware 4.41",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

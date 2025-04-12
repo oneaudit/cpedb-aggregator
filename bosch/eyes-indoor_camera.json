@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:bosch:eyes-indoor_camera:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F4AEC9C2-2381-4908-BCE1-71212A65DB55",
+        "lastModified": "2021-08-13T13:46:53.993",
+        "created": "2019-01-08T19:03:24.540",
+        "titles": [
+          {
+            "title": "Bosch Eyes-Indoor Camera",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:bosch:eyes_outdoor_camera:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F108229D-42A4-4232-820E-845688C31D6D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:bosch:eyes-indoor_camera:-:*:*:*:*:*:*:*",
+      "title": "Bosch Eyes-Indoor Camera",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:bosch:eyes_outdoor_camera:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bosch:praesensa_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6167B05A-E88C-4B75-8625-9D181FD40FC4",
+        "lastModified": "2021-01-21T22:18:29.963",
+        "created": "2021-01-21T22:18:29.963",
+        "titles": [
+          {
+            "title": "Bosch PRAESENSA Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:bosch:praesensa_firmware:1.10:*:*:*:*:*:*:*",
+        "cpeNameId": "7AD94631-3621-4D1D-90F0-3E0294F7B4A8",
+        "lastModified": "2021-01-21T22:18:30.260",
+        "created": "2021-01-21T22:18:30.260",
+        "titles": [
+          {
+            "title": "Bosch PRAESENSA Firmware 1.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:bosch:praesensa_firmware:-:*:*:*:*:*:*:*",
+      "title": "Bosch PRAESENSA Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:bosch:praesensa_firmware:1.10:*:*:*:*:*:*:*",
+      "title": "Bosch PRAESENSA Firmware 1.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

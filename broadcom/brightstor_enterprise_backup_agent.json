@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:oracle:*:*:*:*:*",
+        "cpeNameId": "5E539CE4-157E-4DFD-BD8F-FABB440BC342",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2021-04-07T14:28:57.023",
+        "titles": [
+          {
+            "title": "Broadcom Brightstor Enterprise Backup Agent Oracle Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:sap:*:*:*:*:*",
+        "cpeNameId": "6BC0EE24-0E0E-411C-9F95-5CFFAE9DAD83",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2021-04-07T14:28:57.023",
+        "titles": [
+          {
+            "title": "Broadcom Brightstor Enterprise Backup Agent SAP Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:sql:*:*:*:*:*",
+        "cpeNameId": "456CDCD0-A7A2-4DFE-BD25-8C7CD825E703",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2021-04-07T14:28:57.023",
+        "titles": [
+          {
+            "title": "Broadcom Brightstor Enterprise Backup Agent SQL Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:oracle:*:*:*:*:*",
+      "title": "Broadcom Brightstor Enterprise Backup Agent Oracle Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:sap:*:*:*:*:*",
+      "title": "Broadcom Brightstor Enterprise Backup Agent SAP Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:sql:*:*:*:*:*",
+      "title": "Broadcom Brightstor Enterprise Backup Agent SQL Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

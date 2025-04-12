@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:endpoint_protection_for_small_business:12.1:*:*:*:*:*:*:*",
+        "cpeNameId": "3E4E4830-8FAB-4269-A208-0BF771FC1E0A",
+        "lastModified": "2022-04-21T16:05:38.873",
+        "created": "2017-04-25T18:53:00.067",
+        "titles": [
+          {
+            "title": "Broadcom Endpoint Protection For Small Business 12.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:endpoint_protection_for_small_business:-:*:*:*:enterprise:*:*:*",
+        "cpeNameId": "E46FD6D0-2E1E-409B-AAB9-F98001F6C995",
+        "lastModified": "2022-04-21T16:05:38.873",
+        "created": "2017-04-25T18:53:00.067",
+        "titles": [
+          {
+            "title": "Broadcom Endpoint Protection For Small Business - Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:broadcom:endpoint_protection_for_small_business:12.1:*:*:*:*:*:*:*",
+      "title": "Broadcom Endpoint Protection For Small Business 12.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:broadcom:endpoint_protection_for_small_business:-:*:*:*:enterprise:*:*:*",
+      "title": "Broadcom Endpoint Protection For Small Business - Enterprise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

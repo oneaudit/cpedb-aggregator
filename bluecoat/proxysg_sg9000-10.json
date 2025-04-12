@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:bluecoat:proxysg_sg9000-10:-:-:full_proxy:*:*:*:*:*",
+        "cpeNameId": "729C4A98-2996-435E-B8CC-D9DF4B06517D",
+        "lastModified": "2010-12-28T17:27:37.960",
+        "created": "2010-12-28T17:27:37.960",
+        "titles": [
+          {
+            "title": "Blue Coat Systems SG9000-10 (9000 series) Full Proxy Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:bluecoat:proxysg_sg9000-10:-:-:acceleration:*:*:*:*:*",
+        "cpeNameId": "84B8467C-F530-4339-9B45-439498C013EE",
+        "lastModified": "2010-12-28T17:27:42.413",
+        "created": "2010-12-28T17:27:42.413",
+        "titles": [
+          {
+            "title": "Blue Coat Systems SG9000-10 (9000 series) Acceleration Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:bluecoat:proxysg_sg9000-10:-:-:full_proxy:*:*:*:*:*",
+      "title": "Blue Coat Systems SG9000-10 (9000 series) Full Proxy Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:bluecoat:proxysg_sg9000-10:-:-:acceleration:*:*:*:*:*",
+      "title": "Blue Coat Systems SG9000-10 (9000 series) Acceleration Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bluetooth:bluetooth_core:5.2:*:*:*:le:*:*:*",
+        "cpeNameId": "DC649D08-9517-45D2-9BAF-4ACDF53E20FB",
+        "lastModified": "2020-05-22T15:08:35.170",
+        "created": "2020-05-22T15:08:35.170",
+        "titles": [
+          {
+            "title": "Bluetooth Core 5.2 LE (Low Energy)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bluetooth:bluetooth_core:5.2:*:*:*:br:*:*:*",
+        "cpeNameId": "B7FDD14F-7446-4DA0-BF8B-76A048986B7E",
+        "lastModified": "2020-05-27T19:39:58.913",
+        "created": "2020-05-27T19:39:58.913",
+        "titles": [
+          {
+            "title": "Bluetooth Core 5.2 BR (Basic Rate)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:bluetooth:bluetooth_core:5.2:*:*:*:edr:*:*:*",
+        "cpeNameId": "B2482BCD-EE9E-411E-BE7E-8FE0176CE4F5",
+        "lastModified": "2020-05-27T19:39:59.023",
+        "created": "2020-05-27T19:39:59.023",
+        "titles": [
+          {
+            "title": "Bluetooth Core 5.2 EDR (Enhanced Data Rate)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:bluetooth:bluetooth_core:5.2:*:*:*:le:*:*:*",
+      "title": "Bluetooth Core 5.2 LE (Low Energy)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bluetooth:bluetooth_core:5.2:*:*:*:br:*:*:*",
+      "title": "Bluetooth Core 5.2 BR (Basic Rate)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:bluetooth:bluetooth_core:5.2:*:*:*:edr:*:*:*",
+      "title": "Bluetooth Core 5.2 EDR (Enhanced Data Rate)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
