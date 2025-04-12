@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:application_interface:600:*:*:*:*:*:*:*",
+        "cpeNameId": "23DAB879-CA40-4D03-B900-0B7C161F28E8",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-04-17T12:59:25.770",
+        "titles": [
+          {
+            "title": "SAP Application Interface 600",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:application_interface:700:*:*:*:*:*:*:*",
+        "cpeNameId": "6219AD99-F18C-40C2-BACC-D41216EC16B2",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-04-17T12:59:25.770",
+        "titles": [
+          {
+            "title": "SAP Application Interface 700",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:application_interface:600:*:*:*:*:*:*:*",
+      "title": "SAP Application Interface 600",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:application_interface:700:*:*:*:*:*:*:*",
+      "title": "SAP Application Interface 700",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

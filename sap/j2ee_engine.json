@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:j2ee_engine:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2C3EAFBC-49FB-4B3F-9BCA-E74D35C58FC8",
+        "lastModified": "2014-04-16T19:52:39.643",
+        "created": "2014-04-11T16:27:10.807",
+        "titles": [
+          {
+            "title": "SAP J2EE Engine",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:j2ee_engine:7.01:*:*:*:*:*:*:*",
+        "cpeNameId": "149AC82D-DC5D-45AD-988C-5E8513DF5690",
+        "lastModified": "2023-02-08T19:25:31.407",
+        "created": "2021-08-13T15:13:01.253",
+        "titles": [
+          {
+            "title": "SAP J2ee Engine 7.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:j2ee_engine:-:*:*:*:*:*:*:*",
+      "title": "SAP J2EE Engine",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:j2ee_engine:7.01:*:*:*:*:*:*:*",
+      "title": "SAP J2ee Engine 7.01",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:host_agent:7.21:*:*:*:*:hostcontrol:*:*",
+        "cpeNameId": "57CCBD6C-A332-45AE-ADE0-303A812FD19D",
+        "lastModified": "2021-07-28T01:09:24.593",
+        "created": "2017-10-25T14:46:38.277",
+        "titles": [
+          {
+            "title": "SAP Host Agent 7.21 for HostControl",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:host_agent:7.21:*:*:*:*:*:*:*",
+        "cpeNameId": "204F60F2-A3D4-4594-8ECD-60BB1CAA8418",
+        "lastModified": "2022-04-08T18:23:13.187",
+        "created": "2022-04-01T16:17:45.780",
+        "titles": [
+          {
+            "title": "SAP Host Agent 7.21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:host_agent:7.22:*:*:*:*:*:*:*",
+        "cpeNameId": "9C8FD12D-C069-40A4-BFC2-52135D862C08",
+        "lastModified": "2022-05-18T16:25:04.100",
+        "created": "2022-05-17T16:13:31.807",
+        "titles": [
+          {
+            "title": "SAP Host Agent 7.22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:host_agent:722:*:*:*:*:*:*:*",
+        "cpeNameId": "DBDFF6D6-B8D5-440B-B123-78A0670C80AE",
+        "lastModified": "2023-12-01T15:29:36.947",
+        "created": "2023-12-01T15:29:36.947",
+        "titles": [
+          {
+            "title": "SAP Host Agent 722",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:host_agent:7.21:*:*:*:*:hostcontrol:*:*",
+      "title": "SAP Host Agent 7.21 for HostControl",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:host_agent:7.21:*:*:*:*:*:*:*",
+      "title": "SAP Host Agent 7.21",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:host_agent:7.22:*:*:*:*:*:*:*",
+      "title": "SAP Host Agent 7.22",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:host_agent:722:*:*:*:*:*:*:*",
+      "title": "SAP Host Agent 722",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

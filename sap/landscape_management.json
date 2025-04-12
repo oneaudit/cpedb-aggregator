@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:landscape_management:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0FC63B41-3455-48DF-890B-C30604DB10F2",
+        "lastModified": "2019-02-04T13:40:15.343",
+        "created": "2019-02-04T13:40:15.343",
+        "titles": [
+          {
+            "title": "SAP Landscape Management 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:landscape_management:3.0:*:*:*:enterprise:*:*:*",
+        "cpeNameId": "8EB30A16-FF40-47EB-BC86-8DFA1DA3C5D6",
+        "lastModified": "2019-10-15T12:30:56.717",
+        "created": "2019-10-15T12:30:56.717",
+        "titles": [
+          {
+            "title": "SAP Landscape Management 3.0 Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:landscape_management:3.0:*:*:*:*:*:*:*",
+      "title": "SAP Landscape Management 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:landscape_management:3.0:*:*:*:enterprise:*:*:*",
+      "title": "SAP Landscape Management 3.0 Enterprise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

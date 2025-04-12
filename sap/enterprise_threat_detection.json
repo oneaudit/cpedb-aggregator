@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:enterprise_threat_detection:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D5DBF0C3-912E-412C-9230-A2CAB3038F13",
+        "lastModified": "2020-05-14T19:37:33.637",
+        "created": "2020-05-14T19:37:33.637",
+        "titles": [
+          {
+            "title": "SAP Enterprise Threat Detection 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:enterprise_threat_detection:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "95A82688-74A2-41AE-8502-993F34F3D541",
+        "lastModified": "2020-05-14T19:37:33.700",
+        "created": "2020-05-14T19:37:33.700",
+        "titles": [
+          {
+            "title": "SAP Enterprise Threat Detection 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:enterprise_threat_detection:1.0:*:*:*:*:*:*:*",
+      "title": "SAP Enterprise Threat Detection 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:enterprise_threat_detection:2.0:*:*:*:*:*:*:*",
+      "title": "SAP Enterprise Threat Detection 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

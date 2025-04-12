@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:commoncryptolib:8.4.29:*:*:*:*:*:*:*",
+        "cpeNameId": "F9E19D77-27B6-4CB5-86A9-C750BD1B818A",
+        "lastModified": "2015-02-05T16:19:46.550",
+        "created": "2014-11-05T19:18:25.440",
+        "titles": [
+          {
+            "title": "SAP COMMONCRYPTOLIB 8.4.29",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:commoncryptolib:8.5.38:*:*:*:*:*:*:*",
+        "cpeNameId": "1DADAED5-C420-4170-A488-C032E28BA9F8",
+        "lastModified": "2021-09-22T19:28:24.150",
+        "created": "2021-09-22T19:00:48.900",
+        "titles": [
+          {
+            "title": "SAP CommonCryptoLib 8.5.38",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:commoncryptolib:8.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "282FC583-ABB9-4EAB-B67A-A1A728F92EA6",
+        "lastModified": "2023-12-01T15:29:36.947",
+        "created": "2023-12-01T15:29:36.947",
+        "titles": [
+          {
+            "title": "SAP CommonCryptoLib 8.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:commoncryptolib:8.4.29:*:*:*:*:*:*:*",
+      "title": "SAP COMMONCRYPTOLIB 8.4.29",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:commoncryptolib:8.5.38:*:*:*:*:*:*:*",
+      "title": "SAP CommonCryptoLib 8.5.38",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:commoncryptolib:8.0.0:*:*:*:*:*:*:*",
+      "title": "SAP CommonCryptoLib 8.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

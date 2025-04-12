@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sap:diagnostics_agents:7.20:*:*:*:*:*:*:*",
+        "cpeNameId": "056230AE-CE66-41EE-9038-FFF20597B89C",
+        "lastModified": "2023-12-19T15:32:07.900",
+        "created": "2019-07-12T16:32:23.850",
+        "titles": [
+          {
+            "title": "SAP Diagnostics Agents 7.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sap:diagnostics_agent:7.20:*:*:*:*:*:*:*",
+            "cpeNameId": "B918CD7A-3A66-4B79-9AF0-AD6277A21A16"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:diagnostics_agents:7.20:*:*:*:*:*:*:*",
+      "title": "SAP Diagnostics Agents 7.20",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sap:diagnostics_agent:7.20:*:*:*:*:*:*:*"
+    }
+  ]
+}

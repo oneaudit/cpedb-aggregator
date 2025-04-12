@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:enterprise_performance_management:2.8:*:*:*:*:sap_analysis_office:*:*",
+        "cpeNameId": "366FC63F-C60C-48F4-A7EF-72E007B8A134",
+        "lastModified": "2021-01-19T21:31:14.997",
+        "created": "2021-01-19T21:31:14.997",
+        "titles": [
+          {
+            "title": "SAP Enterprise Performance Management (EPM) 2.8 for SAP Analysis Office",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:enterprise_performance_management:1010:*:*:*:*:microsoft_office:*:*",
+        "cpeNameId": "A0A43D0D-308C-41DD-BB55-FFC86AD7C416",
+        "lastModified": "2021-01-19T21:31:15.103",
+        "created": "2021-01-19T21:31:15.103",
+        "titles": [
+          {
+            "title": "SAP Enterprise Performance Management (EPM) 1010 for Microsoft Office",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:enterprise_performance_management:2.8:*:*:*:*:sap_analysis_office:*:*",
+      "title": "SAP Enterprise Performance Management (EPM) 2.8 for SAP Analysis Office",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:enterprise_performance_management:1010:*:*:*:*:microsoft_office:*:*",
+      "title": "SAP Enterprise Performance Management (EPM) 1010 for Microsoft Office",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

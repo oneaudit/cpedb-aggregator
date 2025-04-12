@@ -1,0 +1,131 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sap:gui:6.4:*:*:*:*:*:*:*",
+        "cpeNameId": "C43A8EB0-98B5-4145-A574-4686634035E2",
+        "lastModified": "2021-01-15T13:29:21.500",
+        "created": "2012-09-06T18:04:29.017",
+        "titles": [
+          {
+            "title": "SAP GUI 6.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sap:graphical_user_interface:6.4:*:*:*:*:*:*:*",
+            "cpeNameId": "F1F9CFD7-599B-4C3E-80E3-8BA88EDE7FDD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sap:gui:7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "D788C7D1-6FA6-4159-BAE0-3C5DCC6DA42E",
+        "lastModified": "2021-01-15T13:29:24.393",
+        "created": "2012-09-06T18:04:29.127",
+        "titles": [
+          {
+            "title": "SAP GUI 7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sap:graphical_user_interface:7.2:*:*:*:*:*:*:*",
+            "cpeNameId": "7C0C5084-E052-44BC-AAFE-26EFBA084EA3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sap:gui:7.60:*:*:*:*:windows:*:*",
+        "cpeNameId": "2F6F0BA9-23EC-4810-91CD-AF57E07F6329",
+        "lastModified": "2021-01-15T13:29:26.953",
+        "created": "2021-01-13T16:58:23.280",
+        "titles": [
+          {
+            "title": "SAP GUI 7.60 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sap:graphical_user_interface:7.60:*:*:*:*:windows:*:*",
+            "cpeNameId": "696F81D9-FC5B-4914-BE5F-AD313B9DD60F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:gui:7.60:-:*:*:*:*:*:*",
+        "cpeNameId": "BD7F2041-7EF7-4643-8CC8-5524EA1F649C",
+        "lastModified": "2021-11-15T13:40:57.807",
+        "created": "2021-11-12T18:02:38.527",
+        "titles": [
+          {
+            "title": "SAP GUI 7.60 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:gui:7.70:-:*:*:*:*:*:*",
+        "cpeNameId": "59BD2F71-4112-40F8-B77F-0A6C027830C3",
+        "lastModified": "2021-11-15T13:40:57.807",
+        "created": "2021-11-12T18:02:38.527",
+        "titles": [
+          {
+            "title": "SAP GUI 7.70 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:gui:6.4:*:*:*:*:*:*:*",
+      "title": "SAP GUI 6.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sap:graphical_user_interface:6.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:sap:gui:7.2:*:*:*:*:*:*:*",
+      "title": "SAP GUI 7.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sap:graphical_user_interface:7.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:sap:gui:7.60:*:*:*:*:windows:*:*",
+      "title": "SAP GUI 7.60 for Windows",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sap:graphical_user_interface:7.60:*:*:*:*:windows:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:sap:gui:7.60:-:*:*:*:*:*:*",
+      "title": "SAP GUI 7.60 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:gui:7.70:-:*:*:*:*:*:*",
+      "title": "SAP GUI 7.70 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

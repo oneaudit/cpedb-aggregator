@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:businessobjects_mobile:6.3.5:*:*:*:*:android:*:*",
+        "cpeNameId": "6ECABC97-4F7A-470F-90CA-F182BE7BE8CF",
+        "lastModified": "2021-07-26T18:45:14.090",
+        "created": "2019-01-17T13:14:47.830",
+        "titles": [
+          {
+            "title": "SAP BusinessObjects Mobile 6.3.5 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:businessobjects_mobile:4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "431FF820-CF4A-4EDF-AE14-D00C3402E872",
+        "lastModified": "2020-03-11T16:35:44.797",
+        "created": "2020-03-11T16:35:44.797",
+        "titles": [
+          {
+            "title": "SAP BusinessObjects Mobile 4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:businessobjects_mobile:6.3.5:*:*:*:*:android:*:*",
+      "title": "SAP BusinessObjects Mobile 6.3.5 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:businessobjects_mobile:4.2:*:*:*:*:*:*:*",
+      "title": "SAP BusinessObjects Mobile 4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

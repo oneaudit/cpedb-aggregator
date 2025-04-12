@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:data_services:4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "71E7BA05-99FE-45CD-8935-22F54613EC0C",
+        "lastModified": "2019-05-13T17:19:34.687",
+        "created": "2019-05-13T17:19:34.687",
+        "titles": [
+          {
+            "title": "SAP Data Services 4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:data_services:4.3:*:*:*:*:*:*:*",
+        "cpeNameId": "94B3AEB6-FB47-45C0-8FC3-15CB3F4725C6",
+        "lastModified": "2022-11-09T20:55:24.030",
+        "created": "2022-10-12T13:46:49.393",
+        "titles": [
+          {
+            "title": "SAP Data Services 4.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:data_services:4.2:*:*:*:*:*:*:*",
+      "title": "SAP Data Services 4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:data_services:4.3:*:*:*:*:*:*:*",
+      "title": "SAP Data Services 4.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

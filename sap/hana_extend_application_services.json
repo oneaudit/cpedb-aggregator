@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sap:hana_extend_application_services:-:*:*:*:*:*:*:*",
+        "cpeNameId": "04F1657B-03ED-4921-AA4B-4EE739CC18BB",
+        "lastModified": "2023-12-21T04:14:53.307",
+        "created": "2014-08-01T14:32:19.600",
+        "titles": [
+          {
+            "title": "SAP HANA Extend Application Services",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sap:hana_extended_application_services:-:*:*:*:*:*:*:*",
+            "cpeNameId": "AAF3417D-36A7-4F4D-A320-73AF0772E90C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sap:hana_extend_application_services:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "675C81BA-D11A-46C3-BEBD-26EF931963C0",
+        "lastModified": "2023-12-21T04:21:17.180",
+        "created": "2019-10-01T18:32:28.937",
+        "titles": [
+          {
+            "title": "SAP HANA Extended Application Services 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sap:hana_extended_application_services:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "343968F3-D7BC-4D29-8FA5-3EBA70B4B10E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:hana_extend_application_services:-:*:*:*:*:*:*:*",
+      "title": "SAP HANA Extend Application Services",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sap:hana_extended_application_services:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:sap:hana_extend_application_services:1.0:*:*:*:*:*:*:*",
+      "title": "SAP HANA Extended Application Services 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sap:hana_extended_application_services:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

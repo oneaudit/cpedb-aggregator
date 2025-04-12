@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:hana_extended_application_services:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "343968F3-D7BC-4D29-8FA5-3EBA70B4B10E",
+        "lastModified": "2023-12-21T04:21:17.180",
+        "created": "2018-10-18T18:55:02.913",
+        "titles": [
+          {
+            "title": "SAP HANA Extended Application Services 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:hana_extended_application_services:1.0.118:*:*:*:*:*:*:*",
+        "cpeNameId": "55CCB99D-5BB4-4687-A36D-D2EBA8C388CC",
+        "lastModified": "2019-09-11T12:57:18.420",
+        "created": "2019-09-11T12:57:18.420",
+        "titles": [
+          {
+            "title": "SAP HANA Extended Application Services 1.0.118",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:hana_extended_application_services:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AAF3417D-36A7-4F4D-A320-73AF0772E90C",
+        "lastModified": "2023-12-21T04:14:53.307",
+        "created": "2023-12-21T04:14:53.307",
+        "titles": [
+          {
+            "title": "SAP Hana Extended Application Services -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:hana_extended_application_services:1.0:*:*:*:*:*:*:*",
+      "title": "SAP HANA Extended Application Services 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:hana_extended_application_services:1.0.118:*:*:*:*:*:*:*",
+      "title": "SAP HANA Extended Application Services 1.0.118",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:hana_extended_application_services:-:*:*:*:*:*:*:*",
+      "title": "SAP Hana Extended Application Services -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

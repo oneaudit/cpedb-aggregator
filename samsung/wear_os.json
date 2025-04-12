@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:samsung:wear_os:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "908B7FE2-E077-4227-9D33-5EED17499237",
+        "lastModified": "2022-02-16T15:55:43.857",
+        "created": "2022-02-16T13:57:22.970",
+        "titles": [
+          {
+            "title": "Samsung Wear OS 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:samsung:wear_os:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C8ADA09E-2AF6-4ECD-B7C6-E39514DE8298",
+        "lastModified": "2022-02-16T15:55:43.857",
+        "created": "2022-02-16T13:57:22.970",
+        "titles": [
+          {
+            "title": "Samsung Wear OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:samsung:wear_os:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "79F4AEC7-7F66-48B3-9798-D1C33B4211BF",
+        "lastModified": "2024-12-26T15:56:08.920",
+        "created": "2024-12-26T15:56:08.920",
+        "titles": [
+          {
+            "title": "Samsung Wear OS 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:samsung:wear_os:3.0:*:*:*:*:*:*:*",
+      "title": "Samsung Wear OS 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:samsung:wear_os:-:*:*:*:*:*:*:*",
+      "title": "Samsung Wear OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:samsung:wear_os:4.0:*:*:*:*:*:*:*",
+      "title": "Samsung Wear OS 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

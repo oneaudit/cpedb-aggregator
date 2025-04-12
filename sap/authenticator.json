@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:authenticator:1.2.17:*:*:*:*:android:*:*",
+        "cpeNameId": "1FB41BBD-A792-4F65-92FC-2319912BF961",
+        "lastModified": "2022-08-29T19:04:45.377",
+        "created": "2022-08-12T12:00:35.590",
+        "titles": [
+          {
+            "title": "SAP Authenticator 1.2.17 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:authenticator:-:*:*:*:*:android:*:*",
+        "cpeNameId": "ED2AD782-144D-4237-B27A-974ADF289CCF",
+        "lastModified": "2022-08-29T19:04:45.377",
+        "created": "2022-08-12T12:00:35.590",
+        "titles": [
+          {
+            "title": "SAP Authenticator for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:authenticator:1.3.0:*:*:*:*:android:*:*",
+        "cpeNameId": "61C444B6-25F3-4042-84F8-3393873AED78",
+        "lastModified": "2023-09-22T13:09:36.727",
+        "created": "2023-09-22T13:09:36.727",
+        "titles": [
+          {
+            "title": "SAP Authenticator 1.3.0 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:authenticator:1.2.17:*:*:*:*:android:*:*",
+      "title": "SAP Authenticator 1.2.17 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:authenticator:-:*:*:*:*:android:*:*",
+      "title": "SAP Authenticator for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:authenticator:1.3.0:*:*:*:*:android:*:*",
+      "title": "SAP Authenticator 1.3.0 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

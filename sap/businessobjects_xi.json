@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:businessobjects_xi:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4AD50E08-8F8B-496E-8F93-A731B6D7DC8B",
+        "lastModified": "2014-12-17T19:35:12.890",
+        "created": "2014-10-21T19:36:55.227",
+        "titles": [
+          {
+            "title": "SAP BusinessObjects XI 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:businessobjects_xi:r2:*:*:*:*:*:*:*",
+        "cpeNameId": "C203739D-DBF4-4858-8916-6DCDDDA43CB1",
+        "lastModified": "2014-12-17T19:35:13.093",
+        "created": "2014-10-21T19:36:55.227",
+        "titles": [
+          {
+            "title": "SAP BusinessObjects XI R2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:businessobjects_xi:3.1:*:*:*:*:*:*:*",
+      "title": "SAP BusinessObjects XI 3.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:businessobjects_xi:r2:*:*:*:*:*:*:*",
+      "title": "SAP BusinessObjects XI R2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

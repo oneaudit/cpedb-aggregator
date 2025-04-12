@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:businessobjects_edge:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E77E58E5-86B5-465C-BBA2-CDF773D863F3",
+        "lastModified": "2015-03-04T17:26:23.437",
+        "created": "2015-03-02T16:52:50.160",
+        "titles": [
+          {
+            "title": "SAP BusinessObjects Edge 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:businessobjects_edge:4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "77C6C091-1D3F-43EB-98CC-28C32A23D519",
+        "lastModified": "2023-01-18T06:12:23.177",
+        "created": "2021-08-13T14:23:56.553",
+        "titles": [
+          {
+            "title": "SAP Businessobjects Edge 4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:businessobjects_edge:4.0:*:*:*:*:*:*:*",
+      "title": "SAP BusinessObjects Edge 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:businessobjects_edge:4.1:*:*:*:*:*:*:*",
+      "title": "SAP Businessobjects Edge 4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

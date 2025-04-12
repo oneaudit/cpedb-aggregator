@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:bank_account_management:800:*:*:*:*:*:*:*",
+        "cpeNameId": "EA20FBE9-FE7B-4E2B-936B-D594AC6881D8",
+        "lastModified": "2023-09-22T13:09:36.727",
+        "created": "2023-09-22T13:09:36.727",
+        "titles": [
+          {
+            "title": "SAP Bank Account Management 800",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:bank_account_management:900:*:*:*:*:*:*:*",
+        "cpeNameId": "37F70C05-FEF0-4096-8CE5-8A5191CC5FDF",
+        "lastModified": "2023-09-22T13:09:36.727",
+        "created": "2023-09-22T13:09:36.727",
+        "titles": [
+          {
+            "title": "SAP Bank Account Management 900",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:bank_account_management:800:*:*:*:*:*:*:*",
+      "title": "SAP Bank Account Management 800",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:bank_account_management:900:*:*:*:*:*:*:*",
+      "title": "SAP Bank Account Management 900",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

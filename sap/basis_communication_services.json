@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:basis_communication_services:7.30:*:*:*:*:*:*:*",
+        "cpeNameId": "CF796B3F-2684-488F-9482-42F4C3358390",
+        "lastModified": "2013-05-23T19:14:49.323",
+        "created": "2013-05-01T14:58:43.333",
+        "titles": [
+          {
+            "title": "SAP BASIS Communication Services 7.30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:basis_communication_services:4.6:b:*:*:*:*:*:*",
+        "cpeNameId": "F0214B45-2B93-4C77-9F7B-E375A0B4B2FB",
+        "lastModified": "2013-05-23T19:14:49.287",
+        "created": "2013-05-01T14:58:43.430",
+        "titles": [
+          {
+            "title": "SAP BASIS Communication Services 4.6B",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:basis_communication_services:7.30:*:*:*:*:*:*:*",
+      "title": "SAP BASIS Communication Services 7.30",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:basis_communication_services:4.6:b:*:*:*:*:*:*",
+      "title": "SAP BASIS Communication Services 4.6B",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

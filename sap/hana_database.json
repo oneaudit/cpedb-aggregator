@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:hana_database:1.00:*:*:*:*:*:*:*",
+        "cpeNameId": "BB123EAE-F98B-4ECA-BA5B-F27A1110E0B4",
+        "lastModified": "2019-08-12T12:28:15.197",
+        "created": "2019-08-12T12:28:15.197",
+        "titles": [
+          {
+            "title": "SAP HANA Database 1.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:hana_database:2.00:*:*:*:*:*:*:*",
+        "cpeNameId": "2F0B8996-9CB1-460F-8ABA-792D8757EDA9",
+        "lastModified": "2019-08-12T12:28:15.370",
+        "created": "2019-08-12T12:28:15.370",
+        "titles": [
+          {
+            "title": "SAP HANA Database 2.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:hana_database:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AD6281A6-C68F-47DC-8595-760E2AF19430",
+        "lastModified": "2023-12-01T15:29:36.947",
+        "created": "2023-12-01T15:29:36.947",
+        "titles": [
+          {
+            "title": "SAP Hana Database 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:hana_database:1.00:*:*:*:*:*:*:*",
+      "title": "SAP HANA Database 1.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:hana_database:2.00:*:*:*:*:*:*:*",
+      "title": "SAP HANA Database 2.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:hana_database:2.0:*:*:*:*:*:*:*",
+      "title": "SAP Hana Database 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

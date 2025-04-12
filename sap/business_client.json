@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:business_client:6.5:*:*:*:*:*:*:*",
+        "cpeNameId": "CF5C263D-2AE0-4859-82BC-411EF59AA13F",
+        "lastModified": "2019-08-05T16:53:44.123",
+        "created": "2019-08-05T16:53:44.123",
+        "titles": [
+          {
+            "title": "SAP Business Client 6.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:business_client:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D9BDE001-5460-4A16-969C-8C8D2DAB2866",
+        "lastModified": "2020-04-16T18:44:41.393",
+        "created": "2020-04-16T18:44:41.393",
+        "titles": [
+          {
+            "title": "SAP Business Client 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:business_client:7.70:*:*:*:*:*:*:*",
+        "cpeNameId": "3C5F4E1E-C6D2-45B8-9B9C-A9C6157061B5",
+        "lastModified": "2021-09-22T17:50:52.310",
+        "created": "2021-09-21T15:03:45.360",
+        "titles": [
+          {
+            "title": "SAP Business Client 7.70",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:business_client:6.5:*:*:*:*:*:*:*",
+      "title": "SAP Business Client 6.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:business_client:7.0:*:*:*:*:*:*:*",
+      "title": "SAP Business Client 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:business_client:7.70:*:*:*:*:*:*:*",
+      "title": "SAP Business Client 7.70",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
