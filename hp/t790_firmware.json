@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:t790_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BD5CDB45-FA8D-4720-BA27-C67714A07A72",
+        "lastModified": "2018-11-26T15:39:12.883",
+        "created": "2018-11-26T15:39:12.883",
+        "titles": [
+          {
+            "title": "HP T790 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:t790_firmware:ig_11_00_00.09:*:*:*:*:*:*:*",
+        "cpeNameId": "12F2994A-C008-47B9-BC87-531529C0B0C9",
+        "lastModified": "2018-11-26T15:39:13.023",
+        "created": "2018-11-26T15:39:13.023",
+        "titles": [
+          {
+            "title": "HP T790 Firmware IG 11 00 00.09",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:t790_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP T790 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:t790_firmware:ig_11_00_00.09:*:*:*:*:*:*:*",
+      "title": "HP T790 Firmware IG 11 00 00.09",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

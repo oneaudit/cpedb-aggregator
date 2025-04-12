@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:x3220nr_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "72289F1D-D892-4DC9-8941-1015100848B5",
+        "lastModified": "2020-07-27T16:04:11.447",
+        "created": "2020-07-27T16:04:11.447",
+        "titles": [
+          {
+            "title": "HP X3220NR Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:x3220nr_firmware:3.00.11.08:*:*:*:*:*:*:*",
+        "cpeNameId": "EF2DDBA8-FC19-480C-989C-72ACAEFA44B9",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2020-07-27T16:04:38.307",
+        "titles": [
+          {
+            "title": "HP X3220NR Firmware 3.00.11.08",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:x3220nr_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP X3220NR Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:x3220nr_firmware:3.00.11.08:*:*:*:*:*:*:*",
+      "title": "HP X3220NR Firmware 3.00.11.08",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

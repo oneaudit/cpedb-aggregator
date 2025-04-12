@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:t795_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "35F870BE-DCB9-483A-9C6B-1FD5BC87C19A",
+        "lastModified": "2018-11-26T15:39:13.180",
+        "created": "2018-11-26T15:39:13.180",
+        "titles": [
+          {
+            "title": "HP T795 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:t795_firmware:ig_11_00_00.09:*:*:*:*:*:*:*",
+        "cpeNameId": "D801517C-D59D-42F1-925C-31D643491853",
+        "lastModified": "2018-11-26T15:39:13.337",
+        "created": "2018-11-26T15:39:13.337",
+        "titles": [
+          {
+            "title": "HP T795 Firmware IG11 00 00.09",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:t795_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP T795 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:t795_firmware:ig_11_00_00.09:*:*:*:*:*:*:*",
+      "title": "HP T795 Firmware IG11 00 00.09",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

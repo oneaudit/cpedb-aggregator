@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:t1300_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "82C0027C-D70C-42FA-8554-CC149A5EAC10",
+        "lastModified": "2018-11-26T15:39:10.337",
+        "created": "2018-11-26T15:39:10.337",
+        "titles": [
+          {
+            "title": "HP T1300 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:t1300_firmware:ig_11_00_00.09:*:*:*:*:*:*:*",
+        "cpeNameId": "2C1F0CAB-C9E0-4C85-A00A-4E8C986882E8",
+        "lastModified": "2018-11-26T15:39:10.460",
+        "created": "2018-11-26T15:39:10.460",
+        "titles": [
+          {
+            "title": "HP T1300 Firmware IG 11 00 00.09",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:t1300_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP T1300 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:t1300_firmware:ig_11_00_00.09:*:*:*:*:*:*:*",
+      "title": "HP T1300 Firmware IG 11 00 00.09",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

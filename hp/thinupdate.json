@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:thinupdate:2.7.15:*:*:*:*:*:*:*",
+        "cpeNameId": "B1F23B74-2E5D-470D-8CB4-594DBC3506DF",
+        "lastModified": "2023-10-20T14:36:16.180",
+        "created": "2023-10-20T14:36:16.180",
+        "titles": [
+          {
+            "title": "HP ThinUpdate 2.7.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:thinupdate:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FF1072B5-E7F5-4A39-8A46-C96F634B978A",
+        "lastModified": "2023-10-20T14:36:16.180",
+        "created": "2023-10-20T14:36:16.180",
+        "titles": [
+          {
+            "title": "HP ThinUpdate",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:thinupdate:2.7.15:*:*:*:*:*:*:*",
+      "title": "HP ThinUpdate 2.7.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:thinupdate:-:*:*:*:*:*:*:*",
+      "title": "HP ThinUpdate",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

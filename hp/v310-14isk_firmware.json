@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:hp:v310-14isk_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C8C33805-0A55-4067-85D8-FFF26CA68F40",
+        "lastModified": "2019-12-10T16:31:00.067",
+        "created": "2018-11-26T15:28:50.963",
+        "titles": [
+          {
+            "title": "HP V310-14ISK Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:lenovo:v310-14isk_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "80D599F8-9F5F-4592-8307-AADB51661202"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:hp:v310-14isk_firmware:4.07:*:*:*:*:*:*:*",
+        "cpeNameId": "132CB59C-2F77-4C7D-916E-94FCD6DBBDF7",
+        "lastModified": "2019-12-10T16:31:00.630",
+        "created": "2018-11-26T15:28:51.260",
+        "titles": [
+          {
+            "title": "HP V310-14ISK Firmware 4.07",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:lenovo:v310-14isk_firmware:4.07:*:*:*:*:*:*:*",
+            "cpeNameId": "03251F4A-1D69-451F-8BD8-0268FB903F79"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:v310-14isk_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP V310-14ISK Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:lenovo:v310-14isk_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:hp:v310-14isk_firmware:4.07:*:*:*:*:*:*:*",
+      "title": "HP V310-14ISK Firmware 4.07",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:lenovo:v310-14isk_firmware:4.07:*:*:*:*:*:*:*"
+    }
+  ]
+}

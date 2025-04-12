@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:sockd:0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "3776D442-5E6B-43A3-B26A-782AF7050B37",
+        "lastModified": "2008-04-07T14:06:04.787",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP hpsockd 0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:sockd:0.5:*:*:*:*:*:*:*",
+        "cpeNameId": "90AAD3A8-6FAA-4333-92A1-CC7BAC429472",
+        "lastModified": "2008-04-07T14:06:04.990",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP hpsockd 0.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:sockd:0.4:*:*:*:*:*:*:*",
+      "title": "HP hpsockd 0.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:sockd:0.5:*:*:*:*:*:*:*",
+      "title": "HP hpsockd 0.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

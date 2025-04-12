@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:hp:v310-14ikb_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "550876D9-BA24-46B0-8A53-01496881C90C",
+        "lastModified": "2019-12-10T16:30:58.410",
+        "created": "2018-11-26T15:28:50.477",
+        "titles": [
+          {
+            "title": "HP V310-14IKB Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:lenovo:v310-14ikb_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A0E134BE-B65D-4267-BC94-727018862A9A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:hp:v310-14ikb_firmware:2wcn38ww:*:*:*:*:*:*:*",
+        "cpeNameId": "E33FAF69-3542-48F8-B35C-6FC9DAA86FA5",
+        "lastModified": "2019-12-10T16:30:58.487",
+        "created": "2018-11-26T15:28:50.697",
+        "titles": [
+          {
+            "title": "HP V310-14IKB Firmware 2WCN38WW",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:lenovo:v310-14ikb_firmware:2wcn38ww:*:*:*:*:*:*:*",
+            "cpeNameId": "86B3069D-D62B-46BA-B5A0-0B9E84182B99"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:v310-14ikb_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP V310-14IKB Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:lenovo:v310-14ikb_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:hp:v310-14ikb_firmware:2wcn38ww:*:*:*:*:*:*:*",
+      "title": "HP V310-14IKB Firmware 2WCN38WW",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:lenovo:v310-14ikb_firmware:2wcn38ww:*:*:*:*:*:*:*"
+    }
+  ]
+}

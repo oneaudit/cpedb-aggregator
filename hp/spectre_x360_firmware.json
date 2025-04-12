@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:spectre_x360_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A987227C-9004-4BDD-906F-AEB95F31FD1E",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2020-07-28T12:43:15.580",
+        "titles": [
+          {
+            "title": "HP Spectre x360 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:spectre_x360_firmware:5.5.26.1102:*:*:*:*:*:*:*",
+        "cpeNameId": "10964CD3-FFC8-403C-9325-06A198A327D1",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2020-07-28T12:43:15.580",
+        "titles": [
+          {
+            "title": "HP Spectre x360 Firmware 5.5.26.1102",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:spectre_x360_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP Spectre x360 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:spectre_x360_firmware:5.5.26.1102:*:*:*:*:*:*:*",
+      "title": "HP Spectre x360 Firmware 5.5.26.1102",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

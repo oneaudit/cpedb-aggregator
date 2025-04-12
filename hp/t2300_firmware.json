@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:t2300_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0025D199-C657-4B23-85F9-6040612FCB1A",
+        "lastModified": "2018-11-26T15:39:11.193",
+        "created": "2018-11-26T15:39:11.193",
+        "titles": [
+          {
+            "title": "HP T2300 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:t2300_firmware:ig_11_00_00.09:*:*:*:*:*:*:*",
+        "cpeNameId": "58DF7D97-BAEE-4CDA-9E48-41E7E13906D5",
+        "lastModified": "2018-11-26T15:39:11.430",
+        "created": "2018-11-26T15:39:11.430",
+        "titles": [
+          {
+            "title": "HP T2300 Firmware IG 11 00 00.09",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:t2300_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP T2300 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:t2300_firmware:ig_11_00_00.09:*:*:*:*:*:*:*",
+      "title": "HP T2300 Firmware IG 11 00 00.09",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:hp:v510-15ikb_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3337B43B-FDA7-40A1-83AE-15557ED45363",
+        "lastModified": "2019-12-10T16:31:06.127",
+        "created": "2018-11-26T15:28:54.463",
+        "titles": [
+          {
+            "title": "HP V510-15IKB Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:lenovo:v510-15ikb_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "1B12BA7F-9AF3-441B-8BD7-80268D01EA53"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:hp:v510-15ikb_firmware:2wcn38ww:*:*:*:*:*:*:*",
+        "cpeNameId": "AE6D1FAF-0DD1-4D2C-A657-D2E862A669DD",
+        "lastModified": "2019-12-10T16:31:06.223",
+        "created": "2018-11-26T15:28:54.760",
+        "titles": [
+          {
+            "title": "HP V510-15IKB Firmware 2WCN38WW",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:lenovo:v510-15ikb_firmware:2wcn38ww:*:*:*:*:*:*:*",
+            "cpeNameId": "3CCA845A-0BA7-4BB0-88CE-ADF26F1AABAF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:v510-15ikb_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP V510-15IKB Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:lenovo:v510-15ikb_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:hp:v510-15ikb_firmware:2wcn38ww:*:*:*:*:*:*:*",
+      "title": "HP V510-15IKB Firmware 2WCN38WW",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:lenovo:v510-15ikb_firmware:2wcn38ww:*:*:*:*:*:*:*"
+    }
+  ]
+}

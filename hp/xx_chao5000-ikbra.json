@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hp:xx_chao5000-ikbra:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F1CBF047-CF8E-4232-861F-7EA87A6F22F1",
+        "lastModified": "2019-12-10T16:30:48.987",
+        "created": "2018-11-26T15:28:27.493",
+        "titles": [
+          {
+            "title": "HP XX CHAO5000-IKBRA",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:lenovo:xx_chao5000-ikbra:-:*:*:*:*:*:*:*",
+            "cpeNameId": "46BB002D-4478-4269-A4D5-227A1FA9F5E0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:xx_chao5000-ikbra:-:*:*:*:*:*:*:*",
+      "title": "HP XX CHAO5000-IKBRA",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:lenovo:xx_chao5000-ikbra:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

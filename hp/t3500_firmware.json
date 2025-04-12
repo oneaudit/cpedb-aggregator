@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:t3500_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "10F1B5D6-126E-4BBE-B6F7-C025A3D4B01F",
+        "lastModified": "2018-11-26T15:39:12.570",
+        "created": "2018-11-26T15:39:12.570",
+        "titles": [
+          {
+            "title": "HP T3500 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:t3500_firmware:aeneas_03_04_00.8:*:*:*:*:*:*:*",
+        "cpeNameId": "CC0D0025-71A9-48AF-BB65-D685673FE8EB",
+        "lastModified": "2018-11-26T15:39:12.727",
+        "created": "2018-11-26T15:39:12.727",
+        "titles": [
+          {
+            "title": "HP T3500 Firmware AENEAS 03 04 00.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:t3500_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP T3500 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:t3500_firmware:aeneas_03_04_00.8:*:*:*:*:*:*:*",
+      "title": "HP T3500 Firmware AENEAS 03 04 00.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

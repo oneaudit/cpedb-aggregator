@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:t2530_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BF6A309E-F16C-41C5-98DB-B3A9708657FA",
+        "lastModified": "2018-11-26T15:39:12.273",
+        "created": "2018-11-26T15:39:12.273",
+        "titles": [
+          {
+            "title": "HP T2530 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:t2530_firmware:mry_04_05_00.4:*:*:*:*:*:*:*",
+        "cpeNameId": "59B8F2C2-615B-4B6C-BCCA-3209834DD764",
+        "lastModified": "2018-11-26T15:39:12.413",
+        "created": "2018-11-26T15:39:12.413",
+        "titles": [
+          {
+            "title": "HP T2530 Firmware MRY 04 05 00.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:t2530_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP T2530 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:t2530_firmware:mry_04_05_00.4:*:*:*:*:*:*:*",
+      "title": "HP T2530 Firmware MRY 04 05 00.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

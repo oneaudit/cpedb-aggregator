@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hp:yoga_520-14ikb:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C5FAA816-785E-4C8D-A6EB-8DC3A368C30E",
+        "lastModified": "2019-12-10T16:30:50.457",
+        "created": "2018-11-26T15:28:28.730",
+        "titles": [
+          {
+            "title": "HP YOGA 520-14IKB",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:lenovo:yoga_520-14ikb:-:*:*:*:*:*:*:*",
+            "cpeNameId": "91B79A5F-C97B-4171-A68C-563349976AFE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:yoga_520-14ikb:-:*:*:*:*:*:*:*",
+      "title": "HP YOGA 520-14IKB",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:lenovo:yoga_520-14ikb:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
