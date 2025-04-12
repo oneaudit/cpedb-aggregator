@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:workspace_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4C59AC59-4542-4339-8E18-F2188377F007",
+        "lastModified": "2008-04-01T16:41:10.707",
+        "created": "2007-10-18T16:50:06.970",
+        "titles": [
+          {
+            "title": "Oracle Oracle Workspace Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:workspace_manager:11.2.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "DE5F1EBC-120A-4610-932C-5377D4A42080",
+        "lastModified": "2016-02-17T17:55:47.747",
+        "created": "2016-02-17T17:55:47.747",
+        "titles": [
+          {
+            "title": "Oracle Workspace Manager 11.2.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:workspace_manager:-:*:*:*:*:*:*:*",
+      "title": "Oracle Oracle Workspace Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:workspace_manager:11.2.0.4:*:*:*:*:*:*:*",
+      "title": "Oracle Workspace Manager 11.2.0.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:rdbms_sharding:12.2.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "752C66C5-1107-4421-8FA0-DD886998CBC6",
+        "lastModified": "2021-01-25T15:41:59.157",
+        "created": "2021-01-25T15:41:59.157",
+        "titles": [
+          {
+            "title": "Oracle RDBMS Sharding 12.2.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:rdbms_sharding:18c:*:*:*:*:*:*:*",
+        "cpeNameId": "03E1FB5E-143A-4E4E-A1B7-525CA23DB41C",
+        "lastModified": "2021-01-25T15:41:59.407",
+        "created": "2021-01-25T15:41:59.407",
+        "titles": [
+          {
+            "title": "Oracle RDBMS Sharding 18c",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:rdbms_sharding:19c:*:*:*:*:*:*:*",
+        "cpeNameId": "030B8E83-5FDF-44F4-91E8-BE5C359AD5CD",
+        "lastModified": "2021-01-25T15:41:59.597",
+        "created": "2021-01-25T15:41:59.597",
+        "titles": [
+          {
+            "title": "Oracle RDBMS Sharding 19c",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:rdbms_sharding:12.2.0.1:*:*:*:*:*:*:*",
+      "title": "Oracle RDBMS Sharding 12.2.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:rdbms_sharding:18c:*:*:*:*:*:*:*",
+      "title": "Oracle RDBMS Sharding 18c",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:rdbms_sharding:19c:*:*:*:*:*:*:*",
+      "title": "Oracle RDBMS Sharding 19c",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

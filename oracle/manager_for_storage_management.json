@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:manager_for_storage_management:13.4.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4507F418-1E2C-445F-8057-EA64397A7B55",
+        "lastModified": "2022-09-12T13:54:57.073",
+        "created": "2022-04-28T16:49:15.017",
+        "titles": [
+          {
+            "title": "Oracle Manager for Storage Management 13.4.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:enterprise_manager_for_storage_management:13.4.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "A895155C-A0A6-41B4-BC40-2E4D1C701F1D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:manager_for_storage_management:13.4.0.0:*:*:*:*:*:*:*",
+      "title": "Oracle Manager for Storage Management 13.4.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:enterprise_manager_for_storage_management:13.4.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

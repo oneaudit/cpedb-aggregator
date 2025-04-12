@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:orcacle:retail_point-of-service:14.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F87452C6-B5FA-4245-B12C-27BBA47B8A79",
+        "lastModified": "2017-04-28T13:18:04.830",
+        "created": "2016-01-26T19:02:45.350",
+        "titles": [
+          {
+            "title": "Orcacle Retail Point-of-Service 14.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:retail_point-of-service:14.0:*:*:*:*:*:*:*",
+            "cpeNameId": "4D0CFD42-B674-426C-9077-046C55072A7F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:orcacle:retail_point-of-service:13.4:*:*:*:*:*:*:*",
+        "cpeNameId": "141CD5DE-73E5-42B6-BE67-C6B3A01B87F8",
+        "lastModified": "2017-04-28T13:18:17.333",
+        "created": "2016-01-26T19:02:45.380",
+        "titles": [
+          {
+            "title": "Orcacle Retail Point-of-Service 13.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:retail_point-of-service:13.4:*:*:*:*:*:*:*",
+            "cpeNameId": "9E760A3F-CC9E-4760-80B3-F345F5A2766A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:orcacle:retail_point-of-service:14.1:*:*:*:*:*:*:*",
+        "cpeNameId": "B8277B4C-4965-46AB-AF79-3755B1A31C64",
+        "lastModified": "2017-04-28T13:17:50.157",
+        "created": "2016-01-26T19:02:45.397",
+        "titles": [
+          {
+            "title": "Orcacle Retail Point-of-Service 14.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:retail_point-of-service:14.1:*:*:*:*:*:*:*",
+            "cpeNameId": "86F7EF03-EA35-4F4B-AC9D-7051C4095C79"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:orcacle:retail_point-of-service:14.0:*:*:*:*:*:*:*",
+      "title": "Orcacle Retail Point-of-Service 14.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:retail_point-of-service:14.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:orcacle:retail_point-of-service:13.4:*:*:*:*:*:*:*",
+      "title": "Orcacle Retail Point-of-Service 13.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:retail_point-of-service:13.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:orcacle:retail_point-of-service:14.1:*:*:*:*:*:*:*",
+      "title": "Orcacle Retail Point-of-Service 14.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:retail_point-of-service:14.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

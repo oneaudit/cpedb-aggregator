@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:workload_manager:12.2.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "C1F5DC6C-1ADD-4E4E-919E-1565B69C2EB3",
+        "lastModified": "2021-01-27T13:37:49.357",
+        "created": "2021-01-27T13:37:49.357",
+        "titles": [
+          {
+            "title": "Oracle Workload Manager 12.2.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:workload_manager:18c:*:*:*:*:*:*:*",
+        "cpeNameId": "43DAA525-29EC-4123-9936-48D500792157",
+        "lastModified": "2021-01-27T13:37:49.437",
+        "created": "2021-01-27T13:37:49.437",
+        "titles": [
+          {
+            "title": "Oracle Workload Manager 18c",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:workload_manager:19c:*:*:*:*:*:*:*",
+        "cpeNameId": "09B8BB4F-D1CC-4F31-A2FD-3C9E3C7F3BAD",
+        "lastModified": "2021-01-27T13:37:49.513",
+        "created": "2021-01-27T13:37:49.513",
+        "titles": [
+          {
+            "title": "Oracle Workload Manager 19c",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:workload_manager:12.2.0.1:*:*:*:*:*:*:*",
+      "title": "Oracle Workload Manager 12.2.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:workload_manager:18c:*:*:*:*:*:*:*",
+      "title": "Oracle Workload Manager 18c",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:workload_manager:19c:*:*:*:*:*:*:*",
+      "title": "Oracle Workload Manager 19c",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

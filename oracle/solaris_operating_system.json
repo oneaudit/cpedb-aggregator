@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:solaris_operating_system:10:*:*:*:*:*:*:*",
+        "cpeNameId": "5DAD04F2-D09F-47B9-BF73-7F8F273806B3",
+        "lastModified": "2021-07-07T14:04:11.193",
+        "created": "2016-04-21T20:12:44.277",
+        "titles": [
+          {
+            "title": "Oracle Solaris Operating System 10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:oracle:solaris:10:*:*:*:*:*:*:*",
+            "cpeNameId": "FA785EC4-B8B6-43B9-8918-128927D64ED3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:solaris_operating_system:11.3:*:*:*:*:*:*:*",
+        "cpeNameId": "5BA86C54-F62A-4013-972E-B136D4F4D55B",
+        "lastModified": "2021-07-07T14:04:11.193",
+        "created": "2016-04-22T17:29:07.803",
+        "titles": [
+          {
+            "title": "Oracle Solaris Operating System 11.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:oracle:solaris:11.3:*:*:*:*:*:*:*",
+            "cpeNameId": "D0C1251C-25B0-44C4-BCE9-D13792DED457"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:solaris_operating_system:10:*:*:*:*:*:*:*",
+      "title": "Oracle Solaris Operating System 10",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:oracle:solaris:10:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:oracle:solaris_operating_system:11.3:*:*:*:*:*:*:*",
+      "title": "Oracle Solaris Operating System 11.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:oracle:solaris:11.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

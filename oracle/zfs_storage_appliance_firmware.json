@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:oracle:zfs_storage_appliance_firmware:8.8:*:*:*:*:*:*:*",
+        "cpeNameId": "FFB57616-AEEC-4A9B-9C92-20CACC3299B5",
+        "lastModified": "2021-04-21T14:55:25.673",
+        "created": "2021-02-08T13:05:13.393",
+        "titles": [
+          {
+            "title": "Oracle ZFS Storage Appliance Firmware 8.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:oracle:zfs_storage_appliance_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "49C985A8-0F96-432E-AAD3-ACF0C48893BE",
+        "lastModified": "2021-04-21T14:55:25.673",
+        "created": "2021-02-08T13:05:13.393",
+        "titles": [
+          {
+            "title": "Oracle ZFS Storage Appliance Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:oracle:zfs_storage_appliance_firmware:8.8:*:*:*:*:*:*:*",
+      "title": "Oracle ZFS Storage Appliance Firmware 8.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:oracle:zfs_storage_appliance_firmware:-:*:*:*:*:*:*:*",
+      "title": "Oracle ZFS Storage Appliance Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

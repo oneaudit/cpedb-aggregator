@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:goldengate_stream_analytics:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5073E77C-A7B5-4754-81F7-1EA3E46B6FCF",
+        "lastModified": "2021-01-29T18:16:49.817",
+        "created": "2021-01-29T18:16:49.817",
+        "titles": [
+          {
+            "title": "Oracle GoldenGate Stream Analytics",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:goldengate_stream_analytics:19.1.0.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "C77CF3CC-B246-44E7-B87C-C041DDDD86D8",
+        "lastModified": "2021-01-29T18:16:50.143",
+        "created": "2021-01-29T18:16:50.143",
+        "titles": [
+          {
+            "title": "Oracle GoldenGate Stream Analytics 19.1.0.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:goldengate_stream_analytics:-:*:*:*:*:*:*:*",
+      "title": "Oracle GoldenGate Stream Analytics",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:goldengate_stream_analytics:19.1.0.0.1:*:*:*:*:*:*:*",
+      "title": "Oracle GoldenGate Stream Analytics 19.1.0.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:enterprise_manager_for_oracle_database:12.1.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "F2B6FC37-7EC7-4392-B94B-E3E78B8BB66F",
+        "lastModified": "2021-01-27T15:27:24.647",
+        "created": "2021-01-27T15:27:24.647",
+        "titles": [
+          {
+            "title": "Oracle Enterprise Manager for Oracle Database 12.1.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:enterprise_manager_for_oracle_database:13.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "7FECD12B-5D07-4C8F-9379-D68B1B4B5F05",
+        "lastModified": "2021-01-27T15:27:24.850",
+        "created": "2021-01-27T15:27:24.850",
+        "titles": [
+          {
+            "title": "Oracle Enterprise Manager for Oracle Database 13.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:enterprise_manager_for_oracle_database:13.4.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "249A8047-B3F6-4659-B929-8771940D13E6",
+        "lastModified": "2021-12-02T22:36:28.830",
+        "created": "2021-12-02T15:36:01.177",
+        "titles": [
+          {
+            "title": "Oracle Enterprise Manager for Oracle Database 13.4.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:enterprise_manager_for_oracle_database:12.1.0.8:*:*:*:*:*:*:*",
+      "title": "Oracle Enterprise Manager for Oracle Database 12.1.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:enterprise_manager_for_oracle_database:13.2.2:*:*:*:*:*:*:*",
+      "title": "Oracle Enterprise Manager for Oracle Database 13.2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:enterprise_manager_for_oracle_database:13.4.0.0:*:*:*:*:*:*:*",
+      "title": "Oracle Enterprise Manager for Oracle Database 13.4.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

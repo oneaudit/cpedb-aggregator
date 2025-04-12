@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:orcacle:webcenter_sites:11.1.1.8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4378A61B-652D-4068-916C-6631236351F6",
+        "lastModified": "2017-04-28T13:17:21.047",
+        "created": "2016-01-26T20:26:21.807",
+        "titles": [
+          {
+            "title": "Orcacle Webcenter Sites 11.1.1.8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:webcenter_sites:11.1.1.8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "6CAB5021-1E63-44D3-8DBC-758A7B27E66E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:orcacle:webcenter_sites:7.6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "978B21B3-067E-4203-B379-55EBD5121E11",
+        "lastModified": "2017-04-28T13:17:39.250",
+        "created": "2016-01-26T20:26:21.840",
+        "titles": [
+          {
+            "title": "Orcacle Webcenter Sites 7.6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:webcenter_sites:7.6.2:*:*:*:*:*:*:*",
+            "cpeNameId": "D67B5CE7-4285-4117-80FD-76E3964A23A7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:orcacle:webcenter_sites:11.1.1.8.0:*:*:*:*:*:*:*",
+      "title": "Orcacle Webcenter Sites 11.1.1.8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:webcenter_sites:11.1.1.8.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:orcacle:webcenter_sites:7.6.2:*:*:*:*:*:*:*",
+      "title": "Orcacle Webcenter Sites 7.6.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:webcenter_sites:7.6.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

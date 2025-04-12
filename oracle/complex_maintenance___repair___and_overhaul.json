@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:complex_maintenance\\,_repair\\,_and_overhaul:11.5.10:*:*:*:*:*:*:*",
+        "cpeNameId": "6C04F1FF-DAB3-4BC6-BB42-823E6A207F41",
+        "lastModified": "2024-04-19T17:30:46.163",
+        "created": "2021-01-25T16:12:55.820",
+        "titles": [
+          {
+            "title": "Oracle Complex Maintenance, Repair, and Overhaul (MRO) 11.5.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:complex_maintenance_repair_and_overhaul:11.5.10:*:*:*:*:*:*:*",
+            "cpeNameId": "C32AA771-E9C7-4A5E-AA6D-FB3D5BDF16C0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:complex_maintenance\\,_repair\\,_and_overhaul:12.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4DB229C4-211C-425B-813E-68DB0929A4D1",
+        "lastModified": "2024-04-19T17:30:46.163",
+        "created": "2021-01-25T16:12:55.897",
+        "titles": [
+          {
+            "title": "Oracle Complex Maintenance, Repair, and Overhaul (MRO) 12.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:complex_maintenance_repair_and_overhaul:12.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "EBB1E0B4-906F-489F-938B-4A9147A28C3A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:complex_maintenance\\,_repair\\,_and_overhaul:12.2:*:*:*:*:*:*:*",
+        "cpeNameId": "AE2E4D29-2452-4194-8F86-937ECFC47EB8",
+        "lastModified": "2024-04-19T17:30:46.163",
+        "created": "2021-01-25T16:12:55.943",
+        "titles": [
+          {
+            "title": "Oracle Complex Maintenance, Repair, and Overhaul (MRO) 12.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:complex_maintenance_repair_and_overhaul:12.2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "D8FF6D90-DB7D-46B9-B63A-9174050EADB8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:complex_maintenance\\,_repair\\,_and_overhaul:11.5:*:*:*:*:*:*:*",
+        "cpeNameId": "F0BB8A72-D08F-43F5-AE3F-542211CEE73A",
+        "lastModified": "2024-04-19T17:30:46.163",
+        "created": "2024-04-17T16:17:17.250",
+        "titles": [
+          {
+            "title": "Oracle Complex Maintenance, Repair, and Overhaul (MRO) 11.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:complex_maintenance_repair_and_overhaul:11.5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "E7B1D92D-C1D4-42E7-97E1-CD7D2DB33580"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:complex_maintenance\\,_repair\\,_and_overhaul:11.5.10:*:*:*:*:*:*:*",
+      "title": "Oracle Complex Maintenance, Repair, and Overhaul (MRO) 11.5.10",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:complex_maintenance_repair_and_overhaul:11.5.10:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:oracle:complex_maintenance\\,_repair\\,_and_overhaul:12.1:*:*:*:*:*:*:*",
+      "title": "Oracle Complex Maintenance, Repair, and Overhaul (MRO) 12.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:complex_maintenance_repair_and_overhaul:12.1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:oracle:complex_maintenance\\,_repair\\,_and_overhaul:12.2:*:*:*:*:*:*:*",
+      "title": "Oracle Complex Maintenance, Repair, and Overhaul (MRO) 12.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:complex_maintenance_repair_and_overhaul:12.2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:oracle:complex_maintenance\\,_repair\\,_and_overhaul:11.5:*:*:*:*:*:*:*",
+      "title": "Oracle Complex Maintenance, Repair, and Overhaul (MRO) 11.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:complex_maintenance_repair_and_overhaul:11.5.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

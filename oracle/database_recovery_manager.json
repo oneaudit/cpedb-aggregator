@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:database_recovery_manager:19c:*:*:*:*:*:*:*",
+        "cpeNameId": "4D96850A-A357-49B5-A489-F1A7F32DC4EC",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-04-19T20:37:11.443",
+        "titles": [
+          {
+            "title": "Oracle Database Recovery Manager 19c",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:database_recovery_manager:21c:*:*:*:*:*:*:*",
+        "cpeNameId": "B4CF733F-E995-4F6D-9510-09370C067AA5",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-04-19T20:37:11.443",
+        "titles": [
+          {
+            "title": "Oracle Database Recovery Manager 21c",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:database_recovery_manager:19c:*:*:*:*:*:*:*",
+      "title": "Oracle Database Recovery Manager 19c",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:database_recovery_manager:21c:*:*:*:*:*:*:*",
+      "title": "Oracle Database Recovery Manager 21c",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

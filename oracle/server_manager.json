@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:server_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "502483B6-7492-49EF-BE3D-78581264D866",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Oracle Server Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:server_manager:3.1.7.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "553DB0E5-DE96-4CD2-83BD-72BAEA114BDB",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Oracle Server Manager 3.1.7.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:server_manager:-:*:*:*:*:*:*:*",
+      "title": "Oracle Server Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:server_manager:3.1.7.0.0:*:*:*:*:*:*:*",
+      "title": "Oracle Server Manager 3.1.7.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

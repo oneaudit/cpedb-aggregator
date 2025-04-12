@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:xml_database:12.1.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "3E37703C-2E94-4A9C-B87F-96D1826EA836",
+        "lastModified": "2022-04-18T15:31:35.143",
+        "created": "2021-07-21T20:21:22.623",
+        "titles": [
+          {
+            "title": "Oracle XML Database 12.1.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:xml_database:12.2.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "A1D330A9-E033-48F0-B50C-E5C3BCD4E9B2",
+        "lastModified": "2022-04-18T15:31:35.143",
+        "created": "2021-07-21T20:21:22.623",
+        "titles": [
+          {
+            "title": "Oracle XML Database 12.2.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:xml_database:19c:*:*:*:*:*:*:*",
+        "cpeNameId": "BE1031E5-24D0-4692-8E03-8E3B0ACFD505",
+        "lastModified": "2022-04-18T15:31:35.143",
+        "created": "2021-07-21T20:21:22.623",
+        "titles": [
+          {
+            "title": "Oracle XML Database 19c",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:xml_database:12.1.0.2:*:*:*:*:*:*:*",
+      "title": "Oracle XML Database 12.1.0.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:xml_database:12.2.0.1:*:*:*:*:*:*:*",
+      "title": "Oracle XML Database 12.2.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:xml_database:19c:*:*:*:*:*:*:*",
+      "title": "Oracle XML Database 19c",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

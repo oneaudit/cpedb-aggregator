@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:graph_server_and_client:21.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B5895606-4A5E-46AB-9502-B43E5423E099",
+        "lastModified": "2021-12-02T22:36:28.830",
+        "created": "2021-12-01T16:38:12.903",
+        "titles": [
+          {
+            "title": "Oracle Graph Server And Client 21.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:graph_server_and_client:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D3D6D699-93B5-485A-B9BB-92CE96D60A3F",
+        "lastModified": "2021-12-02T22:36:28.830",
+        "created": "2021-12-01T16:38:39.493",
+        "titles": [
+          {
+            "title": "Oracle Graph Server And Client -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:graph_server_and_client:21.3.0:*:*:*:*:*:*:*",
+      "title": "Oracle Graph Server And Client 21.3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:graph_server_and_client:-:*:*:*:*:*:*:*",
+      "title": "Oracle Graph Server And Client -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

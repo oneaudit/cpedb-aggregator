@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:jserver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E950FB26-17FD-4714-AB9C-BF6692D0EF81",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Oracle JServer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:oracle:jserver:8.1.7.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C4573116-FA62-4E28-853C-256AB0C6B0EC",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Oracle JServer 8.1.7.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:jserver:-:*:*:*:*:*:*:*",
+      "title": "Oracle JServer",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:oracle:jserver:8.1.7.2.0:*:*:*:*:*:*:*",
+      "title": "Oracle JServer 8.1.7.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
