@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:connect_m:1.7.4:*:*:*:*:android:*:*",
+        "cpeNameId": "2BAF63D1-D8C2-44CD-9149-142CE456F719",
+        "lastModified": "2022-08-22T14:17:26.643",
+        "created": "2022-08-19T16:57:49.687",
+        "titles": [
+          {
+            "title": "Intel Connect M 1.7.4 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:connect_m:-:*:*:*:*:android:*:*",
+        "cpeNameId": "9E0EDDC9-7BCB-42C9-965B-5B390CB508D1",
+        "lastModified": "2022-08-22T14:17:26.643",
+        "created": "2022-08-19T16:57:49.687",
+        "titles": [
+          {
+            "title": "Intel Connect M for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:connect_m:1.82:*:*:*:*:android:*:*",
+        "cpeNameId": "F8B75BCA-2772-4ACF-93D3-0680FECA3CB1",
+        "lastModified": "2023-10-27T14:19:53.800",
+        "created": "2023-10-27T14:19:53.800",
+        "titles": [
+          {
+            "title": "Intel Connect M 1.82 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:connect_m:1.7.4:*:*:*:*:android:*:*",
+      "title": "Intel Connect M 1.7.4 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:connect_m:-:*:*:*:*:android:*:*",
+      "title": "Intel Connect M for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:connect_m:1.82:*:*:*:*:android:*:*",
+      "title": "Intel Connect M 1.82 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

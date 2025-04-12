@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:comet_lake_rvp:-:*:*:*:embedded:*:*:*",
+        "cpeNameId": "AD6D8990-5D00-413A-91CB-1263EEC70E23",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Comet Lake RVP Embedded Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:comet_lake_rvp:-:*:*:*:server:*:*:*",
+        "cpeNameId": "2B2E1BF8-758B-437C-9443-A689738BB517",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Comet Lake RVP Server Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:comet_lake_rvp:-:*:*:*:embedded:*:*:*",
+      "title": "Intel Comet Lake RVP Embedded Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:comet_lake_rvp:-:*:*:*:server:*:*:*",
+      "title": "Intel Comet Lake RVP Server Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:cd1iv128mk_firmware:0038:*:*:*:*:*:*:*",
+        "cpeNameId": "DECD1929-FDC2-428A-94D1-2D25D53F992F",
+        "lastModified": "2021-05-03T19:57:11.647",
+        "created": "2019-12-30T16:11:33.900",
+        "titles": [
+          {
+            "title": "Intel CD1IV128MK Firmware 0038",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:cd1iv128mk_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0DEE662E-C2E2-40E7-B0BD-671D276D85DF",
+        "lastModified": "2021-05-03T19:57:11.647",
+        "created": "2019-12-30T16:11:33.900",
+        "titles": [
+          {
+            "title": "Intel CD1IV128MK Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:cd1iv128mk_firmware:0038:*:*:*:*:*:*:*",
+      "title": "Intel CD1IV128MK Firmware 0038",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:cd1iv128mk_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel CD1IV128MK Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

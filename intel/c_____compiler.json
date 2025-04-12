@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:c\\+\\+_compiler:2021.7.1:*:*:*:classic:*:*:*",
+        "cpeNameId": "581DDB02-F696-468E-A0F7-3BECE8954FCC",
+        "lastModified": "2023-04-03T15:47:38.267",
+        "created": "2023-02-13T14:38:44.150",
+        "titles": [
+          {
+            "title": "Intel C++ Compiler 2021.7.1 Classic Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:c\\+\\+_compiler:-:*:*:*:classic:*:*:*",
+        "cpeNameId": "725B1F85-C5E5-4D4E-9877-4ED460FF118F",
+        "lastModified": "2023-04-03T15:47:38.267",
+        "created": "2023-02-13T14:38:44.150",
+        "titles": [
+          {
+            "title": "Intel C++ Compiler Classic Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:c\\+\\+_compiler:2021.7.1:*:*:*:classic:*:*:*",
+      "title": "Intel C++ Compiler 2021.7.1 Classic Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:c\\+\\+_compiler:-:*:*:*:classic:*:*:*",
+      "title": "Intel C++ Compiler Classic Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

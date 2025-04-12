@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:bmc_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7C72C43A-9BE9-4EBD-AEAB-31BBF2C43BE7",
+        "lastModified": "2021-05-04T15:18:53.800",
+        "created": "2018-09-11T13:21:30.823",
+        "titles": [
+          {
+            "title": "Intel BMC Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:bmc_firmware:3.38.30:*:*:*:*:*:*:*",
+        "cpeNameId": "FC1C09D7-3A60-4004-8221-47604A335D62",
+        "lastModified": "2020-11-03T22:34:48.913",
+        "created": "2020-11-03T22:34:48.913",
+        "titles": [
+          {
+            "title": "Intel BMC Firmware 3.38.30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:bmc_firmware:1.06.06:*:*:*:*:*:*:*",
+        "cpeNameId": "6CF8DC8B-CE95-4BF0-B9AE-42DAB8E240FB",
+        "lastModified": "2020-12-29T14:51:24.623",
+        "created": "2020-12-29T14:51:24.623",
+        "titles": [
+          {
+            "title": "Intel BMC Firmware 1.06.06",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:bmc_firmware:2.47:*:*:*:*:*:*:*",
+        "cpeNameId": "B1E013CB-6B08-4D32-B476-5B3EF99B6AD2",
+        "lastModified": "2021-05-04T15:18:53.800",
+        "created": "2021-02-22T13:36:54.500",
+        "titles": [
+          {
+            "title": "Intel BMC Firmware 2.47",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:bmc_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel BMC Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:bmc_firmware:3.38.30:*:*:*:*:*:*:*",
+      "title": "Intel BMC Firmware 3.38.30",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:bmc_firmware:1.06.06:*:*:*:*:*:*:*",
+      "title": "Intel BMC Firmware 1.06.06",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:bmc_firmware:2.47:*:*:*:*:*:*:*",
+      "title": "Intel BMC Firmware 2.47",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

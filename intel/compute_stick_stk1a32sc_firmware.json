@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:compute_stick_stk1a32sc_firmware:sc0045:*:*:*:*:*:*:*",
+        "cpeNameId": "7E2BC916-1BA9-4DB2-8755-BCB0178199E6",
+        "lastModified": "2020-09-23T12:46:15.907",
+        "created": "2020-09-23T12:46:15.907",
+        "titles": [
+          {
+            "title": "Intel Compute Stick STK1A32SC Firmware STK1A32SC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:compute_stick_stk1a32sc_firmware:604:*:*:*:*:*:*:*",
+        "cpeNameId": "0F18D98C-1180-49BE-91DF-F26071C01B29",
+        "lastModified": "2021-06-22T18:49:39.743",
+        "created": "2021-02-22T12:30:34.137",
+        "titles": [
+          {
+            "title": "Intel Compute Stick STK1A32SC Firmware 604",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:compute_stick_stk1a32sc_firmware:sc0045:*:*:*:*:*:*:*",
+      "title": "Intel Compute Stick STK1A32SC Firmware STK1A32SC",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:compute_stick_stk1a32sc_firmware:604:*:*:*:*:*:*:*",
+      "title": "Intel Compute Stick STK1A32SC Firmware 604",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

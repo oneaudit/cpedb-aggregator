@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:compute_stick_stck1a32wfc_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7611868B-6E80-43F5-B17E-21C2654BBD39",
+        "lastModified": "2020-04-28T11:44:56.430",
+        "created": "2020-04-28T11:44:56.430",
+        "titles": [
+          {
+            "title": "Intel Compute Stick STCK1A32WFC Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:compute_stick_stck1a32wfc_firmware:fcbyt10h.86a:*:*:*:*:*:*:*",
+        "cpeNameId": "BE1D8BF2-DECA-4F5C-A560-217296B01D86",
+        "lastModified": "2020-04-28T11:44:56.743",
+        "created": "2020-04-28T11:44:56.743",
+        "titles": [
+          {
+            "title": "Intel Compute Stick STCK1A32WFC Firmware FCBYT10H.86A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:compute_stick_stck1a32wfc_firmware:stck1a32wfc:*:*:*:*:*:*:*",
+        "cpeNameId": "15084977-6518-442F-8F20-47AE3E103505",
+        "lastModified": "2020-09-23T12:46:15.453",
+        "created": "2020-09-23T12:46:15.453",
+        "titles": [
+          {
+            "title": "Intel Compute Stick STCK1A32WFC Firmware STCK1A32WFC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:compute_stick_stck1a32wfc_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Compute Stick STCK1A32WFC Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:compute_stick_stck1a32wfc_firmware:fcbyt10h.86a:*:*:*:*:*:*:*",
+      "title": "Intel Compute Stick STCK1A32WFC Firmware FCBYT10H.86A",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:compute_stick_stck1a32wfc_firmware:stck1a32wfc:*:*:*:*:*:*:*",
+      "title": "Intel Compute Stick STCK1A32WFC Firmware STCK1A32WFC",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

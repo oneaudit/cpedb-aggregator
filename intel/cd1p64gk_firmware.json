@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:cd1p64gk_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B7DED7F0-3D0E-4578-ABCC-4D8108E14273",
+        "lastModified": "2021-05-03T19:57:11.647",
+        "created": "2019-12-30T16:11:38.617",
+        "titles": [
+          {
+            "title": "Intel CD1P64GK Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:cd1p64gk_firmware:0053:*:*:*:*:*:*:*",
+        "cpeNameId": "B407C5C7-AF77-4ED7-A797-C423C400936F",
+        "lastModified": "2021-05-03T19:57:11.647",
+        "created": "2019-12-30T16:11:38.617",
+        "titles": [
+          {
+            "title": "Intel CD1P64GK Firmware 0053",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:cd1p64gk_firmware:gkaplcpx.86a:*:*:*:*:*:*:*",
+        "cpeNameId": "01ABB509-5AAD-41E5-B296-0BE5A7853384",
+        "lastModified": "2021-05-03T19:57:11.647",
+        "created": "2020-08-14T15:45:19.607",
+        "titles": [
+          {
+            "title": "Intel CD1P64GK Firmware Gkaplcpx.86a",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:cd1p64gk_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel CD1P64GK Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:cd1p64gk_firmware:0053:*:*:*:*:*:*:*",
+      "title": "Intel CD1P64GK Firmware 0053",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:cd1p64gk_firmware:gkaplcpx.86a:*:*:*:*:*:*:*",
+      "title": "Intel CD1P64GK Firmware Gkaplcpx.86a",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

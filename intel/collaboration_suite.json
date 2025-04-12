@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:collaboration_suite:-:*:*:*:*:webrtc:*:*",
+        "cpeNameId": "8AF89AA6-E49E-4C66-9557-AEF7FF6DE230",
+        "lastModified": "2021-02-18T16:15:59.457",
+        "created": "2021-02-18T16:15:59.457",
+        "titles": [
+          {
+            "title": "Intel Collaboration Suite for WebRTC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:collaboration_suite:4.3.1:*:*:*:*:webrtc:*:*",
+        "cpeNameId": "F581CDB9-07AC-40EC-8541-4DC0FEC60837",
+        "lastModified": "2021-02-18T16:15:59.833",
+        "created": "2021-02-18T16:15:59.833",
+        "titles": [
+          {
+            "title": "Intel Collaboration Suite 4.3.1 for WebRTC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:collaboration_suite:-:*:*:*:*:webrtc:*:*",
+      "title": "Intel Collaboration Suite for WebRTC",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:collaboration_suite:4.3.1:*:*:*:*:webrtc:*:*",
+      "title": "Intel Collaboration Suite 4.3.1 for WebRTC",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

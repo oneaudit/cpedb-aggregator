@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:client_nvme:4.0.0.1006:*:*:*:*:*:*:*",
+        "cpeNameId": "FCE910A3-B44A-4A1A-879F-3199561F0AAB",
+        "lastModified": "2020-11-09T20:48:09.227",
+        "created": "2020-11-09T20:48:09.227",
+        "titles": [
+          {
+            "title": "Intel Client NVMe 4.0.0.1006",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:client_nvme:4.0.0.1007:*:*:*:*:*:*:*",
+        "cpeNameId": "37CC4A48-DB22-4698-AE99-9565EBAA22D3",
+        "lastModified": "2020-11-09T20:48:09.397",
+        "created": "2020-11-09T20:48:09.397",
+        "titles": [
+          {
+            "title": "Intel Client NVMe 4.0.0.1007",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:client_nvme:4.0.0.1006:*:*:*:*:*:*:*",
+      "title": "Intel Client NVMe 4.0.0.1006",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:client_nvme:4.0.0.1007:*:*:*:*:*:*:*",
+      "title": "Intel Client NVMe 4.0.0.1007",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

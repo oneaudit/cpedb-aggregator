@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:cm11ebi716w_firmware:ebtgl357.0071:*:*:*:*:*:*:*",
+        "cpeNameId": "CE0D75C1-8318-4294-B4E1-9F6B45913D98",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:22:13.193",
+        "titles": [
+          {
+            "title": "Intel CM11EBI716W Firmware  EBTGL357.0071",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:cm11ebi716w_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9F02C430-563E-4310-BF63-EF257A5C1EC5",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:22:13.193",
+        "titles": [
+          {
+            "title": "Intel CM11EBI716W Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:cm11ebi716w_firmware:ebtgl357.0071:*:*:*:*:*:*:*",
+      "title": "Intel CM11EBI716W Firmware  EBTGL357.0071",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:cm11ebi716w_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel CM11EBI716W Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

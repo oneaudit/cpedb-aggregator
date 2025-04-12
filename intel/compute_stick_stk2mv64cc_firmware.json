@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:compute_stick_stk2mv64cc_firmware:ccsklm5v.0067:*:*:*:*:*:*:*",
+        "cpeNameId": "AD9C8177-9463-489E-A7D2-086BD7224B02",
+        "lastModified": "2023-05-22T13:20:37.577",
+        "created": "2023-05-17T15:35:43.707",
+        "titles": [
+          {
+            "title": "Intel Compute Stick STK2mv64CC Firmware CCSKLm5v.0067",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:compute_stick_stk2mv64cc_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "935D632D-68F1-4AB5-9541-37949F064C9E",
+        "lastModified": "2023-08-30T13:03:17.610",
+        "created": "2023-08-18T14:23:32.510",
+        "titles": [
+          {
+            "title": "Intel Compute Stick STK2MV64CC Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:compute_stick_stk2mv64cc_firmware:ccsklm5v.0067:*:*:*:*:*:*:*",
+      "title": "Intel Compute Stick STK2mv64CC Firmware CCSKLm5v.0067",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:compute_stick_stk2mv64cc_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Compute Stick STK2MV64CC Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

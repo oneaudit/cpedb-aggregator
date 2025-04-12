@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:coffee_lake:-:*:*:*:client:*:*:*",
+        "cpeNameId": "74D27E39-18ED-4FBC-9425-DB2DBFFCE81B",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Coffee Lake Client Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:coffee_lake:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DE94B56D-5E7F-408D-A031-AA88A0650ED5",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Coffee Lake",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:coffee_lake:-:*:*:*:client:*:*:*",
+      "title": "Intel Coffee Lake Client Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:coffee_lake:-:*:*:*:*:*:*:*",
+      "title": "Intel Coffee Lake",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
