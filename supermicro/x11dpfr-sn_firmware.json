@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:supermicro:x11dpfr-sn_firmware:1.71.5:*:*:*:*:*:*:*",
+        "cpeNameId": "F9EC68E5-7392-4AF9-A7E9-7F7BF3824563",
+        "lastModified": "2021-05-25T21:28:06.160",
+        "created": "2019-09-23T14:02:29.347",
+        "titles": [
+          {
+            "title": "Supermicro X11dpfr-sn Firmware 1.71.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:supermicro:x11dpfr-sn_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9595ED7C-8444-4EF5-AC7C-B63D8CD148A9",
+        "lastModified": "2023-05-11T18:05:27.057",
+        "created": "2023-04-13T18:42:58.820",
+        "titles": [
+          {
+            "title": "Supermicro X11DPFR-SN Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:supermicro:x11dpfr-sn_firmware:3.17.02:*:*:*:*:*:*:*",
+        "cpeNameId": "BD6D449A-FF85-4AAD-B635-52C027936F3D",
+        "lastModified": "2023-12-12T13:55:58.383",
+        "created": "2023-12-12T13:55:58.383",
+        "titles": [
+          {
+            "title": "Super Micro X11DPFR-SN Firmware 3.17.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:supermicro:x11dpfr-sn_firmware:1.71.5:*:*:*:*:*:*:*",
+      "title": "Supermicro X11dpfr-sn Firmware 1.71.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:supermicro:x11dpfr-sn_firmware:-:*:*:*:*:*:*:*",
+      "title": "Supermicro X11DPFR-SN Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:supermicro:x11dpfr-sn_firmware:3.17.02:*:*:*:*:*:*:*",
+      "title": "Super Micro X11DPFR-SN Firmware 3.17.02",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

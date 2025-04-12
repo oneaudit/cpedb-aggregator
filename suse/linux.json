@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:suse:linux:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9EAE96CD-3CF3-4DD8-AC0F-5BDDC279EA1A",
+        "lastModified": "2013-01-10T19:06:02.303",
+        "created": "2007-11-29T16:31:46.827",
+        "titles": [
+          {
+            "title": "Novell SUSE Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:novell:suse_linux:-:*:*:*:*:*:*:*",
+            "cpeNameId": "50D9EE73-5B1A-4644-BD04-08490AD14B93"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:suse:linux:10.1:*:*:*:*:*:*:*",
+        "cpeNameId": "61A18C17-7ED5-46DA-B207-C2453EE8461F",
+        "lastModified": "2020-11-20T17:50:12.247",
+        "created": "2020-11-20T17:50:12.247",
+        "titles": [
+          {
+            "title": "SUSE Linux 10.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:suse:linux:-:*:*:*:*:*:*:*",
+      "title": "Novell SUSE Linux",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:novell:suse_linux:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:suse:linux:10.1:*:*:*:*:*:*:*",
+      "title": "SUSE Linux 10.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

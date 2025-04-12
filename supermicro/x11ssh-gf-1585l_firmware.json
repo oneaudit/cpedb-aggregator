@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:supermicro:x11ssh-gf-1585l_firmware:1.56:*:*:*:*:*:*:*",
+        "cpeNameId": "F82C90FA-8998-4D95-B43E-90CB1C3502FE",
+        "lastModified": "2021-05-17T15:50:55.420",
+        "created": "2019-09-23T14:02:29.347",
+        "titles": [
+          {
+            "title": "Supermicro X11ssh-gf-1585l Firmware 1.56",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:supermicro:x11ssh-gf-1585l_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "296EC6AB-139A-4B4E-9F47-BFD2FA85A9D9",
+        "lastModified": "2023-05-11T18:05:27.057",
+        "created": "2023-04-13T18:42:58.820",
+        "titles": [
+          {
+            "title": "Supermicro X11SSH-GF-1585L Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:supermicro:x11ssh-gf-1585l_firmware:3.17.02:*:*:*:*:*:*:*",
+        "cpeNameId": "5A5A48A9-247A-4B4A-9A48-91388B06CD4E",
+        "lastModified": "2023-12-12T13:55:58.383",
+        "created": "2023-12-12T13:55:58.383",
+        "titles": [
+          {
+            "title": "Super Micro X11SSH-GF-1585L Firmware 3.17.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:supermicro:x11ssh-gf-1585l_firmware:1.56:*:*:*:*:*:*:*",
+      "title": "Supermicro X11ssh-gf-1585l Firmware 1.56",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:supermicro:x11ssh-gf-1585l_firmware:-:*:*:*:*:*:*:*",
+      "title": "Supermicro X11SSH-GF-1585L Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:supermicro:x11ssh-gf-1585l_firmware:3.17.02:*:*:*:*:*:*:*",
+      "title": "Super Micro X11SSH-GF-1585L Firmware 3.17.02",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

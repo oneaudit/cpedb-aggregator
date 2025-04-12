@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:supermicro:x11spi-tf_firmware:1.71.6:*:*:*:*:*:*:*",
+        "cpeNameId": "60A9644D-CDEE-4959-A11A-51509F5B49EB",
+        "lastModified": "2021-05-17T15:50:55.420",
+        "created": "2019-09-23T14:02:29.347",
+        "titles": [
+          {
+            "title": "Supermicro X11spi-tf Firmware 1.71.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:supermicro:x11spi-tf_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A409C50A-261B-4181-9998-519CE7408AFE",
+        "lastModified": "2023-05-11T18:05:27.057",
+        "created": "2023-04-13T18:42:58.820",
+        "titles": [
+          {
+            "title": "Supermicro X11SPI-TF Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:supermicro:x11spi-tf_firmware:3.17.02:*:*:*:*:*:*:*",
+        "cpeNameId": "00F7E70C-8397-4C4A-B28E-F5AF51B32614",
+        "lastModified": "2023-12-12T13:55:58.383",
+        "created": "2023-12-12T13:55:58.383",
+        "titles": [
+          {
+            "title": "Super Micro X11SPI-TF Firmware 3.17.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:supermicro:x11spi-tf_firmware:1.71.6:*:*:*:*:*:*:*",
+      "title": "Supermicro X11spi-tf Firmware 1.71.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:supermicro:x11spi-tf_firmware:-:*:*:*:*:*:*:*",
+      "title": "Supermicro X11SPI-TF Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:supermicro:x11spi-tf_firmware:3.17.02:*:*:*:*:*:*:*",
+      "title": "Super Micro X11SPI-TF Firmware 3.17.02",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
