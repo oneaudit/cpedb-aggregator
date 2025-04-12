@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:poweredge_fc630_firmware:2.19.0:*:*:*:*:*:*:*",
+        "cpeNameId": "845C6824-B213-49FE-B744-ABB07876A1A8",
+        "lastModified": "2025-01-27T18:37:45.880",
+        "created": "2025-01-27T18:37:45.880",
+        "titles": [
+          {
+            "title": "Dell PowerEdge FC630 Firmware 2.19.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:poweredge_fc630_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "28999346-FEC1-467F-8912-183C77047528",
+        "lastModified": "2025-01-27T18:37:45.880",
+        "created": "2025-01-27T18:37:45.880",
+        "titles": [
+          {
+            "title": "Dell PowerEdge FC630 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:poweredge_fc630_firmware:2.19.0:*:*:*:*:*:*:*",
+      "title": "Dell PowerEdge FC630 Firmware 2.19.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:poweredge_fc630_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell PowerEdge FC630 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

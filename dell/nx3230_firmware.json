@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:nx3230_firmware:2.19.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D80D4B0B-0FFF-4BDB-83EB-98863491934F",
+        "lastModified": "2025-01-28T17:30:06.587",
+        "created": "2025-01-28T17:30:06.587",
+        "titles": [
+          {
+            "title": "Dell NX3230 Firmware 2.19.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:nx3230_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "90B57C05-7F2A-465C-A351-9A767C813E81",
+        "lastModified": "2025-01-28T17:30:06.587",
+        "created": "2025-01-28T17:30:06.587",
+        "titles": [
+          {
+            "title": "Dell NX3230 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:nx3230_firmware:2.19.0:*:*:*:*:*:*:*",
+      "title": "Dell NX3230 Firmware 2.19.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:nx3230_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell NX3230 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

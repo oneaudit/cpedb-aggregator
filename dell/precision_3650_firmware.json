@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:precision_3650_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F25EFAEC-391D-4CB6-9CAE-B968C451A025",
+        "lastModified": "2022-02-10T20:01:21.857",
+        "created": "2022-02-10T18:08:35.110",
+        "titles": [
+          {
+            "title": "Dell Precision 3650 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:precision_3650_firmware:1.16.0:*:*:*:*:*:*:*",
+        "cpeNameId": "ACFFD268-777E-426C-A828-175DA13F4B34",
+        "lastModified": "2023-02-08T15:42:25.457",
+        "created": "2023-02-08T14:08:28.290",
+        "titles": [
+          {
+            "title": "Dell Precision 3650 Firmware 1.16.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:precision_3650_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell Precision 3650 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:precision_3650_firmware:1.16.0:*:*:*:*:*:*:*",
+      "title": "Dell Precision 3650 Firmware 1.16.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

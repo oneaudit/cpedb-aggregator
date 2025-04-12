@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:peripheral_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9F29B234-CE41-4467-A7BA-17C6D70A0FF3",
+        "lastModified": "2024-08-01T14:43:29.800",
+        "created": "2024-08-01T14:43:29.800",
+        "titles": [
+          {
+            "title": "Dell Peripheral Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:peripheral_manager:1.3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "2EEF72DE-D0A5-4E3C-B3F8-2FD9F06B2B9D",
+        "lastModified": "2024-08-01T14:43:29.800",
+        "created": "2024-08-01T14:43:29.800",
+        "titles": [
+          {
+            "title": "Dell Peripheral Manager 1.3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:peripheral_manager:1.7.6:*:*:*:*:*:*:*",
+        "cpeNameId": "93B0519B-6E05-4C0A-8B7A-3D1C5C494A5F",
+        "lastModified": "2024-08-01T14:43:57.187",
+        "created": "2024-08-01T14:43:57.187",
+        "titles": [
+          {
+            "title": "Dell Peripheral Manager 1.7.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:peripheral_manager:-:*:*:*:*:*:*:*",
+      "title": "Dell Peripheral Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:peripheral_manager:1.3.1:*:*:*:*:*:*:*",
+      "title": "Dell Peripheral Manager 1.3.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:peripheral_manager:1.7.6:*:*:*:*:*:*:*",
+      "title": "Dell Peripheral Manager 1.7.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:powerflex_presentation_server:3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "300D7204-0840-4374-AB1E-BA18234DE345",
+        "lastModified": "2021-07-14T16:02:34.923",
+        "created": "2021-07-14T12:58:45.740",
+        "titles": [
+          {
+            "title": "Dell PowerFlex Presentation Server 3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:powerflex_presentation_server:3.6:*:*:*:*:*:*:*",
+        "cpeNameId": "9518334E-9514-4D43-B481-B47EF3B0180D",
+        "lastModified": "2021-07-14T16:02:34.923",
+        "created": "2021-07-14T12:58:45.740",
+        "titles": [
+          {
+            "title": "Dell PowerFlex Presentation Server 3.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:powerflex_presentation_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "36B1CB3B-3098-4C9F-826E-F9E7FA8338A9",
+        "lastModified": "2021-07-14T16:02:34.923",
+        "created": "2021-07-14T12:58:45.740",
+        "titles": [
+          {
+            "title": "Dell PowerFlex Presentation Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:powerflex_presentation_server:3.5:*:*:*:*:*:*:*",
+      "title": "Dell PowerFlex Presentation Server 3.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:powerflex_presentation_server:3.6:*:*:*:*:*:*:*",
+      "title": "Dell PowerFlex Presentation Server 3.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:powerflex_presentation_server:-:*:*:*:*:*:*:*",
+      "title": "Dell PowerFlex Presentation Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

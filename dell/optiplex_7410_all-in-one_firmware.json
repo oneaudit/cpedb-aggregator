@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:optiplex_7410_all-in-one_firmware:1.4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "704BD3BE-7B52-4F07-9D7A-E15831079CDC",
+        "lastModified": "2023-06-30T18:15:38.527",
+        "created": "2023-06-30T18:11:20.937",
+        "titles": [
+          {
+            "title": "Dell Optiplex 7410 All-in-One Firmware 1.4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:optiplex_7410_all-in-one_firmware:1.6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8AA6E867-DC34-47E7-9304-DF61B58ED27B",
+        "lastModified": "2023-08-25T07:27:41.133",
+        "created": "2023-08-22T16:30:08.117",
+        "titles": [
+          {
+            "title": "Dell Optiplex 7410 All-in-one Firmware 1.6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:optiplex_7410_all-in-one_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3E8CEA5A-8D95-4A15-8576-C78D6059425B",
+        "lastModified": "2023-08-25T07:27:41.133",
+        "created": "2023-08-22T16:30:08.117",
+        "titles": [
+          {
+            "title": "Dell Optiplex 7410 All-in-one Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:optiplex_7410_all-in-one_firmware:1.4.1:*:*:*:*:*:*:*",
+      "title": "Dell Optiplex 7410 All-in-One Firmware 1.4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:optiplex_7410_all-in-one_firmware:1.6.0:*:*:*:*:*:*:*",
+      "title": "Dell Optiplex 7410 All-in-one Firmware 1.6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:optiplex_7410_all-in-one_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell Optiplex 7410 All-in-one Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

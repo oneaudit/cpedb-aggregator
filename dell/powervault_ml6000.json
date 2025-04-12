@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:dell:powervault_ml6000:41u:*:*:*:*:*:*:*",
+        "cpeNameId": "C1BE262C-C530-4091-A5AF-65A34E611E45",
+        "lastModified": "2012-03-22T19:02:10.580",
+        "created": "2012-03-22T17:18:10.707",
+        "titles": [
+          {
+            "title": "Dell PowerVault ML6000 tape library (ML6000 family) 41U system",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:dell:powervault_ml6000:32u:*:*:*:*:*:*:*",
+        "cpeNameId": "4D02BC7F-828C-4B57-A4DD-615B84686074",
+        "lastModified": "2012-03-22T19:02:10.533",
+        "created": "2012-03-22T17:18:10.893",
+        "titles": [
+          {
+            "title": "Dell PowerVault ML6000 tape library (ML6000 family) 32U system",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:dell:powervault_ml6000:41u:*:*:*:*:*:*:*",
+      "title": "Dell PowerVault ML6000 tape library (ML6000 family) 41U system",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:dell:powervault_ml6000:32u:*:*:*:*:*:*:*",
+      "title": "Dell PowerVault ML6000 tape library (ML6000 family) 32U system",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

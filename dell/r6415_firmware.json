@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:r6415_firmware:1.18.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1B0198AB-2CC7-4EE2-9880-0DDC24E7D6A4",
+        "lastModified": "2022-05-09T17:42:05.897",
+        "created": "2022-05-02T17:26:53.420",
+        "titles": [
+          {
+            "title": "Dell R6415 Firmware 1.18.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:r6415_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E608B66C-B401-4FF2-9D11-52D092F0BC0B",
+        "lastModified": "2022-05-09T17:42:05.897",
+        "created": "2022-05-02T17:26:53.420",
+        "titles": [
+          {
+            "title": "Dell R6415 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:r6415_firmware:1.18.0:*:*:*:*:*:*:*",
+      "title": "Dell R6415 Firmware 1.18.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:r6415_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell R6415 Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

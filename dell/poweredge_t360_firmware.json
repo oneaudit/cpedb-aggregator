@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:poweredge_t360_firmware:1.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "07BE7E69-84E3-4EC1-9BB6-6FF2A5D7B3FF",
+        "lastModified": "2025-01-27T18:37:45.880",
+        "created": "2025-01-27T18:37:45.880",
+        "titles": [
+          {
+            "title": "Dell PowerEdge T360 Firmware 1.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:poweredge_t360_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "78076815-27BB-48DC-B9C4-65AF3F55653D",
+        "lastModified": "2025-01-27T18:37:45.880",
+        "created": "2025-01-27T18:37:45.880",
+        "titles": [
+          {
+            "title": "Dell PowerEdge T360 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:poweredge_t360_firmware:1.1.1:*:*:*:*:*:*:*",
+      "title": "Dell PowerEdge T360 Firmware 1.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:poweredge_t360_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell PowerEdge T360 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

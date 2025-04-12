@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:r1-2210_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CB48F7AC-9F7E-46FC-B85C-28A97449012F",
+        "lastModified": "2021-05-19T14:36:42.823",
+        "created": "2020-04-13T11:13:45.777",
+        "titles": [
+          {
+            "title": "Dell R1-2210 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:r1-2210_firmware:3.0.1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "CA478AC4-3C04-4423-B522-3379148D087D",
+        "lastModified": "2021-05-19T14:36:42.823",
+        "created": "2020-04-13T11:13:45.777",
+        "titles": [
+          {
+            "title": "Dell R1-2210 Firmware 3.0.1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:r1-2210_firmware:2.0.0.82:*:*:*:*:*:*:*",
+        "cpeNameId": "A8F52680-CBEC-4C5A-8DFC-AE103DBAE8C0",
+        "lastModified": "2021-05-19T14:36:42.823",
+        "created": "2021-05-06T12:21:32.603",
+        "titles": [
+          {
+            "title": "Dell R1-2210 FIRMWARE 2.0.0.82",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:r1-2210_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell R1-2210 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:r1-2210_firmware:3.0.1.2:*:*:*:*:*:*:*",
+      "title": "Dell R1-2210 Firmware 3.0.1.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:r1-2210_firmware:2.0.0.82:*:*:*:*:*:*:*",
+      "title": "Dell R1-2210 FIRMWARE 2.0.0.82",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

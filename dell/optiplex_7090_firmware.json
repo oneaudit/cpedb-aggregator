@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:optiplex_7090_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3089E6F3-29CE-4621-A5BE-3ED2D2C29D70",
+        "lastModified": "2022-02-10T20:01:21.857",
+        "created": "2022-02-10T18:08:35.110",
+        "titles": [
+          {
+            "title": "Dell Optiplex 7090 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:optiplex_7090_firmware:1.12.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6B11287E-32BC-444C-AB82-255B823BD3DC",
+        "lastModified": "2023-02-08T15:42:25.457",
+        "created": "2023-02-08T14:10:36.487",
+        "titles": [
+          {
+            "title": "Dell Optiplex 7090 Firmware 1.12.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:optiplex_7090_firmware:1.19.0:*:*:*:*:*:*:*",
+        "cpeNameId": "67452881-AFF2-4ADF-ACE9-A1B097033BBE",
+        "lastModified": "2023-08-25T07:27:41.133",
+        "created": "2023-08-22T16:30:43.800",
+        "titles": [
+          {
+            "title": "Dell Optiplex 7090 Firmware 1.19.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:optiplex_7090_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell Optiplex 7090 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:optiplex_7090_firmware:1.12.0:*:*:*:*:*:*:*",
+      "title": "Dell Optiplex 7090 Firmware 1.12.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:optiplex_7090_firmware:1.19.0:*:*:*:*:*:*:*",
+      "title": "Dell Optiplex 7090 Firmware 1.19.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

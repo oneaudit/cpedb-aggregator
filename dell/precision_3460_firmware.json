@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:precision_3460_firmware:1.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "999AF366-E931-40BC-98CD-B8E165509085",
+        "lastModified": "2023-02-08T15:42:25.457",
+        "created": "2023-02-08T14:09:31.107",
+        "titles": [
+          {
+            "title": "Dell Precision 3460 Firmware 1.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:precision_3460_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CCAA0DE6-FCD4-4A40-B859-F8CB2AE7B45B",
+        "lastModified": "2023-02-08T15:42:25.457",
+        "created": "2023-02-08T14:09:31.107",
+        "titles": [
+          {
+            "title": "Dell Precision 3460 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:precision_3460_firmware:1.4.2:*:*:*:*:*:*:*",
+      "title": "Dell Precision 3460 Firmware 1.4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:precision_3460_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell Precision 3460 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

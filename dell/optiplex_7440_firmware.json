@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:optiplex_7440_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C8107AA2-D649-47C0-9DA7-AD09C654E5D0",
+        "lastModified": "2020-03-06T20:00:11.527",
+        "created": "2020-03-06T20:00:11.527",
+        "titles": [
+          {
+            "title": "Dell OptiPlex 7440 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:optiplex_7440_firmware:1.11.1:*:*:*:*:*:*:*",
+        "cpeNameId": "FAF45E61-04F1-4466-A951-6670A4D5F036",
+        "lastModified": "2020-03-06T20:00:12.383",
+        "created": "2020-03-06T20:00:12.383",
+        "titles": [
+          {
+            "title": "Dell OptiPlex 7440 Firmware 1.11.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:optiplex_7440_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell OptiPlex 7440 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:optiplex_7440_firmware:1.11.1:*:*:*:*:*:*:*",
+      "title": "Dell OptiPlex 7440 Firmware 1.11.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

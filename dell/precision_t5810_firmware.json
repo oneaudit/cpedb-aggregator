@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:precision_t5810_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "36CE19C8-1306-4F6F-8B35-04F1C640743D",
+        "lastModified": "2021-05-19T14:36:42.823",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell Precision T5810 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:precision_t5810_firmware:a30:*:*:*:*:*:*:*",
+        "cpeNameId": "7234E8F1-51EC-4A74-813A-D9CA16F8B878",
+        "lastModified": "2021-05-19T14:36:42.823",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell Precision T5810 Firmware A30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:precision_t5810_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell Precision T5810 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:precision_t5810_firmware:a30:*:*:*:*:*:*:*",
+      "title": "Dell Precision T5810 Firmware A30",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

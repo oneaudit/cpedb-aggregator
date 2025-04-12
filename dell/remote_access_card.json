@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:dell:remote_access_card:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5F7A583D-0A3C-4D52-A839-B899043E87C9",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Dell Remote Access Card",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:dell:remote_access_card:4:*:*:*:*:*:*:*",
+        "cpeNameId": "C1728E8F-D0E2-45C3-BBC6-2334C03CA5A3",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Dell Remote Access Card 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:dell:remote_access_card:-:*:*:*:*:*:*:*",
+      "title": "Dell Remote Access Card",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:dell:remote_access_card:4:*:*:*:*:*:*:*",
+      "title": "Dell Remote Access Card 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

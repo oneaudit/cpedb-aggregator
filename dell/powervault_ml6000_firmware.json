@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:powervault_ml6000_firmware:590g.gs00100:*:*:*:*:*:*:*",
+        "cpeNameId": "3E0A5FFD-1E2C-4766-9072-66495D136770",
+        "lastModified": "2012-03-22T19:02:09.753",
+        "created": "2012-03-22T17:18:10.207",
+        "titles": [
+          {
+            "title": "Dell PowerVault ML6000 tape library firmware 590G.GS00100 (ML6000 family)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:powervault_ml6000_firmware:585g.gs003:*:*:*:*:*:*:*",
+        "cpeNameId": "61EBC598-C239-4B25-8A04-5A84B204769C",
+        "lastModified": "2012-03-22T19:02:09.690",
+        "created": "2012-03-22T17:18:10.317",
+        "titles": [
+          {
+            "title": "Dell PowerVault ML6000 tape library firmware 585G.GS003 (ML6000 family)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:powervault_ml6000_firmware:i8.2.0.1_\\(641g.gs003\\):*:*:*:*:*:*:*",
+        "cpeNameId": "290636E9-642F-447B-83DB-BEC23556D14F",
+        "lastModified": "2014-07-08T19:06:31.077",
+        "created": "2014-06-03T17:20:40.230",
+        "titles": [
+          {
+            "title": "Dell PowerVault ML6000 tape library firmware i8.2.0.1 (641G.GS003) (ML6000 family)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:powervault_ml6000_firmware:i8.2.0.2_\\(641g.gs103\\):*:*:*:*:*:*:*",
+        "cpeNameId": "C25E5FBD-A857-4A71-B013-0FE52EF65CD9",
+        "lastModified": "2014-07-08T19:06:31.233",
+        "created": "2014-06-03T17:20:40.747",
+        "titles": [
+          {
+            "title": "Dell PowerVault ML6000 tape library firmware i8.2.0.2 (641G.GS103) (ML6000 family)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:powervault_ml6000_firmware:590g.gs00100:*:*:*:*:*:*:*",
+      "title": "Dell PowerVault ML6000 tape library firmware 590G.GS00100 (ML6000 family)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:powervault_ml6000_firmware:585g.gs003:*:*:*:*:*:*:*",
+      "title": "Dell PowerVault ML6000 tape library firmware 585G.GS003 (ML6000 family)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:powervault_ml6000_firmware:i8.2.0.1_\\(641g.gs003\\):*:*:*:*:*:*:*",
+      "title": "Dell PowerVault ML6000 tape library firmware i8.2.0.1 (641G.GS003) (ML6000 family)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:powervault_ml6000_firmware:i8.2.0.2_\\(641g.gs103\\):*:*:*:*:*:*:*",
+      "title": "Dell PowerVault ML6000 tape library firmware i8.2.0.2 (641G.GS103) (ML6000 family)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

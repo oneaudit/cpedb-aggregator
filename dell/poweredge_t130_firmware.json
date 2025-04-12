@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:poweredge_t130_firmware:2.20.0:*:*:*:*:*:*:*",
+        "cpeNameId": "29AA94DE-8EAE-4B24-B227-DBC2843365F1",
+        "lastModified": "2025-01-27T18:37:45.880",
+        "created": "2025-01-27T18:37:45.880",
+        "titles": [
+          {
+            "title": "Dell PowerEdge T130 Firmware 2.20.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:poweredge_t130_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CE86276F-2612-4591-965E-BB908CECDE24",
+        "lastModified": "2025-01-27T18:37:45.880",
+        "created": "2025-01-27T18:37:45.880",
+        "titles": [
+          {
+            "title": "Dell PowerEdge T130 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:poweredge_t130_firmware:2.20.0:*:*:*:*:*:*:*",
+      "title": "Dell PowerEdge T130 Firmware 2.20.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:poweredge_t130_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell PowerEdge T130 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
