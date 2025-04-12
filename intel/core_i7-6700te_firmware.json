@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700te_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "17CAA04F-CBB2-4963-ACD5-E98002F857FF",
+        "lastModified": "2019-12-02T17:29:18.457",
+        "created": "2019-12-02T17:29:18.457",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700TE Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700te_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "A6F4CEC2-C892-49BD-9C68-D3C4B9C6D64A",
+        "lastModified": "2020-01-13T14:14:30.730",
+        "created": "2020-01-13T14:14:30.730",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700TE Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700te_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "65D717D2-D7C3-408F-8779-19510B50A461",
+        "lastModified": "2020-01-13T14:14:31.120",
+        "created": "2020-01-13T14:14:31.120",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700TE Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700te_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6700TE Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700te_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6700TE Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700te_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6700TE Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

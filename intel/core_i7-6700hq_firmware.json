@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700hq_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "FC29A46F-A514-47A2-B021-B8305FA107BE",
+        "lastModified": "2020-01-13T14:14:28.823",
+        "created": "2020-01-13T14:14:28.823",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700HQ Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700hq_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "7DD2F746-7FD8-465F-A095-8CD19FEAB75B",
+        "lastModified": "2020-01-13T14:14:29.230",
+        "created": "2020-01-13T14:14:29.230",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700HQ Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700hq_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1C2C1F52-3DB3-4D97-A4E1-AECBB0813BD0",
+        "lastModified": "2020-03-23T18:34:45.213",
+        "created": "2020-03-23T18:34:45.213",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700HQ Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700hq_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6700HQ Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700hq_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6700HQ Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700hq_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6700HQ Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

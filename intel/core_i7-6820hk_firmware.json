@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6820hk_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "B211FBF4-9AA4-4335-9F26-F1091A9B0F24",
+        "lastModified": "2020-01-13T14:14:33.307",
+        "created": "2020-01-13T14:14:33.307",
+        "titles": [
+          {
+            "title": "Intel Core i7-6820HK Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6820hk_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "425DDBDE-7E25-4BA8-950A-DBBDE7916E5C",
+        "lastModified": "2020-01-13T14:14:33.730",
+        "created": "2020-01-13T14:14:33.730",
+        "titles": [
+          {
+            "title": "Intel Core i7-6820HK Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6820hk_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D5CF8DE1-7718-4D90-BB72-D99268C6B91F",
+        "lastModified": "2020-03-23T18:34:46.480",
+        "created": "2020-03-23T18:34:46.480",
+        "titles": [
+          {
+            "title": "Intel Core i7-6820HK Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6820hk_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6820HK Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6820hk_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6820HK Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6820hk_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6820HK Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

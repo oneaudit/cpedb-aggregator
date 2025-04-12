@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6650u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7281220C-BB5A-4009-BB43-B75726CA2AC5",
+        "lastModified": "2019-12-02T17:29:16.427",
+        "created": "2019-12-02T17:29:16.427",
+        "titles": [
+          {
+            "title": "Intel Core i7-6650U Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6650u_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "93F9CA94-0073-4395-8D54-83D5FAB2006A",
+        "lastModified": "2020-01-13T14:14:26.947",
+        "created": "2020-01-13T14:14:26.947",
+        "titles": [
+          {
+            "title": "Intel Core i7-6650U Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6650u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "2352F453-E45C-4246-B147-308DAC0D386E",
+        "lastModified": "2020-01-13T14:14:27.370",
+        "created": "2020-01-13T14:14:27.370",
+        "titles": [
+          {
+            "title": "Intel Core i7-6650U Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6650u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6650U Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6650u_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6650U Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6650u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6650U Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

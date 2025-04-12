@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6500u_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "23A05205-169B-4343-9693-BF9296D068AA",
+        "lastModified": "2020-01-13T14:14:23.947",
+        "created": "2020-01-13T14:14:23.947",
+        "titles": [
+          {
+            "title": "Intel Core i7-6500U Firmware For Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6500u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "D86DF8CA-30B2-44AC-BC06-8B7A9E03FF5D",
+        "lastModified": "2020-01-13T14:14:24.340",
+        "created": "2020-01-13T14:14:24.340",
+        "titles": [
+          {
+            "title": "Intel Core i7-6500U Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6500u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "43064677-8770-42B1-857D-57D858C3859D",
+        "lastModified": "2020-03-23T18:34:43.307",
+        "created": "2020-03-23T18:34:43.307",
+        "titles": [
+          {
+            "title": "Intel Core i7-6500U Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6500u_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6500U Firmware For Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6500u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6500U Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6500u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6500U Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

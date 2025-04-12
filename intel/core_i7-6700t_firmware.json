@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700t_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "98C133E3-C28B-4FC1-8867-B8EC1A9F2854",
+        "lastModified": "2019-12-02T17:29:17.943",
+        "created": "2019-12-02T17:29:17.943",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700T Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700t_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "63840ECF-8204-4C38-B2ED-7636AC685FD3",
+        "lastModified": "2020-01-13T14:14:30.057",
+        "created": "2020-01-13T14:14:30.057",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700T Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700t_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "275CCAF3-F030-4BC3-95DC-9999A00C9062",
+        "lastModified": "2020-01-13T14:14:30.497",
+        "created": "2020-01-13T14:14:30.497",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700T Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700t_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6700T Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700t_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6700T Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700t_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6700T Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

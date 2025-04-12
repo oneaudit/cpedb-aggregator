@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6820hq_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F7F4B11A-12E1-48A3-9C05-CCE2888CC3FA",
+        "lastModified": "2019-12-02T17:29:18.973",
+        "created": "2019-12-02T17:29:18.973",
+        "titles": [
+          {
+            "title": "Intel Core i7-6820HQ Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6820hq_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "42A404E1-7209-4E26-9529-C2FAF869DB33",
+        "lastModified": "2020-01-13T14:14:33.963",
+        "created": "2020-01-13T14:14:33.963",
+        "titles": [
+          {
+            "title": "Intel Core i7-6820HQ Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6820hq_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "E77BC8E5-F5CB-4080-B6A8-D3B418DEF04E",
+        "lastModified": "2020-01-13T14:14:34.357",
+        "created": "2020-01-13T14:14:34.357",
+        "titles": [
+          {
+            "title": "Intel Core i7-6820HQ Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6820hq_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6820HQ Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6820hq_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6820HQ Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6820hq_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6820HQ Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

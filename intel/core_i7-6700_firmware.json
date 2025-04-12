@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F2B82CF8-C388-4502-9346-229C21250C65",
+        "lastModified": "2019-12-02T17:29:17.427",
+        "created": "2019-12-02T17:29:17.427",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "71734D39-4984-4CC9-82A3-61E496830A03",
+        "lastModified": "2020-01-13T14:14:28.213",
+        "created": "2020-01-13T14:14:28.213",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "78813832-1B53-4D1A-9582-1AB5FA0B18BF",
+        "lastModified": "2020-01-13T14:14:28.607",
+        "created": "2020-01-13T14:14:28.607",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6700 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6700 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6700 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

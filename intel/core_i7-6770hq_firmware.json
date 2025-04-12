@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6770hq_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "ABF8C8CB-77EB-4301-ADDE-19ADF0A96166",
+        "lastModified": "2020-01-13T14:14:31.387",
+        "created": "2020-01-13T14:14:31.387",
+        "titles": [
+          {
+            "title": "Intel Core i7-6770HQ Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6770hq_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "242130A3-6780-45D2-86EC-EBF4ABB87B0E",
+        "lastModified": "2020-01-13T14:14:31.793",
+        "created": "2020-01-13T14:14:31.793",
+        "titles": [
+          {
+            "title": "Intel Core i7-6770HQ Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6770hq_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1EC5C573-753F-4FD2-8F28-5D7D7A8958E3",
+        "lastModified": "2020-03-23T18:34:45.837",
+        "created": "2020-03-23T18:34:45.837",
+        "titles": [
+          {
+            "title": "Intel Core i7-6770HQ Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6770hq_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6770HQ Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6770hq_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6770HQ Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6770hq_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6770HQ Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

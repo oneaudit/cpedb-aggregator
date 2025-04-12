@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6785r_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F1E4D6B8-9847-45D2-B165-53549E8DACDC",
+        "lastModified": "2019-12-02T16:57:42.200",
+        "created": "2019-12-02T16:57:42.200",
+        "titles": [
+          {
+            "title": "Intel Core i7-6785R Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6785r_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "29FD15D8-C60D-44C3-A21C-10885CF8B27F",
+        "lastModified": "2020-01-13T14:14:32.010",
+        "created": "2020-01-13T14:14:32.010",
+        "titles": [
+          {
+            "title": "Intel Core i7-6785R Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6785r_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "AA54ED6B-4FA6-4CE3-AB58-4A32BD4FC4D4",
+        "lastModified": "2020-01-13T14:14:32.433",
+        "created": "2020-01-13T14:14:32.433",
+        "titles": [
+          {
+            "title": "Intel Core i7-6785R Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6785r_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6785R Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6785r_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6785R Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6785r_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6785R Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

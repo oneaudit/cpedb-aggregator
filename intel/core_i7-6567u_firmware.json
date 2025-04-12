@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6567u_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "4310CBD3-F88B-42C8-80D5-EAC9A2D019BE",
+        "lastModified": "2020-01-13T14:14:25.247",
+        "created": "2020-01-13T14:14:25.247",
+        "titles": [
+          {
+            "title": "Intel Core i7-6567U Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6567u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "3AE128C0-4FFF-4317-8A40-8B0D4B775ADF",
+        "lastModified": "2020-01-13T14:14:25.933",
+        "created": "2020-01-13T14:14:25.933",
+        "titles": [
+          {
+            "title": "Intel Core i7-6567U Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6567u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B1BC2F59-9B9D-4C3C-A612-1D72BC963A6A",
+        "lastModified": "2020-03-23T18:34:44.587",
+        "created": "2020-03-23T18:34:44.587",
+        "titles": [
+          {
+            "title": "Intel Core i7-6567U Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6567u_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6567U Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6567u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6567U Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6567u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6567U Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

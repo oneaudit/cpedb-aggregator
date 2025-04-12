@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i5-8305g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "974FF3A2-E8D4-409E-8029-C275F9D81892",
+        "lastModified": "2020-03-23T18:34:25.680",
+        "created": "2020-03-23T18:34:25.680",
+        "titles": [
+          {
+            "title": "Intel Core i5-8305G Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i5-8305g_firmware:21.10:*:*:*:*:*:*:*",
+        "cpeNameId": "FFBE768D-47CD-489C-AFA3-855FFCA13ED6",
+        "lastModified": "2022-02-15T18:18:15.820",
+        "created": "2022-02-15T15:08:31.317",
+        "titles": [
+          {
+            "title": "Intel Core i5-8305G Firmware 21.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i5-8305g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i5-8305G Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i5-8305g_firmware:21.10:*:*:*:*:*:*:*",
+      "title": "Intel Core i5-8305G Firmware 21.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

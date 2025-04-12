@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700k_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "56C61E93-5D23-4EB9-836C-EBBBC1EA7D0C",
+        "lastModified": "2019-12-02T16:57:41.827",
+        "created": "2019-12-02T16:57:41.827",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700K Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700k_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "BB193536-2D72-4647-BB07-D25ACF243028",
+        "lastModified": "2020-01-13T14:14:29.447",
+        "created": "2020-01-13T14:14:29.447",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700K Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6700k_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "2912ABBB-0B42-417D-9D7D-FC210635AA2C",
+        "lastModified": "2020-01-13T14:14:29.857",
+        "created": "2020-01-13T14:14:29.857",
+        "titles": [
+          {
+            "title": "Intel Core i7-6700K Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700k_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6700K Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700k_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6700K Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6700k_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6700K Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
