@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netfortis:trixbox:1.2.0:*:*:*:community:*:*:*",
+        "cpeNameId": "5D3E4D7C-41A1-449A-B4C2-3F90812A408B",
+        "lastModified": "2022-04-18T09:36:58.413",
+        "created": "2020-05-08T17:59:06.713",
+        "titles": [
+          {
+            "title": "NetFortis Trixbox 1.2.0 Community Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:netfortris:trixbox:1.2.0:*:*:*:community:*:*:*",
+            "cpeNameId": "9EC3CBCE-DF48-467D-B3E1-0A5E2B64DB8F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netfortis:trixbox:2.8.0.4:*:*:*:community:*:*:*",
+        "cpeNameId": "AECD736E-3A40-442D-BED8-0CAF1F24A78B",
+        "lastModified": "2022-04-18T09:36:58.413",
+        "created": "2020-05-08T17:59:06.807",
+        "titles": [
+          {
+            "title": "NetFortis Trixbox 2.8.0.4 Community Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:netfortris:trixbox:2.8.0.4:*:*:*:community:*:*:*",
+            "cpeNameId": "2DB785D3-70E7-426D-8602-058C83B7AACB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netfortis:trixbox:1.2.0:*:*:*:community:*:*:*",
+      "title": "NetFortis Trixbox 1.2.0 Community Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:netfortris:trixbox:1.2.0:*:*:*:community:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:netfortis:trixbox:2.8.0.4:*:*:*:community:*:*:*",
+      "title": "NetFortis Trixbox 2.8.0.4 Community Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:netfortris:trixbox:2.8.0.4:*:*:*:community:*:*:*"
+    }
+  ]
+}

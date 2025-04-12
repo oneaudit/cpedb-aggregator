@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:solidfire_\\\u0026_hci_management_node:-:*:*:*:*:*:*:*",
+        "cpeNameId": "83043C52-A11C-452D-AB42-880A3C9221DB",
+        "lastModified": "2020-10-19T14:34:03.387",
+        "created": "2020-10-19T14:34:03.387",
+        "titles": [
+          {
+            "title": "NetApp SolidFire \u0026 HCI Management Node",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:solidfire_\\\u0026_hci_management_node:12.2:*:*:*:*:*:*:*",
+        "cpeNameId": "C88FD877-AFD4-419C-8C36-6B357E7C2399",
+        "lastModified": "2021-07-02T18:27:08.433",
+        "created": "2021-03-16T17:11:59.893",
+        "titles": [
+          {
+            "title": "NetApp SolidFire \u0026 HCI Management Node 12.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:solidfire_\\\u0026_hci_management_node:-:*:*:*:*:*:*:*",
+      "title": "NetApp SolidFire \u0026 HCI Management Node",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:solidfire_\\\u0026_hci_management_node:12.2:*:*:*:*:*:*:*",
+      "title": "NetApp SolidFire \u0026 HCI Management Node 12.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

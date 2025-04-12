@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:netapp:baseboard_management_controller_500f_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A148D6EE-DEDA-478B-975B-DF7BEB0AD4FB",
+        "lastModified": "2023-11-09T14:44:32.870",
+        "created": "2021-03-16T10:41:41.550",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller 500F Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:netapp:500f_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D39363B1-332F-48F3-A31E-9D29EEE3820D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:netapp:baseboard_management_controller_500f_firmware:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller 500F Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:netapp:500f_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

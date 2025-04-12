@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:snapcenter_plug-in:-:*:*:*:*:vmware_vsphere:*:*",
+        "cpeNameId": "319CD7F6-CC2B-4121-80A0-BBA415B4C068",
+        "lastModified": "2021-11-17T16:31:04.123",
+        "created": "2021-09-02T14:38:26.187",
+        "titles": [
+          {
+            "title": "NetApp SnapCenter Plug-in for VMware vSphere",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:snapcenter_plug-in:4.6:*:*:*:*:vmware_vsphere:*:*",
+        "cpeNameId": "F2299129-663C-40C7-A234-637F43CFE0E0",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "NetApp SnapCenter Plug-in 4.6 for VMware vSphere",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:snapcenter_plug-in:4.9:*:*:*:*:vmware_vsphere:*:*",
+        "cpeNameId": "C86117C7-A129-4F10-8D1B-6FD566B8905B",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "NetApp SnapCenter Plug-in 4.9 for VMware vSphere",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:snapcenter_plug-in:-:*:*:*:*:vmware_vsphere:*:*",
+      "title": "NetApp SnapCenter Plug-in for VMware vSphere",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:snapcenter_plug-in:4.6:*:*:*:*:vmware_vsphere:*:*",
+      "title": "NetApp SnapCenter Plug-in 4.6 for VMware vSphere",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:snapcenter_plug-in:4.9:*:*:*:*:vmware_vsphere:*:*",
+      "title": "NetApp SnapCenter Plug-in 4.9 for VMware vSphere",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

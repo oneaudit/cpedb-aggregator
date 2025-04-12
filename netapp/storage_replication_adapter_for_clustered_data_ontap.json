@@ -1,0 +1,116 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:9.6:*:*:*:*:*:*:*",
+        "cpeNameId": "5AE2CA4C-641A-4AC5-B5A8-3970AE16EE29",
+        "lastModified": "2021-07-02T18:27:08.433",
+        "created": "2021-03-09T15:17:49.553",
+        "titles": [
+          {
+            "title": "NetApp Storage Replication Adapter for Clustered Data ONTAP 9.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:9.6:*:*:*:*:vmware_vsphere:*:*",
+        "cpeNameId": "4AE25CC4-5309-4670-B870-29036B5E41E5",
+        "lastModified": "2021-07-02T18:27:08.433",
+        "created": "2021-03-09T15:18:36.350",
+        "titles": [
+          {
+            "title": "NetApp Storage Replication Adapter for Clustered Data ONTAP 9.6 for VMware vSphere",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:-:*:*:*:*:vmware_vsphere:*:*",
+        "cpeNameId": "25BC980E-F5DE-4485-BFC0-F1F09B267DEB",
+        "lastModified": "2021-07-02T18:27:08.433",
+        "created": "2021-03-09T15:18:36.350",
+        "titles": [
+          {
+            "title": "NetApp Storage Replication Adapter for Clustered Data ONTAP for VMware vSphere",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:7.2:*:*:*:*:windows:*:*",
+        "cpeNameId": "570AE4FA-A8DC-4424-9B65-F8F15CD80A80",
+        "lastModified": "2022-09-12T17:47:54.213",
+        "created": "2022-05-27T13:31:07.473",
+        "titles": [
+          {
+            "title": "NetApp Storage Replication Adapter For Clustered Data Ontap 7.2 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:9.7:*:*:*:*:vmware_vsphere:*:*",
+        "cpeNameId": "52513CF7-AEA7-498F-9002-3317B5DFA0BD",
+        "lastModified": "2022-09-12T17:47:54.213",
+        "created": "2022-05-27T17:55:19.610",
+        "titles": [
+          {
+            "title": "NetApp Storage Replication Adapter For Clustered Data Ontap 9.7 for Vmware Vsphere",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:9.6:*:*:*:*:*:*:*",
+      "title": "NetApp Storage Replication Adapter for Clustered Data ONTAP 9.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:9.6:*:*:*:*:vmware_vsphere:*:*",
+      "title": "NetApp Storage Replication Adapter for Clustered Data ONTAP 9.6 for VMware vSphere",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:-:*:*:*:*:vmware_vsphere:*:*",
+      "title": "NetApp Storage Replication Adapter for Clustered Data ONTAP for VMware vSphere",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:7.2:*:*:*:*:windows:*:*",
+      "title": "NetApp Storage Replication Adapter For Clustered Data Ontap 7.2 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:9.7:*:*:*:*:vmware_vsphere:*:*",
+      "title": "NetApp Storage Replication Adapter For Clustered Data Ontap 9.7 for Vmware Vsphere",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

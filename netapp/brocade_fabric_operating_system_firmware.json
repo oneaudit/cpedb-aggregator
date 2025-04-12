@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:netapp:brocade_fabric_operating_system_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "574BD5E2-0079-4912-8794-52563F287960",
+        "lastModified": "2021-06-22T14:47:55.630",
+        "created": "2020-12-22T16:59:35.673",
+        "titles": [
+          {
+            "title": "NetApp Brocade Fabric Operating System Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:broadcom:fabric_operating_system:-:*:*:*:*:*:*:*",
+            "cpeNameId": "126D959D-5227-48A3-9632-8A4460BDFFA3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:netapp:brocade_fabric_operating_system_firmware:-:*:*:*:*:*:*:*",
+      "title": "NetApp Brocade Fabric Operating System Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:broadcom:fabric_operating_system:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

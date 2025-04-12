@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h500e:-:*:*:*:*:*:*:*",
+        "cpeNameId": "65302607-1EF1-4231-8836-E233D2FC3099",
+        "lastModified": "2023-11-09T13:57:19.497",
+        "created": "2022-02-23T11:38:24.700",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller H500E",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:netapp:h500e:-:*:*:*:*:*:*:*",
+            "cpeNameId": "C3E337F5-2106-43F1-A123-B45B3A58749B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:netapp:baseboard_management_controller_h500e:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller H500E",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:netapp:h500e:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

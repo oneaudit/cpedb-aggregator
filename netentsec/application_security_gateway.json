@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netentsec:application_security_gateway:6.3:*:*:*:*:*:*:*",
+        "cpeNameId": "D8DC8B93-152E-4E93-AA83-B6D2412CAC45",
+        "lastModified": "2023-07-28T18:27:48.393",
+        "created": "2023-05-10T17:42:33.943",
+        "titles": [
+          {
+            "title": "NetentSec Application Security Gateway (NS-ASG) 6.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netentsec:application_security_gateway:6.3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4493B326-AFB8-4A1B-94F5-0E30F24FC368",
+        "lastModified": "2023-12-21T18:59:54.387",
+        "created": "2023-12-21T18:59:54.387",
+        "titles": [
+          {
+            "title": "NetentSec Application Security Gateway (NS-ASG) 6.3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netentsec:application_security_gateway:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F717DF74-3603-4D96-972B-B47DD315CAC1",
+        "lastModified": "2024-01-12T12:35:05.863",
+        "created": "2024-01-12T12:35:05.863",
+        "titles": [
+          {
+            "title": "Netentsec Application Security Gateway -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netentsec:application_security_gateway:6.3:*:*:*:*:*:*:*",
+      "title": "NetentSec Application Security Gateway (NS-ASG) 6.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netentsec:application_security_gateway:6.3.1:*:*:*:*:*:*:*",
+      "title": "NetentSec Application Security Gateway (NS-ASG) 6.3.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:netentsec:application_security_gateway:-:*:*:*:*:*:*:*",
+      "title": "Netentsec Application Security Gateway -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

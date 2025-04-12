@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:oncommand_balance:4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "3BB210BF-785E-49CC-A2FA-548B966D4AAE",
+        "lastModified": "2015-02-14T15:57:21.267",
+        "created": "2015-02-06T15:41:46.373",
+        "titles": [
+          {
+            "title": "Netapp OnCommand Balance 4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:oncommand_balance:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0C2BCC69-5AAF-4715-85F2-F2427D8D4A1D",
+        "lastModified": "2021-05-06T18:31:44.260",
+        "created": "2019-01-22T16:35:18.870",
+        "titles": [
+          {
+            "title": "Netapp Oncommand Balance -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:oncommand_balance:4.2:*:*:*:*:*:*:*",
+      "title": "Netapp OnCommand Balance 4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:oncommand_balance:-:*:*:*:*:*:*:*",
+      "title": "Netapp Oncommand Balance -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

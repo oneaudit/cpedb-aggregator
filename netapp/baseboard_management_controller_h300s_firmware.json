@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:netapp:baseboard_management_controller_h300s_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "84DE4C95-338C-45E3-BFCB-60CC11BDA327",
+        "lastModified": "2023-11-09T14:44:32.870",
+        "created": "2022-02-23T11:38:24.700",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller H300S Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:netapp:h300s_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5E8EB80E-A099-4E2A-A370-04A6010F69E0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:netapp:baseboard_management_controller_h300s_firmware:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller H300S Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:netapp:h300s_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

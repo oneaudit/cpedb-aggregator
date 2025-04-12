@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netapp:hci_compute_node:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EFC1CA01-6306-449A-B1C2-968D5076E2FE",
+        "lastModified": "2021-01-25T18:31:54.810",
+        "created": "2021-01-25T18:31:54.810",
+        "titles": [
+          {
+            "title": "NetApp HCI Compute Node",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:netapp:hci_compute_node:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5CEDD8D0-AEB2-4667-9909-4DB09EE343E8",
+        "lastModified": "2023-08-29T12:24:01.777",
+        "created": "2022-07-28T17:50:07.673",
+        "titles": [
+          {
+            "title": "NetApp Hci Compute Node -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:netapp:hci_compute_node:-:*:*:*:*:*:*:*",
+      "title": "NetApp HCI Compute Node",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:netapp:hci_compute_node:-:*:*:*:*:*:*:*",
+      "title": "NetApp Hci Compute Node -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

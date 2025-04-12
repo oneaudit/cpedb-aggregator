@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:netapp:baseboard_management_controller_h500s_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0DFCF3C6-DB95-4E3E-9429-3EEE018936E0",
+        "lastModified": "2023-11-09T14:44:32.870",
+        "created": "2022-02-23T11:38:24.700",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller H500S Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:netapp:h500s_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A7DAAFB3-F3C0-46F7-A8BC-D35C02C65260"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:netapp:baseboard_management_controller_h500s_firmware:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller H500S Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:netapp:h500s_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

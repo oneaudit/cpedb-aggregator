@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:netapp:baseboard_management_controller_h700s_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B06662C1-2582-4DB3-A503-7FBDA8CB9FE7",
+        "lastModified": "2023-11-09T14:44:32.870",
+        "created": "2022-02-23T11:38:24.700",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller H700S Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:netapp:h700s_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "60B6F1A1-012A-43FF-9F7F-126C1880295B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:netapp:baseboard_management_controller_h700s_firmware:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller H700S Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:netapp:h700s_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netcracker:resource_management_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "30E9086E-E3A1-4B1E-BFA7-87C6E56E2E3B",
+        "lastModified": "2020-02-12T19:10:02.283",
+        "created": "2020-02-12T19:10:02.283",
+        "titles": [
+          {
+            "title": "NetCracker Resource Management System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netcracker:resource_management_system:8.2:*:*:*:*:*:*:*",
+        "cpeNameId": "AE427CA6-B104-49D1-A08C-F73D9BE3C154",
+        "lastModified": "2020-02-12T19:10:02.547",
+        "created": "2020-02-12T19:10:02.547",
+        "titles": [
+          {
+            "title": "NetCracker Resource Management System 8.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netcracker:resource_management_system:-:*:*:*:*:*:*:*",
+      "title": "NetCracker Resource Management System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netcracker:resource_management_system:8.2:*:*:*:*:*:*:*",
+      "title": "NetCracker Resource Management System 8.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

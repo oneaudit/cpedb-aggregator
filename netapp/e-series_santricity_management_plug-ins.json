@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:e-series_santricity_management_plug-ins:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4BF948AB-CC46-4282-A062-680EA4A7E6C3",
+        "lastModified": "2021-05-06T13:13:46.937",
+        "created": "2019-03-20T17:13:39.940",
+        "titles": [
+          {
+            "title": "NetApp E-Series SANtricity Management Plug-ins -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:e-series_santricity_management_plug-ins:-:*:*:*:*:vmware_vcenter:*:*",
+        "cpeNameId": "3A1E07F0-04C9-4E65-B4C5-64B3BBE6F119",
+        "lastModified": "2020-12-22T16:24:25.643",
+        "created": "2020-12-22T16:24:25.643",
+        "titles": [
+          {
+            "title": "NetApp E-Series SANtricity Management Plug-ins for VMware vCenter",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:e-series_santricity_management_plug-ins:-:*:*:*:*:*:*:*",
+      "title": "NetApp E-Series SANtricity Management Plug-ins -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:e-series_santricity_management_plug-ins:-:*:*:*:*:vmware_vcenter:*:*",
+      "title": "NetApp E-Series SANtricity Management Plug-ins for VMware vCenter",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

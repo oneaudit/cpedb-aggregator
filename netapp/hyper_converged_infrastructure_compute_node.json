@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:hyper_converged_infrastructure_compute_node:1.4:*:*:*:*:*:*:*",
+        "cpeNameId": "8E7A1129-19D7-487F-98A6-699C99F6EF15",
+        "lastModified": "2021-07-02T17:35:04.320",
+        "created": "2019-04-30T18:30:20.050",
+        "titles": [
+          {
+            "title": "NetApp Hyper Converged Infrastructure (HCI) Compute Node 1.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:hyper_converged_infrastructure_compute_node:1.4:p2:*:*:*:*:*:*",
+        "cpeNameId": "4FB7728F-AC33-4CBF-AF19-6B4832F767F1",
+        "lastModified": "2021-07-02T17:35:04.320",
+        "created": "2019-04-30T18:30:36.177",
+        "titles": [
+          {
+            "title": "NetApp Hyper Converged Infrastructure (HCI) Compute Node 1.4 Patch 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:hyper_converged_infrastructure_compute_node:1.4:*:*:*:*:*:*:*",
+      "title": "NetApp Hyper Converged Infrastructure (HCI) Compute Node 1.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:hyper_converged_infrastructure_compute_node:1.4:p2:*:*:*:*:*:*",
+      "title": "NetApp Hyper Converged Infrastructure (HCI) Compute Node 1.4 Patch 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

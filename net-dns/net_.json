@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:net-dns:net\\:\\:dns:0.60:*:*:*:*:*:*:*",
+        "cpeNameId": "8C7404A5-3D18-4EF4-B85D-DDD612F7CC2A",
+        "lastModified": "2024-01-19T14:42:16.223",
+        "created": "2024-01-19T14:42:16.223",
+        "titles": [
+          {
+            "title": "Net-dns Net::DNS 0.60",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:net-dns:net\\:\\:dns:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E82D359A-209B-42E9-AF39-FA7E866C3EE4",
+        "lastModified": "2024-01-19T14:42:16.223",
+        "created": "2024-01-19T14:42:16.223",
+        "titles": [
+          {
+            "title": "Net-dns Net::DNS -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:net-dns:net\\:\\:dns:0.60:*:*:*:*:*:*:*",
+      "title": "Net-dns Net::DNS 0.60",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:net-dns:net\\:\\:dns:-:*:*:*:*:*:*:*",
+      "title": "Net-dns Net::DNS -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

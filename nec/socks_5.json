@@ -1,0 +1,84 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nec:socks_5:-:*:*:*:*:*:*:*",
+        "cpeNameId": "92FEC16A-9E3A-4BC2-8908-261CACF0BE20",
+        "lastModified": "2012-05-10T15:20:30.377",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "日本電気 Socks 5",
+            "lang": "ja"
+          },
+          {
+            "title": "NEC Socks 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nec:socks_5:1.0r5:*:*:*:*:*:*:*",
+        "cpeNameId": "8C2CAE46-3FF8-42BF-862D-917006D4EB15",
+        "lastModified": "2012-05-10T15:20:30.737",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "日本電気 Socks 5 1.0r5",
+            "lang": "ja"
+          },
+          {
+            "title": "NEC Socks 5 1.0r5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nec:socks_5:1.0r11:*:*:*:*:*:*:*",
+        "cpeNameId": "971B45DC-BC6B-40E4-9F94-3BADDFE2829E",
+        "lastModified": "2012-05-10T15:20:30.550",
+        "created": "2007-12-31T14:03:46.800",
+        "titles": [
+          {
+            "title": "NEC Socks 5 1.0r11",
+            "lang": "en"
+          },
+          {
+            "title": "日本電気 Socks 5 1.0r11",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:nec:socks_5:-:*:*:*:*:*:*:*",
+      "title": "NEC Socks 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:nec:socks_5:1.0r5:*:*:*:*:*:*:*",
+      "title": "NEC Socks 5 1.0r5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:nec:socks_5:1.0r11:*:*:*:*:*:*:*",
+      "title": "NEC Socks 5 1.0r11",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

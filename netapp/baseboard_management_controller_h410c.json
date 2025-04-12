@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h410c:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4C8D56D0-907F-4EA8-B44E-73FD45452A88",
+        "lastModified": "2023-11-09T13:57:19.497",
+        "created": "2021-07-13T15:50:17.207",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller H410c -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:netapp:h410c:-:*:*:*:*:*:*:*",
+            "cpeNameId": "1340A210-CE7E-4823-84C3-65A4C6ECF7BD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:netapp:baseboard_management_controller_h410c:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller H410c -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:netapp:h410c:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

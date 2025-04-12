@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:aff_baseboard_management_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D3CD2791-75B1-45A3-B58C-0A638B9D21FE",
+        "lastModified": "2021-07-02T17:15:45.300",
+        "created": "2019-04-16T17:44:37.873",
+        "titles": [
+          {
+            "title": "NetApp AFF Baseboard Management Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netapp:aff_baseboard_management_controller:a400:*:*:*:*:*:*:*",
+        "cpeNameId": "AEA5D088-029D-48F1-82DD-8DFF287882B6",
+        "lastModified": "2022-11-05T01:22:22.583",
+        "created": "2022-05-11T16:43:17.100",
+        "titles": [
+          {
+            "title": "NetApp AFF Baseboard Management Controller A400",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netapp:aff_baseboard_management_controller:a700:*:*:*:*:*:*:*",
+        "cpeNameId": "E8D7DDAE-A293-4722-B2CA-87562FC5C074",
+        "lastModified": "2023-02-21T17:43:46.510",
+        "created": "2022-11-09T17:10:35.373",
+        "titles": [
+          {
+            "title": "NetApp AFF Baseboard Management Controller A700",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netapp:aff_baseboard_management_controller:a700s:*:*:*:*:*:*:*",
+        "cpeNameId": "99AB2CF1-470E-4146-A927-2EDBDAB534FF",
+        "lastModified": "2023-02-21T17:43:46.510",
+        "created": "2022-11-09T18:56:02.603",
+        "titles": [
+          {
+            "title": "NetApp AFF Baseboard Management Controller A700s",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:aff_baseboard_management_controller:-:*:*:*:*:*:*:*",
+      "title": "NetApp AFF Baseboard Management Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:netapp:aff_baseboard_management_controller:a400:*:*:*:*:*:*:*",
+      "title": "NetApp AFF Baseboard Management Controller A400",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:netapp:aff_baseboard_management_controller:a700:*:*:*:*:*:*:*",
+      "title": "NetApp AFF Baseboard Management Controller A700",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:netapp:aff_baseboard_management_controller:a700s:*:*:*:*:*:*:*",
+      "title": "NetApp AFF Baseboard Management Controller A700s",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nec:sl2100_firmware:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F11E057A-7E2A-4820-83A6-FDF70057F54D",
+        "lastModified": "2021-05-27T14:48:50.250",
+        "created": "2020-07-30T13:02:21.890",
+        "titles": [
+          {
+            "title": "NEC SL2100 Firmware 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nec:sl2100_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EB86F93F-BD55-48A0-A399-6D4B6712F012",
+        "lastModified": "2020-12-22T18:37:33.130",
+        "created": "2020-12-22T18:37:33.130",
+        "titles": [
+          {
+            "title": "NEC SL2100 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:nec:sl2100_firmware:7.0:*:*:*:*:*:*:*",
+      "title": "NEC SL2100 Firmware 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nec:sl2100_firmware:-:*:*:*:*:*:*:*",
+      "title": "NEC SL2100 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

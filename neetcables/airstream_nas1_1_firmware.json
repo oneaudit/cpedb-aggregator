@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:neetcables:airstream_nas1.1_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F17FFE6A-A49B-4661-B230-E8F433374CB3",
+        "lastModified": "2021-06-24T13:16:31.117",
+        "created": "2019-08-13T17:41:43.300",
+        "titles": [
+          {
+            "title": "Neetcables Airstream Nas1.1 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:neetcables:airstream_nas_firmware:1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "26EBD88B-959E-4E62-8376-F4F7BF21FFF9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:neetcables:airstream_nas1.1_firmware:-:*:*:*:*:*:*:*",
+      "title": "Neetcables Airstream Nas1.1 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:neetcables:airstream_nas_firmware:1.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

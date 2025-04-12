@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nec:sl1100_firmware:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "34F1FF17-7E00-43B4-A3EB-19E0BC75E09D",
+        "lastModified": "2021-05-27T14:48:50.250",
+        "created": "2020-07-30T13:02:21.280",
+        "titles": [
+          {
+            "title": "NEC SL1100 Firmware 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nec:sl1100_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E81E18DC-BC11-4D13-A770-3D9896985834",
+        "lastModified": "2020-12-22T18:37:32.847",
+        "created": "2020-12-22T18:37:32.847",
+        "titles": [
+          {
+            "title": "NEC SL1100 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:nec:sl1100_firmware:7.0:*:*:*:*:*:*:*",
+      "title": "NEC SL1100 Firmware 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nec:sl1100_firmware:-:*:*:*:*:*:*:*",
+      "title": "NEC SL1100 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

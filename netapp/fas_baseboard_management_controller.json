@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:fas_baseboard_management_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A946B95C-EDA3-46B5-A445-A3F6DF24FD3A",
+        "lastModified": "2021-07-02T17:35:04.320",
+        "created": "2019-04-16T17:44:37.873",
+        "titles": [
+          {
+            "title": "NetApp FAS Baseboard Management Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netapp:fas_baseboard_management_controller:8300:*:*:*:*:*:*:*",
+        "cpeNameId": "DD4D247E-3A92-4DCE-B848-558E3EB60CE6",
+        "lastModified": "2022-11-05T01:22:22.583",
+        "created": "2022-05-11T16:43:17.100",
+        "titles": [
+          {
+            "title": "NetApp FAS Baseboard Management Controller 8300",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netapp:fas_baseboard_management_controller:8700:*:*:*:*:*:*:*",
+        "cpeNameId": "C9172FA9-D666-414C-8BBB-D2CEA6574278",
+        "lastModified": "2022-11-05T01:22:22.583",
+        "created": "2022-05-11T16:43:17.100",
+        "titles": [
+          {
+            "title": "NetApp FAS Baseboard Management Controller 8700",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:fas_baseboard_management_controller:-:*:*:*:*:*:*:*",
+      "title": "NetApp FAS Baseboard Management Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:netapp:fas_baseboard_management_controller:8300:*:*:*:*:*:*:*",
+      "title": "NetApp FAS Baseboard Management Controller 8300",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:netapp:fas_baseboard_management_controller:8700:*:*:*:*:*:*:*",
+      "title": "NetApp FAS Baseboard Management Controller 8700",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

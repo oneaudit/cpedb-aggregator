@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:metrocluster_tiebreaker:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "90D22813-F098-4564-9383-3724EC9D9352",
+        "lastModified": "2021-07-02T17:35:04.320",
+        "created": "2017-01-12T15:56:18.950",
+        "titles": [
+          {
+            "title": "NetApp MetroCluster Tiebreaker 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:metrocluster_tiebreaker:-:*:*:*:*:clustered_data_ontap:*:*",
+        "cpeNameId": "2CC5E318-4C6F-4076-8AA9-023BE620DDEB",
+        "lastModified": "2021-12-16T20:27:17.343",
+        "created": "2021-11-29T15:13:45.093",
+        "titles": [
+          {
+            "title": "MetroCluster Tiebreaker for clustered Data ONTAP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:metrocluster_tiebreaker:1.1:*:*:*:*:*:*:*",
+      "title": "NetApp MetroCluster Tiebreaker 1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:metrocluster_tiebreaker:-:*:*:*:*:clustered_data_ontap:*:*",
+      "title": "MetroCluster Tiebreaker for clustered Data ONTAP",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

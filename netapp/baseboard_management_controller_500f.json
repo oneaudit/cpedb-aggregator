@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_500f:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DF55178E-AEE5-4100-A14F-951B9DEEE23E",
+        "lastModified": "2023-11-09T13:57:19.497",
+        "created": "2021-03-16T10:41:41.550",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller 500F",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:netapp:500f:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E9C7D26C-75CB-4F26-81DD-737EA4146C28"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:netapp:baseboard_management_controller_500f:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller 500F",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:netapp:500f:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

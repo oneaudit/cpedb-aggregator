@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:netapp:baseboard_management_controller_a250_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E6D26EAC-B319-4BFA-89CA-D67E59A144B9",
+        "lastModified": "2023-11-09T14:44:32.870",
+        "created": "2021-03-16T10:41:41.550",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller A250 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:netapp:a250_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "EBB42559-B838-434B-B061-6DB205585CEA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:netapp:baseboard_management_controller_a250_firmware:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller A250 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:netapp:a250_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

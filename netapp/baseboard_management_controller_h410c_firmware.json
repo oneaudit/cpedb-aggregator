@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:netapp:baseboard_management_controller_h410c_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B6E48D67-847D-4590-BF2E-D091BE4C55BE",
+        "lastModified": "2023-11-09T14:44:32.870",
+        "created": "2021-07-13T15:50:17.207",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller H410c Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:netapp:h410c_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "C73A016E-9297-4BCE-A397-191252332BAE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:netapp:baseboard_management_controller_h410c_firmware:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller H410c Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:netapp:h410c_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

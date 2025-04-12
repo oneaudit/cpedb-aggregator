@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:virtual_storage_console_for_vmware_vsphere:6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "9D8E76C1-ECBE-4595-A467-BAA82FAB0C81",
+        "lastModified": "2021-07-02T19:05:23.433",
+        "created": "2017-02-24T17:13:18.357",
+        "titles": [
+          {
+            "title": "NetApp Virtual Storage Console For VMware VSphere 6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:virtual_storage_console_for_vmware_vsphere:7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "045BA2BD-8C27-463F-A48B-23DD32AF6ED9",
+        "lastModified": "2021-07-02T19:05:23.433",
+        "created": "2020-10-15T13:53:51.720",
+        "titles": [
+          {
+            "title": "NetApp Virtual Storage Console for VMware vSphere 7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:virtual_storage_console_for_vmware_vsphere:6.2:*:*:*:*:*:*:*",
+      "title": "NetApp Virtual Storage Console For VMware VSphere 6.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:virtual_storage_console_for_vmware_vsphere:7.2:*:*:*:*:*:*:*",
+      "title": "NetApp Virtual Storage Console for VMware vSphere 7.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

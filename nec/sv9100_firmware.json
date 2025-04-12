@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nec:sv9100_firmware:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D00C5A85-B7FB-45D8-B48A-C369894DA39D",
+        "lastModified": "2021-05-27T14:48:50.250",
+        "created": "2020-07-30T13:02:23.203",
+        "titles": [
+          {
+            "title": "NEC SV9100 Firmware 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nec:sv9100_firmware:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FDE42731-F2AB-494C-A70E-00F92773AC41",
+        "lastModified": "2020-09-11T15:27:31.000",
+        "created": "2020-09-11T15:27:31.000",
+        "titles": [
+          {
+            "title": "NEC SV9100 Firmware 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nec:sv9100_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6697496A-0101-42DC-8536-798B687E829F",
+        "lastModified": "2020-12-22T18:37:33.440",
+        "created": "2020-12-22T18:37:33.440",
+        "titles": [
+          {
+            "title": "NEC SV9100 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:nec:sv9100_firmware:7.0:*:*:*:*:*:*:*",
+      "title": "NEC SV9100 Firmware 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nec:sv9100_firmware:6.0:*:*:*:*:*:*:*",
+      "title": "NEC SV9100 Firmware 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nec:sv9100_firmware:-:*:*:*:*:*:*:*",
+      "title": "NEC SV9100 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

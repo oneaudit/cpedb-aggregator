@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h410s:-:*:*:*:*:*:*:*",
+        "cpeNameId": "50BDD597-77D4-4023-8255-4AFACA704A18",
+        "lastModified": "2023-11-09T13:57:19.497",
+        "created": "2022-02-23T11:38:24.700",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller H410S",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:netapp:h410s:-:*:*:*:*:*:*:*",
+            "cpeNameId": "154613CF-D7A7-4333-AFEF-D5248B8F59B1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:netapp:baseboard_management_controller_h410s:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller H410S",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:netapp:h410s:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

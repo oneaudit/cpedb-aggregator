@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:netapp:baseboard_management_controller_h700e_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2684D45A-41BF-48FE-9F98-E012D4A31302",
+        "lastModified": "2023-11-09T14:44:32.870",
+        "created": "2022-02-23T11:38:24.700",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller H700E Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:netapp:h700e_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "DBC740FF-1271-4EE3-A450-2962CEC3813A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:netapp:baseboard_management_controller_h700e_firmware:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller H700E Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:netapp:h700e_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

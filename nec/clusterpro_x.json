@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nec:clusterpro_x:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "767E5853-AD46-4A8C-B6E5-103BF7DAA3CE",
+        "lastModified": "2022-03-07T19:13:07.860",
+        "created": "2022-03-04T16:44:39.540",
+        "titles": [
+          {
+            "title": "NEC CLUSTERPRO X for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nec:clusterpro_x:4.3:*:*:*:*:windows:*:*",
+        "cpeNameId": "07780052-1D02-44B5-B26A-8C3CEC572087",
+        "lastModified": "2022-03-07T19:13:07.860",
+        "created": "2022-03-04T16:44:39.540",
+        "titles": [
+          {
+            "title": "NEC CLUSTERPRO X 4.3 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:nec:clusterpro_x:-:*:*:*:*:windows:*:*",
+      "title": "NEC CLUSTERPRO X for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:nec:clusterpro_x:4.3:*:*:*:*:windows:*:*",
+      "title": "NEC CLUSTERPRO X 4.3 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

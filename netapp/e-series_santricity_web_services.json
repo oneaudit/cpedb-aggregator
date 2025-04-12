@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:e-series_santricity_web_services:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5ED65505-78DE-4CCF-82FA-C17A49DC70BC",
+        "lastModified": "2021-07-02T17:15:45.300",
+        "created": "2019-04-25T14:35:06.820",
+        "titles": [
+          {
+            "title": "NetApp E-Series SANtricity Web Services",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:e-series_santricity_web_services:-:*:*:*:*:web_services_proxy:*:*",
+        "cpeNameId": "AFDD0DFE-F924-42AF-B79D-C3D25B684515",
+        "lastModified": "2021-07-02T17:15:45.300",
+        "created": "2021-02-24T00:51:47.647",
+        "titles": [
+          {
+            "title": "NetApp E-series SANtricity Web Services for Web Services Proxy",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:e-series_santricity_web_services:-:*:*:*:*:*:*:*",
+      "title": "NetApp E-Series SANtricity Web Services",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:e-series_santricity_web_services:-:*:*:*:*:web_services_proxy:*:*",
+      "title": "NetApp E-series SANtricity Web Services for Web Services Proxy",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nec:nas_gateway_nh4c_firmware:fos_6.4.3-08\\(nec3.4.2\\):*:*:*:*:*:*:*",
+        "cpeNameId": "E23A6D56-11A3-4D1C-9A87-623DBBBF1DD6",
+        "lastModified": "2021-08-23T14:31:14.097",
+        "created": "2021-07-01T12:44:01.517",
+        "titles": [
+          {
+            "title": "NEC NAS Gateway Nh4c Firmware FOS 6.4.3-08(NEC3.4.2)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nec:nas_gateway_nh4c_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "14EC4A10-6AFB-41A8-B7F7-90C4721C313C",
+        "lastModified": "2021-08-23T14:31:14.097",
+        "created": "2021-07-01T12:44:01.517",
+        "titles": [
+          {
+            "title": "NEC NAS Gateway Nh4c Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:nec:nas_gateway_nh4c_firmware:fos_6.4.3-08\\(nec3.4.2\\):*:*:*:*:*:*:*",
+      "title": "NEC NAS Gateway Nh4c Firmware FOS 6.4.3-08(NEC3.4.2)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nec:nas_gateway_nh4c_firmware:-:*:*:*:*:*:*:*",
+      "title": "NEC NAS Gateway Nh4c Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

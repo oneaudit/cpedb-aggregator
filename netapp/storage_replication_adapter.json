@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:storage_replication_adapter:7.2:*:*:*:*:vsphere:*:*",
+        "cpeNameId": "B25A74AC-0D8C-421B-ACE6-106C3F1E0A66",
+        "lastModified": "2021-05-06T17:09:51.197",
+        "created": "2019-04-17T11:27:46.217",
+        "titles": [
+          {
+            "title": "NetApp Storage Replication Adapter 7.2 for vSphere",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:storage_replication_adapter:7.2.1:*:*:*:*:vsphere:*:*",
+        "cpeNameId": "E4A15AC7-2BFD-4490-8F25-A7C825C548D0",
+        "lastModified": "2021-05-06T17:09:51.197",
+        "created": "2019-04-17T11:27:46.217",
+        "titles": [
+          {
+            "title": "NetApp Storage Replication Adapter 7.2.1 for vSphere",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:storage_replication_adapter:4.0:*:*:*:*:vsphere:*:*",
+        "cpeNameId": "FEA38C7A-11EE-4B04-AAE4-460FDE3D2A40",
+        "lastModified": "2021-05-06T17:09:51.197",
+        "created": "2019-04-17T11:27:46.217",
+        "titles": [
+          {
+            "title": "NetApp Storage Replication Adapter 4.0 for vSphere",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:storage_replication_adapter:7.2:*:*:*:*:vsphere:*:*",
+      "title": "NetApp Storage Replication Adapter 7.2 for vSphere",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:storage_replication_adapter:7.2.1:*:*:*:*:vsphere:*:*",
+      "title": "NetApp Storage Replication Adapter 7.2.1 for vSphere",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:storage_replication_adapter:4.0:*:*:*:*:vsphere:*:*",
+      "title": "NetApp Storage Replication Adapter 4.0 for vSphere",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

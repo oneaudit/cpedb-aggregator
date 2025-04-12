@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:netapp:baseboard_management_controller_h610c_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AFB94139-C249-49B8-9D1B-A8E0C23393C1",
+        "lastModified": "2023-11-09T14:44:32.870",
+        "created": "2023-09-28T11:24:57.807",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller H610c Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:netapp:h610c_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F467FEDA-9CD6-4066-8D11-38A6DE6A5F17"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:netapp:baseboard_management_controller_h610c_firmware:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller H610c Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:netapp:h610c_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netfilter:libnftnl:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FD28288D-39C9-4328-ABD6-8C149A21A631",
+        "lastModified": "2022-01-04T19:22:02.250",
+        "created": "2022-01-04T17:26:18.437",
+        "titles": [
+          {
+            "title": "netfilter libnftnl",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netfilter:libnftnl:1.1.4:*:*:*:*:*:*:*",
+        "cpeNameId": "480F55F9-6B6B-4E4E-91B2-A8817E8E239F",
+        "lastModified": "2022-03-22T17:54:15.553",
+        "created": "2022-03-22T16:43:32.867",
+        "titles": [
+          {
+            "title": "Netfilter libnftnl 1.1.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netfilter:libnftnl:-:*:*:*:*:*:*:*",
+      "title": "netfilter libnftnl",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netfilter:libnftnl:1.1.4:*:*:*:*:*:*:*",
+      "title": "Netfilter libnftnl 1.1.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

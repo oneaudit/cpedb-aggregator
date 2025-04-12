@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:ontap:9:*:*:*:*:*:*:*",
+        "cpeNameId": "B5584916-1677-456C-BBF4-F1AA32052133",
+        "lastModified": "2023-12-16T04:28:17.570",
+        "created": "2023-12-16T04:28:17.570",
+        "titles": [
+          {
+            "title": "NetApp Ontap 9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:ontap:9.13.1:p5:*:*:*:*:*:*",
+        "cpeNameId": "91F079F5-10DA-44F6-80E8-2EE841729E1D",
+        "lastModified": "2023-12-29T10:15:30.570",
+        "created": "2023-12-29T10:15:30.570",
+        "titles": [
+          {
+            "title": "NetApp ONTAP 9.13.1 Patch 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:ontap:9.13.1:p4:*:*:*:*:*:*",
+        "cpeNameId": "EA390371-7359-4BC1-B341-B2F0871557C8",
+        "lastModified": "2023-12-29T10:15:30.570",
+        "created": "2023-12-29T10:15:30.570",
+        "titles": [
+          {
+            "title": "NetApp ONTAP 9.13.1 Patch 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:ontap:9.12.1:p8:*:*:*:*:*:*",
+        "cpeNameId": "866CC399-7BA2-4247-A5B8-6BB173FAE99C",
+        "lastModified": "2023-12-29T10:15:30.570",
+        "created": "2023-12-29T10:15:30.570",
+        "titles": [
+          {
+            "title": "NetApp ONTAP 9.12.1 Patch 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:ontap:9:*:*:*:*:*:*:*",
+      "title": "NetApp Ontap 9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:ontap:9.13.1:p5:*:*:*:*:*:*",
+      "title": "NetApp ONTAP 9.13.1 Patch 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:ontap:9.13.1:p4:*:*:*:*:*:*",
+      "title": "NetApp ONTAP 9.13.1 Patch 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:ontap:9.12.1:p8:*:*:*:*:*:*",
+      "title": "NetApp ONTAP 9.12.1 Patch 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

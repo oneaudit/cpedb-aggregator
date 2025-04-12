@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:oncommand_performance_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "48B6451A-7108-4F11-B12F-5811012E00FB",
+        "lastModified": "2020-06-23T15:17:48.660",
+        "created": "2020-06-23T15:17:48.660",
+        "titles": [
+          {
+            "title": "NetApp OnCommand Performance Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:oncommand_performance_manager:-:*:*:*:*:linux:*:*",
+        "cpeNameId": "7A5CC9E9-6AFD-495A-9111-7D08F0E8ED58",
+        "lastModified": "2021-01-19T17:39:28.167",
+        "created": "2021-01-19T17:39:28.167",
+        "titles": [
+          {
+            "title": "NetApp OnCommand Performance Manager for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netapp:oncommand_performance_manager:-:*:*:*:*:vmware_vsphere:*:*",
+        "cpeNameId": "342DA459-AC7A-4FDF-B927-CDB457DF3D39",
+        "lastModified": "2021-01-19T17:39:28.540",
+        "created": "2021-01-19T17:39:28.540",
+        "titles": [
+          {
+            "title": "NetApp OnCommand Performance Manager for VMware vSphere",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netapp:oncommand_performance_manager:-:*:*:*:*:*:*:*",
+      "title": "NetApp OnCommand Performance Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:oncommand_performance_manager:-:*:*:*:*:linux:*:*",
+      "title": "NetApp OnCommand Performance Manager for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netapp:oncommand_performance_manager:-:*:*:*:*:vmware_vsphere:*:*",
+      "title": "NetApp OnCommand Performance Manager for VMware vSphere",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:netapp:baseboard_management_controller_h610c:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EE3891E3-2D31-4088-8007-14B0737DAF71",
+        "lastModified": "2023-11-09T13:57:19.497",
+        "created": "2022-03-24T14:17:36.377",
+        "titles": [
+          {
+            "title": "NetApp Baseboard Management Controller H610c -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:netapp:h610c:-:*:*:*:*:*:*:*",
+            "cpeNameId": "124BC97E-54BC-4115-BC1A-D140E363778D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:netapp:baseboard_management_controller_h610c:-:*:*:*:*:*:*:*",
+      "title": "NetApp Baseboard Management Controller H610c -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:netapp:h610c:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

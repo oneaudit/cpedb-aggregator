@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nec:baseboard_management_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1BABB5A6-8654-4C43-8B7B-2FA6BB99C4C9",
+        "lastModified": "2021-05-27T14:51:20.770",
+        "created": "2021-01-21T16:44:02.477",
+        "titles": [
+          {
+            "title": "NEC Baseboard Management Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nec:baseboard_management_controller:1.09:*:*:*:*:*:*:*",
+        "cpeNameId": "5452AEE0-43CD-4CBB-A9D0-FB7BFC5E8606",
+        "lastModified": "2021-05-27T14:51:20.770",
+        "created": "2021-01-21T16:44:02.477",
+        "titles": [
+          {
+            "title": "NEC Baseboard Management Controller 1.09",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nec:baseboard_management_controller:1.07:*:*:*:*:*:*:*",
+        "cpeNameId": "CFE09EFF-BEE6-4A8D-A8D1-FE7EC4134672",
+        "lastModified": "2021-05-27T14:51:20.770",
+        "created": "2021-01-21T16:44:02.477",
+        "titles": [
+          {
+            "title": "NEC Baseboard Management Controller 1.07",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:nec:baseboard_management_controller:-:*:*:*:*:*:*:*",
+      "title": "NEC Baseboard Management Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nec:baseboard_management_controller:1.09:*:*:*:*:*:*:*",
+      "title": "NEC Baseboard Management Controller 1.09",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nec:baseboard_management_controller:1.07:*:*:*:*:*:*:*",
+      "title": "NEC Baseboard Management Controller 1.07",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

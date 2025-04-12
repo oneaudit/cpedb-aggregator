@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netflix:chaos_monkey:0.3:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "2C2C875E-A6D5-4CB5-98B1-3C74E03A74A7",
+        "lastModified": "2021-04-13T17:53:39.087",
+        "created": "2020-12-04T17:04:15.873",
+        "titles": [
+          {
+            "title": "Netflix Chaos Monkey 0.3 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netflix:chaos_monkey:0.4:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "79AB8F40-7B25-4591-B79E-419151F7D36C",
+        "lastModified": "2021-02-05T18:23:09.457",
+        "created": "2021-02-05T18:23:09.457",
+        "titles": [
+          {
+            "title": "Netflix Chaos Monkey 0.4 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netflix:chaos_monkey:0.3:*:*:*:*:jenkins:*:*",
+      "title": "Netflix Chaos Monkey 0.3 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netflix:chaos_monkey:0.4:*:*:*:*:jenkins:*:*",
+      "title": "Netflix Chaos Monkey 0.4 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
