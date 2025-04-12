@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:68k:audio_file_library:0.3.6:*:*:*:*:*:*:*",
+        "cpeNameId": "FC1F5260-44F3-4BC6-AF5A-FC8DA3D3FB7E",
+        "lastModified": "2020-04-13T14:23:13.353",
+        "created": "2020-03-06T18:34:29.467",
+        "titles": [
+          {
+            "title": "68k Audio File Library 0.3.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:audio_file_library_project:audio_file_library:0.3.6:*:*:*:*:*:*:*",
+            "cpeNameId": "5A1326B9-C46D-473A-8044-72ABBD109086"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:68k:audio_file_library:0.3.6:*:*:*:*:*:*:*",
+      "title": "68k Audio File Library 0.3.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:audio_file_library_project:audio_file_library:0.3.6:*:*:*:*:*:*:*"
+    }
+  ]
+}

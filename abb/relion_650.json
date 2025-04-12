@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:abb:relion_650:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4645D5A1-3C86-4466-A126-AB128F8CB19C",
+        "lastModified": "2023-05-16T20:56:47.737",
+        "created": "2020-01-14T19:19:49.327",
+        "titles": [
+          {
+            "title": "ABB Relion 650",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:relion_650:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B228459E-62F8-4499-824E-4F78387E4944"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:abb:relion_650:-:*:*:*:*:*:*:*",
+      "title": "ABB Relion 650",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:relion_650:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

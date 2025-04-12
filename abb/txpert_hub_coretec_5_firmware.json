@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:txpert_hub_coretec_5_firmware:3.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2B18FB4D-8273-4804-8A4E-F8A091AD77A0",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2023-03-20T16:01:24.903",
+        "titles": [
+          {
+            "title": "ABB TXpert Hub CoreTec 5 Firmware 3.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:txpert_hub_coretec_5_firmware:3.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "EB369A20-B35B-4755-A87F-4B89102FE7F2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:txpert_hub_coretec_5_firmware:3.0.0:*:*:*:*:*:*:*",
+      "title": "ABB TXpert Hub CoreTec 5 Firmware 3.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:txpert_hub_coretec_5_firmware:3.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

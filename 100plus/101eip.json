@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:100plus:101eip:200925:*:*:*:*:*:*:*",
+        "cpeNameId": "3FC2C1A7-DC48-4CB7-9D3E-A4378CEB8DC9",
+        "lastModified": "2021-06-10T15:28:05.490",
+        "created": "2021-06-04T15:54:23.780",
+        "titles": [
+          {
+            "title": "100plus 101EIP 200925",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hundredplus:101eip:200925:*:*:*:*:*:*:*",
+            "cpeNameId": "942EB2CF-A6CE-4A8B-8A79-DD655BE05EEA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:100plus:101eip:200925:*:*:*:*:*:*:*",
+      "title": "100plus 101EIP 200925",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hundredplus:101eip:200925:*:*:*:*:*:*:*"
+    }
+  ]
+}

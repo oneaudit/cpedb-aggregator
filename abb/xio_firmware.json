@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:xio_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0288529B-E8C4-4630-9E9B-05970AE73F88",
+        "lastModified": "2022-07-28T17:24:31.280",
+        "created": "2022-07-28T16:13:25.603",
+        "titles": [
+          {
+            "title": "ABB XIO Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:xio_firmware:2106198-008:*:*:*:*:*:*:*",
+        "cpeNameId": "CE125162-882B-476D-948D-69861C72D2CD",
+        "lastModified": "2022-07-28T17:24:31.280",
+        "created": "2022-07-28T16:14:29.827",
+        "titles": [
+          {
+            "title": "ABB XIO Firmware 2106198-008",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:xio_firmware:-:*:*:*:*:*:*:*",
+      "title": "ABB XIO Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:abb:xio_firmware:2106198-008:*:*:*:*:*:*:*",
+      "title": "ABB XIO Firmware 2106198-008",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

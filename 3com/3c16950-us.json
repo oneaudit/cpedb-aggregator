@@ -1,0 +1,84 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:3com:3c16950-us:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A076CED2-04A2-40A6-9251-FA3EA6C7FA9D",
+        "lastModified": "2011-01-12T14:36:02.867",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "スリーコム Switch 1100",
+            "lang": "ja"
+          },
+          {
+            "title": "3Com Switch 1100",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:3com:3c16950-us:2.67:*:*:*:*:*:*:*",
+        "cpeNameId": "EB35C735-73C6-4619-81BB-CCED274EAB65",
+        "lastModified": "2011-01-12T14:36:02.943",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "3Com Switch 1100 2.67",
+            "lang": "en"
+          },
+          {
+            "title": "スリーコム Switch 1100 2.67",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:3com:3c16950-us:2.68:*:*:*:*:*:*:*",
+        "cpeNameId": "D60C6323-D63A-44E5-9AAB-DCE0AEB7E6C4",
+        "lastModified": "2011-01-12T14:36:03.053",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "3Com Switch 1100 2.68",
+            "lang": "en"
+          },
+          {
+            "title": "スリーコム Switch 1100 2.68",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:3com:3c16950-us:-:*:*:*:*:*:*:*",
+      "title": "3Com Switch 1100",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:3com:3c16950-us:2.67:*:*:*:*:*:*:*",
+      "title": "3Com Switch 1100 2.67",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:3com:3c16950-us:2.68:*:*:*:*:*:*:*",
+      "title": "3Com Switch 1100 2.68",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

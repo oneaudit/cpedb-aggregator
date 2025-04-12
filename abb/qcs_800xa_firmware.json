@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:qcs_800xa_firmware:5.1.0:sp2:*:*:*:*:*:*",
+        "cpeNameId": "9004A0B8-1604-4ECB-9BAF-F92D7D86BF22",
+        "lastModified": "2023-06-28T14:11:31.283",
+        "created": "2023-05-31T11:12:41.457",
+        "titles": [
+          {
+            "title": "ABB QCS 800xA Firmware 5.1.0 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:qcs_800xa_firmware:1.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FF1E2768-FBBB-4008-8532-BC21EE1AFD1C",
+        "lastModified": "2023-06-28T14:11:31.283",
+        "created": "2023-05-31T11:12:59.573",
+        "titles": [
+          {
+            "title": "ABB QCS 800XA Firmware 1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:qcs_800xa_firmware:5.1.0:-:*:*:*:*:*:*",
+        "cpeNameId": "54A0F28A-061C-4550-84D4-FDB9CF8AA660",
+        "lastModified": "2023-06-28T14:11:31.283",
+        "created": "2023-05-31T11:13:27.410",
+        "titles": [
+          {
+            "title": "ABB QCS 800XA Firmware 5.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:qcs_800xa_firmware:5.1.0:sp2:*:*:*:*:*:*",
+      "title": "ABB QCS 800xA Firmware 5.1.0 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:abb:qcs_800xa_firmware:1.0.0:*:*:*:*:*:*:*",
+      "title": "ABB QCS 800XA Firmware 1.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:abb:qcs_800xa_firmware:5.1.0:-:*:*:*:*:*:*",
+      "title": "ABB QCS 800XA Firmware 5.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

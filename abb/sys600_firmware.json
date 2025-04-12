@@ -1,0 +1,141 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:sys600_firmware:9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "33867C42-95C4-4806-99D5-B90BB31CDF32",
+        "lastModified": "2023-05-16T21:04:22.770",
+        "created": "2018-03-14T14:39:45.140",
+        "titles": [
+          {
+            "title": "ABB MicroSCADA Pro SYS600 Firmware 9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:sys600_firmware:9.0:*:*:*:*:*:*:*",
+            "cpeNameId": "51A7C4C6-BCA6-44FC-85FA-FA73EB3A19FD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:sys600_firmware:9.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7027CFAF-6DC8-42EE-A140-0C80A74DFDBF",
+        "lastModified": "2023-05-16T21:04:22.770",
+        "created": "2018-03-14T14:39:45.140",
+        "titles": [
+          {
+            "title": "ABB MicroSCADA Pro SYS600 Firmware 9.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:sys600_firmware:9.1:*:*:*:*:*:*:*",
+            "cpeNameId": "CF68FAB2-E125-4376-ABC7-8C517ACFC492"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:sys600_firmware:9.1.5:*:*:*:*:*:*:*",
+        "cpeNameId": "D2275A37-6643-494C-93A2-D0C7D5128E59",
+        "lastModified": "2023-05-16T21:04:22.770",
+        "created": "2018-03-14T14:39:45.140",
+        "titles": [
+          {
+            "title": "ABB MicroSCADA Pro SYS600 Firmware 9.1.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:sys600_firmware:9.1.5:*:*:*:*:*:*:*",
+            "cpeNameId": "16F057BD-7588-4E5C-AA87-4846A7783BCD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:sys600_firmware:9.2:*:*:*:*:*:*:*",
+        "cpeNameId": "79C67655-EABA-46D5-97CE-4F03D8C6454F",
+        "lastModified": "2023-05-16T21:04:22.770",
+        "created": "2018-03-14T14:39:45.140",
+        "titles": [
+          {
+            "title": "ABB MicroSCADA Pro SYS600 Firmware 9.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:sys600_firmware:9.2:*:*:*:*:*:*:*",
+            "cpeNameId": "A3BF6EA3-C401-4FCF-8AB6-D57529F660DE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:sys600_firmware:9.4:*:*:*:*:*:*:*",
+        "cpeNameId": "0114FF68-C0A5-4964-963D-A766C2B648A4",
+        "lastModified": "2023-05-16T21:04:22.770",
+        "created": "2018-03-14T14:39:45.140",
+        "titles": [
+          {
+            "title": "ABB MicroSCADA Pro SYS600 Firmware 9.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:sys600_firmware:9.4:*:*:*:*:*:*:*",
+            "cpeNameId": "BB44DF23-11FB-4312-826C-F8B26F0A20B2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:sys600_firmware:9.0:*:*:*:*:*:*:*",
+      "title": "ABB MicroSCADA Pro SYS600 Firmware 9.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:sys600_firmware:9.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:abb:sys600_firmware:9.1:*:*:*:*:*:*:*",
+      "title": "ABB MicroSCADA Pro SYS600 Firmware 9.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:sys600_firmware:9.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:abb:sys600_firmware:9.1.5:*:*:*:*:*:*:*",
+      "title": "ABB MicroSCADA Pro SYS600 Firmware 9.1.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:sys600_firmware:9.1.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:abb:sys600_firmware:9.2:*:*:*:*:*:*:*",
+      "title": "ABB MicroSCADA Pro SYS600 Firmware 9.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:sys600_firmware:9.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:abb:sys600_firmware:9.4:*:*:*:*:*:*:*",
+      "title": "ABB MicroSCADA Pro SYS600 Firmware 9.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:sys600_firmware:9.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

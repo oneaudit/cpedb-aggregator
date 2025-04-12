@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:cp661_firmware:1.76:*:*:*:*:*:*:*",
+        "cpeNameId": "3AB4C328-EEE7-4ECA-BC62-A4025B749425",
+        "lastModified": "2021-05-19T15:51:50.770",
+        "created": "2019-07-01T17:32:58.490",
+        "titles": [
+          {
+            "title": "ABB CP661 Firmware 1.76",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:cp661_firmware:bsp_un30_1.76:*:*:*:*:*:*:*",
+        "cpeNameId": "645CC35E-3C77-447F-8939-5FC1B30961CF",
+        "lastModified": "2020-02-26T15:54:35.943",
+        "created": "2020-02-26T15:54:35.943",
+        "titles": [
+          {
+            "title": "ABB CP661 Firmware BSP UN30 1.76",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:cp661_firmware:1.76:*:*:*:*:*:*:*",
+      "title": "ABB CP661 Firmware 1.76",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:abb:cp661_firmware:bsp_un30_1.76:*:*:*:*:*:*:*",
+      "title": "ABB CP661 Firmware BSP UN30 1.76",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

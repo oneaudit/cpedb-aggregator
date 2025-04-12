@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:qcs_ac450_firmware:6.1.0:sp2:*:*:*:*:*:*",
+        "cpeNameId": "34B83C5D-9A12-4E05-AF61-08FF9894BD3F",
+        "lastModified": "2023-06-28T14:11:31.283",
+        "created": "2023-05-31T11:12:41.457",
+        "titles": [
+          {
+            "title": "ABB QCS AC450 Firmware 6.1.0 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:qcs_ac450_firmware:1.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "71AD9CEF-531E-4DE4-B2EB-18617FA1AAC1",
+        "lastModified": "2023-06-28T14:11:31.283",
+        "created": "2023-05-31T11:13:08.650",
+        "titles": [
+          {
+            "title": "ABB QCS AC450 Firmware 1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:qcs_ac450_firmware:6.1.0:-:*:*:*:*:*:*",
+        "cpeNameId": "DB229100-5152-4325-89B2-66A3DE53DDEE",
+        "lastModified": "2023-06-28T14:11:31.283",
+        "created": "2023-05-31T11:13:27.410",
+        "titles": [
+          {
+            "title": "ABB QCS AC450 Firmware 6.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:qcs_ac450_firmware:6.1.0:sp2:*:*:*:*:*:*",
+      "title": "ABB QCS AC450 Firmware 6.1.0 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:abb:qcs_ac450_firmware:1.0.0:*:*:*:*:*:*:*",
+      "title": "ABB QCS AC450 Firmware 1.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:abb:qcs_ac450_firmware:6.1.0:-:*:*:*:*:*:*",
+      "title": "ABB QCS AC450 Firmware 6.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

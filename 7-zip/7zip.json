@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:7-zip:7zip:15.05:beta:*:*:*:*:*:*",
+        "cpeNameId": "40168ED5-3A6E-4C36-A000-9C78F45175BB",
+        "lastModified": "2018-10-09T12:18:21.253",
+        "created": "2016-08-18T14:51:56.243",
+        "titles": [
+          {
+            "title": "7-Zip 15.05 Beta",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:7-zip:7-zip:15.05:beta:*:*:*:*:*:*",
+            "cpeNameId": "056D284E-D974-48E2-999F-3DDD1AB6A909"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:7-zip:7zip:9.20:*:*:*:*:*:*:*",
+        "cpeNameId": "110FA5D1-8CDB-40E1-B295-38C545B99C96",
+        "lastModified": "2018-10-09T12:18:21.193",
+        "created": "2016-08-18T14:51:56.290",
+        "titles": [
+          {
+            "title": "7-Zip 7Zip 9.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:7-zip:7-zip:9.20:*:*:*:*:*:*:*",
+            "cpeNameId": "049D45F6-8FAF-4BC3-9BC6-75CAD98904C9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:7-zip:7zip:15.05:beta:*:*:*:*:*:*",
+      "title": "7-Zip 15.05 Beta",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:7-zip:7-zip:15.05:beta:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:7-zip:7zip:9.20:*:*:*:*:*:*:*",
+      "title": "7-Zip 7Zip 9.20",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:7-zip:7-zip:9.20:*:*:*:*:*:*:*"
+    }
+  ]
+}

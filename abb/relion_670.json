@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:abb:relion_670:-:*:*:*:*:*:*:*",
+        "cpeNameId": "160681B7-A661-4900-820B-3896E818FE93",
+        "lastModified": "2023-05-16T20:56:47.737",
+        "created": "2020-01-14T19:19:49.653",
+        "titles": [
+          {
+            "title": "ABB Relion 670",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:relion_670:-:*:*:*:*:*:*:*",
+            "cpeNameId": "061D9913-2ED4-4D5D-B121-FFF9116FA4B4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:abb:relion_670:-:*:*:*:*:*:*:*",
+      "title": "ABB Relion 670",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:relion_670:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

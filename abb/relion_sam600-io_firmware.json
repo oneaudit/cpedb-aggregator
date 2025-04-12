@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:relion_sam600-io_firmware:2.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4636C1E4-F44B-4184-96AF-1513B4DEEF69",
+        "lastModified": "2023-05-16T21:02:24.420",
+        "created": "2021-06-29T13:28:10.907",
+        "titles": [
+          {
+            "title": "ABB Relion SAM600-IO Firmware 2.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:relion_sam600-io_firmware:2.2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "8601FDC0-7C41-418F-A0BA-97889F7AA926"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:relion_sam600-io_firmware:2.2.1.6:*:*:*:*:*:*:*",
+        "cpeNameId": "834476FD-FFAE-4E96-B146-9A66CA21129B",
+        "lastModified": "2023-05-16T21:02:24.420",
+        "created": "2021-06-29T13:28:10.907",
+        "titles": [
+          {
+            "title": "ABB Relion SAM600-IO Firmware 2.2.1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:relion_sam600-io_firmware:2.2.1.6:*:*:*:*:*:*:*",
+            "cpeNameId": "C2F540A1-5F4F-4440-9AF0-0179EF64BC30"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:relion_sam600-io_firmware:2.2.1:*:*:*:*:*:*:*",
+      "title": "ABB Relion SAM600-IO Firmware 2.2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:relion_sam600-io_firmware:2.2.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:abb:relion_sam600-io_firmware:2.2.1.6:*:*:*:*:*:*:*",
+      "title": "ABB Relion SAM600-IO Firmware 2.2.1.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:relion_sam600-io_firmware:2.2.1.6:*:*:*:*:*:*:*"
+    }
+  ]
+}

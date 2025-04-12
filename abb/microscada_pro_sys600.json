@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:abb:microscada_pro_sys600:9.3:*:*:*:*:*:*:*",
+        "cpeNameId": "08E0C4B1-DE6D-46CA-918C-EE4C532BE267",
+        "lastModified": "2023-05-16T20:44:11.547",
+        "created": "2020-05-11T19:33:10.887",
+        "titles": [
+          {
+            "title": "ABB MicroSCADA Pro SYS600 9.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hitachienergy:microscada_pro_sys600:9.3:*:*:*:*:*:*:*",
+            "cpeNameId": "64ED7A9A-6DBC-4BB6-8D04-0AAB539A32E9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:abb:microscada_pro_sys600:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FD012774-8C52-494D-A764-2423DA99895B",
+        "lastModified": "2023-05-16T20:56:47.737",
+        "created": "2020-08-20T15:40:59.187",
+        "titles": [
+          {
+            "title": "ABB MicroSCADA Pro SYS600",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:microscada_pro_sys600:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F65CA9F3-E5D4-469B-B9A7-1E44534A105E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:abb:microscada_pro_sys600:9.3:*:*:*:*:*:*:*",
+      "title": "ABB MicroSCADA Pro SYS600 9.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hitachienergy:microscada_pro_sys600:9.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:abb:microscada_pro_sys600:-:*:*:*:*:*:*:*",
+      "title": "ABB MicroSCADA Pro SYS600",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:microscada_pro_sys600:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

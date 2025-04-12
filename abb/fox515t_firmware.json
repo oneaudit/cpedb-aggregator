@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:fox515t_firmware:r.1.0_ics10:*:*:*:*:*:*:*",
+        "cpeNameId": "10496FC9-7AD6-47A8-A697-7B4E68013CDB",
+        "lastModified": "2023-05-16T20:58:30.633",
+        "created": "2017-11-07T19:25:39.970",
+        "titles": [
+          {
+            "title": "ABB FOX515T Firmware R.1.0 ICS10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:fox515t_firmware:r.1.0_ics10:*:*:*:*:*:*:*",
+            "cpeNameId": "2FC74799-2DC8-4638-89A5-9A9A69B276A7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:fox515t_firmware:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1D29B433-B11E-43E2-8C7B-BC7A17761518",
+        "lastModified": "2023-05-16T20:58:30.633",
+        "created": "2017-11-27T15:56:26.297",
+        "titles": [
+          {
+            "title": "ABB FOX515T Firmware 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:fox515t_firmware:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "86967FDC-7016-4445-BFC1-AFE57EB74301"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:fox515t_firmware:r.1.0_ics10:*:*:*:*:*:*:*",
+      "title": "ABB FOX515T Firmware R.1.0 ICS10",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:fox515t_firmware:r.1.0_ics10:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:abb:fox515t_firmware:1.0:*:*:*:*:*:*:*",
+      "title": "ABB FOX515T Firmware 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:fox515t_firmware:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:udc_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "ED59E2CD-4C48-4B1A-992B-C83036D0E2E0",
+        "lastModified": "2022-07-28T17:24:31.280",
+        "created": "2022-07-28T16:13:25.603",
+        "titles": [
+          {
+            "title": "ABB UDC Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:udc_firmware:2106177-007:*:*:*:*:*:*:*",
+        "cpeNameId": "D6F2E7A5-BAB6-4824-BF00-FD85E2A3BE88",
+        "lastModified": "2022-07-28T17:24:31.280",
+        "created": "2022-07-28T16:14:10.297",
+        "titles": [
+          {
+            "title": "ABB UDC Firmware 2106177-007",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:udc_firmware:-:*:*:*:*:*:*:*",
+      "title": "ABB UDC Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:abb:udc_firmware:2106177-007:*:*:*:*:*:*:*",
+      "title": "ABB UDC Firmware 2106177-007",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

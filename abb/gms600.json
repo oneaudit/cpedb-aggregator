@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:abb:gms600:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3B05D9A1-A4C3-4E5F-92D4-A721F2F4D4F7",
+        "lastModified": "2023-05-16T20:56:47.737",
+        "created": "2021-06-29T13:25:43.550",
+        "titles": [
+          {
+            "title": "ABB GMS600",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:gms600:-:*:*:*:*:*:*:*",
+            "cpeNameId": "AD780931-308D-4FE3-BB87-9BAC0D021552"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:abb:gms600:-:*:*:*:*:*:*:*",
+      "title": "ABB GMS600",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:gms600:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

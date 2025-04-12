@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:abb:txpert_hub_coretec_5:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BDD31662-F041-41CB-94EB-CD105B6B6514",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2023-03-20T16:01:24.903",
+        "titles": [
+          {
+            "title": "ABB TXpert Hub CoreTec 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:txpert_hub_coretec_5:-:*:*:*:*:*:*:*",
+            "cpeNameId": "DE474AB5-16DB-49E7-B65C-DC23E1987924"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:abb:txpert_hub_coretec_5:-:*:*:*:*:*:*:*",
+      "title": "ABB TXpert Hub CoreTec 5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:txpert_hub_coretec_5:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:flow-x\\/s_firmware:3.2.6:*:*:*:*:*:*:*",
+        "cpeNameId": "5EBA08CD-4274-4229-9495-261046EE8534",
+        "lastModified": "2023-04-07T14:24:00.873",
+        "created": "2023-04-05T17:03:36.860",
+        "titles": [
+          {
+            "title": "ABB FLOW-X/S Firmware 3.2.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:flow-x\\/s_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B784090F-7585-438A-9D01-127B6C411BF6",
+        "lastModified": "2023-04-07T14:24:00.873",
+        "created": "2023-04-05T17:03:36.860",
+        "titles": [
+          {
+            "title": "ABB FLOW-X/S Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:flow-x\\/s_firmware:3.2.6:*:*:*:*:*:*:*",
+      "title": "ABB FLOW-X/S Firmware 3.2.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:abb:flow-x\\/s_firmware:-:*:*:*:*:*:*:*",
+      "title": "ABB FLOW-X/S Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

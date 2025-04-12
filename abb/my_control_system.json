@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:abb:my_control_system:5.0:*:*:*:on-premise:*:*:*",
+        "cpeNameId": "523BA67F-7680-41E8-84EA-31D9715C82E4",
+        "lastModified": "2023-09-26T21:25:27.770",
+        "created": "2023-09-26T21:25:27.770",
+        "titles": [
+          {
+            "title": "ABB My Control System 5.0 On-premise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:abb:my_control_system:5.13:*:*:*:on-premise:*:*:*",
+        "cpeNameId": "95FF0A03-7D38-47D8-B1A6-7CAC065FC8C7",
+        "lastModified": "2023-09-26T21:25:27.770",
+        "created": "2023-09-26T21:25:27.770",
+        "titles": [
+          {
+            "title": "ABB My Control System 5.13 On-premise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:abb:my_control_system:5.0:*:*:*:on-premise:*:*:*",
+      "title": "ABB My Control System 5.0 On-premise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:abb:my_control_system:5.13:*:*:*:on-premise:*:*:*",
+      "title": "ABB My Control System 5.13 On-premise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

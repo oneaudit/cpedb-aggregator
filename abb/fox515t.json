@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:abb:fox515t:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0421F200-6F85-49C7-BEE8-DD73706CC77F",
+        "lastModified": "2023-05-16T20:46:58.827",
+        "created": "2017-11-07T19:25:39.970",
+        "titles": [
+          {
+            "title": "ABB FOX515T",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:fox515t:-:*:*:*:*:*:*:*",
+            "cpeNameId": "78E52804-CC9A-48BE-BEA8-BA00EED4667D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:abb:fox515t:-:*:*:*:*:*:*:*",
+      "title": "ABB FOX515T",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:fox515t:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

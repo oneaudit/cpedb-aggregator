@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:abb:ellipse:8.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EA3D39DB-6CAB-4504-BCEA-98184081246B",
+        "lastModified": "2023-05-16T20:10:12.660",
+        "created": "2020-08-19T16:29:12.437",
+        "titles": [
+          {
+            "title": "Abb Ellipse 8.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hitachienergy:ellipse:8.3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "55EAD03E-3B56-4BA0-BAC0-BE489735AE67"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:abb:ellipse:8.9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "852CF331-B02B-4704-9C14-5AEC385523A1",
+        "lastModified": "2023-05-16T20:10:12.660",
+        "created": "2020-08-19T16:29:12.577",
+        "titles": [
+          {
+            "title": "Abb Ellipse 8.9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hitachienergy:ellipse:8.9.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2A95E759-11F7-4FE7-A0C8-7447F905FBB5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:abb:ellipse:8.3.0:*:*:*:*:*:*:*",
+      "title": "Abb Ellipse 8.3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hitachienergy:ellipse:8.3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:abb:ellipse:8.9.0:*:*:*:*:*:*:*",
+      "title": "Abb Ellipse 8.9.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hitachienergy:ellipse:8.9.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

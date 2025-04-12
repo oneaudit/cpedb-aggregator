@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:pwc600_firmware:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B30FF33E-50A1-40CA-AED0-D34B62059A00",
+        "lastModified": "2023-05-16T20:59:37.567",
+        "created": "2021-06-29T13:26:24.627",
+        "titles": [
+          {
+            "title": "ABB PWC600 Firmware 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:pwc600_firmware:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "CC381CC5-900C-4F16-9BFF-5057E0219FEF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:pwc600_firmware:1.0.1.4:*:*:*:*:*:*:*",
+        "cpeNameId": "3770CA4A-AA26-467A-93E5-5608732FE392",
+        "lastModified": "2023-05-16T20:59:37.567",
+        "created": "2021-06-29T13:26:24.627",
+        "titles": [
+          {
+            "title": "ABB PWC600 Firmware 1.0.1.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:pwc600_firmware:1.0.1.4:*:*:*:*:*:*:*",
+            "cpeNameId": "7E1026F4-8894-4980-9AEA-469B6FF19C95"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:pwc600_firmware:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "99807911-761E-4CF5-B3B4-E268A1655C9E",
+        "lastModified": "2023-05-16T20:59:37.567",
+        "created": "2021-06-29T13:26:31.113",
+        "titles": [
+          {
+            "title": "ABB PWC600 Firmware 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:pwc600_firmware:1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "FF021254-852F-4AC2-91C3-21E43D136638"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:pwc600_firmware:1.1.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "9B3F436A-C7FC-4239-8923-F0284872D95E",
+        "lastModified": "2023-05-16T20:59:37.567",
+        "created": "2021-06-29T13:26:31.113",
+        "titles": [
+          {
+            "title": "ABB PWC600 Firmware 1.1.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:pwc600_firmware:1.1.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "E2C06921-3497-47F5-BC00-CFB831EF80E0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:pwc600_firmware:1.0:*:*:*:*:*:*:*",
+      "title": "ABB PWC600 Firmware 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:pwc600_firmware:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:abb:pwc600_firmware:1.0.1.4:*:*:*:*:*:*:*",
+      "title": "ABB PWC600 Firmware 1.0.1.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:pwc600_firmware:1.0.1.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:abb:pwc600_firmware:1.1:*:*:*:*:*:*:*",
+      "title": "ABB PWC600 Firmware 1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:pwc600_firmware:1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:abb:pwc600_firmware:1.1.0.1:*:*:*:*:*:*:*",
+      "title": "ABB PWC600 Firmware 1.1.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:pwc600_firmware:1.1.0.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

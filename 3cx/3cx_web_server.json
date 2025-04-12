@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:3cx:3cx_web_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "89FEB811-634A-46E9-A3E5-91C1AC335B34",
+        "lastModified": "2021-04-06T00:44:38.840",
+        "created": "2018-09-25T23:50:03.440",
+        "titles": [
+          {
+            "title": "3CX Web Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:3cx:3cx_web_server:15.5.8801.3:*:*:*:*:*:*:*",
+        "cpeNameId": "2DA594B9-1B65-4663-B28C-932CD0F41625",
+        "lastModified": "2021-04-02T14:32:20.127",
+        "created": "2018-09-26T17:28:58.943",
+        "titles": [
+          {
+            "title": "3CX Web Server 15.5.8801.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:3cx:3cx_web_server:-:*:*:*:*:*:*:*",
+      "title": "3CX Web Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:3cx:3cx_web_server:15.5.8801.3:*:*:*:*:*:*:*",
+      "title": "3CX Web Server 15.5.8801.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

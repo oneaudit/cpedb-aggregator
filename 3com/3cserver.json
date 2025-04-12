@@ -1,0 +1,58 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:3com:3cserver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FFADC2E2-6888-490E-98CB-6D86D2E893A6",
+        "lastModified": "2011-01-12T14:35:43.867",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "3Com 3CServer",
+            "lang": "en"
+          },
+          {
+            "title": "スリーコム 3CServer",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:3com:3cserver:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "E6A915CF-EDA3-4CD2-A98F-AE62D1793F4A",
+        "lastModified": "2011-01-12T14:35:44.020",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "3Com 3CServer 1.1",
+            "lang": "en"
+          },
+          {
+            "title": "スリーコム 3CServer 1.1",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:3com:3cserver:-:*:*:*:*:*:*:*",
+      "title": "3Com 3CServer",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:3com:3cserver:1.1:*:*:*:*:*:*:*",
+      "title": "3Com 3CServer 1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

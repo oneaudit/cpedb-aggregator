@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:gms600_firmware:1.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F3086EE5-36B9-46A5-8700-864131AF4152",
+        "lastModified": "2023-05-16T20:59:37.567",
+        "created": "2021-06-29T13:26:15.600",
+        "titles": [
+          {
+            "title": "ABB GMS600 Firmware 1.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:gms600_firmware:1.3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "6F5A5EF4-6A21-4F4F-9ED6-9782DDD4DB88"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:gms600_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2D83802B-E117-4B09-A4E5-30466E8A5BF1",
+        "lastModified": "2023-05-16T20:59:37.567",
+        "created": "2021-06-29T13:26:15.600",
+        "titles": [
+          {
+            "title": "ABB GMS600 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:gms600_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7D3E8EE1-90AD-4BFC-A85F-5CE472029E70"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:gms600_firmware:1.3.0:*:*:*:*:*:*:*",
+      "title": "ABB GMS600 Firmware 1.3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:gms600_firmware:1.3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:abb:gms600_firmware:-:*:*:*:*:*:*:*",
+      "title": "ABB GMS600 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:gms600_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

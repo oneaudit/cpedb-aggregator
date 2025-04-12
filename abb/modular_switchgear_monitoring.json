@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:abb:modular_switchgear_monitoring:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4BB04814-079D-486F-A2AE-45441F070DB0",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2021-06-29T13:25:43.550",
+        "titles": [
+          {
+            "title": "ABB MODULAR SWITCHGEAR MONITORING",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:modular_switchgear_monitoring:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5677DB6C-1A01-4818-8B70-0C650108911D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:abb:modular_switchgear_monitoring:-:*:*:*:*:*:*:*",
+      "title": "ABB MODULAR SWITCHGEAR MONITORING",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:modular_switchgear_monitoring:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

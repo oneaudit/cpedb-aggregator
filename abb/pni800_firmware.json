@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:pni800_firmware:a_b:*:*:*:*:*:*:*",
+        "cpeNameId": "DFFEDD79-56E6-4537-A25B-9CB641E5245D",
+        "lastModified": "2022-02-08T18:39:59.900",
+        "created": "2022-02-08T15:02:28.940",
+        "titles": [
+          {
+            "title": "ABB PNI800 Firmware A_B",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:pni800_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FD5E2BA6-18B9-4629-A1AC-1C78B146F81F",
+        "lastModified": "2022-02-08T18:39:59.900",
+        "created": "2022-02-08T15:02:53.333",
+        "titles": [
+          {
+            "title": "ABB PNI800 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:pni800_firmware:a_b:*:*:*:*:*:*:*",
+      "title": "ABB PNI800 Firmware A_B",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:abb:pni800_firmware:-:*:*:*:*:*:*:*",
+      "title": "ABB PNI800 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

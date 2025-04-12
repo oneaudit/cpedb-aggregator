@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:abb:pcm600:2.6:*:*:*:*:*:*:*",
+        "cpeNameId": "08845774-0753-4784-B9D4-0DE850D85BE7",
+        "lastModified": "2021-04-02T14:43:58.530",
+        "created": "2016-06-10T14:10:34.957",
+        "titles": [
+          {
+            "title": "ABB PCM600 2.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:abb:pcm600:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6D06BAA5-8533-4280-B534-CFF16B5E4E1F",
+        "lastModified": "2023-05-16T20:56:47.737",
+        "created": "2021-10-29T13:15:10.983",
+        "titles": [
+          {
+            "title": "ABB PCM600",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:pcm600:-:*:*:*:*:*:*:*",
+            "cpeNameId": "083C3F49-A235-485E-B986-D77D548D49AD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:abb:pcm600:2.6:*:*:*:*:*:*:*",
+      "title": "ABB PCM600 2.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:abb:pcm600:-:*:*:*:*:*:*:*",
+      "title": "ABB PCM600",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:pcm600:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

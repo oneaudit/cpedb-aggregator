@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:abb:relion_630:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DFB7CEE1-7F4D-446C-9C37-3A0C1AA3957B",
+        "lastModified": "2023-05-16T20:56:47.737",
+        "created": "2019-01-18T13:49:13.633",
+        "titles": [
+          {
+            "title": "Abb Relion 630",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:relion_630:-:*:*:*:*:*:*:*",
+            "cpeNameId": "AECB9288-EF72-487B-B343-0C0653840FCC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:abb:relion_630:-:*:*:*:*:*:*:*",
+      "title": "Abb Relion 630",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:relion_630:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

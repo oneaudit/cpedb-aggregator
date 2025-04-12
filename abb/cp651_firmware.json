@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:cp651_firmware:1.76:*:*:*:*:*:*:*",
+        "cpeNameId": "809A52CA-7742-4E95-BD67-00A5F9FBEB6A",
+        "lastModified": "2021-05-19T15:51:50.770",
+        "created": "2019-07-01T17:32:58.223",
+        "titles": [
+          {
+            "title": "ABB CP651 Firmware 1.76",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:cp651_firmware:bsp_un30_1.76:*:*:*:*:*:*:*",
+        "cpeNameId": "B9A21EE2-5EF9-4024-85A0-8DE908CB5DE2",
+        "lastModified": "2020-02-26T15:54:35.770",
+        "created": "2020-02-26T15:54:35.770",
+        "titles": [
+          {
+            "title": "ABB CP651 Firmware BSP UN30 1.76",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:cp651_firmware:1.76:*:*:*:*:*:*:*",
+      "title": "ABB CP651 Firmware 1.76",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:abb:cp651_firmware:bsp_un30_1.76:*:*:*:*:*:*:*",
+      "title": "ABB CP651 Firmware BSP UN30 1.76",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

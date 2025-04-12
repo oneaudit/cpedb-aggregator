@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:modular_switchgear_monitoring_firmware:2.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "899F9DE1-F073-4EF8-ACAF-F4C38D94B642",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2021-06-29T13:30:34.870",
+        "titles": [
+          {
+            "title": "ABB Modular Switchgear Monitoring Firmware 2.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:modular_switchgear_monitoring_firmware:2.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3E0EFF9D-BF99-45C8-83F4-0B98666AF8B1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:modular_switchgear_monitoring_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8C9B5748-B858-49E2-BCEB-DF84ED0E738B",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2021-06-29T13:30:34.870",
+        "titles": [
+          {
+            "title": "ABB Modular Switchgear Monitoring Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:modular_switchgear_monitoring_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F5748A45-9DF1-40F0-BE71-6A27504FB58C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:abb:modular_switchgear_monitoring_firmware:2.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "330D5279-C59D-4B1F-A74B-F654CA2DC243",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2022-08-01T16:54:09.070",
+        "titles": [
+          {
+            "title": "ABB Modular Switchgear Monitoring Firmware 2.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:hitachienergy:modular_switchgear_monitoring_firmware:2.2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "5B382D08-42CE-45C1-AF61-EA380368F962"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:modular_switchgear_monitoring_firmware:2.1.0:*:*:*:*:*:*:*",
+      "title": "ABB Modular Switchgear Monitoring Firmware 2.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:modular_switchgear_monitoring_firmware:2.1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:abb:modular_switchgear_monitoring_firmware:-:*:*:*:*:*:*:*",
+      "title": "ABB Modular Switchgear Monitoring Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:modular_switchgear_monitoring_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:abb:modular_switchgear_monitoring_firmware:2.2.0:*:*:*:*:*:*:*",
+      "title": "ABB Modular Switchgear Monitoring Firmware 2.2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:hitachienergy:modular_switchgear_monitoring_firmware:2.2.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

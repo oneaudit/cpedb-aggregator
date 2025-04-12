@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:123.chat:123.chat:1.3.1:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "C947DC2A-0F48-462C-9286-1C796B7C1206",
+        "lastModified": "2023-09-09T02:15:44.050",
+        "created": "2023-09-06T16:07:37.823",
+        "titles": [
+          {
+            "title": "123.chat 123.chat 1.3.1 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:123.chat:123.chat:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "D440D958-573F-4EF6-A4ED-6B8436D5E973",
+        "lastModified": "2023-09-09T02:15:44.050",
+        "created": "2023-09-06T16:07:37.823",
+        "titles": [
+          {
+            "title": "123.chat 123.chat - for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:123.chat:123.chat:1.3.1:*:*:*:*:wordpress:*:*",
+      "title": "123.chat 123.chat 1.3.1 for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:123.chat:123.chat:-:*:*:*:*:wordpress:*:*",
+      "title": "123.chat 123.chat - for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

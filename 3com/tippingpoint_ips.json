@@ -1,0 +1,59 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:3com:tippingpoint_ips:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5BD99AF0-33A4-4F35-8D88-6DC02A3BFAD6",
+        "lastModified": "2011-01-12T14:36:09.427",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "スリーコム TippingPoint IPS",
+            "lang": "ja"
+          },
+          {
+            "title": "3Com TippingPoint IPS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:3com:tippingpoint_ips:-:*:*:*:*:*:*:*",
+        "cpeNameId": "50E6FB13-66B2-44EE-9182-73CDAD302B8B",
+        "lastModified": "2010-12-28T17:35:59.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "3Com TippingPoint IPS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:3com:tippingpoint_ips:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5BD99AF0-33A4-4F35-8D88-6DC02A3BFAD6"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:3com:tippingpoint_ips:-:*:*:*:*:*:*:*",
+      "title": "3Com TippingPoint IPS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:3com:tippingpoint_ips:-:*:*:*:*:*:*:*",
+      "title": "3Com TippingPoint IPS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:3com:tippingpoint_ips:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

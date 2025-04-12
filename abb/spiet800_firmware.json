@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:spiet800_firmware:a_b:*:*:*:*:*:*:*",
+        "cpeNameId": "7D6A0349-05BA-479E-AE22-25729B03B67D",
+        "lastModified": "2022-02-08T18:39:59.900",
+        "created": "2022-02-08T15:02:34.417",
+        "titles": [
+          {
+            "title": "ABB SPIET800 Firmware A_B",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:abb:spiet800_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CFF81FEF-3EC1-411F-828D-4AA784D64D61",
+        "lastModified": "2022-02-08T18:39:59.900",
+        "created": "2022-02-08T15:02:46.013",
+        "titles": [
+          {
+            "title": "ABB SPIET800 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:abb:spiet800_firmware:a_b:*:*:*:*:*:*:*",
+      "title": "ABB SPIET800 Firmware A_B",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:abb:spiet800_firmware:-:*:*:*:*:*:*:*",
+      "title": "ABB SPIET800 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

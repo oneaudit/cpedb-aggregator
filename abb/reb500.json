@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:abb:reb500:-:*:*:*:*:*:*:*",
+        "cpeNameId": "62852316-40B4-45E8-AB21-1977B9759E4C",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2021-06-29T13:25:43.550",
+        "titles": [
+          {
+            "title": "ABB REB500",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:reb500:-:*:*:*:*:*:*:*",
+            "cpeNameId": "9CBFE157-B93E-4B6E-B6D4-DCC95EB290A4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:abb:reb500:-:*:*:*:*:*:*:*",
+      "title": "ABB REB500",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:reb500:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

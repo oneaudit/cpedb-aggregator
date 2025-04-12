@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:abb:sys600:-:*:*:*:*:*:*:*",
+        "cpeNameId": "37109AA6-0C2D-4B61-A393-4032FE9E0147",
+        "lastModified": "2023-04-19T15:32:23.947",
+        "created": "2018-03-14T14:39:45.140",
+        "titles": [
+          {
+            "title": "ABB MicroSCADA Pro SYS600",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hitachienergy:sys600:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D9B6258A-908F-416F-A628-2CDDD63D44E5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:abb:sys600:-:*:*:*:*:*:*:*",
+      "title": "ABB MicroSCADA Pro SYS600",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hitachienergy:sys600:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
