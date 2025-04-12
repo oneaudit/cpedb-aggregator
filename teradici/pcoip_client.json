@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:teradici:pcoip_client:19.08.3:*:*:*:*:*:*:*",
+        "cpeNameId": "E8C6D272-4968-4506-A86D-AB70654D55A1",
+        "lastModified": "2020-02-27T16:10:21.257",
+        "created": "2020-02-27T16:10:21.257",
+        "titles": [
+          {
+            "title": "Teradici PCoIP Client 19.08.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:teradici:pcoip_client:21.07.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6C298310-CFCE-40A7-85B4-341E039FC9D3",
+        "lastModified": "2021-09-18T12:33:44.740",
+        "created": "2021-07-27T14:14:25.807",
+        "titles": [
+          {
+            "title": "Teradici PCoIP Client 21.07.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:teradici:pcoip_client:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AE9E9E31-620D-471B-AE7E-CBF407CF34F8",
+        "lastModified": "2021-09-18T12:33:44.740",
+        "created": "2021-07-27T14:14:25.807",
+        "titles": [
+          {
+            "title": "Teradici PCoIP Client",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:teradici:pcoip_client:19.08.3:*:*:*:*:*:*:*",
+      "title": "Teradici PCoIP Client 19.08.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:teradici:pcoip_client:21.07.0:*:*:*:*:*:*:*",
+      "title": "Teradici PCoIP Client 21.07.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:teradici:pcoip_client:-:*:*:*:*:*:*:*",
+      "title": "Teradici PCoIP Client",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tecrail:responsive_filemanger:9.11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "08A65C6F-CF9E-4E42-A058-5D8E50CA2087",
+        "lastModified": "2023-02-21T19:09:46.910",
+        "created": "2022-08-01T16:05:06.883",
+        "titles": [
+          {
+            "title": "Tecrail Responsive FileManager 9.11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tecrail:responsive_filemanager:9.11.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3F5E319F-E395-4704-9684-06F9A9F80085"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tecrail:responsive_filemanger:-:*:*:*:*:*:*:*",
+        "cpeNameId": "356C76E6-32F8-4F0E-BFA0-7344FBFE7CE1",
+        "lastModified": "2023-02-10T15:24:42.710",
+        "created": "2022-08-01T16:05:06.883",
+        "titles": [
+          {
+            "title": "Tecrail Responsive FileManager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tecrail:responsive_filemanager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D3111C38-C7BD-4EBA-ACF0-6BF55BDEF460"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tecrail:responsive_filemanger:9.7.3:*:*:*:*:*:*:*",
+        "cpeNameId": "8D5573DF-83F6-49A4-AE10-C39E4F078A4A",
+        "lastModified": "2023-02-21T19:09:46.910",
+        "created": "2022-08-01T16:05:06.883",
+        "titles": [
+          {
+            "title": "Tecrail Responsive FileManager 9.7.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tecrail:responsive_filemanager:9.7.3:*:*:*:*:*:*:*",
+            "cpeNameId": "B6E86CBF-0C86-427B-9DDF-EC7F9E6B6D2F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:tecrail:responsive_filemanger:9.11.0:*:*:*:*:*:*:*",
+      "title": "Tecrail Responsive FileManager 9.11.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tecrail:responsive_filemanager:9.11.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:tecrail:responsive_filemanger:-:*:*:*:*:*:*:*",
+      "title": "Tecrail Responsive FileManager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tecrail:responsive_filemanager:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:tecrail:responsive_filemanger:9.7.3:*:*:*:*:*:*:*",
+      "title": "Tecrail Responsive FileManager 9.7.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tecrail:responsive_filemanager:9.7.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

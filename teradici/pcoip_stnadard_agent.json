@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:teradici:pcoip_stnadard_agent:21.07.0:*:*:*:*:windows:*:*",
+        "cpeNameId": "5D9BAD67-7AE4-448C-8A82-605AF880F69F",
+        "lastModified": "2022-06-06T15:36:16.953",
+        "created": "2021-07-27T14:00:50.547",
+        "titles": [
+          {
+            "title": "Teradici PCoIP Standard Agent 21.07.0 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:teradici:pcoip_standard_agent:21.07.0:*:*:*:*:windows:*:*",
+            "cpeNameId": "3F6C49CC-1276-41C8-9B29-88F9D792DFE1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:teradici:pcoip_stnadard_agent:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "D5A6122F-8500-4B66-8F99-B7131EEA4C56",
+        "lastModified": "2022-06-06T15:36:16.953",
+        "created": "2021-07-27T14:00:50.547",
+        "titles": [
+          {
+            "title": "Teradici PCoIP Standard Agent - for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:teradici:pcoip_standard_agent:-:*:*:*:*:windows:*:*",
+            "cpeNameId": "CC11CE31-82B6-4356-9B7E-15B317D22C54"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:teradici:pcoip_stnadard_agent:21.07.0:*:*:*:*:windows:*:*",
+      "title": "Teradici PCoIP Standard Agent 21.07.0 for Windows",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:teradici:pcoip_standard_agent:21.07.0:*:*:*:*:windows:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:teradici:pcoip_stnadard_agent:-:*:*:*:*:windows:*:*",
+      "title": "Teradici PCoIP Standard Agent - for Windows",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:teradici:pcoip_standard_agent:-:*:*:*:*:windows:*:*"
+    }
+  ]
+}

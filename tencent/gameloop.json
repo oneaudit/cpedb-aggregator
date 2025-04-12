@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:tencent:gameloop:4.1.21.90:*:*:*:*:*:*:*",
+        "cpeNameId": "CB53F5F0-10AB-4B4E-BB79-7D66ACF48D2A",
+        "lastModified": "2021-09-23T12:51:55.823",
+        "created": "2021-06-10T19:36:47.823",
+        "titles": [
+          {
+            "title": "Tencent GameLoop 4.1.21.90",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:tencent:gameloop:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8BB4219C-B7CC-4F3A-9A3B-EF6B769D7759",
+        "lastModified": "2021-09-23T12:51:55.823",
+        "created": "2021-06-10T19:36:47.823",
+        "titles": [
+          {
+            "title": "Tencent GameLoop",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:tencent:gameloop:4.1.21.90:*:*:*:*:*:*:*",
+      "title": "Tencent GameLoop 4.1.21.90",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:tencent:gameloop:-:*:*:*:*:*:*:*",
+      "title": "Tencent GameLoop",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

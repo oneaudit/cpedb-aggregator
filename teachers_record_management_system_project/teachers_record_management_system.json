@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:teachers_record_management_system_project:teachers_record_management_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EB39F666-6A00-4CED-A822-FF8C8431646C",
+        "lastModified": "2023-11-14T20:48:59.840",
+        "created": "2021-02-18T14:51:24.267",
+        "titles": [
+          {
+            "title": "Teachers Record Management System Project Teachers Record Management System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:teachers_record_management_system:-:*:*:*:*:*:*:*",
+            "cpeNameId": "068AE6A4-6BA6-40F5-AD6A-C6BA9D0024D0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:teachers_record_management_system_project:teachers_record_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4FD96311-F89D-4405-8A0E-32128320D302",
+        "lastModified": "2023-11-14T20:48:59.840",
+        "created": "2021-02-18T14:51:24.593",
+        "titles": [
+          {
+            "title": "Teachers Record Management System Project Teachers Record Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:teachers_record_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "4A40DC2A-5772-4FF5-ABC0-951AD831DAF3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:teachers_record_management_system_project:teachers_record_management_system:-:*:*:*:*:*:*:*",
+      "title": "Teachers Record Management System Project Teachers Record Management System",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:teachers_record_management_system:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:teachers_record_management_system_project:teachers_record_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Teachers Record Management System Project Teachers Record Management System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:teachers_record_management_system:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

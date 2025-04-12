@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:tenda:ac1200_v-w15ev2:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EDED29E0-995D-4BFC-9A90-2406C8D33B7A",
+        "lastModified": "2023-01-27T14:24:48.620",
+        "created": "2022-11-15T14:33:59.120",
+        "titles": [
+          {
+            "title": "Tenda AC1200 V-W15EV2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:tenda:w15e:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "8193D292-8F68-4B29-B965-AAF25A315F55"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:tenda:ac1200_v-w15ev2:-:*:*:*:*:*:*:*",
+      "title": "Tenda AC1200 V-W15EV2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:tenda:w15e:2.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

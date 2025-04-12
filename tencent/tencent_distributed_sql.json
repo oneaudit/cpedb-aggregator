@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:tencent:tencent_distributed_sql:1.8.5:*:*:*:*:tencent_cloud:*:*",
+        "cpeNameId": "44FD342E-87E9-44B0-AED0-BD89B73150BB",
+        "lastModified": "2024-01-06T19:22:44.120",
+        "created": "2024-01-06T19:22:44.120",
+        "titles": [
+          {
+            "title": "Tencent Distributed SQL (TDSQL) 1.8.5 for Tencent Cloud",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:tencent:tencent_distributed_sql:-:*:*:*:*:tencent_cloud:*:*",
+        "cpeNameId": "A41D6315-4A70-42DA-A811-14BEACEA3132",
+        "lastModified": "2024-01-06T19:22:44.120",
+        "created": "2024-01-06T19:22:44.120",
+        "titles": [
+          {
+            "title": "Tencent Distributed SQL (TDSQL) for Tencent Cloud",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:tencent:tencent_distributed_sql:1.8.5:*:*:*:*:tencent_cloud:*:*",
+      "title": "Tencent Distributed SQL (TDSQL) 1.8.5 for Tencent Cloud",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:tencent:tencent_distributed_sql:-:*:*:*:*:tencent_cloud:*:*",
+      "title": "Tencent Distributed SQL (TDSQL) for Tencent Cloud",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

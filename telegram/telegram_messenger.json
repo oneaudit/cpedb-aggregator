@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:telegram:telegram_messenger:3.3.0.0:*:*:*:*:windows:*:*",
+        "cpeNameId": "E6EB9047-8D76-497D-8B20-6E9D2FEFEAC1",
+        "lastModified": "2018-12-18T15:52:52.850",
+        "created": "2018-12-18T15:52:52.850",
+        "titles": [
+          {
+            "title": "Telegram Messenger 3.3.0.0 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:telegram:telegram_messenger:2017-12-08:*:*:*:*:android:*:*",
+        "cpeNameId": "36A602C8-54F2-4666-AEFC-1101DB041D28",
+        "lastModified": "2020-06-29T20:39:05.947",
+        "created": "2020-06-29T20:39:05.947",
+        "titles": [
+          {
+            "title": "Telegram Messenger 2017-12-08 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:telegram:telegram_messenger:3.3.0.0:*:*:*:*:windows:*:*",
+      "title": "Telegram Messenger 3.3.0.0 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:telegram:telegram_messenger:2017-12-08:*:*:*:*:android:*:*",
+      "title": "Telegram Messenger 2017-12-08 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
