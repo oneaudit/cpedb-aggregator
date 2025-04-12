@@ -1,0 +1,121 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:11.0:sp3:*:*:*:vmware:*:*",
+        "cpeNameId": "D39A47F3-F3F3-413E-89E7-C3A3ABE82F5B",
+        "lastModified": "2017-01-11T12:34:52.543",
+        "created": "2017-01-11T12:34:52.543",
+        "titles": [
+          {
+            "title": "OpenSUSE Project SUSE Linux Enterprise Server 11.0 Service Pack 3 for VMware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:11.0:sp3:*:*:*:*:*:*",
+        "cpeNameId": "69B806C5-6AB8-4225-A088-BF3624B5CB28",
+        "lastModified": "2017-01-26T19:15:04.623",
+        "created": "2017-01-11T12:34:52.717",
+        "titles": [
+          {
+            "title": "OpenSUSE Project SUSE Linux Enterprise Server 11.0 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:opensuse:suse_linux_enterprise_server:11.0:sp3:*:*:*:*:*:*",
+            "cpeNameId": "4B7BE1C7-85C2-4EF6-8F86-65F316E5A8AE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:12.0:sp2:*:*:*:*:*:*",
+        "cpeNameId": "28DAA9D6-C254-4058-8E6B-622A4B7561E0",
+        "lastModified": "2021-06-25T15:05:37.673",
+        "created": "2017-03-22T14:43:45.700",
+        "titles": [
+          {
+            "title": "OpenSUSE Project SUSE Linux Enterprise Server 12.0 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:12.0:sp1:*:*:*:*:*:*",
+        "cpeNameId": "1925457D-5C93-4495-AF62-F4BD5EB311FF",
+        "lastModified": "2021-06-25T15:05:37.673",
+        "created": "2017-03-22T14:43:45.700",
+        "titles": [
+          {
+            "title": "OpenSUSE Project SUSE Linux Enterprise Server 12.0 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:11.0:sp4:*:*:*:*:*:*",
+        "cpeNameId": "5A1C9CAE-B417-4539-987C-9F6237547BCA",
+        "lastModified": "2021-06-25T15:05:37.673",
+        "created": "2017-03-22T16:34:31.650",
+        "titles": [
+          {
+            "title": "OpenSUSE Project SUSE Linux Enterprise Server 11.0 Service Pack 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:11.0:sp3:*:*:*:vmware:*:*",
+      "title": "OpenSUSE Project SUSE Linux Enterprise Server 11.0 Service Pack 3 for VMware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:11.0:sp3:*:*:*:*:*:*",
+      "title": "OpenSUSE Project SUSE Linux Enterprise Server 11.0 Service Pack 3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:opensuse:suse_linux_enterprise_server:11.0:sp3:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:12.0:sp2:*:*:*:*:*:*",
+      "title": "OpenSUSE Project SUSE Linux Enterprise Server 12.0 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:12.0:sp1:*:*:*:*:*:*",
+      "title": "OpenSUSE Project SUSE Linux Enterprise Server 12.0 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:11.0:sp4:*:*:*:*:*:*",
+      "title": "OpenSUSE Project SUSE Linux Enterprise Server 11.0 Service Pack 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

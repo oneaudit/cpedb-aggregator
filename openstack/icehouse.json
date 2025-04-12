@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openstack:icehouse:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7EB696C0-27B6-48B5-A986-355C9ED389AC",
+        "lastModified": "2014-06-30T18:35:10.513",
+        "created": "2014-02-07T16:57:10.083",
+        "titles": [
+          {
+            "title": "OpenStack icehouse",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openstack:icehouse:2014.1.4:*:*:*:*:*:*:*",
+        "cpeNameId": "66397F91-6745-4666-A44E-D845A9C05474",
+        "lastModified": "2015-06-29T18:20:06.657",
+        "created": "2015-06-26T13:06:47.933",
+        "titles": [
+          {
+            "title": "OpenStack icehouse 2014.1.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:openstack:icehouse:-:*:*:*:*:*:*:*",
+      "title": "OpenStack icehouse",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:openstack:icehouse:2014.1.4:*:*:*:*:*:*:*",
+      "title": "OpenStack icehouse 2014.1.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

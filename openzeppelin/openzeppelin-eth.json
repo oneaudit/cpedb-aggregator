@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:node.js:*:*:*",
+        "cpeNameId": "1CE7CD3B-3FE1-4679-8BCF-DA2E00E2E668",
+        "lastModified": "2023-12-16T04:05:58.243",
+        "created": "2022-08-08T11:55:54.827",
+        "titles": [
+          {
+            "title": "Openzeppelin Openzeppelin-eth 2.0.0 Node.js Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:*:node.js:*:*",
+            "cpeNameId": "70ED415B-3EAD-437B-9873-5C052B758724"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:*:node.js:*:*",
+        "cpeNameId": "70ED415B-3EAD-437B-9873-5C052B758724",
+        "lastModified": "2023-12-16T04:05:58.243",
+        "created": "2023-12-16T04:05:58.243",
+        "titles": [
+          {
+            "title": "Openzeppelin Openzeppelin-eth 2.0.0 for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:node.js:*:*:*",
+      "title": "Openzeppelin Openzeppelin-eth 2.0.0 Node.js Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:*:node.js:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:*:node.js:*:*",
+      "title": "Openzeppelin Openzeppelin-eth 2.0.0 for Node.js",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:online_shopping_portal_project:online_shopping_portal:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "68031DDE-1E34-4DC5-AF3E-D953665954E7",
+        "lastModified": "2023-11-14T16:47:18.747",
+        "created": "2021-11-01T19:45:06.570",
+        "titles": [
+          {
+            "title": "Online Shopping Portal Project Online Shopping Portal 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:online_shopping_portal:3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "85E910D1-3065-4765-83B5-A5248ECAE3BD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:online_shopping_portal_project:online_shopping_portal:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B0C888B2-4499-4E4A-B7C3-E7D896E35191",
+        "lastModified": "2023-11-14T16:47:18.747",
+        "created": "2023-09-28T14:46:47.747",
+        "titles": [
+          {
+            "title": "Online Shopping Portal Project Online Shopping Portal 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:online_shopping_portal:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "40A60438-A5D8-429F-9C61-C2C172B9A584"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:online_shopping_portal_project:online_shopping_portal:3.1:*:*:*:*:*:*:*",
+      "title": "Online Shopping Portal Project Online Shopping Portal 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:online_shopping_portal:3.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:online_shopping_portal_project:online_shopping_portal:1.0:*:*:*:*:*:*:*",
+      "title": "Online Shopping Portal Project Online Shopping Portal 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:online_shopping_portal:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

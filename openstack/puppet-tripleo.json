@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openstack:puppet-tripleo:6.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "242FF70B-34C9-468A-BA21-531FE9D1249F",
+        "lastModified": "2021-04-20T13:54:38.137",
+        "created": "2018-05-25T15:08:09.740",
+        "titles": [
+          {
+            "title": "OpenStack Puppet Tripleo 6.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openstack:puppet-tripleo:5.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0871964E-6A0A-4ED6-BCAB-F8625B24105A",
+        "lastModified": "2021-04-20T13:54:38.137",
+        "created": "2018-05-25T15:08:09.740",
+        "titles": [
+          {
+            "title": "OpenStack Puppet Tripleo 5.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:openstack:puppet-tripleo:6.2.0:*:*:*:*:*:*:*",
+      "title": "OpenStack Puppet Tripleo 6.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:openstack:puppet-tripleo:5.5.0:*:*:*:*:*:*:*",
+      "title": "OpenStack Puppet Tripleo 5.5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:optipng:optipng:0.6.4:*:*:*:*:*:*:*",
+        "cpeNameId": "F0025F08-FA08-41BB-9B28-8B5BD87D8375",
+        "lastModified": "2017-12-01T15:02:02.347",
+        "created": "2016-04-25T13:57:36.170",
+        "titles": [
+          {
+            "title": "OptiPNG 0.6.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:optipng_project:optipng:0.6.4:*:*:*:*:*:*:*",
+            "cpeNameId": "4AAFC334-DB5E-4F3D-884A-5AF836C9502E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:optipng:optipng:0.7.5:*:*:*:*:*:*:*",
+        "cpeNameId": "CC1F5B65-6235-4566-806B-5285DA9A0A5D",
+        "lastModified": "2017-12-01T15:02:02.363",
+        "created": "2016-04-26T18:44:37.450",
+        "titles": [
+          {
+            "title": "OptiPNG 0.7.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:optipng_project:optipng:0.7.5:*:*:*:*:*:*:*",
+            "cpeNameId": "EF84747A-CC08-46AC-A4E8-7A17E4B7839D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:optipng:optipng:0.6.4:*:*:*:*:*:*:*",
+      "title": "OptiPNG 0.6.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:optipng_project:optipng:0.6.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:optipng:optipng:0.7.5:*:*:*:*:*:*:*",
+      "title": "OptiPNG 0.7.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:optipng_project:optipng:0.7.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

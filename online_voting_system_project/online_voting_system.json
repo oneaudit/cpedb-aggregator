@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:online_voting_system_project:online_voting_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A03A8BAF-4A88-4EA9-87C7-33257ED91C2A",
+        "lastModified": "2020-12-07T14:41:56.677",
+        "created": "2020-12-07T14:41:56.677",
+        "titles": [
+          {
+            "title": "Online Voting System Project Online Voting System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:online_voting_system_project:online_voting_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CE016658-A612-4B14-B56B-044A03D321AB",
+        "lastModified": "2023-09-28T11:27:00.313",
+        "created": "2020-12-07T14:41:57.007",
+        "titles": [
+          {
+            "title": "Online Voting System Project Online Voting System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:janobe:online_voting_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2C106C20-5125-49A9-9470-CE191AAACB6B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:online_voting_system_project:online_voting_system:-:*:*:*:*:*:*:*",
+      "title": "Online Voting System Project Online Voting System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:online_voting_system_project:online_voting_system:1.0:*:*:*:*:*:*:*",
+      "title": "Online Voting System Project Online Voting System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:janobe:online_voting_system:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

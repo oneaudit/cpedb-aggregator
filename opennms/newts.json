@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:opennms:newts:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C35FE294-E389-4BE8-A39E-C83E5A0A42F4",
+        "lastModified": "2021-04-23T18:33:32.180",
+        "created": "2021-02-19T17:10:15.870",
+        "titles": [
+          {
+            "title": "OpenNMS Newts",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:opennms:newts:1.5.3:*:*:*:*:*:*:*",
+        "cpeNameId": "DEF57656-EAA8-4300-9AB3-6ABEE6CBE97C",
+        "lastModified": "2021-04-23T18:33:32.180",
+        "created": "2021-02-19T17:10:15.870",
+        "titles": [
+          {
+            "title": "OpenNMS Newts 1.5.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:opennms:newts:-:*:*:*:*:*:*:*",
+      "title": "OpenNMS Newts",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:opennms:newts:1.5.3:*:*:*:*:*:*:*",
+      "title": "OpenNMS Newts 1.5.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

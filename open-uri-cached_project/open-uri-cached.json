@@ -1,0 +1,121 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:2012-01-07:*:*:*:*:*:*:*",
+        "cpeNameId": "CE13B7CD-4E6D-4A1A-A49F-0BA81778AF2F",
+        "lastModified": "2020-11-05T14:55:31.397",
+        "created": "2020-04-21T16:48:36.577",
+        "titles": [
+          {
+            "title": "Open-uri-cached Project Open-uri-cached 2012-01-07",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:0.0.5:*:*:*:*:ruby:*:*",
+            "cpeNameId": "7191E59D-EEBE-47BC-BBD0-4C3E8E4946DF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:0.0.1:*:*:*:*:ruby:*:*",
+        "cpeNameId": "D6FD9CE6-5B58-4626-94F3-B970393A41D8",
+        "lastModified": "2020-11-05T14:55:31.023",
+        "created": "2020-11-05T14:55:31.023",
+        "titles": [
+          {
+            "title": "open-uri-cached Project open-uri-cached 0.0.1 for Ruby",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:0.0.3:*:*:*:*:ruby:*:*",
+        "cpeNameId": "3523409F-87B5-4FEB-BD28-EC6D7B0096D4",
+        "lastModified": "2020-11-05T14:55:31.117",
+        "created": "2020-11-05T14:55:31.117",
+        "titles": [
+          {
+            "title": "open-uri-cached Project open-uri-cached 0.0.3 for Ruby",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:0.0.4:*:*:*:*:ruby:*:*",
+        "cpeNameId": "0B9DD9EC-5810-47DA-B476-BAF93FF9340D",
+        "lastModified": "2020-11-05T14:55:31.210",
+        "created": "2020-11-05T14:55:31.210",
+        "titles": [
+          {
+            "title": "open-uri-cached Project open-uri-cached 0.0.4 for Ruby",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:0.0.5:*:*:*:*:ruby:*:*",
+        "cpeNameId": "7191E59D-EEBE-47BC-BBD0-4C3E8E4946DF",
+        "lastModified": "2020-11-05T14:55:31.303",
+        "created": "2020-11-05T14:55:31.303",
+        "titles": [
+          {
+            "title": "open-uri-cached Project open-uri-cached 0.0.5 for Ruby",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:2012-01-07:*:*:*:*:*:*:*",
+      "title": "Open-uri-cached Project Open-uri-cached 2012-01-07",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:0.0.5:*:*:*:*:ruby:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:0.0.1:*:*:*:*:ruby:*:*",
+      "title": "open-uri-cached Project open-uri-cached 0.0.1 for Ruby",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:0.0.3:*:*:*:*:ruby:*:*",
+      "title": "open-uri-cached Project open-uri-cached 0.0.3 for Ruby",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:0.0.4:*:*:*:*:ruby:*:*",
+      "title": "open-uri-cached Project open-uri-cached 0.0.4 for Ruby",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:0.0.5:*:*:*:*:ruby:*:*",
+      "title": "open-uri-cached Project open-uri-cached 0.0.5 for Ruby",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

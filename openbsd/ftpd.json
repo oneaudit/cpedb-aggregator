@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openbsd:ftpd:-:*:*:*:*:*:*:*",
+        "cpeNameId": "036E8039-8FA4-45A3-BE88-1FBDDA6A7DA9",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "OpenBSD ftpd",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openbsd:ftpd:5.51:*:*:*:*:*:*:*",
+        "cpeNameId": "AAEE34A3-07C5-4E2A-9B4F-FA77BF6679C5",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "OpenBSD ftpd 5.51",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openbsd:ftpd:5.60:*:*:*:*:*:*:*",
+        "cpeNameId": "3AA98CB2-8FA7-4B44-8BCD-50E343B66873",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "OpenBSD ftpd 5.60",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:openbsd:ftpd:-:*:*:*:*:*:*:*",
+      "title": "OpenBSD ftpd",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:openbsd:ftpd:5.51:*:*:*:*:*:*:*",
+      "title": "OpenBSD ftpd 5.51",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:openbsd:ftpd:5.60:*:*:*:*:*:*:*",
+      "title": "OpenBSD ftpd 5.60",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

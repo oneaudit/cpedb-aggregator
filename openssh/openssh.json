@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:openssh:openssh:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DDB4067F-33D4-42F3-9CEC-A8EE38068897",
+        "lastModified": "2011-06-22T18:30:32.857",
+        "created": "2007-09-13T01:52:12.160",
+        "titles": [
+          {
+            "title": "OpenBSD OpenSSH",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:openbsd:openssh:-:*:*:*:*:*:*:*",
+            "cpeNameId": "6D0F7855-D4B9-4CBA-8CE7-C1E180B0E6C0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:openssh:openssh:4.6:*:*:*:*:*:*:*",
+        "cpeNameId": "1B7CC4DE-9BD1-42DB-95A8-77A95A80FD93",
+        "lastModified": "2011-06-22T18:30:32.933",
+        "created": "2007-09-13T01:52:33.430",
+        "titles": [
+          {
+            "title": "OpenBSD OpenSSH 4.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:openbsd:openssh:4.6:*:*:*:*:*:*:*",
+            "cpeNameId": "2B6BF010-EFBC-454F-BF63-E73EBF9569FD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:openssh:openssh:9.1:*:*:*:*:*:*:*",
+        "cpeNameId": "13C82E7A-CBCD-418F-BDA9-268652EF7F48",
+        "lastModified": "2024-02-27T15:15:13.543",
+        "created": "2023-02-09T16:22:03.497",
+        "titles": [
+          {
+            "title": "OpenSSH OpenSSH 9.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:openbsd:openssh:9.1:-:*:*:*:*:*:*",
+            "cpeNameId": "8AB6D59F-B95B-421C-B6D5-FF50CD59F012"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:openssh:openssh:-:*:*:*:*:*:*:*",
+      "title": "OpenBSD OpenSSH",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:openbsd:openssh:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:openssh:openssh:4.6:*:*:*:*:*:*:*",
+      "title": "OpenBSD OpenSSH 4.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:openbsd:openssh:4.6:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:openssh:openssh:9.1:*:*:*:*:*:*:*",
+      "title": "OpenSSH OpenSSH 9.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:openbsd:openssh:9.1:-:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:onenav_project:onenav:0.9.12:beta:*:*:*:*:*:*",
+        "cpeNameId": "CF0EC3A3-0487-4CA6-9A67-9CEAFDBD08B9",
+        "lastModified": "2022-09-28T17:19:38.363",
+        "created": "2021-08-11T14:35:17.950",
+        "titles": [
+          {
+            "title": "OneNav Project OneNav 0.9.12 Beta",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:onenav:onenav:0.9.12:*:*:*:*:*:*:*",
+            "cpeNameId": "86F6F42D-E8CD-4083-AFE1-4A9DEFD784BE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:onenav_project:onenav:0.9.14:*:*:*:*:*:*:*",
+        "cpeNameId": "3D56BC13-0726-4904-B9EF-403CF0636CC6",
+        "lastModified": "2022-09-28T17:19:38.363",
+        "created": "2022-03-16T17:01:36.200",
+        "titles": [
+          {
+            "title": "Onenav Project Onenav 0.9.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:onenav:onenav:0.9.14:*:*:*:*:*:*:*",
+            "cpeNameId": "2090D2BD-D338-4635-A161-370F218B5648"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:onenav_project:onenav:0.9.12:beta:*:*:*:*:*:*",
+      "title": "OneNav Project OneNav 0.9.12 Beta",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:onenav:onenav:0.9.12:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:onenav_project:onenav:0.9.14:*:*:*:*:*:*:*",
+      "title": "Onenav Project Onenav 0.9.14",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:onenav:onenav:0.9.14:*:*:*:*:*:*:*"
+    }
+  ]
+}

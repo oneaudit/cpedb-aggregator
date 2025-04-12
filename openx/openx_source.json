@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:openx:openx_source:2.8.11:*:*:*:*:*:*:*",
+        "cpeNameId": "A0497ED8-CB7B-4C7F-B1EA-267B165790A7",
+        "lastModified": "2014-04-25T17:35:06.620",
+        "created": "2013-12-30T17:16:27.877",
+        "titles": [
+          {
+            "title": "OpenX Source 2.8.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:openx:openx:2.8.11:*:*:*:*:*:*:*",
+            "cpeNameId": "C649F75F-00D7-4EC2-94BE-88B169C9CF6B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:openx:openx_source:2.8.10:*:*:*:*:*:*:*",
+        "cpeNameId": "A1D0FD1B-1DEB-4E34-A4E4-E00075F2E1B2",
+        "lastModified": "2014-04-25T17:32:46.523",
+        "created": "2013-12-30T17:16:28.017",
+        "titles": [
+          {
+            "title": "OpenX Source 2.8.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:openx:openx:2.8.10:*:*:*:*:*:*:*",
+            "cpeNameId": "F4339BC1-008D-4618-8288-415653A9037E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:openx:openx_source:2.8.11:*:*:*:*:*:*:*",
+      "title": "OpenX Source 2.8.11",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:openx:openx:2.8.11:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:openx:openx_source:2.8.10:*:*:*:*:*:*:*",
+      "title": "OpenX Source 2.8.10",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:openx:openx:2.8.10:*:*:*:*:*:*:*"
+    }
+  ]
+}

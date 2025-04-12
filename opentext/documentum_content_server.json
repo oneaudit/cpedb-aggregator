@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:opentext:documentum_content_server:7.3:*:*:*:*:*:*:*",
+        "cpeNameId": "5AF5E0BE-0375-4DD2-8CC2-3BAB008BA3BA",
+        "lastModified": "2021-08-06T17:17:34.363",
+        "created": "2017-03-01T20:20:34.440",
+        "titles": [
+          {
+            "title": "OpenText Documentum Content Server 7.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:opentext:documentum_content_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4A6254EB-317B-43FB-885A-3E09C7C77B82",
+        "lastModified": "2021-08-06T17:17:34.363",
+        "created": "2017-04-28T02:25:02.017",
+        "titles": [
+          {
+            "title": "OpenText Documentum Content Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:opentext:documentum_content_server:23.2:*:*:*:*:*:*:*",
+        "cpeNameId": "50C1CE7E-7FB6-4B55-93F7-A52D69D5EA47",
+        "lastModified": "2023-09-28T14:51:39.540",
+        "created": "2023-09-28T14:51:39.540",
+        "titles": [
+          {
+            "title": "OpenText Documentum Content Server 23.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:opentext:documentum_content_server:7.3:*:*:*:*:*:*:*",
+      "title": "OpenText Documentum Content Server 7.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:opentext:documentum_content_server:-:*:*:*:*:*:*:*",
+      "title": "OpenText Documentum Content Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:opentext:documentum_content_server:23.2:*:*:*:*:*:*:*",
+      "title": "OpenText Documentum Content Server 23.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

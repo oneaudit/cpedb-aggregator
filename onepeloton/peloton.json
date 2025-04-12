@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:onepeloton:peloton:1.7.22:*:*:*:*:android:*:*",
+        "cpeNameId": "A306FD06-1F53-473F-8E75-A6A08EB2209F",
+        "lastModified": "2022-09-08T01:36:16.340",
+        "created": "2021-10-27T17:54:04.400",
+        "titles": [
+          {
+            "title": "Peloton 1.7.22 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:onepeloton:peloton:-:*:*:*:*:android:*:*",
+        "cpeNameId": "C5342AC0-EC54-4D81-99FD-B31EFFB590DA",
+        "lastModified": "2022-09-08T01:36:16.340",
+        "created": "2021-10-27T17:54:04.400",
+        "titles": [
+          {
+            "title": "Peloton for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:onepeloton:peloton:1.7.22:*:*:*:*:android:*:*",
+      "title": "Peloton 1.7.22 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:onepeloton:peloton:-:*:*:*:*:android:*:*",
+      "title": "Peloton for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

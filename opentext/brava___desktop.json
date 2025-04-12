@@ -1,0 +1,104 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:opentext:brava\\!_desktop:16.6.3.84:*:*:*:*:*:*:*",
+        "cpeNameId": "6F0A940E-FA54-4275-AAE9-0115AD51712F",
+        "lastModified": "2023-09-21T19:06:02.910",
+        "created": "2021-06-21T17:49:33.853",
+        "titles": [
+          {
+            "title": "OpenText Brava! Desktop 16.6.3.84",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:opentext:brava\\!_desktop:-:*:*:*:*:*:*:*",
+            "cpeNameId": "77507E3E-0768-4468-A52C-8C62B3A48AF0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:opentext:brava\\!_desktop:16.6.4.55:*:*:*:*:*:*:*",
+        "cpeNameId": "E742D68C-4D13-42C9-8745-7EF03768CD25",
+        "lastModified": "2023-09-21T19:06:02.910",
+        "created": "2023-09-21T18:23:13.850",
+        "titles": [
+          {
+            "title": "OpenText Brava! Desktop 16.6.4.55",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:opentext:brava\\!_desktop:-:*:*:*:*:*:*:*",
+            "cpeNameId": "77507E3E-0768-4468-A52C-8C62B3A48AF0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:opentext:brava\\!_desktop:-:*:*:*:*:*:*:*",
+        "cpeNameId": "77507E3E-0768-4468-A52C-8C62B3A48AF0",
+        "lastModified": "2023-09-21T19:06:02.910",
+        "created": "2023-09-21T19:06:02.910",
+        "titles": [
+          {
+            "title": "OpenText Brava! Desktop ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:opentext:brava\\!_desktop:16.6.4.92:*:*:*:*:*:*:*",
+        "cpeNameId": "C2DA1ED1-5121-4B1C-82D7-E8229A04DB44",
+        "lastModified": "2023-11-29T18:04:34.450",
+        "created": "2023-11-29T18:04:34.450",
+        "titles": [
+          {
+            "title": "OpenText Brava! Desktop 16.6.4.92",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:opentext:brava\\!_desktop:16.6.3.84:*:*:*:*:*:*:*",
+      "title": "OpenText Brava! Desktop 16.6.3.84",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:opentext:brava\\!_desktop:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:opentext:brava\\!_desktop:16.6.4.55:*:*:*:*:*:*:*",
+      "title": "OpenText Brava! Desktop 16.6.4.55",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:opentext:brava\\!_desktop:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:opentext:brava\\!_desktop:-:*:*:*:*:*:*:*",
+      "title": "OpenText Brava! Desktop ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:opentext:brava\\!_desktop:16.6.4.92:*:*:*:*:*:*:*",
+      "title": "OpenText Brava! Desktop 16.6.4.92",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

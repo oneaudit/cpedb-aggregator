@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:opcfoundation:ua_java_legacy:2023-04-28:*:*:*:*:*:*:*",
+        "cpeNameId": "2785780D-02C1-42E9-8F71-6519E929C3A5",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-05-23T14:28:32.253",
+        "titles": [
+          {
+            "title": "OPC UA Java Legacy 2023-04-28",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:opcfoundation:ua_java_legacy:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3B9CB541-9D86-4654-B530-528D3F790F4E",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-05-23T14:28:32.253",
+        "titles": [
+          {
+            "title": "OPC UA Java Legacy -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:opcfoundation:ua_java_legacy:2023-04-28:*:*:*:*:*:*:*",
+      "title": "OPC UA Java Legacy 2023-04-28",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:opcfoundation:ua_java_legacy:-:*:*:*:*:*:*:*",
+      "title": "OPC UA Java Legacy -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

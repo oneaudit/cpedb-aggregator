@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:openvz:vzkernel:2.6.32:*:*:*:*:*:*:*",
+        "cpeNameId": "D1D513E0-EC36-4EC0-997C-177ADAAA700B",
+        "lastModified": "2013-11-15T15:19:39.113",
+        "created": "2013-11-14T13:42:25.887",
+        "titles": [
+          {
+            "title": "OpenVZ VZKernel 2.6.32",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:openvz:vzkernel:-:*:*:*:*:*:*:*",
+        "cpeNameId": "61A1F763-303E-4398-804F-343720EABF45",
+        "lastModified": "2014-02-07T18:55:11.617",
+        "created": "2014-01-28T15:55:16.367",
+        "titles": [
+          {
+            "title": "OpenVZ vzkernel",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:openvz:vzkernel:2.6.32:*:*:*:*:*:*:*",
+      "title": "OpenVZ VZKernel 2.6.32",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:openvz:vzkernel:-:*:*:*:*:*:*:*",
+      "title": "OpenVZ vzkernel",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

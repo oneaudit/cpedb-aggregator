@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:opensid:opensid:18.06-pasca:*:*:*:*:*:*:*",
+        "cpeNameId": "79E30FF7-6C84-4457-A3F7-11E2656DA36C",
+        "lastModified": "2021-08-12T15:45:06.550",
+        "created": "2018-08-20T19:54:33.827",
+        "titles": [
+          {
+            "title": "OpenSID 18.06-pasca",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:opendesa:opensid:18.06-pasca:*:*:*:*:*:*:*",
+            "cpeNameId": "39CDDBAD-0BDB-4BDE-A8C0-4BF25279D092"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:opensid:opensid:18.06:*:*:*:*:*:*:*",
+        "cpeNameId": "C97E96BD-86BE-4043-985E-422B4F2F09BA",
+        "lastModified": "2021-08-12T15:45:06.550",
+        "created": "2020-08-24T18:03:48.820",
+        "titles": [
+          {
+            "title": "OpenSID 18.06",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:opendesa:opensid:18.06:*:*:*:*:*:*:*",
+            "cpeNameId": "6DF9C678-EF0A-4120-85A3-7FFC025E8827"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:opensid:opensid:18.06-pasca:*:*:*:*:*:*:*",
+      "title": "OpenSID 18.06-pasca",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:opendesa:opensid:18.06-pasca:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:opensid:opensid:18.06:*:*:*:*:*:*:*",
+      "title": "OpenSID 18.06",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:opendesa:opensid:18.06:*:*:*:*:*:*:*"
+    }
+  ]
+}

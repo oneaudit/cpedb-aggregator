@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openstack:ironic:4.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "338BE537-35F5-43A6-A2C8-D867BCC7076F",
+        "lastModified": "2020-05-13T13:55:22.747",
+        "created": "2020-05-13T13:55:22.747",
+        "titles": [
+          {
+            "title": "OpenStack Ironic 4.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openstack:ironic:4.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "275E8410-34E5-4718-A271-A0E7AA6973CD",
+        "lastModified": "2020-05-13T13:55:22.857",
+        "created": "2020-05-13T13:55:22.857",
+        "titles": [
+          {
+            "title": "OpenStack Ironic 4.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:openstack:ironic:4.2.0:*:*:*:*:*:*:*",
+      "title": "OpenStack Ironic 4.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:openstack:ironic:4.2.1:*:*:*:*:*:*:*",
+      "title": "OpenStack Ironic 4.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

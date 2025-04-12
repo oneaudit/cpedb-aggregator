@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:banking_party_managment:2.7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DBF66571-6512-478C-9A9C-FBA7FE4E1548",
+        "lastModified": "2022-02-25T15:12:18.207",
+        "created": "2022-02-14T17:05:30.807",
+        "titles": [
+          {
+            "title": "Oracle Banking Party Managment 2.7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:banking_party_management:2.7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "43C5C684-2391-41A4-9AE1-6B04F358E5A3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:banking_party_managment:2.7.0:*:*:*:*:*:*:*",
+      "title": "Oracle Banking Party Managment 2.7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:banking_party_management:2.7.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

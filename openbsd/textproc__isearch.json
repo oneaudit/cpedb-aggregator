@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openbsd:textproc\\/isearch:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C2D533AD-E54F-4CB9-81AD-313B5AB3A0F6",
+        "lastModified": "2020-01-21T16:56:28.063",
+        "created": "2020-01-21T16:56:28.063",
+        "titles": [
+          {
+            "title": "OpenBSD textproc/isearch",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openbsd:textproc\\/isearch:1.47.01nb1:*:*:*:*:*:*:*",
+        "cpeNameId": "8B743A5E-7215-4603-8827-FCF96068D6BF",
+        "lastModified": "2020-01-21T16:56:28.437",
+        "created": "2020-01-21T16:56:28.437",
+        "titles": [
+          {
+            "title": "OpenBSD textproc/isearch 1.47.01nb1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:openbsd:textproc\\/isearch:-:*:*:*:*:*:*:*",
+      "title": "OpenBSD textproc/isearch",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:openbsd:textproc\\/isearch:1.47.01nb1:*:*:*:*:*:*:*",
+      "title": "OpenBSD textproc/isearch 1.47.01nb1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

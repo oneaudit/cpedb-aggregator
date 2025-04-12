@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:application_server_10g:10.1.2.3:*:*:*:*:*:*:*",
+        "cpeNameId": "A7559200-AD6E-41B7-A84A-708D568EFE24",
+        "lastModified": "2021-07-13T17:54:48.623",
+        "created": "2008-09-05T20:08:04.203",
+        "titles": [
+          {
+            "title": "Oracle Application Server 10g 10.1.2.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:application_server:10.1.2.3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "93A7FC50-4043-480C-BD6D-3335260AFA71"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:application_server_10g:10.1.2.3:*:*:*:*:*:*:*",
+      "title": "Oracle Application Server 10g 10.1.2.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:application_server:10.1.2.3.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:online_fire_reporting_system_project:online_fire_reporting_system:1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "2C1E0462-198A-4CF0-91F9-CA43FED7768E",
+        "lastModified": "2023-11-14T21:06:31.087",
+        "created": "2023-09-28T14:46:47.747",
+        "titles": [
+          {
+            "title": "Online Fire Reporting System Project Online Fire Reporting System 1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:online_fire_reporting_system:1.2:*:*:*:*:*:*:*",
+            "cpeNameId": "AB65323B-6ED9-43CA-955E-C42A767BF608"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:online_fire_reporting_system_project:online_fire_reporting_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "BE353A4E-CE8A-4D5C-B60D-B941E1ABB1CD",
+        "lastModified": "2023-11-25T04:34:25.230",
+        "created": "2023-11-25T04:34:25.230",
+        "titles": [
+          {
+            "title": "Online Fire Reporting System Project Online Fire Reporting System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:online_fire_reporting_system_project:online_fire_reporting_system:1.2:*:*:*:*:*:*:*",
+      "title": "Online Fire Reporting System Project Online Fire Reporting System 1.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:online_fire_reporting_system:1.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:online_fire_reporting_system_project:online_fire_reporting_system:1.0:*:*:*:*:*:*:*",
+      "title": "Online Fire Reporting System Project Online Fire Reporting System 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

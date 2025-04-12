@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openstack:oslo:2013.2:*:*:*:*:*:*:*",
+        "cpeNameId": "78D4A861-3B62-4A6E-95C2-437E940637A2",
+        "lastModified": "2014-06-30T18:09:32.150",
+        "created": "2014-02-03T18:25:14.273",
+        "titles": [
+          {
+            "title": "OpenStack Oslo 2013.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openstack:oslo:2013:*:*:*:*:*:*:*",
+        "cpeNameId": "BD0DD923-B3E4-49FE-98AF-2FF2CE909509",
+        "lastModified": "2014-06-30T18:09:32.320",
+        "created": "2014-02-03T18:26:52.197",
+        "titles": [
+          {
+            "title": "OpenStack Oslo 2013",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:openstack:oslo:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FF803DAF-80C7-4511-8143-FA944F6BDD4E",
+        "lastModified": "2014-08-28T00:44:36.903",
+        "created": "2014-08-20T16:28:44.603",
+        "titles": [
+          {
+            "title": "OpenStack Oslo",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:openstack:oslo:2013.2:*:*:*:*:*:*:*",
+      "title": "OpenStack Oslo 2013.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:openstack:oslo:2013:*:*:*:*:*:*:*",
+      "title": "OpenStack Oslo 2013",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:openstack:oslo:-:*:*:*:*:*:*:*",
+      "title": "OpenStack Oslo",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

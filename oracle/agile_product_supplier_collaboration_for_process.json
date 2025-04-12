@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:agile_product_supplier_collaboration_for_process:6.2.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6CFC085F-BC47-49DB-A42F-EC61C0EE2277",
+        "lastModified": "2021-07-06T13:26:08.980",
+        "created": "2016-10-25T14:55:46.740",
+        "titles": [
+          {
+            "title": "Oracle Agile Product Supplier Collaboration For Process 6.2.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:agile_product_lifecycle_management_for_process:6.2.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "0C9F9E69-EDD5-45D7-9105-6A8090FC26A5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:agile_product_supplier_collaboration_for_process:6.1.1.6:*:*:*:*:*:*:*",
+        "cpeNameId": "32CC5907-A60F-4CB7-B2BD-4784211FC6C6",
+        "lastModified": "2021-07-06T13:26:08.980",
+        "created": "2016-10-25T14:55:46.740",
+        "titles": [
+          {
+            "title": "Oracle Agile Product Supplier Collaboration For Process 6.1.1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:agile_product_lifecycle_management_for_process:6.1.1.6:*:*:*:*:*:*:*",
+            "cpeNameId": "EB3DCED0-4F50-4C46-83F0-94D40087F085"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:agile_product_supplier_collaboration_for_process:6.1.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "3590051D-15D3-42E4-A366-7B826FCE003F",
+        "lastModified": "2021-07-06T13:26:08.980",
+        "created": "2016-10-25T14:55:46.740",
+        "titles": [
+          {
+            "title": "Oracle Agile Product Supplier Collaboration For Process 6.1.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:agile_product_lifecycle_management_for_process:6.1.0.4:*:*:*:*:*:*:*",
+            "cpeNameId": "F3AF8441-4E65-4A9F-A84B-4E0112FAEA54"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:agile_product_supplier_collaboration_for_process:6.2.0.0:*:*:*:*:*:*:*",
+      "title": "Oracle Agile Product Supplier Collaboration For Process 6.2.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:agile_product_lifecycle_management_for_process:6.2.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:oracle:agile_product_supplier_collaboration_for_process:6.1.1.6:*:*:*:*:*:*:*",
+      "title": "Oracle Agile Product Supplier Collaboration For Process 6.1.1.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:agile_product_lifecycle_management_for_process:6.1.1.6:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:oracle:agile_product_supplier_collaboration_for_process:6.1.0.4:*:*:*:*:*:*:*",
+      "title": "Oracle Agile Product Supplier Collaboration For Process 6.1.0.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:agile_product_lifecycle_management_for_process:6.1.0.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

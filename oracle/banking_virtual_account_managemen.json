@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:banking_virtual_account_managemen:14.2:*:*:*:*:*:*:*",
+        "cpeNameId": "395E556C-DF86-4D16-AD93-FCB0F5B2FFEC",
+        "lastModified": "2022-09-02T14:37:36.653",
+        "created": "2021-12-02T14:29:45.837",
+        "titles": [
+          {
+            "title": "Oracle Banking Virtual Account Managemen 14.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:banking_virtual_account_management:14.2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "237978B8-43DF-46B1-BCEA-5C2EC31E0462"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:banking_virtual_account_managemen:14.3:*:*:*:*:*:*:*",
+        "cpeNameId": "3BCCD92F-3CF9-4DA4-BC4E-DB4A843C49A0",
+        "lastModified": "2022-09-02T14:37:36.653",
+        "created": "2021-12-02T14:29:45.837",
+        "titles": [
+          {
+            "title": "Oracle Banking Virtual Account Managemen 14.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:banking_virtual_account_management:14.3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "0C9213A0-8DCE-49EC-9964-16A59708367F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:oracle:banking_virtual_account_managemen:14.5:*:*:*:*:*:*:*",
+        "cpeNameId": "08B35380-0DD4-4763-A8EF-46F193955223",
+        "lastModified": "2022-09-02T14:37:36.653",
+        "created": "2021-12-02T14:29:45.837",
+        "titles": [
+          {
+            "title": "Oracle Banking Virtual Account Managemen 14.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:banking_virtual_account_management:14.5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "F07DD3EA-C21E-4529-BC9B-6A51F0F85D36"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:oracle:banking_virtual_account_managemen:14.2:*:*:*:*:*:*:*",
+      "title": "Oracle Banking Virtual Account Managemen 14.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:banking_virtual_account_management:14.2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:oracle:banking_virtual_account_managemen:14.3:*:*:*:*:*:*:*",
+      "title": "Oracle Banking Virtual Account Managemen 14.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:banking_virtual_account_management:14.3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:oracle:banking_virtual_account_managemen:14.5:*:*:*:*:*:*:*",
+      "title": "Oracle Banking Virtual Account Managemen 14.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:banking_virtual_account_management:14.5.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

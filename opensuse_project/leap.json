@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:opensuse_project:leap:42.2:*:*:*:*:*:*:*",
+        "cpeNameId": "3CBEFFDD-B7E7-45F6-AA01-C49571DF46C0",
+        "lastModified": "2018-01-25T12:51:09.540",
+        "created": "2017-01-11T14:00:54.607",
+        "titles": [
+          {
+            "title": "OpenSUSE Project Leap 42.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:opensuse:leap:42.2:*:*:*:*:*:*:*",
+            "cpeNameId": "BBDDBF30-1686-474A-A961-BAE46F50229F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:opensuse_project:leap:42.2:*:*:*:*:*:*:*",
+      "title": "OpenSUSE Project Leap 42.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:opensuse:leap:42.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

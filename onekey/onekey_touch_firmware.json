@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:onekey:onekey_touch_firmware:4.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "80022D94-8091-406C-BAF3-3D051B72C7F0",
+        "lastModified": "2023-03-03T16:29:13.020",
+        "created": "2023-02-21T15:32:24.403",
+        "titles": [
+          {
+            "title": "OneKey Touch Firmware 4.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:onekey:onekey_touch_firmware:3.4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "00BB0A90-3E12-4C15-9A64-7FA056ABCB44",
+        "lastModified": "2023-03-03T16:29:13.020",
+        "created": "2023-02-21T15:32:24.403",
+        "titles": [
+          {
+            "title": "OneKey Touch Firmware 3.4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:onekey:onekey_touch_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "07822D78-7C1A-416F-8512-AF60E9611428",
+        "lastModified": "2023-03-03T16:29:13.020",
+        "created": "2023-02-21T15:32:35.067",
+        "titles": [
+          {
+            "title": "OneKey Touch Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:onekey:onekey_touch_firmware:4.0.0:*:*:*:*:*:*:*",
+      "title": "OneKey Touch Firmware 4.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:onekey:onekey_touch_firmware:3.4.0:*:*:*:*:*:*:*",
+      "title": "OneKey Touch Firmware 3.4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:onekey:onekey_touch_firmware:-:*:*:*:*:*:*:*",
+      "title": "OneKey Touch Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

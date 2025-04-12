@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:opensuse:linux_enterprise_high_availability_extension:12:*:*:*:*:*:*:*",
+        "cpeNameId": "066936C7-55D4-4D2E-A318-C7215BD6BC18",
+        "lastModified": "2024-05-29T14:14:37.607",
+        "created": "2019-06-26T13:49:50.957",
+        "titles": [
+          {
+            "title": "Opensuse Linux Enterprise High Availability Extension 12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:suse:linux_enterprise_high_availability_extension:12:-:*:*:*:*:*:*",
+            "cpeNameId": "89CCBC8E-AE01-40D5-9BD1-5D4D5347D31B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:opensuse:linux_enterprise_high_availability_extension:12:*:*:*:*:*:*:*",
+      "title": "Opensuse Linux Enterprise High Availability Extension 12",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:suse:linux_enterprise_high_availability_extension:12:-:*:*:*:*:*:*"
+    }
+  ]
+}
