@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dji:fpv_firmware:2017:*:*:*:*:*:*:*",
+        "cpeNameId": "61361540-A706-4D32-A753-6C11FC7E119A",
+        "lastModified": "2022-05-20T18:18:31.117",
+        "created": "2022-05-05T17:35:21.250",
+        "titles": [
+          {
+            "title": "DJI FPV Firmware 2017",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dji:fpv_firmware:2022:*:*:*:*:*:*:*",
+        "cpeNameId": "926755D4-C4CD-4282-A19F-636CC738A78E",
+        "lastModified": "2022-05-20T18:18:31.117",
+        "created": "2022-05-05T17:35:21.250",
+        "titles": [
+          {
+            "title": "DJI FPV Firmware 2022",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dji:fpv_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "98D6B02B-E0DD-4F8D-ADB0-300073F7715C",
+        "lastModified": "2022-05-20T18:18:31.117",
+        "created": "2022-05-13T15:48:14.290",
+        "titles": [
+          {
+            "title": "DJI FPV Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dji:fpv_firmware:2017:*:*:*:*:*:*:*",
+      "title": "DJI FPV Firmware 2017",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dji:fpv_firmware:2022:*:*:*:*:*:*:*",
+      "title": "DJI FPV Firmware 2022",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dji:fpv_firmware:-:*:*:*:*:*:*:*",
+      "title": "DJI FPV Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

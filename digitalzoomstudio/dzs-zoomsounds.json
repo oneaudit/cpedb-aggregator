@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:digitalzoomstudio:dzs-zoomsounds:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "BA820259-B97D-4DE6-A77D-DBA8DEA9005B",
+        "lastModified": "2021-09-02T17:28:22.430",
+        "created": "2020-01-14T18:48:50.520",
+        "titles": [
+          {
+            "title": "Digital Zoom Studio dzs-ZoomSounds for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:digitalzoomstudio:zoomsounds:-:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "25231A40-E0F1-460B-B02C-7FABA3FFCD6B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:digitalzoomstudio:dzs-zoomsounds:2.0:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "E4AA113F-00DB-4222-A747-B84A41613BF4",
+        "lastModified": "2021-09-02T17:28:22.430",
+        "created": "2020-01-14T18:48:50.867",
+        "titles": [
+          {
+            "title": "Digital Zoom Studio dzs-ZoomSounds 2.0 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:digitalzoomstudio:zoomsounds:2.00:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "227E4258-516C-4324-8D1C-7337FBFF451C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:digitalzoomstudio:dzs-zoomsounds:-:*:*:*:*:wordpress:*:*",
+      "title": "Digital Zoom Studio dzs-ZoomSounds for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:digitalzoomstudio:zoomsounds:-:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:digitalzoomstudio:dzs-zoomsounds:2.0:*:*:*:*:wordpress:*:*",
+      "title": "Digital Zoom Studio dzs-ZoomSounds 2.0 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:digitalzoomstudio:zoomsounds:2.00:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

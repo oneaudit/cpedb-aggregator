@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dji:rc_pro_firmware:2017:*:*:*:*:*:*:*",
+        "cpeNameId": "E07A40D4-16B5-4E8A-A3E6-60DFB615E898",
+        "lastModified": "2022-05-20T18:18:31.117",
+        "created": "2022-05-05T17:35:57.920",
+        "titles": [
+          {
+            "title": "DJI RC Pro Firmware 2017",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dji:rc_pro_firmware:2022:*:*:*:*:*:*:*",
+        "cpeNameId": "8B9F4802-7425-46BE-A90D-CC123CAE676C",
+        "lastModified": "2022-05-20T18:18:31.117",
+        "created": "2022-05-05T17:35:57.920",
+        "titles": [
+          {
+            "title": "DJI RC PRO Firmware 2022",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dji:rc_pro_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EB665C93-623D-41CE-B24E-D71908632D4C",
+        "lastModified": "2022-05-20T18:18:31.117",
+        "created": "2022-05-13T15:48:14.290",
+        "titles": [
+          {
+            "title": "DJI RC Pro Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dji:rc_pro_firmware:2017:*:*:*:*:*:*:*",
+      "title": "DJI RC Pro Firmware 2017",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dji:rc_pro_firmware:2022:*:*:*:*:*:*:*",
+      "title": "DJI RC PRO Firmware 2022",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dji:rc_pro_firmware:-:*:*:*:*:*:*:*",
+      "title": "DJI RC Pro Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

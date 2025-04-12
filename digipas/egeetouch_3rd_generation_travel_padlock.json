@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:digipas:egeetouch_3rd_generation_travel_padlock:-:*:*:*:*:android:*:*",
+        "cpeNameId": "6B4B180D-C0A2-4DFD-A83D-C1C408DCBEDD",
+        "lastModified": "2022-09-19T15:47:59.960",
+        "created": "2021-12-03T02:31:53.643",
+        "titles": [
+          {
+            "title": "Digi-Pas EgeeTouch 3rd Generation Travel Padlock for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:digipas:egeetouch_manager:-:*:*:*:*:android:*:*",
+            "cpeNameId": "8C893A4C-0BDD-4B75-822F-601E842B03FB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:digipas:egeetouch_3rd_generation_travel_padlock:-:*:*:*:*:android:*:*",
+      "title": "Digi-Pas EgeeTouch 3rd Generation Travel Padlock for Android",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:digipas:egeetouch_manager:-:*:*:*:*:android:*:*"
+    }
+  ]
+}

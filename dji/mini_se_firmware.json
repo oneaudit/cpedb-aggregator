@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dji:mini_se_firmware:2017:*:*:*:*:*:*:*",
+        "cpeNameId": "C8EDBF2C-150B-45D1-B786-78B91AD43D38",
+        "lastModified": "2022-05-20T18:18:31.117",
+        "created": "2022-05-05T17:35:50.693",
+        "titles": [
+          {
+            "title": "DJI MINI SE Firmware 2017",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dji:mini_se_firmware:2022:*:*:*:*:*:*:*",
+        "cpeNameId": "FE1F5769-C3B7-4D8E-9B75-6FD38CED5E16",
+        "lastModified": "2022-05-20T18:18:31.117",
+        "created": "2022-05-05T17:35:50.693",
+        "titles": [
+          {
+            "title": "DJI MINI SE Firmware 2022",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dji:mini_se_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "578B5BD7-5E81-4196-AFE9-BD89E94FE841",
+        "lastModified": "2022-05-20T18:18:31.117",
+        "created": "2022-05-13T15:48:14.290",
+        "titles": [
+          {
+            "title": "DJI Mini SE Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dji:mini_se_firmware:2017:*:*:*:*:*:*:*",
+      "title": "DJI MINI SE Firmware 2017",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dji:mini_se_firmware:2022:*:*:*:*:*:*:*",
+      "title": "DJI MINI SE Firmware 2022",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dji:mini_se_firmware:-:*:*:*:*:*:*:*",
+      "title": "DJI Mini SE Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

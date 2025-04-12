@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:digi:realport:1.9-40:*:*:*:*:linux:*:*",
+        "cpeNameId": "B8E77D99-C30E-4175-9BB6-DBAC4A5676F6",
+        "lastModified": "2021-12-13T19:59:11.910",
+        "created": "2021-10-12T15:43:38.763",
+        "titles": [
+          {
+            "title": "Digi RealPort 1.9-40 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:digi:realport:4.8.488.0:*:*:*:*:windows:*:*",
+        "cpeNameId": "EBECCE78-3339-4265-8423-31D371EC9931",
+        "lastModified": "2021-12-13T19:59:11.910",
+        "created": "2021-10-12T15:43:45.040",
+        "titles": [
+          {
+            "title": "Digi RealPort 4.8.488.0 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:digi:realport:1.9-40:*:*:*:*:linux:*:*",
+      "title": "Digi RealPort 1.9-40 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:digi:realport:4.8.488.0:*:*:*:*:windows:*:*",
+      "title": "Digi RealPort 4.8.488.0 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
