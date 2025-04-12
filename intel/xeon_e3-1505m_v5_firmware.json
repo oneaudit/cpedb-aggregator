@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1505m_v5_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "060F31B7-42A5-4C2B-B509-29A5515C457A",
+        "lastModified": "2020-01-13T14:16:10.127",
+        "created": "2020-01-13T14:16:10.127",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1505M v5 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1505m_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "18D9DF66-5578-469F-BAD6-13AB8A96D227",
+        "lastModified": "2020-01-13T14:16:10.770",
+        "created": "2020-01-13T14:16:10.770",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1505M v5 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1505m_v5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B5807BFC-F67B-40F4-A603-317E96FF710B",
+        "lastModified": "2020-03-23T18:01:05.593",
+        "created": "2020-03-23T18:01:05.593",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1505M V5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1505m_v5_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1505M v5 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1505m_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1505M v5 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1505m_v5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1505M V5 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

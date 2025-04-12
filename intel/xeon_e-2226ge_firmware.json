@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2226ge_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "36A43086-04FB-4F41-88B6-93ED48910FE2",
+        "lastModified": "2019-12-02T17:29:28.567",
+        "created": "2019-12-02T17:29:28.567",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2226GE Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2226ge_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "AEF47678-8303-41B8-B9BC-F709919F616C",
+        "lastModified": "2020-01-13T14:15:26.890",
+        "created": "2020-01-13T14:15:26.890",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2226GE Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2226ge_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "CACE5296-67BC-4D94-9F62-13AF12EFC3D8",
+        "lastModified": "2020-01-13T14:15:27.453",
+        "created": "2020-01-13T14:15:27.453",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2226GE Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2226ge_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2226GE Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2226ge_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2226GE Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2226ge_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2226GE Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

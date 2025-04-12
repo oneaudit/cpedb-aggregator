@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1280_v6_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "E37E4C26-E274-48E0-A630-78B8B6C7C8C4",
+        "lastModified": "2020-01-13T14:16:03.690",
+        "created": "2020-01-13T14:16:03.690",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1280 v6 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1280_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "95503639-3F8E-4DB2-AB17-1170BE26E26E",
+        "lastModified": "2020-01-13T14:16:04.317",
+        "created": "2020-01-13T14:16:04.317",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1280 v6 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1280_v6_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1D654407-619C-477F-8B64-EFF5276E0279",
+        "lastModified": "2020-03-23T18:01:03.077",
+        "created": "2020-03-23T18:01:03.077",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1280 V6 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1280_v6_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1280 v6 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1280_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1280 v6 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1280_v6_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1280 V6 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

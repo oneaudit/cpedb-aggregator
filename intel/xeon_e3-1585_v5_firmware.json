@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1585_v5_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "49E50A72-B676-46C0-8775-697B298DCF6E",
+        "lastModified": "2020-01-13T14:16:21.037",
+        "created": "2020-01-13T14:16:21.037",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1585 v5 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1585_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "67509BFD-9ACD-4216-AA66-2594928D9033",
+        "lastModified": "2020-01-13T14:16:21.677",
+        "created": "2020-01-13T14:16:21.677",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1585 v5 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1585_v5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B357B39D-474B-453F-95AB-ED9F94A30CAF",
+        "lastModified": "2020-03-23T18:01:10.923",
+        "created": "2020-03-23T18:01:10.923",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1585 V5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1585_v5_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1585 v5 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1585_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1585 v5 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1585_v5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1585 V5 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

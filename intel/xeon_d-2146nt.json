@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_d-2146nt:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2597FF27-13BE-4AE1-94BD-640FDDFA3917",
+        "lastModified": "2021-05-04T13:47:24.863",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon D-2146nt",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_d-2146nt:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BCB456C3-84A6-4922-8FBD-82A3D55CC985",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2019-05-21T16:00:24.290",
+        "titles": [
+          {
+            "title": "Intel XEON D-2146NT",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_d-2146nt:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon D-2146nt",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_d-2146nt:-:*:*:*:*:*:*:*",
+      "title": "Intel XEON D-2146NT",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_8160m:-:*:*:*:platinum:*:*:*",
+        "cpeNameId": "5606B611-A275-492A-A92E-3B24B6FA6595",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 8160m  Platinum Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_8160m:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8F883C6E-9370-45E3-8CDC-AF7E95228BD6",
+        "lastModified": "2020-01-15T14:42:00.413",
+        "created": "2020-01-15T14:42:00.413",
+        "titles": [
+          {
+            "title": "Intel Xeon 8160M",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_8160m:-:*:*:*:platinum:*:*:*",
+      "title": "Intel Xeon 8160m  Platinum Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_8160m:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 8160M",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

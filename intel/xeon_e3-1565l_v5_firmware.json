@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1565l_v5_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "B089FA73-433E-42E5-BA7E-4D61B8129C4C",
+        "lastModified": "2020-01-13T14:16:17.677",
+        "created": "2020-01-13T14:16:17.677",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1565L v5 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1565l_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "0866502E-95D2-4C48-8D22-8BFFD1A3F7C2",
+        "lastModified": "2020-01-13T14:16:18.317",
+        "created": "2020-01-13T14:16:18.317",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1565L v5 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1565l_v5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DB845D6F-2A79-4EAF-9A07-48220EF91C35",
+        "lastModified": "2020-03-23T18:01:09.703",
+        "created": "2020-03-23T18:01:09.703",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1565L V5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1565l_v5_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1565L v5 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1565l_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1565L v5 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1565l_v5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1565L V5 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

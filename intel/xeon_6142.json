@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_6142:-:*:*:*:gold:*:*:*",
+        "cpeNameId": "3B963DAF-2D3B-4581-A920-72E69CBF12DD",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 6142  Gold Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_6142:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9E4909DB-E664-4FB9-A33A-6B1A9C97B635",
+        "lastModified": "2020-01-15T14:41:55.757",
+        "created": "2020-01-15T14:41:55.757",
+        "titles": [
+          {
+            "title": "Intel Xeon 6142",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_6142:-:*:*:*:gold:*:*:*",
+      "title": "Intel Xeon 6142  Gold Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_6142:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 6142",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

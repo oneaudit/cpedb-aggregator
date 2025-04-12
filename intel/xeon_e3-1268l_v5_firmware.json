@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1268l_v5_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "EA0D9E6B-0DEA-4BA2-AE10-922F44F92C09",
+        "lastModified": "2020-01-13T14:15:57.470",
+        "created": "2020-01-13T14:15:57.470",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1268L v5 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1268l_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "EE91FACE-E669-40AA-B893-FC0037A59572",
+        "lastModified": "2020-01-13T14:15:58.097",
+        "created": "2020-01-13T14:15:58.097",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1268L v5 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1268l_v5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2E29F058-60C6-43B6-886F-3A91B8387716",
+        "lastModified": "2020-03-23T18:00:57.703",
+        "created": "2020-03-23T18:00:57.703",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1268L V5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1268l_v5_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1268L v5 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1268l_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1268L v5 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1268l_v5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1268L V5 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

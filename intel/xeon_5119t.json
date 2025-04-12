@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_5119t:-:*:*:*:gold:*:*:*",
+        "cpeNameId": "7D6BD7BD-6978-41BF-B249-F59E7936F2B3",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 5119t Gold Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_5119t:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A7E5F282-0BFD-44DF-9A7A-C40161832BC3",
+        "lastModified": "2020-01-15T14:41:49.677",
+        "created": "2020-01-15T14:41:49.677",
+        "titles": [
+          {
+            "title": "Intel Xeon 5119T",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_5119t:-:*:*:*:gold:*:*:*",
+      "title": "Intel Xeon 5119t Gold Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_5119t:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 5119T",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

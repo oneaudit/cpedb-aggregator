@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1235l_v5_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "0DEAEC5F-F8FB-4E63-984C-D7DFFCB3F78E",
+        "lastModified": "2020-01-13T14:15:50.127",
+        "created": "2020-01-13T14:15:50.127",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1235L v5 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1235l_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "405462BB-8F0B-4981-9B3D-1A7CF81AA16C",
+        "lastModified": "2020-01-13T14:15:50.703",
+        "created": "2020-01-13T14:15:50.703",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1235L v5 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1235l_v5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0659A1D7-5DEF-44C8-AE8A-A682E3C0A676",
+        "lastModified": "2020-03-23T18:00:50.377",
+        "created": "2020-03-23T18:00:50.377",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1235L V5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1235l_v5_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1235L v5 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1235l_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1235L v5 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1235l_v5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1235L V5 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1275_v6_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "AA469311-1408-4A90-BA6E-0B1A04ED0E53",
+        "lastModified": "2020-01-13T14:16:01.613",
+        "created": "2020-01-13T14:16:01.613",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1275 v6 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1275_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "7DE20808-85F3-474D-A531-ED894BDC0ACE",
+        "lastModified": "2020-01-13T14:16:02.160",
+        "created": "2020-01-13T14:16:02.160",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1275 v6 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1275_v6_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A51F40AC-B9F1-4FDE-9434-7E553F9149D6",
+        "lastModified": "2020-03-23T18:01:01.297",
+        "created": "2020-03-23T18:01:01.297",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1275 V6 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1275_v6_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1275 v6 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1275_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1275 v6 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1275_v6_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1275 V6 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

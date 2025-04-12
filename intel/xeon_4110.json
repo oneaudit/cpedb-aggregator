@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_4110:-:*:*:*:silver:*:*:*",
+        "cpeNameId": "3C089B0D-3B00-4F7C-A273-03D8C81342B0",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 4110 Silver Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_4110:-:*:*:*:*:*:*:*",
+        "cpeNameId": "75B66B25-9FCE-44E8-997B-2CFF7434092A",
+        "lastModified": "2020-01-15T14:41:47.287",
+        "created": "2020-01-15T14:41:47.287",
+        "titles": [
+          {
+            "title": "Intel Xeon 4110",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_4110:-:*:*:*:silver:*:*:*",
+      "title": "Intel Xeon 4110 Silver Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_4110:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 4110",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

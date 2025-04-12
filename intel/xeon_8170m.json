@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_8170m:-:*:*:*:platinum:*:*:*",
+        "cpeNameId": "7F4C730C-60EA-4F25-91D9-2D55C4AE72EA",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 8170m  Platinum Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_8170m:-:*:*:*:*:*:*:*",
+        "cpeNameId": "07A45A32-F62A-4AC8-BFA3-BB15C70607B1",
+        "lastModified": "2020-01-15T14:42:02.117",
+        "created": "2020-01-15T14:42:02.117",
+        "titles": [
+          {
+            "title": "Intel Xeon 8170M",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_8170m:-:*:*:*:platinum:*:*:*",
+      "title": "Intel Xeon 8170m  Platinum Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_8170m:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 8170M",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1230:5:*:*:*:*:*:*:*",
+        "cpeNameId": "02725448-C1EF-41EE-AE4F-A4A4C7B98058",
+        "lastModified": "2020-03-06T18:26:10.070",
+        "created": "2020-03-06T18:26:10.070",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1230 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1230:6:*:*:*:*:*:*:*",
+        "cpeNameId": "3863621A-457A-4C6B-84B2-EDBB935A492B",
+        "lastModified": "2020-03-06T18:26:10.227",
+        "created": "2020-03-06T18:26:10.227",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1230 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1230:-:*:*:*:*:*:*:*",
+        "cpeNameId": "98D98B3D-D6C5-48ED-9EF3-DA8D0231142E",
+        "lastModified": "2020-04-10T19:58:22.837",
+        "created": "2020-04-10T19:58:22.837",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1230",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1230:5:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1230 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1230:6:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1230 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1230:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1230",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

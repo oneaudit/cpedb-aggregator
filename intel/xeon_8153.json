@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_8153:-:*:*:*:platinum:*:*:*",
+        "cpeNameId": "55185EE9-5301-47F3-BDDB-4DE4EE5A8AE1",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 8153 Platinum Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_8153:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AE84750C-05AE-408B-8991-9EF810769E48",
+        "lastModified": "2020-01-15T14:41:58.757",
+        "created": "2020-01-15T14:41:58.757",
+        "titles": [
+          {
+            "title": "Intel Xeon 8153",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_8153:-:*:*:*:platinum:*:*:*",
+      "title": "Intel Xeon 8153 Platinum Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_8153:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 8153",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

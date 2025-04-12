@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2286m_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "05D96BC7-EDC3-4B81-9B3F-ADD9A823C15D",
+        "lastModified": "2019-12-02T17:29:33.020",
+        "created": "2019-12-02T17:29:33.020",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2286M Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2286m_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "A23267AF-8770-4139-9808-B938B8B6D9AC",
+        "lastModified": "2020-01-13T14:15:42.173",
+        "created": "2020-01-13T14:15:42.173",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2286M Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2286m_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "834867C6-48DA-4E17-BC5B-96CFDBC15274",
+        "lastModified": "2020-01-13T14:15:42.767",
+        "created": "2020-01-13T14:15:42.767",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2286M Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2286m_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2286M Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2286m_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2286M Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2286m_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2286M Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

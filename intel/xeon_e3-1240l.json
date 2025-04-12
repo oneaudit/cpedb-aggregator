@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1240l:5:*:*:*:*:*:*:*",
+        "cpeNameId": "C143538F-DB0E-4206-B307-58126F3B9429",
+        "lastModified": "2020-03-06T18:26:10.850",
+        "created": "2020-03-06T18:26:10.850",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1240L 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1240l:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0289A7D1-6B84-4E49-AE5D-CEB83017864D",
+        "lastModified": "2021-05-03T14:09:21.603",
+        "created": "2020-11-18T17:07:48.570",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1240L",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1240l:5:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1240L 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1240l:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1240L",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

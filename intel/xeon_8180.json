@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_8180:-:*:*:*:platinum:*:*:*",
+        "cpeNameId": "82866FA7-F0EE-40D9-AD85-E5C4642C4BBE",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 8180  Platinum Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_8180:-:*:*:*:*:*:*:*",
+        "cpeNameId": "73732910-8166-4654-AC2C-9B2999974375",
+        "lastModified": "2020-01-15T14:42:03.587",
+        "created": "2020-01-15T14:42:03.587",
+        "titles": [
+          {
+            "title": "Intel Xeon 8180",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_8180:-:*:*:*:platinum:*:*:*",
+      "title": "Intel Xeon 8180  Platinum Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_8180:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 8180",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

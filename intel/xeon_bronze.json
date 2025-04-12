@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:xeon_bronze:3104:*:*:*:*:*:*:*",
+        "cpeNameId": "16EF1A78-6ED3-4DD7-B5D8-8B3B6E0CD6E1",
+        "lastModified": "2020-04-28T11:51:44.427",
+        "created": "2018-02-07T12:28:23.690",
+        "titles": [
+          {
+            "title": "Intel Xeon Bronze 3104",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:xeon_bronze_3104:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5956CA74-A84D-46AA-AFF3-41CCCA1B1FE3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:xeon_bronze:3106:*:*:*:*:*:*:*",
+        "cpeNameId": "A2F6E7DE-FA26-4D89-B3BD-A951AEA035CA",
+        "lastModified": "2020-04-28T11:51:47.473",
+        "created": "2018-02-07T12:28:24.157",
+        "titles": [
+          {
+            "title": "Intel Xeon Bronze 3106",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:xeon_bronze_3106:-:*:*:*:*:*:*:*",
+            "cpeNameId": "1579C653-EEB4-4460-9D29-C6D4B02B0CC5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_bronze:3104:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Bronze 3104",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:xeon_bronze_3104:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_bronze:3106:*:*:*:*:*:*:*",
+      "title": "Intel Xeon Bronze 3106",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:xeon_bronze_3106:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

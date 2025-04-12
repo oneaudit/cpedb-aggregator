@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_8176m:-:*:*:*:platinum:*:*:*",
+        "cpeNameId": "BD70C7A5-C15C-490E-8A49-AC1D7E628AAA",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 8176m Platinum Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_8176m:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B2A7FA97-862F-469C-A6AB-7AD54752BBC2",
+        "lastModified": "2020-01-15T14:42:03.240",
+        "created": "2020-01-15T14:42:03.240",
+        "titles": [
+          {
+            "title": "Intel Xeon 8176M",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_8176m:-:*:*:*:platinum:*:*:*",
+      "title": "Intel Xeon 8176m Platinum Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_8176m:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 8176M",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_6148f:-:*:*:*:gold:*:*:*",
+        "cpeNameId": "E40D665B-098F-427D-8350-D4116B39E15E",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 6148f  Gold Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_6148f:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2DBA23CA-DD42-47FF-83D6-46FCD3342986",
+        "lastModified": "2020-01-15T14:41:57.367",
+        "created": "2020-01-15T14:41:57.367",
+        "titles": [
+          {
+            "title": "Intel Xeon 6148F",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_6148f:-:*:*:*:gold:*:*:*",
+      "title": "Intel Xeon 6148f  Gold Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_6148f:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 6148F",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

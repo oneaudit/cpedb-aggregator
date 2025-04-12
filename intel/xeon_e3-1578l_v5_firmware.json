@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1578l_v5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "042BA6B5-3058-4461-8F6A-75BD706903EE",
+        "lastModified": "2019-12-02T17:29:52.727",
+        "created": "2019-12-02T17:29:52.727",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1578L v5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1578l_v5_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "A91572B2-DA35-437B-A304-30AF103DDABF",
+        "lastModified": "2020-01-13T14:16:19.910",
+        "created": "2020-01-13T14:16:19.910",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1578L v5 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1578l_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "798E658A-99B1-4AAC-B761-8F837B9E4934",
+        "lastModified": "2020-01-13T14:16:20.597",
+        "created": "2020-01-13T14:16:20.597",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1578L v5 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1578l_v5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1578L v5 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1578l_v5_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1578L v5 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1578l_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1578L v5 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

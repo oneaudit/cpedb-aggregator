@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2136_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "A9DD3BDE-C0DB-403E-BE37-72A1667D58F6",
+        "lastModified": "2020-01-13T14:15:17.107",
+        "created": "2020-01-13T14:15:17.107",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2136 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2136_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "3A4F4D47-E007-416B-B6C0-DF2AFE242008",
+        "lastModified": "2020-01-13T14:15:17.640",
+        "created": "2020-01-13T14:15:17.640",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2136 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2136_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "12327FB6-7621-4984-B851-A6C42DDF5BC4",
+        "lastModified": "2020-03-23T18:00:31.763",
+        "created": "2020-03-23T18:00:31.763",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2136 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2136_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2136 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2136_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2136 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2136_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2136 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

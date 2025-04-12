@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_d-1541:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C097BBE9-6988-4E5E-8DFD-440F50049998",
+        "lastModified": "2021-05-04T13:47:24.863",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon D-1541",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_d-1541:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BEA3AB22-674F-46B7-9CB2-A092BA484814",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2020-03-23T16:21:52.140",
+        "titles": [
+          {
+            "title": "Intel XEON D-1541",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_d-1541:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon D-1541",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_d-1541:-:*:*:*:*:*:*:*",
+      "title": "Intel XEON D-1541",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

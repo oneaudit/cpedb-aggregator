@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_6150:-:*:*:*:gold:*:*:*",
+        "cpeNameId": "E4E1FEC6-41B1-4CFB-8898-4AD4BF2B7DB8",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 6150  Gold Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_6150:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1569E2B9-5972-4D7E-9F1C-E46E5BE58886",
+        "lastModified": "2020-01-15T14:41:57.757",
+        "created": "2020-01-15T14:41:57.757",
+        "titles": [
+          {
+            "title": "Intel Xeon 6150",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_6150:-:*:*:*:gold:*:*:*",
+      "title": "Intel Xeon 6150  Gold Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_6150:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 6150",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

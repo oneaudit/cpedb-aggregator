@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1268l:5:*:*:*:*:*:*:*",
+        "cpeNameId": "B1CE7B31-CD0B-441A-A317-371CDC0E1A68",
+        "lastModified": "2020-03-06T18:26:11.447",
+        "created": "2020-03-06T18:26:11.447",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1268L 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1268l:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6313E5B6-8106-446A-BF48-A3061E576E97",
+        "lastModified": "2021-05-03T14:09:21.603",
+        "created": "2020-11-18T17:07:48.570",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1268L",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1268l:5:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1268L 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1268l:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1268L",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

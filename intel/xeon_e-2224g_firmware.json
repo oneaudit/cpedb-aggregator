@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2224g_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "281D3AB1-BF5A-42E2-AA61-CD5B2806CC47",
+        "lastModified": "2020-01-13T14:15:25.063",
+        "created": "2020-01-13T14:15:25.063",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2224G Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2224g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "7BBBB2A3-8D63-44E6-A326-752BED353CC7",
+        "lastModified": "2020-01-13T14:15:25.593",
+        "created": "2020-01-13T14:15:25.593",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2224G Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2224g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6AC17816-076F-4937-B1FF-BE1FA0E71291",
+        "lastModified": "2020-03-23T18:00:35.750",
+        "created": "2020-03-23T18:00:35.750",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2224G Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2224g_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2224G Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2224g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2224G Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2224g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2224G Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

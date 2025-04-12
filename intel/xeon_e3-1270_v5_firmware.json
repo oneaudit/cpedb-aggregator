@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1270_v5_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "AB528DD7-6C1A-4284-A946-AE9320886125",
+        "lastModified": "2020-01-13T14:15:58.550",
+        "created": "2020-01-13T14:15:58.550",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1270 v5 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1270_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "B131CEAF-4BC4-4F53-9ECF-CD1FC91ADAD2",
+        "lastModified": "2020-01-13T14:15:59.157",
+        "created": "2020-01-13T14:15:59.157",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1270 v5 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1270_v5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A9B39319-116D-4F4B-9ACE-C5F52D2C8EA0",
+        "lastModified": "2020-03-23T18:00:58.250",
+        "created": "2020-03-23T18:00:58.250",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1270 V5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1270_v5_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1270 v5 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1270_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1270 v5 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1270_v5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1270 V5 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

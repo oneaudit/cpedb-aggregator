@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_6138:-:*:*:*:gold:*:*:*",
+        "cpeNameId": "8A5C30D4-FDE9-4EBD-AA64-AC706535325C",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 6138  Gold Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_6138:-:*:*:*:*:*:*:*",
+        "cpeNameId": "67B2031C-0EBD-4B93-BDC9-C5E056D47034",
+        "lastModified": "2020-01-15T14:41:54.117",
+        "created": "2020-01-15T14:41:54.117",
+        "titles": [
+          {
+            "title": "Intel Xeon 6138",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_6138:-:*:*:*:gold:*:*:*",
+      "title": "Intel Xeon 6138  Gold Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_6138:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 6138",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

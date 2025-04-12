@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1558l:5:*:*:*:*:*:*:*",
+        "cpeNameId": "66812E5D-DD62-4ABB-9A88-3AA8278BADE0",
+        "lastModified": "2020-03-06T18:26:14.477",
+        "created": "2020-03-06T18:26:14.477",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1558L 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1558l:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A58BE46F-3816-4F37-BCDA-F15C12AE2065",
+        "lastModified": "2021-05-03T14:09:21.603",
+        "created": "2020-11-18T17:07:48.570",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1558L",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1558l:5:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1558L 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1558l:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1558L",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

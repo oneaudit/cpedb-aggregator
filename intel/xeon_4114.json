@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_4114:-:*:*:*:silver:*:*:*",
+        "cpeNameId": "A10BD47E-917F-41D9-BB72-4A26B284CEF2",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 4114 Silver Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_4114:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8BF9A337-3DB5-43C0-9B03-FDB4A1593F25",
+        "lastModified": "2020-01-15T14:41:47.880",
+        "created": "2020-01-15T14:41:47.880",
+        "titles": [
+          {
+            "title": "Intel Xeon 4114",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_4114:-:*:*:*:silver:*:*:*",
+      "title": "Intel Xeon 4114 Silver Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_4114:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 4114",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

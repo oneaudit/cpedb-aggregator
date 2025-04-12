@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_8168:-:*:*:*:platinum:*:*:*",
+        "cpeNameId": "465A8B8A-15C8-436C-AB03-07A9631B48A2",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 8168 Platinum Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_8168:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A263FFC8-FFA4-40A7-B787-2F5F540F7D76",
+        "lastModified": "2020-01-15T14:42:01.413",
+        "created": "2020-01-15T14:42:01.413",
+        "titles": [
+          {
+            "title": "Intel Xeon 8168",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_8168:-:*:*:*:platinum:*:*:*",
+      "title": "Intel Xeon 8168 Platinum Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_8168:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 8168",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

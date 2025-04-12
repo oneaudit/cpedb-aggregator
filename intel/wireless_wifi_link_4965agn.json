@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:wireless_wifi_link_4965agn:-:*:*:*:*:*:*:*",
+        "cpeNameId": "680E8DEA-3550-4462-A007-C576022DA7AD",
+        "lastModified": "2007-12-06T19:31:36.063",
+        "created": "2007-12-06T19:31:36.063",
+        "titles": [
+          {
+            "title": "Intel Wireless WiFi Link 4965AGN",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:wireless_wifi_link_4965agn:1.1.21:*:*:*:*:*:*:*",
+        "cpeNameId": "0B516F85-5EFB-47A1-9D77-AA391107C616",
+        "lastModified": "2008-04-08T15:05:02.967",
+        "created": "2007-12-06T19:32:18.130",
+        "titles": [
+          {
+            "title": "Intel Wireless WiFi Link 4965AGN iwlwifi 1.1.21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:wireless_wifi_link_4965agn:-:*:*:*:*:*:*:*",
+      "title": "Intel Wireless WiFi Link 4965AGN",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:wireless_wifi_link_4965agn:1.1.21:*:*:*:*:*:*:*",
+      "title": "Intel Wireless WiFi Link 4965AGN iwlwifi 1.1.21",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

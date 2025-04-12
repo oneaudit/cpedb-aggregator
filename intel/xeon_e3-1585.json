@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1585:5:*:*:*:*:*:*:*",
+        "cpeNameId": "E310A8BC-6180-42F5-AA37-5D60CA65B61C",
+        "lastModified": "2020-03-06T18:26:15.257",
+        "created": "2020-03-06T18:26:15.257",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1585 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1585:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3E0320B4-A0B9-4923-B6F7-DF6C98B5A496",
+        "lastModified": "2021-05-03T14:09:21.603",
+        "created": "2020-11-18T17:07:48.570",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1585",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1585:5:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1585 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1585:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1585",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

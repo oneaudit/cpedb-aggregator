@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_6154:-:*:*:*:gold:*:*:*",
+        "cpeNameId": "D62ACEC0-4EB8-4619-8F48-6DC90901B8DB",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 6154 Gold Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_6154:-:*:*:*:*:*:*:*",
+        "cpeNameId": "20E15AF0-F519-4FFC-9DED-E96CCEA62829",
+        "lastModified": "2020-01-15T14:41:58.427",
+        "created": "2020-01-15T14:41:58.427",
+        "titles": [
+          {
+            "title": "Intel Xeon 6154",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_6154:-:*:*:*:gold:*:*:*",
+      "title": "Intel Xeon 6154 Gold Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_6154:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 6154",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

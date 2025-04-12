@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1545m_v5_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "A545DB8E-7DF5-4A5C-BAE4-F920796B8A3C",
+        "lastModified": "2020-01-13T14:16:15.537",
+        "created": "2020-01-13T14:16:15.537",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1545M v5 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1545m_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "7A7F4D74-346D-4FFB-8889-A3223ECA57F0",
+        "lastModified": "2020-01-13T14:16:16.177",
+        "created": "2020-01-13T14:16:16.177",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1545M v5  Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1545m_v5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "56457BAA-216C-450C-A2E3-43FC014A4EC2",
+        "lastModified": "2020-03-23T18:01:08.517",
+        "created": "2020-03-23T18:01:08.517",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1545M V5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1545m_v5_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1545M v5 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1545m_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1545M v5  Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1545m_v5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1545M V5 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

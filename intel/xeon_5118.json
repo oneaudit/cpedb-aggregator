@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_5118:-:*:*:*:gold:*:*:*",
+        "cpeNameId": "D4F2C8EC-F27B-448A-9E76-C6D3DA5FB3EE",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 5118 Gold Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_5118:-:*:*:*:*:*:*:*",
+        "cpeNameId": "00B566ED-22D3-477E-B039-689B8F357154",
+        "lastModified": "2020-01-15T14:41:49.367",
+        "created": "2020-01-15T14:41:49.367",
+        "titles": [
+          {
+            "title": "Intel Xeon 5118",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_5118:-:*:*:*:gold:*:*:*",
+      "title": "Intel Xeon 5118 Gold Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_5118:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 5118",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

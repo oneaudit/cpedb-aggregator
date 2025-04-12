@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1235l:5:*:*:*:*:*:*:*",
+        "cpeNameId": "48691360-4B2C-40DE-968C-ECC204B2AFC0",
+        "lastModified": "2020-03-06T18:26:10.383",
+        "created": "2020-03-06T18:26:10.383",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1235L 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1235l:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4B8766E5-CBEC-4785-85C0-0035AE0BD8D8",
+        "lastModified": "2021-05-03T14:09:21.603",
+        "created": "2020-11-18T17:07:48.570",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1235L",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1235l:5:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1235L 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1235l:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1235L",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

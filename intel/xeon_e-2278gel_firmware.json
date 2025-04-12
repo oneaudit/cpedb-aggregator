@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2278gel_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D42CC56F-1D1B-4EB1-9E50-5ABBEE1E11D1",
+        "lastModified": "2019-12-02T17:29:32.460",
+        "created": "2019-12-02T17:29:32.460",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2278GEL Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2278gel_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "D2D8D213-DFC0-4ED6-A8B0-CCE29DF2D5CC",
+        "lastModified": "2020-01-13T14:15:40.047",
+        "created": "2020-01-13T14:15:40.047",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2278GEL Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2278gel_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "6BD34640-1E49-45DD-8C8D-FBEFA3DC1F8D",
+        "lastModified": "2020-01-13T14:15:40.703",
+        "created": "2020-01-13T14:15:40.703",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2278GEL Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2278gel_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2278GEL Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2278gel_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2278GEL Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2278gel_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2278GEL Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

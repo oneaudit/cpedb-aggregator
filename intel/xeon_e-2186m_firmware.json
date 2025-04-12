@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2186m_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A3885A9D-F0B5-4BA7-8FC8-220CD9D369E1",
+        "lastModified": "2019-12-02T17:29:28.037",
+        "created": "2019-12-02T17:29:28.037",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2186M Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2186m_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "D5179579-1786-4B39-AB8D-C64E9D943985",
+        "lastModified": "2020-01-13T14:15:23.250",
+        "created": "2020-01-13T14:15:23.250",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2186M Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2186m_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "BC526BE0-791F-400E-AC30-E7533B65DF78",
+        "lastModified": "2020-01-13T14:15:23.767",
+        "created": "2020-01-13T14:15:23.767",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2186M Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2186m_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2186M Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2186m_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2186M Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2186m_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2186M Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

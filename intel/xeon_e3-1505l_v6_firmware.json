@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1505l_v6_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CBBD5D46-1CA6-4ACA-834E-7F54ED79AF5D",
+        "lastModified": "2019-12-02T17:29:52.100",
+        "created": "2019-12-02T17:29:52.100",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1505L v6 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1505l_v6_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "15605511-8D2B-4DDD-87F7-0FB48E91F70A",
+        "lastModified": "2020-01-13T14:16:09.037",
+        "created": "2020-01-13T14:16:09.037",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1505L v6 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1505l_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "939D0794-79FF-400E-A4B7-EEADBF43B87E",
+        "lastModified": "2020-01-13T14:16:09.677",
+        "created": "2020-01-13T14:16:09.677",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1505L v6 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1505l_v6_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1505L v6 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1505l_v6_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1505L v6 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1505l_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1505L v6 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

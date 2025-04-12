@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2236_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "306CD109-70A6-4DF2-88BD-AAA89A690B41",
+        "lastModified": "2020-01-13T14:15:28.717",
+        "created": "2020-01-13T14:15:28.717",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2236 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2236_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "F7EF38E2-9E72-4E55-881A-60EE9D402AE7",
+        "lastModified": "2020-01-13T14:15:29.250",
+        "created": "2020-01-13T14:15:29.250",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2236 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2236_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FBDB5079-41A7-4014-B706-F9CA0541B426",
+        "lastModified": "2020-03-23T18:00:37.547",
+        "created": "2020-03-23T18:00:37.547",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2236 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2236_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2236 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2236_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2236 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2236_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2236 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2234_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "4CD9EF64-CE6E-4B84-AC34-9E5AA31D9A65",
+        "lastModified": "2020-01-13T14:15:27.797",
+        "created": "2020-01-13T14:15:27.797",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2234 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2234_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "9E1CD26D-9427-4DA6-BD39-B87E3FA52EA2",
+        "lastModified": "2020-01-13T14:15:28.343",
+        "created": "2020-01-13T14:15:28.343",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2234 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2234_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5D5FE44A-F4F0-4AA2-976E-63FE17EBD7A7",
+        "lastModified": "2020-03-23T18:00:36.937",
+        "created": "2020-03-23T18:00:36.937",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2234 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2234_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2234 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2234_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2234 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2234_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2234 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

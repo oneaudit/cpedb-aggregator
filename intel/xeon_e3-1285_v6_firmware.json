@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1285_v6_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5C79DD41-26BD-4280-ADFE-9B44AABBEDE0",
+        "lastModified": "2019-12-02T17:29:46.960",
+        "created": "2019-12-02T17:29:46.960",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1285 v6 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1285_v6_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "751EAC2F-2B94-4812-ACF7-8EFFA303D9B3",
+        "lastModified": "2020-01-13T14:16:04.723",
+        "created": "2020-01-13T14:16:04.723",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1285 v6 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1285_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "ED350954-565E-4CCD-B892-13809102A44F",
+        "lastModified": "2020-01-13T14:16:05.520",
+        "created": "2020-01-13T14:16:05.520",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1285 V6 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1285_v6_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1285 v6 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1285_v6_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1285 v6 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1285_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1285 V6 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

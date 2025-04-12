@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1505l:5:*:*:*:*:*:*:*",
+        "cpeNameId": "A6C9E0DF-B847-4877-A951-43C777808A84",
+        "lastModified": "2020-03-06T18:26:13.053",
+        "created": "2020-03-06T18:26:13.053",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1505L 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1505l:6:*:*:*:*:*:*:*",
+        "cpeNameId": "01B7C084-60ED-4F16-AC73-E461836054FF",
+        "lastModified": "2020-03-06T18:26:13.227",
+        "created": "2020-03-06T18:26:13.227",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1505L 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1505l:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6BA7D83F-B9C4-4973-BD22-727C45F0552D",
+        "lastModified": "2020-04-10T19:58:27.490",
+        "created": "2020-04-10T19:58:27.490",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1505L",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1505l:5:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1505L 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1505l:6:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1505L 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1505l:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1505L",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

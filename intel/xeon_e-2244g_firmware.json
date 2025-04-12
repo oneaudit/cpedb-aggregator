@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2244g_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "B918C368-8F8B-4B6A-968C-35C70BDB2C3A",
+        "lastModified": "2020-01-13T14:15:29.610",
+        "created": "2020-01-13T14:15:29.610",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2244G Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2244g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "DC7EEF69-C1B0-4A71-9BBD-C0CEA0E2EDBF",
+        "lastModified": "2020-01-13T14:15:30.140",
+        "created": "2020-01-13T14:15:30.140",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2244G Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2244g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "73F56D7F-32DF-4E89-83CD-25F613DEA2D4",
+        "lastModified": "2020-03-23T18:00:38.123",
+        "created": "2020-03-23T18:00:38.123",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2244G Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2244g_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2244G Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2244g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2244G Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2244g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2244G Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

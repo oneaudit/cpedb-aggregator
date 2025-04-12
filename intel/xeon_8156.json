@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_8156:-:*:*:*:platinum:*:*:*",
+        "cpeNameId": "A2E37B7A-E66F-4D53-8C49-154C4A8B7C4E",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 8156 Platinum Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_8156:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2D97A586-41CD-4715-BA3C-86984E0D4213",
+        "lastModified": "2020-01-15T14:41:59.087",
+        "created": "2020-01-15T14:41:59.087",
+        "titles": [
+          {
+            "title": "Intel Xeon 8156",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_8156:-:*:*:*:platinum:*:*:*",
+      "title": "Intel Xeon 8156 Platinum Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_8156:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 8156",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_4108:-:*:*:*:silver:*:*:*",
+        "cpeNameId": "96FACB84-0912-4B52-8D7E-67B519FD65A9",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 4108 Silver Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_4108:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B35342F8-3942-4BFB-AD8D-1BBF34944541",
+        "lastModified": "2020-01-15T14:41:46.693",
+        "created": "2020-01-15T14:41:46.693",
+        "titles": [
+          {
+            "title": "Intel Xeon 4108",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_4108:-:*:*:*:silver:*:*:*",
+      "title": "Intel Xeon 4108 Silver Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_4108:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 4108",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

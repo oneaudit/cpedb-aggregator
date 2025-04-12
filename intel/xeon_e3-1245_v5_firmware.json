@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1245_v5_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "B6BC0378-98BE-4E47-8A48-61C63F8362B6",
+        "lastModified": "2020-01-13T14:15:54.457",
+        "created": "2020-01-13T14:15:54.457",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1245 v5 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1245_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "D4A0077C-4839-4F64-8084-624DA0F3E17B",
+        "lastModified": "2020-01-13T14:15:55.050",
+        "created": "2020-01-13T14:15:55.050",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1245 v5 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1245_v5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FF911CB1-7B20-456B-B8B7-028815C9275F",
+        "lastModified": "2020-03-23T18:00:54.047",
+        "created": "2020-03-23T18:00:54.047",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1245 V5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1245_v5_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1245 v5 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1245_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1245 v5 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1245_v5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1245 V5 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

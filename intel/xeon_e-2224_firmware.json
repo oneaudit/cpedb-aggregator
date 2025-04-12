@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2224_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "7165FAE8-0B45-45FD-A484-90262F905D01",
+        "lastModified": "2020-01-13T14:15:24.123",
+        "created": "2020-01-13T14:15:24.123",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2224 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2224_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "0FD0D641-4D79-4079-851B-44DEA00B29F4",
+        "lastModified": "2020-01-13T14:15:24.687",
+        "created": "2020-01-13T14:15:24.687",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2224 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2224_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9E1AC009-610A-4E23-80F1-64D2C48D44B8",
+        "lastModified": "2020-03-23T18:00:35.170",
+        "created": "2020-03-23T18:00:35.170",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2224 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2224_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2224 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2224_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2224 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2224_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2224 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

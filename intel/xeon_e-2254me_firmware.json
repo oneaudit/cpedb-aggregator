@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2254me_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "ED99AF0E-8C22-490C-A51A-DADD4056FB8B",
+        "lastModified": "2019-12-02T17:29:29.147",
+        "created": "2019-12-02T17:29:29.147",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2254ME Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2254me_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "E6D237E5-2D78-4A78-8BAF-61A47B384A25",
+        "lastModified": "2020-01-13T14:15:31.453",
+        "created": "2020-01-13T14:15:31.453",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2254ME Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2254me_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "F7CE3ACB-42C9-4246-AAFB-7E0060FFEDF5",
+        "lastModified": "2020-01-13T14:15:32.030",
+        "created": "2020-01-13T14:15:32.030",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2254ME Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2254me_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2254ME Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2254me_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2254ME Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2254me_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2254ME Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_5115:-:*:*:*:gold:*:*:*",
+        "cpeNameId": "7627732A-1CD5-4914-AD01-A0B835555F37",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 5115 Gold Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_5115:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2DF6FEE6-0917-4977-8F95-2FD5664A827B",
+        "lastModified": "2020-01-15T14:41:49.067",
+        "created": "2020-01-15T14:41:49.067",
+        "titles": [
+          {
+            "title": "Intel Xeon 5115",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_5115:-:*:*:*:gold:*:*:*",
+      "title": "Intel Xeon 5115 Gold Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_5115:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 5115",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

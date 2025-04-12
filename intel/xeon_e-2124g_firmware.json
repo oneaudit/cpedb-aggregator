@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2124g_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "ED01A3F3-0D2C-498C-9A96-8468D677A395",
+        "lastModified": "2020-01-13T14:15:13.873",
+        "created": "2020-01-13T14:15:13.873",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2124G Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2124g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "C08011A2-550C-47B8-8F12-B581D8319E41",
+        "lastModified": "2020-01-13T14:15:14.420",
+        "created": "2020-01-13T14:15:14.420",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2124G Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2124g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "41ED0225-4651-45CA-830A-151A6BD58A4F",
+        "lastModified": "2020-03-23T18:00:29.983",
+        "created": "2020-03-23T18:00:29.983",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2124G Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2124g_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2124G Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2124g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2124G Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2124g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2124G Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

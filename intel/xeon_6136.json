@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_6136:-:*:*:*:gold:*:*:*",
+        "cpeNameId": "584398F1-7FE0-4AAA-B887-1EAEE6CC3406",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 6136  Gold Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_6136:-:*:*:*:*:*:*:*",
+        "cpeNameId": "26C061ED-96F8-4E4B-AF5F-DC33C22DA33A",
+        "lastModified": "2020-01-15T14:41:53.773",
+        "created": "2020-01-15T14:41:53.773",
+        "titles": [
+          {
+            "title": "Intel Xeon 6136",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_6136:-:*:*:*:gold:*:*:*",
+      "title": "Intel Xeon 6136  Gold Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_6136:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 6136",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

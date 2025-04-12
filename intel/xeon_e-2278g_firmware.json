@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2278g_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "65F3254E-6C68-48CA-8FBD-2E53A946B063",
+        "lastModified": "2020-01-13T14:15:38.173",
+        "created": "2020-01-13T14:15:38.173",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2278G Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2278g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "3B01CD52-A98D-43D8-994F-A54AA56BD197",
+        "lastModified": "2020-01-13T14:15:38.720",
+        "created": "2020-01-13T14:15:38.720",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2278G Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2278g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A1DB2DFB-833E-4D04-81F4-0C8224E4DA55",
+        "lastModified": "2020-03-23T18:00:40.593",
+        "created": "2020-03-23T18:00:40.593",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2278G Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2278g_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2278G Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2278g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2278G Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2278g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2278G Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

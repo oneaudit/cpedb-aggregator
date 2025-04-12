@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2146g_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "B191BAF9-A2FF-4AD3-AB5F-DCCE114DBB35",
+        "lastModified": "2020-01-13T14:15:18.857",
+        "created": "2020-01-13T14:15:18.857",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2146G Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2146g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "C6DCD0E9-5769-4E6B-9952-D6A23EFA0C1E",
+        "lastModified": "2020-01-13T14:15:19.373",
+        "created": "2020-01-13T14:15:19.373",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2146G Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2146g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3BD8566A-8B70-4351-BD7C-B63B0C5E88ED",
+        "lastModified": "2020-03-23T18:00:32.920",
+        "created": "2020-03-23T18:00:32.920",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2146G Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2146g_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2146G Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2146g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2146G Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2146g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2146G Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

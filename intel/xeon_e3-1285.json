@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1285:6:*:*:*:*:*:*:*",
+        "cpeNameId": "E1CBAF02-A143-4CCF-A46D-448187DCD444",
+        "lastModified": "2020-03-06T18:26:12.537",
+        "created": "2020-03-06T18:26:12.537",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1285 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1285:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6E57B614-12EA-4C36-835D-32DC5A225067",
+        "lastModified": "2020-04-10T19:58:25.913",
+        "created": "2020-04-10T19:58:25.913",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1285",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1285:6:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1285 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1285:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1285",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

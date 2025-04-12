@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_e3-1505l_v6:-:*:*:*:*:*:*:*",
+        "cpeNameId": "088E7273-DE7E-40BA-A354-C621387B348A",
+        "lastModified": "2021-06-11T14:32:36.833",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel XEON E3-1505L V6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1505l_v6:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F00093DE-1B09-4083-B077-8AACC47E7931",
+        "lastModified": "2019-12-02T17:28:52.440",
+        "created": "2019-12-02T17:28:52.440",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1505L v6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_e3-1505l_v6:-:*:*:*:*:*:*:*",
+      "title": "Intel XEON E3-1505L V6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1505l_v6:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1505L v6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

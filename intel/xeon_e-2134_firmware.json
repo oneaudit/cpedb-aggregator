@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2134_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "31943750-805D-4B42-87FE-327C823EF991",
+        "lastModified": "2020-01-13T14:15:16.107",
+        "created": "2020-01-13T14:15:16.107",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2134 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2134_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "7D8DBD61-056C-4245-8CE4-6ECD9E437E69",
+        "lastModified": "2020-01-13T14:15:16.703",
+        "created": "2020-01-13T14:15:16.703",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2134 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2134_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0AF5C944-DC5C-46A5-B3A6-B360DD5A9A57",
+        "lastModified": "2020-03-23T18:00:31.157",
+        "created": "2020-03-23T18:00:31.157",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2134 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2134_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2134 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2134_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2134 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2134_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2134 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

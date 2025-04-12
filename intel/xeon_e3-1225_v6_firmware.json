@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1225_v6_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "3BBD6989-7697-47DC-9670-E370196A7129",
+        "lastModified": "2020-01-13T14:15:47.110",
+        "created": "2020-01-13T14:15:47.110",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1225 v6 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1225_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "C0C3D8E3-8E6F-4F74-A4D5-95B3C23DDA52",
+        "lastModified": "2020-01-13T14:15:47.690",
+        "created": "2020-01-13T14:15:47.690",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1225 v6 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1225_v6_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "70D0B7F7-C20D-4B21-8EC5-C06B4964087F",
+        "lastModified": "2020-03-23T18:00:46.687",
+        "created": "2020-03-23T18:00:46.687",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1225 V6 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1225_v6_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1225 v6 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1225_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1225 v6 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1225_v6_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1225 V6 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

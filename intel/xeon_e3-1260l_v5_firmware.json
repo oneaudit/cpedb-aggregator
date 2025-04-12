@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1260l_v5_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "D38989E5-181A-4EF0-AAB8-3EBA369A3E62",
+        "lastModified": "2020-01-13T14:15:56.457",
+        "created": "2020-01-13T14:15:56.457",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1260L v5 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1260l_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "534094CA-67B5-4B08-94F5-FC9E54D366BA",
+        "lastModified": "2020-01-13T14:15:57.067",
+        "created": "2020-01-13T14:15:57.067",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1260L v5 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1260l_v5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4CD5E4F0-A453-4073-9DC8-DC4BBAD7EE84",
+        "lastModified": "2020-03-23T18:00:55.983",
+        "created": "2020-03-23T18:00:55.983",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1260L V5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1260l_v5_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1260L v5 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1260l_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1260L v5 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1260l_v5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1260L V5 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2276me_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7BC92305-5BE4-45F7-B524-7AB8A202F208",
+        "lastModified": "2019-12-02T17:29:30.787",
+        "created": "2019-12-02T17:29:30.787",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2276ME Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2276me_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "EE438AA0-A333-4C84-A18B-85158927ECD9",
+        "lastModified": "2020-01-13T14:15:36.063",
+        "created": "2020-01-13T14:15:36.063",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2276ME Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e-2276me_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "7117FC09-5787-4D96-90EF-8B7C52B3169E",
+        "lastModified": "2020-01-13T14:15:36.627",
+        "created": "2020-01-13T14:15:36.627",
+        "titles": [
+          {
+            "title": "Intel Xeon E-2276ME Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2276me_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E-2276ME Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2276me_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2276ME Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e-2276me_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E-2276ME Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

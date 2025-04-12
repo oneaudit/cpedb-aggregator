@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_4116t:-:*:*:*:silver:*:*:*",
+        "cpeNameId": "0B8B6E9F-7F27-4760-BD75-E3575EAE5284",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 4116t Silver Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_4116t:-:*:*:*:*:*:*:*",
+        "cpeNameId": "87996B1E-CD14-471E-B447-3B4674819B14",
+        "lastModified": "2020-01-15T14:41:48.773",
+        "created": "2020-01-15T14:41:48.773",
+        "titles": [
+          {
+            "title": "Intel Xeon 4116T",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_4116t:-:*:*:*:silver:*:*:*",
+      "title": "Intel Xeon 4116t Silver Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_4116t:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 4116T",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

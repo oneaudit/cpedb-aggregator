@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_6140m:-:*:*:*:gold:*:*:*",
+        "cpeNameId": "23F867F9-9F4F-41E8-9831-075FCD204181",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 6140m  Gold Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_6140m:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FF0D5D0D-C39C-45E4-9A4B-31629FE8371F",
+        "lastModified": "2020-01-15T14:41:55.380",
+        "created": "2020-01-15T14:41:55.380",
+        "titles": [
+          {
+            "title": "Intel Xeon 6140M",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_6140m:-:*:*:*:gold:*:*:*",
+      "title": "Intel Xeon 6140m  Gold Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_6140m:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 6140M",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

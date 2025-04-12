@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_6128:-:*:*:*:gold:*:*:*",
+        "cpeNameId": "257ADE44-1E3A-48DA-BB2B-306CAF582A0C",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 6128 Gold Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_6128:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B13A329D-CBC8-42C6-9283-297F655EC538",
+        "lastModified": "2020-01-15T14:41:51.490",
+        "created": "2020-01-15T14:41:51.490",
+        "titles": [
+          {
+            "title": "Intel Xeon 6128",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_6128:-:*:*:*:gold:*:*:*",
+      "title": "Intel Xeon 6128 Gold Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_6128:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 6128",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

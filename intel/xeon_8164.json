@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:xeon_8164:-:*:*:*:platinum:*:*:*",
+        "cpeNameId": "A76A901C-78D5-4633-995A-7F0E79AB3B52",
+        "lastModified": "2021-06-10T15:56:48.463",
+        "created": "2018-05-10T16:39:37.717",
+        "titles": [
+          {
+            "title": "Intel Xeon 8164  Platinum Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_8164:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0F9FFB18-AEF2-49FE-A2BC-660A58C5D945",
+        "lastModified": "2020-01-15T14:42:01.070",
+        "created": "2020-01-15T14:42:01.070",
+        "titles": [
+          {
+            "title": "Intel Xeon 8164",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:xeon_8164:-:*:*:*:platinum:*:*:*",
+      "title": "Intel Xeon 8164  Platinum Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_8164:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon 8164",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

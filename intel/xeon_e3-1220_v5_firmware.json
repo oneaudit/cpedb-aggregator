@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1220_v5_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "608B065F-9118-484E-8E4B-582102CF0EDF",
+        "lastModified": "2020-01-13T14:15:44.250",
+        "created": "2020-01-13T14:15:44.250",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1220 v5 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1220_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "5C968357-408A-400B-95CF-66B38AE3A6BE",
+        "lastModified": "2020-01-13T14:15:44.847",
+        "created": "2020-01-13T14:15:44.847",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1220 v5 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:xeon_e3-1220_v5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C2262B3F-5FC9-45B7-BC80-DBB3846210A4",
+        "lastModified": "2020-03-23T18:00:43.640",
+        "created": "2020-03-23T18:00:43.640",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1220 V5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1220_v5_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1220 v5 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1220_v5_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Xeon E3-1220 v5 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:xeon_e3-1220_v5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1220 V5 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

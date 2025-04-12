@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1578l:5:*:*:*:*:*:*:*",
+        "cpeNameId": "EB8B47E9-CDC3-4FEC-B68D-56E0E7FAA82E",
+        "lastModified": "2020-03-06T18:26:15.037",
+        "created": "2020-03-06T18:26:15.037",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1578L 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1578l:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A6641E91-5775-4C13-9613-53A308FC537D",
+        "lastModified": "2021-05-03T14:09:21.603",
+        "created": "2020-11-18T17:07:48.570",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1578L",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1578l:5:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1578L 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1578l:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1578L",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

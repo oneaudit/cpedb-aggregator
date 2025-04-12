@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1275:5:*:*:*:*:*:*:*",
+        "cpeNameId": "71BAC731-2870-4F31-97BC-A8AB11D44C75",
+        "lastModified": "2020-03-06T18:26:11.897",
+        "created": "2020-03-06T18:26:11.897",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1275 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1275:6:*:*:*:*:*:*:*",
+        "cpeNameId": "FC6B7A4A-7984-48A1-88F3-4E626C58AB02",
+        "lastModified": "2020-03-06T18:26:12.070",
+        "created": "2020-03-06T18:26:12.070",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1275 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:xeon_e3-1275:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3CFA9665-7674-43E2-811C-8D43D06DB942",
+        "lastModified": "2020-04-10T19:58:24.883",
+        "created": "2020-04-10T19:58:24.883",
+        "titles": [
+          {
+            "title": "Intel Xeon E3-1275",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1275:5:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1275 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1275:6:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1275 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:xeon_e3-1275:-:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E3-1275",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
