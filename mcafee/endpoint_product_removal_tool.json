@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:endpoint_product_removal_tool:21.2:*:*:*:*:*:*:*",
+        "cpeNameId": "609CC7F6-55B1-4F39-9DB9-A2D041185E5D",
+        "lastModified": "2021-05-18T15:18:53.187",
+        "created": "2021-03-16T14:52:33.963",
+        "titles": [
+          {
+            "title": "McAfee Endpoint Product Removal (EPR) Tool 21.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:endpoint_product_removal_tool:-:*:*:*:*:*:*:*",
+        "cpeNameId": "846A244D-4BAC-4939-B84F-D2536949E254",
+        "lastModified": "2021-05-18T15:18:53.187",
+        "created": "2021-03-16T14:52:33.963",
+        "titles": [
+          {
+            "title": "McAfee Endpoint Product Removal (EPR) Tool",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mcafee:endpoint_product_removal_tool:21.2:*:*:*:*:*:*:*",
+      "title": "McAfee Endpoint Product Removal (EPR) Tool 21.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mcafee:endpoint_product_removal_tool:-:*:*:*:*:*:*:*",
+      "title": "McAfee Endpoint Product Removal (EPR) Tool",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

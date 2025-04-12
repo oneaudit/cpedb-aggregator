@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mariadb_project:mariadb:-:*:*:*:*:node.js:*:*",
+        "cpeNameId": "356B085D-E82C-4A67-B07E-B1A2E6D62589",
+        "lastModified": "2020-11-16T14:22:40.993",
+        "created": "2018-07-26T13:40:04.830",
+        "titles": [
+          {
+            "title": "mariadb Project mariadb for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mariadb:mariadb:-:*:*:*:*:node.js:*:*",
+            "cpeNameId": "AFEF68B6-4A49-42E1-B3E3-B29B21D146CD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mariadb_project:mariadb:0.7.0:*:*:*:*:node.js:*:*",
+        "cpeNameId": "DEFD3431-56F9-40AB-84CD-A8F8290D6F9F",
+        "lastModified": "2020-11-16T14:22:41.460",
+        "created": "2018-07-26T13:40:04.877",
+        "titles": [
+          {
+            "title": "mariadb Project mariadb 0.7.0 for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mariadb:mariadb:0.7.0:*:*:*:*:node.js:*:*",
+            "cpeNameId": "9EEB8ED9-8223-4B76-BEF1-CB3AD0A7A415"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mariadb_project:mariadb:1.0.1:*:*:*:*:node.js:*:*",
+        "cpeNameId": "7DD0103E-642D-457D-97B1-BE589BF8DC76",
+        "lastModified": "2020-11-16T14:22:41.633",
+        "created": "2018-07-26T13:40:04.940",
+        "titles": [
+          {
+            "title": "mariadb Project mariadb 1.0.1 for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mariadb:mariadb:1.0.1:*:*:*:*:node.js:*:*",
+            "cpeNameId": "0036BCAE-72DC-4EB6-ADF1-F90C1924C10F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mariadb_project:mariadb:1.0.2:*:*:*:*:node.js:*:*",
+        "cpeNameId": "D13080E6-5E61-4A2D-87F1-0AF108A6BAAF",
+        "lastModified": "2020-11-16T14:22:41.790",
+        "created": "2018-07-26T13:40:04.970",
+        "titles": [
+          {
+            "title": "mariadb Project mariadb 1.0.2 for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mariadb:mariadb:1.0.2:*:*:*:*:node.js:*:*",
+            "cpeNameId": "A0D6A6E4-7DC4-4F28-891E-17E656334B22"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mariadb_project:mariadb:-:*:*:*:*:node.js:*:*",
+      "title": "mariadb Project mariadb for Node.js",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mariadb:mariadb:-:*:*:*:*:node.js:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:mariadb_project:mariadb:0.7.0:*:*:*:*:node.js:*:*",
+      "title": "mariadb Project mariadb 0.7.0 for Node.js",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mariadb:mariadb:0.7.0:*:*:*:*:node.js:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:mariadb_project:mariadb:1.0.1:*:*:*:*:node.js:*:*",
+      "title": "mariadb Project mariadb 1.0.1 for Node.js",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mariadb:mariadb:1.0.1:*:*:*:*:node.js:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:mariadb_project:mariadb:1.0.2:*:*:*:*:node.js:*:*",
+      "title": "mariadb Project mariadb 1.0.2 for Node.js",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mariadb:mariadb:1.0.2:*:*:*:*:node.js:*:*"
+    }
+  ]
+}

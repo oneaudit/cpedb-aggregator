@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:anti-virus_plus:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5ECAF055-9A1B-45F9-B731-EA2468840016",
+        "lastModified": "2020-03-04T19:56:54.543",
+        "created": "2020-03-04T19:56:54.543",
+        "titles": [
+          {
+            "title": "McAfee Anti-Virus Plus (AVP)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:anti-virus_plus:16.0.r22:*:*:*:*:*:*:*",
+        "cpeNameId": "9210D3CB-2155-460E-815C-14D7FD844E9F",
+        "lastModified": "2020-03-04T19:56:55.057",
+        "created": "2020-03-04T19:56:55.057",
+        "titles": [
+          {
+            "title": "McAfee Anti-Virus Plus (AVP) 16.0.R22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mcafee:anti-virus_plus:-:*:*:*:*:*:*:*",
+      "title": "McAfee Anti-Virus Plus (AVP)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mcafee:anti-virus_plus:16.0.r22:*:*:*:*:*:*:*",
+      "title": "McAfee Anti-Virus Plus (AVP) 16.0.R22",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

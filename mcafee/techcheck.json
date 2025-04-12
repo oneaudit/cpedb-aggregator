@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:techcheck:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9BCD2B11-2D09-46D5-9D7B-95155B6B39B7",
+        "lastModified": "2019-12-16T16:39:53.463",
+        "created": "2019-12-16T16:39:53.463",
+        "titles": [
+          {
+            "title": "McAfee TechCheck",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:techcheck:3.0.0.17:*:*:*:*:*:*:*",
+        "cpeNameId": "A9E20DB7-5486-408F-9608-0A39CCED09D6",
+        "lastModified": "2019-12-16T16:39:53.743",
+        "created": "2019-12-16T16:39:53.743",
+        "titles": [
+          {
+            "title": "McAfee TechCheck 3.0.0.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mcafee:techcheck:-:*:*:*:*:*:*:*",
+      "title": "McAfee TechCheck",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mcafee:techcheck:3.0.0.17:*:*:*:*:*:*:*",
+      "title": "McAfee TechCheck 3.0.0.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

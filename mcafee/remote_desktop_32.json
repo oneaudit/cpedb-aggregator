@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:remote_desktop_32:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AC2BA44A-088C-46EE-9B45-B9E7CEE61F20",
+        "lastModified": "2008-04-07T14:17:36.423",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "McAfee Remote Desktop 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:remote_desktop_32:2.1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "8DD9583E-C817-4326-B4F3-571912C77D31",
+        "lastModified": "2008-04-07T14:17:36.563",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "McAfee Remote Desktop 32.2.1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mcafee:remote_desktop_32:3.0:*:*:*:*:*:*:*",
+      "title": "McAfee Remote Desktop 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mcafee:remote_desktop_32:2.1.2:*:*:*:*:*:*:*",
+      "title": "McAfee Remote Desktop 32.2.1.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

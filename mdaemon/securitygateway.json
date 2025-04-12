@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mdaemon:securitygateway:9.0.3:*:*:*:*:*:*:*",
+        "cpeNameId": "1EAC17DD-1FF1-48D1-896F-C4E49AD7D6E1",
+        "lastModified": "2024-01-12T12:35:05.863",
+        "created": "2024-01-12T12:35:05.863",
+        "titles": [
+          {
+            "title": "MDaemon SecurityGateway 9.0.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mdaemon:securitygateway:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7D576B84-B0A9-4F6C-B9D1-DB3937746446",
+        "lastModified": "2024-01-12T12:35:05.863",
+        "created": "2024-01-12T12:35:05.863",
+        "titles": [
+          {
+            "title": "MDaemon SecurityGateway -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mdaemon:securitygateway:9.0.3:*:*:*:*:*:*:*",
+      "title": "MDaemon SecurityGateway 9.0.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mdaemon:securitygateway:-:*:*:*:*:*:*:*",
+      "title": "MDaemon SecurityGateway -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

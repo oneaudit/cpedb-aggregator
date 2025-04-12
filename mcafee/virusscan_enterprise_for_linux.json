@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:virusscan_enterprise_for_linux:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "84C20493-D172-4406-8D3B-388587482D3C",
+        "lastModified": "2018-08-28T17:36:47.100",
+        "created": "2018-08-28T17:36:47.100",
+        "titles": [
+          {
+            "title": "McAfee VirusScan Enterprise for Linux 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:virusscan_enterprise_for_linux:1.9:*:*:*:*:*:*:*",
+        "cpeNameId": "98974ED4-6AAD-4ECA-8FDF-FFC4A48CD923",
+        "lastModified": "2021-05-18T17:10:11.070",
+        "created": "2019-01-03T20:05:33.767",
+        "titles": [
+          {
+            "title": "McAfee VirusScan Enterprise (VSEL) For Linux  1.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mcafee:virusscan_enterprise_for_linux:2.0:*:*:*:*:*:*:*",
+      "title": "McAfee VirusScan Enterprise for Linux 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mcafee:virusscan_enterprise_for_linux:1.9:*:*:*:*:*:*:*",
+      "title": "McAfee VirusScan Enterprise (VSEL) For Linux  1.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

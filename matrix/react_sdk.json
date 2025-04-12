@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:matrix:react_sdk:3.53.0:*:*:*:*:node.js:*:*",
+        "cpeNameId": "9EAE3DE8-8758-496C-891B-ECDFBE328DD7",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-04-04T13:16:06.513",
+        "titles": [
+          {
+            "title": "Matrix React Sdk 3.53.0 for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:matrix:react_sdk:-:*:*:*:*:node.js:*:*",
+        "cpeNameId": "A04986DA-3F0D-4668-9455-0779C7461EF3",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-04-04T13:16:06.513",
+        "titles": [
+          {
+            "title": "Matrix React Sdk - for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:matrix:react_sdk:3.53.0:*:*:*:*:node.js:*:*",
+      "title": "Matrix React Sdk 3.53.0 for Node.js",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:matrix:react_sdk:-:*:*:*:*:node.js:*:*",
+      "title": "Matrix React Sdk - for Node.js",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

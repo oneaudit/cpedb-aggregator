@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:m-system:dl8-b_firmware:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F371020F-3544-400D-A481-15F95210E768",
+        "lastModified": "2021-05-19T15:22:16.870",
+        "created": "2021-03-18T12:43:02.710",
+        "titles": [
+          {
+            "title": "M-System DL8-B Firmware 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:m-system:dl8-b_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "68974DB7-B2FD-4006-889F-6567F19296FD",
+        "lastModified": "2021-05-19T15:22:16.870",
+        "created": "2021-03-18T12:43:02.710",
+        "titles": [
+          {
+            "title": "M-System DL8-B Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:m-system:dl8-b_firmware:3.0:*:*:*:*:*:*:*",
+      "title": "M-System DL8-B Firmware 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:m-system:dl8-b_firmware:-:*:*:*:*:*:*:*",
+      "title": "M-System DL8-B Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

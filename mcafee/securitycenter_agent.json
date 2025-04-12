@@ -1,0 +1,58 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:securitycenter_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "78D145C8-7FB9-4516-A5F0-E66938A1A291",
+        "lastModified": "2012-05-10T15:20:23.567",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "McAfee SecurityCenter Agent",
+            "lang": "en"
+          },
+          {
+            "title": "マカフィー セキュリティセンター エージェント",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:securitycenter_agent:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AAB379B3-765A-4D91-8A50-9B33A575ABDD",
+        "lastModified": "2012-05-10T15:20:23.737",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "McAfee SecurityCenter Agent 6.0",
+            "lang": "en"
+          },
+          {
+            "title": "マカフィー セキュリティセンター エージェント 6.0",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mcafee:securitycenter_agent:-:*:*:*:*:*:*:*",
+      "title": "McAfee SecurityCenter Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mcafee:securitycenter_agent:6.0:*:*:*:*:*:*:*",
+      "title": "McAfee SecurityCenter Agent 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

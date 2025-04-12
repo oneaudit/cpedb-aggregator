@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mavlink:micro_air_vehicle_link:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4539B1F6-7C8E-40AD-A4D0-941F466325EA",
+        "lastModified": "2020-10-21T11:42:06.757",
+        "created": "2020-08-11T14:39:11.973",
+        "titles": [
+          {
+            "title": "MAVLink Micro Air Vehicle Link",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dronecode:micro_air_vehicle_link:-:*:*:*:*:*:*:*",
+            "cpeNameId": "119D5410-45CB-4925-88B4-18DD85FB677E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mavlink:micro_air_vehicle_link:-:*:*:*:*:*:*:*",
+      "title": "MAVLink Micro Air Vehicle Link",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dronecode:micro_air_vehicle_link:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

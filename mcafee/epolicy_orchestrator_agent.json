@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:epolicy_orchestrator_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "649357F2-118C-4E3F-B1BB-1CB9A086D510",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "McAfee ePolicy Orchestrator Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:epolicy_orchestrator_agent:3.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1227364E-A789-4677-82C0-8AD481F96294",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "McAfee ePolicy Orchestrator Agent 3.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mcafee:epolicy_orchestrator_agent:-:*:*:*:*:*:*:*",
+      "title": "McAfee ePolicy Orchestrator Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mcafee:epolicy_orchestrator_agent:3.5.0:*:*:*:*:*:*:*",
+      "title": "McAfee ePolicy Orchestrator Agent 3.5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

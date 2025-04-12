@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:internet_security:-:*:*:*:*:*:*:*",
+        "cpeNameId": "232DBDB5-C63C-4152-92C6-BD4698DCFB58",
+        "lastModified": "2021-05-18T16:11:39.913",
+        "created": "2018-05-10T15:25:52.867",
+        "titles": [
+          {
+            "title": "McAfee Internet Security",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:internet_security:16.0.r22:*:*:*:*:*:*:*",
+        "cpeNameId": "7F864128-4ED7-4CC3-A0E3-E3347A507506",
+        "lastModified": "2020-03-04T19:56:55.137",
+        "created": "2020-03-04T19:56:55.137",
+        "titles": [
+          {
+            "title": "McAfee Internet Security (MIS) 16.0.R22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mcafee:internet_security:-:*:*:*:*:*:*:*",
+      "title": "McAfee Internet Security",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mcafee:internet_security:16.0.r22:*:*:*:*:*:*:*",
+      "title": "McAfee Internet Security (MIS) 16.0.R22",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

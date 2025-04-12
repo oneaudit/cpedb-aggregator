@@ -1,0 +1,141 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mattermost:server:5.21.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EAFF1763-9B53-4EB5-BC34-CB7413583925",
+        "lastModified": "2020-06-19T19:30:25.733",
+        "created": "2020-06-19T15:37:42.843",
+        "titles": [
+          {
+            "title": "Mattermost Server 5.21.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mattermost:mattermost_server:5.21.0:*:*:*:*:*:*:*",
+            "cpeNameId": "A3CAD0AF-A66A-47E3-987E-C27F635C9347"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mattermost:server:5.22.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F49FA06D-D134-4ED1-8479-ED44D84018C5",
+        "lastModified": "2020-06-19T19:30:26.530",
+        "created": "2020-06-19T15:37:42.923",
+        "titles": [
+          {
+            "title": "Mattermost Server 5.22.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mattermost:mattermost_server:5.22.0:*:*:*:*:*:*:*",
+            "cpeNameId": "DF140877-B18A-446B-ACA5-0B02E8E0C8D9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mattermost:server:5.23.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F681B9A8-EA51-484B-A40D-EAD116000713",
+        "lastModified": "2020-06-19T19:30:26.623",
+        "created": "2020-06-19T15:37:43.063",
+        "titles": [
+          {
+            "title": "Mattermost Server 5.23.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mattermost:mattermost_server:5.23.0:*:*:*:*:*:*:*",
+            "cpeNameId": "7F4526A2-9D53-4D81-B7C5-D768CA9EDA32"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mattermost:server:5.20.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F41F8C7B-006C-41F6-B934-892800433AA8",
+        "lastModified": "2020-06-19T19:30:24.763",
+        "created": "2020-06-19T15:39:33.643",
+        "titles": [
+          {
+            "title": "Mattermost Server 5.20.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mattermost:mattermost_server:5.20.0:*:*:*:*:*:*:*",
+            "cpeNameId": "00B6BB06-0610-4122-BDF0-D5C27671EAC1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mattermost:server:5.19.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C9BC78B7-17C5-48BD-B53F-304BA048DA64",
+        "lastModified": "2020-06-19T19:30:23.343",
+        "created": "2020-06-19T15:43:04.807",
+        "titles": [
+          {
+            "title": "Mattermost Server 5.19.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mattermost:mattermost_server:5.19.0:*:*:*:*:*:*:*",
+            "cpeNameId": "FEEBF823-30F5-43EA-8740-90BCCBD85444"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mattermost:server:5.21.0:*:*:*:*:*:*:*",
+      "title": "Mattermost Server 5.21.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mattermost:mattermost_server:5.21.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:mattermost:server:5.22.0:*:*:*:*:*:*:*",
+      "title": "Mattermost Server 5.22.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mattermost:mattermost_server:5.22.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:mattermost:server:5.23.0:*:*:*:*:*:*:*",
+      "title": "Mattermost Server 5.23.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mattermost:mattermost_server:5.23.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:mattermost:server:5.20.0:*:*:*:*:*:*:*",
+      "title": "Mattermost Server 5.20.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mattermost:mattermost_server:5.20.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:mattermost:server:5.19.0:*:*:*:*:*:*:*",
+      "title": "Mattermost Server 5.19.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mattermost:mattermost_server:5.19.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

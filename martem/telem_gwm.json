@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:martem:telem_gwm:-:*:*:*:*:*:*:*",
+        "cpeNameId": "381C27A3-F9C9-44D2-83FB-E3BAF4D89612",
+        "lastModified": "2021-06-23T14:21:32.193",
+        "created": "2018-09-28T17:47:48.083",
+        "titles": [
+          {
+            "title": "Martem Telem GWM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:martem:telem-gwm:-:*:*:*:*:*:*:*",
+            "cpeNameId": "C54D8667-6FEE-4E16-A23B-DCFE03823DE2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:martem:telem_gwm:-:*:*:*:*:*:*:*",
+      "title": "Martem Telem GWM",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:martem:telem-gwm:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

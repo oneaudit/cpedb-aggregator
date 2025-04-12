@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:scan_engine:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DC064538-3BAF-4CF5-BA02-36BF41728749",
+        "lastModified": "2008-04-01T16:39:39.017",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "McAfee McAfee Scan Engine",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mcafee:scan_engine:4.4.00:*:*:*:*:*:*:*",
+        "cpeNameId": "A3FBE47B-B6B4-4354-A8B4-6605CD51DCB6",
+        "lastModified": "2008-04-01T16:39:39.063",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "McAfee McAfee Scan Engine 4.4.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mcafee:scan_engine:-:*:*:*:*:*:*:*",
+      "title": "McAfee McAfee Scan Engine",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mcafee:scan_engine:4.4.00:*:*:*:*:*:*:*",
+      "title": "McAfee McAfee Scan Engine 4.4.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
