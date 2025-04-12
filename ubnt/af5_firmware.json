@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ubnt:af5_firmware:2.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "CB9DDF1E-874A-4C44-AF40-038A23D2B78F",
+        "lastModified": "2021-08-12T16:42:20.340",
+        "created": "2018-12-04T22:02:54.037",
+        "titles": [
+          {
+            "title": "Ubnt AF5 Firmware 2.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ui:af5_firmware:2.2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "5E2BC0E5-A7E4-450D-932C-217C378B22DA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ubnt:af5_firmware:2.2.1:*:*:*:*:*:*:*",
+      "title": "Ubnt AF5 Firmware 2.2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ui:af5_firmware:2.2.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

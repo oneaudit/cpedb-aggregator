@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:trendmicro:scanmail:14.0:*:*:*:*:microsoft_exchange:*:*",
+        "cpeNameId": "132DC89C-72A1-4C91-B003-FF5765DD94C4",
+        "lastModified": "2020-04-03T11:28:59.763",
+        "created": "2020-04-03T11:28:59.763",
+        "titles": [
+          {
+            "title": "Trend Micro ScanMail 14.0 for Microsoft Exchange",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:trendmicro:scanmail:12.0:*:*:*:*:microsoft_exchange:*:*",
+        "cpeNameId": "8F172CD0-D4B0-4E24-892F-5027EDD5573C",
+        "lastModified": "2020-08-12T12:11:32.307",
+        "created": "2020-08-12T12:11:32.307",
+        "titles": [
+          {
+            "title": "Trend Micro ScanMail for Microsoft Exchange (SMEX) 12.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:trendmicro:scanmail:14.0:*:*:*:*:microsoft_exchange:*:*",
+      "title": "Trend Micro ScanMail 14.0 for Microsoft Exchange",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:trendmicro:scanmail:12.0:*:*:*:*:microsoft_exchange:*:*",
+      "title": "Trend Micro ScanMail for Microsoft Exchange (SMEX) 12.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

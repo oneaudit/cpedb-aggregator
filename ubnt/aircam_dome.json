@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:ubnt:aircam_dome:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C4E22C54-81CB-4D34-B6B1-E09176D1E49F",
+        "lastModified": "2019-06-10T18:34:16.833",
+        "created": "2013-07-18T17:30:52.547",
+        "titles": [
+          {
+            "title": "ubnt Ubiquiti UBNT AirCam Dome",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:ui:aircam_dome:-:*:*:*:*:*:*:*",
+            "cpeNameId": "DECE8C85-553C-4A03-B6B3-075CDEB93337"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ubnt:aircam_dome:-:*:*:*:*:*:*:*",
+      "title": "ubnt Ubiquiti UBNT AirCam Dome",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:ui:aircam_dome:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

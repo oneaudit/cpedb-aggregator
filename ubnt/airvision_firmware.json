@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ubnt:airvision_firmware:1.1.6:*:*:*:*:*:*:*",
+        "cpeNameId": "539234FB-DDE5-4D89-8DD4-295F3A8B302B",
+        "lastModified": "2019-06-10T18:34:17.067",
+        "created": "2013-07-18T17:30:52.257",
+        "titles": [
+          {
+            "title": "ubnt Ubiquiti UBNT airVision firmware 1.1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ui:airvision_firmware:1.1.6:*:*:*:*:*:*:*",
+            "cpeNameId": "0472CBB4-FDC6-4AB4-995D-97D131753631"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ubnt:airvision_firmware:1.1.5:*:*:*:*:*:*:*",
+        "cpeNameId": "756D48AB-899B-4F52-9178-CEF25726A35C",
+        "lastModified": "2019-06-10T18:34:16.943",
+        "created": "2013-07-18T17:30:52.347",
+        "titles": [
+          {
+            "title": "ubnt Ubiquiti UBNT airVision firmware 1.1.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ui:airvision_firmware:1.1.5:*:*:*:*:*:*:*",
+            "cpeNameId": "5FC91E63-8417-4122-B57D-885AD31BECEB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ubnt:airvision_firmware:1.1.6:*:*:*:*:*:*:*",
+      "title": "ubnt Ubiquiti UBNT airVision firmware 1.1.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ui:airvision_firmware:1.1.6:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:ubnt:airvision_firmware:1.1.5:*:*:*:*:*:*:*",
+      "title": "ubnt Ubiquiti UBNT airVision firmware 1.1.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ui:airvision_firmware:1.1.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

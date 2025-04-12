@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ubnt:airfiber_af24_firmware:2.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "78616505-21C3-42CE-B6B4-F270CEB60B21",
+        "lastModified": "2021-08-12T16:42:20.340",
+        "created": "2018-12-04T22:02:54.240",
+        "titles": [
+          {
+            "title": "Ubnt Airfiber AF24 Firmware 2.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ui:airfiber_af24_firmware:2.2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "D5DD8F8E-D9DE-4719-A3B1-6E50EE4663DE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ubnt:airfiber_af24_firmware:2.2.1:*:*:*:*:*:*:*",
+      "title": "Ubnt Airfiber AF24 Firmware 2.2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ui:airfiber_af24_firmware:2.2.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:ubnt:af5x:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DCCC4C5B-0953-47B0-8CA3-AC940C0F22C5",
+        "lastModified": "2021-08-12T16:42:20.340",
+        "created": "2018-12-04T22:01:02.097",
+        "titles": [
+          {
+            "title": "Ubnt AF5X -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:ui:af5x:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D5F6BA62-E1DA-4176-B1E9-D80327AF08FB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ubnt:af5x:-:*:*:*:*:*:*:*",
+      "title": "Ubnt AF5X -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:ui:af5x:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

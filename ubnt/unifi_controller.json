@@ -1,0 +1,168 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubnt:unifi_controller:3.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "ED5E37B7-59F2-46F1-BFE1-2AB1C55C3901",
+        "lastModified": "2019-06-10T18:34:16.303",
+        "created": "2014-07-30T16:05:46.343",
+        "titles": [
+          {
+            "title": "Ubiquiti Networks UniFi Controller 3.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ui:unifi_controller:3.2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "384B72C9-DE15-4E0B-9241-01F65FA6DCA6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubnt:unifi_controller:3.1.13:*:*:*:*:*:*:*",
+        "cpeNameId": "D0CA7001-0AC6-45FA-9039-8317868C3AB2",
+        "lastModified": "2019-06-10T18:34:16.193",
+        "created": "2014-07-30T16:06:55.437",
+        "titles": [
+          {
+            "title": "Ubiquiti Networks UniFi Controller 3.1.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ui:unifi_controller:3.1.13:*:*:*:*:*:*:*",
+            "cpeNameId": "C6C2D332-E846-4D9B-B86A-EE27190A8518"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubnt:unifi_controller:2.4.6:*:*:*:*:*:*:*",
+        "cpeNameId": "830B711A-96A2-4D9C-8E59-60A85D06EB0D",
+        "lastModified": "2019-06-10T18:34:16.053",
+        "created": "2014-07-30T16:06:55.970",
+        "titles": [
+          {
+            "title": "Ubiquiti Networks UniFi Controller 2.4.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ui:unifi_controller:2.4.6:*:*:*:*:*:*:*",
+            "cpeNameId": "B1AD22AD-2C81-4E62-BF2C-EE2CA422EF15"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubnt:unifi_controller:2.4.5:*:*:*:*:*:*:*",
+        "cpeNameId": "0029A07A-9B49-4A05-97F7-30DD7B583D8F",
+        "lastModified": "2019-06-10T18:34:15.943",
+        "created": "2014-07-30T16:06:56.533",
+        "titles": [
+          {
+            "title": "Ubiquiti Networks UniFi Controller 2.4.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ui:unifi_controller:2.4.5:*:*:*:*:*:*:*",
+            "cpeNameId": "DCE84181-BC5D-4741-A65F-5094247B73DC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubnt:unifi_controller:2.4.4:*:*:*:*:*:*:*",
+        "cpeNameId": "CB96E602-9833-48B5-AEE8-9E5A95F3E890",
+        "lastModified": "2019-06-10T18:34:15.833",
+        "created": "2014-07-30T16:06:57.047",
+        "titles": [
+          {
+            "title": "Ubiquiti Networks UniFi Controller 2.4.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ui:unifi_controller:2.4.4:*:*:*:*:*:*:*",
+            "cpeNameId": "21D28AFE-42FB-483D-AE50-057248EFA915"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubnt:unifi_controller:2.4.3:*:*:*:*:*:*:*",
+        "cpeNameId": "5F554866-9C94-4454-8D1C-F9A1DA4D084A",
+        "lastModified": "2019-06-10T18:34:15.677",
+        "created": "2014-07-30T16:06:57.580",
+        "titles": [
+          {
+            "title": "Ubiquiti Networks UniFi Controller 2.4.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ui:unifi_controller:2.4.3:*:*:*:*:*:*:*",
+            "cpeNameId": "BDCCD0D6-B9F8-40DF-A899-5FF4076C00FE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ubnt:unifi_controller:3.2.1:*:*:*:*:*:*:*",
+      "title": "Ubiquiti Networks UniFi Controller 3.2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ui:unifi_controller:3.2.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ubnt:unifi_controller:3.1.13:*:*:*:*:*:*:*",
+      "title": "Ubiquiti Networks UniFi Controller 3.1.13",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ui:unifi_controller:3.1.13:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ubnt:unifi_controller:2.4.6:*:*:*:*:*:*:*",
+      "title": "Ubiquiti Networks UniFi Controller 2.4.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ui:unifi_controller:2.4.6:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ubnt:unifi_controller:2.4.5:*:*:*:*:*:*:*",
+      "title": "Ubiquiti Networks UniFi Controller 2.4.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ui:unifi_controller:2.4.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ubnt:unifi_controller:2.4.4:*:*:*:*:*:*:*",
+      "title": "Ubiquiti Networks UniFi Controller 2.4.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ui:unifi_controller:2.4.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ubnt:unifi_controller:2.4.3:*:*:*:*:*:*:*",
+      "title": "Ubiquiti Networks UniFi Controller 2.4.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ui:unifi_controller:2.4.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

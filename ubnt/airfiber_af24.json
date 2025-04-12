@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:ubnt:airfiber_af24:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F2DFC6AF-82C4-4636-8904-61E1B15AE749",
+        "lastModified": "2021-08-12T16:42:20.340",
+        "created": "2018-12-04T22:01:02.097",
+        "titles": [
+          {
+            "title": "Ubnt Airfiber AF24 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:ui:airfiber_af24:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7D708004-E064-4D2E-9FB7-36126A2BAA0B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ubnt:airfiber_af24:-:*:*:*:*:*:*:*",
+      "title": "Ubnt Airfiber AF24 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:ui:airfiber_af24:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

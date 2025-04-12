@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ubnt:airgateway_firmware:1.15:*:*:*:*:*:*:*",
+        "cpeNameId": "9CDA5A2D-6230-4059-8C91-B857DD78FA05",
+        "lastModified": "2021-08-12T16:42:20.340",
+        "created": "2018-12-04T22:02:54.460",
+        "titles": [
+          {
+            "title": "Ubnt AirGateway Firmware 1.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ui:airgateway_firmware:1.15:*:*:*:*:*:*:*",
+            "cpeNameId": "91053D97-FC9C-42A3-9D64-ADD5F56704F4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ubnt:airgateway_firmware:1.15:*:*:*:*:*:*:*",
+      "title": "Ubnt AirGateway Firmware 1.15",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ui:airgateway_firmware:1.15:*:*:*:*:*:*:*"
+    }
+  ]
+}

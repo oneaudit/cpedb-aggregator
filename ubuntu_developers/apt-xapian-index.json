@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubuntu_developers:apt-xapian-index:0.45ubuntu2:*:*:*:*:*:*:*",
+        "cpeNameId": "3F7B0515-6E7B-43F1-BAEB-B8007F2E4DB3",
+        "lastModified": "2019-07-17T13:39:23.567",
+        "created": "2013-10-04T14:16:53.880",
+        "titles": [
+          {
+            "title": "Ubuntu Developers apt-xapian-index 0.45ubuntu2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:canonical:apt-xapian-index:0.45ubuntu2:*:*:*:*:*:*:*",
+            "cpeNameId": "7D57994B-1F05-49D5-8662-725A77D5B507"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubuntu_developers:apt-xapian-index:0.44ubuntu7:*:*:*:*:*:*:*",
+        "cpeNameId": "A2D98460-1731-426C-9827-7D2EE01F1B82",
+        "lastModified": "2019-07-17T13:39:21.503",
+        "created": "2013-10-04T14:16:54.020",
+        "titles": [
+          {
+            "title": "Ubuntu Developers apt-xapian-index 0.44ubuntu7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:canonical:apt-xapian-index:0.44ubuntu7:*:*:*:*:*:*:*",
+            "cpeNameId": "88C673DB-D61A-4D5C-99F0-0B6B9924D5C0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubuntu_developers:apt-xapian-index:0.44ubuntu5:*:*:*:*:*:*:*",
+        "cpeNameId": "6B9AECBF-5AB7-4245-AF8A-40496520AD95",
+        "lastModified": "2019-07-17T13:39:18.973",
+        "created": "2013-10-04T14:16:54.207",
+        "titles": [
+          {
+            "title": "Ubuntu Developers apt-xapian-index 0.44ubuntu5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:canonical:apt-xapian-index:0.44ubuntu5:*:*:*:*:*:*:*",
+            "cpeNameId": "BB98EC22-63A8-4EEB-B2EA-C9C449F9266C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ubuntu_developers:apt-xapian-index:0.45ubuntu2:*:*:*:*:*:*:*",
+      "title": "Ubuntu Developers apt-xapian-index 0.45ubuntu2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:canonical:apt-xapian-index:0.45ubuntu2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ubuntu_developers:apt-xapian-index:0.44ubuntu7:*:*:*:*:*:*:*",
+      "title": "Ubuntu Developers apt-xapian-index 0.44ubuntu7",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:canonical:apt-xapian-index:0.44ubuntu7:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ubuntu_developers:apt-xapian-index:0.44ubuntu5:*:*:*:*:*:*:*",
+      "title": "Ubuntu Developers apt-xapian-index 0.44ubuntu5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:canonical:apt-xapian-index:0.44ubuntu5:*:*:*:*:*:*:*"
+    }
+  ]
+}

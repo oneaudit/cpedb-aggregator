@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ui:edgeswitch:-:*:*:*:*:*:*:*",
+        "cpeNameId": "064CF22E-49FF-4427-8782-F61DAF320806",
+        "lastModified": "2020-02-11T17:48:06.357",
+        "created": "2020-02-11T17:48:06.357",
+        "titles": [
+          {
+            "title": "UI EdgeSwitch",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ui:edgeswitch:1.7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "24A7A712-48F4-44E1-A506-E3B2CAA679CF",
+        "lastModified": "2020-03-19T16:46:03.087",
+        "created": "2020-03-19T16:46:03.087",
+        "titles": [
+          {
+            "title": "UI EdgeSwitch 1.7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ui:edgeswitch:1.8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "239A65AC-9EC0-43FF-8FAC-CA88BDCA29C0",
+        "lastModified": "2020-03-19T16:46:03.197",
+        "created": "2020-03-19T16:46:03.197",
+        "titles": [
+          {
+            "title": "UI EdgeSwitch 1.8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ui:edgeswitch:-:*:*:*:*:*:*:*",
+      "title": "UI EdgeSwitch",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ui:edgeswitch:1.7.1:*:*:*:*:*:*:*",
+      "title": "UI EdgeSwitch 1.7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ui:edgeswitch:1.8.0:*:*:*:*:*:*:*",
+      "title": "UI EdgeSwitch 1.8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:ubnt:aircam:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BEC65B7C-7402-438D-929D-04E479F65BD1",
+        "lastModified": "2019-06-10T18:34:16.723",
+        "created": "2013-07-18T17:30:52.417",
+        "titles": [
+          {
+            "title": "ubnt Ubiquiti UBNT AirCam",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:ui:aircam:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BBBF59CF-73C3-457A-AA09-D71139037627"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ubnt:aircam:-:*:*:*:*:*:*:*",
+      "title": "ubnt Ubiquiti UBNT AirCam",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:ui:aircam:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:trezor:one_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "78A692F6-D151-4AC6-B78B-45260AE03D4F",
+        "lastModified": "2021-06-30T19:13:36.897",
+        "created": "2019-08-16T15:04:57.203",
+        "titles": [
+          {
+            "title": "Trezor One Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:trezor:one_firmware:1.8.2:*:*:*:*:*:*:*",
+        "cpeNameId": "24C1905D-B5BB-4DFA-8687-318EA15BAF73",
+        "lastModified": "2021-06-30T19:13:36.897",
+        "created": "2019-08-16T15:04:57.203",
+        "titles": [
+          {
+            "title": "Trezor One Firmware 1.8.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:trezor:one_firmware:-:*:*:*:*:*:*:*",
+      "title": "Trezor One Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:trezor:one_firmware:1.8.2:*:*:*:*:*:*:*",
+      "title": "Trezor One Firmware 1.8.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

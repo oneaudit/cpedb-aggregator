@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:ubnt:edgeswitch_xp:-:*:*:*:*:*:*:*",
+        "cpeNameId": "71C82D73-D693-457E-B289-153DEEADF3A2",
+        "lastModified": "2021-08-12T16:42:20.340",
+        "created": "2018-12-04T22:01:02.097",
+        "titles": [
+          {
+            "title": "Ubnt Edgeswitch XP -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:ui:edgeswitch_xp:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BBEB64C3-C25D-48C5-B2CA-01E8E825EA64"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ubnt:edgeswitch_xp:-:*:*:*:*:*:*:*",
+      "title": "Ubnt Edgeswitch XP -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:ui:edgeswitch_xp:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

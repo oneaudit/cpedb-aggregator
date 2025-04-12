@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubnt:unifi_video:3.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "976D7252-19A0-4013-B88A-F26082B36779",
+        "lastModified": "2019-06-10T18:34:16.553",
+        "created": "2014-07-28T12:44:21.237",
+        "titles": [
+          {
+            "title": "Ubiquiti Networks UniFi Video (formerly AirVision aka AirVision Controller) 3.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ui:unifi_video:3.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "0B0A75DE-B303-48CC-8912-DEFA06213337"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubnt:unifi_video:2.1.3:*:*:*:*:*:*:*",
+        "cpeNameId": "6C703F4B-9B4B-4080-A46C-CF47DE4BC3D6",
+        "lastModified": "2019-06-10T18:34:16.397",
+        "created": "2014-07-28T12:44:21.737",
+        "titles": [
+          {
+            "title": "Ubiquiti Networks UniFi Video (formerly AirVision aka AirVision Controller) 2.1.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ui:unifi_video:2.1.3:*:*:*:*:*:*:*",
+            "cpeNameId": "5B0330C7-F925-4CEC-ADC4-0E0DF1602033"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ubnt:unifi_video:3.0.1:*:*:*:*:*:*:*",
+      "title": "Ubiquiti Networks UniFi Video (formerly AirVision aka AirVision Controller) 3.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ui:unifi_video:3.0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ubnt:unifi_video:2.1.3:*:*:*:*:*:*:*",
+      "title": "Ubiquiti Networks UniFi Video (formerly AirVision aka AirVision Controller) 2.1.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ui:unifi_video:2.1.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

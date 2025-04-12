@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubnt:unifi:2.3.6:*:*:*:*:*:*:*",
+        "cpeNameId": "D5632D73-5365-4B0F-B3CF-0FA4497A4954",
+        "lastModified": "2019-06-10T18:34:15.567",
+        "created": "2014-01-02T16:43:32.810",
+        "titles": [
+          {
+            "title": "Ubiquity Networks UniFi 2.3.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ui:unifi:2.3.6:*:*:*:*:*:*:*",
+            "cpeNameId": "88C731A1-FDC8-4D0C-9AF0-DFC7B44A5117"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ubnt:unifi:2.3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "F05AE7EF-56D1-4C4D-82F3-99C1B3948A74",
+        "lastModified": "2019-06-10T18:34:15.163",
+        "created": "2014-01-02T16:43:33.137",
+        "titles": [
+          {
+            "title": "Ubiquity Networks UniFi 2.3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ui:unifi:2.3.5:*:*:*:*:*:*:*",
+            "cpeNameId": "26B57BC5-D644-4928-95FD-CBD3E20665B4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ubnt:unifi:2.3.6:*:*:*:*:*:*:*",
+      "title": "Ubiquity Networks UniFi 2.3.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ui:unifi:2.3.6:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ubnt:unifi:2.3.5:*:*:*:*:*:*:*",
+      "title": "Ubiquity Networks UniFi 2.3.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ui:unifi:2.3.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

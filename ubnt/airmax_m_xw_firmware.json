@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ubnt:airmax_m_xw_firmware:5.6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "F98524D3-0100-499F-AE9A-12F1D556322D",
+        "lastModified": "2021-08-12T16:42:20.340",
+        "created": "2018-12-04T22:02:54.757",
+        "titles": [
+          {
+            "title": "Ubnt Airmax M XW Firmware 5.6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ui:airmax_m_xw_firmware:5.6.2:*:*:*:*:*:*:*",
+            "cpeNameId": "A75E8CF1-60CB-420D-8003-71353D67B435"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ubnt:airmax_m_xw_firmware:5.6.2:*:*:*:*:*:*:*",
+      "title": "Ubnt Airmax M XW Firmware 5.6.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ui:airmax_m_xw_firmware:5.6.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

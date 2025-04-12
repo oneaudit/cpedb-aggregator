@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ui:cloud_key_gen2:1.1.6:*:*:*:*:*:*:*",
+        "cpeNameId": "E93E6901-8F8F-4960-829A-CC476CB1469D",
+        "lastModified": "2021-05-28T15:45:12.713",
+        "created": "2020-05-18T15:54:28.797",
+        "titles": [
+          {
+            "title": "UI Cloud Key Gen2 1.1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ui:cloud_key_gen2:-:*:*:*:*:*:*:*",
+        "cpeNameId": "533280BD-797C-4315-B0AD-00728CE033DF",
+        "lastModified": "2023-09-22T21:13:32.977",
+        "created": "2023-09-22T21:13:32.977",
+        "titles": [
+          {
+            "title": "Ubiquiti Cloud Key Gen2 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ui:cloud_key_gen2:1.1.6:*:*:*:*:*:*:*",
+      "title": "UI Cloud Key Gen2 1.1.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:ui:cloud_key_gen2:-:*:*:*:*:*:*:*",
+      "title": "Ubiquiti Cloud Key Gen2 -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

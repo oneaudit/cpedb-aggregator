@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:ubnt:airmax_m_ti:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7A353516-6BC5-4EEA-9890-6D64FFA8C806",
+        "lastModified": "2021-08-12T16:42:20.340",
+        "created": "2018-12-04T22:01:02.097",
+        "titles": [
+          {
+            "title": "Ubnt Airmax M TI -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:ui:airmax_m_ti:-:*:*:*:*:*:*:*",
+            "cpeNameId": "436FF701-8E49-40BE-AF62-0B42BD204062"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ubnt:airmax_m_ti:-:*:*:*:*:*:*:*",
+      "title": "Ubnt Airmax M TI -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:ui:airmax_m_ti:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

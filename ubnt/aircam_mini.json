@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:ubnt:aircam_mini:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7CB0E206-7DA5-4057-B4CA-D2D2A4E66307",
+        "lastModified": "2019-06-10T18:34:16.880",
+        "created": "2013-07-18T17:30:52.480",
+        "titles": [
+          {
+            "title": "ubnt Ubiquiti UBNT AirCam Mini",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:ui:aircam_mini:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E7C6C9FF-E747-4186-8E99-001732DD43CD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ubnt:aircam_mini:-:*:*:*:*:*:*:*",
+      "title": "ubnt Ubiquiti UBNT AirCam Mini",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:ui:aircam_mini:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

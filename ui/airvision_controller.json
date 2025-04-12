@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ui:airvision_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "82A91F15-757B-4034-B892-53E411F4386F",
+        "lastModified": "2021-08-16T15:40:28.037",
+        "created": "2020-02-11T16:19:11.130",
+        "titles": [
+          {
+            "title": "Ubiquiti AirVision Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ui:airvision_controller:2.1.3:*:*:*:*:*:*:*",
+        "cpeNameId": "CAB0BBDE-8DE1-45ED-B0BE-74E39EFAE94E",
+        "lastModified": "2021-08-16T15:40:28.037",
+        "created": "2020-02-11T16:19:11.130",
+        "titles": [
+          {
+            "title": "Ubiquiti AirVision Controller 2.1.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ui:airvision_controller:-:*:*:*:*:*:*:*",
+      "title": "Ubiquiti AirVision Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ui:airvision_controller:2.1.3:*:*:*:*:*:*:*",
+      "title": "Ubiquiti AirVision Controller 2.1.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

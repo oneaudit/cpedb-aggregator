@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ubnt:airmax_m_ti_firmware:5.6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "84F9B9DB-3ACC-4050-AE14-F2BDE2706AF6",
+        "lastModified": "2021-08-12T16:42:20.340",
+        "created": "2018-12-04T22:02:54.567",
+        "titles": [
+          {
+            "title": "Ubnt Airmax M TI Firmware 5.6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ui:airmax_m_ti_firmware:5.6.2:*:*:*:*:*:*:*",
+            "cpeNameId": "AF82D41B-BC89-4F0D-B253-8098173677B3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ubnt:airmax_m_ti_firmware:5.6.2:*:*:*:*:*:*:*",
+      "title": "Ubnt Airmax M TI Firmware 5.6.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ui:airmax_m_ti_firmware:5.6.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

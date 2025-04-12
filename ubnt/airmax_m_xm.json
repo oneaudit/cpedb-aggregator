@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:ubnt:airmax_m_xm:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BCDC44E4-119E-45A7-AA0B-B0F717C25CC1",
+        "lastModified": "2021-08-12T16:42:20.340",
+        "created": "2018-12-04T22:01:02.097",
+        "titles": [
+          {
+            "title": "Ubnt Airmax M XM -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:ui:airmax_m_xm:-:*:*:*:*:*:*:*",
+            "cpeNameId": "40366E8D-412C-4F69-AA80-E5AB17F6E2E2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ubnt:airmax_m_xm:-:*:*:*:*:*:*:*",
+      "title": "Ubnt Airmax M XM -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:ui:airmax_m_xm:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

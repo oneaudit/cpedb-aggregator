@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tridium:niagra_ax_framework:3.6:*:*:*:*:*:*:*",
+        "cpeNameId": "683A50E6-B27D-4DF1-9DCD-50B16C0666A1",
+        "lastModified": "2023-03-22T13:27:42.677",
+        "created": "2012-08-16T15:45:54.953",
+        "titles": [
+          {
+            "title": "Tridium Niagra AX Framework 3.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tridium:niagara_ax:3.6:*:*:*:*:*:*:*",
+            "cpeNameId": "E42132F4-0585-4E3B-9250-D366FDF4E2DA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tridium:niagra_ax_framework:3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "89D77D89-B53D-4FE6-8143-C1730EDCA823",
+        "lastModified": "2023-03-22T13:27:42.677",
+        "created": "2012-08-16T15:45:55.157",
+        "titles": [
+          {
+            "title": "Tridium Niagra AX Framework 3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tridium:niagara_ax:3.5:*:*:*:*:*:*:*",
+            "cpeNameId": "8F8B55E1-CCB0-4F91-8A87-602EB1162C91"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tridium:niagra_ax_framework:3.7:*:*:*:*:*:*:*",
+        "cpeNameId": "F5F920EF-6B1B-4FDE-B261-EE20DF1B546E",
+        "lastModified": "2023-03-22T13:27:42.677",
+        "created": "2013-02-15T15:05:09.350",
+        "titles": [
+          {
+            "title": "Tridium Niagra AX Framework 3.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tridium:niagara_ax:3.7:*:*:*:*:*:*:*",
+            "cpeNameId": "90C964CA-194F-49B4-B72E-F0F26D420171"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:tridium:niagra_ax_framework:3.6:*:*:*:*:*:*:*",
+      "title": "Tridium Niagra AX Framework 3.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tridium:niagara_ax:3.6:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:tridium:niagra_ax_framework:3.5:*:*:*:*:*:*:*",
+      "title": "Tridium Niagra AX Framework 3.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tridium:niagara_ax:3.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:tridium:niagra_ax_framework:3.7:*:*:*:*:*:*:*",
+      "title": "Tridium Niagra AX Framework 3.7",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tridium:niagara_ax:3.7:*:*:*:*:*:*:*"
+    }
+  ]
+}
