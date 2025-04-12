@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:namespace_server:2.54:*:*:*:*:*:*:*",
+        "cpeNameId": "ACBD2CE1-F8AD-4708-BDE5-F2B9A565E962",
+        "lastModified": "2021-04-13T16:05:53.350",
+        "created": "2012-06-21T19:09:33.160",
+        "titles": [
+          {
+            "title": "Netiq Namespace Server 2.54",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:namespace_server:2.54:*:*:*:*:*:*:*",
+            "cpeNameId": "4C9C96AE-6F2F-4186-9CD6-4B539982E6CD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:namespace_server:2.54:*:*:*:*:*:*:*",
+      "title": "Netiq Namespace Server 2.54",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:namespace_server:2.54:*:*:*:*:*:*:*"
+    }
+  ]
+}

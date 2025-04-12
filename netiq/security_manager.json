@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:security_manager:6.0.0.194:*:*:*:*:*:*:*",
+        "cpeNameId": "331D5E11-1742-4EA3-92DB-96263459F7AD",
+        "lastModified": "2021-04-13T17:03:31.257",
+        "created": "2012-06-21T19:09:33.897",
+        "titles": [
+          {
+            "title": "Netiq Security Manager 6.0.0.194",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:security_manager:6.0.0.194:*:*:*:*:*:*:*",
+            "cpeNameId": "F323080A-88A2-42A4-A2BD-099ABD1121C7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:security_manager:6.5.3.149:*:*:*:*:*:*:*",
+        "cpeNameId": "2620E609-258F-42EF-BB59-4CDC578A7B23",
+        "lastModified": "2021-04-13T17:03:31.257",
+        "created": "2012-06-21T19:09:34.270",
+        "titles": [
+          {
+            "title": "Netiq Security Manager 6.5.3.149",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:security_manager:6.5.3.149:*:*:*:*:*:*:*",
+            "cpeNameId": "79718CA0-9B3B-4D5A-939F-3B078BD1FCCA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:security_manager:6.5.4.349:*:*:*:*:*:*:*",
+        "cpeNameId": "AC294371-09B2-482B-A831-B2023280D325",
+        "lastModified": "2021-04-13T17:03:31.257",
+        "created": "2012-06-21T19:09:34.597",
+        "titles": [
+          {
+            "title": "Netiq Security Manager 6.5.4.349",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:security_manager:6.5.4.349:*:*:*:*:*:*:*",
+            "cpeNameId": "7A2CB4A0-FD27-4EE9-B041-2B6125398F16"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:security_manager:6.0.0.194:*:*:*:*:*:*:*",
+      "title": "Netiq Security Manager 6.0.0.194",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:security_manager:6.0.0.194:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:netiq:security_manager:6.5.3.149:*:*:*:*:*:*:*",
+      "title": "Netiq Security Manager 6.5.3.149",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:security_manager:6.5.3.149:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:netiq:security_manager:6.5.4.349:*:*:*:*:*:*:*",
+      "title": "Netiq Security Manager 6.5.4.349",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:security_manager:6.5.4.349:*:*:*:*:*:*:*"
+    }
+  ]
+}

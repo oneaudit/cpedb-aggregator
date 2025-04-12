@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:analysis_center:2.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A94C8CC0-C123-4A88-B9CE-5C957725A981",
+        "lastModified": "2021-04-09T16:40:15.233",
+        "created": "2012-06-21T19:09:26.410",
+        "titles": [
+          {
+            "title": "Netiq Analysis Center 2.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:analysis_center:2.5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "462708A4-3807-40F1-8691-BC15190900AF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:analysis_center:2.5.0:*:*:*:*:*:*:*",
+      "title": "Netiq Analysis Center 2.5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:analysis_center:2.5.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

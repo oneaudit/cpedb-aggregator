@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:appmanager_management_server:7.0.41053.16:*:*:*:*:*:*:*",
+        "cpeNameId": "98A1899D-F037-413E-8785-DE6F942244BC",
+        "lastModified": "2021-04-09T17:18:16.250",
+        "created": "2012-06-21T19:09:30.647",
+        "titles": [
+          {
+            "title": "Netiq Appmanager Management Server 7.0.41053.16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:appmanager_management_server:7.0.41053.16:*:*:*:*:*:*:*",
+            "cpeNameId": "94D3A641-697F-42C7-A38C-65D929C9B4EF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:appmanager_management_server:7.0.41053.16:*:*:*:*:*:*:*",
+      "title": "Netiq Appmanager Management Server 7.0.41053.16",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:appmanager_management_server:7.0.41053.16:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:secure_configuration_manager:5.7.0.390:*:*:*:*:*:*:*",
+        "cpeNameId": "A05F36A6-0DDB-4203-B367-3F45D917A9E1",
+        "lastModified": "2021-04-13T17:01:44.077",
+        "created": "2012-06-21T19:09:33.537",
+        "titles": [
+          {
+            "title": "Netiq Secure Configuration Manager 5.7.0.390",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:secure_configuration_manager:5.7.0.390:*:*:*:*:*:*:*",
+            "cpeNameId": "D3E1161E-F190-4B76-A8AC-D62BE0F9DC44"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:secure_configuration_manager:5.7.0.390:*:*:*:*:*:*:*",
+      "title": "Netiq Secure Configuration Manager 5.7.0.390",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:secure_configuration_manager:5.7.0.390:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:security_manager_log_archive_resource_kit:1.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2558D99F-0F8B-4A5B-A29B-0FC7BEC2A8D6",
+        "lastModified": "2021-04-13T17:12:48.893",
+        "created": "2012-06-21T19:09:35.707",
+        "titles": [
+          {
+            "title": "Netiq Security Manager Log Archive Resource Kit 1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:security_manager_log_archive_resource_kit:1.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "98F68FD9-14C2-4DE4-B5D8-4D4728D639EB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:security_manager_log_archive_resource_kit:1.0.0:*:*:*:*:*:*:*",
+      "title": "Netiq Security Manager Log Archive Resource Kit 1.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:security_manager_log_archive_resource_kit:1.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

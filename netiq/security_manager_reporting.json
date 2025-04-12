@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:security_manager_reporting:6.0.0.194:*:*:*:*:*:*:*",
+        "cpeNameId": "539EF501-7BF1-4586-8DBE-8C33292F9F0D",
+        "lastModified": "2021-04-13T17:12:48.893",
+        "created": "2012-06-21T19:09:36.083",
+        "titles": [
+          {
+            "title": "Netiq Security Manager Reporting 6.0.0.194",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:security_manager_reporting:6.0.0.194:*:*:*:*:*:*:*",
+            "cpeNameId": "2E2448A5-08A0-4BC7-9026-FAF526FE5CED"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:security_manager_reporting:6.0.0.194:*:*:*:*:*:*:*",
+      "title": "Netiq Security Manager Reporting 6.0.0.194",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:security_manager_reporting:6.0.0.194:*:*:*:*:*:*:*"
+    }
+  ]
+}

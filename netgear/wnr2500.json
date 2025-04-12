@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netgear:wnr2500:v5:*:*:*:*:*:*:*",
+        "cpeNameId": "E6C86847-3BD3-48F8-9CB7-E388AC5B411C",
+        "lastModified": "2020-04-28T11:30:31.237",
+        "created": "2020-04-28T11:30:31.237",
+        "titles": [
+          {
+            "title": "NETGEAR WNR2500v5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netgear:wnr2500:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3F36F76F-D654-436E-A329-DAC910F4E3A8",
+        "lastModified": "2020-05-04T11:33:30.287",
+        "created": "2020-05-04T11:33:30.287",
+        "titles": [
+          {
+            "title": "NETGEAR WNR2500",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:netgear:wnr2500:v5:*:*:*:*:*:*:*",
+      "title": "NETGEAR WNR2500v5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:netgear:wnr2500:-:*:*:*:*:*:*:*",
+      "title": "NETGEAR WNR2500",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

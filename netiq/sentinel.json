@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:sentinel:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C1E0E017-3808-44F8-ACCA-9981B938FE7F",
+        "lastModified": "2021-04-13T17:18:31.343",
+        "created": "2014-05-20T19:37:44.860",
+        "titles": [
+          {
+            "title": "NetIQ Sentinel",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:sentinel:-:*:*:*:enterprise:*:*:*",
+            "cpeNameId": "AB0EDB64-3AAB-4FBC-A421-C3B0FBC9102D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:sentinel:-:*:*:*:*:*:*:*",
+      "title": "NetIQ Sentinel",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:sentinel:-:*:*:*:enterprise:*:*:*"
+    }
+  ]
+}

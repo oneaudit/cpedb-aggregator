@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:sentinel_agent_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "28A831C2-E165-403C-85A9-D61D226C0376",
+        "lastModified": "2021-04-13T17:21:08.787",
+        "created": "2014-05-20T19:37:45.127",
+        "titles": [
+          {
+            "title": "NetIQ Sentinel Agent Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:sentinel_agent_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0227DA59-57FC-48B4-8911-486F62A253ED"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:sentinel_agent_manager:-:*:*:*:*:*:*:*",
+      "title": "NetIQ Sentinel Agent Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:sentinel_agent_manager:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

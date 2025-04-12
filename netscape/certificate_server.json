@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netscape:certificate_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3EA7DDA9-9BCE-4914-AEF2-7D42850DE9D7",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Netscape Certificate Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netscape:certificate_server:4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "7F21DDE2-80C0-472A-93EC-B5FB5E3DC98D",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Netscape Certificate Server 4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netscape:certificate_server:1.0:patch1:*:*:*:*:*:*",
+        "cpeNameId": "22B78212-F308-4A87-A2EB-7A0DBD586195",
+        "lastModified": "2020-04-01T17:28:52.463",
+        "created": "2020-04-01T17:28:52.463",
+        "titles": [
+          {
+            "title": "Netscape Certificate Server 1.0 Patch 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netscape:certificate_server:-:*:*:*:*:*:*:*",
+      "title": "Netscape Certificate Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netscape:certificate_server:4.2:*:*:*:*:*:*:*",
+      "title": "Netscape Certificate Server 4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netscape:certificate_server:1.0:patch1:*:*:*:*:*:*",
+      "title": "Netscape Certificate Server 1.0 Patch 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

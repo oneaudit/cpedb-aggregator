@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:appmanager_control_center:7.0.10160.0:*:*:*:*:*:*:*",
+        "cpeNameId": "03C19EF6-5E17-42DB-A609-08130E3BB4DA",
+        "lastModified": "2021-04-09T17:18:16.250",
+        "created": "2012-06-21T19:09:28.863",
+        "titles": [
+          {
+            "title": "Netiq Appmanager Control Center 7.0.10160.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:appmanager_control_center:7.0.10160.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2D8309C6-B3CC-4929-8A77-7FE9BAD15E74"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:appmanager_control_center:7.0.40179.0:*:*:*:*:*:*:*",
+        "cpeNameId": "9DD03B2F-C6B4-4F3B-AB29-AF701BD079A1",
+        "lastModified": "2021-04-09T17:18:16.250",
+        "created": "2012-06-21T19:09:29.240",
+        "titles": [
+          {
+            "title": "Netiq Appmanager Control Center 7.0.40179.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:appmanager_control_center:7.0.40179.0:*:*:*:*:*:*:*",
+            "cpeNameId": "408777AD-1A89-4C7D-AF5B-B1488BF71257"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:appmanager_control_center:7.0.40428.0:*:*:*:*:*:*:*",
+        "cpeNameId": "75D19F81-1428-4F3F-B9B0-BF4CCFE062FB",
+        "lastModified": "2021-04-09T17:18:16.250",
+        "created": "2012-06-21T19:09:29.597",
+        "titles": [
+          {
+            "title": "Netiq Appmanager Control Center 7.0.40428.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:appmanager_control_center:7.0.40428.0:*:*:*:*:*:*:*",
+            "cpeNameId": "AA3CC137-5D46-4879-BF6C-B87B9E198315"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:appmanager_control_center:7.0.40469.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AFA36B65-222A-47A5-A5C4-23B30F671EAE",
+        "lastModified": "2021-04-09T17:18:16.250",
+        "created": "2012-06-21T19:09:29.927",
+        "titles": [
+          {
+            "title": "Netiq Appmanager Control Center 7.0.40469.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:appmanager_control_center:7.0.40469.0:*:*:*:*:*:*:*",
+            "cpeNameId": "EA5D67F4-850B-4D88-BBFF-DB4E0849EA18"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:appmanager_control_center:7.0.10160.0:*:*:*:*:*:*:*",
+      "title": "Netiq Appmanager Control Center 7.0.10160.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:appmanager_control_center:7.0.10160.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:netiq:appmanager_control_center:7.0.40179.0:*:*:*:*:*:*:*",
+      "title": "Netiq Appmanager Control Center 7.0.40179.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:appmanager_control_center:7.0.40179.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:netiq:appmanager_control_center:7.0.40428.0:*:*:*:*:*:*:*",
+      "title": "Netiq Appmanager Control Center 7.0.40428.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:appmanager_control_center:7.0.40428.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:netiq:appmanager_control_center:7.0.40469.0:*:*:*:*:*:*:*",
+      "title": "Netiq Appmanager Control Center 7.0.40469.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:appmanager_control_center:7.0.40469.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:unix_manager:5.5.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4237A40B-2BEF-4FD0-A604-35D2558E508F",
+        "lastModified": "2021-04-13T17:44:43.537",
+        "created": "2012-06-21T19:09:37.520",
+        "titles": [
+          {
+            "title": "Netiq Unix Manager 5.5.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:unix_manager:5.5.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2C774B9C-947A-4F76-9F46-A47314CB69BF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:unix_manager:5.5.0.0:*:*:*:*:*:*:*",
+      "title": "Netiq Unix Manager 5.5.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:unix_manager:5.5.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netgear:xr1000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4BA51E27-007A-445F-9C24-271664BB5402",
+        "lastModified": "2021-12-27T21:01:36.280",
+        "created": "2021-12-27T20:54:59.290",
+        "titles": [
+          {
+            "title": "NETGEAR XR1000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:netgear:xr1000:1.0.0.52_1.0.38:*:*:*:*:*:*:*",
+        "cpeNameId": "C0FBA9FC-0021-47FA-869A-428E6EEB06B0",
+        "lastModified": "2022-10-04T18:26:22.967",
+        "created": "2022-01-31T07:35:26.490",
+        "titles": [
+          {
+            "title": "NETGEAR XR1000 1.0.0.52 1.0.38",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:netgear:xr1000:-:*:*:*:*:*:*:*",
+      "title": "NETGEAR XR1000",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:netgear:xr1000:1.0.0.52_1.0.38:*:*:*:*:*:*:*",
+      "title": "NETGEAR XR1000 1.0.0.52 1.0.38",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netscape:proxy_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7E141BC1-451F-4B0A-B557-916BA31CA742",
+        "lastModified": "2008-04-01T16:40:05.267",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Netscape Netscape Proxy Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netscape:proxy_server:2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "B63EFB7C-54CD-4136-B7C3-D8F8102AD995",
+        "lastModified": "2008-04-01T16:40:05.313",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Netscape Netscape Proxy Server 2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netscape:proxy_server:3.5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "51C5F2BB-691C-409A-8C56-8076C9F96061",
+        "lastModified": "2008-04-01T16:40:05.360",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Netscape Netscape Proxy Server 3.5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netscape:proxy_server:-:*:*:*:*:*:*:*",
+      "title": "Netscape Netscape Proxy Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netscape:proxy_server:2.5:*:*:*:*:*:*:*",
+      "title": "Netscape Netscape Proxy Server 2.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netscape:proxy_server:3.5.1:*:*:*:*:*:*:*",
+      "title": "Netscape Netscape Proxy Server 3.5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

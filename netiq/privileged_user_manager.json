@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:privileged_user_manager:2.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "73A0EAEA-A0EE-4EE7-A9FE-BC7F1DD60C74",
+        "lastModified": "2021-04-13T16:45:59.533",
+        "created": "2012-12-26T17:20:32.207",
+        "titles": [
+          {
+            "title": "Netiq Privileged User Manager 2.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:privileged_user_manager:2.3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "E83690E5-1B73-4059-B31C-783ACD3CFDFA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:privileged_user_manager:2.3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "AC5749E0-493C-4D53-81D8-6E6F6DAD24D1",
+        "lastModified": "2021-04-13T16:45:59.533",
+        "created": "2012-12-26T17:20:32.313",
+        "titles": [
+          {
+            "title": "Netiq Privileged User Manager 2.3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:privileged_user_manager:2.3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "0CA039CB-E620-4B9C-8A6F-D48EFB0F34B7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:privileged_user_manager:2.3.1:hf2:*:*:*:*:*:*",
+        "cpeNameId": "A2C85761-1F01-4EB0-BA91-D28C80473B47",
+        "lastModified": "2021-04-13T16:45:59.533",
+        "created": "2012-12-26T17:20:32.423",
+        "titles": [
+          {
+            "title": "Netiq Privileged User Manager 2.3.1 HF2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:privileged_user_manager:2.3.1:hf2:*:*:*:*:*:*",
+            "cpeNameId": "C72E987B-213F-4DBF-BA6B-3672EC79F046"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:privileged_user_manager:2.3.0:*:*:*:*:*:*:*",
+      "title": "Netiq Privileged User Manager 2.3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:privileged_user_manager:2.3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:netiq:privileged_user_manager:2.3.1:*:*:*:*:*:*:*",
+      "title": "Netiq Privileged User Manager 2.3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:privileged_user_manager:2.3.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:netiq:privileged_user_manager:2.3.1:hf2:*:*:*:*:*:*",
+      "title": "Netiq Privileged User Manager 2.3.1 HF2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:privileged_user_manager:2.3.1:hf2:*:*:*:*:*:*"
+    }
+  ]
+}

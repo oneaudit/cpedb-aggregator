@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:netgear:nms300_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D1B5BED4-EFC4-4996-A735-7FFDE43953DB",
+        "lastModified": "2020-12-31T15:30:06.743",
+        "created": "2020-12-31T15:30:06.743",
+        "titles": [
+          {
+            "title": "NETGEAR NMS300 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:netgear:nms300_firmware:1.6.0.27:*:*:*:*:*:*:*",
+        "cpeNameId": "5450B10F-AE7D-4214-8875-B3169048513F",
+        "lastModified": "2020-12-31T15:30:07.057",
+        "created": "2020-12-31T15:30:07.057",
+        "titles": [
+          {
+            "title": "NETGEAR NMS300 Firmware 1.6.0.27",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:netgear:nms300_firmware:-:*:*:*:*:*:*:*",
+      "title": "NETGEAR NMS300 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:netgear:nms300_firmware:1.6.0.27:*:*:*:*:*:*:*",
+      "title": "NETGEAR NMS300 Firmware 1.6.0.27",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netscout:ngenius_probes:-:*:*:*:*:*:*:*",
+        "cpeNameId": "80728224-593C-41BB-A976-A93CA5718DA5",
+        "lastModified": "2008-04-01T16:40:06.347",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "NetScout nGenius Probe",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netscout:ngenius_probes:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E2CDDC6E-9E13-48F5-94FA-8EFB4B2E01FA",
+        "lastModified": "2010-12-29T17:11:00.367",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "NetScout nGenius Probes",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:netscout:ngenius_probes:-:*:*:*:*:*:*:*",
+            "cpeNameId": "80728224-593C-41BB-A976-A93CA5718DA5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:netscout:ngenius_probes:-:*:*:*:*:*:*:*",
+      "title": "NetScout nGenius Probe",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netscout:ngenius_probes:-:*:*:*:*:*:*:*",
+      "title": "NetScout nGenius Probes",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:netscout:ngenius_probes:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

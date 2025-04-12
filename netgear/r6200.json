@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netgear:r6200:-:*:*:*:*:*:*:*",
+        "cpeNameId": "797CF4D8-211E-49D3-B460-1CEB831AF73D",
+        "lastModified": "2021-05-04T16:41:53.150",
+        "created": "2017-01-20T21:48:11.213",
+        "titles": [
+          {
+            "title": "NETGEAR R6200",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:netgear:r6200:v2:*:*:*:*:*:*:*",
+        "cpeNameId": "2C24FF4D-CF8B-46C3-A202-FB4A15F2904E",
+        "lastModified": "2020-04-28T12:55:42.877",
+        "created": "2020-04-28T12:55:42.877",
+        "titles": [
+          {
+            "title": "NETGEAR R6200 V2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:netgear:r6200:r6200v2-v1.0.3.12:*:*:*:*:*:*:*",
+        "cpeNameId": "BCD4DF39-4E1D-46BB-843C-D6E274A75786",
+        "lastModified": "2022-12-28T16:10:47.010",
+        "created": "2022-11-06T05:35:58.310",
+        "titles": [
+          {
+            "title": "NETGEAR R6200 R6200v2-v1.0.3.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:netgear:r6200:-:*:*:*:*:*:*:*",
+      "title": "NETGEAR R6200",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:netgear:r6200:v2:*:*:*:*:*:*:*",
+      "title": "NETGEAR R6200 V2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:netgear:r6200:r6200v2-v1.0.3.12:*:*:*:*:*:*:*",
+      "title": "NETGEAR R6200 R6200v2-v1.0.3.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

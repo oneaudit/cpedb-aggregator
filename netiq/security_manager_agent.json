@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:security_manager_agent:6.0.0.194:*:*:*:*:*:*:*",
+        "cpeNameId": "3A2B61EB-96B8-4C6E-BE3F-94C00CE6F46F",
+        "lastModified": "2021-04-13T17:07:28.787",
+        "created": "2012-06-21T19:09:34.957",
+        "titles": [
+          {
+            "title": "Netiq Security Manager Agent 6.0.0.194",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:security_manager_agent:6.0.0.194:*:*:*:*:*:*:*",
+            "cpeNameId": "5E286895-5EF8-4AFB-8707-B5316AED1BF0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:security_manager_agent:6.5.3.149:*:*:*:*:*:*:*",
+        "cpeNameId": "E4C43D8E-6520-496B-BA89-1648D2DB2C1C",
+        "lastModified": "2021-04-13T17:07:28.787",
+        "created": "2012-06-21T19:09:35.347",
+        "titles": [
+          {
+            "title": "Netiq Security Manager Agent 6.5.3.149",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:security_manager_agent:6.5.3.149:*:*:*:*:*:*:*",
+            "cpeNameId": "88B1122A-F640-4416-BB8A-3C6E44BC3667"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:security_manager_agent:6.0.0.194:*:*:*:*:*:*:*",
+      "title": "Netiq Security Manager Agent 6.0.0.194",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:security_manager_agent:6.0.0.194:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:netiq:security_manager_agent:6.5.3.149:*:*:*:*:*:*:*",
+      "title": "Netiq Security Manager Agent 6.5.3.149",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:security_manager_agent:6.5.3.149:*:*:*:*:*:*:*"
+    }
+  ]
+}

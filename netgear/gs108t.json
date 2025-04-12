@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:netgear:gs108t:v2:*:*:*:*:*:*:*",
+        "cpeNameId": "2262C870-81FC-4356-A20E-15D8EE3945AD",
+        "lastModified": "2022-01-04T16:53:05.580",
+        "created": "2020-05-07T11:47:51.733",
+        "titles": [
+          {
+            "title": "NETGEAR GS108T v2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:netgear:gs108tv2:-:*:*:*:*:*:*:*",
+            "cpeNameId": "56A2FFF1-A16B-47BB-896A-AB817C6EAB95"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:netgear:gs108t:v3:*:*:*:*:*:*:*",
+        "cpeNameId": "E5A72AA7-C886-4D81-B01B-0308FF27D7AD",
+        "lastModified": "2022-01-04T16:53:05.580",
+        "created": "2021-05-26T18:42:22.650",
+        "titles": [
+          {
+            "title": "NETGEAR GS108T v3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:netgear:gs108tv3:-:*:*:*:*:*:*:*",
+            "cpeNameId": "9D59FA6D-02D1-41E5-8F0E-A329A341764A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:netgear:gs108t:v2:*:*:*:*:*:*:*",
+      "title": "NETGEAR GS108T v2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:netgear:gs108tv2:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:netgear:gs108t:v3:*:*:*:*:*:*:*",
+      "title": "NETGEAR GS108T v3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:netgear:gs108tv3:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

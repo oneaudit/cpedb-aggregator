@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:netgear:insight:5.6:*:*:*:*:*:*:*",
+        "cpeNameId": "5D751CB1-0581-4A43-B824-B0123FCDD5AC",
+        "lastModified": "2019-11-15T14:35:07.040",
+        "created": "2019-11-15T14:35:07.040",
+        "titles": [
+          {
+            "title": "Netgear Insight 5.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netgear:insight:2.42:*:*:*:*:android:*:*",
+        "cpeNameId": "7B228553-0484-437F-808D-40427E4A1BB8",
+        "lastModified": "2020-05-05T18:31:39.327",
+        "created": "2020-05-05T18:31:39.327",
+        "titles": [
+          {
+            "title": "NETGEAR Insight 2.42 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:netgear:insight:2.42:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "032292E2-46A0-44EC-9B3A-4F7F7DDF3FA7",
+        "lastModified": "2020-05-05T18:31:39.390",
+        "created": "2020-05-05T18:31:39.390",
+        "titles": [
+          {
+            "title": "NETGEAR Insight 2.42 for iPhone OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:netgear:insight:5.6:*:*:*:*:*:*:*",
+      "title": "Netgear Insight 5.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netgear:insight:2.42:*:*:*:*:android:*:*",
+      "title": "NETGEAR Insight 2.42 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:netgear:insight:2.42:*:*:*:*:iphone_os:*:*",
+      "title": "NETGEAR Insight 2.42 for iPhone OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

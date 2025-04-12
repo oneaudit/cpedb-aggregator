@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:netiq:unix_agent_manager:7.1.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EC451EF7-E021-448A-91E9-DD373303257C",
+        "lastModified": "2021-04-13T17:44:43.537",
+        "created": "2012-06-21T19:09:37.160",
+        "titles": [
+          {
+            "title": "Netiq Unix Agent Manager 7.1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microfocus:unix_agent_manager:7.1.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "E7C12F65-02A4-4668-B1EB-262555EDE972"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:netiq:unix_agent_manager:7.1.0.0:*:*:*:*:*:*:*",
+      "title": "Netiq Unix Agent Manager 7.1.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microfocus:unix_agent_manager:7.1.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}
