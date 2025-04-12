@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:coreshield_one-way_gateway:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BC2613D6-6C4E-4BAA-A041-8E00C24B6318",
+        "lastModified": "2022-09-14T13:09:58.980",
+        "created": "2022-09-14T13:08:57.640",
+        "titles": [
+          {
+            "title": "Siemens CoreShield One-Way Gateway (OWG)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:coreshield_one-way_gateway:2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "C0780FAA-6204-4E2A-A784-C54F96FB0F24",
+        "lastModified": "2022-09-14T13:09:58.980",
+        "created": "2022-09-14T13:08:57.640",
+        "titles": [
+          {
+            "title": "Siemens CoreShield One-Way Gateway (OWG) 2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:coreshield_one-way_gateway:-:*:*:*:*:*:*:*",
+      "title": "Siemens CoreShield One-Way Gateway (OWG)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:coreshield_one-way_gateway:2.2:*:*:*:*:*:*:*",
+      "title": "Siemens CoreShield One-Way Gateway (OWG) 2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

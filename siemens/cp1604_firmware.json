@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:cp1604_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7AED76A3-F9C5-4953-84B9-26C489A52ACE",
+        "lastModified": "2021-05-25T12:19:04.750",
+        "created": "2019-04-18T17:30:05.497",
+        "titles": [
+          {
+            "title": "Siemens CP1604 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:cp1604_firmware:2.8:*:*:*:*:*:*:*",
+        "cpeNameId": "983A77E1-29A8-4009-87F5-3B51A4554AB9",
+        "lastModified": "2020-10-30T11:03:42.660",
+        "created": "2020-10-30T11:03:42.660",
+        "titles": [
+          {
+            "title": "Siemens CP1604 Firmware 2.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:cp1604_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens CP1604 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:cp1604_firmware:2.8:*:*:*:*:*:*:*",
+      "title": "Siemens CP1604 Firmware 2.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

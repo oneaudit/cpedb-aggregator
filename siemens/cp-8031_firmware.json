@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:cp-8031_firmware:cpci85_v05:*:*:*:*:*:*:*",
+        "cpeNameId": "AFDAE9BD-9034-479A-A8BA-D2458D1B5A30",
+        "lastModified": "2023-09-01T03:37:29.760",
+        "created": "2023-04-18T14:19:51.550",
+        "titles": [
+          {
+            "title": "Siemens CP-8031 FIRMWARE CPCI85 V05",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:cp-8031_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4DA74FD1-FE92-477D-B057-9406BBF60C94",
+        "lastModified": "2023-09-01T03:37:29.760",
+        "created": "2023-04-18T14:19:51.550",
+        "titles": [
+          {
+            "title": "Siemens CP-8031 FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:cp-8031_firmware:cpci85_v05:*:*:*:*:*:*:*",
+      "title": "Siemens CP-8031 FIRMWARE CPCI85 V05",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:cp-8031_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens CP-8031 FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

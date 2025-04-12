@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:digsi_5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A6249BA3-F89E-4375-B9C8-28FA28809B62",
+        "lastModified": "2021-05-25T12:24:18.803",
+        "created": "2018-09-10T15:51:50.263",
+        "titles": [
+          {
+            "title": "Siemens DIGSI 5 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:digsi_5_firmware:7.80:*:*:*:*:*:*:*",
+        "cpeNameId": "A6C6C382-F9A6-4516-BC07-5C5548C9A619",
+        "lastModified": "2021-05-25T12:24:18.803",
+        "created": "2018-09-10T15:51:50.263",
+        "titles": [
+          {
+            "title": "Siemens DIGSI 5 FIRMWARE 7.80",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:digsi_5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens DIGSI 5 FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:digsi_5_firmware:7.80:*:*:*:*:*:*:*",
+      "title": "Siemens DIGSI 5 FIRMWARE 7.80",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

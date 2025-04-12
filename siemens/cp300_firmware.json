@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:cp300_firmware:7.80:*:*:*:*:*:*:*",
+        "cpeNameId": "72E05F9B-1FCF-4389-9155-5DAA095D6668",
+        "lastModified": "2021-05-25T12:19:04.750",
+        "created": "2018-10-01T15:58:47.490",
+        "titles": [
+          {
+            "title": "Siemens CP300 FIRMWARE 7.80",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:cp300_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A9AFA5E8-931A-48AC-A6B7-9E9E91F60556",
+        "lastModified": "2021-05-25T12:19:04.750",
+        "created": "2018-10-01T15:58:47.490",
+        "titles": [
+          {
+            "title": "Siemens CP300 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:cp300_firmware:7.80:*:*:*:*:*:*:*",
+      "title": "Siemens CP300 FIRMWARE 7.80",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:cp300_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens CP300 FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

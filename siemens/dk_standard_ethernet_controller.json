@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:siemens:dk_standard_ethernet_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "64C8156E-D08E-4F4A-A5F4-88214448E831",
+        "lastModified": "2021-05-12T14:56:12.420",
+        "created": "2017-05-23T01:51:46.050",
+        "titles": [
+          {
+            "title": "Siemens DK Standard Ethernet Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:dk_standard_ethernet_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "05CE20D6-3FD9-42BD-8573-DAE5E55F0EBC",
+        "lastModified": "2020-02-24T15:00:05.457",
+        "created": "2020-02-24T15:00:05.457",
+        "titles": [
+          {
+            "title": "Siemens DK Standard Ethernet Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:siemens:dk_standard_ethernet_controller:-:*:*:*:*:*:*:*",
+      "title": "Siemens DK Standard Ethernet Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:dk_standard_ethernet_controller:-:*:*:*:*:*:*:*",
+      "title": "Siemens DK Standard Ethernet Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:cp_1543-1_firmware:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "D206E936-3461-4687-B9B3-CD5856D7C1CA",
+        "lastModified": "2020-09-16T12:48:10.473",
+        "created": "2020-09-16T12:48:10.473",
+        "titles": [
+          {
+            "title": "Siemens CP 1543-1 Firmware 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:cp_1543-1_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "58E05BCA-5D6B-44B9-BC43-5D994EB6DBB5",
+        "lastModified": "2022-08-12T20:48:22.767",
+        "created": "2022-03-31T20:33:47.877",
+        "titles": [
+          {
+            "title": "Siemens CP 1543-1 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:cp_1543-1_firmware:1.1:*:*:*:*:*:*:*",
+      "title": "Siemens CP 1543-1 Firmware 1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:cp_1543-1_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens CP 1543-1 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

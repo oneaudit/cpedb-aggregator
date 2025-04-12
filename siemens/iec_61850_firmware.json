@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:iec_61850_firmware:4.33:*:*:*:*:*:*:*",
+        "cpeNameId": "3694EDFC-3572-45F8-ADB8-A5811A57D4E5",
+        "lastModified": "2021-05-25T13:38:45.697",
+        "created": "2018-10-01T15:58:56.630",
+        "titles": [
+          {
+            "title": "Siemens IEC 61850 FIRMWARE 4.33",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:iec_61850_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B70E4776-F58F-49CE-88F1-DFC7723DFDB1",
+        "lastModified": "2021-05-25T13:38:45.697",
+        "created": "2018-10-01T15:58:56.630",
+        "titles": [
+          {
+            "title": "Siemens IEC 61850 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:iec_61850_firmware:4.33:*:*:*:*:*:*:*",
+      "title": "Siemens IEC 61850 FIRMWARE 4.33",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:iec_61850_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens IEC 61850 FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:ie\\/pb-link_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AB0CF0B7-F720-41E3-9DE2-C9A84F28E8A5",
+        "lastModified": "2021-05-25T13:36:38.307",
+        "created": "2017-05-23T01:51:46.050",
+        "titles": [
+          {
+            "title": "Siemens IE/PB-link Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:ie\\/pb-link_firmware:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5508C983-E52E-4678-8691-D07E272E219E",
+        "lastModified": "2021-01-14T19:46:04.890",
+        "created": "2021-01-14T19:46:04.890",
+        "titles": [
+          {
+            "title": "Siemens IE/PB-link Firmware 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:ie\\/pb-link_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens IE/PB-link Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:ie\\/pb-link_firmware:3.0:*:*:*:*:*:*:*",
+      "title": "Siemens IE/PB-link Firmware 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

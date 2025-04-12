@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:cp1616_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5F90568F-8B03-497B-AC74-41DB1B1023E2",
+        "lastModified": "2021-05-25T12:19:04.750",
+        "created": "2019-04-18T17:30:08.887",
+        "titles": [
+          {
+            "title": "Siemens CP1616 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:cp1616_firmware:2.8:*:*:*:*:*:*:*",
+        "cpeNameId": "2DF29CB9-4FA8-41DB-9881-2CA2EA23311A",
+        "lastModified": "2020-10-30T11:03:42.770",
+        "created": "2020-10-30T11:03:42.770",
+        "titles": [
+          {
+            "title": "Siemens CP1616 Firmware 2.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:cp1616_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens CP1616 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:cp1616_firmware:2.8:*:*:*:*:*:*:*",
+      "title": "Siemens CP1616 Firmware 2.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:ec_61850_system_configurator_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EF137C1D-BE6F-4157-AF16-6F9083B8FC93",
+        "lastModified": "2021-05-25T12:45:49.410",
+        "created": "2018-09-10T15:54:44.800",
+        "titles": [
+          {
+            "title": "Siemens EC 61850 SYSTEM CONFIGURATOR FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:ec_61850_system_configurator_firmware:5.80:*:*:*:*:*:*:*",
+        "cpeNameId": "506AB0A7-9B08-41D6-BE74-036CA5842D06",
+        "lastModified": "2021-05-25T12:45:49.410",
+        "created": "2018-09-10T15:54:44.800",
+        "titles": [
+          {
+            "title": "Siemens EC 61850 SYSTEM CONFIGURATOR FIRMWARE 5.80",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:ec_61850_system_configurator_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens EC 61850 SYSTEM CONFIGURATOR FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:ec_61850_system_configurator_firmware:5.80:*:*:*:*:*:*:*",
+      "title": "Siemens EC 61850 SYSTEM CONFIGURATOR FIRMWARE 5.80",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
