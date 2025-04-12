@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:hns7200apr_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "822D426B-3431-40F7-A4FB-A87727D4C469",
+        "lastModified": "2021-05-04T16:41:09.350",
+        "created": "2019-05-21T16:20:07.270",
+        "titles": [
+          {
+            "title": "Intel HNS7200APR Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:hns7200apr_firmware:r01.03.0018:*:*:*:*:*:*:*",
+        "cpeNameId": "7814A34B-8D1A-47F0-BC04-E047D629D4AA",
+        "lastModified": "2019-07-01T15:34:56.140",
+        "created": "2019-07-01T15:34:56.140",
+        "titles": [
+          {
+            "title": "Intel HNS7200APR Firmware R01.03.0018",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:hns7200apr_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel HNS7200APR Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:hns7200apr_firmware:r01.03.0018:*:*:*:*:*:*:*",
+      "title": "Intel HNS7200APR Firmware R01.03.0018",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

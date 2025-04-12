@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc7i3dnhe_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6BCC44D0-240E-4E50-B59F-EF3B90698953",
+        "lastModified": "2021-06-10T16:16:30.867",
+        "created": "2019-12-30T16:11:56.993",
+        "titles": [
+          {
+            "title": "Intel NUC7i3DNHE Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc7i3dnhe_firmware:0067:*:*:*:*:*:*:*",
+        "cpeNameId": "4FEDBFA9-FADF-49BD-BAE8-01F9E9A678AA",
+        "lastModified": "2021-06-10T16:16:30.867",
+        "created": "2019-12-30T16:11:56.993",
+        "titles": [
+          {
+            "title": "Intel NUC7i3DNHE Firmware 0067",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc7i3dnhe_firmware:dnkbli30.86a:*:*:*:*:*:*:*",
+        "cpeNameId": "2DD48B0A-C1F8-4FB3-B0DF-824864D597D7",
+        "lastModified": "2021-06-10T16:16:30.867",
+        "created": "2020-08-14T15:45:39.827",
+        "titles": [
+          {
+            "title": "Intel NUC7i3DNHE Firmware DNKBLI30.86A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc7i3dnhe_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel NUC7i3DNHE Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc7i3dnhe_firmware:0067:*:*:*:*:*:*:*",
+      "title": "Intel NUC7i3DNHE Firmware 0067",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc7i3dnhe_firmware:dnkbli30.86a:*:*:*:*:*:*:*",
+      "title": "Intel NUC7i3DNHE Firmware DNKBLI30.86A",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

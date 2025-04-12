@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc11atkpe_firmware:atjslcpx.0038:*:*:*:*:*:*:*",
+        "cpeNameId": "3E3EFC88-3F27-4D3B-8E9F-AAEDE1DD337C",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T16:43:30.253",
+        "titles": [
+          {
+            "title": "Intel NUC11ATKPE FIRMWARE ATJSLCPX.0038",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc11atkpe_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "43EFCE74-3C98-43E7-AA33-2A754C08AA2E",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T16:43:30.253",
+        "titles": [
+          {
+            "title": "Intel NUC11ATKPE FIRMWARE ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc11atkpe_firmware:atjslcpx.0038:*:*:*:*:*:*:*",
+      "title": "Intel NUC11ATKPE FIRMWARE ATJSLCPX.0038",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc11atkpe_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel NUC11ATKPE FIRMWARE ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

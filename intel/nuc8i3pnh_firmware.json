@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc8i3pnh_firmware:pnwhl357.0050:*:*:*:*:*:*:*",
+        "cpeNameId": "BBD4C365-E5FC-4532-82A4-63D3C5D4BC27",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T15:36:39.600",
+        "titles": [
+          {
+            "title": "Intel NUC8I3PNH FIRMWARE PNWHL357.0050",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc8i3pnh_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "52BD2998-5C72-4139-8F8B-D4409807B55D",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T15:36:39.600",
+        "titles": [
+          {
+            "title": "Intel NUC8I3PNH FIRMWARE ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc8i3pnh_firmware:pnwhl357.0050:*:*:*:*:*:*:*",
+      "title": "Intel NUC8I3PNH FIRMWARE PNWHL357.0050",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc8i3pnh_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel NUC8I3PNH FIRMWARE ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

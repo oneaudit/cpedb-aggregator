@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:mehlow:-:*:*:*:embedded:*:*:*",
+        "cpeNameId": "1621E91A-0855-48CF-8FA1-11B1577AD1BD",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Mehlow Embedded Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:mehlow:-:*:*:*:server:*:*:*",
+        "cpeNameId": "1E2ADE6C-49F3-4195-B1C1-BA028382ECAB",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Mehlow Server Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:mehlow:-:*:*:*:*:*:*:*",
+        "cpeNameId": "65C29AC9-CD6B-4F14-BFCF-DAA7ECB8B70F",
+        "lastModified": "2022-11-21T17:31:38.893",
+        "created": "2022-11-21T16:31:07.053",
+        "titles": [
+          {
+            "title": "Intel Mehlow",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:mehlow:-:*:*:*:embedded:*:*:*",
+      "title": "Intel Mehlow Embedded Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:mehlow:-:*:*:*:server:*:*:*",
+      "title": "Intel Mehlow Server Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:mehlow:-:*:*:*:*:*:*:*",
+      "title": "Intel Mehlow",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

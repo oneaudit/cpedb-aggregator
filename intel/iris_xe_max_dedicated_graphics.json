@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:iris_xe_max_dedicated_graphics:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0E8284CF-815E-44A9-8837-2479359DDB99",
+        "lastModified": "2022-08-01T16:03:26.213",
+        "created": "2022-08-01T16:02:24.563",
+        "titles": [
+          {
+            "title": "Intel Iris Xe MAX Dedicated Graphics",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:iris_xe_max_dedicated_graphics:100.0.5.1474:*:*:*:*:*:*:*",
+        "cpeNameId": "1EF4E21E-D216-4169-B446-85B346D1BE84",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-03-06T13:55:05.807",
+        "titles": [
+          {
+            "title": "Intel Iris Xe MAX Dedicated Graphics 100.0.5.1474",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:iris_xe_max_dedicated_graphics:100.0.5.1436\\(v2\\):*:*:*:*:*:*:*",
+        "cpeNameId": "62454CC1-37EF-4C0F-A522-2AD249AD0C36",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-03-06T14:34:47.653",
+        "titles": [
+          {
+            "title": "Intel Iris Xe MAX Dedicated Graphics 100.0.5.1436(v2)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:iris_xe_max_dedicated_graphics:-:*:*:*:*:*:*:*",
+      "title": "Intel Iris Xe MAX Dedicated Graphics",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:iris_xe_max_dedicated_graphics:100.0.5.1474:*:*:*:*:*:*:*",
+      "title": "Intel Iris Xe MAX Dedicated Graphics 100.0.5.1474",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:iris_xe_max_dedicated_graphics:100.0.5.1436\\(v2\\):*:*:*:*:*:*:*",
+      "title": "Intel Iris Xe MAX Dedicated Graphics 100.0.5.1436(v2)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

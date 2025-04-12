@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:laprc710_firmware:rcadl357.0060:*:*:*:*:*:*:*",
+        "cpeNameId": "F0D78435-3E2F-4C76-8183-A26D549E2771",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:48:51.143",
+        "titles": [
+          {
+            "title": "Intel LAPRC710 Firmware RCADL357.0060",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:laprc710_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9FFFCDA7-1705-403F-BDD8-AE00E95D42AA",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:48:51.143",
+        "titles": [
+          {
+            "title": "Intel LAPRC710 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:laprc710_firmware:rcadl357.0060:*:*:*:*:*:*:*",
+      "title": "Intel LAPRC710 Firmware RCADL357.0060",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:laprc710_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel LAPRC710 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

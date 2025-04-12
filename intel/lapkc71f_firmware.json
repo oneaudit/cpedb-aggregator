@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapkc71f_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "10AE274A-7A58-4577-97F6-07EDF7FE8CFE",
+        "lastModified": "2022-05-19T16:33:47.700",
+        "created": "2022-05-19T16:22:54.543",
+        "titles": [
+          {
+            "title": "Intel LAPKC71F Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapkc71f_firmware:kctgl357.0044:*:*:*:*:*:*:*",
+        "cpeNameId": "E70EFF41-CB74-47A3-8107-7ED36511EBF4",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:49:37.120",
+        "titles": [
+          {
+            "title": "Intel LAPKC71F Firmware KCTGL357.0044",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:lapkc71f_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel LAPKC71F Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:lapkc71f_firmware:kctgl357.0044:*:*:*:*:*:*:*",
+      "title": "Intel LAPKC71F Firmware KCTGL357.0044",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

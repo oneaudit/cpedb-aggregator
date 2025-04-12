@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc12wshi5_firmware:wsadl357.0086:*:*:*:*:*:*:*",
+        "cpeNameId": "945A99CA-6116-4F87-91CB-61EAA0046BBF",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T16:41:12.773",
+        "titles": [
+          {
+            "title": "Intel NUC12WSHI5 FIRMWARE WSADL357.0086",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc12wshi5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E226D6F8-3CDC-433C-A287-37B02DEF9D9B",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T16:41:12.773",
+        "titles": [
+          {
+            "title": "Intel NUC12WSHI5 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc12wshi5_firmware:wsadl357.0086:*:*:*:*:*:*:*",
+      "title": "Intel NUC12WSHI5 FIRMWARE WSADL357.0086",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc12wshi5_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel NUC12WSHI5 FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:laprc510_firmware:rcadl357.0060:*:*:*:*:*:*:*",
+        "cpeNameId": "92E745B4-16A7-4D69-A51E-294B9483DCDB",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:48:59.480",
+        "titles": [
+          {
+            "title": "Intel LAPRC510 Firmware RCADL357.0060",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:laprc510_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D7868088-46DB-47EF-B1BA-88CAA3660EE4",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:48:59.480",
+        "titles": [
+          {
+            "title": "Intel LAPRC510 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:laprc510_firmware:rcadl357.0060:*:*:*:*:*:*:*",
+      "title": "Intel LAPRC510 Firmware RCADL357.0060",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:laprc510_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel LAPRC510 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

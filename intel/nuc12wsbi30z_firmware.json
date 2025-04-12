@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc12wsbi30z_firmware:wsadl357.0086:*:*:*:*:*:*:*",
+        "cpeNameId": "ACEA96D9-60E9-419F-9D0D-89B442C7AC38",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T16:42:23.037",
+        "titles": [
+          {
+            "title": "Intel NUC12WSBI30Z FIRMWARE WSADL357.0086",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc12wsbi30z_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B4574765-889A-49F3-8E81-26FA6110817B",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T16:42:23.037",
+        "titles": [
+          {
+            "title": "Intel NUC12WSBI30Z FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc12wsbi30z_firmware:wsadl357.0086:*:*:*:*:*:*:*",
+      "title": "Intel NUC12WSBI30Z FIRMWARE WSADL357.0086",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc12wsbi30z_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel NUC12WSBI30Z FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc8cchkr_firmware:chaplcel.0061:*:*:*:*:*:*:*",
+        "cpeNameId": "CD0C84B1-D6D4-4021-AA65-0CF50EE64ED0",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T16:39:33.663",
+        "titles": [
+          {
+            "title": "Intel NUC8CCHKR FIRMWARE CHAPLCEL.0061",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc8cchkr_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3155E9B4-8817-49F9-BD74-C0E6A89A8F0C",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T16:39:33.663",
+        "titles": [
+          {
+            "title": "Intel NUC8CCHKR FIRMWARE ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc8cchkr_firmware:chaplcel.0061:*:*:*:*:*:*:*",
+      "title": "Intel NUC8CCHKR FIRMWARE CHAPLCEL.0061",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc8cchkr_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel NUC8CCHKR FIRMWARE ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

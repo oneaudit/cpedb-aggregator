@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc7i3bnb_firmware:bnkbl357.86a:*:*:*:*:*:*:*",
+        "cpeNameId": "E5C0047A-31D6-43A8-A451-0F26C649C720",
+        "lastModified": "2021-06-10T16:16:30.867",
+        "created": "2020-08-14T15:45:35.593",
+        "titles": [
+          {
+            "title": "Intel NUC7i3BNB Firmware BNKBL357.86A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc7i3bnb_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "96ADBDE1-961F-4E85-B375-B8F02E4BC0E4",
+        "lastModified": "2023-08-05T03:28:37.610",
+        "created": "2023-05-19T20:11:37.627",
+        "titles": [
+          {
+            "title": "Intel Nuc7i3bnb Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc7i3bnb_firmware:bnkbl357.86a:*:*:*:*:*:*:*",
+      "title": "Intel NUC7i3BNB Firmware BNKBL357.86A",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc7i3bnb_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Nuc7i3bnb Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

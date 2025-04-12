@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc5pgyh_firmware:pybswcel.86a:*:*:*:*:*:*:*",
+        "cpeNameId": "D89E1CA1-7F8B-4DC9-AB9C-51EBCA112563",
+        "lastModified": "2021-06-10T16:16:30.867",
+        "created": "2020-08-14T15:45:30.763",
+        "titles": [
+          {
+            "title": "Intel NUC5PGYH Firmware PYBSWCEL.86A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc5pgyh_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "14C829AA-EBCE-461D-B742-F6FBAA5B01DF",
+        "lastModified": "2023-08-05T03:28:37.610",
+        "created": "2023-05-19T20:11:37.627",
+        "titles": [
+          {
+            "title": "Intel Nuc5pgyh Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc5pgyh_firmware:pybswcel.86a:*:*:*:*:*:*:*",
+      "title": "Intel NUC5PGYH Firmware PYBSWCEL.86A",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc5pgyh_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Nuc5pgyh Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

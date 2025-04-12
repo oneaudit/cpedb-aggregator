@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:lan_adapters_snmp_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "53EBA7B9-2A9D-47F3-BD04-2A7BF3C774E1",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Intel LAN Adapters SNMP Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:lan_adapters_snmp_agent:1.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A50FEC68-1DD0-4122-8AE6-24A0739CC460",
+        "lastModified": "2012-06-21T19:06:49.753",
+        "created": "2012-06-21T19:06:49.753",
+        "titles": [
+          {
+            "title": "Intel Lan Adapters Snmp Agent 1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:lan_adapters_snmp_agent:-:*:*:*:*:*:*:*",
+      "title": "Intel LAN Adapters SNMP Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:lan_adapters_snmp_agent:1.0.0:*:*:*:*:*:*:*",
+      "title": "Intel Lan Adapters Snmp Agent 1.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

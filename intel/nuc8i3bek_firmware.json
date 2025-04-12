@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc8i3bek_firmware:becfl357.86a:*:*:*:*:*:*:*",
+        "cpeNameId": "32C42889-3362-4A67-B27F-16C0F9905B37",
+        "lastModified": "2021-06-10T16:16:30.867",
+        "created": "2020-08-14T15:46:01.547",
+        "titles": [
+          {
+            "title": "Intel NUC8i3BEK Firmware BECFL357.86A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc8i3bek_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "204F0629-F8E6-4C9E-A83B-303FE1FB94FD",
+        "lastModified": "2023-08-05T03:28:37.610",
+        "created": "2023-05-19T20:11:37.627",
+        "titles": [
+          {
+            "title": "Intel Nuc8i3bek Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc8i3bek_firmware:becfl357.86a:*:*:*:*:*:*:*",
+      "title": "Intel NUC8i3BEK Firmware BECFL357.86A",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc8i3bek_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Nuc8i3bek Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

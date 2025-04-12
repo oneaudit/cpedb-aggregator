@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:killer_ac_1550_firmware:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FB5E64E7-70F0-4550-BF98-A69A53A19F0D",
+        "lastModified": "2022-03-03T19:34:20.547",
+        "created": "2022-03-03T19:18:52.713",
+        "titles": [
+          {
+            "title": "Intel Killer AC 1550 Firmware 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:killer_ac_1550_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4ABC18F3-B1D9-4627-803A-9A7F272A1964",
+        "lastModified": "2022-03-03T19:34:20.547",
+        "created": "2022-03-03T19:18:52.713",
+        "titles": [
+          {
+            "title": "Intel Killer AC 1550 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:killer_ac_1550_firmware:3.0:*:*:*:*:*:*:*",
+      "title": "Intel Killer AC 1550 Firmware 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:killer_ac_1550_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Killer AC 1550 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

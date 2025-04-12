@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapac71h_firmware:acadl357.0059:*:*:*:*:*:*:*",
+        "cpeNameId": "7BAF7225-8382-49E6-A75F-FC6F3A998901",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:49:07.967",
+        "titles": [
+          {
+            "title": "Intel LAPAC71H Firmware ACADL357.0059",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapac71h_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "11A68FCA-6A25-4989-8FA3-9D09E1EF1776",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:49:07.967",
+        "titles": [
+          {
+            "title": "Intel LAPAC71H Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:lapac71h_firmware:acadl357.0059:*:*:*:*:*:*:*",
+      "title": "Intel LAPAC71H Firmware ACADL357.0059",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:lapac71h_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel LAPAC71H Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:mobile_intel_qs67_chipset:_express-:*:*:*:*:*:*:*",
+        "cpeNameId": "645F34B1-042A-4BA3-A35B-3B217A2360D1",
+        "lastModified": "2012-09-18T14:09:19.897",
+        "created": "2012-09-17T16:38:09.577",
+        "titles": [
+          {
+            "title": "Intel Mobile Intel QM67 Chipset Express",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:mobile_intel_qs67_chipset:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F04DB7AF-CD70-4CC5-AADB-1FC5DC57B743",
+        "lastModified": "2014-07-15T19:28:31.860",
+        "created": "2013-09-13T16:48:27.167",
+        "titles": [
+          {
+            "title": "Intel Mobile Intel QS67 chipset",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:mobile_intel_qs67_chipset:_express-:*:*:*:*:*:*:*",
+      "title": "Intel Mobile Intel QM67 Chipset Express",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:mobile_intel_qs67_chipset:-:*:*:*:*:*:*:*",
+      "title": "Intel Mobile Intel QS67 chipset",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

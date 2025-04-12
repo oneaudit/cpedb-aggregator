@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc11btmi7_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6AC6110A-34BC-4F34-819A-D8CBE0E7C721",
+        "lastModified": "2022-05-19T16:33:47.700",
+        "created": "2022-05-19T16:22:54.543",
+        "titles": [
+          {
+            "title": "Intel NUC11BTMi7 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc11btmi7_firmware:dbtgl579.0065:*:*:*:*:*:*:*",
+        "cpeNameId": "E5A804A1-2170-41E0-828C-BD62408DF8E6",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T16:43:41.103",
+        "titles": [
+          {
+            "title": "Intel NUC11BTMI7 FIRMWARE DBTGL579.0065",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc11btmi7_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel NUC11BTMi7 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc11btmi7_firmware:dbtgl579.0065:*:*:*:*:*:*:*",
+      "title": "Intel NUC11BTMI7 FIRMWARE DBTGL579.0065",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

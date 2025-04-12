@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapac71g_firmware:acadl357.0059:*:*:*:*:*:*:*",
+        "cpeNameId": "842B4E6C-C5EE-4D9B-B855-7AE6255B8FF4",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:43:49.393",
+        "titles": [
+          {
+            "title": "Intel LAPAC71G Firmware ACADL357.0059",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapac71g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "11593174-D4C4-431E-95FD-15D7B962EC76",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:43:49.393",
+        "titles": [
+          {
+            "title": "Intel LAPAC71G Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:lapac71g_firmware:acadl357.0059:*:*:*:*:*:*:*",
+      "title": "Intel LAPAC71G Firmware ACADL357.0059",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:lapac71g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel LAPAC71G Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

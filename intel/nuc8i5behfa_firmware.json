@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc8i5behfa_firmware:becfl357.86a:*:*:*:*:*:*:*",
+        "cpeNameId": "DF6B0694-805D-4699-934D-B34E4228795B",
+        "lastModified": "2021-06-10T16:16:30.867",
+        "created": "2020-08-14T15:46:03.123",
+        "titles": [
+          {
+            "title": "Intel NUC8i5BEHFA Firmware BECFL357.86A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc8i5behfa_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "180B90F3-3D9C-43C8-8E37-7AF79BA7B52A",
+        "lastModified": "2023-08-05T03:28:37.610",
+        "created": "2023-05-19T20:11:37.627",
+        "titles": [
+          {
+            "title": "Intel Nuc8i5behfa Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc8i5behfa_firmware:becfl357.86a:*:*:*:*:*:*:*",
+      "title": "Intel NUC8i5BEHFA Firmware BECFL357.86A",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc8i5behfa_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Nuc8i5behfa Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

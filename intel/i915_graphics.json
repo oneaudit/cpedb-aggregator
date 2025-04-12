@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:i915_graphics:6.2.10:*:*:*:*:linux:*:*",
+        "cpeNameId": "A737862B-94BD-4D4A-A40C-C76627A322EE",
+        "lastModified": "2023-10-27T14:19:53.800",
+        "created": "2023-10-27T14:19:53.800",
+        "titles": [
+          {
+            "title": "Intel i915 Graphics 6.2.10 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:i915_graphics:-:*:*:*:*:linux:*:*",
+        "cpeNameId": "DAD5673A-ABAB-47BD-8401-39AD16D1C875",
+        "lastModified": "2023-10-27T14:19:53.800",
+        "created": "2023-10-27T14:19:53.800",
+        "titles": [
+          {
+            "title": "Intel i915 Graphics - for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:i915_graphics:6.2.10:*:*:*:*:linux:*:*",
+      "title": "Intel i915 Graphics 6.2.10 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:i915_graphics:-:*:*:*:*:linux:*:*",
+      "title": "Intel i915 Graphics - for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

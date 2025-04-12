@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapbc710_firmware:bctgl357.0078:*:*:*:*:*:*:*",
+        "cpeNameId": "E3A25E60-F13D-46FF-AD85-0FA5E7BC0225",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:49:23.327",
+        "titles": [
+          {
+            "title": "Intel LAPBC710 Firmware BCTGL357.0078",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapbc710_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "02B112AF-315B-48AE-86D1-E9FE370ABC8A",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:49:23.327",
+        "titles": [
+          {
+            "title": "Intel LAPBC710 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:lapbc710_firmware:bctgl357.0078:*:*:*:*:*:*:*",
+      "title": "Intel LAPBC710 Firmware BCTGL357.0078",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:lapbc710_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel LAPBC710 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

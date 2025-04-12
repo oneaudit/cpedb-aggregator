@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:iflashv:5.13.00.2105:*:*:*:*:windows:*:*",
+        "cpeNameId": "DD0C3CAE-A656-4C52-AA23-63E3F9E24E29",
+        "lastModified": "2023-10-27T14:19:53.800",
+        "created": "2023-10-27T14:19:53.800",
+        "titles": [
+          {
+            "title": "Intel iFlashV 5.13.00.2105 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:iflashv:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "E3A4C557-F4F7-4B7C-839E-EF4088A6E700",
+        "lastModified": "2023-10-27T14:19:53.800",
+        "created": "2023-10-27T14:19:53.800",
+        "titles": [
+          {
+            "title": "Intel iFlashV - for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:iflashv:5.13.00.2105:*:*:*:*:windows:*:*",
+      "title": "Intel iFlashV 5.13.00.2105 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:iflashv:-:*:*:*:*:windows:*:*",
+      "title": "Intel iFlashV - for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

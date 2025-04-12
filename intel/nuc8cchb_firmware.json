@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc8cchb_firmware:chaplcel.0061:*:*:*:*:*:*:*",
+        "cpeNameId": "D8FE4FA0-7C45-4498-8DA8-F428C9DB39C8",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T16:39:50.723",
+        "titles": [
+          {
+            "title": "Intel NUC8CCHB FIRMWARE CHAPLCEL.0061",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc8cchb_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B7954E5C-5408-4400-97A6-26D12DEB56BF",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T16:39:50.723",
+        "titles": [
+          {
+            "title": "Intel NUC8CCHB FIRMWARE ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc8cchb_firmware:chaplcel.0061:*:*:*:*:*:*:*",
+      "title": "Intel NUC8CCHB FIRMWARE CHAPLCEL.0061",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc8cchb_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel NUC8CCHB FIRMWARE ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

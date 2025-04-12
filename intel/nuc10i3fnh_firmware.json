@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc10i3fnh_firmware:fncml357.0059:*:*:*:*:*:*:*",
+        "cpeNameId": "237AFBD5-C03F-474B-A84C-83EAF931D9BD",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T15:41:21.307",
+        "titles": [
+          {
+            "title": "Intel NUC10I3FNH FIRMWARE FNCML357.0059",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc10i3fnh_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "64065F72-D8F1-46B0-800C-B1D4E40FC3FC",
+        "lastModified": "2023-08-05T03:21:07.203",
+        "created": "2023-05-18T15:41:21.307",
+        "titles": [
+          {
+            "title": "Intel NUC10I3FNH FIRMWARE ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc10i3fnh_firmware:fncml357.0059:*:*:*:*:*:*:*",
+      "title": "Intel NUC10I3FNH FIRMWARE FNCML357.0059",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc10i3fnh_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel NUC10I3FNH FIRMWARE ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

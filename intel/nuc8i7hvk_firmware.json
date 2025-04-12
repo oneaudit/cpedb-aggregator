@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc8i7hvk_firmware:hnkbli70.86a:*:*:*:*:*:*:*",
+        "cpeNameId": "61D1C0B3-2A14-43DE-B2FD-046A68FF6116",
+        "lastModified": "2021-06-10T16:16:30.867",
+        "created": "2020-08-14T15:46:10.810",
+        "titles": [
+          {
+            "title": "Intel NUC8i7HVK Firmware HNKBLI70.86A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:nuc8i7hvk_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "03AE4ABB-3B1B-4279-A616-5FF281853D90",
+        "lastModified": "2023-08-05T03:28:37.610",
+        "created": "2023-05-19T20:11:37.627",
+        "titles": [
+          {
+            "title": "Intel Nuc8i7hvk Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:nuc8i7hvk_firmware:hnkbli70.86a:*:*:*:*:*:*:*",
+      "title": "Intel NUC8i7HVK Firmware HNKBLI70.86A",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:nuc8i7hvk_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Nuc8i7hvk Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

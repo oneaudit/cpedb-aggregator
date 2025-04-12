@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapkc51e_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2B6809C4-DAF7-4180-8B65-B4B6435997BF",
+        "lastModified": "2022-05-19T16:33:47.700",
+        "created": "2022-05-19T16:22:54.543",
+        "titles": [
+          {
+            "title": "Intel LAPKC51E Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapkc51e_firmware:kctgl357.0044:*:*:*:*:*:*:*",
+        "cpeNameId": "41627FC7-0507-4A4E-ABC3-AACE5A378BDD",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:49:59.203",
+        "titles": [
+          {
+            "title": "Intel LAPKC51E Firmware KCTGL357.0044",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:lapkc51e_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel LAPKC51E Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:lapkc51e_firmware:kctgl357.0044:*:*:*:*:*:*:*",
+      "title": "Intel LAPKC51E Firmware KCTGL357.0044",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

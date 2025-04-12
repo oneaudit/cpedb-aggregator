@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapbc510_firmware:bc0076:*:*:*:*:*:*:*",
+        "cpeNameId": "15DFAEC8-8C1B-492A-98F2-E9B69A881390",
+        "lastModified": "2022-08-25T14:41:11.980",
+        "created": "2022-08-19T15:13:59.690",
+        "titles": [
+          {
+            "title": "Intel LAPBC510 Firmware BC0076",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapbc510_firmware:bctgl357.0078:*:*:*:*:*:*:*",
+        "cpeNameId": "416E1C52-8C6E-4E5F-884F-9101CA7DBE29",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:49:15.477",
+        "titles": [
+          {
+            "title": "Intel LAPBC510 Firmware BCTGL357.0078",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:lapbc510_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A42A536F-BA7C-4BDC-B090-BDBC0FBAB72C",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:49:15.477",
+        "titles": [
+          {
+            "title": "Intel LAPBC510 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:lapbc510_firmware:bc0076:*:*:*:*:*:*:*",
+      "title": "Intel LAPBC510 Firmware BC0076",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:lapbc510_firmware:bctgl357.0078:*:*:*:*:*:*:*",
+      "title": "Intel LAPBC510 Firmware BCTGL357.0078",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:lapbc510_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel LAPBC510 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
