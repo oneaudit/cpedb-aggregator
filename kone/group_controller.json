@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:kone:group_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1EFC98DF-AAFE-4CC4-A9F8-4326A9BF49F6",
+        "lastModified": "2018-11-26T17:55:11.317",
+        "created": "2018-11-26T17:55:11.317",
+        "titles": [
+          {
+            "title": "KONE Group Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:kone:group_controller:4.6.4:*:*:*:*:*:*:*",
+        "cpeNameId": "762BD2CB-903F-4FA5-8A00-2171E827E074",
+        "lastModified": "2018-11-26T17:55:11.393",
+        "created": "2018-11-26T17:55:11.393",
+        "titles": [
+          {
+            "title": "KONE Group Controller 4.6.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:kone:group_controller:-:*:*:*:*:*:*:*",
+      "title": "KONE Group Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:kone:group_controller:4.6.4:*:*:*:*:*:*:*",
+      "title": "KONE Group Controller 4.6.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

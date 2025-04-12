@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:korenix:jetnet6710g-hvdc:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4EECD04F-8CA3-4370-B7C8-181134CA1938",
+        "lastModified": "2024-01-17T15:05:38.730",
+        "created": "2017-11-22T19:27:55.813",
+        "titles": [
+          {
+            "title": "Korenix JetNet6710G-HVDC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:korenix:jetnet_6710g-hvdc:-:*:*:*:*:*:*:*",
+            "cpeNameId": "8A723A58-AF87-41BF-B44A-D0595CD500A8"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:korenix:jetnet6710g-hvdc:-:*:*:*:*:*:*:*",
+      "title": "Korenix JetNet6710G-HVDC",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:korenix:jetnet_6710g-hvdc:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

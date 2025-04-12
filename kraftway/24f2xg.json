@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:kraftway:24f2xg:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2F7BCADB-61FB-46BD-A774-1697A1F385B5",
+        "lastModified": "2021-06-17T20:07:46.633",
+        "created": "2018-10-10T19:19:21.200",
+        "titles": [
+          {
+            "title": "Kraftway 24F2XG",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:kraftway:24f2xg_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7323FB08-EDC2-41EE-90AA-A9AC5E6028F2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:kraftway:24f2xg:-:*:*:*:*:*:*:*",
+      "title": "Kraftway 24F2XG",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:kraftway:24f2xg_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

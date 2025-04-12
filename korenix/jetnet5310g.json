@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:korenix:jetnet5310g:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CCD0E7FA-08D0-4648-8211-84016B2C99EE",
+        "lastModified": "2024-01-17T15:05:38.730",
+        "created": "2017-11-22T19:27:55.813",
+        "titles": [
+          {
+            "title": "Korenix JetNet5310G",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:korenix:jetnet_5310g:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D1711766-0EE8-4A34-956C-F3A074ADB9FB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:korenix:jetnet5310g:-:*:*:*:*:*:*:*",
+      "title": "Korenix JetNet5310G",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:korenix:jetnet_5310g:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

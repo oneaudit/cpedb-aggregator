@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:layslider:layslider:7.1.2:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "7BD7724C-A4F4-4415-AF79-34354796ED39",
+        "lastModified": "2025-03-17T16:58:35.840",
+        "created": "2024-05-09T15:01:20.007",
+        "titles": [
+          {
+            "title": "LaySlider 7.1.2 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:kreaturamedia:layerslider:7.1.2:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "CBE51B8B-C7FA-43B2-AC49-FFDB120ADBD2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:layslider:layslider:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "E83FA15E-1C8B-46A0-8782-23DB4BA610CE",
+        "lastModified": "2025-03-17T16:58:35.840",
+        "created": "2024-05-09T15:01:20.007",
+        "titles": [
+          {
+            "title": "LaySlider for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:kreaturamedia:layerslider:-:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "38D18365-8CD7-4A4F-B116-40FC81258A3A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:layslider:layslider:7.1.2:*:*:*:*:wordpress:*:*",
+      "title": "LaySlider 7.1.2 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:kreaturamedia:layerslider:7.1.2:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:layslider:layslider:-:*:*:*:*:wordpress:*:*",
+      "title": "LaySlider for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:kreaturamedia:layerslider:-:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

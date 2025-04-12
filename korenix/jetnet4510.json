@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:korenix:jetnet4510:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A58DD2F6-7565-4B61-90EA-0B539C8C416F",
+        "lastModified": "2024-01-17T15:05:38.730",
+        "created": "2022-03-03T20:58:42.010",
+        "titles": [
+          {
+            "title": "Korenix JetNet4510",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:korenix:jetnet_4510:-:*:*:*:*:*:*:*",
+            "cpeNameId": "249B6276-F55F-4112-9869-758975A3613F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:korenix:jetnet4510:-:*:*:*:*:*:*:*",
+      "title": "Korenix JetNet4510",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:korenix:jetnet_4510:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

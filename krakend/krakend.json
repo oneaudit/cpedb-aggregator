@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:krakend:krakend:2.0.0:*:*:*:enterprise:*:*:*",
+        "cpeNameId": "0184A64E-FACC-49B8-9181-E405F95AD1CA",
+        "lastModified": "2022-08-17T14:33:49.813",
+        "created": "2022-08-05T17:22:34.310",
+        "titles": [
+          {
+            "title": "KrakenD 2.0.0 Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:krakend:krakend:-:*:*:*:enterprise:*:*:*",
+        "cpeNameId": "D1A54EB1-1900-4AFB-89DF-0DC020766159",
+        "lastModified": "2022-08-17T14:33:49.813",
+        "created": "2022-08-05T17:22:34.310",
+        "titles": [
+          {
+            "title": "KrakenD Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:krakend:krakend:2.0.2:*:*:*:community:*:*:*",
+        "cpeNameId": "FA3A47A2-6521-4793-A5B3-02D52D8EBFCE",
+        "lastModified": "2022-08-17T14:33:49.813",
+        "created": "2022-08-05T17:23:07.287",
+        "titles": [
+          {
+            "title": "KrakenD 2.0.2 Community Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:krakend:krakend:-:*:*:*:community:*:*:*",
+        "cpeNameId": "9FE6FB94-2364-4DC7-A86E-BB9DBE45929A",
+        "lastModified": "2022-08-17T14:33:49.813",
+        "created": "2022-08-05T17:23:07.287",
+        "titles": [
+          {
+            "title": "KrakenD Community Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:krakend:krakend:2.0.0:*:*:*:enterprise:*:*:*",
+      "title": "KrakenD 2.0.0 Enterprise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:krakend:krakend:-:*:*:*:enterprise:*:*:*",
+      "title": "KrakenD Enterprise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:krakend:krakend:2.0.2:*:*:*:community:*:*:*",
+      "title": "KrakenD 2.0.2 Community Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:krakend:krakend:-:*:*:*:community:*:*:*",
+      "title": "KrakenD Community Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

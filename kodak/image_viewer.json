@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:kodak:image_viewer:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7AA8B3D2-171F-403C-9A9F-724353666F77",
+        "lastModified": "2007-10-09T23:01:45.837",
+        "created": "2007-10-09T23:01:45.837",
+        "titles": [
+          {
+            "title": "Kodak Image Viewer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:kodak:image_viewer:1.0.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "221E2D11-EDCD-4FA3-A7EE-E209DD27E30A",
+        "lastModified": "2012-06-21T19:07:36.630",
+        "created": "2012-06-21T19:07:36.630",
+        "titles": [
+          {
+            "title": "Kodak Image Viewer 1.0.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:kodak:image_viewer:-:*:*:*:*:*:*:*",
+      "title": "Kodak Image Viewer",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:kodak:image_viewer:1.0.0.0:*:*:*:*:*:*:*",
+      "title": "Kodak Image Viewer 1.0.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

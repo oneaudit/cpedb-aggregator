@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:kuka:kr_c4_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4F080BD8-3F0C-413C-ABC6-D0B7784710CE",
+        "lastModified": "2020-07-17T11:19:31.593",
+        "created": "2020-07-17T11:19:31.593",
+        "titles": [
+          {
+            "title": "Kuka KR C4 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:kuka:kr_c4_firmware:8.7:*:*:*:*:*:*:*",
+        "cpeNameId": "389E2BAD-31B5-4F3D-BB9D-EA3190BB5138",
+        "lastModified": "2022-10-28T13:43:52.703",
+        "created": "2022-06-07T14:20:18.203",
+        "titles": [
+          {
+            "title": "Kuka KR C4 Firmware 8.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:kuka:kr_c4_firmware:-:*:*:*:*:*:*:*",
+      "title": "Kuka KR C4 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:kuka:kr_c4_firmware:8.7:*:*:*:*:*:*:*",
+      "title": "Kuka KR C4 Firmware 8.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

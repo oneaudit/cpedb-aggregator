@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:kumilabs:swift_file_transfer:1.1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "DC2285A8-E8D3-476D-A2F6-B53E26D21F08",
+        "lastModified": "2021-12-17T19:02:40.523",
+        "created": "2021-10-27T13:47:32.520",
+        "titles": [
+          {
+            "title": "Kumi Labs Swift File Transfer 1.1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:kumilabs:swift_file_transfer:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2D7AC196-7CB8-43CA-8883-306AD5F405BC",
+        "lastModified": "2021-12-17T19:02:40.523",
+        "created": "2021-10-27T13:47:32.520",
+        "titles": [
+          {
+            "title": "Kumi Labs Swift File Transfer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:kumilabs:swift_file_transfer:1.1.2:*:*:*:*:*:*:*",
+      "title": "Kumi Labs Swift File Transfer 1.1.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:kumilabs:swift_file_transfer:-:*:*:*:*:*:*:*",
+      "title": "Kumi Labs Swift File Transfer",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

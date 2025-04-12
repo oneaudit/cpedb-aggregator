@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:knime:analytics_platform:4.6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "14F3AEE5-BFB5-4E79-AD6C-679530B31037",
+        "lastModified": "2022-11-04T17:53:36.283",
+        "created": "2022-06-10T00:47:48.610",
+        "titles": [
+          {
+            "title": "KNIME Analytics Platform 4.6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:knime:knime_analytics_platform:4.6.0:*:*:*:*:*:*:*",
+            "cpeNameId": "FFEA73DA-834D-4198-92C2-9571E8B578E6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:knime:analytics_platform:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2FDA1269-13BC-4CB6-8EDC-1698B63FF131",
+        "lastModified": "2022-11-04T17:53:36.283",
+        "created": "2022-06-10T00:47:48.610",
+        "titles": [
+          {
+            "title": "KNIME Analytics Platform",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:knime:knime_analytics_platform:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5FD662E2-2C66-45C9-B248-7C47266DBBE9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:knime:analytics_platform:4.6.0:*:*:*:*:*:*:*",
+      "title": "KNIME Analytics Platform 4.6.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:knime:knime_analytics_platform:4.6.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:knime:analytics_platform:-:*:*:*:*:*:*:*",
+      "title": "KNIME Analytics Platform",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:knime:knime_analytics_platform:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
