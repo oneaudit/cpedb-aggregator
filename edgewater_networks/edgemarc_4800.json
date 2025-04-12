@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:edgewater_networks:edgemarc_4800:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B2BFEDA7-FD8E-4682-8E3F-88B688B3119C",
+        "lastModified": "2021-07-09T14:28:16.867",
+        "created": "2017-05-25T18:37:59.300",
+        "titles": [
+          {
+            "title": "Edgewater Networks EdgeMarc 4800",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:ribboncommunications:edgemarc_4800:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B8977FE4-1A48-49C5-9BEF-B5B03A9775F3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:edgewater_networks:edgemarc_4800:-:*:*:*:*:*:*:*",
+      "title": "Edgewater Networks EdgeMarc 4800",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:ribboncommunications:edgemarc_4800:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

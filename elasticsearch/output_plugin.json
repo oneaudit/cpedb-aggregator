@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:elasticsearch:output_plugin:2.3.3:*:*:*:*:logstash:*:*",
+        "cpeNameId": "68B7AEAC-B916-4AE0-B67C-310C1F4FD9A0",
+        "lastModified": "2021-06-01T14:12:57.050",
+        "created": "2017-06-28T16:29:59.153",
+        "titles": [
+          {
+            "title": "Elasticsearch Output Plugin 2.3.3 for Logstash",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:elasticsearch:output_plugin:5.0.0:*:*:*:*:logstash:*:*",
+        "cpeNameId": "6B07FD35-9576-4082-BF53-F6970AE16F73",
+        "lastModified": "2021-06-01T14:12:57.050",
+        "created": "2017-06-28T16:42:06.950",
+        "titles": [
+          {
+            "title": "Elasticsearch Output Plugin 5.0.0 for Logstash",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:elasticsearch:output_plugin:2.3.3:*:*:*:*:logstash:*:*",
+      "title": "Elasticsearch Output Plugin 2.3.3 for Logstash",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:elasticsearch:output_plugin:5.0.0:*:*:*:*:logstash:*:*",
+      "title": "Elasticsearch Output Plugin 5.0.0 for Logstash",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

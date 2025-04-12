@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dx_library_project:dx_library:3.15e:*:*:*:*:*:*:*",
+        "cpeNameId": "6F117175-365F-4FBC-B607-56ADF4AA462E",
+        "lastModified": "2016-01-08T17:15:41.357",
+        "created": "2016-01-08T17:15:41.357",
+        "titles": [
+          {
+            "title": "DX Library Project DX Library 3.15e",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dx_library_project:dx_library:3.16b:*:*:*:*:visual_c\\+\\+:*:*",
+        "cpeNameId": "D97BEB47-81AF-45C4-8F19-397C1E17AF61",
+        "lastModified": "2016-06-29T17:55:26.167",
+        "created": "2016-06-29T17:55:26.167",
+        "titles": [
+          {
+            "title": "DX Library 3.16b for Visual C++",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dx_library_project:dx_library:3.16b:*:*:*:*:gnu_c\\+\\+:*:*",
+        "cpeNameId": "8C60E72E-ADCF-41C8-9A7F-E872ACB8647F",
+        "lastModified": "2016-06-29T17:55:26.180",
+        "created": "2016-06-29T17:55:26.180",
+        "titles": [
+          {
+            "title": "DX Library 3.16b for Gnu C++",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dx_library_project:dx_library:3.16b:*:*:*:*:borland_c\\+\\+:*:*",
+        "cpeNameId": "C830260C-2BE6-4C07-9C7C-E2FD8294EE94",
+        "lastModified": "2016-06-29T17:55:26.197",
+        "created": "2016-06-29T17:55:26.197",
+        "titles": [
+          {
+            "title": "DX Library 3.16b for Borland C++",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dx_library_project:dx_library:3.15e:*:*:*:*:*:*:*",
+      "title": "DX Library Project DX Library 3.15e",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dx_library_project:dx_library:3.16b:*:*:*:*:visual_c\\+\\+:*:*",
+      "title": "DX Library 3.16b for Visual C++",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dx_library_project:dx_library:3.16b:*:*:*:*:gnu_c\\+\\+:*:*",
+      "title": "DX Library 3.16b for Gnu C++",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dx_library_project:dx_library:3.16b:*:*:*:*:borland_c\\+\\+:*:*",
+      "title": "DX Library 3.16b for Borland C++",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

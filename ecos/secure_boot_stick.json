@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ecos:secure_boot_stick:-:*:*:*:*:*:*:*",
+        "cpeNameId": "74A5C70D-750E-4E14-9839-86BEE64C05B3",
+        "lastModified": "2021-06-17T14:57:53.470",
+        "created": "2018-08-08T15:29:53.620",
+        "titles": [
+          {
+            "title": "ECOS Secure Boot Stick",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ecos:secure_boot_stick:5.6.5:*:*:*:*:*:*:*",
+        "cpeNameId": "0A822D3F-40C3-4ACA-87DE-25A1C1B6BF85",
+        "lastModified": "2019-06-06T14:49:37.133",
+        "created": "2019-06-06T14:49:37.133",
+        "titles": [
+          {
+            "title": "ECOS Secure Boot Stick (SBS) 5.6.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ecos:secure_boot_stick:-:*:*:*:*:*:*:*",
+      "title": "ECOS Secure Boot Stick",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ecos:secure_boot_stick:5.6.5:*:*:*:*:*:*:*",
+      "title": "ECOS Secure Boot Stick (SBS) 5.6.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

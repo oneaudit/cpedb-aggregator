@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ea:origin_client:10.5.86:*:*:*:*:mac_os:*:*",
+        "cpeNameId": "40E516C3-12F6-4358-BE9A-2785DBCC77F1",
+        "lastModified": "2020-12-21T12:15:42.573",
+        "created": "2020-12-21T12:15:42.573",
+        "titles": [
+          {
+            "title": "EA Origin Client 10.5.86 for Mac OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ea:origin_client:10.5.86:*:*:*:*:windows:*:*",
+        "cpeNameId": "56AD050A-8A9A-4647-870A-C0DEAACD7916",
+        "lastModified": "2020-12-21T12:15:42.667",
+        "created": "2020-12-21T12:15:42.667",
+        "titles": [
+          {
+            "title": "EA Origin Client 10.5.86 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ea:origin_client:10.5.86:*:*:*:*:mac_os:*:*",
+      "title": "EA Origin Client 10.5.86 for Mac OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ea:origin_client:10.5.86:*:*:*:*:windows:*:*",
+      "title": "EA Origin Client 10.5.86 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

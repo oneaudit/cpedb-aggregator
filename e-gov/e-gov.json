@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:e-gov:e-gov:1.1.1.0:*:*:*:*:macos:*:*",
+        "cpeNameId": "E741F314-73F9-4E57-AD5C-3F531FB3766E",
+        "lastModified": "2023-10-25T05:34:46.820",
+        "created": "2023-10-25T05:34:46.820",
+        "titles": [
+          {
+            "title": "e-Gov 1.1.1.0 for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:e-gov:e-gov:-:*:*:*:*:macos:*:*",
+        "cpeNameId": "3733F131-45E9-40EC-9A00-E1508CF29804",
+        "lastModified": "2023-10-25T05:34:46.820",
+        "created": "2023-10-25T05:34:46.820",
+        "titles": [
+          {
+            "title": "e-Gov for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:e-gov:e-gov:2.1.1.0:*:*:*:*:windows:*:*",
+        "cpeNameId": "E345D4D6-D891-44E9-9B50-3ACD449768D8",
+        "lastModified": "2023-10-25T05:34:46.820",
+        "created": "2023-10-25T05:34:46.820",
+        "titles": [
+          {
+            "title": "e-Gov 2.1.1.0 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:e-gov:e-gov:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "BAE88EC7-5357-43F9-9FCD-F09ED61A5A78",
+        "lastModified": "2023-10-25T05:34:46.820",
+        "created": "2023-10-25T05:34:46.820",
+        "titles": [
+          {
+            "title": "e-Gov for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:e-gov:e-gov:1.1.1.0:*:*:*:*:macos:*:*",
+      "title": "e-Gov 1.1.1.0 for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:e-gov:e-gov:-:*:*:*:*:macos:*:*",
+      "title": "e-Gov for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:e-gov:e-gov:2.1.1.0:*:*:*:*:windows:*:*",
+      "title": "e-Gov 2.1.1.0 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:e-gov:e-gov:-:*:*:*:*:windows:*:*",
+      "title": "e-Gov for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

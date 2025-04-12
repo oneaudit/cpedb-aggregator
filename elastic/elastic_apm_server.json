@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:elastic:elastic_apm_server:8.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DD052840-A05B-4FCA-9272-459622EF0433",
+        "lastModified": "2024-02-15T19:39:21.393",
+        "created": "2023-12-15T18:23:18.167",
+        "titles": [
+          {
+            "title": "Elastic APM Server 8.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:elastic:apm_server:8.0.0:-:*:*:*:*:*:*",
+            "cpeNameId": "85D63D44-1F68-4369-8EF0-62A7D4DB7E6D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:elastic:elastic_apm_server:8.9.2:*:*:*:*:*:*:*",
+        "cpeNameId": "6CF185B5-2255-4618-A456-3C91A81AB50A",
+        "lastModified": "2024-02-15T19:39:21.393",
+        "created": "2023-12-15T18:23:18.167",
+        "titles": [
+          {
+            "title": "Elastic APM Server 8.9.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:elastic:apm_server:8.9.2:*:*:*:*:*:*:*",
+            "cpeNameId": "FD75BCF3-4EAD-47F4-BCB1-89BFCC3C056F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:elastic:elastic_apm_server:8.0.0:*:*:*:*:*:*:*",
+      "title": "Elastic APM Server 8.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:elastic:apm_server:8.0.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:elastic:elastic_apm_server:8.9.2:*:*:*:*:*:*:*",
+      "title": "Elastic APM Server 8.9.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:elastic:apm_server:8.9.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

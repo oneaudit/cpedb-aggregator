@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:eclipse:paho_mqtt_c\\/c\\+\\+_client:1.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B79B7F01-27B0-4CEE-8EA8-12A56A7E0922",
+        "lastModified": "2021-11-12T19:23:38.157",
+        "created": "2021-11-04T14:34:55.960",
+        "titles": [
+          {
+            "title": "Eclipse Paho MQTT C/C++ Client 1.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:eclipse:paho_mqtt_c\\/c\\+\\+_client:1.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B59D47E8-4F65-4B6A-A01F-3D391831E12C",
+        "lastModified": "2021-11-12T19:23:38.157",
+        "created": "2021-11-04T14:34:55.960",
+        "titles": [
+          {
+            "title": "Eclipse Paho MQTT C/C++ Client 1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:eclipse:paho_mqtt_c\\/c\\+\\+_client:1.1.0:*:*:*:*:*:*:*",
+      "title": "Eclipse Paho MQTT C/C++ Client 1.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:eclipse:paho_mqtt_c\\/c\\+\\+_client:1.0.0:*:*:*:*:*:*:*",
+      "title": "Eclipse Paho MQTT C/C++ Client 1.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

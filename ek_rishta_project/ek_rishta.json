@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ek_rishta_project:ek_rishta:2.9:*:*:*:*:joomla\\!:*:*",
+        "cpeNameId": "6CD8D21F-C6B5-42F8-8AE9-A8BEB171EC69",
+        "lastModified": "2020-06-03T15:59:36.257",
+        "created": "2020-03-11T15:37:23.287",
+        "titles": [
+          {
+            "title": "Ek Rishta Project Ek Rishta 2.9 for Joomla!",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:harmistechnology:ek_rishta:2.9:*:*:*:*:joomla\\!:*:*",
+            "cpeNameId": "F15575B0-37EB-44AC-AE8E-3E0B61550662"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ek_rishta_project:ek_rishta:2.10:*:*:*:*:joomla\\!:*:*",
+        "cpeNameId": "C1BAB1E8-B174-496E-9397-CA8F7CBD24A3",
+        "lastModified": "2020-06-03T15:59:39.100",
+        "created": "2020-03-11T15:37:23.383",
+        "titles": [
+          {
+            "title": "Ek Rishta Project Ek Rishta 2.10 for Joomla!",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:harmistechnology:ek_rishta:2.10:*:*:*:*:joomla\\!:*:*",
+            "cpeNameId": "931CFC14-7A7F-4E37-B88C-BC3B1256DAB9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ek_rishta_project:ek_rishta:2.9:*:*:*:*:joomla\\!:*:*",
+      "title": "Ek Rishta Project Ek Rishta 2.9 for Joomla!",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:harmistechnology:ek_rishta:2.9:*:*:*:*:joomla\\!:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ek_rishta_project:ek_rishta:2.10:*:*:*:*:joomla\\!:*:*",
+      "title": "Ek Rishta Project Ek Rishta 2.10 for Joomla!",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:harmistechnology:ek_rishta:2.10:*:*:*:*:joomla\\!:*:*"
+    }
+  ]
+}

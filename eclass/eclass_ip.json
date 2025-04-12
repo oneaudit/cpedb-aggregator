@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:eclass:eclass_ip:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CD876CD3-B5A4-4A2D-84E0-3979B1A12E83",
+        "lastModified": "2019-07-29T15:45:17.357",
+        "created": "2019-07-29T15:45:17.357",
+        "titles": [
+          {
+            "title": "eClass IP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:eclass:eclass_ip:2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "1B303DD9-0A38-405A-85B1-D6AA23C9474D",
+        "lastModified": "2019-07-29T15:45:17.577",
+        "created": "2019-07-29T15:45:17.577",
+        "titles": [
+          {
+            "title": "eClass IP 2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:eclass:eclass_ip:2.5.10.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "6037B698-D564-4B14-BECA-DF5E934075CF",
+        "lastModified": "2019-07-29T15:45:17.687",
+        "created": "2019-07-29T15:45:17.687",
+        "titles": [
+          {
+            "title": "eClass IP 2.5.10.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:eclass:eclass_ip:-:*:*:*:*:*:*:*",
+      "title": "eClass IP",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:eclass:eclass_ip:2.5:*:*:*:*:*:*:*",
+      "title": "eClass IP 2.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:eclass:eclass_ip:2.5.10.2.1:*:*:*:*:*:*:*",
+      "title": "eClass IP 2.5.10.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
