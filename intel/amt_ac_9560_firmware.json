@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:amt_ac_9560_firmware:12.0.85:*:*:*:*:*:*:*",
+        "cpeNameId": "A1D8DE3C-9716-4336-8BCD-650E229E04C8",
+        "lastModified": "2022-03-03T19:01:20.473",
+        "created": "2022-03-03T18:58:28.407",
+        "titles": [
+          {
+            "title": "Intel AMT AC 9560 Firmware 12.0.85",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:amt_ac_9560_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7B1E88A9-AE6E-48A1-9985-5C0B0F20FB4B",
+        "lastModified": "2022-03-03T19:01:20.473",
+        "created": "2022-03-03T18:58:28.407",
+        "titles": [
+          {
+            "title": "Intel AMT AC 9560 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:amt_ac_9560_firmware:12.0.85:*:*:*:*:*:*:*",
+      "title": "Intel AMT AC 9560 Firmware 12.0.85",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:amt_ac_9560_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel AMT AC 9560 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

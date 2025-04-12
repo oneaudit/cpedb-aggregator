@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:amt_ac_8265_firmware:11.8.90:*:*:*:*:*:*:*",
+        "cpeNameId": "4AF09289-95BA-4715-B6AE-01E9614CBA0E",
+        "lastModified": "2022-03-03T19:01:20.473",
+        "created": "2022-03-03T18:57:51.753",
+        "titles": [
+          {
+            "title": "Intel AMT AC 8265 Firmware 11.8.90",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:amt_ac_8265_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "819388F4-82A9-4144-A611-0E057196AC77",
+        "lastModified": "2022-03-03T19:01:20.473",
+        "created": "2022-03-03T18:57:51.753",
+        "titles": [
+          {
+            "title": "Intel AMT AC 8265 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:amt_ac_8265_firmware:11.8.90:*:*:*:*:*:*:*",
+      "title": "Intel AMT AC 8265 Firmware 11.8.90",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:amt_ac_8265_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel AMT AC 8265 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

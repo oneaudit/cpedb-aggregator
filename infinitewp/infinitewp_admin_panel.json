@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:infinitewp:infinitewp_admin_panel:2.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "3C245E7B-D992-4D0E-A4D1-B71FB824EA3A",
+        "lastModified": "2020-11-30T14:58:43.860",
+        "created": "2015-01-06T15:39:05.767",
+        "titles": [
+          {
+            "title": "InfiniteWP Admin Panel 2.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:infinitewp:infinitewp:2.4.2:*:*:*:*:*:*:*",
+            "cpeNameId": "C6F33BF4-E2E0-4219-95B1-373CCB644720"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:infinitewp:infinitewp_admin_panel:2.4.3:*:*:*:*:*:*:*",
+        "cpeNameId": "184584BC-AB07-415C-B432-91406A0AAD1E",
+        "lastModified": "2020-11-30T14:58:49.233",
+        "created": "2015-01-06T15:41:28.030",
+        "titles": [
+          {
+            "title": "InfiniteWP Admin Panel 2.4.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:infinitewp:infinitewp:2.4.3:*:*:*:*:*:*:*",
+            "cpeNameId": "73953B2E-99EB-4441-AE98-4AEAB1E129BF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:infinitewp:infinitewp_admin_panel:2.4.2:*:*:*:*:*:*:*",
+      "title": "InfiniteWP Admin Panel 2.4.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:infinitewp:infinitewp:2.4.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:infinitewp:infinitewp_admin_panel:2.4.3:*:*:*:*:*:*:*",
+      "title": "InfiniteWP Admin Panel 2.4.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:infinitewp:infinitewp:2.4.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

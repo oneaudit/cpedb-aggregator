@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:inea:me-rtu_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B8700E74-8AB8-40C9-A564-D3CACAC2A615",
+        "lastModified": "2019-10-30T17:07:06.713",
+        "created": "2019-10-30T17:07:06.713",
+        "titles": [
+          {
+            "title": "INEA ME-RTU Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:inea:me-rtu_firmware:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4F604AE0-7764-48B8-A820-E12A66983048",
+        "lastModified": "2019-10-30T17:07:06.963",
+        "created": "2019-10-30T17:07:06.963",
+        "titles": [
+          {
+            "title": "INEA ME-RTU Firmware 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:inea:me-rtu_firmware:-:*:*:*:*:*:*:*",
+      "title": "INEA ME-RTU Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:inea:me-rtu_firmware:3.0:*:*:*:*:*:*:*",
+      "title": "INEA ME-RTU Firmware 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

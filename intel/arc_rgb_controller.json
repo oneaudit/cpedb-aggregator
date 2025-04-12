@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:arc_rgb_controller:1.06:*:*:*:*:*:*:*",
+        "cpeNameId": "64054D6B-27D1-40E3-8811-B459B6E27A57",
+        "lastModified": "2023-11-27T01:18:59.283",
+        "created": "2023-11-27T01:18:59.283",
+        "titles": [
+          {
+            "title": "Intel Arc RGB Controller 1.06",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:arc_rgb_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "97F384CA-F363-4D2F-949E-F00AEF26BE95",
+        "lastModified": "2023-11-27T01:18:59.283",
+        "created": "2023-11-27T01:18:59.283",
+        "titles": [
+          {
+            "title": "Intel Arc RGB Controller ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:arc_rgb_controller:1.03:*:*:*:*:*:*:*",
+        "cpeNameId": "3DE39D38-FCC3-497D-BDB8-08DDA2793294",
+        "lastModified": "2023-11-27T01:18:59.283",
+        "created": "2023-11-27T01:18:59.283",
+        "titles": [
+          {
+            "title": "Intel Arc RGB Controller 1.03",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:arc_rgb_controller:1.06:*:*:*:*:*:*:*",
+      "title": "Intel Arc RGB Controller 1.06",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:arc_rgb_controller:-:*:*:*:*:*:*:*",
+      "title": "Intel Arc RGB Controller ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:arc_rgb_controller:1.03:*:*:*:*:*:*:*",
+      "title": "Intel Arc RGB Controller 1.03",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

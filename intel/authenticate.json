@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:authenticate:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C520A7E7-87BC-4385-B24D-DD91396EF6F8",
+        "lastModified": "2019-08-27T12:07:10.883",
+        "created": "2019-08-27T12:07:10.883",
+        "titles": [
+          {
+            "title": "Intel Authenticate",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:authenticate:3.7:*:*:*:*:*:*:*",
+        "cpeNameId": "D580C010-CBDB-4560-8961-6F6BC0587EB8",
+        "lastModified": "2019-08-27T12:07:11.133",
+        "created": "2019-08-27T12:07:11.133",
+        "titles": [
+          {
+            "title": "Intel Authenticate 3.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:authenticate:3.8:*:*:*:*:*:*:*",
+        "cpeNameId": "7D3D89DC-3E1D-4F0F-98C7-CE95D75289F9",
+        "lastModified": "2019-08-27T12:07:11.243",
+        "created": "2019-08-27T12:07:11.243",
+        "titles": [
+          {
+            "title": "Intel Authenticate 3.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:authenticate:-:*:*:*:*:*:*:*",
+      "title": "Intel Authenticate",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:authenticate:3.7:*:*:*:*:*:*:*",
+      "title": "Intel Authenticate 3.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:authenticate:3.8:*:*:*:*:*:*:*",
+      "title": "Intel Authenticate 3.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

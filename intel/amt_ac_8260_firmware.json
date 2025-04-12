@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:amt_ac_8260_firmware:11.8.90:*:*:*:*:*:*:*",
+        "cpeNameId": "48D16C83-13CD-4385-8E97-956496A9752F",
+        "lastModified": "2022-03-03T18:53:32.693",
+        "created": "2022-03-03T18:44:57.830",
+        "titles": [
+          {
+            "title": "Intel AMT AC 8260 Firmware 11.8.90",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:amt_ac_8260_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AC67FF16-B754-4B97-A7B1-290691573C3D",
+        "lastModified": "2022-03-03T18:53:32.693",
+        "created": "2022-03-03T18:50:35.927",
+        "titles": [
+          {
+            "title": "Intel AMT AC 8260 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:amt_ac_8260_firmware:11.8.90:*:*:*:*:*:*:*",
+      "title": "Intel AMT AC 8260 Firmware 11.8.90",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:amt_ac_8260_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel AMT AC 8260 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

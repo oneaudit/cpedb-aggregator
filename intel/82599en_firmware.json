@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:82599en_firmware:5.13.4:*:*:*:*:*:*:*",
+        "cpeNameId": "3FB25D3F-232E-49AA-B46B-CA7655482339",
+        "lastModified": "2022-02-15T18:18:15.820",
+        "created": "2022-02-15T14:48:20.510",
+        "titles": [
+          {
+            "title": "Intel 82599EN FIRMWARE 5.13.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:82599en_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CBD1907E-EE40-4BA8-94A3-B5DE466B064C",
+        "lastModified": "2022-02-15T18:18:15.820",
+        "created": "2022-02-15T14:48:20.510",
+        "titles": [
+          {
+            "title": "Intel 82599EN FIRMWARE ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:82599en_firmware:5.13.4:*:*:*:*:*:*:*",
+      "title": "Intel 82599EN FIRMWARE 5.13.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:82599en_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel 82599EN FIRMWARE ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

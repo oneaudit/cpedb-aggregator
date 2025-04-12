@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:atom_x5-a3930_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "8B5CD1BB-42A3-44D6-B280-CB6006B4EA5F",
+        "lastModified": "2020-01-13T14:14:16.447",
+        "created": "2020-01-13T14:14:16.447",
+        "titles": [
+          {
+            "title": "Intel Atom x5-A3930 Firmwarefor Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:atom_x5-a3930_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "E328F327-9486-4BDF-BA29-A0B44FCAF0E5",
+        "lastModified": "2020-01-13T14:14:16.837",
+        "created": "2020-01-13T14:14:16.837",
+        "titles": [
+          {
+            "title": "Intel Atom x5-A3930 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:atom_x5-a3930_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "ECF2BD7D-C08E-404E-BCD3-AA03B1F81A20",
+        "lastModified": "2022-08-24T12:55:25.843",
+        "created": "2022-08-23T20:09:38.970",
+        "titles": [
+          {
+            "title": "Intel Atom X5-A3930 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:atom_x5-a3930_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Atom x5-A3930 Firmwarefor Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:atom_x5-a3930_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Atom x5-A3930 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:atom_x5-a3930_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Atom X5-A3930 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

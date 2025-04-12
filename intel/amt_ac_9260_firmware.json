@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:amt_ac_9260_firmware:12.0.85:*:*:*:*:*:*:*",
+        "cpeNameId": "D9DD354A-7038-45B9-92CD-4185EDCF5527",
+        "lastModified": "2022-03-03T19:01:20.473",
+        "created": "2022-03-03T18:58:10.197",
+        "titles": [
+          {
+            "title": "Intel AMT AC 9260 Firmware 12.0.85",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:amt_ac_9260_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0A4C7178-B3BE-41BF-BDA6-C9367E9B1D25",
+        "lastModified": "2022-03-03T19:01:20.473",
+        "created": "2022-03-03T18:58:10.197",
+        "titles": [
+          {
+            "title": "Intel AMT AC 9260 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:amt_ac_9260_firmware:12.0.85:*:*:*:*:*:*:*",
+      "title": "Intel AMT AC 9260 Firmware 12.0.85",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:amt_ac_9260_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel AMT AC 9260 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:info-zip:unzip:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "792089CF-3C13-4993-8877-BC404FC526AF",
+        "lastModified": "2019-12-16T20:24:14.080",
+        "created": "2015-02-09T14:45:59.930",
+        "titles": [
+          {
+            "title": "Info-ZIP UnZip 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:unzip_project:unzip:6.0:*:*:*:*:*:*:*",
+            "cpeNameId": "B96A6D3D-8DC8-49BB-BFBC-FDD302296D37"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:info-zip:unzip:6.10b:*:*:*:*:*:*:*",
+        "cpeNameId": "95B6D1AB-9713-4851-8F76-7EFB2E98CAA5",
+        "lastModified": "2015-03-03T19:38:31.513",
+        "created": "2015-02-24T12:58:51.547",
+        "titles": [
+          {
+            "title": "Info-ZIP UnZip 6.10b",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:info-zip:unzip:6.10c22:*:*:*:*:*:*:*",
+        "cpeNameId": "B15069BC-3748-466E-9F77-F56DBB8E8685",
+        "lastModified": "2021-06-10T15:54:48.223",
+        "created": "2018-02-22T17:40:48.737",
+        "titles": [
+          {
+            "title": "Info-ZIP UnZip 6.10c22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:info-zip:unzip:5.52:*:*:*:*:*:*:*",
+        "cpeNameId": "A764AD7B-893C-40C4-A5D9-CCCA9CA46ED0",
+        "lastModified": "2021-06-10T15:54:48.223",
+        "created": "2018-06-08T18:38:35.520",
+        "titles": [
+          {
+            "title": "Info-ZIP UnZip 5.52",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:info-zip:unzip:5.50:*:*:*:*:*:*:*",
+        "cpeNameId": "0DE7D881-A3C5-4F7F-A826-5E59B25D8929",
+        "lastModified": "2021-06-10T15:54:48.223",
+        "created": "2018-06-08T18:38:35.520",
+        "titles": [
+          {
+            "title": "Info-ZIP UnZip 5.50",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:info-zip:unzip:6.0:*:*:*:*:*:*:*",
+      "title": "Info-ZIP UnZip 6.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:unzip_project:unzip:6.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:info-zip:unzip:6.10b:*:*:*:*:*:*:*",
+      "title": "Info-ZIP UnZip 6.10b",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:info-zip:unzip:6.10c22:*:*:*:*:*:*:*",
+      "title": "Info-ZIP UnZip 6.10c22",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:info-zip:unzip:5.52:*:*:*:*:*:*:*",
+      "title": "Info-ZIP UnZip 5.52",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:info-zip:unzip:5.50:*:*:*:*:*:*:*",
+      "title": "Info-ZIP UnZip 5.50",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
