@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rim:blackberry_software:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C1D71FF6-8FF5-4DF7-B976-568A7164B4CA",
+        "lastModified": "2008-04-01T14:37:00.700",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Blackberry Blackberry Device Software",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rim:blackberry_software:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "24357658-DE06-4102-982F-072D21397E17",
+        "lastModified": "2008-04-01T14:37:00.747",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Blackberry Blackberry Device Software 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rim:blackberry_software:4.0:sp1_bundle83:*:*:*:*:*:*",
+        "cpeNameId": "CFBD7E72-F3EA-4F91-B2B7-38DB18AB060E",
+        "lastModified": "2008-04-07T14:50:08.473",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Blackberry Blackberry Device Software 4.0 SP1 Bundle83",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rim:blackberry_software:-:*:*:*:*:*:*:*",
+      "title": "Blackberry Blackberry Device Software",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:rim:blackberry_software:4.0:*:*:*:*:*:*:*",
+      "title": "Blackberry Blackberry Device Software 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:rim:blackberry_software:4.0:sp1_bundle83:*:*:*:*:*:*",
+      "title": "Blackberry Blackberry Device Software 4.0 SP1 Bundle83",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

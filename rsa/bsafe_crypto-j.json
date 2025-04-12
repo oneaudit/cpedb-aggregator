@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:bsafe_crypto-j:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8FAC2EDC-2787-4A62-AA53-57C140DE7A8E",
+        "lastModified": "2021-11-30T18:57:00.873",
+        "created": "2020-02-27T20:13:48.277",
+        "titles": [
+          {
+            "title": "RSA BSAFE Crypto-J",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_crypto-j:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E9C7411A-C5D3-468A-B172-1142850C6EF3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:bsafe_crypto-j:6.2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "87497ACF-E10D-4400-A6E8-77AB17DF4071",
+        "lastModified": "2021-11-30T18:57:00.873",
+        "created": "2020-02-27T20:13:48.620",
+        "titles": [
+          {
+            "title": "RSA BSAFE Crypto-J 6.2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_crypto-j:6.2.5:*:*:*:*:*:*:*",
+            "cpeNameId": "25D25BC1-54C7-47D4-9759-54028075B218"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rsa:bsafe_crypto-j:-:*:*:*:*:*:*:*",
+      "title": "RSA BSAFE Crypto-J",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_crypto-j:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:bsafe_crypto-j:6.2.5:*:*:*:*:*:*:*",
+      "title": "RSA BSAFE Crypto-J 6.2.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_crypto-j:6.2.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

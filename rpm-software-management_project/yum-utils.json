@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rpm-software-management_project:yum-utils:1.1.31:*:*:*:*:*:*:*",
+        "cpeNameId": "9E52FDCE-9202-40F9-937C-2482B1343122",
+        "lastModified": "2021-08-11T15:21:55.303",
+        "created": "2018-10-03T13:47:39.027",
+        "titles": [
+          {
+            "title": "rpm-software-management Project yum-utils 1.1.31",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rpm:yum-utils:1.1.31:*:*:*:*:*:*:*",
+            "cpeNameId": "8A6329C4-896E-4034-ADDC-E17993F861DC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rpm-software-management_project:yum-utils:1.1.31:*:*:*:*:*:*:*",
+      "title": "rpm-software-management Project yum-utils 1.1.31",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rpm:yum-utils:1.1.31:*:*:*:*:*:*:*"
+    }
+  ]
+}

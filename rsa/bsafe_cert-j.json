@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:bsafe_cert-j:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F30E04CC-2E1E-4D86-A729-B27E34CB3688",
+        "lastModified": "2021-12-09T18:34:48.683",
+        "created": "2020-02-27T20:13:47.853",
+        "titles": [
+          {
+            "title": "RSA BSAFE Cert-J",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_cert-j:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BC583CBA-7765-44A7-8D3F-0B320BD8A970"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:bsafe_cert-j:6.2.4:*:*:*:*:*:*:*",
+        "cpeNameId": "88508D7E-9EF5-4A39-A43B-B361C4D827F6",
+        "lastModified": "2021-12-09T18:34:48.683",
+        "created": "2020-02-27T20:13:48.197",
+        "titles": [
+          {
+            "title": "RSA BSAFE Cert-J 6.2.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_cert-j:6.2.4:*:*:*:*:*:*:*",
+            "cpeNameId": "9128C7AD-D48A-429B-85FD-E9BB5079292F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rsa:bsafe_cert-j:-:*:*:*:*:*:*:*",
+      "title": "RSA BSAFE Cert-J",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_cert-j:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:bsafe_cert-j:6.2.4:*:*:*:*:*:*:*",
+      "title": "RSA BSAFE Cert-J 6.2.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_cert-j:6.2.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

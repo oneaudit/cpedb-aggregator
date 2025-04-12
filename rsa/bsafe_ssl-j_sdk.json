@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:bsafe_ssl-j_sdk:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4542434B-2066-4F8F-8E64-66694540F7EA",
+        "lastModified": "2021-11-08T15:48:22.727",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "RSA BSAFE SSL-J SDK",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_ssl-j:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4E18EC34-06EC-41A0-922E-1200F0F09C43"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:bsafe_ssl-j_sdk:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "520AB5A4-550E-4749-92F8-100B036136CD",
+        "lastModified": "2021-11-08T15:48:22.727",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "RSA BSAFE SSL-J SDK 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_ssl-j:3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "A9BF61FE-A6EE-4C03-B24A-193813D3CB68"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:bsafe_ssl-j_sdk:3.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "DC399187-548A-4448-B7DA-5A3B9D3D2AA6",
+        "lastModified": "2021-11-08T15:48:22.727",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "RSA BSAFE SSL-J SDK 3.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_ssl-j:3.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "63AA5CC5-E759-443E-9052-B898BBCAC217"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:bsafe_ssl-j_sdk:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0D545B26-41C9-4DE4-8F38-340D5E7929A8",
+        "lastModified": "2021-11-08T15:48:22.727",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "RSA BSAFE SSL-J SDK 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_ssl-j:3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "33A48C05-63B4-43EB-86E1-FC742EDE7E26"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rsa:bsafe_ssl-j_sdk:-:*:*:*:*:*:*:*",
+      "title": "RSA BSAFE SSL-J SDK",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_ssl-j:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:bsafe_ssl-j_sdk:3.0:*:*:*:*:*:*:*",
+      "title": "RSA BSAFE SSL-J SDK 3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_ssl-j:3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:bsafe_ssl-j_sdk:3.0.1:*:*:*:*:*:*:*",
+      "title": "RSA BSAFE SSL-J SDK 3.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_ssl-j:3.0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:bsafe_ssl-j_sdk:3.1:*:*:*:*:*:*:*",
+      "title": "RSA BSAFE SSL-J SDK 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_ssl-j:3.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

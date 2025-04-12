@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rsa:authentication_client:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4BDA9C6D-A01C-4B31-8AE4-BFDC656D53E9",
+        "lastModified": "2010-10-08T17:37:06.300",
+        "created": "2010-10-08T14:56:14.347",
+        "titles": [
+          {
+            "title": "RSA Authentication Client 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rsa:authentication_client:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7646E716-7C3F-4F72-953F-FC1443D9E8BE",
+        "lastModified": "2010-10-08T17:37:06.363",
+        "created": "2010-10-08T14:56:14.533",
+        "titles": [
+          {
+            "title": "RSA Authentication Client 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rsa:authentication_client:3.5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "1591519A-69EA-44E0-8B31-5F0669BBFAFE",
+        "lastModified": "2010-10-08T17:37:06.410",
+        "created": "2010-10-08T14:56:14.737",
+        "titles": [
+          {
+            "title": "RSA Authentication Client 3.5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rsa:authentication_client:2.0:*:*:*:*:*:*:*",
+      "title": "RSA Authentication Client 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_client:3.0:*:*:*:*:*:*:*",
+      "title": "RSA Authentication Client 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_client:3.5.1:*:*:*:*:*:*:*",
+      "title": "RSA Authentication Client 3.5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:bsafe_ssl-j:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6473CFEA-4633-4B6F-A25F-270806C5FA4E",
+        "lastModified": "2021-11-08T15:48:22.727",
+        "created": "2020-02-27T20:13:48.697",
+        "titles": [
+          {
+            "title": "RSA BSAFE SSL-J",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_ssl-j:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4E18EC34-06EC-41A0-922E-1200F0F09C43"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:bsafe_ssl-j:6.2.4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "94DEB42B-9C7E-4A5C-A37C-564EB6E8783A",
+        "lastModified": "2021-11-08T15:48:22.727",
+        "created": "2020-02-27T20:13:48.980",
+        "titles": [
+          {
+            "title": "RSA BSAFE SSL-J 6.2.4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_ssl-j:6.2.4.1:*:*:*:*:*:*:*",
+            "cpeNameId": "ED566DE6-6A67-44A3-9C14-BEC71FC899E5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rsa:bsafe_ssl-j:-:*:*:*:*:*:*:*",
+      "title": "RSA BSAFE SSL-J",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_ssl-j:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:bsafe_ssl-j:6.2.4.1:*:*:*:*:*:*:*",
+      "title": "RSA BSAFE SSL-J 6.2.4.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_ssl-j:6.2.4.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

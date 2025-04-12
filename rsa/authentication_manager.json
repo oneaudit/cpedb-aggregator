@@ -1,0 +1,762 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1ECB5B73-A8B5-494A-8F86-CFC50B87A30E",
+        "lastModified": "2020-03-27T14:07:22.883",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "RSA RSA Authentication Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E225B00D-25BC-4159-88E2-27A6E27978D3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "849233ED-663A-482C-B680-D8DE427ADBB7",
+        "lastModified": "2020-03-27T14:07:23.243",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "RSA RSA Authentication Manager 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:6.0:*:*:*:*:*:*:*",
+            "cpeNameId": "750A10CD-91D0-49FA-B2BF-391436EDF094"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "F0742D5F-B358-4FD6-A5EF-284EB28D5212",
+        "lastModified": "2020-03-27T14:07:25.210",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "RSA RSA Authentication Manager 6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:6.1:*:*:*:*:*:*:*",
+            "cpeNameId": "5AB716F0-BE81-42F5-8BC7-CF83C788E478"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:7.1:sp4:*:*:*:*:*:*",
+        "cpeNameId": "CB0E54FC-B9FF-4B59-97DA-50C89FB8BB3B",
+        "lastModified": "2020-03-27T14:07:35.167",
+        "created": "2012-07-16T13:08:56.627",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 7.1 Service Pack 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:7.1:sp4:*:*:*:*:*:*",
+            "cpeNameId": "AC418BF7-5FCE-47A9-AB73-63C511A20136"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.0:p1:*:*:*:*:*:*",
+        "cpeNameId": "C7922640-2309-4C55-B4FA-D7FA109A5AB3",
+        "lastModified": "2020-03-27T14:07:40.447",
+        "created": "2013-06-10T13:20:24.440",
+        "titles": [
+          {
+            "title": "RSA RSA Authentication Manager 8.0 Patch 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.0:p1:*:*:*:*:*:*",
+            "cpeNameId": "FDB10BE9-838C-4FF8-813A-488A09D35757"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "18B8B973-91CC-4797-862F-04B561B01088",
+        "lastModified": "2020-01-08T17:06:10.863",
+        "created": "2013-06-10T13:20:24.520",
+        "titles": [
+          {
+            "title": "RSA RSA Authentication Manager 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.0:-:*:*:*:*:*:*",
+            "cpeNameId": "972A35A6-1EA2-4851-BE25-43BF1118CEA7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:7.1:-:*:*:*:*:*:*",
+        "cpeNameId": "8631927B-3E1F-4190-8DDB-E02849598F23",
+        "lastModified": "2020-03-27T14:07:29.477",
+        "created": "2014-03-27T15:34:15.373",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:7.1:-:*:*:*:*:*:*",
+            "cpeNameId": "C7543A06-8A51-4D80-A9F3-14C98B74C677"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.3:p2:*:*:*:*:*:*",
+        "cpeNameId": "75D57B9E-89D4-4378-ACFE-B72710E63D18",
+        "lastModified": "2020-03-27T14:07:50.293",
+        "created": "2019-08-07T15:31:11.060",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.3 Patch 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.3:p2:*:*:*:*:*:*",
+            "cpeNameId": "580E9ED1-6D22-44EA-9B63-6D4C190E3D24"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:7.1:sp2:*:*:*:*:*:*",
+        "cpeNameId": "8586548F-EF19-44D5-8A43-FC2238F816AE",
+        "lastModified": "2020-03-27T14:07:31.307",
+        "created": "2020-01-08T16:55:44.253",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 7.1 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:7.1:sp2:*:*:*:*:*:*",
+            "cpeNameId": "3B0D5A36-C8B1-4B7A-A2D7-5EB16362D133"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:7.1:sp3:*:*:*:*:*:*",
+        "cpeNameId": "9A98AE30-72FD-4A60-809D-8F75A4014715",
+        "lastModified": "2020-03-27T14:07:33.163",
+        "created": "2020-01-08T16:55:44.537",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 7.1 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:7.1:sp3:*:*:*:*:*:*",
+            "cpeNameId": "FAF91CAE-4775-4F88-9A53-8E0A6B198A6C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.1:-:*:*:*:*:*:*",
+        "cpeNameId": "B8DC62B9-0DA2-4B18-9F76-D93A6AAC070A",
+        "lastModified": "2020-03-27T14:07:42.120",
+        "created": "2020-01-08T16:55:44.630",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.1:-:*:*:*:*:*:*",
+            "cpeNameId": "E44611D6-6DFA-4E12-B6D6-4B58D0C67BB5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.1:sp1:*:*:*:*:*:*",
+        "cpeNameId": "138C9F52-8ED4-467D-833C-963B929B0E3C",
+        "lastModified": "2020-03-27T14:07:43.103",
+        "created": "2020-01-08T16:55:44.693",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.1 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.1:sp1:*:*:*:*:*:*",
+            "cpeNameId": "0CFDD6B5-455A-444C-A3D4-E0C7C1D6B241"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.2:-:*:*:*:*:*:*",
+        "cpeNameId": "6451C83C-F559-44B4-96AE-C5101EDCF923",
+        "lastModified": "2020-03-27T14:07:44.073",
+        "created": "2020-01-08T16:55:44.770",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.2:-:*:*:*:*:*:*",
+            "cpeNameId": "4402CCE2-BC31-42DF-B8F7-F16973E3E0F5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.2:sp1:*:*:*:*:*:*",
+        "cpeNameId": "CFBEFDAA-BEAB-4634-8335-DE7968B7A076",
+        "lastModified": "2020-03-27T14:07:45.073",
+        "created": "2020-01-08T16:55:44.833",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.2 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.2:sp1:*:*:*:*:*:*",
+            "cpeNameId": "C2742CFB-E48C-4CF1-8312-3B5779C77D43"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.3:*:*:*:*:*:*:*",
+        "cpeNameId": "14C8C8EE-D593-4C65-99EF-B64A83BC8CB0",
+        "lastModified": "2020-01-08T17:06:11.003",
+        "created": "2020-01-08T16:55:44.910",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.3:-:*:*:*:*:*:*",
+            "cpeNameId": "04BB5387-EA8B-4995-88DF-1773B40CE558"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.4:-:*:*:*:*:*:*",
+        "cpeNameId": "02658FF5-3097-4782-8FFE-EEB3B198F6AD",
+        "lastModified": "2020-03-27T14:07:52.197",
+        "created": "2020-01-08T16:55:44.990",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:-:*:*:*:*:*:*",
+            "cpeNameId": "CB15E441-5601-4BD8-8C64-55427890183C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7AE99EDD-1298-4D45-8595-DA90189EF6D1",
+        "lastModified": "2020-03-27T14:07:27.070",
+        "created": "2020-01-08T16:57:48.040",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "E0C379CE-9243-4781-81B7-BA2E451F3689"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.3:p1:*:*:*:*:*:*",
+        "cpeNameId": "4591259D-041A-4B6C-8696-8BCCCCB9DC80",
+        "lastModified": "2020-03-27T14:07:47.277",
+        "created": "2020-01-08T17:00:37.970",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.3 Patch 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.3:p1:*:*:*:*:*:*",
+            "cpeNameId": "82E1A4D8-497B-4C7F-9015-0C7034F67108"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.0:-:*:*:*:*:*:*",
+        "cpeNameId": "972A35A6-1EA2-4851-BE25-43BF1118CEA7",
+        "lastModified": "2020-03-27T14:07:39.383",
+        "created": "2020-01-08T17:06:10.707",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.0:-:*:*:*:*:*:*",
+            "cpeNameId": "0CD243F9-4DB2-4A51-8889-6380B6DB16A2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.3:-:*:*:*:*:*:*",
+        "cpeNameId": "04BB5387-EA8B-4995-88DF-1773B40CE558",
+        "lastModified": "2020-03-27T14:07:46.230",
+        "created": "2020-01-08T17:06:10.800",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.3:-:*:*:*:*:*:*",
+            "cpeNameId": "A3843451-2090-4E5A-B1D5-BF2DA5F45539"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.4:patch1:*:*:*:*:*:*",
+        "cpeNameId": "1A68FF51-2474-4B31-B862-975AF1174916",
+        "lastModified": "2020-03-27T14:07:53.793",
+        "created": "2020-01-14T16:52:43.347",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.4 Patch 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch1:*:*:*:*:*:*",
+            "cpeNameId": "43894838-A058-497C-8400-FE1DFE6E6D3E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.4:patch2:*:*:*:*:*:*",
+        "cpeNameId": "8EA4A3B6-534B-4A6E-BE3A-699AD921B9DA",
+        "lastModified": "2020-03-27T14:07:54.903",
+        "created": "2020-01-14T16:52:43.457",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.4 Patch 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch2:*:*:*:*:*:*",
+            "cpeNameId": "509BFE33-CED0-400D-BFB9-D1EEB319E1BD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.4:patch3:*:*:*:*:*:*",
+        "cpeNameId": "B0EDD17B-2BE9-4081-8568-89FC2EC9D671",
+        "lastModified": "2020-03-27T14:07:55.917",
+        "created": "2020-01-14T16:52:43.537",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.4 Patch 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch3:*:*:*:*:*:*",
+            "cpeNameId": "296D7781-08F2-4E42-A692-ED7D9DAC6456"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.4:patch4:*:*:*:*:*:*",
+        "cpeNameId": "80363ABF-2D4C-46D7-9E12-E6F055A40E30",
+        "lastModified": "2020-03-27T14:07:56.963",
+        "created": "2020-01-14T16:52:43.597",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.4 Patch 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch4:*:*:*:*:*:*",
+            "cpeNameId": "5589A845-1A28-4C4A-8CB2-C56CAC607454"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.4:patch5:*:*:*:*:*:*",
+        "cpeNameId": "B5DC492A-7A77-451F-8EA7-79EDA4B62619",
+        "lastModified": "2020-03-27T14:07:57.967",
+        "created": "2020-01-14T16:52:43.677",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.4 Patch 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch5:*:*:*:*:*:*",
+            "cpeNameId": "D1AB313A-2851-482A-82EF-CA29A574B217"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.4:patch6:*:*:*:*:*:*",
+        "cpeNameId": "DD20AD8B-A88C-4CCB-AF20-DAA706A80959",
+        "lastModified": "2020-03-27T14:07:58.967",
+        "created": "2020-01-14T16:52:43.737",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.4 Patch 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch6:*:*:*:*:*:*",
+            "cpeNameId": "B3E17C95-11E4-4BAB-BB66-367338FC2D63"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.4:patch7:*:*:*:*:*:*",
+        "cpeNameId": "7FE4290D-3B88-4A3D-ABDD-FBF7E84C0CBE",
+        "lastModified": "2020-03-27T14:07:59.950",
+        "created": "2020-01-14T16:52:43.817",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.4 Patch 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch7:*:*:*:*:*:*",
+            "cpeNameId": "2D65D839-8E34-4616-9B46-F6350604B1AC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:authentication_manager:8.4:patch8:*:*:*:*:*:*",
+        "cpeNameId": "141E71FD-6DF4-40DC-89BE-887310A3CC23",
+        "lastModified": "2020-03-27T14:08:00.967",
+        "created": "2020-01-14T16:52:43.880",
+        "titles": [
+          {
+            "title": "RSA Authentication Manager 8.4 Patch 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch8:*:*:*:*:*:*",
+            "cpeNameId": "F3324F20-A417-4549-8D24-418D654A8AA7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:-:*:*:*:*:*:*:*",
+      "title": "RSA RSA Authentication Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:6.0:*:*:*:*:*:*:*",
+      "title": "RSA RSA Authentication Manager 6.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:6.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:6.1:*:*:*:*:*:*:*",
+      "title": "RSA RSA Authentication Manager 6.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:6.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:7.1:sp4:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 7.1 Service Pack 4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:7.1:sp4:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.0:p1:*:*:*:*:*:*",
+      "title": "RSA RSA Authentication Manager 8.0 Patch 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.0:p1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.0:*:*:*:*:*:*:*",
+      "title": "RSA RSA Authentication Manager 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rsa:authentication_manager:8.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:7.1:-:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 7.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:7.1:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.3:p2:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.3 Patch 2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.3:p2:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:7.1:sp2:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 7.1 Service Pack 2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:7.1:sp2:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:7.1:sp3:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 7.1 Service Pack 3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:7.1:sp3:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.1:-:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.1:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.1:sp1:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.1 Service Pack 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.1:sp1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.2:-:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.2:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.2:sp1:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.2 Service Pack 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.2:sp1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.3:*:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rsa:authentication_manager:8.3:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.4:-:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:7.0:*:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:7.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.3:p1:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.3 Patch 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.3:p1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.0:-:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.3:-:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.3:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.4:patch1:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.4 Patch 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.4:patch2:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.4 Patch 2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch2:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.4:patch3:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.4 Patch 3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch3:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.4:patch4:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.4 Patch 4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch4:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.4:patch5:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.4 Patch 5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch5:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.4:patch6:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.4 Patch 6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch6:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.4:patch7:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.4 Patch 7",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch7:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:authentication_manager:8.4:patch8:*:*:*:*:*:*",
+      "title": "RSA Authentication Manager 8.4 Patch 8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch8:*:*:*:*:*:*"
+    }
+  ]
+}

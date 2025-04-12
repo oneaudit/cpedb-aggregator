@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rsa:ace_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5E51C550-8A6D-48A4-8129-5B1577136646",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "RSA ACE Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rsa:ace_agent:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A5040020-DA04-48B0-83EE-5BFCBAE27839",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "RSA ACE Agent 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rsa:ace_agent:-:*:*:*:*:*:*:*",
+      "title": "RSA ACE Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:rsa:ace_agent:5.0:*:*:*:*:*:*:*",
+      "title": "RSA ACE Agent 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

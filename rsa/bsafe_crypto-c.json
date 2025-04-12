@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:bsafe_crypto-c:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A132CA24-0C21-4D60-BB30-98ACD8D15D6E",
+        "lastModified": "2021-12-15T14:02:52.940",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "RSA BSAFE Crypto-C",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_crypto-c:-:*:*:*:*:*:*:*",
+            "cpeNameId": "2E2541A2-214E-49C3-B65B-DD0F3808D77E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rsa:bsafe_crypto-c:6.3:*:*:*:*:*:*:*",
+        "cpeNameId": "10CD076B-73DA-4BEE-8606-5E483511226B",
+        "lastModified": "2021-12-17T20:00:05.910",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "RSA BSAFE Crypto-C 6.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_crypto-c:6.3:*:*:*:*:*:*:*",
+            "cpeNameId": "23131D9A-2D51-483E-BA94-81C79BD0D984"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rsa:bsafe_crypto-c:-:*:*:*:*:*:*:*",
+      "title": "RSA BSAFE Crypto-C",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_crypto-c:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rsa:bsafe_crypto-c:6.3:*:*:*:*:*:*:*",
+      "title": "RSA BSAFE Crypto-C 6.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_crypto-c:6.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rsa:netwitness:11.2.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "53A01693-0E8E-4280-8D38-2A00B0431F08",
+        "lastModified": "2019-11-04T14:26:11.750",
+        "created": "2019-11-04T14:26:11.750",
+        "titles": [
+          {
+            "title": "RSA NetWitness 11.2.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rsa:netwitness:12.2:*:*:*:*:*:*:*",
+        "cpeNameId": "E254B72D-BBB3-4749-A8E2-A20AF6C50989",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-04-03T18:34:58.117",
+        "titles": [
+          {
+            "title": "RSA NetWitness 12.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rsa:netwitness:11.2.1.1:*:*:*:*:*:*:*",
+      "title": "RSA NetWitness 11.2.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:rsa:netwitness:12.2:*:*:*:*:*:*:*",
+      "title": "RSA NetWitness 12.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

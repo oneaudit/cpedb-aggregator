@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rsa:rsaref:-:*:*:*:*:*:*:*",
+        "cpeNameId": "61F4F8BF-0CE5-46B2-A91B-908948CD6DBE",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "RSA RSAREF",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rsa:rsaref:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "15A909CB-FE3F-428E-AFE4-07F5FB76BD15",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "RSA RSAREF 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rsa:rsaref:-:*:*:*:*:*:*:*",
+      "title": "RSA RSAREF",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:rsa:rsaref:2.0:*:*:*:*:*:*:*",
+      "title": "RSA RSAREF 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

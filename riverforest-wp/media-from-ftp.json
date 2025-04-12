@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:riverforest-wp:media-from-ftp:11.17:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "C1CE53F8-0B39-4FC2-90F5-B5B150A0FB01",
+        "lastModified": "2023-09-11T15:57:44.350",
+        "created": "2023-09-06T14:35:30.270",
+        "titles": [
+          {
+            "title": "Riverforest-wp Media from FTP 11.17 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:riverforest-wp:media_from_ftp:11.17:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "C4D79F86-9DCF-4343-BD88-6C53A8D3C141"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:riverforest-wp:media-from-ftp:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "00A7C8B2-234F-45CA-A5CE-5CC417A94A97",
+        "lastModified": "2023-09-11T15:57:44.350",
+        "created": "2023-09-06T14:35:30.270",
+        "titles": [
+          {
+            "title": "Riverforest-wp Media from FTP for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:riverforest-wp:media_from_ftp:-:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "0B47B639-C889-4897-AD74-FEC40ED10E5A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:riverforest-wp:media-from-ftp:11.17:*:*:*:*:wordpress:*:*",
+      "title": "Riverforest-wp Media from FTP 11.17 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:riverforest-wp:media_from_ftp:11.17:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:riverforest-wp:media-from-ftp:-:*:*:*:*:wordpress:*:*",
+      "title": "Riverforest-wp Media from FTP for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:riverforest-wp:media_from_ftp:-:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

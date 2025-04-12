@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rkkda:foo2zjs:20110722dfsg-1:*:*:*:*:debian:*:*",
+        "cpeNameId": "937AAA96-CF58-4B6F-AFEF-4D314D5C1587",
+        "lastModified": "2021-08-10T19:24:02.840",
+        "created": "2017-11-21T17:25:18.950",
+        "titles": [
+          {
+            "title": "Rkkda foo2zjs 20110722dfsg-1 for Debian",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rkkda:foo2zjs:20090908dfsg-5.1\\+squeeze0:*:*:*:*:debian:*:*",
+        "cpeNameId": "3BB3AEF0-C06A-4A29-974E-FA71C5668699",
+        "lastModified": "2021-08-10T19:24:02.840",
+        "created": "2017-11-21T17:25:18.950",
+        "titles": [
+          {
+            "title": "Rkkda foo2zjs 20090908dfsg-5.1+squeeze0 for Debian",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rkkda:foo2zjs:20110722dfsg-3ubuntu1:*:*:*:*:ubuntu:*:*",
+        "cpeNameId": "622CA1EB-040B-4F15-AF12-EE49C251DEC3",
+        "lastModified": "2021-08-10T19:24:02.840",
+        "created": "2017-11-21T17:25:18.950",
+        "titles": [
+          {
+            "title": "Rkkda foo2zjs 20110722dfsg-3Ubuntu1 for Ubuntu",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rkkda:foo2zjs:20110722dfsg-1:*:*:*:*:debian:*:*",
+      "title": "Rkkda foo2zjs 20110722dfsg-1 for Debian",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:rkkda:foo2zjs:20090908dfsg-5.1\\+squeeze0:*:*:*:*:debian:*:*",
+      "title": "Rkkda foo2zjs 20090908dfsg-5.1+squeeze0 for Debian",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:rkkda:foo2zjs:20110722dfsg-3ubuntu1:*:*:*:*:ubuntu:*:*",
+      "title": "Rkkda foo2zjs 20110722dfsg-3Ubuntu1 for Ubuntu",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
