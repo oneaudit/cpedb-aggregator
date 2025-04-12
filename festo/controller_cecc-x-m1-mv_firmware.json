@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:festo:controller_cecc-x-m1-mv_firmware:4.0.14:*:*:*:*:*:*:*",
+        "cpeNameId": "45A65ECC-F8FF-4714-A77C-8BE07770D714",
+        "lastModified": "2022-06-24T15:55:27.820",
+        "created": "2022-06-16T12:43:29.617",
+        "titles": [
+          {
+            "title": "Festo Controller CECC-X-M1-MV Firmware 4.0.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:festo:controller_cecc-x-m1-mv_firmware:3.8.14:*:*:*:*:*:*:*",
+        "cpeNameId": "1734685D-43CD-4E17-A54D-897B366ED5E9",
+        "lastModified": "2022-06-24T15:55:27.820",
+        "created": "2022-06-16T12:43:57.207",
+        "titles": [
+          {
+            "title": "Festo Controller CECC-X-M1-MV Firmware 3.8.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:festo:controller_cecc-x-m1-mv_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FA1E9334-F24D-4289-8279-9876F37346AE",
+        "lastModified": "2022-06-24T15:55:27.820",
+        "created": "2022-06-16T12:43:57.207",
+        "titles": [
+          {
+            "title": "Festo Controller CECC-X-M1-MV Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:festo:controller_cecc-x-m1-mv_firmware:4.0.14:*:*:*:*:*:*:*",
+      "title": "Festo Controller CECC-X-M1-MV Firmware 4.0.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:festo:controller_cecc-x-m1-mv_firmware:3.8.14:*:*:*:*:*:*:*",
+      "title": "Festo Controller CECC-X-M1-MV Firmware 3.8.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:festo:controller_cecc-x-m1-mv_firmware:-:*:*:*:*:*:*:*",
+      "title": "Festo Controller CECC-X-M1-MV Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

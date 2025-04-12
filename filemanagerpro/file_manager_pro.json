@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:filemanagerpro:file_manager_pro:8.3.4:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "97E025DF-48C2-4C4C-AEA3-25BB37092E30",
+        "lastModified": "2024-10-18T12:19:39.353",
+        "created": "2024-07-25T16:23:34.390",
+        "titles": [
+          {
+            "title": "Filemanagerpro File Manager Pro 8.3.4 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:filemanagerpro:file_manager:8.3.4:*:*:*:pro:wordpress:*:*",
+            "cpeNameId": "7FE08575-1395-4593-85CA-EC45ECA50466"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:filemanagerpro:file_manager_pro:8.3.4:*:*:*:*:wordpress:*:*",
+      "title": "Filemanagerpro File Manager Pro 8.3.4 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:filemanagerpro:file_manager:8.3.4:*:*:*:pro:wordpress:*:*"
+    }
+  ]
+}

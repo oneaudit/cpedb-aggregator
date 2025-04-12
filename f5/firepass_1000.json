@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:f5:firepass_1000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "187E09AA-FCFE-4913-A464-8354B55FA955",
+        "lastModified": "2008-04-01T15:03:50.147",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "F5 FirePass 1000 SSL VPN",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:f5:firepass_1000:5.5:*:*:*:*:*:*:*",
+        "cpeNameId": "C6621F2B-7E84-44A8-8F70-30B20387D219",
+        "lastModified": "2008-04-01T15:03:50.197",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "F5 FirePass 1000 SSL VPN 5.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:f5:firepass_1000:-:*:*:*:*:*:*:*",
+      "title": "F5 FirePass 1000 SSL VPN",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:f5:firepass_1000:5.5:*:*:*:*:*:*:*",
+      "title": "F5 FirePass 1000 SSL VPN 5.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

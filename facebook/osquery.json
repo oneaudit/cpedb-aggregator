@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:facebook:osquery:3.3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "0702B771-E327-4A60-9532-727FE526DED7",
+        "lastModified": "2020-03-06T13:24:08.370",
+        "created": "2019-06-04T17:44:18.637",
+        "titles": [
+          {
+            "title": "Facebook Osquery 3.3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:linuxfoundation:osquery:3.3.2:*:*:*:*:*:*:*",
+            "cpeNameId": "0D547D38-8E7B-4EAC-A492-0A4CDC25652C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:facebook:osquery:3.4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "42848B00-00F1-4B5E-8BEB-E19244A41CE1",
+        "lastModified": "2020-03-06T13:24:09.010",
+        "created": "2019-06-04T17:44:18.717",
+        "titles": [
+          {
+            "title": "Facebook Osquery 3.4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:linuxfoundation:osquery:3.4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "E6A85CC2-2B62-4D96-96A4-3FE93A120D47"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:facebook:osquery:3.3.2:*:*:*:*:*:*:*",
+      "title": "Facebook Osquery 3.3.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:linuxfoundation:osquery:3.3.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:facebook:osquery:3.4.0:*:*:*:*:*:*:*",
+      "title": "Facebook Osquery 3.4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:linuxfoundation:osquery:3.4.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

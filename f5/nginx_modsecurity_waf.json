@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f5:nginx_modsecurity_waf:r24:*:*:*:*:*:*:*",
+        "cpeNameId": "F344D6BE-6A52-4AC2-9283-3B99C213BED9",
+        "lastModified": "2021-12-22T19:11:35.820",
+        "created": "2021-12-09T19:15:33.273",
+        "titles": [
+          {
+            "title": "F5 NGINX ModSecurity WAF R24",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:f5:nginx_modsecurity_waf:r25:*:*:*:*:*:*:*",
+        "cpeNameId": "D29D319B-50FA-4D5E-8080-FE2CED9A36AE",
+        "lastModified": "2021-12-22T19:11:35.820",
+        "created": "2021-12-09T19:15:33.273",
+        "titles": [
+          {
+            "title": "F5 NGINX ModSecurity WAF R25",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:f5:nginx_modsecurity_waf:r24:*:*:*:*:*:*:*",
+      "title": "F5 NGINX ModSecurity WAF R24",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:f5:nginx_modsecurity_waf:r25:*:*:*:*:*:*:*",
+      "title": "F5 NGINX ModSecurity WAF R25",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

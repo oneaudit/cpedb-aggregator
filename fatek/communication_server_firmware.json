@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:fatek:communication_server_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5F95634C-6350-4A4C-B26D-BC1CC3FA275C",
+        "lastModified": "2023-08-30T11:23:23.943",
+        "created": "2023-01-18T20:28:09.453",
+        "titles": [
+          {
+            "title": "FATEK Automation Communication Server Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:fatek:communication_server_firmware:1.13:*:*:*:*:*:*:*",
+        "cpeNameId": "5330143E-90E4-4C0E-9C18-D350EF270D3C",
+        "lastModified": "2023-08-30T11:23:23.943",
+        "created": "2023-01-18T20:28:09.453",
+        "titles": [
+          {
+            "title": "FATEK Automation Communication Server Firmware 1.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:fatek:communication_server_firmware:-:*:*:*:*:*:*:*",
+      "title": "FATEK Automation Communication Server Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:fatek:communication_server_firmware:1.13:*:*:*:*:*:*:*",
+      "title": "FATEK Automation Communication Server Firmware 1.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

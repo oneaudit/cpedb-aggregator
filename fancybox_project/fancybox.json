@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:fancybox_project:fancybox:3.0.2:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "661C7B9E-0271-4A24-82E5-4CE8F581E528",
+        "lastModified": "2021-07-20T12:23:22.910",
+        "created": "2015-02-18T15:25:28.963",
+        "titles": [
+          {
+            "title": "FancyBox project FancyBox for WordPress 3.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:colorlib:fancybox:3.0.2:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "9192A24A-2E93-4552-ABB8-1ED064199704"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:fancybox_project:fancybox:3.0.2:*:*:*:*:wordpress:*:*",
+      "title": "FancyBox project FancyBox for WordPress 3.0.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:colorlib:fancybox:3.0.2:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

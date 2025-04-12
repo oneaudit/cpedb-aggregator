@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:fernhillsoftware:scada_server:3.77:*:*:*:*:*:*:*",
+        "cpeNameId": "C9FE96EC-04EE-4786-BD2F-0BE94373C4A6",
+        "lastModified": "2022-10-06T13:04:00.013",
+        "created": "2022-04-19T10:55:32.303",
+        "titles": [
+          {
+            "title": "Fernhill Software SCADA Server 3.77",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:fernhillsoftware:scada_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B2C927E6-8BB7-4E98-B418-55890DEC7B21",
+        "lastModified": "2022-10-06T13:04:00.013",
+        "created": "2022-04-19T10:55:32.303",
+        "titles": [
+          {
+            "title": "Fernhill Software SCADA Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:fernhillsoftware:scada_server:3.77:*:*:*:*:*:*:*",
+      "title": "Fernhill Software SCADA Server 3.77",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:fernhillsoftware:scada_server:-:*:*:*:*:*:*:*",
+      "title": "Fernhill Software SCADA Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:firebird:firebird:2.1.6:*:*:*:*:*:*:*",
+        "cpeNameId": "2E11A41F-3A9D-4EBE-9F81-0DE22385E62B",
+        "lastModified": "2021-05-10T13:19:46.823",
+        "created": "2015-01-28T23:31:09.653",
+        "titles": [
+          {
+            "title": "Firebird 2.1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:firebirdsql:firebird:2.1.6:*:*:*:*:*:*:*",
+            "cpeNameId": "26033DFA-CEEF-41CE-9339-D0B78C94BFAA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:firebird:firebird:2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "CAEBEFBA-C177-4DC7-8A45-A70D97980B57",
+        "lastModified": "2021-03-04T16:24:18.867",
+        "created": "2015-01-28T23:31:09.653",
+        "titles": [
+          {
+            "title": "Firebird 2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:firebirdsql:firebird:2.5:*:*:*:*:*:*:*",
+            "cpeNameId": "297C3A1C-C4DE-4B67-AB71-20B24638117F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:firebird:firebird:2.5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "9DD79E98-0043-404B-82B5-D634EC70FC24",
+        "lastModified": "2021-03-04T16:24:18.867",
+        "created": "2015-01-28T23:31:09.653",
+        "titles": [
+          {
+            "title": "Firebird 2.5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:firebirdsql:firebird:2.5.1:*:*:*:*:*:*:*",
+            "cpeNameId": "C2E1F550-2609-44AF-A96B-8F1035C44027"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:firebird:firebird:2.5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "DD165D2D-0C15-4F50-BA7C-0C0B4C789281",
+        "lastModified": "2021-03-04T16:24:18.867",
+        "created": "2015-01-28T23:31:09.653",
+        "titles": [
+          {
+            "title": "Firebird 2.5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:firebirdsql:firebird:2.5.2:*:*:*:*:*:*:*",
+            "cpeNameId": "BBCA1DFE-64A9-4822-99C0-31816ADEAF3A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:firebird:firebird:2.5.3:*:*:*:*:*:*:*",
+        "cpeNameId": "A0F020B9-51F0-4029-AE24-C2ED835F680B",
+        "lastModified": "2021-03-04T16:24:18.867",
+        "created": "2015-01-28T23:31:09.653",
+        "titles": [
+          {
+            "title": "Firebird 2.5.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:firebirdsql:firebird:2.5.3:*:*:*:*:*:*:*",
+            "cpeNameId": "521A4F0D-BDEB-49FE-91B7-6B9FD3995A3E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:firebird:firebird:2.1.6:*:*:*:*:*:*:*",
+      "title": "Firebird 2.1.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:firebirdsql:firebird:2.1.6:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:firebird:firebird:2.5:*:*:*:*:*:*:*",
+      "title": "Firebird 2.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:firebirdsql:firebird:2.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:firebird:firebird:2.5.1:*:*:*:*:*:*:*",
+      "title": "Firebird 2.5.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:firebirdsql:firebird:2.5.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:firebird:firebird:2.5.2:*:*:*:*:*:*:*",
+      "title": "Firebird 2.5.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:firebirdsql:firebird:2.5.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:firebird:firebird:2.5.3:*:*:*:*:*:*:*",
+      "title": "Firebird 2.5.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:firebirdsql:firebird:2.5.3:*:*:*:*:*:*:*"
+    }
+  ]
+}
