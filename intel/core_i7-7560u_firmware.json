@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7560u_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "0D6BA766-F489-4FE7-96BF-DFD166B189FD",
+        "lastModified": "2020-01-13T14:14:37.933",
+        "created": "2020-01-13T14:14:37.933",
+        "titles": [
+          {
+            "title": "Intel Core i7-7560U Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7560u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "B74B6D89-5DEE-4B28-BCC7-957E1CAB854B",
+        "lastModified": "2020-01-13T14:14:38.370",
+        "created": "2020-01-13T14:14:38.370",
+        "titles": [
+          {
+            "title": "Intel Core i7-7560U Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7560u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "17DA9D85-F13D-463D-AAB8-929F702EDFCB",
+        "lastModified": "2020-03-23T18:34:49.040",
+        "created": "2020-03-23T18:34:49.040",
+        "titles": [
+          {
+            "title": "Intel Core i7-7560U Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7560u_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7560U Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7560u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7560U Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7560u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-7560U Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

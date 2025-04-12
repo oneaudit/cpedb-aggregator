@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8665ue_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A5C60AAB-6C87-48FC-873B-23560D10E8BB",
+        "lastModified": "2019-12-02T16:57:44.153",
+        "created": "2019-12-02T16:57:44.153",
+        "titles": [
+          {
+            "title": "Intel Core i7-8665UE Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8665ue_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "95C5E3F7-33FC-4C47-B7B9-96AC8DEABAED",
+        "lastModified": "2020-01-13T14:14:54.077",
+        "created": "2020-01-13T14:14:54.077",
+        "titles": [
+          {
+            "title": "Intel Core i7-8665UE Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8665ue_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "F3D15834-E88C-48DE-95F9-2E71AA1D47A8",
+        "lastModified": "2020-01-13T14:14:54.543",
+        "created": "2020-01-13T14:14:54.543",
+        "titles": [
+          {
+            "title": "Intel Core i7-8665UE Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8665ue_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8665UE Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8665ue_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8665UE Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8665ue_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8665UE Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

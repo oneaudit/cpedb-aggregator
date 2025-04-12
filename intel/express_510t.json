@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:express_510t:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6CC6FAB2-1B69-4C5F-B6DD-2F50E76946CF",
+        "lastModified": "2008-04-01T16:11:15.157",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Intel Intel Express 510T",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:express_510t:2.63:*:*:*:*:*:*:*",
+        "cpeNameId": "45C681D3-7DDB-4D7C-9101-F8A162ECD9B8",
+        "lastModified": "2008-04-07T14:14:43.907",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Intel Intel Express 510T Firmware 2.63",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:express_510t:2.64:*:*:*:*:*:*:*",
+        "cpeNameId": "EA9C1234-FAB4-4A7A-81CA-FCF3AE57E981",
+        "lastModified": "2008-04-07T14:14:44.033",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Intel Intel Express 510T Firmware 2.64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:express_510t:-:*:*:*:*:*:*:*",
+      "title": "Intel Intel Express 510T",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:express_510t:2.63:*:*:*:*:*:*:*",
+      "title": "Intel Intel Express 510T Firmware 2.63",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:express_510t:2.64:*:*:*:*:*:*:*",
+      "title": "Intel Intel Express 510T Firmware 2.64",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

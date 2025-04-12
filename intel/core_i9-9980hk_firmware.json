@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-9980hk_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1FD2C666-3842-4A34-A97A-FBB5E3456457",
+        "lastModified": "2019-12-02T16:57:47.937",
+        "created": "2019-12-02T16:57:47.937",
+        "titles": [
+          {
+            "title": "Intel Core i9-9980HK Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-9980hk_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "D7D51FCA-5609-4871-95C3-B0E861A11926",
+        "lastModified": "2020-01-13T14:15:08.797",
+        "created": "2020-01-13T14:15:08.797",
+        "titles": [
+          {
+            "title": "Intel Core i9-9980HK Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-9980hk_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "4C2FC16F-59B4-43E6-91CE-1CD3770AA286",
+        "lastModified": "2020-01-13T14:15:09.310",
+        "created": "2020-01-13T14:15:09.310",
+        "titles": [
+          {
+            "title": "Intel Core i9-9980HK Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i9-9980hk_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i9-9980HK Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i9-9980hk_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i9-9980HK Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i9-9980hk_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i9-9980HK Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

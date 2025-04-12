@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:datacenter_nvme:4.0.0.1006:*:*:*:*:*:*:*",
+        "cpeNameId": "807A94E5-14CB-4E6F-A7B3-C93C284A7276",
+        "lastModified": "2020-11-09T20:48:09.460",
+        "created": "2020-11-09T20:48:09.460",
+        "titles": [
+          {
+            "title": "Intel Datacenter NVMe 4.0.0.1006",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:datacenter_nvme:4.0.0.1007:*:*:*:*:*:*:*",
+        "cpeNameId": "FBA61649-C130-46DC-ADBD-463F8695717A",
+        "lastModified": "2020-11-09T20:48:09.537",
+        "created": "2020-11-09T20:48:09.537",
+        "titles": [
+          {
+            "title": "Intel Datacenter NVMe 4.0.0.1007",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:datacenter_nvme:4.0.0.1006:*:*:*:*:*:*:*",
+      "title": "Intel Datacenter NVMe 4.0.0.1006",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:datacenter_nvme:4.0.0.1007:*:*:*:*:*:*:*",
+      "title": "Intel Datacenter NVMe 4.0.0.1007",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

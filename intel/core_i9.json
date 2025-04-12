@@ -1,0 +1,168 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:core_i9:7900x:*:*:*:*:*:*:*",
+        "cpeNameId": "6AE54FA1-EB15-4DD5-B527-1DA1321DE6D1",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2018-09-05T12:53:24.983",
+        "titles": [
+          {
+            "title": "Intel Core I9 7900x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:core_i9-7900x:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0AB758E8-E162-4F46-B3C7-CA2088990309"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:core_i9:7920x:*:*:*:*:*:*:*",
+        "cpeNameId": "D286A332-7766-4990-82F7-046BB1992F96",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2018-09-05T12:53:25.093",
+        "titles": [
+          {
+            "title": "Intel Core I9 7920x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:core_i9-7920x:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5688C6CA-C3DC-4D61-BCD8-B4EF76BC13C1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:core_i9:7940x:*:*:*:*:*:*:*",
+        "cpeNameId": "6A9132A9-0359-4445-94C8-6A1F18C4BE24",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2018-09-05T12:53:25.217",
+        "titles": [
+          {
+            "title": "Intel Core I9 7940x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:core_i9-7940x:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D72FE1FE-C982-438B-AFE4-04F63A7330BC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:core_i9:7960x:*:*:*:*:*:*:*",
+        "cpeNameId": "582B6159-CBF8-4D2D-91FE-E4FEB4C2AFB4",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2018-09-05T12:53:25.357",
+        "titles": [
+          {
+            "title": "Intel Core I9 7960x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:core_i9-7960x:-:*:*:*:*:*:*:*",
+            "cpeNameId": "97A66877-7E9F-4C92-B8DC-927A9D06D051"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:core_i9:7980xe:*:*:*:*:*:*:*",
+        "cpeNameId": "E4577C26-C832-40A5-9218-1D08A36A6AE5",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2018-09-05T12:53:25.497",
+        "titles": [
+          {
+            "title": "Intel Core I9 7980xe",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:core_i9-7980xe:-:*:*:*:*:*:*:*",
+            "cpeNameId": "144B825D-97E1-4CD7-8229-2AF5696234AD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:core_i9:8950hk:*:*:*:*:*:*:*",
+        "cpeNameId": "7276D8D3-076B-430C-B88D-D1B5B6DE46F2",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2018-09-05T12:53:25.653",
+        "titles": [
+          {
+            "title": "Intel Core I9 8950hk",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:core_i9-8950hk:-:*:*:*:*:*:*:*",
+            "cpeNameId": "42D56059-224A-4057-B6D4-F657DCC41703"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:core_i9:7900x:*:*:*:*:*:*:*",
+      "title": "Intel Core I9 7900x",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:core_i9-7900x:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:core_i9:7920x:*:*:*:*:*:*:*",
+      "title": "Intel Core I9 7920x",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:core_i9-7920x:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:core_i9:7940x:*:*:*:*:*:*:*",
+      "title": "Intel Core I9 7940x",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:core_i9-7940x:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:core_i9:7960x:*:*:*:*:*:*:*",
+      "title": "Intel Core I9 7960x",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:core_i9-7960x:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:core_i9:7980xe:*:*:*:*:*:*:*",
+      "title": "Intel Core I9 7980xe",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:core_i9-7980xe:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:core_i9:8950hk:*:*:*:*:*:*:*",
+      "title": "Intel Core I9 8950hk",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:core_i9-8950hk:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

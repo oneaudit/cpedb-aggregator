@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_adapter_x722-da4_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EBF58EA4-3BFE-4FE9-A9E8-7B18F3552352",
+        "lastModified": "2021-04-30T17:26:17.423",
+        "created": "2021-02-18T12:48:22.840",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Adapter X722-DA4 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_adapter_x722-da4_firmware:1.5:*:*:*:*:*:*:*",
+        "cpeNameId": "41A7868C-0633-4310-95F6-7DA6316113F9",
+        "lastModified": "2021-04-30T17:26:17.423",
+        "created": "2021-02-18T12:48:22.840",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Adapter X722-DA4 Firmware 1.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_adapter_x722-da4_firmware:1.4.3:*:*:*:*:*:*:*",
+        "cpeNameId": "858203FD-5B8A-4FF4-ADEC-A029086874DE",
+        "lastModified": "2021-04-30T17:26:17.423",
+        "created": "2021-02-18T12:53:00.750",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Adapter X722-DA4 Firmware 1.4.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_adapter_x722-da4_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Adapter X722-DA4 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_adapter_x722-da4_firmware:1.5:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Adapter X722-DA4 Firmware 1.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_adapter_x722-da4_firmware:1.4.3:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Adapter X722-DA4 Firmware 1.4.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8550u_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "FE0010E4-CB0D-4C94-B9E6-6BF3DB386359",
+        "lastModified": "2020-01-13T14:14:48.763",
+        "created": "2020-01-13T14:14:48.763",
+        "titles": [
+          {
+            "title": "Intel Core i7-8550U Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8550u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "420CEAD6-0D7A-4AB0-AA9A-745FF5FA7991",
+        "lastModified": "2020-01-13T14:14:49.217",
+        "created": "2020-01-13T14:14:49.217",
+        "titles": [
+          {
+            "title": "Intel Core i7-8550U Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8550u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "08669C05-3CBF-4C30-B489-4691E6EA1F49",
+        "lastModified": "2020-03-23T18:34:58.107",
+        "created": "2020-03-23T18:34:58.107",
+        "titles": [
+          {
+            "title": "Intel Core i7-8550U Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8550u_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8550U Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8550u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8550U Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8550u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8550U Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

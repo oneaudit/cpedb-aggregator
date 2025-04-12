@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:e5-1620:4:*:*:*:*:*:*:*",
+        "cpeNameId": "2892B6FD-C343-40F5-ACED-396A5C7C41F2",
+        "lastModified": "2021-05-03T15:17:40.763",
+        "created": "2019-09-17T15:56:15.090",
+        "titles": [
+          {
+            "title": "Intel E5-1620 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:e5-1620:2:*:*:*:*:*:*:*",
+        "cpeNameId": "F2A68FAE-E982-4C41-82BA-107E89D6B82B",
+        "lastModified": "2021-05-03T15:17:40.763",
+        "created": "2019-09-17T15:56:15.090",
+        "titles": [
+          {
+            "title": "Intel E5-1620 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:e5-1620:3:*:*:*:*:*:*:*",
+        "cpeNameId": "E55F0E7A-5F11-49E9-9349-4F69014CE8C6",
+        "lastModified": "2020-06-29T13:00:12.100",
+        "created": "2020-06-29T13:00:12.100",
+        "titles": [
+          {
+            "title": "Intel Xeon E5-1620 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:e5-1620:4:*:*:*:*:*:*:*",
+      "title": "Intel E5-1620 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:e5-1620:2:*:*:*:*:*:*:*",
+      "title": "Intel E5-1620 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:e5-1620:3:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E5-1620 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

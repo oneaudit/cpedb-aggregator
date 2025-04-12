@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8750h_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "7CE577DD-201B-46C0-ACBB-8041FB92BC78",
+        "lastModified": "2020-01-13T14:15:00.810",
+        "created": "2020-01-13T14:15:00.810",
+        "titles": [
+          {
+            "title": "Intel Core i7-8750H Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8750h_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "36454EB7-8B79-4C73-B6F2-287751EFEA5C",
+        "lastModified": "2020-01-13T14:15:01.530",
+        "created": "2020-01-13T14:15:01.530",
+        "titles": [
+          {
+            "title": "Intel Core i7-8750H Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8750h_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8E0ECD1C-A231-4DB6-ABD1-597DC62DF5BB",
+        "lastModified": "2020-03-23T18:35:02.713",
+        "created": "2020-03-23T18:35:02.713",
+        "titles": [
+          {
+            "title": "Intel Core i7-8750H Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8750h_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8750H Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8750h_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8750H Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8750h_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8750H Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7700t_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "F8F804C4-A5AD-467D-A175-4789D6020A9D",
+        "lastModified": "2020-01-13T14:14:42.887",
+        "created": "2020-01-13T14:14:42.887",
+        "titles": [
+          {
+            "title": "Intel Core i7-7700T Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7700t_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "3876820F-0B20-4CD9-8052-691BD9F8D8A5",
+        "lastModified": "2020-01-13T14:14:43.340",
+        "created": "2020-01-13T14:14:43.340",
+        "titles": [
+          {
+            "title": "Intel Core i7-7700T Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7700t_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A776C6B4-FC06-4C24-875F-104AFD9A183F",
+        "lastModified": "2020-03-23T18:34:52.887",
+        "created": "2020-03-23T18:34:52.887",
+        "titles": [
+          {
+            "title": "Intel Core i7-7700T Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7700t_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7700T Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7700t_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7700T Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7700t_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-7700T Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

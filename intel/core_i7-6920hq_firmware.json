@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6920hq_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D7CE9776-7BCA-4016-B9C2-43BC0FE1155F",
+        "lastModified": "2019-12-02T17:29:19.490",
+        "created": "2019-12-02T17:29:19.490",
+        "titles": [
+          {
+            "title": "Intel Core i7-6920HQ Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6920hq_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "A7479916-CD53-4B63-B8E6-2109B237969E",
+        "lastModified": "2020-01-13T14:14:35.933",
+        "created": "2020-01-13T14:14:35.933",
+        "titles": [
+          {
+            "title": "Intel Core i7-6920HQ Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-6920hq_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "FE9B9FA0-6853-457C-941A-7D0DED9E5535",
+        "lastModified": "2020-01-13T14:14:36.357",
+        "created": "2020-01-13T14:14:36.357",
+        "titles": [
+          {
+            "title": "Intel Core i7-6920HQ Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6920hq_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-6920HQ Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6920hq_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6920HQ Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-6920hq_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-6920HQ Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

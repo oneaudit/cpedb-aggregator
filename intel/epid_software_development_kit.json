@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:epid_software_development_kit:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B4E7CB56-740F-44BF-AC1C-D628ED05C0E8",
+        "lastModified": "2021-02-23T13:28:33.147",
+        "created": "2021-02-23T13:28:33.147",
+        "titles": [
+          {
+            "title": "Intel EPID Software Development Kit (SDK)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:epid_software_development_kit:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "16B68959-2587-461F-8578-55BE4B9B2AF6",
+        "lastModified": "2021-02-23T13:28:33.523",
+        "created": "2021-02-23T13:28:33.523",
+        "titles": [
+          {
+            "title": "Intel EPID Software Development Kit (SDK) 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:epid_software_development_kit:-:*:*:*:*:*:*:*",
+      "title": "Intel EPID Software Development Kit (SDK)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:epid_software_development_kit:8.0:*:*:*:*:*:*:*",
+      "title": "Intel EPID Software Development Kit (SDK) 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

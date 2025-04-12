@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_v710_firmware:8.5:*:*:*:*:*:*:*",
+        "cpeNameId": "EC9BD97C-B34F-4749-85DB-F4A7AD158DE7",
+        "lastModified": "2022-08-25T14:41:11.980",
+        "created": "2022-08-25T12:54:01.683",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controller V710 Firmware 8.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_v710_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "47BF1261-12BD-4336-A905-D4CB9B0BF668",
+        "lastModified": "2022-08-25T14:41:11.980",
+        "created": "2022-08-25T12:54:01.683",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controller V710 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_v710_firmware:8.5:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controller V710 Firmware 8.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_v710_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controller V710 Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

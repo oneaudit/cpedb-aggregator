@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8709g_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "DB33BFB5-77C7-4DF8-80BC-CBAB6088775A",
+        "lastModified": "2020-01-13T14:14:59.543",
+        "created": "2020-01-13T14:14:59.543",
+        "titles": [
+          {
+            "title": "Intel Core i7-8709G Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8709g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "BDA89BE8-092D-4975-92B0-41F2C3A702EC",
+        "lastModified": "2020-01-13T14:15:00.403",
+        "created": "2020-01-13T14:15:00.403",
+        "titles": [
+          {
+            "title": "Intel Core i7-8709G Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8709g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A42CBEE2-25F5-461C-A159-82A873950E4D",
+        "lastModified": "2020-03-23T18:35:02.120",
+        "created": "2020-03-23T18:35:02.120",
+        "titles": [
+          {
+            "title": "Intel Core i7-8709G Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8709g_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8709G Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8709g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8709G Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8709g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8709G Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

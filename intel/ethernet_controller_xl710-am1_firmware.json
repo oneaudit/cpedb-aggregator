@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_xl710-am1_firmware:8.2:*:*:*:*:*:*:*",
+        "cpeNameId": "E3444CA3-37D2-4D2B-A9E2-82FCA44986B4",
+        "lastModified": "2021-11-23T18:47:08.537",
+        "created": "2021-11-22T16:33:30.290",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controller XL710-AM1 Firmware 8.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_xl710-am1_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "246D0BF4-A2AB-4274-A292-DF5DFCB83A1D",
+        "lastModified": "2021-11-23T18:47:08.537",
+        "created": "2021-11-22T16:33:30.290",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controller XL710-AM1Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_xl710-am1_firmware:8.2:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controller XL710-AM1 Firmware 8.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_xl710-am1_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controller XL710-AM1Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

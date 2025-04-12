@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:core_m3:6y30:*:*:*:*:*:*:*",
+        "cpeNameId": "E6433220-43F1-45A5-8DA1-D54C823D461D",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2018-02-07T12:27:34.593",
+        "titles": [
+          {
+            "title": "Intel Core M3 6Y30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:core_m3-6y30:-:*:*:*:*:*:*:*",
+            "cpeNameId": "EB8B7116-FF97-4ADC-949F-50FCB4413DD5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:core_m3:7y30:*:*:*:*:*:*:*",
+        "cpeNameId": "A685B7A1-E9D6-4541-B58E-DDD5D52C3808",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2018-02-07T12:27:35.127",
+        "titles": [
+          {
+            "title": "Intel Core M3 7Y30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:core_m3-7y30:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0B2472EF-56B7-4AE0-B5C3-C5107E516F87"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:core_m3:7y32:*:*:*:*:*:*:*",
+        "cpeNameId": "89547F88-4BB9-4DC0-B814-7499A0F15375",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2018-02-07T12:27:35.627",
+        "titles": [
+          {
+            "title": "Intel Core M3 7Y32",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:core_m3-7y32:-:*:*:*:*:*:*:*",
+            "cpeNameId": "CD522399-555F-4EED-B768-3CBCBE457366"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:core_m3:8100y:*:*:*:*:*:*:*",
+        "cpeNameId": "B21938D2-DB8A-4E37-B596-FEF29E90BDEB",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2018-09-05T12:53:25.843",
+        "titles": [
+          {
+            "title": "Intel Core M3 8100y",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:core_m3-8100y:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B2986201-7EBE-43A3-8B63-B3F8A7C41D08"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:core_m3:6y30:*:*:*:*:*:*:*",
+      "title": "Intel Core M3 6Y30",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:core_m3-6y30:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:core_m3:7y30:*:*:*:*:*:*:*",
+      "title": "Intel Core M3 7Y30",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:core_m3-7y30:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:core_m3:7y32:*:*:*:*:*:*:*",
+      "title": "Intel Core M3 7Y32",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:core_m3-7y32:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:core_m3:8100y:*:*:*:*:*:*:*",
+      "title": "Intel Core M3 8100y",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:core_m3-8100y:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

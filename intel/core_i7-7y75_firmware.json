@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7y75_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "61C104BD-BFDF-40E1-A555-8648CD9B8461",
+        "lastModified": "2019-12-02T17:29:20.473",
+        "created": "2019-12-02T17:29:20.473",
+        "titles": [
+          {
+            "title": "Intel Core i7-7Y75 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7y75_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "E8E135BB-A87B-4ECE-B41E-8440222B8615",
+        "lastModified": "2020-01-13T14:14:46.497",
+        "created": "2020-01-13T14:14:46.497",
+        "titles": [
+          {
+            "title": "Intel Core i7-7Y75 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7y75_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "AA86F462-7A3B-4F70-B9C3-B839EF422A38",
+        "lastModified": "2020-01-13T14:14:46.950",
+        "created": "2020-01-13T14:14:46.950",
+        "titles": [
+          {
+            "title": "Intel Core i7-7Y75 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7y75_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-7Y75 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7y75_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7Y75 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7y75_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7Y75 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

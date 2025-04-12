@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7\\+8700_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "317049AD-D92A-433F-B9C5-EA9263363D5B",
+        "lastModified": "2020-01-13T14:14:23.247",
+        "created": "2020-01-13T14:14:23.247",
+        "titles": [
+          {
+            "title": "Intel Core i7+8700 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7\\+8700_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "11DAF589-DADA-467A-874E-4BE78F6D52B5",
+        "lastModified": "2020-01-13T14:14:23.730",
+        "created": "2020-01-13T14:14:23.730",
+        "titles": [
+          {
+            "title": "Intel Core i7+8700 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7\\+8700_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C65FE275-C815-4C25-A37E-4C0DA6D0269D",
+        "lastModified": "2020-03-23T18:34:35.277",
+        "created": "2020-03-23T18:34:35.277",
+        "titles": [
+          {
+            "title": "Intel Core i7+8700 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7\\+8700_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7+8700 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7\\+8700_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7+8700 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7\\+8700_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7+8700 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

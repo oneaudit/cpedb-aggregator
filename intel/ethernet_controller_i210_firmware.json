@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_i210_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "173701D5-8F02-4679-9B4A-335E88EE570E",
+        "lastModified": "2021-04-30T16:54:53.627",
+        "created": "2021-02-18T12:12:10.830",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controller I210 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_i210_firmware:3.30:*:*:*:*:*:*:*",
+        "cpeNameId": "BB3DE4C0-6E5C-472D-A045-C37D5B62BB37",
+        "lastModified": "2021-04-30T16:54:53.627",
+        "created": "2021-02-18T12:12:10.830",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controller I210 Firmware 3.30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_i210_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controller I210 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_i210_firmware:3.30:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controller I210 Firmware 3.30",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

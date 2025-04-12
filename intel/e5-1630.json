@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:e5-1630:4:*:*:*:*:*:*:*",
+        "cpeNameId": "9A8D7CA5-2158-437A-B78D-EEDDE09CEF49",
+        "lastModified": "2021-05-03T15:17:40.763",
+        "created": "2019-09-17T15:56:15.090",
+        "titles": [
+          {
+            "title": "Intel E5-1630 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:e5-1630:3:*:*:*:*:*:*:*",
+        "cpeNameId": "7C64C124-E6AB-449D-AA53-92911993A7B9",
+        "lastModified": "2020-06-29T13:00:12.337",
+        "created": "2020-06-29T13:00:12.337",
+        "titles": [
+          {
+            "title": "Intel Xeon E5-1630 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:e5-1630:4:*:*:*:*:*:*:*",
+      "title": "Intel E5-1630 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:e5-1630:3:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E5-1630 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

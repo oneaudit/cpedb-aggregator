@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:elm12hbi7_firmware:hbadl357.0052:*:*:*:*:*:*:*",
+        "cpeNameId": "C9A9CBC2-2DDA-4223-96D3-62C21EA5B16C",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:22:41.377",
+        "titles": [
+          {
+            "title": "Intel ELM12HBI7 Firmware HBADL357.0052",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:elm12hbi7_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5DEA50AB-07CB-4BA3-A2AD-436903625792",
+        "lastModified": "2023-08-31T16:18:30.237",
+        "created": "2023-05-18T16:22:41.377",
+        "titles": [
+          {
+            "title": "Intel ELM12HBI7 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:elm12hbi7_firmware:hbadl357.0052:*:*:*:*:*:*:*",
+      "title": "Intel ELM12HBI7 Firmware HBADL357.0052",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:elm12hbi7_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel ELM12HBI7 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

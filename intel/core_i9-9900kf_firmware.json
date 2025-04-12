@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-9900kf_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D1524D6F-BE03-46DA-8B05-EA256BC17CAC",
+        "lastModified": "2019-12-02T16:57:47.247",
+        "created": "2019-12-02T16:57:47.247",
+        "titles": [
+          {
+            "title": "Intel Core i9-9900KF Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-9900kf_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "2966F726-67C9-4C38-A6C1-05A897AA0CEE",
+        "lastModified": "2020-01-13T14:15:06.263",
+        "created": "2020-01-13T14:15:06.263",
+        "titles": [
+          {
+            "title": "Intel Core i9-9900KF Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-9900kf_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "11C93133-8873-4520-BB27-BCD1F11F7B2F",
+        "lastModified": "2020-01-13T14:15:06.763",
+        "created": "2020-01-13T14:15:06.763",
+        "titles": [
+          {
+            "title": "Intel Core i9-9900KF Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i9-9900kf_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i9-9900KF Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i9-9900kf_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i9-9900KF Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i9-9900kf_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i9-9900KF Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

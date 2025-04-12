@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7600u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D07412D1-83BA-4807-A080-5F6EE2A80E09",
+        "lastModified": "2019-12-02T17:29:19.957",
+        "created": "2019-12-02T17:29:19.957",
+        "titles": [
+          {
+            "title": "Intel Core i7-7600U Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7600u_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "91E7E25F-0F6E-46CF-ADDE-5793F33E1757",
+        "lastModified": "2020-01-13T14:14:39.307",
+        "created": "2020-01-13T14:14:39.307",
+        "titles": [
+          {
+            "title": "Intel Core i7-7600U Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7600u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "11C0A3A8-AC5C-4949-995F-40967A278248",
+        "lastModified": "2020-01-13T14:14:39.763",
+        "created": "2020-01-13T14:14:39.763",
+        "titles": [
+          {
+            "title": "Intel Core i7-7600U Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7600u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-7600U Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7600u_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7600U Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7600u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7600U Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

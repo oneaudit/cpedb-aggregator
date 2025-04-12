@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8557u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "74051E06-9F95-4CD3-BE4B-9E09F5ADAD84",
+        "lastModified": "2019-12-02T16:57:43.513",
+        "created": "2019-12-02T16:57:43.513",
+        "titles": [
+          {
+            "title": "Intel Core i7-8557U Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8557u_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "E1CBCBD3-9885-4258-BD53-911C7F3B231C",
+        "lastModified": "2020-01-13T14:14:49.497",
+        "created": "2020-01-13T14:14:49.497",
+        "titles": [
+          {
+            "title": "Intel Core i7-8557U Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8557u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "CDB17574-81E2-420D-99C4-ACBB4A8849D9",
+        "lastModified": "2020-01-13T14:14:49.950",
+        "created": "2020-01-13T14:14:49.950",
+        "titles": [
+          {
+            "title": "Intel Core i7-8557U Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8557u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8557U Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8557u_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8557U Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8557u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8557U Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

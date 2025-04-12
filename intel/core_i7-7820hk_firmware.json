@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7820hk_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "6A1126CF-0C0C-4C9E-8A12-FC4F788EDE87",
+        "lastModified": "2020-01-13T14:14:44.323",
+        "created": "2020-01-13T14:14:44.323",
+        "titles": [
+          {
+            "title": "Intel Core i7-7820HK Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7820hk_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "68F2A1B5-EC0C-446E-A11F-9349E56451BB",
+        "lastModified": "2020-01-13T14:14:44.793",
+        "created": "2020-01-13T14:14:44.793",
+        "titles": [
+          {
+            "title": "Intel Core i7-7820HK Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7820hk_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "44CAA550-8310-4F18-9BBE-3AF5AD1C3010",
+        "lastModified": "2020-03-23T18:34:54.167",
+        "created": "2020-03-23T18:34:54.167",
+        "titles": [
+          {
+            "title": "Intel Core i7-7820HK Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7820hk_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7820HK Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7820hk_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7820HK Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7820hk_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-7820HK Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

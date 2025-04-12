@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:core_m7:6y75:*:*:*:*:*:*:*",
+        "cpeNameId": "A21EA543-6718-4A0D-B64E-DEA699A0438E",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2018-02-07T12:27:37.173",
+        "titles": [
+          {
+            "title": "Intel Core M7 6Y75",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:core_m7-6y75:-:*:*:*:*:*:*:*",
+            "cpeNameId": "6EE9829C-7042-4017-8D68-ACFDA66DE565"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:core_m7:6y75:*:*:*:*:*:*:*",
+      "title": "Intel Core M7 6Y75",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:core_m7-6y75:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

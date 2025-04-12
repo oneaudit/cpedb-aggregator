@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:dsp_builder:22.4:*:*:*:*:*:*:*",
+        "cpeNameId": "18B5173C-7AEF-4086-90D1-61FAE95DC8DD",
+        "lastModified": "2023-10-27T14:19:53.800",
+        "created": "2023-10-27T14:19:53.800",
+        "titles": [
+          {
+            "title": "Intel DSP Builder 22.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:dsp_builder:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B37D0C6F-D448-42AC-81A0-41872F8A1320",
+        "lastModified": "2023-10-27T14:19:53.800",
+        "created": "2023-10-27T14:19:53.800",
+        "titles": [
+          {
+            "title": "Intel DSP Builder ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:dsp_builder:22.4:*:*:*:*:*:*:*",
+      "title": "Intel DSP Builder 22.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:dsp_builder:-:*:*:*:*:*:*:*",
+      "title": "Intel DSP Builder ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

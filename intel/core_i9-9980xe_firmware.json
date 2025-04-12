@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-9980xe_firmware:-:*:*:*:extreme:*:*:*",
+        "cpeNameId": "2101337F-5ECA-47D0-8AD8-3E5F60DA054C",
+        "lastModified": "2020-03-23T18:35:15.667",
+        "created": "2020-03-23T18:35:15.667",
+        "titles": [
+          {
+            "title": "Intel Core i9-9980XE Firmware Extreme Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-9980xe_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DA1BF120-5632-4992-9974-685F78AB41E5",
+        "lastModified": "2022-03-01T14:01:53.727",
+        "created": "2022-02-15T18:36:46.817",
+        "titles": [
+          {
+            "title": "Intel Core i9-9980XE Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i9-9980xe_firmware:-:*:*:*:extreme:*:*:*",
+      "title": "Intel Core i9-9980XE Firmware Extreme Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i9-9980xe_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i9-9980XE Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

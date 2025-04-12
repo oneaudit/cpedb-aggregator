@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:dpc\\+\\+_compatibility_tool:2023.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3044F0C3-F35C-4E4C-90E9-C9029FC0C35D",
+        "lastModified": "2023-05-22T13:20:37.577",
+        "created": "2023-05-18T22:01:59.747",
+        "titles": [
+          {
+            "title": "Intel DPC++ Compatibility Tool 2023.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:dpc\\+\\+_compatibility_tool:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CBF5C063-6DEB-4527-B5A6-E5F8D4909AD4",
+        "lastModified": "2023-05-22T13:20:37.577",
+        "created": "2023-05-18T22:01:59.747",
+        "titles": [
+          {
+            "title": "Intel DPC++ Compatibility Tool",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:dpc\\+\\+_compatibility_tool:2023.0:*:*:*:*:*:*:*",
+      "title": "Intel DPC++ Compatibility Tool 2023.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:dpc\\+\\+_compatibility_tool:-:*:*:*:*:*:*:*",
+      "title": "Intel DPC++ Compatibility Tool",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

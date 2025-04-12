@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8700k_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "29D44273-5087-4DD8-9CAA-978BBDD4D0E0",
+        "lastModified": "2019-12-02T17:29:22.037",
+        "created": "2019-12-02T17:29:22.037",
+        "titles": [
+          {
+            "title": "Intel Core i7-8700K Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8700k_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "4062B2D5-7DC1-423A-B83D-5F057D16AFB3",
+        "lastModified": "2020-01-13T14:14:56.357",
+        "created": "2020-01-13T14:14:56.357",
+        "titles": [
+          {
+            "title": "Intel Core i7-8700K Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8700k_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "AAC8CE00-0ED9-4C39-BC05-BA44242FC915",
+        "lastModified": "2020-01-13T14:14:56.827",
+        "created": "2020-01-13T14:14:56.827",
+        "titles": [
+          {
+            "title": "Intel Core i7-8700K Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8700k_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8700K Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8700k_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8700K Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8700k_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8700K Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

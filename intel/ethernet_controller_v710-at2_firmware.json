@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_v710-at2_firmware:8.2:*:*:*:*:*:*:*",
+        "cpeNameId": "1C95B98E-335C-4203-A83E-C32B422C3688",
+        "lastModified": "2021-11-23T18:47:08.537",
+        "created": "2021-11-22T16:32:33.990",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controller V710-AT2 Firmware 8.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_v710-at2_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9C8019D4-2EBB-4DE3-AE20-886A99A4820E",
+        "lastModified": "2021-11-23T18:47:08.537",
+        "created": "2021-11-22T16:32:33.990",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controller V710-AT2 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_v710-at2_firmware:8.2:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controller V710-AT2 Firmware 8.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_v710-at2_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controller V710-AT2 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

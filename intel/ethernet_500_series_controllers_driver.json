@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:ethernet_500_series_controllers_driver:3.17.3:*:*:*:*:linux:*:*",
+        "cpeNameId": "3E1140CD-E286-494B-8C22-3DFD0FA7C4B6",
+        "lastModified": "2021-12-13T19:29:36.160",
+        "created": "2021-11-22T17:36:02.013",
+        "titles": [
+          {
+            "title": "Intel Ethernet 500 Series Controllers Driver 3.17.3 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:ethernet_500_series_controllers_driver:-:*:*:*:*:linux:*:*",
+        "cpeNameId": "D671EB29-B7C4-48CC-BB27-C2BA0C09A95D",
+        "lastModified": "2021-12-13T19:29:36.160",
+        "created": "2021-11-22T17:36:02.013",
+        "titles": [
+          {
+            "title": "Intel Ethernet 500 Series Controllers Driver for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:ethernet_500_series_controllers_driver:3.17.3:*:*:*:*:linux:*:*",
+      "title": "Intel Ethernet 500 Series Controllers Driver 3.17.3 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:ethernet_500_series_controllers_driver:-:*:*:*:*:linux:*:*",
+      "title": "Intel Ethernet 500 Series Controllers Driver for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

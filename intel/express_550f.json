@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:express_550f:-:*:*:*:*:*:*:*",
+        "cpeNameId": "677BCF77-FC5F-45AD-8657-0FFE3782A025",
+        "lastModified": "2008-04-01T16:11:15.627",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Intel Intel Express 550F",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:express_550f:2.63:*:*:*:*:*:*:*",
+        "cpeNameId": "27A66188-2A72-429E-89D3-2B4FBABDD618",
+        "lastModified": "2008-04-07T14:14:44.470",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Intel Intel Express 550F Firmware 2.63",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:express_550f:2.64:*:*:*:*:*:*:*",
+        "cpeNameId": "77280348-5122-4473-9702-285D8557D97E",
+        "lastModified": "2008-04-07T14:14:44.627",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Intel Intel Express 550F Firmware 2.64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:express_550f:-:*:*:*:*:*:*:*",
+      "title": "Intel Intel Express 550F",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:express_550f:2.63:*:*:*:*:*:*:*",
+      "title": "Intel Intel Express 550F Firmware 2.63",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:express_550f:2.64:*:*:*:*:*:*:*",
+      "title": "Intel Intel Express 550F Firmware 2.64",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

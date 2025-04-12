@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:greenlow-r:-:*:*:*:*:*:*:*",
+        "cpeNameId": "040415FB-F6DF-494B-8D99-C601DD598F1D",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Greenlow-R",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:greenlow-r:-:*:*:*:embedded:*:*:*",
+        "cpeNameId": "86CC35C4-A5DA-425C-9041-981EF11FB8E8",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Greenlow-R Embedded Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:greenlow-r:-:*:*:*:*:*:*:*",
+      "title": "Intel Greenlow-R",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:greenlow-r:-:*:*:*:embedded:*:*:*",
+      "title": "Intel Greenlow-R Embedded Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:datacenter_group_event:-:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "EDE421D8-C183-4CC9-9AB5-FE5A58F5AD0F",
+        "lastModified": "2022-08-22T14:17:26.643",
+        "created": "2022-08-22T13:41:39.563",
+        "titles": [
+          {
+            "title": "Intel Datacenter Group Event for iPhone OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:datacenter_group_event:-:*:*:*:*:android:*:*",
+        "cpeNameId": "0B2B5201-4B97-4170-B8E5-3FC1B3B5428E",
+        "lastModified": "2022-11-18T17:31:46.310",
+        "created": "2022-08-22T14:45:31.793",
+        "titles": [
+          {
+            "title": "Intel Datacenter Group Event for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:datacenter_group_event:-:*:*:*:*:iphone_os:*:*",
+      "title": "Intel Datacenter Group Event for iPhone OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:datacenter_group_event:-:*:*:*:*:android:*:*",
+      "title": "Intel Datacenter Group Event for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

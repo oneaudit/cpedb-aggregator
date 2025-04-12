@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_controller_e810-cam2_firmware:1.6.0.6:*:*:*:*:*:*:*",
+        "cpeNameId": "9A56E457-7F3C-4512-86FC-6730B20258CD",
+        "lastModified": "2021-11-23T18:47:08.537",
+        "created": "2021-11-22T16:36:27.920",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Controller E810-CAM2 Firmware 1.6.0.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_controller_e810-cam2_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2B6C7FD4-69DE-48CB-94A8-6B85F79363EF",
+        "lastModified": "2021-11-23T18:47:08.537",
+        "created": "2021-11-22T16:36:27.920",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Controller E810-CAM2 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_controller_e810-cam2_firmware:1.7.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "40BAE9FA-DD2F-47E3-A089-E4DFF4A9AACF",
+        "lastModified": "2023-03-07T14:26:44.270",
+        "created": "2023-03-06T19:56:58.750",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Controller E810-CAM2 Firmware 1.7.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_controller_e810-cam2_firmware:1.6.0.6:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Controller E810-CAM2 Firmware 1.6.0.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_controller_e810-cam2_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Controller E810-CAM2 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_controller_e810-cam2_firmware:1.7.0.8:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Controller E810-CAM2 Firmware 1.7.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

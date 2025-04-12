@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7820eq_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "721C4788-D17C-40E3-BA22-5D14E64457CD",
+        "lastModified": "2019-12-02T16:57:43.187",
+        "created": "2019-12-02T16:57:43.187",
+        "titles": [
+          {
+            "title": "Intel Core i7-7820EQ Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7820eq_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "9D2AE1FB-2F11-4746-B296-5EC4E57456EA",
+        "lastModified": "2020-01-13T14:14:43.607",
+        "created": "2020-01-13T14:14:43.607",
+        "titles": [
+          {
+            "title": "Intel Core i7-7820WQ Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7820eq_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "8EFB6100-F27E-4523-96DD-E8736BAA80A3",
+        "lastModified": "2020-01-13T14:14:44.060",
+        "created": "2020-01-13T14:14:44.060",
+        "titles": [
+          {
+            "title": "Intel Core i7-7820EQ Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7820eq_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-7820EQ Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7820eq_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7820WQ Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7820eq_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7820EQ Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

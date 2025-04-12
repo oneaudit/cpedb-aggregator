@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_xl710_firmware:5.04:*:*:*:*:*:*:*",
+        "cpeNameId": "83D99BF1-A321-4B0E-B0E5-F5AC6F378B45",
+        "lastModified": "2021-04-30T16:56:28.473",
+        "created": "2017-01-10T19:57:23.940",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controler XL710 Firmware 5.04",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_xl710_firmware:8.5:*:*:*:*:*:*:*",
+        "cpeNameId": "7FF43ACC-767A-4F31-B34A-07AF0A427E5B",
+        "lastModified": "2022-08-25T14:41:11.980",
+        "created": "2022-08-25T12:54:20.897",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controller Xl710 Firmware 8.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_xl710_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "59C66775-F730-44E3-A6FD-D24B45945209",
+        "lastModified": "2022-08-25T14:41:11.980",
+        "created": "2022-08-25T12:54:20.897",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controller Xl710 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_xl710_firmware:5.04:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controler XL710 Firmware 5.04",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_xl710_firmware:8.5:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controller Xl710 Firmware 8.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_xl710_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controller Xl710 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

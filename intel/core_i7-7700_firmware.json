@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7700_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "8565FEB7-F3E6-4512-A0C0-96B38E14B029",
+        "lastModified": "2020-01-13T14:14:40.730",
+        "created": "2020-01-13T14:14:40.730",
+        "titles": [
+          {
+            "title": "Intel Core i7-7700 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7700_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "150DAF33-F5D7-4EB1-851F-594D2382DFBE",
+        "lastModified": "2020-01-13T14:14:41.167",
+        "created": "2020-01-13T14:14:41.167",
+        "titles": [
+          {
+            "title": "Intel Core i7-7700 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7700_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "489DC6A9-F087-4FE7-8040-92A42D928AA4",
+        "lastModified": "2020-03-23T18:34:50.947",
+        "created": "2020-03-23T18:34:50.947",
+        "titles": [
+          {
+            "title": "Intel Core i7-7700 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7700_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7700 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7700_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7700 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7700_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-7700 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_controller_e810_firmware:1.5.5.6:*:*:*:*:*:*:*",
+        "cpeNameId": "D8AFC40C-E970-45CB-A16E-ECB787972729",
+        "lastModified": "2021-11-23T18:47:08.537",
+        "created": "2021-11-22T16:14:31.963",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Controller E810 Firmware 1.5.5.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_controller_e810_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D8D76B33-160B-4580-98AC-AC06648A2521",
+        "lastModified": "2021-11-23T18:47:08.537",
+        "created": "2021-11-22T16:18:53.823",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Controller E810 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_controller_e810_firmware:1.5.5.6:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Controller E810 Firmware 1.5.5.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_controller_e810_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Controller E810 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

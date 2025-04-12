@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-9880h_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5703E9B7-0AAE-4F21-B1C7-2F5152F63194",
+        "lastModified": "2019-12-02T17:29:23.803",
+        "created": "2019-12-02T17:29:23.803",
+        "titles": [
+          {
+            "title": "Intel Core i9-9880H Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-9880h_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "E5D22F26-0215-4B46-8CBA-3B624CDF97A3",
+        "lastModified": "2020-01-13T14:15:03.920",
+        "created": "2020-01-13T14:15:03.920",
+        "titles": [
+          {
+            "title": "Intel Core i9-9880H Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-9880h_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "3465A685-B587-4704-97CD-761D7853CE7C",
+        "lastModified": "2020-01-13T14:15:04.357",
+        "created": "2020-01-13T14:15:04.357",
+        "titles": [
+          {
+            "title": "Intel Core i9-9880H Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i9-9880h_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i9-9880H Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i9-9880h_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i9-9880H Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i9-9880h_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i9-9880H Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

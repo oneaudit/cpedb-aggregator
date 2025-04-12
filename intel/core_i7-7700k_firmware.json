@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7700k_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "4E080D28-9CAA-41CB-99FE-42838E510958",
+        "lastModified": "2020-01-13T14:14:42.183",
+        "created": "2020-01-13T14:14:42.183",
+        "titles": [
+          {
+            "title": "Intel Core i7-7700K Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7700k_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "7AB2268E-BD46-4B23-AF47-4AC61ACCE5C6",
+        "lastModified": "2020-01-13T14:14:42.637",
+        "created": "2020-01-13T14:14:42.637",
+        "titles": [
+          {
+            "title": "Intel Core i7-7700K Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-7700k_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8D450BAC-E07A-478A-BA9C-75D986B65E10",
+        "lastModified": "2020-03-23T18:34:52.247",
+        "created": "2020-03-23T18:34:52.247",
+        "titles": [
+          {
+            "title": "Intel Core i7-7700K Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7700k_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7700K Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7700k_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-7700K Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-7700k_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-7700K Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

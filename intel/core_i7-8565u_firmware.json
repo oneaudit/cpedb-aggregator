@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8565u_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "895C9A48-7E36-463B-84B9-282316E45A32",
+        "lastModified": "2020-01-13T14:14:50.980",
+        "created": "2020-01-13T14:14:50.980",
+        "titles": [
+          {
+            "title": "Intel Core i7-8565U Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8565u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "53144D54-99FC-4060-9141-1CB69C7F0D26",
+        "lastModified": "2020-01-13T14:14:51.450",
+        "created": "2020-01-13T14:14:51.450",
+        "titles": [
+          {
+            "title": "Intel Core i7-8565U Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8565u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8CAEDB27-81B7-49F4-BAD2-756EEFD6F787",
+        "lastModified": "2020-03-23T18:34:59.417",
+        "created": "2020-03-23T18:34:59.417",
+        "titles": [
+          {
+            "title": "Intel Core i7-8565U Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8565u_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8565U Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8565u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8565U Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8565u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8565U Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

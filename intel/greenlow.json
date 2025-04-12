@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:greenlow:-:*:*:*:embedded:*:*:*",
+        "cpeNameId": "2FAC2B57-0781-4780-B1B1-2ECF5E780D47",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Greenlow Embedded Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:greenlow:-:*:*:*:server:*:*:*",
+        "cpeNameId": "C29035FF-D708-4088-9525-7143927B92C9",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Greenlow Server Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:greenlow:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6A06B379-5066-4E4D-84FE-9EE1C38F7B73",
+        "lastModified": "2022-11-21T17:31:38.893",
+        "created": "2022-11-21T16:31:07.053",
+        "titles": [
+          {
+            "title": "Intel Greenlow",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:greenlow:-:*:*:*:embedded:*:*:*",
+      "title": "Intel Greenlow Embedded Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:greenlow:-:*:*:*:server:*:*:*",
+      "title": "Intel Greenlow Server Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:greenlow:-:*:*:*:*:*:*:*",
+      "title": "Intel Greenlow",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

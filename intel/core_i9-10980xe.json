@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:core_i9-10980xe:-:*:*:*:extreme:*:*:*",
+        "cpeNameId": "87D742C6-0DFC-4850-8355-A14AA9008596",
+        "lastModified": "2020-03-23T14:39:55.497",
+        "created": "2020-03-23T14:39:55.497",
+        "titles": [
+          {
+            "title": "Intel Core i9-10980XE Extreme Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:core_i9-10980xe:-:*:*:*:*:*:*:*",
+        "cpeNameId": "07D3F9F5-D20F-4AA9-AA9B-EC9444AE1FF0",
+        "lastModified": "2021-06-21T14:46:18.840",
+        "created": "2021-06-15T16:24:17.263",
+        "titles": [
+          {
+            "title": "Intel Core i9-10980XE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:core_i9-10980xe:-:*:*:*:extreme:*:*:*",
+      "title": "Intel Core i9-10980XE Extreme Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:core_i9-10980xe:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i9-10980XE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

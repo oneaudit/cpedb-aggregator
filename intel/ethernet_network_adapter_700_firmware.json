@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_adapter_700_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3AC18970-8D97-4CA0-B53D-3421BAFE419E",
+        "lastModified": "2021-04-30T17:26:17.423",
+        "created": "2021-02-18T13:27:11.300",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Adapter 700 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_adapter_700_firmware:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "54327EFB-DAEA-4F56-9A5E-AA0B2EC1D98F",
+        "lastModified": "2021-04-30T17:26:17.423",
+        "created": "2021-02-18T13:27:11.300",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Adapter 700 Firmware 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_adapter_700_firmware:7.3:*:*:*:*:*:*:*",
+        "cpeNameId": "3207C2ED-062C-4759-84FA-C302A7A233FC",
+        "lastModified": "2021-04-30T17:26:17.423",
+        "created": "2021-02-18T13:55:34.037",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Adapter 700 Firmware 7.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_adapter_700_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Adapter 700 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_adapter_700_firmware:8.0:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Adapter 700 Firmware 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_adapter_700_firmware:7.3:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Adapter 700 Firmware 7.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

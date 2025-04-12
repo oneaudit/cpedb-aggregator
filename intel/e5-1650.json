@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:e5-1650:4:*:*:*:*:*:*:*",
+        "cpeNameId": "85CE68F6-C88A-4789-ACBE-A3B1E6F2E23E",
+        "lastModified": "2021-05-03T15:17:40.763",
+        "created": "2019-09-17T15:56:15.090",
+        "titles": [
+          {
+            "title": "Intel E5-1650 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:e5-1650:2:*:*:*:*:*:*:*",
+        "cpeNameId": "681FDDEB-9329-4C54-8210-FC96C7D5EAC9",
+        "lastModified": "2021-05-03T15:17:40.763",
+        "created": "2019-09-17T15:56:15.090",
+        "titles": [
+          {
+            "title": "Intel E5-1650 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:e5-1650:3:*:*:*:*:*:*:*",
+        "cpeNameId": "5BF22206-25DD-4C2A-9101-9BB56DF61DCA",
+        "lastModified": "2020-06-29T13:00:12.570",
+        "created": "2020-06-29T13:00:12.570",
+        "titles": [
+          {
+            "title": "Intel Xeon E5-1650 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:e5-1650:4:*:*:*:*:*:*:*",
+      "title": "Intel E5-1650 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:e5-1650:2:*:*:*:*:*:*:*",
+      "title": "Intel E5-1650 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:e5-1650:3:*:*:*:*:*:*:*",
+      "title": "Intel Xeon E5-1650 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

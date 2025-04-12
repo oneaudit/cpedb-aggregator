@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8705g_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "96366898-BF06-4E34-8414-5D77AA93C41F",
+        "lastModified": "2020-01-13T14:14:57.887",
+        "created": "2020-01-13T14:14:57.887",
+        "titles": [
+          {
+            "title": "Intel Core i7-8705G Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8705g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "6967E2D5-12EB-483E-97C5-BBFBAB9447A6",
+        "lastModified": "2020-01-13T14:14:58.450",
+        "created": "2020-01-13T14:14:58.450",
+        "titles": [
+          {
+            "title": "Intel Core i7-8705G Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8705g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2184B0ED-538A-47AE-9E65-6A44ECC93DB5",
+        "lastModified": "2020-03-23T18:35:00.760",
+        "created": "2020-03-23T18:35:00.760",
+        "titles": [
+          {
+            "title": "Intel Core i7-8705G Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8705g_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8705G Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8705g_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8705G Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8705g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8705G Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8650u_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "FC64798C-FA2A-4876-A7A8-BE1C64A63041",
+        "lastModified": "2020-01-13T14:14:52.480",
+        "created": "2020-01-13T14:14:52.480",
+        "titles": [
+          {
+            "title": "Intel Core i7-8650U Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8650u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "CD0CAB3D-53F2-4643-A6D6-4C5EB8BA3D14",
+        "lastModified": "2020-01-13T14:14:52.997",
+        "created": "2020-01-13T14:14:52.997",
+        "titles": [
+          {
+            "title": "Intel Core i7-8650U Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8650u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C39FEDC9-0704-4B42-BA66-81BED1A35C74",
+        "lastModified": "2020-03-23T18:35:00.073",
+        "created": "2020-03-23T18:35:00.073",
+        "titles": [
+          {
+            "title": "Intel Core i7-8650U Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8650u_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8650U Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8650u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8650U Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8650u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8650U Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

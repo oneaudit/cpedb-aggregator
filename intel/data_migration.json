@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:data_migration:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9F138A47-1DFA-4E05-9F5D-F6DE6C05408A",
+        "lastModified": "2020-04-24T16:49:06.413",
+        "created": "2020-04-24T16:49:06.413",
+        "titles": [
+          {
+            "title": "Intel Data Migration",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:data_migration:3.3:*:*:*:*:*:*:*",
+        "cpeNameId": "DDC72B98-5B86-4654-936A-143C7EB8DC6E",
+        "lastModified": "2020-04-24T16:49:06.697",
+        "created": "2020-04-24T16:49:06.697",
+        "titles": [
+          {
+            "title": "Intel Data Migration 3.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:data_migration:-:*:*:*:*:*:*:*",
+      "title": "Intel Data Migration",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:data_migration:3.3:*:*:*:*:*:*:*",
+      "title": "Intel Data Migration 3.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-7980xe_firmware:-:*:*:*:extreme:*:*:*",
+        "cpeNameId": "5BBA5419-1860-49CF-8285-E3B2A2ED8F69",
+        "lastModified": "2020-03-23T18:35:12.823",
+        "created": "2020-03-23T18:35:12.823",
+        "titles": [
+          {
+            "title": "Intel Core i9-7980XE Firmware Extreme Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i9-7980xe_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "67974A76-C208-410A-AB39-C1E5C6DE004A",
+        "lastModified": "2022-03-01T14:01:53.727",
+        "created": "2022-02-15T18:36:46.817",
+        "titles": [
+          {
+            "title": "Intel Core i9-7980XE Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i9-7980xe_firmware:-:*:*:*:extreme:*:*:*",
+      "title": "Intel Core i9-7980XE Firmware Extreme Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i9-7980xe_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i9-7980XE Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

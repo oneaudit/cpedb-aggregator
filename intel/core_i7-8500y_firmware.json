@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8500y_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "1C6F5DEA-1A06-4143-ABD4-83E6E5D709E5",
+        "lastModified": "2020-01-13T14:14:48.027",
+        "created": "2020-01-13T14:14:48.027",
+        "titles": [
+          {
+            "title": "Intel Core i7-8500Y Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8500y_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "A76AA2FF-184A-411D-A4A8-C4A30A857102",
+        "lastModified": "2020-01-13T14:14:48.497",
+        "created": "2020-01-13T14:14:48.497",
+        "titles": [
+          {
+            "title": "Intel Core i7-8500Y Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8500y_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6F4ED92D-644C-43AE-A7EF-D76BC8538564",
+        "lastModified": "2020-03-23T18:34:57.447",
+        "created": "2020-03-23T18:34:57.447",
+        "titles": [
+          {
+            "title": "Intel Core i7-8500Y Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8500y_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8500Y Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8500y_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8500Y Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8500y_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8500Y Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

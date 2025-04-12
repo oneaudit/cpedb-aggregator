@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:core_i9-7980xe:-:*:*:*:extreme:*:*:*",
+        "cpeNameId": "F34AFED8-A5BA-4C06-9B87-5F6B4DFA656E",
+        "lastModified": "2020-03-23T14:39:58.060",
+        "created": "2020-03-23T14:39:58.060",
+        "titles": [
+          {
+            "title": "Intel Core i9-7980XE Extreme Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:core_i9-7980xe:-:*:*:*:*:*:*:*",
+        "cpeNameId": "144B825D-97E1-4CD7-8229-2AF5696234AD",
+        "lastModified": "2023-09-26T13:34:56.343",
+        "created": "2021-08-27T12:33:51.310",
+        "titles": [
+          {
+            "title": "Intel Core i9-7980XE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:core_i9-7980xe:-:*:*:*:extreme:*:*:*",
+      "title": "Intel Core i9-7980XE Extreme Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:core_i9-7980xe:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i9-7980XE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_x710-am2_firmware:8.2:*:*:*:*:*:*:*",
+        "cpeNameId": "72F33203-58B9-4068-8E57-282F69B02385",
+        "lastModified": "2021-11-23T18:47:08.537",
+        "created": "2021-11-22T16:32:50.967",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controller X710-AM2 Firmware 8.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_controller_x710-am2_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BE562460-611F-4EBD-A970-25DE146C8330",
+        "lastModified": "2021-11-23T18:47:08.537",
+        "created": "2021-11-22T16:32:50.967",
+        "titles": [
+          {
+            "title": "Intel Ethernet Controller X710-AM2 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_x710-am2_firmware:8.2:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controller X710-AM2 Firmware 8.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_controller_x710-am2_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Controller X710-AM2 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

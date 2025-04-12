@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:ethernet_diagnostic_driver:1.4.0.10:*:*:*:*:windows:*:*",
+        "cpeNameId": "D65BEC53-4227-4BE2-81BD-6AB5C9CFA748",
+        "lastModified": "2021-11-30T21:00:58.563",
+        "created": "2021-11-22T12:06:27.663",
+        "titles": [
+          {
+            "title": "Intel Ethernet Diagnostic Driver 1.4.0.10 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:ethernet_diagnostic_driver:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "E952B6AF-0BFA-4BB5-A15C-8E66F721CBB4",
+        "lastModified": "2021-11-30T21:00:58.563",
+        "created": "2021-11-22T12:06:27.663",
+        "titles": [
+          {
+            "title": "Intel Ethernet Diagnostic Driver for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:ethernet_diagnostic_driver:1.4.0.10:*:*:*:*:windows:*:*",
+      "title": "Intel Ethernet Diagnostic Driver 1.4.0.10 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:ethernet_diagnostic_driver:-:*:*:*:*:windows:*:*",
+      "title": "Intel Ethernet Diagnostic Driver for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

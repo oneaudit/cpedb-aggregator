@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_controller_e810-xxvam2_firmware:1.6.0.6:*:*:*:*:*:*:*",
+        "cpeNameId": "9F6E1232-1988-49ED-B33F-6FA121663B87",
+        "lastModified": "2021-11-23T18:47:08.537",
+        "created": "2021-11-22T16:36:35.330",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Controller E810-XXVAM2 Firmware 1.6.0.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_controller_e810-xxvam2_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F76421C8-BDCD-4E73-9F0F-C13611333B63",
+        "lastModified": "2021-11-23T18:47:08.537",
+        "created": "2021-11-22T16:36:35.330",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Controller E810-XXVAM2 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_controller_e810-xxvam2_firmware:1.7.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "CF00061A-3569-46AB-B536-30439CE1220E",
+        "lastModified": "2023-03-07T14:26:44.270",
+        "created": "2023-03-06T19:57:06.613",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Controller E810-XXVAM2 Firmware 1.7.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_controller_e810-xxvam2_firmware:1.6.0.6:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Controller E810-XXVAM2 Firmware 1.6.0.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_controller_e810-xxvam2_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Controller E810-XXVAM2 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_controller_e810-xxvam2_firmware:1.7.0.8:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Controller E810-XXVAM2 Firmware 1.7.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

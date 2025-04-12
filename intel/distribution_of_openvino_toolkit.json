@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:distribution_of_openvino_toolkit:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9BC9ADB6-710A-46D1-B03E-6AC146D67FF3",
+        "lastModified": "2020-08-13T19:00:31.407",
+        "created": "2020-08-13T19:00:31.407",
+        "titles": [
+          {
+            "title": "Intel Distribution of OpenVINO Toolkit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:distribution_of_openvino_toolkit:2020.2:*:*:*:*:*:*:*",
+        "cpeNameId": "A4D27072-0D15-449B-9C0D-20ECD50216FD",
+        "lastModified": "2020-08-13T19:00:31.733",
+        "created": "2020-08-13T19:00:31.733",
+        "titles": [
+          {
+            "title": "Intel Distribution of OpenVINO Toolkit 2020.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:distribution_of_openvino_toolkit:2021.4:*:*:*:*:*:*:*",
+        "cpeNameId": "58956A18-2D2D-4BD5-80C2-E8745B2ED669",
+        "lastModified": "2021-12-13T19:29:36.160",
+        "created": "2021-11-22T17:25:13.237",
+        "titles": [
+          {
+            "title": "Intel Distribution of OpenVINO Toolkit 2021.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:distribution_of_openvino_toolkit:-:*:*:*:*:*:*:*",
+      "title": "Intel Distribution of OpenVINO Toolkit",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:distribution_of_openvino_toolkit:2020.2:*:*:*:*:*:*:*",
+      "title": "Intel Distribution of OpenVINO Toolkit 2020.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:distribution_of_openvino_toolkit:2021.4:*:*:*:*:*:*:*",
+      "title": "Intel Distribution of OpenVINO Toolkit 2021.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

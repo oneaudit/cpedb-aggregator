@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8086k_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "CD12FC14-C27C-41C6-B390-BB6081A3216D",
+        "lastModified": "2020-01-13T14:14:47.277",
+        "created": "2020-01-13T14:14:47.277",
+        "titles": [
+          {
+            "title": "Intel Core i7-8086K Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8086k_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "531A306A-F23A-4533-9F6E-E4F8B3E92662",
+        "lastModified": "2020-01-13T14:14:47.763",
+        "created": "2020-01-13T14:14:47.763",
+        "titles": [
+          {
+            "title": "Intel Core i7-8086K Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8086k_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "934643E5-061E-4810-9A47-5210A15D71D2",
+        "lastModified": "2020-03-23T18:34:56.793",
+        "created": "2020-03-23T18:34:56.793",
+        "titles": [
+          {
+            "title": "Intel Core i7-8086K Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8086k_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8086K Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8086k_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8086K Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8086k_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8086K Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

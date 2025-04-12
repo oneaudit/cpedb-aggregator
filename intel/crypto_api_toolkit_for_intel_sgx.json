@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:crypto_api_toolkit_for_intel_sgx:2021-08-02:*:*:*:*:*:*:*",
+        "cpeNameId": "D8DD2653-8B45-42DE-8FAD-D2CD9840E0F5",
+        "lastModified": "2021-12-13T19:29:36.160",
+        "created": "2021-11-22T17:31:00.737",
+        "titles": [
+          {
+            "title": "Intel Crypto API Toolkit for Intel SGX 2021-08-02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:crypto_api_toolkit_for_intel_sgx:-:*:*:*:*:*:*:*",
+        "cpeNameId": "659CA367-705B-4707-B8CC-0FCB26A5C7B1",
+        "lastModified": "2021-12-13T19:29:36.160",
+        "created": "2021-11-22T17:31:00.737",
+        "titles": [
+          {
+            "title": "Intel Crypto API Toolkit for Intel SGX",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:crypto_api_toolkit_for_intel_sgx:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "9DEE03F0-72A7-48B5-9FE6-507625B7322A",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-03-06T17:18:55.770",
+        "titles": [
+          {
+            "title": "Intel Crypto API Toolkit for Intel SGX 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:crypto_api_toolkit_for_intel_sgx:2021-08-02:*:*:*:*:*:*:*",
+      "title": "Intel Crypto API Toolkit for Intel SGX 2021-08-02",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:crypto_api_toolkit_for_intel_sgx:-:*:*:*:*:*:*:*",
+      "title": "Intel Crypto API Toolkit for Intel SGX",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:crypto_api_toolkit_for_intel_sgx:2.0:*:*:*:*:*:*:*",
+      "title": "Intel Crypto API Toolkit for Intel SGX 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

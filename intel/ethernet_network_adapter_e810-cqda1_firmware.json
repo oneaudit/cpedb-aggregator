@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_adapter_e810-cqda1_firmware:1.7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "531D1262-2D6F-47AF-92D0-3E89C139F6C8",
+        "lastModified": "2023-11-21T15:35:25.033",
+        "created": "2023-11-21T15:35:25.033",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Adapters E810-CQDA1 Firmware 1.7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_adapter_e810-cqda1_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3D42B70A-3BFA-4CC7-A4B0-7B14143D8731",
+        "lastModified": "2023-11-21T15:35:25.033",
+        "created": "2023-11-21T15:35:25.033",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Adapters E810-CQDA1 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_adapter_e810-cqda1_firmware:1.7.1:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Adapters E810-CQDA1 Firmware 1.7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_adapter_e810-cqda1_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Adapters E810-CQDA1 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_adapter_e810-cqda2_for_ocp_3.0_firmware:1.7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "A50D6E6C-7B87-45A0-9CBC-690A5EA503CC",
+        "lastModified": "2023-11-21T15:35:25.033",
+        "created": "2023-11-21T15:35:25.033",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Adapters E810-CQDA2 FOR OCP 3.0 Firmware 1.7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ethernet_network_adapter_e810-cqda2_for_ocp_3.0_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "91C3EC1A-30FB-44DE-81BD-AC04BD349A48",
+        "lastModified": "2023-11-21T15:35:25.033",
+        "created": "2023-11-21T15:35:25.033",
+        "titles": [
+          {
+            "title": "Intel Ethernet Network Adapters E810-CQDA2 FOR OCP 3.0 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_adapter_e810-cqda2_for_ocp_3.0_firmware:1.7.1:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Adapters E810-CQDA2 FOR OCP 3.0 Firmware 1.7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ethernet_network_adapter_e810-cqda2_for_ocp_3.0_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Ethernet Network Adapters E810-CQDA2 FOR OCP 3.0 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

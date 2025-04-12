@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8850h_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7C5D3281-37F1-4C8A-B073-DD7141437859",
+        "lastModified": "2019-12-02T17:29:23.207",
+        "created": "2019-12-02T17:29:23.207",
+        "titles": [
+          {
+            "title": "Intel Core i7-8850H Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8850h_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "FA53D752-276B-4E69-87B4-1C9A391224B1",
+        "lastModified": "2020-01-13T14:15:03.090",
+        "created": "2020-01-13T14:15:03.090",
+        "titles": [
+          {
+            "title": "Intel Core i7-8850H Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8850h_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "B5A7E244-1443-4781-9E04-42646E93946F",
+        "lastModified": "2020-01-13T14:15:03.607",
+        "created": "2020-01-13T14:15:03.607",
+        "titles": [
+          {
+            "title": "Intel Core i7-8850H Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8850h_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8850H Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8850h_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8850H Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8850h_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8850H Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

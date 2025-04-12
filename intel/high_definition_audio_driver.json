@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:high_definition_audio_driver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "10ACDEFD-4B31-4A3C-9A59-D0747D0E336A",
+        "lastModified": "2020-11-17T21:17:43.837",
+        "created": "2020-11-17T21:17:43.837",
+        "titles": [
+          {
+            "title": "Intel High Definition Audio Driver",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:high_definition_audio_driver:9.21.00.4561:*:*:*:*:*:*:*",
+        "cpeNameId": "FF15925B-002A-4B51-A364-4EC201D3441B",
+        "lastModified": "2020-11-17T21:17:44.117",
+        "created": "2020-11-17T21:17:44.117",
+        "titles": [
+          {
+            "title": "Intel High Definition Audio Driver 9.21.00.4561",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:high_definition_audio_driver:-:*:*:*:*:*:*:*",
+      "title": "Intel High Definition Audio Driver",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:high_definition_audio_driver:9.21.00.4561:*:*:*:*:*:*:*",
+      "title": "Intel High Definition Audio Driver 9.21.00.4561",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

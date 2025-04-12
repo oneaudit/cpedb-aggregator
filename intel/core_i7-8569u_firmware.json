@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8569u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DBF03043-3495-4FEE-A595-B27CCCFB34FE",
+        "lastModified": "2019-12-02T16:57:43.843",
+        "created": "2019-12-02T16:57:43.843",
+        "titles": [
+          {
+            "title": "Intel Core i7-8569U Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8569u_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "0EC7102B-3A70-4260-8E83-3B7C4E5F369F",
+        "lastModified": "2020-01-13T14:14:51.730",
+        "created": "2020-01-13T14:14:51.730",
+        "titles": [
+          {
+            "title": "Intel Core i7-8569U Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8569u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "2B8DA1AB-00C6-4957-A31C-B03ABAD8FAEC",
+        "lastModified": "2020-01-13T14:14:52.200",
+        "created": "2020-01-13T14:14:52.200",
+        "titles": [
+          {
+            "title": "Intel Core i7-8569U Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8569u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8569U Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8569u_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8569U Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8569u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8569U Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

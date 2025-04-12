@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8700b_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C1A1912A-409F-4354-87AD-6D35F5A539A7",
+        "lastModified": "2019-12-02T16:57:44.483",
+        "created": "2019-12-02T16:57:44.483",
+        "titles": [
+          {
+            "title": "Intel Core i7-8700B Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8700b_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "D3FA1CB9-46AA-4A3A-9A65-91450EF5058A",
+        "lastModified": "2020-01-13T14:14:55.590",
+        "created": "2020-01-13T14:14:55.590",
+        "titles": [
+          {
+            "title": "Intel Core i7-8700B Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:core_i7-8700b_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "A8F0B2C1-EDC0-4FF5-A326-1E7A88336F8B",
+        "lastModified": "2020-01-13T14:14:56.060",
+        "created": "2020-01-13T14:14:56.060",
+        "titles": [
+          {
+            "title": "Intel Core i7-8700B Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8700b_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Core i7-8700B Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8700b_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8700B Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:core_i7-8700b_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Core i7-8700B Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
