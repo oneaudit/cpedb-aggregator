@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:laserjet_5100:v.29.12:*:*:*:*:*:*:*",
+        "cpeNameId": "37F4CE24-F64D-4825-99DB-98DDF8D20F48",
+        "lastModified": "2008-04-07T14:06:16.240",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP LaserJet 5100 Series firmware V.29.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:laserjet_5100:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A2F31BC0-67AF-432C-8000-2AF06DE8D470",
+        "lastModified": "2008-04-01T16:10:32.313",
+        "created": "2007-09-05T21:05:35.127",
+        "titles": [
+          {
+            "title": "HP laserjet 5100 printer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:laserjet_5100:v.29.12:*:*:*:*:*:*:*",
+      "title": "HP LaserJet 5100 Series firmware V.29.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:hp:laserjet_5100:-:*:*:*:*:*:*:*",
+      "title": "HP laserjet 5100 printer",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

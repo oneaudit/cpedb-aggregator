@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:laserjet_5000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1AF9C9E8-3A98-4755-BC89-5E68ECFD3571",
+        "lastModified": "2008-04-01T16:10:31.983",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "HP LaserJet 5000 Series",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:laserjet_5000:r.25.15:*:*:*:*:*:*:*",
+        "cpeNameId": "26E0FEB3-635F-42F0-AF1B-2ECE0DA6A3BD",
+        "lastModified": "2008-04-07T14:06:15.787",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP LaserJet 5000 Series firmware R.25.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:laserjet_5000:r.25.47:*:*:*:*:*:*:*",
+        "cpeNameId": "4E033C1E-C7AC-4A05-973E-05DE984A5D92",
+        "lastModified": "2008-04-07T14:06:16.020",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP LaserJet 5000 Series firmware R.25.47",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:laserjet_5000:-:*:*:*:*:*:*:*",
+      "title": "HP LaserJet 5000 Series",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:hp:laserjet_5000:r.25.15:*:*:*:*:*:*:*",
+      "title": "HP LaserJet 5000 Series firmware R.25.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:hp:laserjet_5000:r.25.47:*:*:*:*:*:*:*",
+      "title": "HP LaserJet 5000 Series firmware R.25.47",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
