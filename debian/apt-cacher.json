@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:apt-cacher:-:*:*:*:*:*:*:*",
+        "cpeNameId": "65BF131F-96BF-463F-97ED-9D826607F1C2",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Debian apt-cacher",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:apt-cacher:0.9.4:*:*:*:*:*:*:*",
+        "cpeNameId": "4D6D4FB0-009C-491E-83A9-27D3AE8F3A5A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Debian apt-cacher 0.9.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:apt-cacher:0.9.9:*:*:*:*:*:*:*",
+        "cpeNameId": "C4CA91BE-9989-489A-94CB-E87D01D9792E",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Debian apt-cacher 0.9.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:debian:apt-cacher:-:*:*:*:*:*:*:*",
+      "title": "Debian apt-cacher",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:debian:apt-cacher:0.9.4:*:*:*:*:*:*:*",
+      "title": "Debian apt-cacher 0.9.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:debian:apt-cacher:0.9.9:*:*:*:*:*:*:*",
+      "title": "Debian apt-cacher 0.9.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

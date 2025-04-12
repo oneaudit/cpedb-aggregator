@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:x11-common:-:*:*:*:*:*:*:*",
+        "cpeNameId": "25FF562C-7FD0-4375-B159-E640E6E73A82",
+        "lastModified": "2020-03-09T13:49:42.730",
+        "created": "2020-03-09T13:49:42.730",
+        "titles": [
+          {
+            "title": "Debian X11-common",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:x11-common:1\\:7.6\\+12:*:*:*:*:*:*:*",
+        "cpeNameId": "3EA16BFD-7FF4-4CED-8673-43621A5DE63B",
+        "lastModified": "2020-03-09T13:49:43.290",
+        "created": "2020-03-09T13:49:43.290",
+        "titles": [
+          {
+            "title": "Debian X11-common 1:7.6+12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:debian:x11-common:-:*:*:*:*:*:*:*",
+      "title": "Debian X11-common",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:debian:x11-common:1\\:7.6\\+12:*:*:*:*:*:*:*",
+      "title": "Debian X11-common 1:7.6+12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

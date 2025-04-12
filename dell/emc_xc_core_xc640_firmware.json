@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_xc_core_xc640_firmware:2.18.1:*:*:*:*:*:*:*",
+        "cpeNameId": "C6DECA0D-9BEF-4B40-9D8A-96930B82F881",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "Dell EMC XC CORE XC640 FIRMWARE 2.18.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_xc_core_xc640_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C8C713B6-69C0-43A8-9F4E-7950FE55DBF6",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "Dell EMC XC CORE XC640 FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_xc_core_xc640_firmware:2.21.2:*:*:*:*:*:*:*",
+        "cpeNameId": "003E9244-FD83-480F-AF93-A29F16502617",
+        "lastModified": "2025-01-27T18:37:45.880",
+        "created": "2025-01-27T18:37:45.880",
+        "titles": [
+          {
+            "title": "Dell EMC XC Core XC640 Firmware 2.21.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:emc_xc_core_xc640_firmware:2.18.1:*:*:*:*:*:*:*",
+      "title": "Dell EMC XC CORE XC640 FIRMWARE 2.18.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:emc_xc_core_xc640_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell EMC XC CORE XC640 FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:emc_xc_core_xc640_firmware:2.21.2:*:*:*:*:*:*:*",
+      "title": "Dell EMC XC Core XC640 Firmware 2.21.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

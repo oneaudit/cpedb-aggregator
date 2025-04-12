@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:netstd:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3A13B56C-8328-4B2E-945B-50EF58498F3A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Debian netstd",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:netstd:3.07:*:*:*:*:*:*:*",
+        "cpeNameId": "38348626-D5C0-4484-B17A-504EE9E6739A",
+        "lastModified": "2008-04-07T14:04:24.067",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Debian netstd 3.0 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:debian:netstd:-:*:*:*:*:*:*:*",
+      "title": "Debian netstd",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:debian:netstd:3.07:*:*:*:*:*:*:*",
+      "title": "Debian netstd 3.0 7",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

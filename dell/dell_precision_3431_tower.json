@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:dell:dell_precision_3431_tower:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DE2BEF98-88D1-4A63-9833-CDBEB83C6863",
+        "lastModified": "2024-12-19T14:25:43.340",
+        "created": "2024-12-19T14:24:13.963",
+        "titles": [
+          {
+            "title": "Dell Precision 3431 Tower",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dell:precision_3431_tower:-:*:*:*:*:*:*:*",
+            "cpeNameId": "89FD286D-6A0A-4EA2-ACC8-767870A41645"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:dell:dell_precision_3431_tower:-:*:*:*:*:*:*:*",
+      "title": "Dell Precision 3431 Tower",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dell:precision_3431_tower:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

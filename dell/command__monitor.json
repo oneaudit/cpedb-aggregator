@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:command\\|monitor:10.10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B78E26B0-3395-448A-9CBD-10507B0CFD2D",
+        "lastModified": "2023-12-09T00:23:49.020",
+        "created": "2023-12-09T00:23:49.020",
+        "titles": [
+          {
+            "title": "Dell Command|Monitor 10.10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:command\\|monitor:-:*:*:*:*:*:*:*",
+        "cpeNameId": "88D91058-4087-47D4-8C1E-958FE4E99DE3",
+        "lastModified": "2023-12-09T00:23:49.020",
+        "created": "2023-12-09T00:23:49.020",
+        "titles": [
+          {
+            "title": "Dell Command|Monitor -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:command\\|monitor:10.10.0:*:*:*:*:*:*:*",
+      "title": "Dell Command|Monitor 10.10.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:command\\|monitor:-:*:*:*:*:*:*:*",
+      "title": "Dell Command|Monitor -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

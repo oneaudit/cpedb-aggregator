@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_idrac8_firmware:2.80.80.80:*:*:*:*:*:*:*",
+        "cpeNameId": "16E76D62-4462-45D4-8120-1A6CA9EA682C",
+        "lastModified": "2021-09-23T19:17:52.190",
+        "created": "2021-08-09T17:08:21.097",
+        "titles": [
+          {
+            "title": "Dell EMC iDRAC8 Firmware 2.80.80.80",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_idrac8_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "23FF4E1C-D5DA-4747-94F3-A6DB4B9C6CDA",
+        "lastModified": "2021-09-23T19:17:52.190",
+        "created": "2021-08-09T17:08:21.097",
+        "titles": [
+          {
+            "title": "Dell EMC iDRAC8 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:emc_idrac8_firmware:2.80.80.80:*:*:*:*:*:*:*",
+      "title": "Dell EMC iDRAC8 Firmware 2.80.80.80",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:emc_idrac8_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell EMC iDRAC8 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

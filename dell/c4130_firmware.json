@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:c4130_firmware:2.14.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A2355A87-7BB0-47E3-972C-B665F4802D5D",
+        "lastModified": "2022-05-09T17:42:05.897",
+        "created": "2022-05-02T17:23:54.883",
+        "titles": [
+          {
+            "title": "Dell C4130 Firmware 2.14.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:c4130_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "59AE694C-42F1-40F8-81F0-6F1A3B94D7FF",
+        "lastModified": "2022-05-09T17:42:05.897",
+        "created": "2022-05-02T17:23:54.883",
+        "titles": [
+          {
+            "title": "Dell C4130 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:c4130_firmware:2.14.0:*:*:*:*:*:*:*",
+      "title": "Dell C4130 Firmware 2.14.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:c4130_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell C4130 Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:emc_openmanage_integration_for_microsoft_system_center:7.2.1:*:*:*:*:system_center_configuration_manager:*:*",
+        "cpeNameId": "569105DF-1ED0-4883-B3E4-302DD909488E",
+        "lastModified": "2020-12-23T18:28:56.643",
+        "created": "2020-12-23T18:28:56.643",
+        "titles": [
+          {
+            "title": "Dell EMC Open Manage Integration for Microsoft System Center 7.2.1 for System Center Configuration Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:emc_openmanage_integration_for_microsoft_system_center:7.2.1:*:*:*:*:system_center_virtual_machine_manager:*:*",
+        "cpeNameId": "942FAF11-309D-4997-8FC0-B9D76BAA2F0A",
+        "lastModified": "2020-12-23T18:28:56.767",
+        "created": "2020-12-23T18:28:56.767",
+        "titles": [
+          {
+            "title": "Dell EMC Open Manage Integration for Microsoft System Center 7.2.1 for System Center Virtual Machine Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:emc_openmanage_integration_for_microsoft_system_center:7.2.1:*:*:*:*:system_center_configuration_manager:*:*",
+      "title": "Dell EMC Open Manage Integration for Microsoft System Center 7.2.1 for System Center Configuration Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:emc_openmanage_integration_for_microsoft_system_center:7.2.1:*:*:*:*:system_center_virtual_machine_manager:*:*",
+      "title": "Dell EMC Open Manage Integration for Microsoft System Center 7.2.1 for System Center Virtual Machine Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

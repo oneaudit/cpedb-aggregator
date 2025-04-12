@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_powerconnect_8024_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A2AD0FE2-E9AA-4675-BF8D-23CD18C9138A",
+        "lastModified": "2021-05-05T17:43:22.390",
+        "created": "2019-08-26T14:09:56.493",
+        "titles": [
+          {
+            "title": "Dell EMC PowerConnect 8024 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_powerconnect_8024_firmware:5.1.15.2:*:*:*:*:*:*:*",
+        "cpeNameId": "30AECCD2-0890-4618-B5C6-16E7D0525A79",
+        "lastModified": "2021-05-05T17:43:22.390",
+        "created": "2019-08-26T14:09:56.493",
+        "titles": [
+          {
+            "title": "Dell EMC PowerConnect 8024 Firmware 5.1.15.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:emc_powerconnect_8024_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell EMC PowerConnect 8024 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:emc_powerconnect_8024_firmware:5.1.15.2:*:*:*:*:*:*:*",
+      "title": "Dell EMC PowerConnect 8024 Firmware 5.1.15.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

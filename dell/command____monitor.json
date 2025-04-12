@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:command_\\|_monitor:10.9:*:*:*:*:*:*:*",
+        "cpeNameId": "9C88F9BD-62F0-49C9-B5DE-297831DA1C8F",
+        "lastModified": "2023-02-16T21:01:46.783",
+        "created": "2023-02-16T15:14:25.440",
+        "titles": [
+          {
+            "title": "Dell Command | Monitor 10.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:command_\\|_monitor:-:*:*:*:*:*:*:*",
+        "cpeNameId": "24F00995-D152-4B8A-9126-0B5090CE5B43",
+        "lastModified": "2023-02-16T21:01:46.783",
+        "created": "2023-02-16T15:14:25.440",
+        "titles": [
+          {
+            "title": "Dell Command | Monitor",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:command_\\|_monitor:10.9.1:*:*:*:*:*:*:*",
+        "cpeNameId": "05B94E4F-9CAC-4CAE-A449-0E1BE3442112",
+        "lastModified": "2024-04-17T12:18:20.043",
+        "created": "2024-04-17T12:18:20.043",
+        "titles": [
+          {
+            "title": "Dell Command | Monitor 10.9.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:command_\\|_monitor:10.9:*:*:*:*:*:*:*",
+      "title": "Dell Command | Monitor 10.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:command_\\|_monitor:-:*:*:*:*:*:*:*",
+      "title": "Dell Command | Monitor",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:command_\\|_monitor:10.9.1:*:*:*:*:*:*:*",
+      "title": "Dell Command | Monitor 10.9.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:emc_omimssc_for_scvmm:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3B2D676F-FDBD-450E-B467-ECD5310BF33C",
+        "lastModified": "2021-05-17T15:17:44.573",
+        "created": "2020-07-15T10:47:07.033",
+        "titles": [
+          {
+            "title": "Dell EMC OpenManage Integration for Microsoft System Center Version for System Center Virtual Machine Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:emc_omimssc_for_scvmm:7.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "CF7B1782-9501-4504-BF36-781D6F32183F",
+        "lastModified": "2021-05-17T15:17:44.573",
+        "created": "2020-07-15T10:47:07.033",
+        "titles": [
+          {
+            "title": "Dell EMC OpenManage Integration for Microsoft System Center Version for System Center Virtual Machine Manager 7.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:emc_omimssc_for_scvmm:-:*:*:*:*:*:*:*",
+      "title": "Dell EMC OpenManage Integration for Microsoft System Center Version for System Center Virtual Machine Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:emc_omimssc_for_scvmm:7.2.1:*:*:*:*:*:*:*",
+      "title": "Dell EMC OpenManage Integration for Microsoft System Center Version for System Center Virtual Machine Manager 7.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

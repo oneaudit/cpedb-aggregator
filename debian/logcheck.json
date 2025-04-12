@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:logcheck:1.3.23:*:*:*:*:*:*:*",
+        "cpeNameId": "3A53116A-3004-4FE7-BAE4-E2804450913C",
+        "lastModified": "2022-11-04T19:08:23.250",
+        "created": "2022-09-21T12:44:12.980",
+        "titles": [
+          {
+            "title": "Debian Logcheck 1.3.23",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:logcheck:-:*:*:*:*:*:*:*",
+        "cpeNameId": "90F4FEE8-9ABD-4EFB-A80F-0D922E6E06F9",
+        "lastModified": "2022-11-04T19:08:23.250",
+        "created": "2022-09-21T12:44:12.980",
+        "titles": [
+          {
+            "title": "Debian Logcheck",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:debian:logcheck:1.3.23:*:*:*:*:*:*:*",
+      "title": "Debian Logcheck 1.3.23",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:debian:logcheck:-:*:*:*:*:*:*:*",
+      "title": "Debian Logcheck",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:debain:libpcap:1.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "C70DD996-74B8-4D09-A887-2D3ECBD6137E",
+        "lastModified": "2021-06-15T14:28:58.687",
+        "created": "2019-11-27T19:57:20.753",
+        "titles": [
+          {
+            "title": "Debain libpcap 1.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tcpdump:libpcap:1.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "C3FDB72D-1FA9-4161-A247-343C81D8F2F2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:debain:libpcap:1.1.1:*:*:*:*:*:*:*",
+      "title": "Debain libpcap 1.1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tcpdump:libpcap:1.1.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

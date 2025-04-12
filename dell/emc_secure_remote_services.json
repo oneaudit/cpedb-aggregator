@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:emc_secure_remote_services:3.32.00.08:*:*:*:virtual:*:*:*",
+        "cpeNameId": "CD3516AB-EF6E-4EB1-AEA6-55364D93816A",
+        "lastModified": "2021-05-17T16:21:54.797",
+        "created": "2019-01-07T19:31:08.017",
+        "titles": [
+          {
+            "title": "Dell EMC Secure Remote Services 3.32.00.08 Virtual Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:emc_secure_remote_services:-:*:*:*:virtual:*:*:*",
+        "cpeNameId": "3544EB10-84B5-4F1C-81D2-87C29A38ED99",
+        "lastModified": "2021-05-17T16:21:54.797",
+        "created": "2019-01-07T19:34:16.503",
+        "titles": [
+          {
+            "title": "Dell EMC Secure Remote Services Virtual Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:emc_secure_remote_services:3.32.00.08:*:*:*:virtual:*:*:*",
+      "title": "Dell EMC Secure Remote Services 3.32.00.08 Virtual Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:emc_secure_remote_services:-:*:*:*:virtual:*:*:*",
+      "title": "Dell EMC Secure Remote Services Virtual Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

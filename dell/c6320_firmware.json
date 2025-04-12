@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:c6320_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1B8DDF4A-BABA-48EC-A289-BE5F76B86C9A",
+        "lastModified": "2022-05-09T17:42:05.897",
+        "created": "2022-05-02T17:24:05.483",
+        "titles": [
+          {
+            "title": "Dell C6320 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:c6320_firmware:2.14.1:*:*:*:*:*:*:*",
+        "cpeNameId": "38389A1A-7C20-49D5-90A8-5641A37470F8",
+        "lastModified": "2022-05-09T17:42:05.897",
+        "created": "2022-05-02T17:24:29.080",
+        "titles": [
+          {
+            "title": "Dell C6320 Firmware 2.14.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:c6320_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell C6320 Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:c6320_firmware:2.14.1:*:*:*:*:*:*:*",
+      "title": "Dell C6320 Firmware 2.14.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

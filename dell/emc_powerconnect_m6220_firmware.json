@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_powerconnect_m6220_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A8342503-54FB-4D39-9D38-91F7D6C42FBA",
+        "lastModified": "2021-05-05T17:43:22.390",
+        "created": "2019-08-26T14:09:56.493",
+        "titles": [
+          {
+            "title": "Dell EMC PowerConnect M6220 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_powerconnect_m6220_firmware:5.1.15.2:*:*:*:*:*:*:*",
+        "cpeNameId": "3E2D418F-9A72-4565-A012-75AEDB9B4BF8",
+        "lastModified": "2021-05-05T17:43:22.390",
+        "created": "2019-08-26T14:09:56.493",
+        "titles": [
+          {
+            "title": "Dell EMC PowerConnect M6220 Firmware 5.1.15.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:emc_powerconnect_m6220_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell EMC PowerConnect M6220 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:emc_powerconnect_m6220_firmware:5.1.15.2:*:*:*:*:*:*:*",
+      "title": "Dell EMC PowerConnect M6220 Firmware 5.1.15.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

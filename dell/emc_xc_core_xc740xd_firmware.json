@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_xc_core_xc740xd_firmware:2.18.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0032148C-FEB2-474B-8CD6-391A901C1F23",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "Dell EMC XC CORE XC740XD FIRMWARE 2.18.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_xc_core_xc740xd_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B500EAAB-6740-4862-A0CE-5F7EBB5A8715",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "Dell EMC XC CORE XC740XD FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_xc_core_xc740xd_firmware:2.21.2:*:*:*:*:*:*:*",
+        "cpeNameId": "2AE2A914-54F6-4722-A814-811022C813DA",
+        "lastModified": "2025-01-27T18:37:45.880",
+        "created": "2025-01-27T18:37:45.880",
+        "titles": [
+          {
+            "title": "Dell EMC XC Core XC740XD Firmware 2.21.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:emc_xc_core_xc740xd_firmware:2.18.1:*:*:*:*:*:*:*",
+      "title": "Dell EMC XC CORE XC740XD FIRMWARE 2.18.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:emc_xc_core_xc740xd_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell EMC XC CORE XC740XD FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:emc_xc_core_xc740xd_firmware:2.21.2:*:*:*:*:*:*:*",
+      "title": "Dell EMC XC Core XC740XD Firmware 2.21.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:emc_vnx2_operating_environment:05.33.009.5.231:*:*:*:*:block:*:*",
+        "cpeNameId": "80706B12-608C-4E3C-93B2-214D969B23BA",
+        "lastModified": "2021-05-17T17:01:29.010",
+        "created": "2018-06-07T20:08:48.503",
+        "titles": [
+          {
+            "title": "Dell EMC VNX2 Operating Environment (OE) 05.33.009.5.231 for Block",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:emc_vnx2_operating_environment:8.1.9.231:*:*:*:*:file:*:*",
+        "cpeNameId": "0DC10928-427E-45BC-9295-C6D7F5D7ED99",
+        "lastModified": "2021-05-17T17:01:29.010",
+        "created": "2018-06-07T20:08:57.503",
+        "titles": [
+          {
+            "title": "Dell EMC VNX2 Operating Environment (OE) 8.1.9.231 for File",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:emc_vnx2_operating_environment:05.33.009.5.231:*:*:*:*:block:*:*",
+      "title": "Dell EMC VNX2 Operating Environment (OE) 05.33.009.5.231 for Block",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:emc_vnx2_operating_environment:8.1.9.231:*:*:*:*:file:*:*",
+      "title": "Dell EMC VNX2 Operating Environment (OE) 8.1.9.231 for File",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:apt-listchanges:-:*:*:*:*:*:*:*",
+        "cpeNameId": "35C2A895-F6F1-4841-898C-4ACCFDC41160",
+        "lastModified": "2008-01-17T16:10:00.823",
+        "created": "2008-01-17T16:10:00.823",
+        "titles": [
+          {
+            "title": "Debian apt-listchanges",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:apt-listchanges:2.81:*:*:*:*:*:*:*",
+        "cpeNameId": "F6C8041A-6055-4D77-9FDA-E213B88CA6CD",
+        "lastModified": "2008-01-17T16:10:09.280",
+        "created": "2008-01-17T16:10:09.280",
+        "titles": [
+          {
+            "title": "Debian apt-listchanges 2.81",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:debian:apt-listchanges:-:*:*:*:*:*:*:*",
+      "title": "Debian apt-listchanges",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:debian:apt-listchanges:2.81:*:*:*:*:*:*:*",
+      "title": "Debian apt-listchanges 2.81",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

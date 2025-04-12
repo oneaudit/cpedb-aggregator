@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:emc_vmax_enas:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A005C5A8-F98A-480C-9EDB-F3E1F8642AB6",
+        "lastModified": "2021-05-17T16:29:31.897",
+        "created": "2018-06-07T20:06:19.093",
+        "titles": [
+          {
+            "title": "Dell EMC VMAX eNAS 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:emc_vmax_enas:8.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "70B208A6-6CC7-4408-B012-630B684D5D0F",
+        "lastModified": "2021-05-17T16:29:31.897",
+        "created": "2018-06-07T20:06:19.093",
+        "titles": [
+          {
+            "title": "Dell EMC VMAX eNAS 8.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:emc_vmax_enas:8.0:*:*:*:*:*:*:*",
+      "title": "Dell EMC VMAX eNAS 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:emc_vmax_enas:8.0.1:*:*:*:*:*:*:*",
+      "title": "Dell EMC VMAX eNAS 8.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

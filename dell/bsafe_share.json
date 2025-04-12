@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:bsafe_share:-:*:*:*:*:java:*:*",
+        "cpeNameId": "D38617F3-7DA8-4746-8E6F-113626592EA9",
+        "lastModified": "2021-11-30T18:26:12.847",
+        "created": "2021-11-30T18:24:10.453",
+        "titles": [
+          {
+            "title": "Dell BSAFE Share for Java",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:bsafe_share:-:*:*:*:*:c:*:*",
+        "cpeNameId": "DAD4FB5F-849C-4C83-962E-3484648FD119",
+        "lastModified": "2021-11-30T19:04:20.513",
+        "created": "2021-11-30T19:02:46.103",
+        "titles": [
+          {
+            "title": "Dell BSAFE Share for C",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:bsafe_share:-:*:*:*:*:java:*:*",
+      "title": "Dell BSAFE Share for Java",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:bsafe_share:-:*:*:*:*:c:*:*",
+      "title": "Dell BSAFE Share for C",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

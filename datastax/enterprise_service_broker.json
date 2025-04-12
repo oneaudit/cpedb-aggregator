@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:datastax:enterprise_service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+        "cpeNameId": "0B61B25A-4227-448F-95A2-FC4232C9D231",
+        "lastModified": "2020-04-01T20:18:54.070",
+        "created": "2020-04-01T20:18:54.070",
+        "titles": [
+          {
+            "title": "Datastax Enterprise Service Broker - for Pivotal Cloud Foundry",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:datastax:enterprise_service_broker:1.0.2:*:*:*:*:pivotal_cloud_foundry:*:*",
+        "cpeNameId": "4372B085-A3D1-4092-BF34-27412A12D503",
+        "lastModified": "2020-04-01T20:18:54.647",
+        "created": "2020-04-01T20:18:54.647",
+        "titles": [
+          {
+            "title": "Datastax Enterprise Service Broker 1.0.2 for Pivotal Cloud Foundry",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:datastax:enterprise_service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+      "title": "Datastax Enterprise Service Broker - for Pivotal Cloud Foundry",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:datastax:enterprise_service_broker:1.0.2:*:*:*:*:pivotal_cloud_foundry:*:*",
+      "title": "Datastax Enterprise Service Broker 1.0.2 for Pivotal Cloud Foundry",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dave_thomas:rdoc:2.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4B4ABAD7-2855-4CA7-A4B4-A5AC598B84E0",
+        "lastModified": "2021-08-31T14:57:26.823",
+        "created": "2013-03-01T17:02:33.880",
+        "titles": [
+          {
+            "title": "Dace Thomas RDoc 2.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ruby-lang:rdoc:2.3.0:*:*:*:*:ruby:*:*",
+            "cpeNameId": "F893F568-BD64-4253-90EC-2ED416FEC5D9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dave_thomas:rdoc:3.12:*:*:*:*:*:*:*",
+        "cpeNameId": "6375E955-1BBD-423C-86CE-7347ABE41E3F",
+        "lastModified": "2021-08-31T14:57:26.823",
+        "created": "2013-03-01T17:02:34.020",
+        "titles": [
+          {
+            "title": "Dace Thomas RDoc 3.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ruby-lang:rdoc:3.12:*:*:*:*:ruby:*:*",
+            "cpeNameId": "1E799498-A172-47E2-8022-24F33C709298"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dave_thomas:rdoc:4.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D616459E-9271-433E-BD67-20C23D2C5323",
+        "lastModified": "2021-08-31T14:57:26.823",
+        "created": "2013-03-01T17:02:34.147",
+        "titles": [
+          {
+            "title": "Dace Thomas RDoc 4.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ruby-lang:rdoc:4.0.0:-:*:*:*:ruby:*:*",
+            "cpeNameId": "54DA971D-1B3D-4B08-92B0-55AE9D4814BA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dave_thomas:rdoc:2.3.0:*:*:*:*:*:*:*",
+      "title": "Dace Thomas RDoc 2.3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ruby-lang:rdoc:2.3.0:*:*:*:*:ruby:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:dave_thomas:rdoc:3.12:*:*:*:*:*:*:*",
+      "title": "Dace Thomas RDoc 3.12",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ruby-lang:rdoc:3.12:*:*:*:*:ruby:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:dave_thomas:rdoc:4.0.0:*:*:*:*:*:*:*",
+      "title": "Dace Thomas RDoc 4.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ruby-lang:rdoc:4.0.0:-:*:*:*:ruby:*:*"
+    }
+  ]
+}

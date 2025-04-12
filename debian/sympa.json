@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:sympa:-:*:*:*:*:*:*:*",
+        "cpeNameId": "060C813C-0D27-44A7-AA1A-F009B01F729A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Debian sympa",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:sympa:3.3.3:*:*:*:*:*:*:*",
+        "cpeNameId": "94AF24AF-82F8-4B82-87F4-1AB59FBFEF12",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Debian sympa 3.3.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:debian:sympa:-:*:*:*:*:*:*:*",
+      "title": "Debian sympa",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:debian:sympa:3.3.3:*:*:*:*:*:*:*",
+      "title": "Debian sympa 3.3.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

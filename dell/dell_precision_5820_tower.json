@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:dell:dell_precision_5820_tower:-:*:*:*:*:*:*:*",
+        "cpeNameId": "392CA8B6-0971-45D0-87E7-7604A98D9BDD",
+        "lastModified": "2024-12-19T14:25:43.340",
+        "created": "2024-12-19T14:24:13.963",
+        "titles": [
+          {
+            "title": "Dell Precision 5820 Tower",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dell:precision_5820_tower:-:*:*:*:*:*:*:*",
+            "cpeNameId": "CE82CDC1-F3A8-46CC-BCEE-CDB30BD911BD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:dell:dell_precision_5820_tower:-:*:*:*:*:*:*:*",
+      "title": "Dell Precision 5820 Tower",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dell:precision_5820_tower:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

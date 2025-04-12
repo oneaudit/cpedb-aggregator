@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:dell:bsafe_micro_edition_suite:4.5:*:*:*:*:*:*:*",
+        "cpeNameId": "ECA77B21-CF15-4BCC-A54D-10968A6AD550",
+        "lastModified": "2021-11-30T17:23:33.300",
+        "created": "2020-12-17T19:24:06.313",
+        "titles": [
+          {
+            "title": "Dell BSAFE 4.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe:4.5:*:*:*:micro_edition_suite:*:*:*",
+            "cpeNameId": "D25F02DC-FD16-4340-81B4-E23C26D9EBDF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:bsafe_micro_edition_suite:4.5:*:*:*:*:*:*:*",
+      "title": "Dell BSAFE 4.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe:4.5:*:*:*:micro_edition_suite:*:*:*"
+    }
+  ]
+}

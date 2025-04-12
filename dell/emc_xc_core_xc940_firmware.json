@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_xc_core_xc940_firmware:2.18.1:*:*:*:*:*:*:*",
+        "cpeNameId": "3D2BFE52-46F8-495A-B7E2-0F01B93D23BD",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "Dell EMC XC CORE XC940 FIRMWARE 2.18.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_xc_core_xc940_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "90A63F76-EC2C-47E5-BA86-0A5483652DFB",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "Dell EMC XC CORE XC940 FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:emc_xc_core_xc940_firmware:2.21.2:*:*:*:*:*:*:*",
+        "cpeNameId": "747FEA39-B55F-4825-A70D-F6A8F7661775",
+        "lastModified": "2025-01-27T18:37:45.880",
+        "created": "2025-01-27T18:37:45.880",
+        "titles": [
+          {
+            "title": "Dell EMC XC Core XC940 Firmware 2.21.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:emc_xc_core_xc940_firmware:2.18.1:*:*:*:*:*:*:*",
+      "title": "Dell EMC XC CORE XC940 FIRMWARE 2.18.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:emc_xc_core_xc940_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell EMC XC CORE XC940 FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:emc_xc_core_xc940_firmware:2.21.2:*:*:*:*:*:*:*",
+      "title": "Dell EMC XC Core XC940 Firmware 2.21.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

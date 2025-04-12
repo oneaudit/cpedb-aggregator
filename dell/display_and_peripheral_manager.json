@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:display_and_peripheral_manager:1.3:*:*:*:*:macos:*:*",
+        "cpeNameId": "CEB14477-1D30-4C63-A339-44C63F8A5819",
+        "lastModified": "2025-01-31T15:59:27.667",
+        "created": "2025-01-31T15:59:27.667",
+        "titles": [
+          {
+            "title": "Dell Display and Peripheral Manager 1.3 for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:display_and_peripheral_manager:-:*:*:*:*:macos:*:*",
+        "cpeNameId": "EFE9FDCB-3998-432A-8637-51FA15554498",
+        "lastModified": "2025-01-31T15:59:27.667",
+        "created": "2025-01-31T15:59:27.667",
+        "titles": [
+          {
+            "title": "Dell Display and Peripheral Manager for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:display_and_peripheral_manager:1.3:*:*:*:*:macos:*:*",
+      "title": "Dell Display and Peripheral Manager 1.3 for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:display_and_peripheral_manager:-:*:*:*:*:macos:*:*",
+      "title": "Dell Display and Peripheral Manager for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

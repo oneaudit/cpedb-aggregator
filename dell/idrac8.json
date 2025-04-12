@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:dell:idrac8:-:*:*:*:*:*:*:*",
+        "cpeNameId": "59A405B9-58A5-4EAD-AC08-769C8210C3E7",
+        "lastModified": "2021-04-16T14:23:27.570",
+        "created": "2016-11-29T18:50:59.460",
+        "titles": [
+          {
+            "title": "Dell iDRAC 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:idrac8:2.60.60.60:*:*:*:*:*:*:*",
+        "cpeNameId": "6CD8EEC2-FD5E-405E-948E-226FBBDCB229",
+        "lastModified": "2021-05-17T17:23:01.947",
+        "created": "2018-08-22T17:49:41.250",
+        "titles": [
+          {
+            "title": "Dell iDRAC8 2.60.60.60",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:idrac8:2.50.50.50:*:*:*:*:*:*:*",
+        "cpeNameId": "AC07F48A-6A24-475D-831A-63C12A0C5161",
+        "lastModified": "2021-05-17T17:23:01.947",
+        "created": "2018-08-22T17:49:41.250",
+        "titles": [
+          {
+            "title": "Dell iDRAC8 2.50.50.50",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:idrac8:2.52.52.52:*:*:*:*:*:*:*",
+        "cpeNameId": "5F8CA52E-9652-498D-948C-AB83030359FE",
+        "lastModified": "2021-05-17T17:23:01.947",
+        "created": "2018-08-22T17:50:14.890",
+        "titles": [
+          {
+            "title": "Dell iDRAC8 2.52.52.52",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:dell:idrac8:-:*:*:*:*:*:*:*",
+      "title": "Dell iDRAC 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:idrac8:2.60.60.60:*:*:*:*:*:*:*",
+      "title": "Dell iDRAC8 2.60.60.60",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:idrac8:2.50.50.50:*:*:*:*:*:*:*",
+      "title": "Dell iDRAC8 2.50.50.50",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:idrac8:2.52.52.52:*:*:*:*:*:*:*",
+      "title": "Dell iDRAC8 2.52.52.52",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

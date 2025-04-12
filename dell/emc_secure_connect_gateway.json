@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:emc_secure_connect_gateway:3.52.10.08:*:*:*:virtual:*:*:*",
+        "cpeNameId": "4E7AEF41-147A-4D95-9207-F069E8896FB8",
+        "lastModified": "2021-12-23T15:28:12.207",
+        "created": "2021-11-23T15:35:30.090",
+        "titles": [
+          {
+            "title": "Dell EMC Secure Connect Gateway 3.52.10.08 Virtual Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:emc_secure_connect_gateway:5.00.00.10:*:*:*:virtual:*:*:*",
+        "cpeNameId": "DB69CD64-37C8-49C5-8797-57293E9A00ED",
+        "lastModified": "2021-12-23T15:28:12.207",
+        "created": "2021-11-23T15:35:30.090",
+        "titles": [
+          {
+            "title": "Dell EMC Secure Connect Gateway 5.00.00.10 Virtual Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:emc_secure_connect_gateway:3.52.10.08:*:*:*:virtual:*:*:*",
+      "title": "Dell EMC Secure Connect Gateway 3.52.10.08 Virtual Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:emc_secure_connect_gateway:5.00.00.10:*:*:*:virtual:*:*:*",
+      "title": "Dell EMC Secure Connect Gateway 5.00.00.10 Virtual Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

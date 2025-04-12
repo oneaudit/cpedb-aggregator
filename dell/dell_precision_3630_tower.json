@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:dell:dell_precision_3630_tower:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5191BA94-5703-499A-A6F2-1D3BD540E107",
+        "lastModified": "2024-12-19T14:25:43.340",
+        "created": "2024-12-19T14:24:13.963",
+        "titles": [
+          {
+            "title": "Dell Precision 3630 Tower",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dell:precision_3630_tower:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4B31C65C-D678-4912-A336-D2CBB7C095B4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:dell:dell_precision_3630_tower:-:*:*:*:*:*:*:*",
+      "title": "Dell Precision 3630 Tower",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dell:precision_3630_tower:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

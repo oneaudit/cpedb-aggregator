@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:apache:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C8D361BD-6264-453A-97DB-61D64F721169",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Debian Apache",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:debian:apache:1.3.34.4:*:*:*:*:*:*:*",
+        "cpeNameId": "CF9EBE71-5547-4C3F-8D9B-552A7DB8A24C",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Debian Apache 1.3.34.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:debian:apache:-:*:*:*:*:*:*:*",
+      "title": "Debian Apache",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:debian:apache:1.3.34.4:*:*:*:*:*:*:*",
+      "title": "Debian Apache 1.3.34.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
