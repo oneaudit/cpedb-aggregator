@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hp:720s-14ikbr:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1A228ECE-179E-4E5F-98B4-39FC57EC35F6",
+        "lastModified": "2019-12-10T16:30:47.487",
+        "created": "2018-11-26T15:28:19.087",
+        "titles": [
+          {
+            "title": "HP 720S-14IKBR",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:lenovo:720s-14ikbr:-:*:*:*:*:*:*:*",
+            "cpeNameId": "51C39042-AF24-4B86-A427-357F4F8C72A2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:720s-14ikbr:-:*:*:*:*:*:*:*",
+      "title": "HP 720S-14IKBR",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:lenovo:720s-14ikbr:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

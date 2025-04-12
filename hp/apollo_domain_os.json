@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:apollo_domain_os:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3C2D96DB-5AA5-495F-9BCF-66698BA5FCCE",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "HP Apollo Domain OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:apollo_domain_os:sr10.2:*:*:*:*:*:*:*",
+        "cpeNameId": "F237AF89-0A72-41CF-AD24-48F5984EE2E0",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP Apollo Domain OS sr10.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:apollo_domain_os:sr10.3:*:*:*:*:*:*:*",
+        "cpeNameId": "DFF19E9F-B257-4C25-BC87-066D8733D35C",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP Apollo Domain OS SR10.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:apollo_domain_os:-:*:*:*:*:*:*:*",
+      "title": "HP Apollo Domain OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:apollo_domain_os:sr10.2:*:*:*:*:*:*:*",
+      "title": "HP Apollo Domain OS sr10.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:apollo_domain_os:sr10.3:*:*:*:*:*:*:*",
+      "title": "HP Apollo Domain OS SR10.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

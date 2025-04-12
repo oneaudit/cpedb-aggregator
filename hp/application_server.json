@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:application_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "55EA41D0-AC24-4A55-8B6B-4FD407C7F324",
+        "lastModified": "2008-04-01T16:10:13.577",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "HP HP Application Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:application_server:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2D837F4D-2C5F-43BE-A0E6-FA9AAD3E261E",
+        "lastModified": "2008-04-01T16:10:13.657",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP HP Application Server 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:application_server:-:*:*:*:*:*:*:*",
+      "title": "HP HP Application Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:application_server:8.0:*:*:*:*:*:*:*",
+      "title": "HP HP Application Server 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

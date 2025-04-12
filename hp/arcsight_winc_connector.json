@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:arcsight_winc_connector:-:*:*:*:*:*:*:*",
+        "cpeNameId": "76D78F0C-1EA2-4138-A6DC-A86259A70EC2",
+        "lastModified": "2020-09-11T20:59:50.007",
+        "created": "2020-09-11T20:59:50.007",
+        "titles": [
+          {
+            "title": "HP ArcSight WINC Connector",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:arcsight_winc_connector:7.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7FC1519E-4963-4D26-8EC9-CD231969037B",
+        "lastModified": "2020-09-11T20:59:50.397",
+        "created": "2020-09-11T20:59:50.397",
+        "titles": [
+          {
+            "title": "HP ArcSight WINC Connector 7.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:arcsight_winc_connector:-:*:*:*:*:*:*:*",
+      "title": "HP ArcSight WINC Connector",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:arcsight_winc_connector:7.3.0:*:*:*:*:*:*:*",
+      "title": "HP ArcSight WINC Connector 7.3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
