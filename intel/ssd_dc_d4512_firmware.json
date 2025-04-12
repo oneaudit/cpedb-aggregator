@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_d4512_firmware:et10:*:*:*:*:*:*:*",
+        "cpeNameId": "BF3D1BFF-3591-4EE9-ABDE-9D037EE5AD89",
+        "lastModified": "2021-11-22T17:25:59.927",
+        "created": "2021-11-22T14:13:21.203",
+        "titles": [
+          {
+            "title": "Intel SSD DC D4512 FIRMWARE ET10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_d4512_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "342E79CB-0187-499C-9BB9-4BEDCE7AEEAA",
+        "lastModified": "2021-11-22T17:25:59.927",
+        "created": "2021-11-22T14:13:21.203",
+        "titles": [
+          {
+            "title": "Intel SSD DC D4512 FIRMWARE ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_d4512_firmware:et10:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC D4512 FIRMWARE ET10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_d4512_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC D4512 FIRMWARE ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

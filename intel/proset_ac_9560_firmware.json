@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:proset_ac_9560_firmware:22.60:*:*:*:*:*:*:*",
+        "cpeNameId": "6BEB51EF-ABB5-47F3-8E46-2A21453B5C28",
+        "lastModified": "2022-03-03T19:34:20.547",
+        "created": "2022-03-03T19:12:49.237",
+        "titles": [
+          {
+            "title": "Intel Proset AC 9560 Firmware 22.60",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:proset_ac_9560_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "10D57A7A-5EE0-4A71-84B5-ACA152CDB0BC",
+        "lastModified": "2022-03-03T19:34:20.547",
+        "created": "2022-03-03T19:12:49.237",
+        "titles": [
+          {
+            "title": "Intel Proset AC 9560 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:proset_ac_9560_firmware:22.60:*:*:*:*:*:*:*",
+      "title": "Intel Proset AC 9560 Firmware 22.60",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:proset_ac_9560_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Proset AC 9560 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

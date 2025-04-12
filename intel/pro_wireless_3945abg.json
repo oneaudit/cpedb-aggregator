@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:pro_wireless_3945abg:-:*:*:*:*:*:*:*",
+        "cpeNameId": "86B2B1E2-EA6A-43D2-9027-F4907CDDC908",
+        "lastModified": "2007-12-06T19:32:55.137",
+        "created": "2007-12-06T19:32:55.137",
+        "titles": [
+          {
+            "title": "Intel PRO Wireless 3945ABG",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:pro_wireless_3945abg:1.1.21:*:*:*:*:*:*:*",
+        "cpeNameId": "DD2B671F-D125-47EA-B82C-14D96A1777A7",
+        "lastModified": "2008-04-08T15:05:02.797",
+        "created": "2007-12-06T19:34:00.943",
+        "titles": [
+          {
+            "title": "Intel PRO Wireless 3945ABG iwlwifi 1.1.21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:pro_wireless_3945abg:-:*:*:*:*:*:*:*",
+      "title": "Intel PRO Wireless 3945ABG",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:pro_wireless_3945abg:1.1.21:*:*:*:*:*:*:*",
+      "title": "Intel PRO Wireless 3945ABG iwlwifi 1.1.21",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

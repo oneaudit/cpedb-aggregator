@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:processor_identification_utility:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "DEE0B44B-27EB-474B-9843-678CD4233CF0",
+        "lastModified": "2019-08-27T12:00:42.207",
+        "created": "2019-08-27T12:00:42.207",
+        "titles": [
+          {
+            "title": "Intel Processor Identification Utility for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:processor_identification_utility:6.1.0731:*:*:*:*:windows:*:*",
+        "cpeNameId": "5EB1807D-B127-429E-B1F4-2FDDE15BFB87",
+        "lastModified": "2019-08-27T12:00:42.507",
+        "created": "2019-08-27T12:00:42.507",
+        "titles": [
+          {
+            "title": "Intel Processor Identification Utility 6.1.0731 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:processor_identification_utility:6.4.0603:*:*:*:*:*:*:*",
+        "cpeNameId": "61F42832-552E-4A33-BAFF-F86491302914",
+        "lastModified": "2020-11-19T22:14:07.597",
+        "created": "2020-11-19T22:14:07.597",
+        "titles": [
+          {
+            "title": "Intel Processor Identification Utility 6.4.0603",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:processor_identification_utility:-:*:*:*:*:windows:*:*",
+      "title": "Intel Processor Identification Utility for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:processor_identification_utility:6.1.0731:*:*:*:*:windows:*:*",
+      "title": "Intel Processor Identification Utility 6.1.0731 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:processor_identification_utility:6.4.0603:*:*:*:*:*:*:*",
+      "title": "Intel Processor Identification Utility 6.4.0603",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

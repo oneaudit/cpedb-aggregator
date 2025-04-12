@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:realsense_450_fa_firmware:0.25.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A12FA0F4-5F4B-47D7-8265-0ED14C91B2B9",
+        "lastModified": "2023-09-28T13:21:02.243",
+        "created": "2023-09-28T13:21:02.243",
+        "titles": [
+          {
+            "title": "Intel RealSense 450 FA (Facial Authentication) Firmware 0.25.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:realsense_450_fa_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "214D04A3-108A-4C59-AE45-93BE4964E1E7",
+        "lastModified": "2023-09-28T13:21:02.243",
+        "created": "2023-09-28T13:21:02.243",
+        "titles": [
+          {
+            "title": "Intel RealSense 450 FA (Facial Authentication) Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:realsense_450_fa_firmware:0.25.0:*:*:*:*:*:*:*",
+      "title": "Intel RealSense 450 FA (Facial Authentication) Firmware 0.25.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:realsense_450_fa_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel RealSense 450 FA (Facial Authentication) Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:server_board_s2600cw:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9C64026B-D369-4A72-94D8-D0948DA12304",
+        "lastModified": "2021-04-29T16:18:53.533",
+        "created": "2019-05-21T16:20:07.270",
+        "titles": [
+          {
+            "title": "Intel Server Board S2600CW -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:server_board_s2600cw:1.59:*:*:*:*:*:*:*",
+        "cpeNameId": "708EED63-B635-424D-8C6F-EF1B87980A64",
+        "lastModified": "2021-05-04T14:57:06.757",
+        "created": "2020-08-14T02:39:58.973",
+        "titles": [
+          {
+            "title": "Intel Server Board S2600CW 1.59",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:server_board_s2600cw:-:*:*:*:*:*:*:*",
+      "title": "Intel Server Board S2600CW -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:server_board_s2600cw:1.59:*:*:*:*:*:*:*",
+      "title": "Intel Server Board S2600CW 1.59",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

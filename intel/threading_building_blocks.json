@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:threading_building_blocks:2.2.013:*:*:*:*:*:*:*",
+        "cpeNameId": "DEB776BE-E2BB-4E7B-8424-7EB18FF61979",
+        "lastModified": "2012-09-10T23:31:07.243",
+        "created": "2012-09-07T18:37:06.350",
+        "titles": [
+          {
+            "title": "Intel Threading Building Blocks (TBB) 2.2.013",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:threading_building_blocks:2017:*:*:*:*:*:*:*",
+        "cpeNameId": "858F4F6D-D5CF-42A9-8A2E-476096910556",
+        "lastModified": "2021-06-10T18:00:22.893",
+        "created": "2017-03-15T19:23:33.160",
+        "titles": [
+          {
+            "title": "Intel Threading Building Blocks 2017",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:threading_building_blocks:2.2.013:*:*:*:*:*:*:*",
+      "title": "Intel Threading Building Blocks (TBB) 2.2.013",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:threading_building_blocks:2017:*:*:*:*:*:*:*",
+      "title": "Intel Threading Building Blocks 2017",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

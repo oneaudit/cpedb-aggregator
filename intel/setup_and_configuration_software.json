@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:setup_and_configuration_software:12.2:*:*:*:*:*:*:*",
+        "cpeNameId": "48D75B47-EE8F-4896-93EB-3ED59491D36E",
+        "lastModified": "2022-02-25T19:54:34.767",
+        "created": "2022-02-15T15:33:23.467",
+        "titles": [
+          {
+            "title": "Intel Setup And Configuration Software 12.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:setup_and_configuration_software:-:*:*:*:*:*:*:*",
+        "cpeNameId": "43799B26-329D-4F06-9214-5A122603E6B6",
+        "lastModified": "2022-02-25T19:54:34.767",
+        "created": "2022-02-15T15:33:23.467",
+        "titles": [
+          {
+            "title": "Intel Setup And Configuration Software",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:setup_and_configuration_software:12.2:*:*:*:*:*:*:*",
+      "title": "Intel Setup And Configuration Software 12.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:setup_and_configuration_software:-:*:*:*:*:*:*:*",
+      "title": "Intel Setup And Configuration Software",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

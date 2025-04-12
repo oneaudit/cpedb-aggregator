@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:system_usage_report:2.4.8989:*:*:*:*:*:*:*",
+        "cpeNameId": "F9B56563-F01B-460F-8812-96F2D350ED31",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "Intel System Usage Report (SUR) 2.4.8989",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:system_usage_report:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F14B2571-DD20-412B-BEA9-B5FE23F2A321",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "Intel System Usage Report (SUR)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:system_usage_report:2.0.1901:*:*:*:*:*:*:*",
+        "cpeNameId": "494009DF-1F33-47AB-9059-6C86D4FB42F2",
+        "lastModified": "2024-12-27T15:55:33.670",
+        "created": "2024-12-27T15:55:33.670",
+        "titles": [
+          {
+            "title": "Intel System Usage Report (SUR) 2.0.1901",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:system_usage_report:2.4.8989:*:*:*:*:*:*:*",
+      "title": "Intel System Usage Report (SUR) 2.4.8989",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:system_usage_report:-:*:*:*:*:*:*:*",
+      "title": "Intel System Usage Report (SUR)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:system_usage_report:2.0.1901:*:*:*:*:*:*:*",
+      "title": "Intel System Usage Report (SUR) 2.0.1901",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

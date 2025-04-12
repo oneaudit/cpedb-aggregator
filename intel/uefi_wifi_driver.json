@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:uefi_wifi_driver:1.2.8.21337:*:*:*:*:*:*:*",
+        "cpeNameId": "391FDDE6-6605-40F7-B3C4-69C20F20CA6A",
+        "lastModified": "2022-02-25T19:54:34.767",
+        "created": "2022-02-15T16:29:07.813",
+        "titles": [
+          {
+            "title": "Intel UEFI WiFi driver 1.2.8.21337",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:uefi_wifi_driver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F3A48FA0-269B-44F9-850B-514C7D69B926",
+        "lastModified": "2022-02-25T19:54:34.767",
+        "created": "2022-02-15T16:29:07.813",
+        "titles": [
+          {
+            "title": "Intel UEFI WiFi driver",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:uefi_wifi_driver:1.2.8.21337:*:*:*:*:*:*:*",
+      "title": "Intel UEFI WiFi driver 1.2.8.21337",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:uefi_wifi_driver:-:*:*:*:*:*:*:*",
+      "title": "Intel UEFI WiFi driver",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

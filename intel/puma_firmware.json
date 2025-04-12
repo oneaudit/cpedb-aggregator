@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:puma_firmware:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7D395642-9476-449B-9560-BC6393F4060B",
+        "lastModified": "2021-06-24T17:41:31.023",
+        "created": "2018-09-27T14:04:28.233",
+        "titles": [
+          {
+            "title": "Intel Puma Firmware 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:puma_firmware:6.0_soc:*:*:*:*:*:*:*",
+        "cpeNameId": "A79A7F73-B983-4743-A9A0-1E8FF781A609",
+        "lastModified": "2021-06-24T17:41:31.023",
+        "created": "2018-09-27T14:04:28.233",
+        "titles": [
+          {
+            "title": "Intel Puma Firmware 6.0 Soc",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:puma_firmware:7.0_soc:*:*:*:*:*:*:*",
+        "cpeNameId": "03963B85-DF90-4589-A117-FECAB8C709E7",
+        "lastModified": "2021-06-24T17:41:31.023",
+        "created": "2018-09-27T14:04:28.233",
+        "titles": [
+          {
+            "title": "Intel Puma Firmware 7.0 Soc",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:puma_firmware:5.0:*:*:*:*:*:*:*",
+      "title": "Intel Puma Firmware 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:puma_firmware:6.0_soc:*:*:*:*:*:*:*",
+      "title": "Intel Puma Firmware 6.0 Soc",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:puma_firmware:7.0_soc:*:*:*:*:*:*:*",
+      "title": "Intel Puma Firmware 7.0 Soc",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

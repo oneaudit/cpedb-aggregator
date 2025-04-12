@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:solid-state_drive_toolbox:3.3.6:*:*:*:*:*:*:*",
+        "cpeNameId": "5DE873F2-77CE-43A1-87F4-E17CB6758E57",
+        "lastModified": "2021-01-05T17:18:32.790",
+        "created": "2021-01-05T17:18:32.790",
+        "titles": [
+          {
+            "title": "Intel Solid-State Drive (SSD) Toolbox 3.3.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:solid-state_drive_toolbox:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F8C86E39-0D19-4FCD-B47D-EBC413548D6A",
+        "lastModified": "2021-06-02T15:07:04.950",
+        "created": "2021-02-19T12:11:27.110",
+        "titles": [
+          {
+            "title": "Intel Solid-state Drive Toolbox 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:solid-state_drive_toolbox:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4F5B67EC-E050-46F7-A892-D498D284AB9E",
+        "lastModified": "2021-06-02T15:07:04.950",
+        "created": "2021-02-19T12:11:27.110",
+        "titles": [
+          {
+            "title": "Intel Solid-state Drive (SSD) Toolbox",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:solid-state_drive_toolbox:3.3.6:*:*:*:*:*:*:*",
+      "title": "Intel Solid-State Drive (SSD) Toolbox 3.3.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:solid-state_drive_toolbox:1.0:*:*:*:*:*:*:*",
+      "title": "Intel Solid-state Drive Toolbox 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:solid-state_drive_toolbox:-:*:*:*:*:*:*:*",
+      "title": "Intel Solid-state Drive (SSD) Toolbox",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

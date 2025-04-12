@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:whiskey_lake_rvp:-:*:*:*:embedded:*:*:*",
+        "cpeNameId": "DF22E364-8571-4ABA-95CB-B8AF05F4B3E5",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Whiskey Lake RVP Embedded Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:whiskey_lake_rvp:-:*:*:*:server:*:*:*",
+        "cpeNameId": "7E3B8FCF-C9BE-4EB6-9C42-B91F786FEC18",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Whiskey Lake RVP Server Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:whiskey_lake_rvp:-:*:*:*:embedded:*:*:*",
+      "title": "Intel Whiskey Lake RVP Embedded Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:whiskey_lake_rvp:-:*:*:*:server:*:*:*",
+      "title": "Intel Whiskey Lake RVP Server Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

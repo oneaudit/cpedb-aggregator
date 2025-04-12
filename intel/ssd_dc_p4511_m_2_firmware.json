@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_p4511_m.2_firmware:vdv10384:*:*:*:*:*:*:*",
+        "cpeNameId": "A51CEE5E-6A94-4DB1-B29B-31AB677E65D6",
+        "lastModified": "2021-11-22T17:25:59.927",
+        "created": "2021-11-22T14:15:57.497",
+        "titles": [
+          {
+            "title": "Intel SSD DC P4511 M.2 FIRMWARE VDV10384",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_p4511_m.2_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "20CA74B5-BE84-486E-96C4-CDCF6628FC6A",
+        "lastModified": "2021-11-22T17:25:59.927",
+        "created": "2021-11-22T14:15:57.497",
+        "titles": [
+          {
+            "title": "Intel SSD DC P4511 M.2 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_p4511_m.2_firmware:vdv10384:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC P4511 M.2 FIRMWARE VDV10384",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_p4511_m.2_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC P4511 M.2 FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

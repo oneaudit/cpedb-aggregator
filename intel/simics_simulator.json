@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:simics_simulator:1.7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "5FE75005-D539-45B6-BFEC-DC20151ECB14",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "Intel Simics Simulator 1.7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:simics_simulator:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B706E636-C4CB-46D8-BF9E-4D040561BA0C",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "Intel Simics Simulator -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:simics_simulator:1.7.2:*:*:*:*:*:*:*",
+      "title": "Intel Simics Simulator 1.7.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:simics_simulator:-:*:*:*:*:*:*:*",
+      "title": "Intel Simics Simulator -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

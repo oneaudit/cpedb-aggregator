@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_p4510_edsff_firmware:vdv10284:*:*:*:*:*:*:*",
+        "cpeNameId": "C8D7AF90-2E3A-4A15-AF8A-5C34AC51AE5F",
+        "lastModified": "2021-11-22T17:25:59.927",
+        "created": "2021-11-22T14:15:23.047",
+        "titles": [
+          {
+            "title": "Intel SSD DC P4510 EDSFF FIRMWARE VDV10284",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_p4510_edsff_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5CF1A669-2D09-4627-9DAD-562A9F19B8A3",
+        "lastModified": "2021-11-22T17:25:59.927",
+        "created": "2021-11-22T14:15:23.047",
+        "titles": [
+          {
+            "title": "Intel SSD DC P4510 EDSFF FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_p4510_edsff_firmware:vdv10284:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC P4510 EDSFF FIRMWARE VDV10284",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_p4510_edsff_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC P4510 EDSFF FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

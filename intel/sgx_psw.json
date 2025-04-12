@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:sgx_psw:2.12.100.4:*:*:*:*:windows:*:*",
+        "cpeNameId": "93A4B724-FA65-4C0E-AA59-1A3B432BF334",
+        "lastModified": "2021-07-02T14:09:23.957",
+        "created": "2021-06-28T14:37:40.237",
+        "titles": [
+          {
+            "title": "Intel SGX PSW 2.12.100.4 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:sgx_psw:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "7183351E-3CBE-4029-B993-F2F213822FDE",
+        "lastModified": "2021-07-02T14:09:23.957",
+        "created": "2021-06-28T14:37:40.237",
+        "titles": [
+          {
+            "title": "Intel SGX PSW for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:sgx_psw:2.13.100.4:*:*:*:*:linux:*:*",
+        "cpeNameId": "357538A8-3C5A-4030-B8A0-A2D5505180AF",
+        "lastModified": "2021-07-02T14:09:23.957",
+        "created": "2021-06-28T14:37:49.093",
+        "titles": [
+          {
+            "title": "Intel SGX PSW 2.13.100.4 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:sgx_psw:-:*:*:*:*:linux:*:*",
+        "cpeNameId": "22432666-B055-4BC3-BD7A-CD405243DC24",
+        "lastModified": "2021-07-02T14:09:23.957",
+        "created": "2021-06-28T14:37:49.093",
+        "titles": [
+          {
+            "title": "Intel SGX PSW for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:sgx_psw:2.12.100.4:*:*:*:*:windows:*:*",
+      "title": "Intel SGX PSW 2.12.100.4 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:sgx_psw:-:*:*:*:*:windows:*:*",
+      "title": "Intel SGX PSW for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:sgx_psw:2.13.100.4:*:*:*:*:linux:*:*",
+      "title": "Intel SGX PSW 2.13.100.4 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:sgx_psw:-:*:*:*:*:linux:*:*",
+      "title": "Intel SGX PSW for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:syscfg:14.0:*:*:*:*:*:*:*",
+        "cpeNameId": "70DBF0CE-79F1-49B6-AA69-35F218FB4CE1",
+        "lastModified": "2021-04-29T17:01:28.277",
+        "created": "2018-06-18T14:32:19.170",
+        "titles": [
+          {
+            "title": "Intel System Configuration Utility (SYSCFG) 14.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:syscfg:13.1:*:*:*:*:*:*:*",
+        "cpeNameId": "B501E652-EF28-403E-B85E-E04C922DEEE2",
+        "lastModified": "2021-04-29T17:01:28.277",
+        "created": "2018-06-18T14:32:19.170",
+        "titles": [
+          {
+            "title": "Intel System Configuration Utility (SYSCFG) 13.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:syscfg:12.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F3FDC557-9D12-4B5B-A1F9-412022516350",
+        "lastModified": "2021-04-29T17:01:28.277",
+        "created": "2018-06-18T14:32:19.170",
+        "titles": [
+          {
+            "title": "Intel System Configuration Utility (SYSCFG) 12.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:syscfg:14.0:*:*:*:*:*:*:*",
+      "title": "Intel System Configuration Utility (SYSCFG) 14.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:syscfg:13.1:*:*:*:*:*:*:*",
+      "title": "Intel System Configuration Utility (SYSCFG) 13.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:syscfg:12.0:*:*:*:*:*:*:*",
+      "title": "Intel System Configuration Utility (SYSCFG) 12.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

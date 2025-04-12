@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:pentuim:-:*:*:*:*:*:*:*",
+        "cpeNameId": "66FEA9A1-981C-4E2A-B052-6C1FC769FC0F",
+        "lastModified": "2009-10-19T17:46:12.063",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Intel Pentium",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:pentium:-:*:*:*:*:*:*:*",
+            "cpeNameId": "ECDB6322-22A5-4BBB-89F1-B6FD443E9A08"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:pentuim:-:*:*:*:*:*:*:*",
+      "title": "Intel Pentium",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:pentium:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

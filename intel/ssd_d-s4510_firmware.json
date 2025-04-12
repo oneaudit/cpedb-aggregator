@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_d-s4510_firmware:xcv10140:*:*:*:*:*:*:*",
+        "cpeNameId": "64EAAEDD-8ABE-488C-BF3A-B421D49B35B7",
+        "lastModified": "2021-11-22T17:25:59.927",
+        "created": "2021-11-22T14:10:31.810",
+        "titles": [
+          {
+            "title": "Intel SSD D-S4510 FIRMWARE XCV10140",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_d-s4510_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C0BE6D36-2CE8-43DE-8FAD-5593672B3701",
+        "lastModified": "2021-11-22T17:25:59.927",
+        "created": "2021-11-22T14:10:31.810",
+        "titles": [
+          {
+            "title": "Intel SSD D-S4510 FIRMWARE ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ssd_d-s4510_firmware:xcv10140:*:*:*:*:*:*:*",
+      "title": "Intel SSD D-S4510 FIRMWARE XCV10140",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ssd_d-s4510_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel SSD D-S4510 FIRMWARE ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

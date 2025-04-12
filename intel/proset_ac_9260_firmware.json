@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:proset_ac_9260_firmware:22.60:*:*:*:*:*:*:*",
+        "cpeNameId": "DC766DF9-CC6F-4DF2-8EC0-238AA5BA428C",
+        "lastModified": "2022-03-03T19:34:20.547",
+        "created": "2022-03-03T19:14:35.867",
+        "titles": [
+          {
+            "title": "Intel Proset AC 9260 Firmware 22.60",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:proset_ac_9260_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3BDC1ACA-D8DB-4CD8-AA74-AC1CB99F23D0",
+        "lastModified": "2022-03-03T19:34:20.547",
+        "created": "2022-03-03T19:14:35.867",
+        "titles": [
+          {
+            "title": "Intel Proset AC 9260 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:proset_ac_9260_firmware:22.60:*:*:*:*:*:*:*",
+      "title": "Intel Proset AC 9260 Firmware 22.60",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:proset_ac_9260_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Proset AC 9260 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

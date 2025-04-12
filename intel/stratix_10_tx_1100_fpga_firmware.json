@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:stratix_10_tx_1100_fpga_firmware:2.7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0FF5386A-F96E-47D0-8900-A3D11E0E4868",
+        "lastModified": "2023-08-05T03:07:55.250",
+        "created": "2023-05-18T18:29:29.777",
+        "titles": [
+          {
+            "title": "Intel Stratix 10 TX 1100 FPGA  Firmware 2.7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:stratix_10_tx_1100_fpga_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "18CE6343-5ADA-4494-8CF7-1831B27366A5",
+        "lastModified": "2023-08-05T03:07:55.250",
+        "created": "2023-05-18T18:29:29.777",
+        "titles": [
+          {
+            "title": "Intel Stratix 10 TX 1100 FPGA Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:stratix_10_tx_1100_fpga_firmware:2.8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "272BF230-BC18-4C9A-A10E-7ACD4CACD633",
+        "lastModified": "2023-11-27T00:29:13.640",
+        "created": "2023-11-27T00:29:13.640",
+        "titles": [
+          {
+            "title": "Intel Stratix 10 Tx 1100 FPGA Firmware 2.8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:stratix_10_tx_1100_fpga_firmware:2.7.0:*:*:*:*:*:*:*",
+      "title": "Intel Stratix 10 TX 1100 FPGA  Firmware 2.7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:stratix_10_tx_1100_fpga_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Stratix 10 TX 1100 FPGA Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:stratix_10_tx_1100_fpga_firmware:2.8.1:*:*:*:*:*:*:*",
+      "title": "Intel Stratix 10 Tx 1100 FPGA Firmware 2.8.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

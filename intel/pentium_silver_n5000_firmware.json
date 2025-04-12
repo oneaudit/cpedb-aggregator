@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:pentium_silver_n5000_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "347A06D1-2DD6-44F5-B2F9-FF83DDFB89C0",
+        "lastModified": "2020-01-13T14:15:12.247",
+        "created": "2020-01-13T14:15:12.247",
+        "titles": [
+          {
+            "title": "Intel Pentium Silver N5000 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:pentium_silver_n5000_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "D2179769-9FCA-49BD-89FC-105107CF5017",
+        "lastModified": "2020-01-13T14:15:12.733",
+        "created": "2020-01-13T14:15:12.733",
+        "titles": [
+          {
+            "title": "Intel Pentium Silver N5000 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:pentium_silver_n5000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AA15340E-3AA3-4C05-A6EC-FE01A8EF472A",
+        "lastModified": "2020-09-30T19:36:29.127",
+        "created": "2020-09-30T19:36:29.127",
+        "titles": [
+          {
+            "title": "Intel Pentium Silver N5000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:pentium_silver_n5000_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Pentium Silver N5000 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:pentium_silver_n5000_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Pentium Silver N5000 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:pentium_silver_n5000_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Pentium Silver N5000 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

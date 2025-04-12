@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:qs77_chipset:-:*:*:*:*:*:*:*",
+        "cpeNameId": "81D7448A-AF37-4661-890C-A46910A2D1ED",
+        "lastModified": "2014-07-15T19:28:32.127",
+        "created": "2013-09-13T16:49:49.200",
+        "titles": [
+          {
+            "title": "Intel QS77 chipset",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:qs77_chipset:-:*:*:*:express:*:*:*",
+        "cpeNameId": "7F453BFC-3F1C-48B1-8C48-B46F77FE03D5",
+        "lastModified": "2014-07-15T19:28:32.237",
+        "created": "2013-09-13T16:49:49.317",
+        "titles": [
+          {
+            "title": "Intel QS77 chipset express",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:qs77_chipset:-:*:*:*:*:*:*:*",
+      "title": "Intel QS77 chipset",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:qs77_chipset:-:*:*:*:express:*:*:*",
+      "title": "Intel QS77 chipset express",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

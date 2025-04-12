@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:server_board_s2600kp_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1760E92A-5EE7-4DB7-BDDC-4EE00CFAFDA4",
+        "lastModified": "2021-05-04T14:57:06.757",
+        "created": "2019-05-21T16:20:07.270",
+        "titles": [
+          {
+            "title": "Intel Server Board S2600kp Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:server_board_s2600kp_firmware:1.59:*:*:*:*:*:*:*",
+        "cpeNameId": "3804D47B-FD40-4C4A-904F-8B754ACD55BC",
+        "lastModified": "2021-05-04T14:57:06.757",
+        "created": "2020-08-14T02:39:59.833",
+        "titles": [
+          {
+            "title": "Intel Server Board S2600KP Firmware 1.59",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:server_board_s2600kp_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Server Board S2600kp Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:server_board_s2600kp_firmware:1.59:*:*:*:*:*:*:*",
+      "title": "Intel Server Board S2600KP Firmware 1.59",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

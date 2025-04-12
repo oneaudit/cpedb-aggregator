@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:sgx_dcap:1.10.100.4:*:*:*:*:linux:*:*",
+        "cpeNameId": "36FCD201-947E-4D77-AD94-09EED6DD793F",
+        "lastModified": "2021-07-02T14:09:23.957",
+        "created": "2021-06-28T14:37:23.423",
+        "titles": [
+          {
+            "title": "Intel SGX DCAP 1.10.100.4 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:sgx_dcap:-:*:*:*:*:linux:*:*",
+        "cpeNameId": "FF8EB74E-CBBB-4084-B7A9-169046B891AF",
+        "lastModified": "2021-07-02T14:09:23.957",
+        "created": "2021-06-28T14:37:23.423",
+        "titles": [
+          {
+            "title": "Intel SGX DCAP for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:sgx_dcap:1.10.100.4:*:*:*:*:windows:*:*",
+        "cpeNameId": "5A3CF568-B501-4D40-B0B2-AA0CA4D0B2F6",
+        "lastModified": "2021-07-02T14:09:23.957",
+        "created": "2021-06-28T14:37:31.120",
+        "titles": [
+          {
+            "title": "Intel SGX DCAP 1.10.100.4 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:sgx_dcap:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "04061DFB-AF65-4A23-9692-C1548A0FBC22",
+        "lastModified": "2021-07-02T14:09:23.957",
+        "created": "2021-06-28T14:37:31.120",
+        "titles": [
+          {
+            "title": "Intel SGX DCAP for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:sgx_dcap:1.10.100.4:*:*:*:*:linux:*:*",
+      "title": "Intel SGX DCAP 1.10.100.4 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:sgx_dcap:-:*:*:*:*:linux:*:*",
+      "title": "Intel SGX DCAP for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:sgx_dcap:1.10.100.4:*:*:*:*:windows:*:*",
+      "title": "Intel SGX DCAP 1.10.100.4 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:sgx_dcap:-:*:*:*:*:windows:*:*",
+      "title": "Intel SGX DCAP for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

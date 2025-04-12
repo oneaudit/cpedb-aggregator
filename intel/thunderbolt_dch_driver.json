@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:thunderbolt_dch_driver:72:*:*:*:*:windows:*:*",
+        "cpeNameId": "816ACAE2-1157-484B-A8BB-C692EA83AC38",
+        "lastModified": "2020-11-20T21:39:50.793",
+        "created": "2020-11-20T21:39:50.793",
+        "titles": [
+          {
+            "title": "Intel Thunderbolt DCH Driver 72 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:thunderbolt_dch_driver:1.41.1054.0:*:*:*:*:windows:*:*",
+        "cpeNameId": "70871C0C-1C1E-41CE-8AD6-314872915983",
+        "lastModified": "2021-11-30T21:26:27.933",
+        "created": "2021-11-19T17:59:32.653",
+        "titles": [
+          {
+            "title": "Intel Thunderbolt DCH Driver 1.41.1054.0 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:thunderbolt_dch_driver:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "31EF86D2-9983-47E2-A79C-E711004C00F5",
+        "lastModified": "2021-11-30T21:26:27.933",
+        "created": "2021-11-19T17:59:32.653",
+        "titles": [
+          {
+            "title": "Intel Thunderbolt DCH Driver for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:thunderbolt_dch_driver:72:*:*:*:*:windows:*:*",
+      "title": "Intel Thunderbolt DCH Driver 72 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:thunderbolt_dch_driver:1.41.1054.0:*:*:*:*:windows:*:*",
+      "title": "Intel Thunderbolt DCH Driver 1.41.1054.0 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:thunderbolt_dch_driver:-:*:*:*:*:windows:*:*",
+      "title": "Intel Thunderbolt DCH Driver for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:realsense_d435i_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BAD90F41-7362-47E9-9269-DBE6A215156C",
+        "lastModified": "2021-05-04T15:14:31.427",
+        "created": "2020-08-14T14:46:24.717",
+        "titles": [
+          {
+            "title": "Intel RealSense D435i Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:realsense_d435i_firmware:6.1.160.14:*:*:*:*:*:*:*",
+        "cpeNameId": "386525C0-50F9-4B48-A218-42A15F1B0925",
+        "lastModified": "2021-05-04T15:14:31.427",
+        "created": "2020-08-14T14:46:24.717",
+        "titles": [
+          {
+            "title": "Intel RealSense D435i Firmware 6.1.160.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:realsense_d435i_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel RealSense D435i Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:realsense_d435i_firmware:6.1.160.14:*:*:*:*:*:*:*",
+      "title": "Intel RealSense D435i Firmware 6.1.160.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

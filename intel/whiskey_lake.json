@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:whiskey_lake:-:*:*:*:client:*:*:*",
+        "cpeNameId": "FB3549E2-F776-4D57-AFD5-28BCF966C9E3",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Whiskey Lake Client Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:whiskey_lake:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DC228F83-9F7A-4434-B311-0378A0D04B30",
+        "lastModified": "2021-12-27T20:04:40.833",
+        "created": "2021-11-09T17:32:35.897",
+        "titles": [
+          {
+            "title": "Intel Whiskey Lake",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:whiskey_lake:-:*:*:*:client:*:*:*",
+      "title": "Intel Whiskey Lake Client Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:whiskey_lake:-:*:*:*:*:*:*:*",
+      "title": "Intel Whiskey Lake",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_p4800x_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8BFD930D-592D-43A2-ADBF-1A2FAEFFF51B",
+        "lastModified": "2021-05-04T14:21:04.200",
+        "created": "2020-11-17T14:31:12.937",
+        "titles": [
+          {
+            "title": "Intel SSD DC P4800X Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_p4800x_firmware:e2010485:*:*:*:*:*:*:*",
+        "cpeNameId": "31013213-827B-4F6B-8924-17CFDB0B7B33",
+        "lastModified": "2021-05-04T14:21:04.200",
+        "created": "2020-11-17T14:31:12.937",
+        "titles": [
+          {
+            "title": "Intel SSD DC P4800X Firmware E2010485",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_p4800x_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC P4800X Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_p4800x_firmware:e2010485:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC P4800X Firmware E2010485",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

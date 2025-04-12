@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_p4618_firmware:vdv10170:*:*:*:*:*:*:*",
+        "cpeNameId": "F89F15B6-E6A4-4806-BED2-868FBFCEEAFC",
+        "lastModified": "2020-06-26T15:22:56.897",
+        "created": "2020-06-26T15:22:56.897",
+        "titles": [
+          {
+            "title": "Intel SSD DC P4618 Firmware VDV10170",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_p4618_firmware:vdv10182:*:*:*:*:*:*:*",
+        "cpeNameId": "3A1D610A-5EC4-4769-A853-DBE4AE85E86F",
+        "lastModified": "2021-11-22T17:25:59.927",
+        "created": "2021-11-22T14:16:41.847",
+        "titles": [
+          {
+            "title": "Intel SSD DC P4618 FIRMWARE VDV10182",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_p4618_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "502F425F-CC0F-4349-B07B-A5E5B4670F55",
+        "lastModified": "2021-11-22T17:25:59.927",
+        "created": "2021-11-22T14:16:41.847",
+        "titles": [
+          {
+            "title": "Intel SSD DC P4618 FIRMWARE ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_p4618_firmware:vdv10170:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC P4618 Firmware VDV10170",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_p4618_firmware:vdv10182:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC P4618 FIRMWARE VDV10182",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_p4618_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC P4618 FIRMWARE ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

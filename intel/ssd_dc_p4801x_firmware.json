@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_p4801x_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "714DAE43-572B-4D8F-8F76-2F69822B31B4",
+        "lastModified": "2021-05-04T14:21:04.200",
+        "created": "2020-11-17T14:31:13.920",
+        "titles": [
+          {
+            "title": "Intel SSD DC P4801X Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:ssd_dc_p4801x_firmware:e2010485:*:*:*:*:*:*:*",
+        "cpeNameId": "ECA12BE2-3DCB-4C15-88D3-B628B240AC54",
+        "lastModified": "2021-05-04T14:21:04.200",
+        "created": "2020-11-17T14:31:13.920",
+        "titles": [
+          {
+            "title": "Intel SSD DC P4801X Firmware E2010485",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_p4801x_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC P4801X Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:ssd_dc_p4801x_firmware:e2010485:*:*:*:*:*:*:*",
+      "title": "Intel SSD DC P4801X Firmware E2010485",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

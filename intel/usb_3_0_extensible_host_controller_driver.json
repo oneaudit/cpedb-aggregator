@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:usb_3.0_extensible_host_controller_driver:5.0.4.43v2:*:*:*:*:*:*:*",
+        "cpeNameId": "B8D9619A-0B0B-4BDA-8E1B-C018F3106567",
+        "lastModified": "2021-04-29T17:14:52.653",
+        "created": "2019-02-19T17:59:32.387",
+        "titles": [
+          {
+            "title": "Intel USB 3.0 Extensible Host Controller Driver 5.0.4.43v2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:usb_3.0_extensible_host_controller_driver:5.0.4.43:*:*:*:*:*:*:*",
+        "cpeNameId": "09FAF3A6-69B9-4ABD-BE1C-CDBF60960625",
+        "lastModified": "2021-04-29T17:14:52.653",
+        "created": "2019-02-19T17:59:32.387",
+        "titles": [
+          {
+            "title": "Intel USB 3.0 Extensible Host Controller Driver 5.0.4.43",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:usb_3.0_extensible_host_controller_driver:5.0.4.42:*:*:*:*:*:*:*",
+        "cpeNameId": "FD4455F9-6149-4C26-96D6-A9D0E6687B98",
+        "lastModified": "2021-04-29T17:14:52.653",
+        "created": "2019-02-19T17:59:32.387",
+        "titles": [
+          {
+            "title": "Intel USB 3.0 Extensible Host Controller Driver 5.0.4.42",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:usb_3.0_extensible_host_controller_driver:5.0.4.43v2:*:*:*:*:*:*:*",
+      "title": "Intel USB 3.0 Extensible Host Controller Driver 5.0.4.43v2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:usb_3.0_extensible_host_controller_driver:5.0.4.43:*:*:*:*:*:*:*",
+      "title": "Intel USB 3.0 Extensible Host Controller Driver 5.0.4.43",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:usb_3.0_extensible_host_controller_driver:5.0.4.42:*:*:*:*:*:*:*",
+      "title": "Intel USB 3.0 Extensible Host Controller Driver 5.0.4.42",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

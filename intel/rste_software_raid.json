@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:rste_software_raid:-:*:*:*:*:*:intel_server_board_m10jnp2sb:*",
+        "cpeNameId": "EA3CF759-137F-415C-9747-06A4CEBBE4EC",
+        "lastModified": "2021-06-02T14:59:34.687",
+        "created": "2020-08-14T10:26:50.207",
+        "titles": [
+          {
+            "title": "Intel RSTe Software RAID on Intel Server Board M10JNP2SB",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:rste_software_raid:4.7.0.1119:*:*:*:*:*:intel_server_board_m10jnp2sb:*",
+        "cpeNameId": "96F6D605-36E6-4E25-B7F6-2EDFC490896F",
+        "lastModified": "2021-06-02T14:59:34.687",
+        "created": "2020-08-14T10:26:50.207",
+        "titles": [
+          {
+            "title": "Intel RSTe Software RAID 4.7.0.1119 on Intel Server Board M10JNP2SB",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:rste_software_raid:-:*:*:*:*:*:intel_server_board_m10jnp2sb:*",
+      "title": "Intel RSTe Software RAID on Intel Server Board M10JNP2SB",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:rste_software_raid:4.7.0.1119:*:*:*:*:*:intel_server_board_m10jnp2sb:*",
+      "title": "Intel RSTe Software RAID 4.7.0.1119 on Intel Server Board M10JNP2SB",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

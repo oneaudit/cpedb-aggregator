@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:pentium_silver:n5000:*:*:*:*:*:*:*",
+        "cpeNameId": "A96347DB-6F20-4B14-833E-F77EB995EE4B",
+        "lastModified": "2023-09-25T18:36:50.273",
+        "created": "2018-06-27T14:23:42.180",
+        "titles": [
+          {
+            "title": "Intel Pentium Silver N5000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:pentium_silver_n5000:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D09BC263-7FB0-4447-868F-6C4C6307B371"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:pentium_silver:j5005:*:*:*:*:*:*:*",
+        "cpeNameId": "D0D09A73-D1F1-47D2-8C52-2A4FA407A65B",
+        "lastModified": "2023-09-25T18:36:50.273",
+        "created": "2018-06-27T14:23:42.180",
+        "titles": [
+          {
+            "title": "Intel Pentium Silver J5005",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:pentium_silver_j5005:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BB135902-53C2-44D6-97C2-EC94FB8F809F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:pentium_silver:n5000:*:*:*:*:*:*:*",
+      "title": "Intel Pentium Silver N5000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:pentium_silver_n5000:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:pentium_silver:j5005:*:*:*:*:*:*:*",
+      "title": "Intel Pentium Silver J5005",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:pentium_silver_j5005:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

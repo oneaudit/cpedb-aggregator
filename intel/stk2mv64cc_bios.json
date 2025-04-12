@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:stk2mv64cc_bios:ccsklm5v.86a.0046.2017.0105.1608:*:*:*:*:*:*:*",
+        "cpeNameId": "B5B39686-7416-45F3-9151-CE1349869B5E",
+        "lastModified": "2021-06-24T17:41:31.023",
+        "created": "2017-04-11T02:54:42.233",
+        "titles": [
+          {
+            "title": "Intel STK2MV64CC BIOS CCSKLM5V.86A.0046.2017.0105.1608",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:stk2mv64cc_bios:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6DE48BC9-C50B-4FC7-96B7-D91A57D1CD93",
+        "lastModified": "2021-06-24T17:41:31.023",
+        "created": "2017-07-31T17:12:02.940",
+        "titles": [
+          {
+            "title": "Intel Stk2mv64cc Bios",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:stk2mv64cc_bios:ccsklm5v.86a.0046.2017.0105.1608:*:*:*:*:*:*:*",
+      "title": "Intel STK2MV64CC BIOS CCSKLM5V.86A.0046.2017.0105.1608",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:stk2mv64cc_bios:-:*:*:*:*:*:*:*",
+      "title": "Intel Stk2mv64cc Bios",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

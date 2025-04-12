@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:pentium_j4205_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "66534E16-FDAD-41D9-A747-336979B8DBAD",
+        "lastModified": "2019-12-06T13:05:40.057",
+        "created": "2019-12-06T13:05:40.057",
+        "titles": [
+          {
+            "title": "Intel Pentium J4205 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:pentium_j4205_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "36D761D2-CC52-4254-B62B-E979A12DAB1B",
+        "lastModified": "2020-01-13T14:15:09.653",
+        "created": "2020-01-13T14:15:09.653",
+        "titles": [
+          {
+            "title": "Intel Pentium J4205 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:pentium_j4205_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "163A5C01-4633-48A9-B204-F5F310F62C3D",
+        "lastModified": "2020-01-13T14:15:10.280",
+        "created": "2020-01-13T14:15:10.280",
+        "titles": [
+          {
+            "title": "Intel Pentium J4205 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:pentium_j4205_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Pentium J4205 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:pentium_j4205_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Pentium J4205 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:pentium_j4205_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Pentium J4205 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

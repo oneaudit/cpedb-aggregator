@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:stk2mv64cc_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7B9AB20E-CC22-480C-8173-C5ED839B6B93",
+        "lastModified": "2021-06-24T17:41:31.023",
+        "created": "2019-12-30T16:12:22.807",
+        "titles": [
+          {
+            "title": "Intel STK2MV64CC Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:stk2mv64cc_firmware:0061:*:*:*:*:*:*:*",
+        "cpeNameId": "FBCA88C6-E07C-4132-86AE-9E025AAE9841",
+        "lastModified": "2021-06-24T17:41:31.023",
+        "created": "2019-12-30T16:12:22.807",
+        "titles": [
+          {
+            "title": "Intel STK2MV64CC Firmware 0061",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:stk2mv64cc_firmware:ccsklm5v.86a:*:*:*:*:*:*:*",
+        "cpeNameId": "A57F331B-01BA-49C3-B27E-F181F0177640",
+        "lastModified": "2021-06-24T17:41:31.023",
+        "created": "2020-08-14T15:46:13.013",
+        "titles": [
+          {
+            "title": "Intel Stk2mv64cc Firmware Ccsklm5v.86a",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:stk2mv64cc_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel STK2MV64CC Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:stk2mv64cc_firmware:0061:*:*:*:*:*:*:*",
+      "title": "Intel STK2MV64CC Firmware 0061",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:stk2mv64cc_firmware:ccsklm5v.86a:*:*:*:*:*:*:*",
+      "title": "Intel Stk2mv64cc Firmware Ccsklm5v.86a",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

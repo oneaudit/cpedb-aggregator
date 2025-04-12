@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:system_studio:2017:*:*:*:*:*:*:*",
+        "cpeNameId": "6B76F8CF-9F8A-4754-875E-E8BF5444F7BD",
+        "lastModified": "2021-06-10T18:00:22.893",
+        "created": "2017-03-15T19:23:33.160",
+        "titles": [
+          {
+            "title": "Intel System Studio 2017",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:system_studio:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F43E3BCA-686A-4E44-AF6C-087B0AB432E3",
+        "lastModified": "2022-02-25T19:54:34.767",
+        "created": "2021-12-16T19:46:12.630",
+        "titles": [
+          {
+            "title": "Intel System Studio",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:system_studio:2017:*:*:*:*:*:*:*",
+      "title": "Intel System Studio 2017",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:system_studio:-:*:*:*:*:*:*:*",
+      "title": "Intel System Studio",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

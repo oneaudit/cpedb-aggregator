@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:serial_io_driver_for_intel_nuc_11_gen:30.100.2104.1:*:*:*:*:*:*:*",
+        "cpeNameId": "EE3E4ADC-6324-4958-9ED3-E19BAFB71449",
+        "lastModified": "2021-12-13T19:29:36.160",
+        "created": "2021-11-22T18:01:19.970",
+        "titles": [
+          {
+            "title": "Intel Serial IO Driver for Intel NUC 11 Gen 30.100.2104.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:serial_io_driver_for_intel_nuc_11_gen:-:*:*:*:*:*:*:*",
+        "cpeNameId": "680FDA2B-F020-46B7-9FAD-4E229F196A66",
+        "lastModified": "2021-12-13T19:29:36.160",
+        "created": "2021-11-22T18:01:19.970",
+        "titles": [
+          {
+            "title": "Intel Serial IO Driver for Intel NUC 11 Gen",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:serial_io_driver_for_intel_nuc_11_gen:30.100.2104.1:*:*:*:*:*:*:*",
+      "title": "Intel Serial IO Driver for Intel NUC 11 Gen 30.100.2104.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:serial_io_driver_for_intel_nuc_11_gen:-:*:*:*:*:*:*:*",
+      "title": "Intel Serial IO Driver for Intel NUC 11 Gen",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:quickassist_technology_driver:2.0:*:*:*:*:windows:*:*",
+        "cpeNameId": "3C34587E-CA17-4079-9E1C-4800211AEDD1",
+        "lastModified": "2023-12-01T13:06:12.100",
+        "created": "2023-12-01T13:06:12.100",
+        "titles": [
+          {
+            "title": "Intel QuickAssist Technology Driver 2.0 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:intel:quickassist_technology_driver:1.0:*:*:*:*:windows:*:*",
+        "cpeNameId": "186D5AF9-C654-4D4B-A62A-B591D1931D3E",
+        "lastModified": "2023-12-01T13:06:12.100",
+        "created": "2023-12-01T13:06:12.100",
+        "titles": [
+          {
+            "title": "Intel QuickAssist Technology Driver 1.0 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:quickassist_technology_driver:2.0:*:*:*:*:windows:*:*",
+      "title": "Intel QuickAssist Technology Driver 2.0 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:intel:quickassist_technology_driver:1.0:*:*:*:*:windows:*:*",
+      "title": "Intel QuickAssist Technology Driver 1.0 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:pentium_n4200_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "1AE3F9F4-B393-471B-991A-19DAB61BF81F",
+        "lastModified": "2020-01-13T14:15:10.623",
+        "created": "2020-01-13T14:15:10.623",
+        "titles": [
+          {
+            "title": "Intel Pentium N4200 Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:pentium_n4200_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+        "cpeNameId": "22D64324-684D-42A5-B2D1-AA30F13C75B1",
+        "lastModified": "2020-01-13T14:15:11.107",
+        "created": "2020-01-13T14:15:11.107",
+        "titles": [
+          {
+            "title": "Intel Pentium N4200 Firmware 26.20.100.6859 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:pentium_n4200_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A765735A-88BE-4B27-BC1F-C95537E7195F",
+        "lastModified": "2021-11-22T17:25:59.927",
+        "created": "2021-11-22T12:31:28.190",
+        "titles": [
+          {
+            "title": "Intel Pentium N4200 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:pentium_n4200_firmware:-:*:*:*:*:windows:*:*",
+      "title": "Intel Pentium N4200 Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:pentium_n4200_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+      "title": "Intel Pentium N4200 Firmware 26.20.100.6859 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:pentium_n4200_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Pentium N4200 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

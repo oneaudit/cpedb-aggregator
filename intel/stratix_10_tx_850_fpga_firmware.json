@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:stratix_10_tx_850_fpga_firmware:2.7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D7B9DCCB-EF81-4B1C-858F-CF8BFA7D4142",
+        "lastModified": "2023-08-05T03:07:55.250",
+        "created": "2023-05-18T18:28:22.103",
+        "titles": [
+          {
+            "title": "Intel Stratix 10 TX 850 FPGA Firmware 2.7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:stratix_10_tx_850_fpga_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "311081B1-BE95-46FA-B23E-B9898A147383",
+        "lastModified": "2023-08-05T03:07:55.250",
+        "created": "2023-05-18T18:28:22.103",
+        "titles": [
+          {
+            "title": "Intel Stratix 10 TX 850 FPGA Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:intel:stratix_10_tx_850_fpga_firmware:2.8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "D3B66BB9-BD95-4777-8BC7-292042512BB2",
+        "lastModified": "2023-11-27T00:29:13.640",
+        "created": "2023-11-27T00:29:13.640",
+        "titles": [
+          {
+            "title": "Intel Stratix 10 Tx 850 FPGA Firmware 2.8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:intel:stratix_10_tx_850_fpga_firmware:2.7.0:*:*:*:*:*:*:*",
+      "title": "Intel Stratix 10 TX 850 FPGA Firmware 2.7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:stratix_10_tx_850_fpga_firmware:-:*:*:*:*:*:*:*",
+      "title": "Intel Stratix 10 TX 850 FPGA Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:intel:stratix_10_tx_850_fpga_firmware:2.8.1:*:*:*:*:*:*:*",
+      "title": "Intel Stratix 10 Tx 850 FPGA Firmware 2.8.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

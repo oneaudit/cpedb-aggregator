@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:pentium_j:j2850:*:*:*:*:*:*:*",
+        "cpeNameId": "23DECA71-B2AF-4344-B327-0BC7FDE2B186",
+        "lastModified": "2023-09-25T18:36:50.273",
+        "created": "2018-02-07T12:27:37.737",
+        "titles": [
+          {
+            "title": "Intel Pentium J J2850",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:pentium_j2850:-:*:*:*:*:*:*:*",
+            "cpeNameId": "11F4C78B-83D2-40AC-B846-CE4F8323E6D9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:pentium_j:j2900:*:*:*:*:*:*:*",
+        "cpeNameId": "49F68338-D837-438F-B8D3-37962BD978A5",
+        "lastModified": "2023-09-25T18:36:50.273",
+        "created": "2018-02-07T12:27:38.283",
+        "titles": [
+          {
+            "title": "Intel Pentium J J2900",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:pentium_j2900:-:*:*:*:*:*:*:*",
+            "cpeNameId": "35E6DDCC-C487-4CF1-A5F5-CDCEEDE2B7C2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:pentium_j:j3710:*:*:*:*:*:*:*",
+        "cpeNameId": "BFDC3C1F-5F40-44A4-B94A-096C9EA6991F",
+        "lastModified": "2023-09-25T18:36:50.273",
+        "created": "2018-02-07T12:27:38.830",
+        "titles": [
+          {
+            "title": "Intel Pentium J J3710",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:pentium_j3710:-:*:*:*:*:*:*:*",
+            "cpeNameId": "92C182BC-61EF-45D6-BD30-3982C4D12FAA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:intel:pentium_j:j4205:*:*:*:*:*:*:*",
+        "cpeNameId": "16E9DC03-976D-4D4D-8CBB-B7D17BCA3F54",
+        "lastModified": "2023-09-25T18:36:50.273",
+        "created": "2018-02-07T12:27:39.377",
+        "titles": [
+          {
+            "title": "Intel Pentium J J4205",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:intel:pentium_j4205:-:*:*:*:*:*:*:*",
+            "cpeNameId": "859B664B-4663-4ABC-8C0A-AB0551D1DBE3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:intel:pentium_j:j2850:*:*:*:*:*:*:*",
+      "title": "Intel Pentium J J2850",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:pentium_j2850:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:pentium_j:j2900:*:*:*:*:*:*:*",
+      "title": "Intel Pentium J J2900",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:pentium_j2900:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:pentium_j:j3710:*:*:*:*:*:*:*",
+      "title": "Intel Pentium J J3710",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:pentium_j3710:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:intel:pentium_j:j4205:*:*:*:*:*:*:*",
+      "title": "Intel Pentium J J4205",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:intel:pentium_j4205:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

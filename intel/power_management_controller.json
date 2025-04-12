@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:power_management_controller:pmc_fw_lbg_b0-21ww02a:*:*:*:*:*:*:*",
+        "cpeNameId": "D84F97D3-713C-408F-A4DE-8069060B5981",
+        "lastModified": "2022-02-25T19:54:34.767",
+        "created": "2022-02-15T13:56:01.887",
+        "titles": [
+          {
+            "title": "Intel Power Management Controller pmc_fw_lbg_c1-21ww02a",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:power_management_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "13475F98-FCAF-485E-B55F-D4E82DE8BFB6",
+        "lastModified": "2022-02-25T19:54:34.767",
+        "created": "2022-02-15T13:56:01.887",
+        "titles": [
+          {
+            "title": "Intel Power Management Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:intel:power_management_controller:pmc_fw_lbg_c1-21ww02a:*:*:*:*:*:*:*",
+        "cpeNameId": "67FE55DB-C8B3-4314-8E78-DF58FCAB5264",
+        "lastModified": "2022-02-25T19:54:34.767",
+        "created": "2022-02-15T13:56:34.430",
+        "titles": [
+          {
+            "title": "Intel Power Management Controller pmc_fw_lbg_b0-21ww02a",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:intel:power_management_controller:pmc_fw_lbg_b0-21ww02a:*:*:*:*:*:*:*",
+      "title": "Intel Power Management Controller pmc_fw_lbg_c1-21ww02a",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:power_management_controller:-:*:*:*:*:*:*:*",
+      "title": "Intel Power Management Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:intel:power_management_controller:pmc_fw_lbg_c1-21ww02a:*:*:*:*:*:*:*",
+      "title": "Intel Power Management Controller pmc_fw_lbg_b0-21ww02a",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
