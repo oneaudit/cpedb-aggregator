@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:forgerock:directory_services:7.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "416EAD3A-21A4-48CB-854A-A3430A3B58FA",
+        "lastModified": "2022-03-17T14:44:25.043",
+        "created": "2022-03-17T14:22:24.513",
+        "titles": [
+          {
+            "title": "ForgeRock Directory Services (DS) 7.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:forgerock:directory_services:7.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "38CB03B1-C3DE-4A77-96F5-759C6C1403E5",
+        "lastModified": "2022-03-17T14:44:25.043",
+        "created": "2022-03-17T14:22:24.513",
+        "titles": [
+          {
+            "title": "ForgeRock Directory Services (DS) 7.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:forgerock:directory_services:6.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DB9A4BE1-D8EF-4AF5-A15C-2A0A653250E8",
+        "lastModified": "2022-03-17T14:44:25.043",
+        "created": "2022-03-17T14:22:24.513",
+        "titles": [
+          {
+            "title": "ForgeRock Directory Services (DS) 6.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:forgerock:directory_services:7.1.0:*:*:*:*:*:*:*",
+      "title": "ForgeRock Directory Services (DS) 7.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:forgerock:directory_services:7.0.0:*:*:*:*:*:*:*",
+      "title": "ForgeRock Directory Services (DS) 7.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:forgerock:directory_services:6.5.0:*:*:*:*:*:*:*",
+      "title": "ForgeRock Directory Services (DS) 6.5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

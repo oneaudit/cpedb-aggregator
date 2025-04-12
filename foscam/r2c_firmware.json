@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:foscam:r2c_firmware:2.72:*:*:*:*:*:*:*",
+        "cpeNameId": "F1AB66D9-7BB7-417F-8532-C31F0DE02AF5",
+        "lastModified": "2022-10-05T18:22:07.603",
+        "created": "2022-05-02T16:32:51.560",
+        "titles": [
+          {
+            "title": "Foscam R2C Firmware 2.72",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:foscam:r2c_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D119EF48-70A2-42F0-B6FD-FA07B784DAA1",
+        "lastModified": "2022-10-05T18:22:07.603",
+        "created": "2022-05-02T16:32:51.560",
+        "titles": [
+          {
+            "title": "Foscam R2C Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:foscam:r2c_firmware:2.72:*:*:*:*:*:*:*",
+      "title": "Foscam R2C Firmware 2.72",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:foscam:r2c_firmware:-:*:*:*:*:*:*:*",
+      "title": "Foscam R2C Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

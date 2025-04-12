@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:freebsd:libfetch:2021-07-26:*:*:*:*:*:*:*",
+        "cpeNameId": "836453CB-E676-4A19-AF02-6C144AA1AED0",
+        "lastModified": "2021-08-19T16:03:59.943",
+        "created": "2021-08-09T19:40:39.823",
+        "titles": [
+          {
+            "title": "FreeBSD libfetch 2021-07-26",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:freebsd:libfetch:-:*:*:*:*:*:*:*",
+        "cpeNameId": "85F78CCE-1FAF-4C09-9D5D-D4E42040F768",
+        "lastModified": "2021-08-19T16:03:59.943",
+        "created": "2021-08-09T19:40:39.823",
+        "titles": [
+          {
+            "title": "FreeBSD libfetch",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:freebsd:libfetch:2021-07-26:*:*:*:*:*:*:*",
+      "title": "FreeBSD libfetch 2021-07-26",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:freebsd:libfetch:-:*:*:*:*:*:*:*",
+      "title": "FreeBSD libfetch",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

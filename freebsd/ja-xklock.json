@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:freebsd:ja-xklock:-:*:*:*:*:*:*:*",
+        "cpeNameId": "082950B4-B389-4FD4-AC1D-7256E0467435",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "FreeBSD ja-xklock",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:freebsd:ja-xklock:2.7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "251AC1A5-AE23-4D28-92D8-EBB1BC7D6125",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "FreeBSD ja-xklock 2.7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:freebsd:ja-xklock:-:*:*:*:*:*:*:*",
+      "title": "FreeBSD ja-xklock",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:freebsd:ja-xklock:2.7.1:*:*:*:*:*:*:*",
+      "title": "FreeBSD ja-xklock 2.7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

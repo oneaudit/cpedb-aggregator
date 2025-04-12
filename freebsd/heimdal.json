@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:freebsd:heimdal:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CE25DF70-9A04-48DA-B0CC-DB7167D9A664",
+        "lastModified": "2008-04-01T15:03:52.663",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "FreeBSD Heimdal Port",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:freebsd:heimdal:0.4e:*:*:*:*:*:*:*",
+        "cpeNameId": "F3514468-88D1-49E0-A33D-84F3F139FEB7",
+        "lastModified": "2008-04-01T15:03:52.727",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "FreeBSD Heimdal Port 0.4e",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:freebsd:heimdal:-:*:*:*:*:*:*:*",
+      "title": "FreeBSD Heimdal Port",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:freebsd:heimdal:0.4e:*:*:*:*:*:*:*",
+      "title": "FreeBSD Heimdal Port 0.4e",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

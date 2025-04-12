@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:forcepoint:vpn_client:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "C5533F99-4BF6-45F6-A299-47B884B65409",
+        "lastModified": "2019-09-23T12:23:31.930",
+        "created": "2019-09-23T12:23:31.930",
+        "titles": [
+          {
+            "title": "Forcepoint VPN Client for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:forcepoint:vpn_client:6.6.0:*:*:*:*:windows:*:*",
+        "cpeNameId": "E1B261E9-77DC-4BA0-B110-1621D75CCE73",
+        "lastModified": "2019-09-23T12:23:32.180",
+        "created": "2019-09-23T12:23:32.180",
+        "titles": [
+          {
+            "title": "Forcepoint VPN Client 6.6.0 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:forcepoint:vpn_client:6.6.1:*:*:*:*:windows:*:*",
+        "cpeNameId": "5E497203-08BC-454E-B8A2-48B96F8E1A78",
+        "lastModified": "2019-09-23T12:23:32.290",
+        "created": "2019-09-23T12:23:32.290",
+        "titles": [
+          {
+            "title": "Forcepoint VPN Client 6.6.1 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:forcepoint:vpn_client:-:*:*:*:*:windows:*:*",
+      "title": "Forcepoint VPN Client for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:forcepoint:vpn_client:6.6.0:*:*:*:*:windows:*:*",
+      "title": "Forcepoint VPN Client 6.6.0 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:forcepoint:vpn_client:6.6.1:*:*:*:*:windows:*:*",
+      "title": "Forcepoint VPN Client 6.6.1 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

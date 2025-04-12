@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:florian_heidenreich:mp3tag:v2.46a:*:*:*:*:*:*:*",
+        "cpeNameId": "87D7ED5E-97E8-4B9D-976F-654314CD1A82",
+        "lastModified": "2024-11-20T17:13:12.640",
+        "created": "2012-05-14T23:29:05.407",
+        "titles": [
+          {
+            "title": "Florian Heidenreich Mp3tag V2.46a",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mp3tag:mp3tag:2.46a:*:*:*:*:windows:*:*",
+            "cpeNameId": "D55F1E6B-7DDC-4FE2-A4C6-B20DA325B8B2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:florian_heidenreich:mp3tag:v2.46a:*:*:*:*:*:*:*",
+      "title": "Florian Heidenreich Mp3tag V2.46a",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mp3tag:mp3tag:2.46a:*:*:*:*:windows:*:*"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:fortinet:fortiai:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FEB6157B-2298-422C-B590-4F7BCAF7C98A",
+        "lastModified": "2021-12-13T19:29:36.160",
+        "created": "2021-06-09T15:10:14.570",
+        "titles": [
+          {
+            "title": "Fortinet FortiAI",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:fortinet:fortiai:1.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "37FCCCC3-A098-4EF0-A90C-BCFAD2293D24",
+        "lastModified": "2023-12-29T15:31:15.447",
+        "created": "2023-12-29T15:31:15.447",
+        "titles": [
+          {
+            "title": "Fortinet FortiAI 1.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:fortinet:fortiai:1.5.3:*:*:*:*:*:*:*",
+        "cpeNameId": "A365EE7E-342C-470C-939A-27CF801F6C88",
+        "lastModified": "2023-12-29T15:31:15.447",
+        "created": "2023-12-29T15:31:15.447",
+        "titles": [
+          {
+            "title": "Fortinet FortiAI 1.5.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:fortinet:fortiai:-:*:*:*:*:*:*:*",
+      "title": "Fortinet FortiAI",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:fortinet:fortiai:1.1.0:*:*:*:*:*:*:*",
+      "title": "Fortinet FortiAI 1.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:fortinet:fortiai:1.5.3:*:*:*:*:*:*:*",
+      "title": "Fortinet FortiAI 1.5.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

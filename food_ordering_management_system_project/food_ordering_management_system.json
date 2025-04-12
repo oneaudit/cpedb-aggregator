@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:food_ordering_management_system_project:food_ordering_management_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4BFD56DD-E7C5-457C-909D-A8DFC7A5599C",
+        "lastModified": "2022-09-30T14:46:46.803",
+        "created": "2022-09-28T18:08:17.560",
+        "titles": [
+          {
+            "title": "Food Ordering Management System Project Food Ordering Management System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:food_ordering_management_system_project:food_ordering_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F339A435-1288-416B-89BC-786C95D1C8D6",
+        "lastModified": "2024-09-07T12:56:40.797",
+        "created": "2022-11-07T17:16:16.503",
+        "titles": [
+          {
+            "title": "Food Ordering Management System Project Food Ordering Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oretnom23:food_ordering_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "FE8AB339-5E0D-4996-927B-5C854C0515E9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:food_ordering_management_system_project:food_ordering_management_system:-:*:*:*:*:*:*:*",
+      "title": "Food Ordering Management System Project Food Ordering Management System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:food_ordering_management_system_project:food_ordering_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Food Ordering Management System Project Food Ordering Management System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oretnom23:food_ordering_management_system:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

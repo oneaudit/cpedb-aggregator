@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:fortinet:forticlient_sslvpn_client:-:*:*:*:*:linux:*:*",
+        "cpeNameId": "B4F272D7-3F65-49C9-AACF-0A5BB0735819",
+        "lastModified": "2019-05-29T15:09:18.907",
+        "created": "2019-05-29T15:09:18.907",
+        "titles": [
+          {
+            "title": "Fortinet FortiClient SSLVPN Client for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:fortinet:forticlient_sslvpn_client:4.4.2335:*:*:*:*:linux:*:*",
+        "cpeNameId": "8C31B984-9D8A-4BA9-8097-FDDC1EF0FD86",
+        "lastModified": "2019-05-29T15:09:19.140",
+        "created": "2019-05-29T15:09:19.140",
+        "titles": [
+          {
+            "title": "Fortinet FortiClient SSLVPN Client 4.4.2335 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:fortinet:forticlient_sslvpn_client:-:*:*:*:*:linux:*:*",
+      "title": "Fortinet FortiClient SSLVPN Client for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:fortinet:forticlient_sslvpn_client:4.4.2335:*:*:*:*:linux:*:*",
+      "title": "Fortinet FortiClient SSLVPN Client 4.4.2335 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

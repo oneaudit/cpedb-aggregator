@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:fonality:trixbox:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AE5081E6-B8FD-47F4-AD00-57A59F9CCB09",
+        "lastModified": "2022-04-18T09:36:58.413",
+        "created": "2007-12-18T19:57:37.123",
+        "titles": [
+          {
+            "title": "Fonality Trixbox 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:netfortris:trixbox:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "32EBE983-3A96-4368-BE68-790D468CFBE6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:fonality:trixbox:2.2.4:*:*:*:*:*:*:*",
+        "cpeNameId": "2F0CDBC1-B041-4642-A36B-4BDFD323A541",
+        "lastModified": "2022-04-18T09:36:58.413",
+        "created": "2010-02-24T19:22:01.647",
+        "titles": [
+          {
+            "title": "Fonality Trixbox 2.2.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:netfortris:trixbox:2.2.4:*:*:*:*:*:*:*",
+            "cpeNameId": "A7692F80-F30F-4791-B817-0F7EC7CEA43D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:fonality:trixbox:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B9E847F1-A0B0-4286-B556-A327511C4BD4",
+        "lastModified": "2022-04-18T09:36:58.413",
+        "created": "2014-07-29T13:36:36.680",
+        "titles": [
+          {
+            "title": "Fonality Trixbox",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:netfortris:trixbox:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0DC1FADD-31FA-4E58-AC02-88D85426B242"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:fonality:trixbox:2.0:*:*:*:*:*:*:*",
+      "title": "Fonality Trixbox 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:netfortris:trixbox:2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:fonality:trixbox:2.2.4:*:*:*:*:*:*:*",
+      "title": "Fonality Trixbox 2.2.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:netfortris:trixbox:2.2.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:fonality:trixbox:-:*:*:*:*:*:*:*",
+      "title": "Fonality Trixbox",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:netfortris:trixbox:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

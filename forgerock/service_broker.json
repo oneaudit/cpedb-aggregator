@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:forgerock:service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+        "cpeNameId": "42E81815-2F63-41B5-BC8E-E3B1F49AE10F",
+        "lastModified": "2020-04-01T20:18:59.727",
+        "created": "2020-04-01T20:18:59.727",
+        "titles": [
+          {
+            "title": "Forgerock Service Broker - for Pivotal Cloud Foundry",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:forgerock:service_broker:2.1.2:*:*:*:*:pivotal_cloud_foundry:*:*",
+        "cpeNameId": "143866C3-CFF4-4A17-A89C-2671899F9BAC",
+        "lastModified": "2020-04-01T20:19:00.307",
+        "created": "2020-04-01T20:19:00.307",
+        "titles": [
+          {
+            "title": "Forgerock Service Broker 2.1.2 for Pivotal Cloud Foundry",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:forgerock:service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+      "title": "Forgerock Service Broker - for Pivotal Cloud Foundry",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:forgerock:service_broker:2.1.2:*:*:*:*:pivotal_cloud_foundry:*:*",
+      "title": "Forgerock Service Broker 2.1.2 for Pivotal Cloud Foundry",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

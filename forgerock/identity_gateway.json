@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:forgerock:identity_gateway:7.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7EAE5314-3C55-4498-A7AA-6EBCE7DD30B4",
+        "lastModified": "2022-03-17T14:44:25.043",
+        "created": "2022-03-17T14:22:24.513",
+        "titles": [
+          {
+            "title": "ForgeRock Identity Gateway (IG) 7.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:forgerock:identity_gateway:7.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7B905F10-66DE-497C-8CC4-696D4E4749E8",
+        "lastModified": "2022-03-17T14:44:25.043",
+        "created": "2022-03-17T14:22:24.513",
+        "titles": [
+          {
+            "title": "ForgeRock Identity Gateway (IG) 7.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:forgerock:identity_gateway:6.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4C5BC77D-AA48-49B3-B4C0-0DC8D85BAFEA",
+        "lastModified": "2022-03-17T14:44:25.043",
+        "created": "2022-03-17T14:22:24.513",
+        "titles": [
+          {
+            "title": "ForgeRock Identity Gateway (IG) 6.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:forgerock:identity_gateway:7.1.0:*:*:*:*:*:*:*",
+      "title": "ForgeRock Identity Gateway (IG) 7.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:forgerock:identity_gateway:7.0.0:*:*:*:*:*:*:*",
+      "title": "ForgeRock Identity Gateway (IG) 7.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:forgerock:identity_gateway:6.5.0:*:*:*:*:*:*:*",
+      "title": "ForgeRock Identity Gateway (IG) 6.5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
