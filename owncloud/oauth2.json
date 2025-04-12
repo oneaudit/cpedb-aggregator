@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:owncloud:oauth2:0.6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "15367D8F-689F-49E0-8C50-366612619D27",
+        "lastModified": "2023-11-28T16:12:36.993",
+        "created": "2023-11-28T16:12:36.993",
+        "titles": [
+          {
+            "title": "ownCloud oauth2 0.6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:owncloud:oauth2:-:*:*:*:*:*:*:*",
+        "cpeNameId": "08BDFEE2-11DD-459A-8572-C119F37516FB",
+        "lastModified": "2023-11-28T16:12:36.993",
+        "created": "2023-11-28T16:12:36.993",
+        "titles": [
+          {
+            "title": "ownCloud oauth2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:owncloud:oauth2:0.6.1:*:*:*:*:*:*:*",
+      "title": "ownCloud oauth2 0.6.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:owncloud:oauth2:-:*:*:*:*:*:*:*",
+      "title": "ownCloud oauth2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

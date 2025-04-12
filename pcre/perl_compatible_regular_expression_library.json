@@ -1,0 +1,77 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pcre:perl_compatible_regular_expression_library:8.36:*:*:*:*:*:*:*",
+        "cpeNameId": "8C525499-3AA0-4254-AD71-C75909638790",
+        "lastModified": "2015-04-08T16:32:36.997",
+        "created": "2014-12-17T17:10:11.427",
+        "titles": [
+          {
+            "title": "pcre Perl Compatible Regular Expression Library 8.36",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pcre:perl_compatible_regular_expression_library:8.38:*:*:*:*:*:*:*",
+        "cpeNameId": "D72D05EC-35BD-4C65-AB33-54B6776D3106",
+        "lastModified": "2021-08-06T18:29:13.383",
+        "created": "2016-01-07T20:15:42.517",
+        "titles": [
+          {
+            "title": "PCRE Perl Compatible Regular Expression Library 8.38",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:pcre:pcre:8.38:*:*:*:*:*:*:*",
+            "cpeNameId": "70562329-C265-43EF-ABD4-E65B90283AF9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pcre:perl_compatible_regular_expression_library:8.37:*:*:*:*:*:*:*",
+        "cpeNameId": "2068128D-EB09-4D1E-9807-4005F94EAE07",
+        "lastModified": "2016-01-19T16:05:30.737",
+        "created": "2016-01-19T16:05:30.737",
+        "titles": [
+          {
+            "title": "PCRE Perl-Compatible Regular Expression Library 8.37",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pcre:perl_compatible_regular_expression_library:8.36:*:*:*:*:*:*:*",
+      "title": "pcre Perl Compatible Regular Expression Library 8.36",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:pcre:perl_compatible_regular_expression_library:8.38:*:*:*:*:*:*:*",
+      "title": "PCRE Perl Compatible Regular Expression Library 8.38",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:pcre:pcre:8.38:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:pcre:perl_compatible_regular_expression_library:8.37:*:*:*:*:*:*:*",
+      "title": "PCRE Perl-Compatible Regular Expression Library 8.37",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

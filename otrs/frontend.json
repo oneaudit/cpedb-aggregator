@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:otrs:frontend:7.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6D38EE3C-95A8-4B3A-9F3B-61BCF3A5465F",
+        "lastModified": "2021-02-10T19:09:54.080",
+        "created": "2021-02-08T17:26:10.337",
+        "titles": [
+          {
+            "title": "OTRS Frontend 7.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:otrs:cis_in_customer_frontend:7.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "8D884D36-B779-45C9-A5C5-F682B782B318"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:otrs:frontend:7.0.14:*:*:*:*:*:*:*",
+        "cpeNameId": "56E7AD6B-722E-463F-A2C7-F1B6B3FCC310",
+        "lastModified": "2021-02-10T19:09:54.237",
+        "created": "2021-02-08T17:26:10.413",
+        "titles": [
+          {
+            "title": "OTRS Frontend 7.0.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:otrs:cis_in_customer_frontend:7.0.14:*:*:*:*:*:*:*",
+            "cpeNameId": "FC8B2332-943B-4D40-A1EE-BBF46F43C225"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:otrs:frontend:7.0.15:*:*:*:*:*:*:*",
+        "cpeNameId": "7885CDD1-577A-4857-A3B5-FE7F40C506C2",
+        "lastModified": "2021-02-10T19:09:54.390",
+        "created": "2021-02-08T17:26:10.477",
+        "titles": [
+          {
+            "title": "OTRS Frontend 7.0.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:otrs:cis_in_customer_frontend:7.0.15:*:*:*:*:*:*:*",
+            "cpeNameId": "49F3C63F-F42D-491E-9703-903D1824C48C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:otrs:frontend:7.0.0:*:*:*:*:*:*:*",
+      "title": "OTRS Frontend 7.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:otrs:cis_in_customer_frontend:7.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:otrs:frontend:7.0.14:*:*:*:*:*:*:*",
+      "title": "OTRS Frontend 7.0.14",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:otrs:cis_in_customer_frontend:7.0.14:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:otrs:frontend:7.0.15:*:*:*:*:*:*:*",
+      "title": "OTRS Frontend 7.0.15",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:otrs:cis_in_customer_frontend:7.0.15:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pcprotect:anti-virus:4.8.35:*:*:*:*:*:*:*",
+        "cpeNameId": "DF9B8825-F2F8-474D-8453-965AA8F83CDD",
+        "lastModified": "2021-08-16T15:02:14.043",
+        "created": "2019-08-06T17:28:12.887",
+        "titles": [
+          {
+            "title": "PCProtect Anti-Virus 4.8.35",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:pcprotect:antivirus:4.8.35:*:*:*:*:*:*:*",
+            "cpeNameId": "DA8761A5-6FC5-4F95-83C8-13F00F9F7E31"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pcprotect:anti-virus:4.14.31:*:*:*:*:*:*:*",
+        "cpeNameId": "42E0A0D3-E2AB-46DC-9197-F9759304C6F1",
+        "lastModified": "2021-08-16T15:01:06.317",
+        "created": "2019-10-09T13:22:09.277",
+        "titles": [
+          {
+            "title": "PCProtect Anti-Virus 4.14.31",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:pcprotect:antivirus:4.14.31:*:*:*:*:*:*:*",
+            "cpeNameId": "867445C6-5E2A-42BF-A006-4D97CB1C6325"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pcprotect:anti-virus:4.8.35:*:*:*:*:*:*:*",
+      "title": "PCProtect Anti-Virus 4.8.35",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:pcprotect:antivirus:4.8.35:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:pcprotect:anti-virus:4.14.31:*:*:*:*:*:*:*",
+      "title": "PCProtect Anti-Virus 4.14.31",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:pcprotect:antivirus:4.14.31:*:*:*:*:*:*:*"
+    }
+  ]
+}

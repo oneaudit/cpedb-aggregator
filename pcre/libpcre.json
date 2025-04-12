@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pcre:libpcre:8.44:*:*:*:*:*:*:*",
+        "cpeNameId": "E23BFD58-4381-47C0-BC6D-EDF6845B627D",
+        "lastModified": "2020-06-19T14:32:44.887",
+        "created": "2020-06-17T18:34:38.827",
+        "titles": [
+          {
+            "title": "PCRE Libpcre 8.44",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:pcre:pcre:8.44:*:*:*:*:*:*:*",
+            "cpeNameId": "581FC9CF-6623-43F1-8F52-7FDE34701ED6"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pcre:libpcre:8.44:*:*:*:*:*:*:*",
+      "title": "PCRE Libpcre 8.44",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:pcre:pcre:8.44:*:*:*:*:*:*:*"
+    }
+  ]
+}

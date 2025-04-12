@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:owasp:nodegoat:2021-01-26:*:*:*:*:*:*:*",
+        "cpeNameId": "B045D609-9161-4CDB-842F-37858FC617AD",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2022-12-20T17:17:48.550",
+        "titles": [
+          {
+            "title": "OWASP NodeGoat 2021-01-26",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:owasp:nodegoat:-:*:*:*:*:*:*:*",
+        "cpeNameId": "577EC045-338A-4B4C-BF3E-7A04DA979DA9",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2022-12-20T17:17:48.550",
+        "titles": [
+          {
+            "title": "OWASP NodeGoat -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:owasp:nodegoat:2021-01-26:*:*:*:*:*:*:*",
+      "title": "OWASP NodeGoat 2021-01-26",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:owasp:nodegoat:-:*:*:*:*:*:*:*",
+      "title": "OWASP NodeGoat -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

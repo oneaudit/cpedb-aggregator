@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:owncloud:owncloud_desktop:2.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "A09782E5-43AF-4E15-A814-0DAE0B9BA716",
+        "lastModified": "2021-04-09T18:06:45.780",
+        "created": "2017-01-25T13:10:33.603",
+        "titles": [
+          {
+            "title": "ownCloud Desktop 2.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:owncloud:owncloud_desktop_client:2.2.2:*:*:*:*:*:*:*",
+            "cpeNameId": "F3B5AC79-C0F9-4665-A922-99D311AD344F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:owncloud:owncloud_desktop:2.2.2:*:*:*:*:*:*:*",
+      "title": "ownCloud Desktop 2.2.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:owncloud:owncloud_desktop_client:2.2.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

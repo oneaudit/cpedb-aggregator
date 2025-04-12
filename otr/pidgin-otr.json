@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:otr:pidgin-otr:4.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7EF71B71-A5CC-41E9-9FF4-9CBA37A6A828",
+        "lastModified": "2021-08-04T13:11:34.453",
+        "created": "2016-04-13T17:09:08.907",
+        "titles": [
+          {
+            "title": "OtR Pidgin-OtR 4.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cypherpunks:pidgin-otr:4.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "200476F6-7774-4CB0-8626-47BDF591BE4E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:otr:pidgin-otr:4.0.1:*:*:*:*:*:*:*",
+      "title": "OtR Pidgin-OtR 4.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cypherpunks:pidgin-otr:4.0.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:owncloud:graph_api:0.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "76B78563-3691-4CAC-B105-4804A89384DF",
+        "lastModified": "2023-11-29T16:41:34.860",
+        "created": "2023-11-29T16:41:34.860",
+        "titles": [
+          {
+            "title": "ownCloud Graph API 0.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:owncloud:graph_api:0.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "56CD401D-3F04-46AB-863B-D7E9F9815339",
+        "lastModified": "2023-11-29T16:41:34.860",
+        "created": "2023-11-29T16:41:34.860",
+        "titles": [
+          {
+            "title": "ownCloud Graph API 0.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:owncloud:graph_api:0.2.0:*:*:*:*:*:*:*",
+      "title": "ownCloud Graph API 0.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:owncloud:graph_api:0.3.0:*:*:*:*:*:*:*",
+      "title": "ownCloud Graph API 0.3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:panasonic:pfwin_pro:-:*:*:*:*:*:*:*",
+        "cpeNameId": "97B29385-C3CD-4D81-A11B-4A83F5B64002",
+        "lastModified": "2020-04-07T15:41:01.217",
+        "created": "2020-04-07T15:38:42.073",
+        "titles": [
+          {
+            "title": "Panasonic PFWIN Pro",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:panasonic:fpwin_pro:-:*:*:*:*:*:*:*",
+            "cpeNameId": "9567B138-12AB-4A76-A6B9-9AD9F9FB2014"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:panasonic:pfwin_pro:-:*:*:*:*:*:*:*",
+      "title": "Panasonic PFWIN Pro",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:panasonic:fpwin_pro:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
