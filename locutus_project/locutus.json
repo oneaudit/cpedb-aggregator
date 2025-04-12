@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:locutus_project:locutus:-:*:*:*:*:node.js:*:*",
+        "cpeNameId": "8C62251D-2137-4BBB-A37E-1FB13743D452",
+        "lastModified": "2021-06-11T15:09:45.823",
+        "created": "2020-09-02T19:03:09.990",
+        "titles": [
+          {
+            "title": "Locutus Project Locutus for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:locutus:locutus:-:*:*:*:*:node.js:*:*",
+            "cpeNameId": "FF0CCA0D-4878-48A5-BAE1-F81DA63E4527"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:locutus_project:locutus:-:*:*:*:*:node.js:*:*",
+      "title": "Locutus Project Locutus for Node.js",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:locutus:locutus:-:*:*:*:*:node.js:*:*"
+    }
+  ]
+}

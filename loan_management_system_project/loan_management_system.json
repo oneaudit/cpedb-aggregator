@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:loan_management_system_project:loan_management_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E874914B-342A-4F24-9FF5-5B3768484FBD",
+        "lastModified": "2024-11-26T20:29:56.130",
+        "created": "2022-08-08T18:51:34.503",
+        "titles": [
+          {
+            "title": "Loan Management System Project Loan Management System ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:razormist:loan_management_system:-:*:*:*:*:*:*:*",
+            "cpeNameId": "26A5653C-37E0-4900-A2D8-890D7CDCCCAC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:loan_management_system_project:loan_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AB37BADD-EF0D-40AE-8FE9-F39724642C67",
+        "lastModified": "2024-11-26T20:29:56.130",
+        "created": "2022-09-14T13:54:38.193",
+        "titles": [
+          {
+            "title": "Loan Management System Project Loan Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:razormist:loan_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "0D833ED5-C2F7-44B2-8614-D3D690779A9B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:loan_management_system_project:loan_management_system:-:*:*:*:*:*:*:*",
+      "title": "Loan Management System Project Loan Management System ",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:razormist:loan_management_system:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:loan_management_system_project:loan_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Loan Management System Project Loan Management System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:razormist:loan_management_system:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

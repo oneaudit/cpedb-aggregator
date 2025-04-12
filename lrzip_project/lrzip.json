@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:lrzip_project:lrzip:0.631:*:*:*:*:*:*:*",
+        "cpeNameId": "5B77E0DD-4B5E-4C3E-88E7-4540A4EA0495",
+        "lastModified": "2022-09-02T16:32:16.000",
+        "created": "2017-05-16T12:52:15.687",
+        "titles": [
+          {
+            "title": "lrzip Project lrzip 0.631",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:long_range_zip_project:long_range_zip:0.631:*:*:*:*:*:*:*",
+            "cpeNameId": "4BA29352-77B3-46D4-9466-E70354006B0E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lrzip_project:lrzip:0.631:*:*:*:*:*:*:*",
+      "title": "lrzip Project lrzip 0.631",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:long_range_zip_project:long_range_zip:0.631:*:*:*:*:*:*:*"
+    }
+  ]
+}

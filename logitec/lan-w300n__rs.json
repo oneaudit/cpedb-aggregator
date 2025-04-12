@@ -1,0 +1,37 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:logitec:lan-w300n\\/rs:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E6586835-B795-4D01-8671-CD29D3B00ADC",
+        "lastModified": "2022-02-10T19:47:21.303",
+        "created": "2012-06-05T15:46:10.310",
+        "titles": [
+          {
+            "title": "ロジテック LAN-W300N/RS",
+            "lang": "ja"
+          },
+          {
+            "title": "Logitec LAN-W300N/RS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:logitech:lan-w300n\\/rs:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0F33F10A-7124-4F37-A11D-CFBC7B8CD36A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:logitec:lan-w300n\\/rs:-:*:*:*:*:*:*:*",
+      "title": "Logitec LAN-W300N/RS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:logitech:lan-w300n\\/rs:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

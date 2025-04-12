@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:logitec:lan-w300n\\/pgrb_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4C31975F-C82A-43C4-B1AA-F5CA9E9EFE5F",
+        "lastModified": "2022-02-10T19:47:21.303",
+        "created": "2021-02-12T19:48:23.680",
+        "titles": [
+          {
+            "title": "Logitec LAN-W300N/PGRB Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:logitech:lan-w300n\\/pgrb_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "64FD1264-2D18-454F-8454-0B8C4B8ECC30"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:logitec:lan-w300n\\/pgrb_firmware:-:*:*:*:*:*:*:*",
+      "title": "Logitec LAN-W300N/PGRB Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:logitech:lan-w300n\\/pgrb_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

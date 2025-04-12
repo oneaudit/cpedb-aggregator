@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:loadbalancer:enterprise_va_max:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C96E142D-C30E-4445-9854-09A94561296F",
+        "lastModified": "2020-07-14T16:38:55.990",
+        "created": "2020-07-14T16:38:55.990",
+        "titles": [
+          {
+            "title": "Loadbalancer Enterprise VA MAX",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:loadbalancer:enterprise_va_max:8.3.3:*:*:*:*:*:*:*",
+        "cpeNameId": "63432E79-1E5E-41AA-AD3F-B24EA3063D59",
+        "lastModified": "2020-07-14T16:38:56.583",
+        "created": "2020-07-14T16:38:56.583",
+        "titles": [
+          {
+            "title": "Loadbalancer Enterprise VA MAX 8.3.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:loadbalancer:enterprise_va_max:8.3.8:*:*:*:*:*:*:*",
+        "cpeNameId": "395BFA57-E8B7-401E-ACAA-90C134EA483A",
+        "lastModified": "2023-09-29T18:25:25.483",
+        "created": "2023-09-29T18:25:25.483",
+        "titles": [
+          {
+            "title": "Loadbalancer Enterprise VA Max 8.3.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:loadbalancer:enterprise_va_max:-:*:*:*:*:*:*:*",
+      "title": "Loadbalancer Enterprise VA MAX",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:loadbalancer:enterprise_va_max:8.3.3:*:*:*:*:*:*:*",
+      "title": "Loadbalancer Enterprise VA MAX 8.3.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:loadbalancer:enterprise_va_max:8.3.8:*:*:*:*:*:*:*",
+      "title": "Loadbalancer Enterprise VA Max 8.3.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

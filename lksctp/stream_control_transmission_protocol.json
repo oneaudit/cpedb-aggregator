@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lksctp:stream_control_transmission_protocol:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5BB24794-9341-4907-9E57-0F64866F4FF0",
+        "lastModified": "2008-04-01T16:13:41.820",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Linux SCTP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lksctp:stream_control_transmission_protocol:2.6.16:*:*:*:*:*:*:*",
+        "cpeNameId": "284F8638-DC1E-42EE-BC2B-B3D93945866D",
+        "lastModified": "2008-04-01T16:13:41.883",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Linux SCTP 2.6.16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lksctp:stream_control_transmission_protocol:2.6.17:*:*:*:*:*:*:*",
+        "cpeNameId": "ABAB9064-6CEB-42FD-9FBF-F9017B3C473A",
+        "lastModified": "2008-04-01T16:13:41.930",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Linux SCTP 2.6.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lksctp:stream_control_transmission_protocol:-:*:*:*:*:*:*:*",
+      "title": "Linux SCTP",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lksctp:stream_control_transmission_protocol:2.6.16:*:*:*:*:*:*:*",
+      "title": "Linux SCTP 2.6.16",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lksctp:stream_control_transmission_protocol:2.6.17:*:*:*:*:*:*:*",
+      "title": "Linux SCTP 2.6.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

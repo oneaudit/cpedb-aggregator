@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:loom:loom:0.16.0:*:*:*:desktop:mac:*:*",
+        "cpeNameId": "C6C3AAA3-34E1-40CE-A20E-DF057938D8EF",
+        "lastModified": "2020-12-17T13:41:33.300",
+        "created": "2020-12-17T13:41:33.300",
+        "titles": [
+          {
+            "title": "Loom 0.16.0 Desktop Edition for Mac",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:loom:loom:0.196.1:*:*:*:*:macos:*:*",
+        "cpeNameId": "DA5CEFC8-37C6-4059-969A-0CFF490D5FB2",
+        "lastModified": "2024-02-03T01:39:22.613",
+        "created": "2024-02-03T01:39:22.613",
+        "titles": [
+          {
+            "title": "Loom Loom 0.196.1 for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:loom:loom:-:*:*:*:*:macos:*:*",
+        "cpeNameId": "CDCD8B34-0AA4-495F-9F13-6128BD135E0B",
+        "lastModified": "2024-02-03T01:39:22.613",
+        "created": "2024-02-03T01:39:22.613",
+        "titles": [
+          {
+            "title": "Loom Loom - for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:loom:loom:0.16.0:*:*:*:desktop:mac:*:*",
+      "title": "Loom 0.16.0 Desktop Edition for Mac",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:loom:loom:0.196.1:*:*:*:*:macos:*:*",
+      "title": "Loom Loom 0.196.1 for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:loom:loom:-:*:*:*:*:macos:*:*",
+      "title": "Loom Loom - for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

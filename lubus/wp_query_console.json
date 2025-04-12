@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lubus:wp_query_console:1.0:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "F63B5373-F7C8-4189-A487-AB9547535985",
+        "lastModified": "2024-12-31T18:34:42.297",
+        "created": "2024-12-31T18:34:42.297",
+        "titles": [
+          {
+            "title": "LUBUS WP Query Console 1.0 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lubus:wp_query_console:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "1CF00008-E902-4765-844F-32469993F4B1",
+        "lastModified": "2024-12-31T18:34:42.297",
+        "created": "2024-12-31T18:34:42.297",
+        "titles": [
+          {
+            "title": "LUBUS WP Query Console for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lubus:wp_query_console:1.0:*:*:*:*:wordpress:*:*",
+      "title": "LUBUS WP Query Console 1.0 for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lubus:wp_query_console:-:*:*:*:*:wordpress:*:*",
+      "title": "LUBUS WP Query Console for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

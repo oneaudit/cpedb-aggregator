@@ -1,0 +1,104 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:liquidvpn:liquidvpn:1.36:*:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "CD9B3462-CA07-4A4A-8431-28127FAD25B7",
+        "lastModified": "2020-05-11T18:38:29.693",
+        "created": "2019-09-12T13:39:05.360",
+        "titles": [
+          {
+            "title": "LiquidVPN 1.36 for Mac OS X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:liquidvpn:liquidvpn:1.36:*:*:*:*:macos:*:*",
+            "cpeNameId": "F0B40ABF-0C92-412D-BB0D-AD749579AA4A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:liquidvpn:liquidvpn:1.37:*:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "9F39BBCE-F225-4053-9FC0-9E85A25A4125",
+        "lastModified": "2020-05-11T18:38:29.990",
+        "created": "2019-09-12T13:39:05.500",
+        "titles": [
+          {
+            "title": "LiquidVPN 1.37 for Mac OS X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:liquidvpn:liquidvpn:1.37:*:*:*:*:macos:*:*",
+            "cpeNameId": "23E94990-3D4D-45E6-9582-56CCCDFBCF28"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:liquidvpn:liquidvpn:1.36:*:*:*:*:macos:*:*",
+        "cpeNameId": "F0B40ABF-0C92-412D-BB0D-AD749579AA4A",
+        "lastModified": "2020-05-11T18:37:49.363",
+        "created": "2020-05-11T18:37:49.363",
+        "titles": [
+          {
+            "title": "LiquidVPN 1.36 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:liquidvpn:liquidvpn:1.37:*:*:*:*:macos:*:*",
+        "cpeNameId": "23E94990-3D4D-45E6-9582-56CCCDFBCF28",
+        "lastModified": "2020-05-11T18:37:49.753",
+        "created": "2020-05-11T18:37:49.753",
+        "titles": [
+          {
+            "title": "LiquidVPN 1.37 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:liquidvpn:liquidvpn:1.36:*:*:*:*:mac_os_x:*:*",
+      "title": "LiquidVPN 1.36 for Mac OS X",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:liquidvpn:liquidvpn:1.36:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:liquidvpn:liquidvpn:1.37:*:*:*:*:mac_os_x:*:*",
+      "title": "LiquidVPN 1.37 for Mac OS X",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:liquidvpn:liquidvpn:1.37:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:liquidvpn:liquidvpn:1.36:*:*:*:*:macos:*:*",
+      "title": "LiquidVPN 1.36 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:liquidvpn:liquidvpn:1.37:*:*:*:*:macos:*:*",
+      "title": "LiquidVPN 1.37 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

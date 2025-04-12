@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:logitec:lan-w300n\\/pr5b_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A380B0C6-888E-443D-967C-EB623A5B91B1",
+        "lastModified": "2022-02-10T19:47:21.303",
+        "created": "2021-02-12T19:51:55.607",
+        "titles": [
+          {
+            "title": "Logitec LAN-W300N/PR5B Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:logitech:lan-w300n\\/pr5b_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "EFA8C945-40BC-4083-B3CE-BADBFF465631"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:logitec:lan-w300n\\/pr5b_firmware:-:*:*:*:*:*:*:*",
+      "title": "Logitec LAN-W300N/PR5B Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:logitech:lan-w300n\\/pr5b_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
