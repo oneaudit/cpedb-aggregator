@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:synology:virtual_diskstation_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B368CC8D-841B-4722-AFDF-D82A27434243",
+        "lastModified": "2020-10-30T18:03:10.877",
+        "created": "2020-10-30T18:03:10.877",
+        "titles": [
+          {
+            "title": "Synology Virtual Diskstation Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:synology:virtual_diskstation_manager:6.1.6-15266:*:*:*:*:*:*:*",
+        "cpeNameId": "BE258E69-8AD4-40E4-94FB-BD3D6FDAA437",
+        "lastModified": "2020-10-30T18:03:11.237",
+        "created": "2020-10-30T18:03:11.237",
+        "titles": [
+          {
+            "title": "Synology Virtual Diskstation Manager 6.1.6-15266",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:synology:virtual_diskstation_manager:-:*:*:*:*:*:*:*",
+      "title": "Synology Virtual Diskstation Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:synology:virtual_diskstation_manager:6.1.6-15266:*:*:*:*:*:*:*",
+      "title": "Synology Virtual Diskstation Manager 6.1.6-15266",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

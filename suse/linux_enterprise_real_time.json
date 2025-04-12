@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:suse:linux_enterprise_real_time:11:sp1:*:*:*:*:*:*",
+        "cpeNameId": "68A0DF83-0E05-46A8-81FA-2450617D93A9",
+        "lastModified": "2020-09-21T14:19:33.820",
+        "created": "2020-09-21T14:19:33.820",
+        "titles": [
+          {
+            "title": "Suse Linux Enterprise Real Time 11 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:suse:linux_enterprise_real_time:15.0:sp2:*:*:*:*:*:*",
+        "cpeNameId": "41C0A3F4-269C-423E-A3B6-FE20877B3A8C",
+        "lastModified": "2022-06-03T13:18:32.097",
+        "created": "2022-05-04T16:45:39.420",
+        "titles": [
+          {
+            "title": "SUSE Linux Enterprise Real Time 15.0 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:suse:linux_enterprise_real_time:10:*:*:*:*:*:*:*",
+        "cpeNameId": "E82EA2EE-F055-425F-8569-3F34F6B682BB",
+        "lastModified": "2024-02-03T01:39:22.613",
+        "created": "2024-02-03T01:39:22.613",
+        "titles": [
+          {
+            "title": "Suse Linux Enterprise Real Time 10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:suse:linux_enterprise_real_time:11:sp1:*:*:*:*:*:*",
+      "title": "Suse Linux Enterprise Real Time 11 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:suse:linux_enterprise_real_time:15.0:sp2:*:*:*:*:*:*",
+      "title": "SUSE Linux Enterprise Real Time 15.0 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:suse:linux_enterprise_real_time:10:*:*:*:*:*:*:*",
+      "title": "Suse Linux Enterprise Real Time 10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

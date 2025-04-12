@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:symantec:ssl_visibility:3.8.4fc:*:*:*:*:*:*:*",
+        "cpeNameId": "5EACDD30-E48F-46ED-9000-5B149144F44A",
+        "lastModified": "2021-07-02T19:03:31.287",
+        "created": "2018-06-19T14:15:19.443",
+        "titles": [
+          {
+            "title": "Symantec SSL Visibility 3.8.4fc",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:ssl_visibility_aapliance:3.8.4fc:*:*:*:*:*:*:*",
+            "cpeNameId": "C3DC7739-0F88-47E2-A3A9-19EF74183568"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:symantec:ssl_visibility:3.10:*:*:*:*:*:*:*",
+        "cpeNameId": "C5BA8E12-BA79-4CFB-9A88-348B024AE689",
+        "lastModified": "2021-07-02T19:03:31.287",
+        "created": "2018-06-19T14:15:19.443",
+        "titles": [
+          {
+            "title": "Symantec SSL Visibility 3.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:ssl_visibility_aapliance:3.10:*:*:*:*:*:*:*",
+            "cpeNameId": "62F61524-472F-4CA4-B42E-9852F71679BB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:symantec:ssl_visibility:3.11:*:*:*:*:*:*:*",
+        "cpeNameId": "5C52B817-FC0D-4ECF-8DB0-207A626FA9FA",
+        "lastModified": "2021-07-02T19:03:31.287",
+        "created": "2018-06-19T14:15:19.443",
+        "titles": [
+          {
+            "title": "Symantec SSL Visibility 3.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:ssl_visibility_aapliance:3.11:*:*:*:*:*:*:*",
+            "cpeNameId": "D029BACF-E563-41DB-B694-BC4EF8408EE1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:symantec:ssl_visibility:3.12:*:*:*:*:*:*:*",
+        "cpeNameId": "2788DB70-6570-445E-987A-FABC59FF1CF8",
+        "lastModified": "2021-07-02T19:03:31.287",
+        "created": "2018-06-19T14:15:19.443",
+        "titles": [
+          {
+            "title": "Symantec SSL Visibility 3.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:ssl_visibility_aapliance:3.12:*:*:*:*:*:*:*",
+            "cpeNameId": "03EB0263-37EA-4F6D-94B4-721533DBC6AF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:symantec:ssl_visibility:3.8.4fc:*:*:*:*:*:*:*",
+      "title": "Symantec SSL Visibility 3.8.4fc",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:ssl_visibility_aapliance:3.8.4fc:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:symantec:ssl_visibility:3.10:*:*:*:*:*:*:*",
+      "title": "Symantec SSL Visibility 3.10",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:ssl_visibility_aapliance:3.10:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:symantec:ssl_visibility:3.11:*:*:*:*:*:*:*",
+      "title": "Symantec SSL Visibility 3.11",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:ssl_visibility_aapliance:3.11:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:symantec:ssl_visibility:3.12:*:*:*:*:*:*:*",
+      "title": "Symantec SSL Visibility 3.12",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:ssl_visibility_aapliance:3.12:*:*:*:*:*:*:*"
+    }
+  ]
+}

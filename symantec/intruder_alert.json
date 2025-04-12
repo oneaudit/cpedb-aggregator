@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:intruder_alert:-:*:*:*:*:*:*:*",
+        "cpeNameId": "283D992C-BD07-4F0C-9B3D-CEF14C6751A1",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Symantec Intruder Alert",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:intruder_alert:3.6:*:*:*:*:*:*:*",
+        "cpeNameId": "9DC61ABB-D61E-4D6E-A491-891FB0AC0A99",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Symantec Intruder Alert 3.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:symantec:intruder_alert:-:*:*:*:*:*:*:*",
+      "title": "Symantec Intruder Alert",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:intruder_alert:3.6:*:*:*:*:*:*:*",
+      "title": "Symantec Intruder Alert 3.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

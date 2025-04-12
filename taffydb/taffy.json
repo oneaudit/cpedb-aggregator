@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:taffydb:taffy:-:*:*:*:*:node.js:*:*",
+        "cpeNameId": "E934C496-B812-4313-A810-2430E741691F",
+        "lastModified": "2020-02-25T16:00:03.517",
+        "created": "2020-02-25T16:00:03.517",
+        "titles": [
+          {
+            "title": "TaffyDB Taffy for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:taffydb:taffy:2.6.2:*:*:*:*:node.js:*:*",
+        "cpeNameId": "C91B3FBB-FDFE-461F-8348-56303D471E42",
+        "lastModified": "2020-02-25T16:00:03.827",
+        "created": "2020-02-25T16:00:03.827",
+        "titles": [
+          {
+            "title": "TaffyDB Taffy 2.6.2 for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:taffydb:taffy:-:*:*:*:*:node.js:*:*",
+      "title": "TaffyDB Taffy for Node.js",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:taffydb:taffy:2.6.2:*:*:*:*:node.js:*:*",
+      "title": "TaffyDB Taffy 2.6.2 for Node.js",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

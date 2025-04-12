@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:switchvpn:switchvpn:2.1012.03:*:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "4F646E54-6345-4BA4-BE17-986E0E96D96A",
+        "lastModified": "2020-05-11T19:20:57.163",
+        "created": "2019-04-19T14:30:10.747",
+        "titles": [
+          {
+            "title": "SwitchVPN 2.1012.03 for Mac OS X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:switchvpn:switchvpn:2.1012.03:*:*:*:*:macos:*:*",
+            "cpeNameId": "90C2D486-69E4-4184-B252-43E3A0C3C2D7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:switchvpn:switchvpn:2.1012.03:*:*:*:*:macos:*:*",
+        "cpeNameId": "90C2D486-69E4-4184-B252-43E3A0C3C2D7",
+        "lastModified": "2020-05-11T19:20:11.800",
+        "created": "2020-05-11T19:20:11.800",
+        "titles": [
+          {
+            "title": "SwitchVPN 2.1012.03 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:switchvpn:switchvpn:2.1012.03:*:*:*:*:mac_os_x:*:*",
+      "title": "SwitchVPN 2.1012.03 for Mac OS X",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:switchvpn:switchvpn:2.1012.03:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:switchvpn:switchvpn:2.1012.03:*:*:*:*:macos:*:*",
+      "title": "SwitchVPN 2.1012.03 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:norton_security:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A7628863-AC62-44A8-BA0C-E39BAE5E999D",
+        "lastModified": "2016-09-09T17:48:05.383",
+        "created": "2016-09-09T17:48:05.383",
+        "titles": [
+          {
+            "title": "Symantec Norton Security -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:mac:*:*",
+        "cpeNameId": "5D113050-229D-462E-8EE0-D346198984CF",
+        "lastModified": "2017-11-30T19:34:54.903",
+        "created": "2016-09-09T17:48:05.837",
+        "titles": [
+          {
+            "title": "Symantec Norton Security 13.0.1 for Mac",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:mac_os_x:*:*",
+            "cpeNameId": "DFD36ED3-1784-4338-8E39-97D3E73E548F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "DFD36ED3-1784-4338-8E39-97D3E73E548F",
+        "lastModified": "2020-05-11T19:23:07.027",
+        "created": "2017-11-30T19:34:54.810",
+        "titles": [
+          {
+            "title": "Symantec Norton Security 13.0.1 for Mac",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:macos:*:*",
+            "cpeNameId": "4CA48E68-2753-4F73-A223-54C85626938E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:macos:*:*",
+        "cpeNameId": "4CA48E68-2753-4F73-A223-54C85626938E",
+        "lastModified": "2020-05-11T19:20:29.270",
+        "created": "2020-05-11T19:20:29.270",
+        "titles": [
+          {
+            "title": "Symantec Norton Security 13.0.1 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:symantec:norton_security:-:*:*:*:*:*:*:*",
+      "title": "Symantec Norton Security -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:mac:*:*",
+      "title": "Symantec Norton Security 13.0.1 for Mac",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:mac_os_x:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:mac_os_x:*:*",
+      "title": "Symantec Norton Security 13.0.1 for Mac",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:macos:*:*",
+      "title": "Symantec Norton Security 13.0.1 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

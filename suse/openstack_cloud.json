@@ -1,0 +1,165 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:suse:openstack_cloud:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5DBD808F-D36B-4733-A9F6-3ABAA10DDD99",
+        "lastModified": "2021-08-04T16:32:17.533",
+        "created": "2016-04-11T14:31:22.953",
+        "titles": [
+          {
+            "title": "SUSE Openstack Cloud 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:suse:openstack_cloud:5:*:*:*:*:*:*:*",
+            "cpeNameId": "3A1142EE-EDA0-4B0C-9A15-944B82242015"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:suse:openstack_cloud:5:*:*:*:*:*:*:*",
+        "cpeNameId": "3A1142EE-EDA0-4B0C-9A15-944B82242015",
+        "lastModified": "2021-08-04T16:32:17.533",
+        "created": "2016-06-03T20:48:56.780",
+        "titles": [
+          {
+            "title": "SUSE OpenStack Cloud 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:suse:openstack_cloud:5:*:*:*:*:*:*:*",
+        "cpeNameId": "1EFDAB9B-04E1-4627-A6B6-A7C3AFF36AF0",
+        "lastModified": "2021-06-30T16:19:47.780",
+        "created": "2017-07-26T19:40:43.513",
+        "titles": [
+          {
+            "title": "SUSE OpenStack Cloud 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:suse:openstack_cloud:6:*:*:*:*:*:*:*",
+        "cpeNameId": "9C4AEAB4-1F54-4659-8FC0-81E2DF2AAD7A",
+        "lastModified": "2021-08-04T16:32:17.533",
+        "created": "2019-04-23T18:35:07.763",
+        "titles": [
+          {
+            "title": "Suse Openstack Cloud 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:suse:openstack_cloud:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "740825E8-4F55-43B6-AB34-5367FF7A0BC6",
+        "lastModified": "2020-02-28T15:51:46.987",
+        "created": "2020-02-28T15:51:46.987",
+        "titles": [
+          {
+            "title": "SUSE OpenStack Cloud 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:suse:openstack_cloud:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "73527007-A313-4113-AA82-2807FB8A0127",
+        "lastModified": "2020-04-16T18:00:45.363",
+        "created": "2020-04-16T18:00:45.363",
+        "titles": [
+          {
+            "title": "Suse Openstack Cloud 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:suse:openstack_cloud:9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C8368A5A-DA6E-493B-865F-8DA0CDC01C0D",
+        "lastModified": "2020-04-16T18:00:45.473",
+        "created": "2020-04-16T18:00:45.473",
+        "titles": [
+          {
+            "title": "Suse Openstack Cloud 9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:suse:openstack_cloud:5.0:*:*:*:*:*:*:*",
+      "title": "SUSE Openstack Cloud 5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:suse:openstack_cloud:5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:suse:openstack_cloud:5:*:*:*:*:*:*:*",
+      "title": "SUSE OpenStack Cloud 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:suse:openstack_cloud:5:*:*:*:*:*:*:*",
+      "title": "SUSE OpenStack Cloud 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:suse:openstack_cloud:6:*:*:*:*:*:*:*",
+      "title": "Suse Openstack Cloud 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:suse:openstack_cloud:8.0:*:*:*:*:*:*:*",
+      "title": "SUSE OpenStack Cloud 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:suse:openstack_cloud:7.0:*:*:*:*:*:*:*",
+      "title": "Suse Openstack Cloud 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:suse:openstack_cloud:9.0:*:*:*:*:*:*:*",
+      "title": "Suse Openstack Cloud 9.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

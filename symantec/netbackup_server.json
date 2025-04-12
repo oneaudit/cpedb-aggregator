@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:netbackup_server:6.5:*:*:*:*:*:*:*",
+        "cpeNameId": "EA2719A3-45F6-4FB2-A68A-E718DDE1DE9E",
+        "lastModified": "2008-10-01T14:06:44.293",
+        "created": "2008-10-01T14:06:44.293",
+        "titles": [
+          {
+            "title": "Symantec Veritas NetBackup Server 6.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:netbackup_server:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "45675465-F7AB-4691-A09C-116D6518D8A7",
+        "lastModified": "2008-10-01T14:06:44.403",
+        "created": "2008-10-01T14:06:44.403",
+        "titles": [
+          {
+            "title": "Symantec Veritas NetBackup Server 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:netbackup_server:5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "D7AEE03B-68ED-407A-89D3-5888DCF674E4",
+        "lastModified": "2008-10-01T14:06:44.543",
+        "created": "2008-10-01T14:06:44.543",
+        "titles": [
+          {
+            "title": "Symantec Veritas NetBackup Server 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:symantec:netbackup_server:6.5:*:*:*:*:*:*:*",
+      "title": "Symantec Veritas NetBackup Server 6.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:netbackup_server:6.0:*:*:*:*:*:*:*",
+      "title": "Symantec Veritas NetBackup Server 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:netbackup_server:5.1:*:*:*:*:*:*:*",
+      "title": "Symantec Veritas NetBackup Server 5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

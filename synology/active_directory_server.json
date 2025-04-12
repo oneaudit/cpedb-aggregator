@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:synology:active_directory_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6BAB36BF-1BD6-4318-B70B-4B76DC3C0865",
+        "lastModified": "2021-08-17T14:46:05.303",
+        "created": "2020-10-15T13:22:22.083",
+        "titles": [
+          {
+            "title": "Synology Active Directory Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:synology:directory_server:-:*:*:*:*:*:*:*",
+            "cpeNameId": "9EA71C7D-3B30-4B7A-B34E-52D20FC553FA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:synology:active_directory_server:-:*:*:*:*:*:*:*",
+      "title": "Synology Active Directory Server",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:synology:directory_server:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

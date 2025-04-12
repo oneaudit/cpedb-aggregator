@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:symantec:clientless_vpn_gateway_4400:-:*:*:*:*:*:*:*",
+        "cpeNameId": "587F4CAD-DB2D-4C3F-A5B6-662484445FF9",
+        "lastModified": "2008-04-14T20:22:22.470",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Symantec Clientless VPN Gateway 4400 Series",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:symantec:clientless_vpn_gateway_4400:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "604ED323-EA2A-449A-9A91-9FE7FF625423",
+        "lastModified": "2024-05-16T15:35:58.473",
+        "created": "2024-05-16T15:35:58.473",
+        "titles": [
+          {
+            "title": "Symantec Clientless VPN Gateway 4400 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:symantec:clientless_vpn_gateway_4400:-:*:*:*:*:*:*:*",
+      "title": "Symantec Clientless VPN Gateway 4400 Series",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:symantec:clientless_vpn_gateway_4400:5.0:*:*:*:*:*:*:*",
+      "title": "Symantec Clientless VPN Gateway 4400 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

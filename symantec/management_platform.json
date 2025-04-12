@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:management_platform:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "1B05390B-E063-40D2-B1EB-8BFB8AAF4F6B",
+        "lastModified": "2013-10-10T17:05:34.123",
+        "created": "2013-10-10T15:50:37.240",
+        "titles": [
+          {
+            "title": "Symantec Management Platform 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:management_platform:7.1:sp1:*:*:*:*:*:*",
+        "cpeNameId": "6FC68602-C6DC-43B5-A4DB-D111D61CE7AD",
+        "lastModified": "2013-10-10T17:05:34.297",
+        "created": "2013-10-10T15:50:37.410",
+        "titles": [
+          {
+            "title": "Symantec Management Platform 7.1 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:symantec:management_platform:7.1:*:*:*:*:*:*:*",
+      "title": "Symantec Management Platform 7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:management_platform:7.1:sp1:*:*:*:*:*:*",
+      "title": "Symantec Management Platform 7.1 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

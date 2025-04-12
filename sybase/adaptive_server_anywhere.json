@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sybase:adaptive_server_anywhere:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EEC6D2F9-3F6F-422A-8658-76D53EBFC399",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sybase Adaptive Server Anywhere",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sybase:adaptive_server_anywhere:9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "10EC5AB8-67A2-4669-A37A-22440D19473E",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sybase Adaptive Server Anywhere 9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sybase:adaptive_server_anywhere:6.0.3.2747:*:*:*:*:*:*:*",
+        "cpeNameId": "7F19039D-1827-4F8C-AEBE-4FE451B575FE",
+        "lastModified": "2008-04-01T16:56:11.263",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sybase Adaptive Server Anywhere Database Engine 6.0.3.2747",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sybase:adaptive_server_anywhere:-:*:*:*:*:*:*:*",
+      "title": "Sybase Adaptive Server Anywhere",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sybase:adaptive_server_anywhere:9.0:*:*:*:*:*:*:*",
+      "title": "Sybase Adaptive Server Anywhere 9.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sybase:adaptive_server_anywhere:6.0.3.2747:*:*:*:*:*:*:*",
+      "title": "Sybase Adaptive Server Anywhere Database Engine 6.0.3.2747",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

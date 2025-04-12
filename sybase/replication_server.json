@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sybase:replication_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BBAC0FC9-A505-48E9-8C5F-913977B3D3F7",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sybase Replication Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sybase:replication_server:12.6:*:*:*:*:*:*:*",
+        "cpeNameId": "F51D666D-A271-44F3-8321-40466E9A97D4",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sybase Replication Server 12.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sybase:replication_server:-:*:*:*:*:*:*:*",
+      "title": "Sybase Replication Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sybase:replication_server:12.6:*:*:*:*:*:*:*",
+      "title": "Sybase Replication Server 12.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

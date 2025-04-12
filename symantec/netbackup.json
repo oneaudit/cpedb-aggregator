@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:netbackup:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "58EA6796-0479-4CBF-B681-68346C2BC11D",
+        "lastModified": "2012-07-10T03:22:02.933",
+        "created": "2012-07-10T03:22:02.933",
+        "titles": [
+          {
+            "title": "Symantec Netbackup 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:netbackup:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "F198F4F8-33CD-429C-96F7-4BE9EF5037AF",
+        "lastModified": "2012-07-10T03:22:03.370",
+        "created": "2012-07-10T03:22:03.370",
+        "titles": [
+          {
+            "title": "Symantec Netbackup 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:symantec:netbackup:7.0:*:*:*:*:*:*:*",
+      "title": "Symantec Netbackup 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:netbackup:7.1:*:*:*:*:*:*:*",
+      "title": "Symantec Netbackup 7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

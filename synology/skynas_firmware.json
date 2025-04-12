@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:synology:skynas_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0DF1B4C0-024A-47AF-AB66-EB27582680F7",
+        "lastModified": "2021-05-27T18:02:27.163",
+        "created": "2020-10-15T13:22:22.083",
+        "titles": [
+          {
+            "title": "Synology SkyNAS Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:synology:skynas_firmware:6.2.3-25426:*:*:*:*:*:*:*",
+        "cpeNameId": "54A9542C-0FBD-493E-9844-727F602931A8",
+        "lastModified": "2021-05-27T18:02:27.163",
+        "created": "2020-11-02T12:37:00.647",
+        "titles": [
+          {
+            "title": "Synology SkyNAS Firmware 6.2.3-25426",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:synology:skynas_firmware:-:*:*:*:*:*:*:*",
+      "title": "Synology SkyNAS Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:synology:skynas_firmware:6.2.3-25426:*:*:*:*:*:*:*",
+      "title": "Synology SkyNAS Firmware 6.2.3-25426",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

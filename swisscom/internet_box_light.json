@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:swisscom:internet_box_light:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6B6B916F-2920-4058-98AA-94E194B79FFE",
+        "lastModified": "2021-06-28T13:15:58.387",
+        "created": "2020-08-05T13:24:53.317",
+        "titles": [
+          {
+            "title": "Swisscom Internet Box Light",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:swisscom:internet-box_light:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B1F60BA3-D952-47BD-AAC4-AFB1E0268FF4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:swisscom:internet_box_light:-:*:*:*:*:*:*:*",
+      "title": "Swisscom Internet Box Light",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:swisscom:internet-box_light:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

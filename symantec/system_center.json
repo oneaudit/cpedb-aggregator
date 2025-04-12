@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:system_center:-:*:*:*:*:*:*:*",
+        "cpeNameId": "73892E47-65A1-4BEA-A978-6E06B5DA0FD0",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Symantec System Center",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:system_center:10.1.6000.6:*:*:*:*:*:*:*",
+        "cpeNameId": "595358CF-888F-4B77-9497-55D822BF5497",
+        "lastModified": "2012-03-06T14:30:54.110",
+        "created": "2012-03-06T14:30:54.110",
+        "titles": [
+          {
+            "title": "Symantec System Center 10.1.6000.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:system_center:10.1.8000.8:*:*:*:*:*:*:*",
+        "cpeNameId": "DBF5AC8B-0419-4B41-A6AA-3F1D73B1B67D",
+        "lastModified": "2012-07-10T03:22:18.433",
+        "created": "2012-07-10T03:22:18.433",
+        "titles": [
+          {
+            "title": "Symantec System Center 10.1.8000.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:symantec:system_center:-:*:*:*:*:*:*:*",
+      "title": "Symantec System Center",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:system_center:10.1.6000.6:*:*:*:*:*:*:*",
+      "title": "Symantec System Center 10.1.6000.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:system_center:10.1.8000.8:*:*:*:*:*:*:*",
+      "title": "Symantec System Center 10.1.8000.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

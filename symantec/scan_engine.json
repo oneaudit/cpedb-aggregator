@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:scan_engine:-:*:*:*:*:*:*:*",
+        "cpeNameId": "71F0125B-1732-4463-A39A-7103773313CA",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Symantec Scan Engine",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:scan_engine:5.2.8.58:*:*:*:*:*:*:*",
+        "cpeNameId": "0B5BE8A2-3579-4E66-8C7D-4CA4971B177D",
+        "lastModified": "2012-07-10T03:22:15.997",
+        "created": "2012-07-10T03:22:15.997",
+        "titles": [
+          {
+            "title": "Symantec Scan Engine 5.2.8.58",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:symantec:scan_engine:-:*:*:*:*:*:*:*",
+      "title": "Symantec Scan Engine",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:scan_engine:5.2.8.58:*:*:*:*:*:*:*",
+      "title": "Symantec Scan Engine 5.2.8.58",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

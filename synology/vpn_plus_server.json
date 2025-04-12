@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:synology:vpn_plus_server:1.4.3-0534:*:*:*:*:*:*:*",
+        "cpeNameId": "168E05F4-9709-41EC-B887-6CCF49D40C95",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "Synology VPN Plus Server 1.4.3-0534",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:synology:vpn_plus_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8126822B-4225-4E77-BCE6-E370438DDDAC",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "Synology VPN Plus Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:synology:vpn_plus_server:1.4.3-0534:*:*:*:*:*:*:*",
+      "title": "Synology VPN Plus Server 1.4.3-0534",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:synology:vpn_plus_server:-:*:*:*:*:*:*:*",
+      "title": "Synology VPN Plus Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

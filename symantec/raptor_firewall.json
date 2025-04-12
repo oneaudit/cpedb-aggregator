@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:raptor_firewall:-:*:*:*:*:*:*:*",
+        "cpeNameId": "58609DB0-01C3-4F07-B90B-4DCEBD16F3AC",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Symantec Raptor Firewall",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:raptor_firewall:6.5:*:*:*:*:*:*:*",
+        "cpeNameId": "4A39C539-C886-4195-8122-6B3384E89573",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Symantec Raptor Firewall 6.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:raptor_firewall:6.5.3:*:*:*:*:*:*:*",
+        "cpeNameId": "9E07C755-8247-4105-977F-21A8E11BB7E2",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Symantec Raptor Firewall 6.5.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:symantec:raptor_firewall:-:*:*:*:*:*:*:*",
+      "title": "Symantec Raptor Firewall",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:raptor_firewall:6.5:*:*:*:*:*:*:*",
+      "title": "Symantec Raptor Firewall 6.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:raptor_firewall:6.5.3:*:*:*:*:*:*:*",
+      "title": "Symantec Raptor Firewall 6.5.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

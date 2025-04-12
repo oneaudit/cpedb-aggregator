@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:client_firewall:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D0409A99-642D-4A78-98C7-74CDB5F6AC07",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Symantec Client Firewall",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:client_firewall:5.01:*:*:*:*:*:*:*",
+        "cpeNameId": "E59F3C08-0831-439D-8FAD-963E6F82E876",
+        "lastModified": "2008-04-01T16:56:45.187",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Symantec Symantec Client Firewall 5.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:client_firewall:5.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "BD04BEDC-AF9E-4301-9046-401CF05B212B",
+        "lastModified": "2008-04-01T16:56:45.263",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Symantec Symantec Client Firewall 5.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:symantec:client_firewall:-:*:*:*:*:*:*:*",
+      "title": "Symantec Client Firewall",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:client_firewall:5.01:*:*:*:*:*:*:*",
+      "title": "Symantec Symantec Client Firewall 5.01",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:client_firewall:5.1.1:*:*:*:*:*:*:*",
+      "title": "Symantec Symantec Client Firewall 5.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

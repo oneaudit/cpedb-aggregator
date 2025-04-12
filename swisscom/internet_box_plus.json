@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:swisscom:internet_box_plus:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9EF80CE3-4B3E-4FA4-974A-751FC36DAC41",
+        "lastModified": "2021-06-28T13:15:58.387",
+        "created": "2020-08-05T13:24:53.317",
+        "titles": [
+          {
+            "title": "Swisscom Internet Box Plus",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:swisscom:internet-box_plus:-:*:*:*:*:*:*:*",
+            "cpeNameId": "8A2A450A-00AA-4D7A-99E6-C40937D9F53D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:swisscom:internet_box_plus:-:*:*:*:*:*:*:*",
+      "title": "Swisscom Internet Box Plus",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:swisscom:internet-box_plus:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

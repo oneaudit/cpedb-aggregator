@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:synology:skynas:-:*:*:*:*:*:*:*",
+        "cpeNameId": "379EC44F-7D3B-4A4F-8141-05EEE3502996",
+        "lastModified": "2019-06-11T12:22:51.387",
+        "created": "2019-06-11T12:22:51.387",
+        "titles": [
+          {
+            "title": "Synology SkyNAS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:synology:skynas:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BEFC57CF-991A-4154-8507-9C580E70A16D",
+        "lastModified": "2021-08-16T15:38:56.793",
+        "created": "2020-01-27T19:43:59.727",
+        "titles": [
+          {
+            "title": "Synology SkyNAS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:synology:skynas:6.1.5-15254:*:*:*:*:*:*:*",
+        "cpeNameId": "DE213ABA-9984-455D-A63D-987124C1C5F3",
+        "lastModified": "2020-10-30T18:03:10.750",
+        "created": "2020-10-30T18:03:10.750",
+        "titles": [
+          {
+            "title": "Synology SkyNAS 6.1.5-15254",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:synology:skynas:-:*:*:*:*:*:*:*",
+      "title": "Synology SkyNAS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:synology:skynas:-:*:*:*:*:*:*:*",
+      "title": "Synology SkyNAS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:synology:skynas:6.1.5-15254:*:*:*:*:*:*:*",
+      "title": "Synology SkyNAS 6.1.5-15254",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

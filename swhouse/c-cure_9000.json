@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:swhouse:c-cure_9000:2.70:*:*:*:*:*:*:*",
+        "cpeNameId": "5C44083C-922D-44D2-9B6C-F4B7A0656523",
+        "lastModified": "2021-07-06T18:09:10.910",
+        "created": "2020-06-12T18:07:51.157",
+        "titles": [
+          {
+            "title": "Swhouse C-Cure 9000 2.70",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:johnsoncontrols:c-cure_9000_firmware:2.70:*:*:*:*:*:*:*",
+            "cpeNameId": "B482C1A0-FE7E-4858-9470-0F1AA516C2C4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:swhouse:c-cure_9000:2.70:*:*:*:*:*:*:*",
+      "title": "Swhouse C-Cure 9000 2.70",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:johnsoncontrols:c-cure_9000_firmware:2.70:*:*:*:*:*:*:*"
+    }
+  ]
+}

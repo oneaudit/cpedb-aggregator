@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:swisscom:internet_box_3_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7E07BE53-D36F-422D-9295-A0DEB86FAAB5",
+        "lastModified": "2021-06-28T13:15:58.387",
+        "created": "2020-08-05T13:25:20.863",
+        "titles": [
+          {
+            "title": "Swisscom Internet Box 3 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:swisscom:internet-box_3_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "2D243E4C-C5A7-48BD-BFC3-23B3B0900490"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:swisscom:internet_box_3_firmware:11.01.20:*:*:*:*:*:*:*",
+        "cpeNameId": "91A00947-3B9A-4786-B60D-DE96E5802A3A",
+        "lastModified": "2021-06-28T13:15:58.387",
+        "created": "2020-08-05T13:25:20.863",
+        "titles": [
+          {
+            "title": "Swisscom Internet Box 3 Firmware 11.01.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:swisscom:internet-box_3_firmware:11.01.20:*:*:*:*:*:*:*",
+            "cpeNameId": "CE37C6DE-CBBA-4241-B570-A6FCE287D19C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:swisscom:internet_box_3_firmware:-:*:*:*:*:*:*:*",
+      "title": "Swisscom Internet Box 3 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:swisscom:internet-box_3_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:swisscom:internet_box_3_firmware:11.01.20:*:*:*:*:*:*:*",
+      "title": "Swisscom Internet Box 3 Firmware 11.01.20",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:swisscom:internet-box_3_firmware:11.01.20:*:*:*:*:*:*:*"
+    }
+  ]
+}

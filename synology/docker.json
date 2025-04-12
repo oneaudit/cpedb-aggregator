@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:synology:docker:18.09.0-0515:*:*:*:*:*:*:*",
+        "cpeNameId": "8AD4E2B0-71CE-4DC5-ACBF-4A35F6F5B622",
+        "lastModified": "2021-08-17T14:49:36.677",
+        "created": "2021-06-07T17:20:01.847",
+        "titles": [
+          {
+            "title": "Synology Docker 18.09.0-0515",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:synology:docker:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C6400E38-2FE7-4A93-9D56-53B552B4D57D",
+        "lastModified": "2021-08-17T14:49:36.677",
+        "created": "2021-06-07T17:20:01.847",
+        "titles": [
+          {
+            "title": "Synology Docker",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:synology:docker:18.09.0-0515:*:*:*:*:*:*:*",
+      "title": "Synology Docker 18.09.0-0515",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:synology:docker:-:*:*:*:*:*:*:*",
+      "title": "Synology Docker",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

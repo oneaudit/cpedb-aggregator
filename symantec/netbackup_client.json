@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:netbackup_client:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AE1161B5-F8A6-43F5-90DD-997DE8E68461",
+        "lastModified": "2012-07-10T03:22:03.853",
+        "created": "2012-07-10T03:22:03.853",
+        "titles": [
+          {
+            "title": "Symantec Netbackup Client 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:symantec:netbackup_client:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "3885C22D-738C-4EF8-BB1A-A1E441E3D119",
+        "lastModified": "2012-07-10T03:22:04.340",
+        "created": "2012-07-10T03:22:04.340",
+        "titles": [
+          {
+            "title": "Symantec Netbackup Client 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:symantec:netbackup_client:7.0:*:*:*:*:*:*:*",
+      "title": "Symantec Netbackup Client 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:symantec:netbackup_client:7.1:*:*:*:*:*:*:*",
+      "title": "Symantec Netbackup Client 7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

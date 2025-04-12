@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:symantec:pgp_desktop_for_windows:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5F9A86AC-60F9-4B0F-8D1A-3C351DC174C0",
+        "lastModified": "2013-02-27T17:42:42.587",
+        "created": "2011-03-04T17:47:06.217",
+        "titles": [
+          {
+            "title": "Symantec PGP Desktop for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:symantec:pgp_desktop:-:-:*:*:*:windows:*:*",
+            "cpeNameId": "85F9559A-C87B-40A5-8C20-F70F8980115E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:symantec:pgp_desktop_for_windows:-:*:*:*:*:*:*:*",
+      "title": "Symantec PGP Desktop for Windows",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:symantec:pgp_desktop:-:-:*:*:*:windows:*:*"
+    }
+  ]
+}

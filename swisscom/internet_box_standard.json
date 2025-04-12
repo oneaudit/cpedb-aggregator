@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:swisscom:internet_box_standard:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EF128D6E-6E43-4715-A614-5B2F1DB0865C",
+        "lastModified": "2021-06-28T13:15:58.387",
+        "created": "2020-08-05T13:24:53.317",
+        "titles": [
+          {
+            "title": "Swisscom Internet Box Standard",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:swisscom:internet-box_standard:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4B354E46-FB46-4D08-9868-4F2F56DAC2A5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:swisscom:internet_box_standard:-:*:*:*:*:*:*:*",
+      "title": "Swisscom Internet Box Standard",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:swisscom:internet-box_standard:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
