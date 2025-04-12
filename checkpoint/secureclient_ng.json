@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:checkpoint:secureclient_ng:-:*:*:*:*:*:*:*",
+        "cpeNameId": "358C3933-546C-4F1D-AE0B-D9F2B46C9E9F",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Checkpoint SecureClient NG",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:checkpoint:secureclient_ng:r56:*:*:*:*:*:*:*",
+        "cpeNameId": "6F43340E-D139-4FCB-AF71-12633700B82A",
+        "lastModified": "2008-04-01T16:09:44.077",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Checkpoint SecureClient NG with Application Intelligence R56",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:checkpoint:secureclient_ng:r54:*:*:*:*:*:*:*",
+        "cpeNameId": "5B2CC774-F346-478F-B356-155A97923C6F",
+        "lastModified": "2008-04-01T16:09:44.403",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Checkpoint SecuRemote NG with Application Intelligence R54",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:checkpoint:secureclient_ng:-:*:*:*:*:*:*:*",
+      "title": "Checkpoint SecureClient NG",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:checkpoint:secureclient_ng:r56:*:*:*:*:*:*:*",
+      "title": "Checkpoint SecureClient NG with Application Intelligence R56",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:checkpoint:secureclient_ng:r54:*:*:*:*:*:*:*",
+      "title": "Checkpoint SecuRemote NG with Application Intelligence R54",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

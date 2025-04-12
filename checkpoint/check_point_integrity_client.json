@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:checkpoint:check_point_integrity_client:-:*:*:*:*:*:*:*",
+        "cpeNameId": "94817ADF-05F8-412E-BAB3-79025CC111B7",
+        "lastModified": "2008-04-01T16:16:53.517",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Zone Labs Check Point Integrity Client",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:checkpoint:check_point_integrity_client:4.5.122.000:*:*:*:*:*:*:*",
+        "cpeNameId": "A859B7F8-3904-4E89-AA29-BE17AB480B27",
+        "lastModified": "2008-04-01T16:16:53.563",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Zone Labs Check Point Integrity Client 4.5.122.000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:checkpoint:check_point_integrity_client:5.1.556.166:*:*:*:*:*:*:*",
+        "cpeNameId": "6D12B77B-4E5E-4C2F-A797-BA85E678F512",
+        "lastModified": "2008-04-01T16:16:53.610",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Zone Labs Check Point Integrity Client 5.1.556.166",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:checkpoint:check_point_integrity_client:-:*:*:*:*:*:*:*",
+      "title": "Zone Labs Check Point Integrity Client",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:checkpoint:check_point_integrity_client:4.5.122.000:*:*:*:*:*:*:*",
+      "title": "Zone Labs Check Point Integrity Client 4.5.122.000",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:checkpoint:check_point_integrity_client:5.1.556.166:*:*:*:*:*:*:*",
+      "title": "Zone Labs Check Point Integrity Client 5.1.556.166",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

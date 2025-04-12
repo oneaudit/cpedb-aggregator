@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:agent_desktop:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B08A3CBC-4FE5-45AD-B90A-5CD7B385850F",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco Agent Desktop",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:agent_desktop:80.2.9:*:*:*:*:*:*:*",
+        "cpeNameId": "22F2B111-9191-4FDE-ABC2-DD0298A2BB94",
+        "lastModified": "2012-05-08T13:50:55.647",
+        "created": "2012-05-08T13:50:55.647",
+        "titles": [
+          {
+            "title": "Cisco Agent Desktop 80.2.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:agent_desktop:-:*:*:*:*:*:*:*",
+      "title": "Cisco Agent Desktop",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:agent_desktop:80.2.9:*:*:*:*:*:*:*",
+      "title": "Cisco Agent Desktop 80.2.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

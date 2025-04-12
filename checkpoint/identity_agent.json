@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:checkpoint:identity_agent:r81.018.0000:*:*:*:*:*:*:*",
+        "cpeNameId": "927F1940-4DE7-4BE6-AEBC-F74889F4DAF1",
+        "lastModified": "2021-05-26T17:05:37.157",
+        "created": "2021-04-26T14:09:24.780",
+        "titles": [
+          {
+            "title": "Check Point Identity Agent R81.018.0000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:checkpoint:identity_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C98CC26C-0DBA-4018-933F-8F713FD2C435",
+        "lastModified": "2021-05-26T17:05:37.157",
+        "created": "2021-04-26T14:09:24.780",
+        "titles": [
+          {
+            "title": "Check Point Identity Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:checkpoint:identity_agent:r81.018.0000:*:*:*:*:*:*:*",
+      "title": "Check Point Identity Agent R81.018.0000",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:checkpoint:identity_agent:-:*:*:*:*:*:*:*",
+      "title": "Check Point Identity Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

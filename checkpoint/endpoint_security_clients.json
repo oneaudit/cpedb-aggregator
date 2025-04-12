@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:checkpoint:endpoint_security_clients:e81.00:*:*:*:*:windows:*:*",
+        "cpeNameId": "33D85BEE-87F7-4CA2-BA26-C050ADEEF4AC",
+        "lastModified": "2021-03-24T19:04:36.510",
+        "created": "2019-07-10T02:48:18.353",
+        "titles": [
+          {
+            "title": "Checkpoint Endpoint Security Clients E81.00 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:checkpoint:endpoint_security_clients:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "60274469-E6A7-4F50-B450-A51A62449FCF",
+        "lastModified": "2020-01-06T14:11:15.197",
+        "created": "2020-01-06T14:11:15.197",
+        "titles": [
+          {
+            "title": "Check Point Endpoint Security Clients for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:checkpoint:endpoint_security_clients:e82.10:*:*:*:*:windows:*:*",
+        "cpeNameId": "490FB232-C7D7-49ED-AA8B-719E60767F45",
+        "lastModified": "2020-01-06T14:11:15.587",
+        "created": "2020-01-06T14:11:15.587",
+        "titles": [
+          {
+            "title": "Check Point Endpoint Security Clients E82.10 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:checkpoint:endpoint_security_clients:e81.00:*:*:*:*:windows:*:*",
+      "title": "Checkpoint Endpoint Security Clients E81.00 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:checkpoint:endpoint_security_clients:-:*:*:*:*:windows:*:*",
+      "title": "Check Point Endpoint Security Clients for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:checkpoint:endpoint_security_clients:e82.10:*:*:*:*:windows:*:*",
+      "title": "Check Point Endpoint Security Clients E82.10 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

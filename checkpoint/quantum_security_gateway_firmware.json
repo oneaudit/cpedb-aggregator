@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:checkpoint:quantum_security_gateway_firmware:r80.40:*:*:*:*:*:*:*",
+        "cpeNameId": "3D2A6BFA-AC45-4523-AC55-7224C848D2A4",
+        "lastModified": "2021-06-16T15:45:36.410",
+        "created": "2021-04-20T12:35:28.840",
+        "titles": [
+          {
+            "title": "Check Point Quantum Security Gateway Firmware R80.40",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:checkpoint:quantum_security_gateway_firmware:r81:*:*:*:*:*:*:*",
+        "cpeNameId": "0427D68C-5533-4881-8DE2-BC36B8EB2AFC",
+        "lastModified": "2021-06-16T15:45:36.410",
+        "created": "2021-04-20T12:35:28.840",
+        "titles": [
+          {
+            "title": "Check Point Quantum Security Gateway Firmware R81",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:checkpoint:quantum_security_gateway_firmware:r80.40:*:*:*:*:*:*:*",
+      "title": "Check Point Quantum Security Gateway Firmware R80.40",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:checkpoint:quantum_security_gateway_firmware:r81:*:*:*:*:*:*:*",
+      "title": "Check Point Quantum Security Gateway Firmware R81",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

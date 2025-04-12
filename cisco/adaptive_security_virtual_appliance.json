@@ -1,0 +1,143 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:adaptive_security_virtual_appliance:v5:*:*:*:*:*:*:*",
+        "cpeNameId": "95B41C2A-D106-42FA-B2C1-5B3352FA5FF5",
+        "lastModified": "2021-04-08T17:24:05.940",
+        "created": "2018-05-23T20:54:36.273",
+        "titles": [
+          {
+            "title": "Cisco Adaptive Security Virtual Appliance (ASAv) V5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:adaptive_security_virtual_appliance:v10:*:*:*:*:*:*:*",
+        "cpeNameId": "93F616D0-2523-4D1E-8E4F-95D000E3D787",
+        "lastModified": "2021-04-08T17:24:05.940",
+        "created": "2018-05-23T20:54:36.273",
+        "titles": [
+          {
+            "title": "Cisco Adaptive Security Virtual Appliance (ASAv) V10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:adaptive_security_virtual_appliance:v30:*:*:*:*:*:*:*",
+        "cpeNameId": "670CB558-408D-40F2-9269-05D97DD05826",
+        "lastModified": "2021-04-08T17:24:05.940",
+        "created": "2018-05-23T20:54:36.273",
+        "titles": [
+          {
+            "title": "Cisco Adaptive Security Virtual Appliance (ASAv) V30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:adaptive_security_virtual_appliance:v50:*:*:*:*:*:*:*",
+        "cpeNameId": "DD3A5C11-FCF5-422A-999D-DBF010570825",
+        "lastModified": "2021-04-08T17:24:05.940",
+        "created": "2018-05-23T20:54:36.273",
+        "titles": [
+          {
+            "title": "Cisco Adaptive Security Virtual Appliance (ASAv) V50",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:adaptive_security_virtual_appliance:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5E6FC605-3904-49EE-B52C-D5D98DF3AD07",
+        "lastModified": "2022-05-31T12:08:31.033",
+        "created": "2020-10-29T18:22:40.067",
+        "titles": [
+          {
+            "title": "Cisco Adaptive Security Virtual Appliance (ASAv)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:adaptive_security_virtual_appliance:-:*:*:*:*:*:*:*",
+            "cpeNameId": "18767C83-BA4F-4C93-BB2E-6377B6ED885C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:adaptive_security_virtual_appliance:-:*:*:*:*:*:*:*",
+        "cpeNameId": "18767C83-BA4F-4C93-BB2E-6377B6ED885C",
+        "lastModified": "2022-05-31T12:08:31.033",
+        "created": "2022-05-31T12:07:28.600",
+        "titles": [
+          {
+            "title": "Cisco Adaptive Security Virtual Appliance (ASAv)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:adaptive_security_virtual_appliance:v5:*:*:*:*:*:*:*",
+      "title": "Cisco Adaptive Security Virtual Appliance (ASAv) V5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:adaptive_security_virtual_appliance:v10:*:*:*:*:*:*:*",
+      "title": "Cisco Adaptive Security Virtual Appliance (ASAv) V10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:adaptive_security_virtual_appliance:v30:*:*:*:*:*:*:*",
+      "title": "Cisco Adaptive Security Virtual Appliance (ASAv) V30",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:adaptive_security_virtual_appliance:v50:*:*:*:*:*:*:*",
+      "title": "Cisco Adaptive Security Virtual Appliance (ASAv) V50",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:adaptive_security_virtual_appliance:-:*:*:*:*:*:*:*",
+      "title": "Cisco Adaptive Security Virtual Appliance (ASAv)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:adaptive_security_virtual_appliance:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:cisco:adaptive_security_virtual_appliance:-:*:*:*:*:*:*:*",
+      "title": "Cisco Adaptive Security Virtual Appliance (ASAv)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

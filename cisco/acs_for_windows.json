@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:acs_for_windows:-:*:*:*:*:*:*:*",
+        "cpeNameId": "82BAE87E-AB55-4FBC-BC57-9000BB66109D",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco ACS for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:acs_for_windows:4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "9D372B53-524A-4272-B50D-3D23AA928F77",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco ACS for Windows 4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:acs_for_windows:-:*:*:*:*:*:*:*",
+      "title": "Cisco ACS for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:acs_for_windows:4.1:*:*:*:*:*:*:*",
+      "title": "Cisco ACS for Windows 4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
