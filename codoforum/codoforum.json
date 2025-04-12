@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:codoforum:codoforum:2.5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "863A5CC5-7D1F-4C17-8154-8DD2D9AAE922",
+        "lastModified": "2020-02-18T18:20:01.587",
+        "created": "2015-03-24T12:02:54.593",
+        "titles": [
+          {
+            "title": "Codoforum 2.5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:codologic:codoforum:2.5.1:*:*:*:*:*:*:*",
+            "cpeNameId": "682E3B7F-104E-4276-A590-E4751EE86248"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:codoforum:codoforum:4.8.3:*:*:*:*:*:*:*",
+        "cpeNameId": "31BD06B3-4C52-46CC-AB83-5EB6961C1F06",
+        "lastModified": "2020-02-18T18:20:03.180",
+        "created": "2020-01-09T13:37:49.600",
+        "titles": [
+          {
+            "title": "Codoforum 4.8.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:codologic:codoforum:4.8.3:*:*:*:*:*:*:*",
+            "cpeNameId": "883999B5-F9E6-4A2B-8690-092258AEA958"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:codoforum:codoforum:4.8.4:*:*:*:*:*:*:*",
+        "cpeNameId": "B3E5ABE0-A4F2-4686-B083-324FC2A52DE4",
+        "lastModified": "2020-02-18T18:20:04.037",
+        "created": "2020-01-09T13:37:49.790",
+        "titles": [
+          {
+            "title": "Codoforum 4.8.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:codologic:codoforum:4.8.4:*:*:*:*:*:*:*",
+            "cpeNameId": "39F3FD41-D629-4292-B3B8-2FFE506AC352"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:codoforum:codoforum:4.8.8:*:*:*:*:*:*:*",
+        "cpeNameId": "ACDC7338-2A32-442A-86C5-BDEB981ACDE2",
+        "lastModified": "2020-02-18T18:20:04.163",
+        "created": "2020-02-18T15:54:07.613",
+        "titles": [
+          {
+            "title": "Codoforum 4.8.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:codologic:codoforum:4.8.8:*:*:*:*:*:*:*",
+            "cpeNameId": "F0598390-9880-47B4-8B87-2C22BE3B0EF4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:codoforum:codoforum:2.5.1:*:*:*:*:*:*:*",
+      "title": "Codoforum 2.5.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:codologic:codoforum:2.5.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:codoforum:codoforum:4.8.3:*:*:*:*:*:*:*",
+      "title": "Codoforum 4.8.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:codologic:codoforum:4.8.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:codoforum:codoforum:4.8.4:*:*:*:*:*:*:*",
+      "title": "Codoforum 4.8.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:codologic:codoforum:4.8.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:codoforum:codoforum:4.8.8:*:*:*:*:*:*:*",
+      "title": "Codoforum 4.8.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:codologic:codoforum:4.8.8:*:*:*:*:*:*:*"
+    }
+  ]
+}

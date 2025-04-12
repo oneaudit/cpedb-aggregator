@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:comodo:firewall:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C2BB1C22-9DF4-4E57-8079-5855E2F6384D",
+        "lastModified": "2021-05-27T16:06:51.903",
+        "created": "2019-07-26T14:04:34.960",
+        "titles": [
+          {
+            "title": "Comodo Firewall",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:comodo:firewall:12.0.0.6870:*:*:*:*:*:*:*",
+        "cpeNameId": "F8B71080-A9B5-4653-B7CA-0C7084DD9B93",
+        "lastModified": "2021-05-27T16:06:51.903",
+        "created": "2019-07-26T14:04:34.960",
+        "titles": [
+          {
+            "title": "Comodo Firewall 12.0.0.6870",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:comodo:firewall:-:*:*:*:*:*:*:*",
+      "title": "Comodo Firewall",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:comodo:firewall:12.0.0.6870:*:*:*:*:*:*:*",
+      "title": "Comodo Firewall 12.0.0.6870",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

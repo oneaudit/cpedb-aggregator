@@ -1,0 +1,187 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:comodo:antivirus:11.0.0.6582:*:*:*:*:*:*:*",
+        "cpeNameId": "5A1FA49B-6FBE-40CB-B96E-973F5B56ED4C",
+        "lastModified": "2019-07-18T15:54:34.207",
+        "created": "2019-07-18T15:54:34.207",
+        "titles": [
+          {
+            "title": "Comodo Antivirus 11.0.0.6582",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:comodo:antivirus:12.0.0.6810:*:*:*:*:*:*:*",
+        "cpeNameId": "7169C566-4AF9-4D50-8CE0-69E83F41C913",
+        "lastModified": "2019-07-18T15:54:34.317",
+        "created": "2019-07-18T15:54:34.317",
+        "titles": [
+          {
+            "title": "Comodo Antivirus 12.0.0.6810",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:comodo:antivirus:1.0:*:*:*:*:linux:*:*",
+        "cpeNameId": "EACA52B4-D693-4B7E-BE70-1283F8304421",
+        "lastModified": "2021-05-10T12:32:27.157",
+        "created": "2019-07-24T14:03:06.650",
+        "titles": [
+          {
+            "title": "Comodo Antivirus 1.0 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:comodo:antivirus:2.2:*:*:*:*:mac:*:*",
+        "cpeNameId": "4FDB2BA6-206B-4BBE-A136-ED997AAED93C",
+        "lastModified": "2021-05-10T12:33:44.853",
+        "created": "2019-07-24T14:03:50.777",
+        "titles": [
+          {
+            "title": "Comodo Antivirus 2.2 for Mac",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:comodo:antivirus:2.2:*:*:*:*:macos:*:*",
+            "cpeNameId": "6EE742CF-9036-411E-921F-B7DB9D170DBE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:comodo:antivirus:8.1:*:*:*:*:servers:*:*",
+        "cpeNameId": "9C8F04F8-EC16-4B79-98C0-FE04BD13A5DF",
+        "lastModified": "2021-05-10T12:32:27.157",
+        "created": "2019-07-24T14:04:18.090",
+        "titles": [
+          {
+            "title": "Comodo Antivirus 8.1 for Servers",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:comodo:antivirus:12.0.0.6870:*:*:*:*:*:*:*",
+        "cpeNameId": "4577633C-C236-49B8-B366-8306400EC2C6",
+        "lastModified": "2021-05-27T16:06:51.903",
+        "created": "2019-07-26T14:04:34.960",
+        "titles": [
+          {
+            "title": "Comodo Antivirus 12.0.0.6870",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:comodo:antivirus:2.2:*:*:*:*:macos:*:*",
+        "cpeNameId": "6EE742CF-9036-411E-921F-B7DB9D170DBE",
+        "lastModified": "2021-05-10T12:33:44.853",
+        "created": "2021-05-10T12:32:56.343",
+        "titles": [
+          {
+            "title": "Comodo Antivirus 2.2 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:comodo:antivirus:12.2.2.8012:*:*:*:*:*:*:*",
+        "cpeNameId": "E4F4823E-2A8B-4B32-9087-BB278BD0940B",
+        "lastModified": "2022-06-29T11:15:28.933",
+        "created": "2022-06-27T14:25:52.283",
+        "titles": [
+          {
+            "title": "Comodo Antivirus 12.2.2.8012",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:comodo:antivirus:11.0.0.6582:*:*:*:*:*:*:*",
+      "title": "Comodo Antivirus 11.0.0.6582",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:comodo:antivirus:12.0.0.6810:*:*:*:*:*:*:*",
+      "title": "Comodo Antivirus 12.0.0.6810",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:comodo:antivirus:1.0:*:*:*:*:linux:*:*",
+      "title": "Comodo Antivirus 1.0 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:comodo:antivirus:2.2:*:*:*:*:mac:*:*",
+      "title": "Comodo Antivirus 2.2 for Mac",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:comodo:antivirus:2.2:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:comodo:antivirus:8.1:*:*:*:*:servers:*:*",
+      "title": "Comodo Antivirus 8.1 for Servers",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:comodo:antivirus:12.0.0.6870:*:*:*:*:*:*:*",
+      "title": "Comodo Antivirus 12.0.0.6870",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:comodo:antivirus:2.2:*:*:*:*:macos:*:*",
+      "title": "Comodo Antivirus 2.2 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:comodo:antivirus:12.2.2.8012:*:*:*:*:*:*:*",
+      "title": "Comodo Antivirus 12.2.2.8012",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

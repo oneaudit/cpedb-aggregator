@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:codesys:ethernetip:4.1.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "23FCB384-A236-4E13-976C-8E7B815E85B1",
+        "lastModified": "2021-08-19T14:14:02.680",
+        "created": "2021-08-10T18:05:41.700",
+        "titles": [
+          {
+            "title": "CODESYS EtherNetIP 4.1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:codesys:ethernetip:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2E7634A5-15C6-4C30-85E8-82767B58619A",
+        "lastModified": "2021-08-19T14:14:02.680",
+        "created": "2021-08-10T18:05:41.700",
+        "titles": [
+          {
+            "title": "CODESYS EtherNetIP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:codesys:ethernetip:4.1.0.0:*:*:*:*:*:*:*",
+      "title": "CODESYS EtherNetIP 4.1.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:codesys:ethernetip:-:*:*:*:*:*:*:*",
+      "title": "CODESYS EtherNetIP",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

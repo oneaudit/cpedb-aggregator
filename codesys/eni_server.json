@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:codesys:eni_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D94CE807-38F2-4532-920C-62B9D14BE1F1",
+        "lastModified": "2020-02-05T15:16:30.413",
+        "created": "2020-02-05T15:16:30.413",
+        "titles": [
+          {
+            "title": "CODESYS ENI Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:codesys:eni_server:3.2.2.25:*:*:*:*:*:*:*",
+        "cpeNameId": "01A69356-2A1E-4F04-862E-40411A046634",
+        "lastModified": "2020-02-05T15:16:30.650",
+        "created": "2020-02-05T15:16:30.650",
+        "titles": [
+          {
+            "title": "CODESYS ENI Server 3.2.2.25",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:codesys:eni_server:-:*:*:*:*:*:*:*",
+      "title": "CODESYS ENI Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:codesys:eni_server:3.2.2.25:*:*:*:*:*:*:*",
+      "title": "CODESYS ENI Server 3.2.2.25",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

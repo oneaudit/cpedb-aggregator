@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:conntrack-tools_project:conntrack-tools:1.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "1A59FB51-C5E4-4FE9-BD59-F1188253F933",
+        "lastModified": "2018-05-22T15:03:06.063",
+        "created": "2015-08-25T18:31:35.220",
+        "titles": [
+          {
+            "title": "Conntrack-tools Project Conntrack-tools 1.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:netfilter:conntrack-tools:1.4.2:*:*:*:*:*:*:*",
+            "cpeNameId": "3B8A8808-48CE-4BEF-90A1-5289377B8063"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:conntrack-tools_project:conntrack-tools:1.4.2:*:*:*:*:*:*:*",
+      "title": "Conntrack-tools Project Conntrack-tools 1.4.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:netfilter:conntrack-tools:1.4.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

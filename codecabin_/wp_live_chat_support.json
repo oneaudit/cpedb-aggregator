@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:codecabin_:wp_live_chat_support:7.0.06:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "BDE7EADB-4267-4983-BBA5-FF71EC34832A",
+        "lastModified": "2023-05-26T18:55:44.427",
+        "created": "2017-06-16T01:59:14.673",
+        "titles": [
+          {
+            "title": "CodeCabin_ WP Live Chat Support 7.0.06 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:3cx:live_chat:7.0.06:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "1480EB80-4719-43F5-9492-CC86389DD52C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:codecabin_:wp_live_chat_support:7.0.06:*:*:*:*:wordpress:*:*",
+      "title": "CodeCabin_ WP Live Chat Support 7.0.06 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:3cx:live_chat:7.0.06:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

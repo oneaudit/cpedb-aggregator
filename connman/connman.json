@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:connman:connman:1.3:*:*:*:*:*:*:*",
+        "cpeNameId": "547BCDFA-2F16-4AA5-AE86-CBE83399E7AB",
+        "lastModified": "2020-03-05T19:15:31.683",
+        "created": "2013-01-02T18:03:48.507",
+        "titles": [
+          {
+            "title": "ConnMan 1.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:intel:connman:1.3:*:*:*:*:*:*:*",
+            "cpeNameId": "D47A6943-896A-4E4A-8CD6-A2603C00B043"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:connman:connman:1.3:*:*:*:*:*:*:*",
+      "title": "ConnMan 1.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:intel:connman:1.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

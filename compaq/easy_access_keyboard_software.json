@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:compaq:easy_access_keyboard_software:-:*:*:*:*:*:*:*",
+        "cpeNameId": "812965F1-08FD-4405-BC63-14CADB2EFBED",
+        "lastModified": "2010-12-29T17:10:52.900",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Compaq Easy Access Keyboard software",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:compaq:easy_access_keyboard_software:1.3:*:*:*:*:*:*:*",
+            "cpeNameId": "64AE63EB-566B-4F9E-8E06-10D4931C407E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:compaq:easy_access_keyboard_software:1.3:*:*:*:*:*:*:*",
+        "cpeNameId": "64AE63EB-566B-4F9E-8E06-10D4931C407E",
+        "lastModified": "2008-04-07T14:03:55.973",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Compaq Easy Access Keyboard software 1.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:compaq:easy_access_keyboard_software:-:*:*:*:*:*:*:*",
+      "title": "Compaq Easy Access Keyboard software",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:compaq:easy_access_keyboard_software:1.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:compaq:easy_access_keyboard_software:1.3:*:*:*:*:*:*:*",
+      "title": "Compaq Easy Access Keyboard software 1.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:conemu_project:conemu:220807:*:*:*:*:*:*:*",
+        "cpeNameId": "9CC662FA-D62B-43F8-B6FD-CF573C81920C",
+        "lastModified": "2023-10-03T15:18:33.707",
+        "created": "2023-09-28T16:39:08.277",
+        "titles": [
+          {
+            "title": "Conemu Project Conemu 220807",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:maximus5:conemu:22.08.07:*:*:*:*:*:*:*",
+            "cpeNameId": "266DCFCC-9F68-487B-9B0B-5AF117882C23"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:conemu_project:conemu:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6E00B5DB-0B46-4E69-871B-B3B9C210B8A9",
+        "lastModified": "2023-10-03T15:18:33.707",
+        "created": "2023-09-28T16:39:08.277",
+        "titles": [
+          {
+            "title": "Conemu Project Conemu -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:maximus5:conemu:-:*:*:*:*:*:*:*",
+            "cpeNameId": "FB313AAF-521D-4305-BECF-C4196E5153DA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:conemu_project:conemu:230724:*:*:*:*:*:*:*",
+        "cpeNameId": "90DADF8C-2FAF-4D9D-B5C0-FE2DBE27795B",
+        "lastModified": "2023-10-03T15:18:33.707",
+        "created": "2023-09-28T16:39:08.277",
+        "titles": [
+          {
+            "title": "Conemu Project Conemu 230724",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:maximus5:conemu:23.07.24:*:*:*:*:*:*:*",
+            "cpeNameId": "AD22008F-4CD1-4CB4-BFA4-DE1ED5CEDF2E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:conemu_project:conemu:220807:*:*:*:*:*:*:*",
+      "title": "Conemu Project Conemu 220807",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:maximus5:conemu:22.08.07:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:conemu_project:conemu:-:*:*:*:*:*:*:*",
+      "title": "Conemu Project Conemu -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:maximus5:conemu:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:conemu_project:conemu:230724:*:*:*:*:*:*:*",
+      "title": "Conemu Project Conemu 230724",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:maximus5:conemu:23.07.24:*:*:*:*:*:*:*"
+    }
+  ]
+}

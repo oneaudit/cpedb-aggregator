@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:commscope:ruckus_iot_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AB72CDA5-541D-4770-93F7-B9CDC53A7D65",
+        "lastModified": "2023-01-18T20:10:19.833",
+        "created": "2021-07-07T20:18:20.543",
+        "titles": [
+          {
+            "title": "CommScope Ruckus IOT Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:commscope:ruckus_iot_controller:1.7.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8716B519-4E25-4A5A-AEF6-3F2BBCFA1473",
+        "lastModified": "2021-07-19T19:36:37.943",
+        "created": "2021-07-09T16:45:15.997",
+        "titles": [
+          {
+            "title": "CommScope RUCKUS IoT 1.7.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:commscope:ruckus_iot_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6EF9BD4F-0BA8-49DC-99FE-23A402E5646F",
+        "lastModified": "2021-07-19T19:36:37.943",
+        "created": "2021-07-09T16:45:15.997",
+        "titles": [
+          {
+            "title": "CommScope RUCKUS IoT",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:commscope:ruckus_iot_controller:-:*:*:*:*:*:*:*",
+      "title": "CommScope Ruckus IOT Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:commscope:ruckus_iot_controller:1.7.1.0:*:*:*:*:*:*:*",
+      "title": "CommScope RUCKUS IoT 1.7.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:commscope:ruckus_iot_controller:-:*:*:*:*:*:*:*",
+      "title": "CommScope RUCKUS IoT",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
