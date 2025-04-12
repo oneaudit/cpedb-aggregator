@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:mercury_loadrunner_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "10EFEBD4-10C7-43FA-8F00-E0A597277C6D",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "HP Mercury LoadRunner Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:mercury_loadrunner_agent:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F8E38423-3853-42E4-BF24-6F925FE57A6D",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP Mercury LoadRunner Agent 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:mercury_loadrunner_agent:8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "A4E75DF4-AAC4-4B87-BFAC-7FD8C1A707ED",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP Mercury LoadRunner Agent 8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:mercury_loadrunner_agent:-:*:*:*:*:*:*:*",
+      "title": "HP Mercury LoadRunner Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:mercury_loadrunner_agent:8.0:*:*:*:*:*:*:*",
+      "title": "HP Mercury LoadRunner Agent 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:mercury_loadrunner_agent:8.1:*:*:*:*:*:*:*",
+      "title": "HP Mercury LoadRunner Agent 8.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

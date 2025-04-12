@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:life:1.8:*:*:*:*:android:*:*",
+        "cpeNameId": "5202BE91-09B2-46EF-B79A-5388151CEBA2",
+        "lastModified": "2023-10-15T16:43:36.647",
+        "created": "2023-10-15T16:43:36.647",
+        "titles": [
+          {
+            "title": "HP LIFE 1.8 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:life:-:*:*:*:*:android:*:*",
+        "cpeNameId": "A7546EB5-B26A-4AE3-AB1F-B8D113D1A5D8",
+        "lastModified": "2023-10-15T16:43:36.647",
+        "created": "2023-10-15T16:43:36.647",
+        "titles": [
+          {
+            "title": "HP LIFE for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:life:1.8:*:*:*:*:android:*:*",
+      "title": "HP LIFE 1.8 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:life:-:*:*:*:*:android:*:*",
+      "title": "HP LIFE for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

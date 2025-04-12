@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:mt45_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "80A9210A-FE70-488B-8A28-4A10D908C2D6",
+        "lastModified": "2021-06-25T15:15:40.903",
+        "created": "2020-07-28T12:43:03.783",
+        "titles": [
+          {
+            "title": "HP Mt45 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:mt45_firmware:5.5.21.1099:*:*:*:*:*:*:*",
+        "cpeNameId": "EC9149B7-3902-4994-9BF4-D4917CB5591E",
+        "lastModified": "2021-06-25T15:15:40.903",
+        "created": "2020-07-28T12:43:03.783",
+        "titles": [
+          {
+            "title": "HP Mt45 Firmware 5.5.21.1099",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:mt45_firmware:01.21.01:*:*:*:*:*:*:*",
+        "cpeNameId": "C7CC69D3-9381-478E-BC66-F414AD576222",
+        "lastModified": "2023-09-09T03:09:34.913",
+        "created": "2023-06-29T11:59:16.380",
+        "titles": [
+          {
+            "title": "HP Mt45 Firmware 01.21.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:mt45_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP Mt45 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:mt45_firmware:5.5.21.1099:*:*:*:*:*:*:*",
+      "title": "HP Mt45 Firmware 5.5.21.1099",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:mt45_firmware:01.21.01:*:*:*:*:*:*:*",
+      "title": "HP Mt45 Firmware 01.21.01",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

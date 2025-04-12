@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:nonstop_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "22364726-29B0-413B-BD6F-F68D278BA0EE",
+        "lastModified": "2008-04-01T16:10:38.563",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "HP NonStop Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:nonstop_server:g06.29:*:*:*:*:*:*:*",
+        "cpeNameId": "B1B9AB2F-9220-4374-9B70-43E27D64BC07",
+        "lastModified": "2008-04-01T16:10:38.640",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP NonStop Server G06.29",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:nonstop_server:-:*:*:*:*:*:*:*",
+      "title": "HP NonStop Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:hp:nonstop_server:g06.29:*:*:*:*:*:*:*",
+      "title": "HP NonStop Server G06.29",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

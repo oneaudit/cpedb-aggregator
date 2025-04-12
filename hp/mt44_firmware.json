@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:mt44_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9259AA96-3FD6-4B22-8668-F93B268352F6",
+        "lastModified": "2021-06-25T15:15:40.903",
+        "created": "2020-07-28T12:43:02.800",
+        "titles": [
+          {
+            "title": "HP Mt44 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:mt44_firmware:5.5.21.1099:*:*:*:*:*:*:*",
+        "cpeNameId": "6171AE01-FB9A-493B-995B-8048B40828C5",
+        "lastModified": "2021-06-25T15:15:40.903",
+        "created": "2020-07-28T12:43:02.800",
+        "titles": [
+          {
+            "title": "HP Mt44 Firmware 5.5.21.1099",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:mt44_firmware:01.21.01:*:*:*:*:*:*:*",
+        "cpeNameId": "7AC25030-496B-4989-B42B-328E91AE16AB",
+        "lastModified": "2023-09-09T03:09:34.913",
+        "created": "2023-06-29T11:59:16.380",
+        "titles": [
+          {
+            "title": "HP Mt44 Firmware 01.21.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:mt44_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP Mt44 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:mt44_firmware:5.5.21.1099:*:*:*:*:*:*:*",
+      "title": "HP Mt44 Firmware 5.5.21.1099",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:mt44_firmware:01.21.01:*:*:*:*:*:*:*",
+      "title": "HP Mt44 Firmware 01.21.01",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
