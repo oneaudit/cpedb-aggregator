@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:crm2go:crm2go:1.0:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "2129F8B8-8720-4D76-981C-1DE64FEB13B0",
+        "lastModified": "2025-01-14T17:05:18.407",
+        "created": "2025-01-14T17:05:18.407",
+        "titles": [
+          {
+            "title": "CRM 2go 1.0 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:crm2go:crm2go:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "D6D5CA92-A1D4-4CA8-B23B-A8EF6C5FF27D",
+        "lastModified": "2025-01-14T17:05:18.407",
+        "created": "2025-01-14T17:05:18.407",
+        "titles": [
+          {
+            "title": "CRM 2go for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:crm2go:crm2go:1.0:*:*:*:*:wordpress:*:*",
+      "title": "CRM 2go 1.0 for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:crm2go:crm2go:-:*:*:*:*:wordpress:*:*",
+      "title": "CRM 2go for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

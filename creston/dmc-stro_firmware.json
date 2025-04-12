@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:creston:dmc-stro_firmware:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "21811D5F-F3AB-4279-9297-0B82284DB2E2",
+        "lastModified": "2022-02-10T16:06:47.027",
+        "created": "2019-12-09T13:45:38.983",
+        "titles": [
+          {
+            "title": "Creston DMC-STRO Firmware 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:crestron:dmc-stro_firmware:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "09718311-4F4B-4155-AAA8-CF6E2CAABBD6"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:creston:dmc-stro_firmware:1.0:*:*:*:*:*:*:*",
+      "title": "Creston DMC-STRO Firmware 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:crestron:dmc-stro_firmware:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

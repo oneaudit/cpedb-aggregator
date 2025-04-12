@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dap-1350_firmware:1.14:*:*:*:*:*:*:*",
+        "cpeNameId": "163A0C1C-65D3-463C-86C1-D0BA22BD3937",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2014-05-28T14:21:02.880",
+        "titles": [
+          {
+            "title": "D-Link DAP-1350 firmware 1.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dap-1350_firmware:1.14:*:*:*:*:*:*:*",
+            "cpeNameId": "A3AE98FF-AC15-476A-9027-FD930ECEC814"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dap-1350_firmware:1.10:*:*:*:*:*:*:*",
+        "cpeNameId": "8A32F284-7065-40FA-AE49-4CD604A29DB6",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2014-05-28T14:22:28.280",
+        "titles": [
+          {
+            "title": "D-Link DAP-1350 firmware 1.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dap-1350_firmware:1.10:*:*:*:*:*:*:*",
+            "cpeNameId": "4BE4029B-142D-48B1-B56D-614396BB44A4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dap-1350_firmware:1.14:*:*:*:*:*:*:*",
+      "title": "D-Link DAP-1350 firmware 1.14",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dap-1350_firmware:1.14:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dap-1350_firmware:1.10:*:*:*:*:*:*:*",
+      "title": "D-Link DAP-1350 firmware 1.10",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dap-1350_firmware:1.10:*:*:*:*:*:*:*"
+    }
+  ]
+}

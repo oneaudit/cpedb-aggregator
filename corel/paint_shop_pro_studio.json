@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:corel:paint_shop_pro_studio:1.0.0:*:*:*:dell_editon:*:*:*",
+        "cpeNameId": "00C69216-4EC3-459E-AD36-25F1ED9854C8",
+        "lastModified": "2012-05-10T14:34:25.877",
+        "created": "2012-05-08T13:52:27.707",
+        "titles": [
+          {
+            "title": "Corel Paint Shop Pro Studio Dell Edition 1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:corel:paint_shop_pro_studio:1.0.0:*:*:*:dell:*:*:*",
+            "cpeNameId": "C60DBD2F-386F-43BD-98AA-61AFB23F6799"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:corel:paint_shop_pro_studio:1.0.0:*:*:*:dell:*:*:*",
+        "cpeNameId": "C60DBD2F-386F-43BD-98AA-61AFB23F6799",
+        "lastModified": "2012-05-10T14:34:25.783",
+        "created": "2012-05-10T14:34:25.783",
+        "titles": [
+          {
+            "title": "Corel Paint Shop Pro Studio Dell 1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:corel:paint_shop_pro_studio:1.0.0:*:*:*:dell_editon:*:*:*",
+      "title": "Corel Paint Shop Pro Studio Dell Edition 1.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:corel:paint_shop_pro_studio:1.0.0:*:*:*:dell:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:corel:paint_shop_pro_studio:1.0.0:*:*:*:dell:*:*:*",
+      "title": "Corel Paint Shop Pro Studio Dell 1.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

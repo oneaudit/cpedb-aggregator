@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-2132l_firmware:1.08.01:*:*:*:*:*:*:*",
+        "cpeNameId": "526A0885-37BE-4083-8C63-DC7DEE7B5399",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2017-05-08T19:54:01.647",
+        "titles": [
+          {
+            "title": "D-Link DCS-2132L Firmware 1.08.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-2132l_firmware:1.08.01:*:*:*:*:*:*:*",
+            "cpeNameId": "05712E02-658B-418E-9E07-D0D174E59A9F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:d-link:dcs-2132l_firmware:2.12.00:*:*:*:*:*:*:*",
+        "cpeNameId": "86A90548-2030-46FF-AD1D-F5D7E36CDD19",
+        "lastModified": "2023-04-26T19:27:50.760",
+        "created": "2017-05-08T19:54:01.693",
+        "titles": [
+          {
+            "title": "D-Link DCS-2132L Firmware 2.12.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dcs-2132l_firmware:2.12.00:*:*:*:*:*:*:*",
+            "cpeNameId": "EF8B560D-46A3-4406-A3BA-09442B3EE716"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:d-link:dcs-2132l_firmware:1.08.01:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-2132L Firmware 1.08.01",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-2132l_firmware:1.08.01:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:d-link:dcs-2132l_firmware:2.12.00:*:*:*:*:*:*:*",
+      "title": "D-Link DCS-2132L Firmware 2.12.00",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dcs-2132l_firmware:2.12.00:*:*:*:*:*:*:*"
+    }
+  ]
+}

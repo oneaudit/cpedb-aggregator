@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cryptopro:csp:-:*:*:*:*:*:x86:*",
+        "cpeNameId": "1F70D606-7C1D-49CD-9389-22938AA9323D",
+        "lastModified": "2020-11-19T21:12:00.117",
+        "created": "2020-11-19T21:12:00.117",
+        "titles": [
+          {
+            "title": "Cryptopro CSP on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cryptopro:csp:5.0.0.10004:*:*:*:*:*:x86:*",
+        "cpeNameId": "E9FC0AEC-BF9D-4D87-AE55-051497EAEC85",
+        "lastModified": "2020-11-19T21:12:00.477",
+        "created": "2020-11-19T21:12:00.477",
+        "titles": [
+          {
+            "title": "Cryptopro CSP 5.0.0.10004 on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cryptopro:csp:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "CE1F9FB1-0FC2-45C1-B5EB-6488F0751F45",
+        "lastModified": "2021-01-28T17:26:16.560",
+        "created": "2021-01-28T17:26:16.560",
+        "titles": [
+          {
+            "title": "Cryptopro CSP on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cryptopro:csp:5.0.0.10004:*:*:*:*:*:x64:*",
+        "cpeNameId": "D6AB074C-CBB2-4DE5-9613-4637AADE971E",
+        "lastModified": "2021-01-28T17:26:16.933",
+        "created": "2021-01-28T17:26:16.933",
+        "titles": [
+          {
+            "title": "Cryptopro CSP 5.0.0.10004 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cryptopro:csp:-:*:*:*:*:*:x86:*",
+      "title": "Cryptopro CSP on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cryptopro:csp:5.0.0.10004:*:*:*:*:*:x86:*",
+      "title": "Cryptopro CSP 5.0.0.10004 on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cryptopro:csp:-:*:*:*:*:*:x64:*",
+      "title": "Cryptopro CSP on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cryptopro:csp:5.0.0.10004:*:*:*:*:*:x64:*",
+      "title": "Cryptopro CSP 5.0.0.10004 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

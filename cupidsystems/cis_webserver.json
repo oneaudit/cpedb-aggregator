@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cupidsystems:cis_webserver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E1F77FF8-A9B8-4671-B551-6311353E79D2",
+        "lastModified": "2008-04-01T14:41:49.277",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "CIS CIS WebServer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cupidsystems:cis_webserver:3.5.13:*:*:*:*:*:*:*",
+        "cpeNameId": "BE2504DC-4706-4A64-8E7A-F52F2BAAD5A6",
+        "lastModified": "2008-04-01T14:41:49.323",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "CIS CIS WebServer 3.5.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cupidsystems:cis_webserver:-:*:*:*:*:*:*:*",
+      "title": "CIS CIS WebServer",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cupidsystems:cis_webserver:3.5.13:*:*:*:*:*:*:*",
+      "title": "CIS CIS WebServer 3.5.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

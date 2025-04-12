@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:curl:curl:8.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7D588CAA-45A3-4C39-AECA-B0FB58504AB0",
+        "lastModified": "2024-03-05T18:01:23.483",
+        "created": "2024-03-04T14:29:58.800",
+        "titles": [
+          {
+            "title": "Curl Curl 8.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:haxx:curl:8.5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "8BD62797-C107-4805-B85F-8E09FCDFB454"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:curl:curl:8.4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "96F10A63-558E-42D0-A335-AA66A070766B",
+        "lastModified": "2024-03-05T18:01:23.483",
+        "created": "2024-03-04T14:29:58.800",
+        "titles": [
+          {
+            "title": "Curl Curl 8.4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:haxx:curl:8.4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "198BA751-A6A2-4587-9C70-CC05BB4CB6DA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:curl:curl:8.5.0:*:*:*:*:*:*:*",
+      "title": "Curl Curl 8.5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:haxx:curl:8.5.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:curl:curl:8.4.0:*:*:*:*:*:*:*",
+      "title": "Curl Curl 8.4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:haxx:curl:8.4.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

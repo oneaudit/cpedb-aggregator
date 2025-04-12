@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:d-link:dap-1360_firmware:2.5.4:*:*:*:*:*:*:*",
+        "cpeNameId": "D4FDBB3E-A1D5-4343-8EF0-C32728C386CB",
+        "lastModified": "2023-04-26T19:38:37.263",
+        "created": "2015-01-13T14:53:27.137",
+        "titles": [
+          {
+            "title": "D-Link DAP-1360 Firmware 2.5.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:dlink:dap-1360_firmware:2.5.4:*:*:*:*:*:*:*",
+            "cpeNameId": "0E2BB3E9-CFE5-4C3B-85F8-0ED765065E4C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:d-link:dap-1360_firmware:2.5.4:*:*:*:*:*:*:*",
+      "title": "D-Link DAP-1360 Firmware 2.5.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:dlink:dap-1360_firmware:2.5.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

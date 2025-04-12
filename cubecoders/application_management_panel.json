@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cubecoders:application_management_panel:2.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4F6333F9-F4AA-41DA-A984-4E8B2F7B770B",
+        "lastModified": "2021-07-28T15:55:25.660",
+        "created": "2021-05-06T17:54:54.240",
+        "titles": [
+          {
+            "title": "CubeCoders Application Management Panel (AMP) 2.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cubecoders:amp:2.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "D4D8D4FA-3B07-4B9A-9C8A-B0715E59F6AE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cubecoders:application_management_panel:2.1.1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "7402A3FB-9DE7-4792-8533-0960B7E5D7E9",
+        "lastModified": "2021-07-28T15:55:25.660",
+        "created": "2021-05-06T17:54:54.240",
+        "titles": [
+          {
+            "title": "CubeCoders Application Management Panel (AMP) 2.1.1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cubecoders:amp:2.1.1.2:*:*:*:*:*:*:*",
+            "cpeNameId": "62648D6F-D13B-4C0F-8B3E-424591117AC3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cubecoders:application_management_panel:2.1.0:*:*:*:*:*:*:*",
+      "title": "CubeCoders Application Management Panel (AMP) 2.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cubecoders:amp:2.1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:cubecoders:application_management_panel:2.1.1.2:*:*:*:*:*:*:*",
+      "title": "CubeCoders Application Management Panel (AMP) 2.1.1.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cubecoders:amp:2.1.1.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

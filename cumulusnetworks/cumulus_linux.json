@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cumulusnetworks:cumulus_linux:3.4.3:*:*:*:*:*:*:*",
+        "cpeNameId": "913E256B-6872-431C-9FCE-9E5CB70C923A",
+        "lastModified": "2019-06-17T18:54:23.677",
+        "created": "2019-06-17T18:54:23.677",
+        "titles": [
+          {
+            "title": "Cumulus Linux 3.4.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cumulusnetworks:cumulus_linux:2.5.3:*:*:*:*:*:*:*",
+        "cpeNameId": "62E120C1-306A-4A53-91D0-6579E8D93871",
+        "lastModified": "2019-10-15T15:14:17.087",
+        "created": "2019-10-15T15:14:17.087",
+        "titles": [
+          {
+            "title": "Cumulus Linux 2.5.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cumulusnetworks:cumulus_linux:3.4.3:*:*:*:*:*:*:*",
+      "title": "Cumulus Linux 3.4.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cumulusnetworks:cumulus_linux:2.5.3:*:*:*:*:*:*:*",
+      "title": "Cumulus Linux 2.5.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cryptography:cryptography:42.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "62BA348F-833C-4877-A79C-5CE8F74B3E20",
+        "lastModified": "2024-09-05T16:19:17.577",
+        "created": "2024-08-01T17:59:44.193",
+        "titles": [
+          {
+            "title": "Cryptography Cryptography 42.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cryptography.io:cryptography:42.0.0:*:*:*:*:python:*:*",
+            "cpeNameId": "5D2A697D-0DAE-46AB-A0CE-10CBC614E2F8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cryptography:cryptography:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8DCEF135-B040-4326-85D6-22C28BFAF709",
+        "lastModified": "2024-09-05T16:16:43.553",
+        "created": "2024-08-01T17:59:44.193",
+        "titles": [
+          {
+            "title": "Cryptography Cryptography",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cryptography.io:cryptography:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F2A71287-FCBD-4332-B112-87DBFBCA337B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cryptography:cryptography:42.0.0:*:*:*:*:*:*:*",
+      "title": "Cryptography Cryptography 42.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cryptography.io:cryptography:42.0.0:*:*:*:*:python:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:cryptography:cryptography:-:*:*:*:*:*:*:*",
+      "title": "Cryptography Cryptography",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cryptography.io:cryptography:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

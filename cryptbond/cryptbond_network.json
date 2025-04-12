@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cryptbond:cryptbond_network:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C629D128-5E03-480C-93DF-02D687C0AF6A",
+        "lastModified": "2020-03-17T14:42:11.293",
+        "created": "2020-01-17T20:03:11.750",
+        "titles": [
+          {
+            "title": "Cryptbond Cryptbond Network (CBN)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cryptbond_network_project:cryptbond_network:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0E01025F-6394-49B6-974B-43AC22C813E3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cryptbond:cryptbond_network:-:*:*:*:*:*:*:*",
+      "title": "Cryptbond Cryptbond Network (CBN)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cryptbond_network_project:cryptbond_network:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

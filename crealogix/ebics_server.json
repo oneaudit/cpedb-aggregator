@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:crealogix:ebics_server:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F9896690-E463-4B1A-A045-DB519BDC8BA9",
+        "lastModified": "2022-10-11T14:26:24.547",
+        "created": "2022-10-11T13:08:23.953",
+        "titles": [
+          {
+            "title": "CREALOGIX EBICS Server 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:crealogix:ebics_server:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7E3667A8-7E8D-4929-9117-54D3ABC3F412",
+        "lastModified": "2022-10-11T14:26:24.547",
+        "created": "2022-10-11T13:09:49.713",
+        "titles": [
+          {
+            "title": "CREALOGIX EBICS Server 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:crealogix:ebics_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "926A3CA1-98C1-4127-AA79-A5F0379E08DD",
+        "lastModified": "2022-10-11T14:26:24.547",
+        "created": "2022-10-11T13:09:58.060",
+        "titles": [
+          {
+            "title": "CREALOGIX EBICS Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:crealogix:ebics_server:7.0:*:*:*:*:*:*:*",
+      "title": "CREALOGIX EBICS Server 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:crealogix:ebics_server:7.1:*:*:*:*:*:*:*",
+      "title": "CREALOGIX EBICS Server 7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:crealogix:ebics_server:-:*:*:*:*:*:*:*",
+      "title": "CREALOGIX EBICS Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

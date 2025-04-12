@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:creativeinteractivemedia:animategl:1.4.23:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "F88A01E2-72D9-4E89-8A77-8622FE391E08",
+        "lastModified": "2025-02-24T16:45:14.817",
+        "created": "2025-02-24T16:39:46.467",
+        "titles": [
+          {
+            "title": "creativeinteractivemedia AnimateGL 1.4.23 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:creativeinteractivemedia:animategl_animations:1.4.23:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "6C4EC4D4-D751-4429-8009-0920E6C74437"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:creativeinteractivemedia:animategl:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "BB8715CB-D69D-41F1-8072-99F130FC2A42",
+        "lastModified": "2025-02-24T16:45:14.817",
+        "created": "2025-02-24T16:39:46.467",
+        "titles": [
+          {
+            "title": "creativeinteractivemedia AnimateGL for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:creativeinteractivemedia:animategl_animations:-:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "68EA1D2C-2177-48D6-A0FE-E57363614C56"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:creativeinteractivemedia:animategl:1.4.23:*:*:*:*:wordpress:*:*",
+      "title": "creativeinteractivemedia AnimateGL 1.4.23 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:creativeinteractivemedia:animategl_animations:1.4.23:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:creativeinteractivemedia:animategl:-:*:*:*:*:wordpress:*:*",
+      "title": "creativeinteractivemedia AnimateGL for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:creativeinteractivemedia:animategl_animations:-:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

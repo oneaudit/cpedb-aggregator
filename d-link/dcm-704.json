@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dcm-704:-:*:*:*:*:*:*:*",
+        "cpeNameId": "64F0CD56-DCD1-4EE4-BD89-E5882C2BC60E",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2019-01-10T19:54:29.313",
+        "titles": [
+          {
+            "title": "D-Link DCM-704",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dcm-704:-:*:*:*:*:*:*:*",
+            "cpeNameId": "534905C5-3D6E-411E-B032-F9DAB5A705B9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:d-link:dcm-704:b3:*:*:*:*:*:*:*",
+        "cpeNameId": "5FA51692-C6C2-42DC-8EFE-84CD8B231B21",
+        "lastModified": "2023-04-26T18:55:28.543",
+        "created": "2019-01-11T13:27:16.333",
+        "titles": [
+          {
+            "title": "D-Link DCM-704 B3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dcm-704:b3:*:*:*:*:*:*:*",
+            "cpeNameId": "B01B4042-16D6-4CAC-9AB0-6BAE541AE4DB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:d-link:dcm-704:-:*:*:*:*:*:*:*",
+      "title": "D-Link DCM-704",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dcm-704:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:d-link:dcm-704:b3:*:*:*:*:*:*:*",
+      "title": "D-Link DCM-704 B3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dcm-704:b3:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cybertrust:miracle_linux:6:*:*:*:*:*:*:*",
+        "cpeNameId": "73F1C284-2F49-4572-8392-D9FACA14859D",
+        "lastModified": "2021-06-15T13:48:39.530",
+        "created": "2020-11-30T13:20:45.337",
+        "titles": [
+          {
+            "title": "Cybertrust MIRACLE LINUX 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cybertrust_japan:miracle_linux:6:*:*:*:*:*:*:*",
+            "cpeNameId": "3B3C1EC0-2F96-4F39-950C-F1140F757987"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cybertrust:miracle_linux:7:*:*:*:*:*:*:*",
+        "cpeNameId": "CA760E45-1DE1-453C-ABBF-FBE2EA4C3056",
+        "lastModified": "2021-06-15T13:48:39.530",
+        "created": "2020-11-30T13:20:45.447",
+        "titles": [
+          {
+            "title": "Cybertrust MIRACLE LINUX 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cybertrust_japan:miracle_linux:7:*:*:*:*:*:*:*",
+            "cpeNameId": "61269B15-BC49-473B-AB2E-DA594F31AE98"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cybertrust:miracle_linux:8:*:*:*:*:*:*:*",
+        "cpeNameId": "CCF7E8D3-E5FA-4D32-919E-5FD0B726394D",
+        "lastModified": "2021-06-15T13:48:39.530",
+        "created": "2020-11-30T13:20:45.540",
+        "titles": [
+          {
+            "title": "Cybertrust MIRACLE LINUX 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cybertrust_japan:miracle_linux:8:*:*:*:*:*:*:*",
+            "cpeNameId": "67F425DB-2B81-4C0D-A8BD-FBF4592FCAB4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cybertrust:miracle_linux:6:*:*:*:*:*:*:*",
+      "title": "Cybertrust MIRACLE LINUX 6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cybertrust_japan:miracle_linux:6:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cybertrust:miracle_linux:7:*:*:*:*:*:*:*",
+      "title": "Cybertrust MIRACLE LINUX 7",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cybertrust_japan:miracle_linux:7:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cybertrust:miracle_linux:8:*:*:*:*:*:*:*",
+      "title": "Cybertrust MIRACLE LINUX 8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cybertrust_japan:miracle_linux:8:*:*:*:*:*:*:*"
+    }
+  ]
+}
