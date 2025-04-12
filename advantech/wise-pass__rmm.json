@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:advantech:wise-pass\\/rmm:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8678E173-AAB6-42E7-9C0D-9989594BB98C",
+        "lastModified": "2021-05-13T19:24:17.553",
+        "created": "2020-07-15T17:27:48.677",
+        "titles": [
+          {
+            "title": "Advantech WISE-PasS/RMM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:advantech:wise-paas\\/rmm:-:*:*:*:*:*:*:*",
+            "cpeNameId": "85BFF151-FD59-4FE7-B5C8-D14887C9AB59"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:advantech:wise-pass\\/rmm:3.3.29:*:*:*:*:*:*:*",
+        "cpeNameId": "B13F0411-BA29-47B2-BD90-E9E88F770963",
+        "lastModified": "2021-05-13T19:26:31.680",
+        "created": "2020-07-15T17:27:48.677",
+        "titles": [
+          {
+            "title": "Advantech WISE-PasS/RMM 3.3.29",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:advantech:wise-paas\\/rmm:3.3.29:*:*:*:*:*:*:*",
+            "cpeNameId": "D52279BD-EB00-48EC-A1CA-56F4FE6685A3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:advantech:wise-pass\\/rmm:-:*:*:*:*:*:*:*",
+      "title": "Advantech WISE-PasS/RMM",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:advantech:wise-paas\\/rmm:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:advantech:wise-pass\\/rmm:3.3.29:*:*:*:*:*:*:*",
+      "title": "Advantech WISE-PasS/RMM 3.3.29",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:advantech:wise-paas\\/rmm:3.3.29:*:*:*:*:*:*:*"
+    }
+  ]
+}

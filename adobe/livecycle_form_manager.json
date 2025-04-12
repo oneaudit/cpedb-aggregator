@@ -1,0 +1,58 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:livecycle_form_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FA1F2B0B-F234-4A05-8416-0C05DA69CF10",
+        "lastModified": "2009-11-25T18:26:23.763",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Adobe LiveCycle Form Manager",
+            "lang": "en"
+          },
+          {
+            "title": "アドビシステムズ LiveCycle Form Manager",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:livecycle_form_manager:7.01:*:*:*:*:*:*:*",
+        "cpeNameId": "B4A41B25-37F6-43F4-BF62-0206C3CD982C",
+        "lastModified": "2009-11-25T18:26:23.870",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Adobe LiveCycle Form Manager 7.01",
+            "lang": "en"
+          },
+          {
+            "title": "アドビシステムズ LiveCycle Form Manager 7.01",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:livecycle_form_manager:-:*:*:*:*:*:*:*",
+      "title": "Adobe LiveCycle Form Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:livecycle_form_manager:7.01:*:*:*:*:*:*:*",
+      "title": "Adobe LiveCycle Form Manager 7.01",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

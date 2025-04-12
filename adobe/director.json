@@ -1,0 +1,54 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:director:-:*:*:*:*:*:*:*",
+        "cpeNameId": "86DD070B-7015-4929-ADBB-63DE0FAD9677",
+        "lastModified": "2009-03-05T17:16:59.967",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Adobe Director",
+            "lang": "en"
+          },
+          {
+            "title": "アドビシステムズ Director",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:director:11.0.0.426:*:*:*:*:*:*:*",
+        "cpeNameId": "65C616FD-B2C1-4AB5-BB07-9C57745B85F1",
+        "lastModified": "2022-04-07T00:34:38.453",
+        "created": "2022-02-04T13:59:30.030",
+        "titles": [
+          {
+            "title": "Adobe Director 11.0.0.426",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:director:-:*:*:*:*:*:*:*",
+      "title": "Adobe Director",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:director:11.0.0.426:*:*:*:*:*:*:*",
+      "title": "Adobe Director 11.0.0.426",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

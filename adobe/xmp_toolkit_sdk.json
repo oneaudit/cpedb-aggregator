@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:adobe:xmp_toolkit_sdk:2021.07:*:*:*:*:*:*:*",
+        "cpeNameId": "D5FECD13-4E57-4E1B-A6F0-AE077A5F82A6",
+        "lastModified": "2021-10-27T01:47:23.063",
+        "created": "2021-10-06T17:12:17.420",
+        "titles": [
+          {
+            "title": "Adobe XMP Toolkit Software Development Kit (SDK) 2021.07",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2021.07:*:*:*:*:*:*:*",
+            "cpeNameId": "036F6FB0-FF73-43E1-B77A-670870E1E942"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:adobe:xmp_toolkit_sdk:2020.1:*:*:*:*:*:*:*",
+        "cpeNameId": "6B4C0FE0-85C4-4C2E-B343-3CD3D9DC1A1A",
+        "lastModified": "2021-10-27T01:47:23.063",
+        "created": "2021-10-06T17:12:17.420",
+        "titles": [
+          {
+            "title": "Adobe XMP Toolkit Software Development Kit (SDK) 2020.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2020.1:*:*:*:*:*:*:*",
+            "cpeNameId": "6F03F394-0099-4ABC-97E5-1AD0309D4352"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:adobe:xmp_toolkit_sdk:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D4410288-4039-4824-AF53-9F9BA0757096",
+        "lastModified": "2021-10-27T01:47:23.063",
+        "created": "2021-10-06T17:12:17.420",
+        "titles": [
+          {
+            "title": "Adobe XMP Toolkit Software Development Kit (SDK) -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:-:*:*:*:*:*:*:*",
+            "cpeNameId": "365099B6-F014-4480-9AEB-B6DEAC730F46"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:xmp_toolkit_sdk:2021.07:*:*:*:*:*:*:*",
+      "title": "Adobe XMP Toolkit Software Development Kit (SDK) 2021.07",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2021.07:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:adobe:xmp_toolkit_sdk:2020.1:*:*:*:*:*:*:*",
+      "title": "Adobe XMP Toolkit Software Development Kit (SDK) 2020.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:2020.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:adobe:xmp_toolkit_sdk:-:*:*:*:*:*:*:*",
+      "title": "Adobe XMP Toolkit Software Development Kit (SDK) -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

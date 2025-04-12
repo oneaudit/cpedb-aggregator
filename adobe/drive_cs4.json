@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:drive_cs4:-:*:*:*:*:*:*:*",
+        "cpeNameId": "95341B71-D628-4076-B045-1F8C5A8D7A65",
+        "lastModified": "2010-01-07T16:08:06.463",
+        "created": "2010-01-07T16:08:06.463",
+        "titles": [
+          {
+            "title": "Adobe Drive CS4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:drive_cs4:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "251F520F-D37D-4E44-9103-CF21EB780A72",
+        "lastModified": "2012-04-24T23:21:09.557",
+        "created": "2012-04-24T23:21:09.557",
+        "titles": [
+          {
+            "title": "Adobe Drive CS4 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:drive_cs4:1.0:*:*:*:*:*:x64:*",
+        "cpeNameId": "F19C81A7-3882-4298-8A03-92962767835F",
+        "lastModified": "2012-04-24T23:21:09.747",
+        "created": "2012-04-24T23:21:09.747",
+        "titles": [
+          {
+            "title": "Adobe Drive CS4 1.0 (x64) 64-bit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:drive_cs4:-:*:*:*:*:*:*:*",
+      "title": "Adobe Drive CS4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:drive_cs4:1.0:*:*:*:*:*:*:*",
+      "title": "Adobe Drive CS4 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:drive_cs4:1.0:*:*:*:*:*:x64:*",
+      "title": "Adobe Drive CS4 1.0 (x64) 64-bit",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

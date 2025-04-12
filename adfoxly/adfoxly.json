@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:adfoxly:adfoxly:1.8.5:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "4C87F49B-22D5-40A8-9A63-DC3619D91769",
+        "lastModified": "2023-12-29T18:02:38.650",
+        "created": "2023-08-21T11:32:03.187",
+        "titles": [
+          {
+            "title": "AdFoxly 1.8.5 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:wp_foxly:adfoxly:1.8.5:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "21EBF7B3-C1DD-41F0-9F06-2B3A90F6B052"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adfoxly:adfoxly:1.8.5:*:*:*:*:wordpress:*:*",
+      "title": "AdFoxly 1.8.5 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:wp_foxly:adfoxly:1.8.5:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

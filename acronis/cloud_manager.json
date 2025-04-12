@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:acronis:cloud_manager:6.2.23089.203:*:*:*:*:*:*:*",
+        "cpeNameId": "EB6C8A05-435A-4A78-BAC4-E377FD3798B9",
+        "lastModified": "2023-09-05T19:30:55.580",
+        "created": "2023-09-05T15:32:50.430",
+        "titles": [
+          {
+            "title": "Acronis Cloud Manager 6.2.23089.203",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:acronis:cloud_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EE4DBF93-5857-4919-9174-42BB47ECBA0B",
+        "lastModified": "2023-09-05T19:30:55.580",
+        "created": "2023-09-05T15:32:50.430",
+        "titles": [
+          {
+            "title": "Acronis Cloud Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:acronis:cloud_manager:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "262808DE-27D6-4196-A5CC-CCF9B1275499",
+        "lastModified": "2024-08-05T16:55:57.467",
+        "created": "2024-08-05T16:55:57.467",
+        "titles": [
+          {
+            "title": "Acronis Cloud Manager for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:acronis:cloud_manager:6.2.23089.203:*:*:*:*:*:*:*",
+      "title": "Acronis Cloud Manager 6.2.23089.203",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:acronis:cloud_manager:-:*:*:*:*:*:*:*",
+      "title": "Acronis Cloud Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:acronis:cloud_manager:-:*:*:*:*:windows:*:*",
+      "title": "Acronis Cloud Manager for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

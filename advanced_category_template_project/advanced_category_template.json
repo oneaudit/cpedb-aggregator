@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:0.1:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "E111E91C-5C96-4D85-87D2-DF679D62F05A",
+        "lastModified": "2024-02-16T20:54:36.037",
+        "created": "2023-08-23T12:30:44.653",
+        "titles": [
+          {
+            "title": "Advanced Category Template Project Advanced Category Template 0.1 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:praveengoswami:advanced_category_template:0.1:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "12E988A0-A214-4C8C-89D4-579834ED646B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "70519D79-F874-422C-8E36-AB6D8AD322F6",
+        "lastModified": "2024-02-16T20:54:36.037",
+        "created": "2023-08-23T12:30:44.653",
+        "titles": [
+          {
+            "title": "Advanced Category Template Project Advanced Category Template for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:praveengoswami:advanced_category_template:-:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "B2275315-D9E1-4305-9119-7AEABA3D9BEE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:0.1:*:*:*:*:wordpress:*:*",
+      "title": "Advanced Category Template Project Advanced Category Template 0.1 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:praveengoswami:advanced_category_template:0.1:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:-:*:*:*:*:wordpress:*:*",
+      "title": "Advanced Category Template Project Advanced Category Template for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:praveengoswami:advanced_category_template:-:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:adobe:creative_cloud_desktop_applocation:5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "929380CF-9A7F-401E-BE38-4EB9F40D05E1",
+        "lastModified": "2021-10-05T15:12:25.303",
+        "created": "2020-07-29T18:43:10.723",
+        "titles": [
+          {
+            "title": "Adobe Creative Cloud Desktop Applocation 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:adobe:creative_cloud_desktop_application:5.1:*:*:*:*:*:*:*",
+            "cpeNameId": "7AA53AB3-1369-4B56-9F84-67499A572ADE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:creative_cloud_desktop_applocation:5.1:*:*:*:*:*:*:*",
+      "title": "Adobe Creative Cloud Desktop Applocation 5.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:adobe:creative_cloud_desktop_application:5.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

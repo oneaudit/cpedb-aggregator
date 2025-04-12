@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:csi:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "198A76FA-50AF-44E9-B2E3-5CD01DB93E12",
+        "lastModified": "2012-04-24T23:21:05.337",
+        "created": "2012-04-24T23:21:05.337",
+        "titles": [
+          {
+            "title": "Adobe Csi 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:csi:1.0:*:*:*:*:*:x64:*",
+        "cpeNameId": "3A298510-A224-4257-99D4-07A07E024D04",
+        "lastModified": "2012-04-24T23:21:05.540",
+        "created": "2012-04-24T23:21:05.540",
+        "titles": [
+          {
+            "title": "Adobe Csi 1.0 (x64) 64-bit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:csi:1.0:*:*:*:*:*:*:*",
+      "title": "Adobe Csi 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:csi:1.0:*:*:*:*:*:x64:*",
+      "title": "Adobe Csi 1.0 (x64) 64-bit",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

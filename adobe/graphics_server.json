@@ -1,0 +1,84 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:graphics_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3842DC9F-D528-42A8-AA68-FBAC8DFE4A0F",
+        "lastModified": "2009-03-05T17:17:02.000",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Adobe Graphics Server",
+            "lang": "en"
+          },
+          {
+            "title": "アドビシステムズ Graphics Server",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:graphics_server:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D8457276-DA63-43B4-A3DD-CFF887CA3047",
+        "lastModified": "2009-03-05T17:16:56.110",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "アドビシステムズ Graphics Server 2.0",
+            "lang": "ja"
+          },
+          {
+            "title": "Adobe Graphics Server 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:graphics_server:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "C9E9315D-339B-4FD8-A0A3-67CFC8EB9FB8",
+        "lastModified": "2009-03-05T17:16:56.187",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Adobe Graphics Server 2.1",
+            "lang": "en"
+          },
+          {
+            "title": "アドビシステムズ Graphics Server 2.1",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:graphics_server:-:*:*:*:*:*:*:*",
+      "title": "Adobe Graphics Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:graphics_server:2.0:*:*:*:*:*:*:*",
+      "title": "Adobe Graphics Server 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:graphics_server:2.1:*:*:*:*:*:*:*",
+      "title": "Adobe Graphics Server 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:connect_enterprise_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "81665C5D-2684-4256-875A-E73CDF2E8F75",
+        "lastModified": "2009-03-05T17:16:59.717",
+        "created": "2007-09-13T01:32:51.677",
+        "titles": [
+          {
+            "title": "アドビシステムズ Connect Enterprise Server",
+            "lang": "ja"
+          },
+          {
+            "title": "Adobe Connect Enterprise Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:connect_enterprise_server:6:*:*:*:*:*:*:*",
+        "cpeNameId": "35718585-2119-4280-BC4F-BAA7948895BC",
+        "lastModified": "2009-03-05T17:16:53.467",
+        "created": "2007-09-13T01:33:03.727",
+        "titles": [
+          {
+            "title": "Adobe Connect Enterprise Server 6",
+            "lang": "en"
+          },
+          {
+            "title": "アドビシステムズ Connect Enterprise Server 6",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:connect_enterprise_server:-:*:*:*:*:*:*:*",
+      "title": "Adobe Connect Enterprise Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:connect_enterprise_server:6:*:*:*:*:*:*:*",
+      "title": "Adobe Connect Enterprise Server 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:cmaps_cs4:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1457A108-26DE-487D-A4EF-FCE8600230FB",
+        "lastModified": "2010-01-07T16:07:59.120",
+        "created": "2010-01-07T16:07:59.120",
+        "titles": [
+          {
+            "title": "Adobe Cmaps CS4 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:cmaps_cs4:2.0:*:*:*:*:*:x64:*",
+        "cpeNameId": "F624B6F0-5E54-48D8-8D4E-E7D67D0889CB",
+        "lastModified": "2012-04-24T23:20:58.667",
+        "created": "2012-04-24T23:20:58.667",
+        "titles": [
+          {
+            "title": "Adobe Cmaps CS4 2.0 (x64) 64-bit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:cmaps_cs4:2.0:*:*:*:*:*:*:*",
+      "title": "Adobe Cmaps CS4 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:cmaps_cs4:2.0:*:*:*:*:*:x64:*",
+      "title": "Adobe Cmaps CS4 2.0 (x64) 64-bit",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

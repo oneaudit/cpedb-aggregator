@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:pdf_library_sdk:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CF07C2C8-B934-4DE1-A1CE-E2CDB0F2F446",
+        "lastModified": "2012-03-06T14:30:21.923",
+        "created": "2012-03-06T14:30:21.923",
+        "titles": [
+          {
+            "title": "Adobe PDF Library SDK 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:pdf_library_sdk:9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F6F84325-A466-4B61-9B1F-EF25D82541F2",
+        "lastModified": "2012-04-24T23:21:20.747",
+        "created": "2012-04-24T23:21:20.747",
+        "titles": [
+          {
+            "title": "Adobe PDF Library SDK 9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:pdf_library_sdk:9.0:*:*:*:*:*:x64:*",
+        "cpeNameId": "5F5386C0-02D8-45DD-9346-8A60CD78F2B3",
+        "lastModified": "2012-04-24T23:21:20.997",
+        "created": "2012-04-24T23:21:20.997",
+        "titles": [
+          {
+            "title": "Adobe PDF Library SDK 9.0 (x64) 64-bit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:pdf_library_sdk:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BF2989C4-186F-48D5-85D2-48949EB6B9AC",
+        "lastModified": "2025-01-14T13:34:40.297",
+        "created": "2025-01-14T13:34:40.297",
+        "titles": [
+          {
+            "title": "Adobe PDF Library SDK",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:pdf_library_sdk:8.0:*:*:*:*:*:*:*",
+      "title": "Adobe PDF Library SDK 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:pdf_library_sdk:9.0:*:*:*:*:*:*:*",
+      "title": "Adobe PDF Library SDK 9.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:pdf_library_sdk:9.0:*:*:*:*:*:x64:*",
+      "title": "Adobe PDF Library SDK 9.0 (x64) 64-bit",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:pdf_library_sdk:-:*:*:*:*:*:*:*",
+      "title": "Adobe PDF Library SDK",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

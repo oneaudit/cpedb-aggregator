@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:indesign_server:11.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "01F8EFD4-C71D-48F4-998B-AD4E96955CCF",
+        "lastModified": "2019-06-19T13:56:08.520",
+        "created": "2019-06-19T13:56:08.520",
+        "titles": [
+          {
+            "title": "Adobe InDesign Server 11.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:indesign_server:12.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B31FC33F-87BB-47F7-A51F-24EC96C0BBDF",
+        "lastModified": "2019-06-19T13:56:08.643",
+        "created": "2019-06-19T13:56:08.643",
+        "titles": [
+          {
+            "title": "Adobe Indesign Server 12.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:indesign_server:11.0.0:*:*:*:*:*:*:*",
+      "title": "Adobe InDesign Server 11.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:indesign_server:12.0.0:*:*:*:*:*:*:*",
+      "title": "Adobe Indesign Server 12.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

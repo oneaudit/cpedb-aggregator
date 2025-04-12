@@ -1,0 +1,58 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:adobe_content_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7671AC18-9E61-484B-9DC3-2AA26BA0A357",
+        "lastModified": "2009-03-05T17:16:59.407",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Adobe Adobe Content Server",
+            "lang": "en"
+          },
+          {
+            "title": "アドビシステムズ Adobe Content Server",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:adobe_content_server:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1E5724B3-AE7A-48F8-9B42-9BD399349BA9",
+        "lastModified": "2009-03-05T17:16:52.530",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Adobe Adobe Content Server 3.0",
+            "lang": "en"
+          },
+          {
+            "title": "アドビシステムズ Adobe Content Server 3.0",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:adobe_content_server:-:*:*:*:*:*:*:*",
+      "title": "Adobe Adobe Content Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:adobe_content_server:3.0:*:*:*:*:*:*:*",
+      "title": "Adobe Adobe Content Server 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

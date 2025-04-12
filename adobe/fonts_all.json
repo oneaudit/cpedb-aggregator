@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:fonts_all:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EC384BF3-9519-4C92-940F-9B279AA3E785",
+        "lastModified": "2012-04-24T23:21:13.573",
+        "created": "2012-04-24T23:21:13.573",
+        "titles": [
+          {
+            "title": "Adobe Fonts All 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:fonts_all:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CE953142-B9C0-49AF-BF03-7A963FCA503D",
+        "lastModified": "2012-04-24T23:21:13.777",
+        "created": "2012-04-24T23:21:13.777",
+        "titles": [
+          {
+            "title": "Adobe Fonts All 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:fonts_all:2.0:*:*:*:*:*:x64:*",
+        "cpeNameId": "14893B8D-F16F-4C74-94AE-5E0CCAD95A07",
+        "lastModified": "2012-04-24T23:21:14.010",
+        "created": "2012-04-24T23:21:14.010",
+        "titles": [
+          {
+            "title": "Adobe Fonts All 2.0 (x64) 64-bit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:fonts_all:1.0:*:*:*:*:*:*:*",
+      "title": "Adobe Fonts All 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:fonts_all:2.0:*:*:*:*:*:*:*",
+      "title": "Adobe Fonts All 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:fonts_all:2.0:*:*:*:*:*:x64:*",
+      "title": "Adobe Fonts All 2.0 (x64) 64-bit",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:document_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "697A7FD4-5471-4228-8726-E7E4FB113C21",
+        "lastModified": "2009-03-05T17:17:00.030",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "アドビシステムズ Document Server",
+            "lang": "ja"
+          },
+          {
+            "title": "Adobe Document Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:document_server:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "22A08994-6927-4FBE-B0BE-7C3EA6A87E4F",
+        "lastModified": "2009-03-05T17:16:53.983",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Adobe Document Server 5.0",
+            "lang": "en"
+          },
+          {
+            "title": "アドビシステムズ Document Server 5.0",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:adobe:document_server:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "746A3494-02B4-4EAE-ABC7-2A735562E5B0",
+        "lastModified": "2009-03-05T17:16:54.093",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Adobe Document Server 6.0",
+            "lang": "en"
+          },
+          {
+            "title": "アドビシステムズ Document Server 6.0",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:document_server:-:*:*:*:*:*:*:*",
+      "title": "Adobe Document Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:document_server:5.0:*:*:*:*:*:*:*",
+      "title": "Adobe Document Server 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:adobe:document_server:6.0:*:*:*:*:*:*:*",
+      "title": "Adobe Document Server 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

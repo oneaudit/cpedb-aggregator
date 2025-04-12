@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:adobe:lifecycle:8.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "420D0D8D-6FA4-4512-810F-1F13F812A612",
+        "lastModified": "2025-01-22T13:24:16.110",
+        "created": "2024-12-11T15:08:45.607",
+        "titles": [
+          {
+            "title": "Adobe Lifecycle 8.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:adobe:livecycle:8.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "8B2F1AC4-8DBD-442B-A51B-926AC241B32D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:adobe:lifecycle:8.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "2B840572-9766-4625-924F-66B2F8B9F418",
+        "lastModified": "2025-01-22T13:24:16.110",
+        "created": "2024-12-11T15:08:45.607",
+        "titles": [
+          {
+            "title": "Adobe Lifecycle 8.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:adobe:livecycle:8.2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "790B5EA0-1352-4FA5-8AD3-FC9EA6153C14"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:adobe:lifecycle:9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "72D56B8F-CEFC-47B6-A316-0149D14D4F2A",
+        "lastModified": "2025-01-22T13:24:16.110",
+        "created": "2024-12-11T15:08:45.607",
+        "titles": [
+          {
+            "title": "Adobe Lifecycle 9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:adobe:livecycle:9.0:*:*:*:*:*:*:*",
+            "cpeNameId": "ADCA9A52-1E2F-4808-8E64-016298EF21A1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:adobe:lifecycle:8.0.1:*:*:*:*:*:*:*",
+      "title": "Adobe Lifecycle 8.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:adobe:livecycle:8.0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:adobe:lifecycle:8.2.1:*:*:*:*:*:*:*",
+      "title": "Adobe Lifecycle 8.2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:adobe:livecycle:8.2.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:adobe:lifecycle:9.0:*:*:*:*:*:*:*",
+      "title": "Adobe Lifecycle 9.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:adobe:livecycle:9.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

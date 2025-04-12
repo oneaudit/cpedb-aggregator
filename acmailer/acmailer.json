@@ -1,0 +1,153 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:acmailer:acmailer:3.8.17:*:*:*:*:*:*:*",
+        "cpeNameId": "2900C340-23DD-40C0-BAEB-148FBEDF0FE9",
+        "lastModified": "2015-07-23T14:17:43.647",
+        "created": "2014-07-30T18:59:58.697",
+        "titles": [
+          {
+            "title": "acmailer 3.8.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:seeds:acmailer:3.8.17:*:*:*:*:*:*:*",
+            "cpeNameId": "6BCAEA32-F8DE-49CC-9B66-D09B10521062"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:acmailer:acmailer:3.8:*:*:*:*:*:*:*",
+        "cpeNameId": "F74037B2-5577-4F9D-A630-A486D1D4648F",
+        "lastModified": "2015-07-23T14:21:25.387",
+        "created": "2014-07-30T18:59:59.150",
+        "titles": [
+          {
+            "title": "acmailer 3.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:seeds:acmailer:3.8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "F8E33006-DFAA-400A-98DE-AA1C61E8EDD9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:acmailer:acmailer:3.9.10:beta:*:*:*:*:*:*",
+        "cpeNameId": "3053D901-46A2-4477-9A07-1CD11D63DED6",
+        "lastModified": "2015-07-23T14:14:46.013",
+        "created": "2014-07-30T18:59:59.650",
+        "titles": [
+          {
+            "title": "acmailer 3.9.10 beta",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:seeds:acmailer:3.9.10:beta:*:*:*:*:*:*",
+            "cpeNameId": "767F189E-BD33-47D1-BB23-C734663D9AE5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:acmailer:acmailer:3.9:*:*:*:*:*:*:*",
+        "cpeNameId": "6C1FB0E4-60A6-4A5F-A1CC-F0FC092CC805",
+        "lastModified": "2014-08-01T20:14:27.117",
+        "created": "2014-07-30T19:00:00.197",
+        "titles": [
+          {
+            "title": "acmailer 3.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:acmailer:acmailer:4.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "535B7070-7010-4D89-BF65-D58CB54F3830",
+        "lastModified": "2021-02-25T17:57:02.573",
+        "created": "2021-01-22T18:27:41.567",
+        "titles": [
+          {
+            "title": "Acmailer Acmailer 4.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:acmailer:acmailer:4.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "CEC00200-79E4-446F-9001-0AAF5A55CB53",
+        "lastModified": "2021-02-25T17:57:02.573",
+        "created": "2021-01-22T18:27:41.567",
+        "titles": [
+          {
+            "title": "Acmailer Acmailer 4.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:acmailer:acmailer:3.8.17:*:*:*:*:*:*:*",
+      "title": "acmailer 3.8.17",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:seeds:acmailer:3.8.17:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:acmailer:acmailer:3.8:*:*:*:*:*:*:*",
+      "title": "acmailer 3.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:seeds:acmailer:3.8.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:acmailer:acmailer:3.9.10:beta:*:*:*:*:*:*",
+      "title": "acmailer 3.9.10 beta",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:seeds:acmailer:3.9.10:beta:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:acmailer:acmailer:3.9:*:*:*:*:*:*:*",
+      "title": "acmailer 3.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:acmailer:acmailer:4.0.2:*:*:*:*:*:*:*",
+      "title": "Acmailer Acmailer 4.0.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:acmailer:acmailer:4.0.1:*:*:*:*:*:*:*",
+      "title": "Acmailer Acmailer 4.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
