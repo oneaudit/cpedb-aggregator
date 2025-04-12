@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_5_pro_3350ge_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EA95C8B6-6346-49A2-850A-E7E43C18424E",
+        "lastModified": "2022-11-22T18:35:55.960",
+        "created": "2022-11-22T17:22:51.880",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) RYZEN 5 PRO 3350GE Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_5_pro_3350ge_firmware:comboam4_pi_1.0.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "51807D64-81E8-4B54-A84F-44C60FF7D4FA",
+        "lastModified": "2023-12-07T17:55:46.567",
+        "created": "2023-12-07T17:55:46.567",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 5 Pro 3350GE Firmware ComboAM4 PI 1.0.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_5_pro_3350ge_firmware:comboam4_v2_pi_1.2.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "286B4535-517C-4D16-A079-36553ADF4307",
+        "lastModified": "2023-12-07T17:55:46.567",
+        "created": "2023-12-07T17:55:46.567",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 5 Pro 3350GE Firmware  ComboAM4 V2 PI 1.2.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:ryzen_5_pro_3350ge_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) RYZEN 5 PRO 3350GE Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_5_pro_3350ge_firmware:comboam4_pi_1.0.0.9:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 5 Pro 3350GE Firmware ComboAM4 PI 1.0.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_5_pro_3350ge_firmware:comboam4_v2_pi_1.2.0.8:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 5 Pro 3350GE Firmware  ComboAM4 V2 PI 1.2.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

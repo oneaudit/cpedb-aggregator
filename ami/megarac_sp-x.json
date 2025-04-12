@@ -1,0 +1,104 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ami:megarac_sp-x:12:*:*:*:*:*:*:*",
+        "cpeNameId": "B8841AEF-8079-4343-B3D4-C452F7FF5C53",
+        "lastModified": "2023-03-06T15:02:48.433",
+        "created": "2022-12-06T18:06:00.317",
+        "titles": [
+          {
+            "title": "Ami MegaRAC SP-X 12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ami:megarac_sp-x:12:-:*:*:*:*:*:*",
+            "cpeNameId": "016A96B7-9327-4555-A66F-02A0632E5E86"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ami:megarac_sp-x:13:*:*:*:*:*:*:*",
+        "cpeNameId": "0BE72773-29C3-4886-9BA0-85913A2FB02B",
+        "lastModified": "2023-03-06T15:02:48.433",
+        "created": "2022-12-06T18:06:00.317",
+        "titles": [
+          {
+            "title": "Ami MegaRAC SP-X 13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ami:megarac_sp-x:13:-:*:*:*:*:*:*",
+            "cpeNameId": "DD328C19-6D95-47C3-9567-B48980134D2F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ami:megarac_sp-x:12:-:*:*:*:*:*:*",
+        "cpeNameId": "016A96B7-9327-4555-A66F-02A0632E5E86",
+        "lastModified": "2023-03-06T15:02:48.433",
+        "created": "2023-02-07T15:38:40.883",
+        "titles": [
+          {
+            "title": "Ami MegaRAC SP-X 12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ami:megarac_sp-x:13:-:*:*:*:*:*:*",
+        "cpeNameId": "DD328C19-6D95-47C3-9567-B48980134D2F",
+        "lastModified": "2023-03-06T15:02:48.433",
+        "created": "2023-02-07T15:38:40.883",
+        "titles": [
+          {
+            "title": "Ami MegaRAC SP-X 13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ami:megarac_sp-x:12:*:*:*:*:*:*:*",
+      "title": "Ami MegaRAC SP-X 12",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ami:megarac_sp-x:12:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:ami:megarac_sp-x:13:*:*:*:*:*:*:*",
+      "title": "Ami MegaRAC SP-X 13",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ami:megarac_sp-x:13:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:ami:megarac_sp-x:12:-:*:*:*:*:*:*",
+      "title": "Ami MegaRAC SP-X 12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ami:megarac_sp-x:13:-:*:*:*:*:*:*",
+      "title": "Ami MegaRAC SP-X 13",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apache:airflow_celery_provider:3.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C7EE8280-3895-4766-9064-EB598FF8C5AB",
+        "lastModified": "2023-11-15T22:57:28.430",
+        "created": "2023-11-15T22:57:28.430",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Airflow Celery Provider 3.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apache:airflow_celery_provider:3.4.0:-:*:*:*:*:*:*",
+        "cpeNameId": "D2A01D85-65CF-49FA-BFB3-AB4CFFE42DF1",
+        "lastModified": "2023-11-15T22:57:28.430",
+        "created": "2023-11-15T22:57:28.430",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Airflow Celery Provider 3.4.0 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apache:airflow_celery_provider:3.4.0:rc1:*:*:*:*:*:*",
+        "cpeNameId": "532651B0-C760-4653-99FB-4CDF3D6740D4",
+        "lastModified": "2023-11-15T22:57:28.430",
+        "created": "2023-11-15T22:57:28.430",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Airflow Celery Provider 3.4.0 Release Candidate 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apache:airflow_celery_provider:3.3.0:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Airflow Celery Provider 3.3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apache:airflow_celery_provider:3.4.0:-:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Airflow Celery Provider 3.4.0 -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apache:airflow_celery_provider:3.4.0:rc1:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Airflow Celery Provider 3.4.0 Release Candidate 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

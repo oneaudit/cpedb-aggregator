@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_7_5800x3d_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9930C229-179F-4167-8429-7CA2720E8C73",
+        "lastModified": "2022-12-22T18:17:01.960",
+        "created": "2022-08-11T19:18:05.260",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 7 5800x3d Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_7_5800x3d_firmware:comboam4_v2_pi_1.2.0.a:*:*:*:*:*:*:*",
+        "cpeNameId": "0CB46BBF-5B3C-4256-AB5E-7708AB24BD3D",
+        "lastModified": "2023-08-21T18:35:07.823",
+        "created": "2023-08-21T12:25:10.830",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 7 5800x3d Firmware Comboam4 V2 Pi 1.2.0.a",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_7_5800x3d_firmware:comboam4v2pi_1.2.0.b:*:*:*:*:*:*:*",
+        "cpeNameId": "975106EC-DF17-4740-85BB-5551BED63140",
+        "lastModified": "2023-08-21T18:35:07.823",
+        "created": "2023-08-21T15:27:19.590",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 7 5800x3d Firmware Comboam4v2pi 1.2.0.b",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:ryzen_7_5800x3d_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 7 5800x3d Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_7_5800x3d_firmware:comboam4_v2_pi_1.2.0.a:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 7 5800x3d Firmware Comboam4 V2 Pi 1.2.0.a",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_7_5800x3d_firmware:comboam4v2pi_1.2.0.b:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 7 5800x3d Firmware Comboam4v2pi 1.2.0.b",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

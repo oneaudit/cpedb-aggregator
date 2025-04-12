@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_7_4700g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "82DE47C8-3056-4CD1-96F5-2BD58FFE4B68",
+        "lastModified": "2022-03-21T17:41:09.220",
+        "created": "2022-03-17T13:47:56.763",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) RYZEN 7 4700G FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_7_4700g_firmware:renoirpi-fp6_1.0.0.7:*:*:*:*:*:*:*",
+        "cpeNameId": "00B5D0C1-73BD-4283-AE8B-6F6E54C5705E",
+        "lastModified": "2023-08-15T13:33:56.977",
+        "created": "2023-04-10T12:09:02.380",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) RYZEN 7 4700G FIRMWARE RENOIRPI-FP6 1.0.0.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_7_4700g_firmware:comboam4v2_pi_1.2.0.5:*:*:*:*:*:*:*",
+        "cpeNameId": "4812E1D5-DF3D-4A63-B50B-5E4D54E8AA4E",
+        "lastModified": "2024-12-13T18:36:42.410",
+        "created": "2024-12-13T18:36:42.410",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 7 4700g Firmware ComboAM4V2 PI 1.2.0.5 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:ryzen_7_4700g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) RYZEN 7 4700G FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_7_4700g_firmware:renoirpi-fp6_1.0.0.7:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) RYZEN 7 4700G FIRMWARE RENOIRPI-FP6 1.0.0.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_7_4700g_firmware:comboam4v2_pi_1.2.0.5:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 7 4700g Firmware ComboAM4V2 PI 1.2.0.5 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

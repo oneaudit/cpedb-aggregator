@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_threadripper_pro_5965wx_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EFFC8D2C-5FC6-4974-B442-74A12A3ACB2E",
+        "lastModified": "2022-03-21T17:41:09.220",
+        "created": "2022-03-17T13:47:56.763",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) RYZEN THREADRIPPER PRO 5965WX FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_threadripper_pro_5965wx_firmware:castlepeakwspi-swrx8_1.0.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "2AD9157C-F570-4ABF-9DFA-CA9BE6EF4474",
+        "lastModified": "2023-07-14T15:48:43.627",
+        "created": "2023-04-10T12:11:06.607",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen Threadripper Pro 5965wx Firmware Castlepeakwspi-swrx8 1.0.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_threadripper_pro_5965wx_firmware:chagallwspi-swrx8_1.0.0.7:*:*:*:*:*:*:*",
+        "cpeNameId": "B26AD4D2-8280-4DCB-AF8B-9DBC350D5AF5",
+        "lastModified": "2023-08-21T18:35:07.823",
+        "created": "2023-08-21T15:13:03.170",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen Threadripper Pro 5965wx Firmware Chagallwspi-swrx8 1.0.0.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:ryzen_threadripper_pro_5965wx_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) RYZEN THREADRIPPER PRO 5965WX FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_threadripper_pro_5965wx_firmware:castlepeakwspi-swrx8_1.0.0.9:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen Threadripper Pro 5965wx Firmware Castlepeakwspi-swrx8 1.0.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_threadripper_pro_5965wx_firmware:chagallwspi-swrx8_1.0.0.7:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen Threadripper Pro 5965wx Firmware Chagallwspi-swrx8 1.0.0.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

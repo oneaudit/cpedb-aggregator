@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_5_4600g_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "16CEF97C-2050-438D-83FC-DF7187C59ED0",
+        "lastModified": "2022-03-21T17:41:09.220",
+        "created": "2022-03-17T13:47:56.763",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) RYZEN 5 4600G FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_5_4600g_firmware:renoirpi-fp6_1.0.0.7:*:*:*:*:*:*:*",
+        "cpeNameId": "56DB39DF-C088-44BE-9029-056AB62BE011",
+        "lastModified": "2023-08-15T13:33:56.977",
+        "created": "2023-04-10T12:08:04.420",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) RYZEN 5 4600G FIRMWARE RENOIRPI-FP6 1.0.0.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_5_4600g_firmware:comboam4v2_pi_1.2.0.5:*:*:*:*:*:*:*",
+        "cpeNameId": "2DBF151E-3648-4D7F-9460-A8FBA1D76930",
+        "lastModified": "2024-12-13T18:36:42.410",
+        "created": "2024-12-13T18:36:42.410",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 5 4600g Firmware ComboAM4V2 PI 1.2.0.5 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:ryzen_5_4600g_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) RYZEN 5 4600G FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_5_4600g_firmware:renoirpi-fp6_1.0.0.7:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) RYZEN 5 4600G FIRMWARE RENOIRPI-FP6 1.0.0.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_5_4600g_firmware:comboam4v2_pi_1.2.0.5:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 5 4600g Firmware ComboAM4V2 PI 1.2.0.5 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
