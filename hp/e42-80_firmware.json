@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:hp:e42-80_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A1C84D59-E511-4EA4-B35F-BD6FF1E29FF7",
+        "lastModified": "2019-12-10T16:30:55.377",
+        "created": "2018-11-26T15:28:37.213",
+        "titles": [
+          {
+            "title": "HP E42-80 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:lenovo:e42-80_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "84126A31-2D9D-4A98-A756-3CFD5C72C596"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:hp:e42-80_firmware:2wcn38ww:*:*:*:*:*:*:*",
+        "cpeNameId": "8571AC0A-03CE-40AA-BE54-30E763E5844B",
+        "lastModified": "2019-12-10T16:30:55.457",
+        "created": "2018-11-26T15:28:37.477",
+        "titles": [
+          {
+            "title": "Hp E42-80 Firmware 2WCN38WW",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:lenovo:e42-80_firmware:2wcn38ww:*:*:*:*:*:*:*",
+            "cpeNameId": "33EFCA84-53F9-48AD-835E-32934493668D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:e42-80_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP E42-80 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:lenovo:e42-80_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:hp:e42-80_firmware:2wcn38ww:*:*:*:*:*:*:*",
+      "title": "Hp E42-80 Firmware 2WCN38WW",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:lenovo:e42-80_firmware:2wcn38ww:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:diagnostics:9.24:ip1:*:*:*:*:*:*",
+        "cpeNameId": "CDBC5C12-CEEC-4F64-878B-0E4440001B8C",
+        "lastModified": "2020-08-19T20:17:28.407",
+        "created": "2020-08-19T20:17:28.407",
+        "titles": [
+          {
+            "title": "HP Diagnostics 9.24 IP1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:diagnostics:9.26:*:*:*:*:*:*:*",
+        "cpeNameId": "6620AC74-4C5E-4DAA-8734-F286507E84C4",
+        "lastModified": "2020-08-19T20:17:28.560",
+        "created": "2020-08-19T20:17:28.560",
+        "titles": [
+          {
+            "title": "HP Diagnostics 9.26",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:diagnostics:9.26:ip1:*:*:*:*:*:*",
+        "cpeNameId": "C59DA4D5-7645-4424-9B8E-90A8B68180DE",
+        "lastModified": "2020-08-19T20:17:28.640",
+        "created": "2020-08-19T20:17:28.640",
+        "titles": [
+          {
+            "title": "HP Diagnostics 9.26 IP1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:diagnostics:9.24:ip1:*:*:*:*:*:*",
+      "title": "HP Diagnostics 9.24 IP1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:diagnostics:9.26:*:*:*:*:*:*:*",
+      "title": "HP Diagnostics 9.26",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:diagnostics:9.26:ip1:*:*:*:*:*:*",
+      "title": "HP Diagnostics 9.26 IP1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

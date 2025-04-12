@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:edgeline_infrastructure_manager:1.21:*:*:*:*:*:*:*",
+        "cpeNameId": "2E36C5FE-2D32-4DB4-B243-000918091CC0",
+        "lastModified": "2020-12-03T19:13:31.077",
+        "created": "2020-12-03T19:13:31.077",
+        "titles": [
+          {
+            "title": "HP Edgeline Infrastructure Manager 1.21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:edgeline_infrastructure_manager:1.22:*:*:*:*:*:*:*",
+        "cpeNameId": "E262785F-8039-4306-8BD9-C260450A03E5",
+        "lastModified": "2021-06-02T14:23:32.763",
+        "created": "2021-05-11T15:14:19.877",
+        "titles": [
+          {
+            "title": "HP Edgeline Infrastructure Manager 1.22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:edgeline_infrastructure_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EBF96A81-5A43-4327-B6F0-9738BF7A3360",
+        "lastModified": "2021-06-02T14:23:32.763",
+        "created": "2021-05-11T15:14:19.877",
+        "titles": [
+          {
+            "title": "HP Edgeline Infrastructure Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:edgeline_infrastructure_manager:1.21:*:*:*:*:*:*:*",
+      "title": "HP Edgeline Infrastructure Manager 1.21",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:edgeline_infrastructure_manager:1.22:*:*:*:*:*:*:*",
+      "title": "HP Edgeline Infrastructure Manager 1.22",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:edgeline_infrastructure_manager:-:*:*:*:*:*:*:*",
+      "title": "HP Edgeline Infrastructure Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
