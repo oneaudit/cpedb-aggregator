@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:s_series_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C907B33F-A6D3-48A7-956F-5CC839013400",
+        "lastModified": "2020-04-07T18:04:33.417",
+        "created": "2020-04-07T18:04:33.417",
+        "titles": [
+          {
+            "title": "Huawei S Series Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:s_series_firmware:v100r006c05:*:*:*:*:*:*:*",
+        "cpeNameId": "153FC165-6FA3-401E-B755-24DAB760046C",
+        "lastModified": "2020-04-07T18:04:33.777",
+        "created": "2020-04-07T18:04:33.777",
+        "titles": [
+          {
+            "title": "Huawei S Series Firmware V100R006C05",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:huawei:s_series_firmware:-:*:*:*:*:*:*:*",
+      "title": "Huawei S Series Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:s_series_firmware:v100r006c05:*:*:*:*:*:*:*",
+      "title": "Huawei S Series Firmware V100R006C05",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

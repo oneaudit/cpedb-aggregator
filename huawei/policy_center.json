@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:huawei:policy_center:-:*:*:*:*:*:*:*",
+        "cpeNameId": "775D57FD-385C-4BC6-8094-0D8C5DF5996F",
+        "lastModified": "2021-05-12T18:41:21.950",
+        "created": "2016-04-12T18:31:39.100",
+        "titles": [
+          {
+            "title": "Huawei Policy Center",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:policy_center:v100r003c10:*:*:*:*:*:*:*",
+        "cpeNameId": "B60D6E47-164D-44C7-A471-187237202ECC",
+        "lastModified": "2021-06-04T14:54:18.610",
+        "created": "2016-09-27T17:03:02.083",
+        "titles": [
+          {
+            "title": "Huawei Policy Center V100R003C10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:policy_center:v100r003c00:*:*:*:*:*:*:*",
+        "cpeNameId": "A35D59B1-8C80-4885-9D25-59A038E1F2FC",
+        "lastModified": "2021-06-04T14:54:18.610",
+        "created": "2016-09-27T17:03:02.083",
+        "titles": [
+          {
+            "title": "Huawei Policy Center V100R003C00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:huawei:policy_center:-:*:*:*:*:*:*:*",
+      "title": "Huawei Policy Center",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:huawei:policy_center:v100r003c10:*:*:*:*:*:*:*",
+      "title": "Huawei Policy Center V100R003C10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:huawei:policy_center:v100r003c00:*:*:*:*:*:*:*",
+      "title": "Huawei Policy Center V100R003C00",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

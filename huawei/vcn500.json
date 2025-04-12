@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:huawei:vcn500:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3CC07D2E-5EEB-41DC-B317-C151E663B2BF",
+        "lastModified": "2016-01-11T17:32:12.910",
+        "created": "2016-01-11T17:32:12.910",
+        "titles": [
+          {
+            "title": "Huawei VCN500",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:vcn500:v100r002c00spc200:*:*:*:*:*:*:*",
+        "cpeNameId": "BD37875A-C7B1-4D77-8BFA-C6EE77D164E2",
+        "lastModified": "2016-01-11T17:32:12.970",
+        "created": "2016-01-11T17:32:12.970",
+        "titles": [
+          {
+            "title": "Huawei VCN500 V100R002C00SPC200",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:vcn500:v100r002c00spc200b010:*:*:*:*:*:*:*",
+        "cpeNameId": "6D31C0E2-E01E-4FD5-A281-AD62E6AD5ECB",
+        "lastModified": "2016-01-11T17:32:12.987",
+        "created": "2016-01-11T17:32:12.987",
+        "titles": [
+          {
+            "title": "Huawei VCN500 V100R002C00SPC200B010",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:huawei:vcn500:-:*:*:*:*:*:*:*",
+      "title": "Huawei VCN500",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:huawei:vcn500:v100r002c00spc200:*:*:*:*:*:*:*",
+      "title": "Huawei VCN500 V100R002C00SPC200",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:huawei:vcn500:v100r002c00spc200b010:*:*:*:*:*:*:*",
+      "title": "Huawei VCN500 V100R002C00SPC200B010",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

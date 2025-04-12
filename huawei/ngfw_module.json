@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:huawei:ngfw_module:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F626BA91-B105-4A2F-9D84-8206933F5871",
+        "lastModified": "2016-09-08T16:19:53.373",
+        "created": "2016-09-08T16:19:53.373",
+        "titles": [
+          {
+            "title": "Huawei NGFW Module",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:ngfw_module:v500r001c50:*:*:*:*:*:*:*",
+        "cpeNameId": "F393700A-4937-4C84-A781-020AC6F47EEC",
+        "lastModified": "2020-02-23T00:58:57.090",
+        "created": "2020-02-23T00:58:57.090",
+        "titles": [
+          {
+            "title": "Huawei Ngfw Module V500r001c50",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:ngfw_module:v500r002c10:*:*:*:*:*:*:*",
+        "cpeNameId": "1BE8F389-6EFD-4CED-9482-6767AADE27D9",
+        "lastModified": "2020-02-23T00:58:57.183",
+        "created": "2020-02-23T00:58:57.183",
+        "titles": [
+          {
+            "title": "Huawei Ngfw Module V500r002c10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:huawei:ngfw_module:-:*:*:*:*:*:*:*",
+      "title": "Huawei NGFW Module",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:ngfw_module:v500r001c50:*:*:*:*:*:*:*",
+      "title": "Huawei Ngfw Module V500r001c50",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:ngfw_module:v500r002c10:*:*:*:*:*:*:*",
+      "title": "Huawei Ngfw Module V500r002c10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

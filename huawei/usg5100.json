@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:huawei:usg5100:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7F2CF36D-9184-46F6-8DC1-1CE8AE9FFC2F",
+        "lastModified": "2015-12-08T18:30:31.513",
+        "created": "2015-12-08T18:30:31.513",
+        "titles": [
+          {
+            "title": "Huawei USG5100",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:usg5100:v300r001c10:*:*:*:*:*:*:*",
+        "cpeNameId": "AEC277B2-B810-4E88-B087-F9DFE10B91C4",
+        "lastModified": "2021-05-26T15:38:37.050",
+        "created": "2016-10-04T12:59:41.467",
+        "titles": [
+          {
+            "title": "Huawei USG5100 V300R001C10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:usg5100:v300r001c00:*:*:*:*:*:*:*",
+        "cpeNameId": "AD1A7279-7E4F-4FCE-92ED-CD0B53009C40",
+        "lastModified": "2021-05-26T15:38:37.050",
+        "created": "2016-10-04T12:59:41.467",
+        "titles": [
+          {
+            "title": "Huawei USG5100 V300R001C00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:huawei:usg5100:-:*:*:*:*:*:*:*",
+      "title": "Huawei USG5100",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:huawei:usg5100:v300r001c10:*:*:*:*:*:*:*",
+      "title": "Huawei USG5100 V300R001C10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:huawei:usg5100:v300r001c00:*:*:*:*:*:*:*",
+      "title": "Huawei USG5100 V300R001C00",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

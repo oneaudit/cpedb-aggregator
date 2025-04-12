@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hub_project:hub:1.12.1:*:*:*:*:*:*:*",
+        "cpeNameId": "74552C87-529F-4B56-85B2-DC976DC231B9",
+        "lastModified": "2023-06-05T14:24:03.980",
+        "created": "2014-05-28T17:49:47.157",
+        "titles": [
+          {
+            "title": "hub project hub 1.12.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:github:hub:1.12.1:*:*:*:*:*:*:*",
+            "cpeNameId": "FB3395E4-B76D-4643-B8D8-3F0721319E3F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hub_project:hub:1.12.0:*:*:*:*:*:*:*",
+        "cpeNameId": "43994BE0-9BE2-4D38-99E2-6713805B1D5E",
+        "lastModified": "2023-06-05T14:24:03.980",
+        "created": "2014-05-28T17:49:47.500",
+        "titles": [
+          {
+            "title": "hub project hub 1.12.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:github:hub:1.12.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3C189C60-4A20-4AF2-A49E-8AE4A075E86B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hub_project:hub:1.12.1:*:*:*:*:*:*:*",
+      "title": "hub project hub 1.12.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:github:hub:1.12.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:hub_project:hub:1.12.0:*:*:*:*:*:*:*",
+      "title": "hub project hub 1.12.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:github:hub:1.12.0:*:*:*:*:*:*:*"
+    }
+  ]
+}
