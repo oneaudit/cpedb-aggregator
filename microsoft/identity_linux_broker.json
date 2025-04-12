@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:identity_linux_broker:1.6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "BDF602F4-4A75-47D5-9F6A-0885B00195F4",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "Microsoft Identity Linux Broker 1.6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:identity_linux_broker:-:*:*:*:*:*:*:*",
+        "cpeNameId": "ECFC3D4E-88B3-43FC-86F7-00E7035F8E6E",
+        "lastModified": "2024-02-22T17:50:25.777",
+        "created": "2024-02-22T17:50:25.777",
+        "titles": [
+          {
+            "title": "Microsoft Identity Linux Broker",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:identity_linux_broker:1.6.1:*:*:*:*:*:*:*",
+      "title": "Microsoft Identity Linux Broker 1.6.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:identity_linux_broker:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Identity Linux Broker",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

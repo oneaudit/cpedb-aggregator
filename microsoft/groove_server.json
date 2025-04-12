@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:groove_server:2010:*:*:*:*:*:*:*",
+        "cpeNameId": "AB48EFC4-9BE7-4AB0-8963-408E378856D1",
+        "lastModified": "2013-04-12T14:19:00.980",
+        "created": "2011-09-15T13:24:52.147",
+        "titles": [
+          {
+            "title": "Microsoft Groove Server 2010",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:groove_server:2010:sp1:*:*:*:*:*:*",
+        "cpeNameId": "5E7A393D-3217-4F05-831C-3ED47CD5E2C6",
+        "lastModified": "2013-04-12T14:19:01.023",
+        "created": "2011-09-15T13:24:52.243",
+        "titles": [
+          {
+            "title": "Microsoft Groove Server 2010 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:groove_server:2010:*:*:*:*:*:*:*",
+      "title": "Microsoft Groove Server 2010",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:groove_server:2010:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Groove Server 2010 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

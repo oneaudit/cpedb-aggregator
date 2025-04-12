@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:c_sdk_for_azure_iot:-:*:*:*:*:*:*:*",
+        "cpeNameId": "00F4893C-0327-4DA8-9E0C-1250002CAC71",
+        "lastModified": "2021-02-02T18:54:02.967",
+        "created": "2021-02-02T18:54:02.967",
+        "titles": [
+          {
+            "title": "Microsoft C SDK for Azure IoT",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:c_sdk_for_azure_iot:lts_07_2020_ref02:*:*:*:*:*:*:*",
+        "cpeNameId": "09A80223-6D24-4902-B6DB-0B8D79D9D695",
+        "lastModified": "2021-02-02T18:54:03.407",
+        "created": "2021-02-02T18:54:03.407",
+        "titles": [
+          {
+            "title": "Microsoft C SDK for Azure IoT LTS_07_2020_Ref02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:c_sdk_for_azure_iot:-:*:*:*:*:*:*:*",
+      "title": "Microsoft C SDK for Azure IoT",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:c_sdk_for_azure_iot:lts_07_2020_ref02:*:*:*:*:*:*:*",
+      "title": "Microsoft C SDK for Azure IoT LTS_07_2020_Ref02",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

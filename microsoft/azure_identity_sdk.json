@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_identity_sdk:1.10.2:*:*:*:*:.net:*:*",
+        "cpeNameId": "C086CEB6-0998-4850-B5D1-67E0DFE95895",
+        "lastModified": "2023-10-27T00:40:27.500",
+        "created": "2023-10-27T00:40:27.500",
+        "titles": [
+          {
+            "title": "Microsoft Azure Identity SDK 1.10.2 for .Net",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_identity_sdk:1.14.1:*:*:*:*:python:*:*",
+        "cpeNameId": "0D630206-862D-457C-807A-6814AFF7C006",
+        "lastModified": "2023-10-27T00:40:27.500",
+        "created": "2023-10-27T00:40:27.500",
+        "titles": [
+          {
+            "title": "Microsoft Azure Identity SDK 1.14.1 for Python",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_identity_sdk:3.3.1:*:*:*:*:javascript:*:*",
+        "cpeNameId": "8528FC50-4DD5-457E-BBAC-67127066AB8F",
+        "lastModified": "2023-10-27T00:40:27.500",
+        "created": "2023-10-27T00:40:27.500",
+        "titles": [
+          {
+            "title": "Microsoft Azure Identity SDK 3.3.1 for JavaScript",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_identity_sdk:1.10.2:*:*:*:*:java:*:*",
+        "cpeNameId": "5F36F99B-775F-4670-B00E-3270470C30ED",
+        "lastModified": "2023-12-16T04:28:17.570",
+        "created": "2023-12-16T04:28:17.570",
+        "titles": [
+          {
+            "title": "Microsoft Azure Identity SDK 1.10.2 for Java",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:azure_identity_sdk:1.10.2:*:*:*:*:.net:*:*",
+      "title": "Microsoft Azure Identity SDK 1.10.2 for .Net",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_identity_sdk:1.14.1:*:*:*:*:python:*:*",
+      "title": "Microsoft Azure Identity SDK 1.14.1 for Python",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_identity_sdk:3.3.1:*:*:*:*:javascript:*:*",
+      "title": "Microsoft Azure Identity SDK 3.3.1 for JavaScript",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_identity_sdk:1.10.2:*:*:*:*:java:*:*",
+      "title": "Microsoft Azure Identity SDK 1.10.2 for Java",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

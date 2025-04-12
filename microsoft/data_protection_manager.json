@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:data_protection_manager:2006:*:*:*:*:*:*:*",
+        "cpeNameId": "21335E3A-5F4A-4ED9-95D8-78869F163D75",
+        "lastModified": "2008-11-25T19:12:39.300",
+        "created": "2008-11-25T19:12:39.300",
+        "titles": [
+          {
+            "title": "Microsoft Data Protection Manager 2006",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:data_protection_manager:2007:*:*:*:*:*:*:*",
+        "cpeNameId": "B3BEFDA6-6B70-4CDF-AF9B-E5911DFE75EE",
+        "lastModified": "2008-11-25T19:12:39.550",
+        "created": "2008-11-25T19:12:39.550",
+        "titles": [
+          {
+            "title": "Microsoft System Center Data Protection Manager 2007",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:data_protection_manager:2006:*:*:*:*:*:*:*",
+      "title": "Microsoft Data Protection Manager 2006",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:data_protection_manager:2007:*:*:*:*:*:*:*",
+      "title": "Microsoft System Center Data Protection Manager 2007",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

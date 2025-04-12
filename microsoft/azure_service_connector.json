@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_service_connector:0.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "BD6B51B8-F022-4C6D-822A-BE60B84C0B2D",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-04-13T12:23:41.250",
+        "titles": [
+          {
+            "title": "Microsoft Azure Service Connector 0.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_service_connector:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D6D2E04F-82D1-4E08-AD05-FCD67DFA2DD2",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-04-13T12:23:41.250",
+        "titles": [
+          {
+            "title": "Microsoft Azure Service Connector -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:azure_service_connector:0.3.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure Service Connector 0.3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_service_connector:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure Service Connector -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

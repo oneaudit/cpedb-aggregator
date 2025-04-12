@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:directx_sdk:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E3891A06-9E92-4FC5-98F5-A13EF16548EF",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Microsoft DirectX SDK",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:directx_sdk:february_2006:*:*:*:*:*:*:*",
+        "cpeNameId": "32B3E9DD-037B-49F9-B48A-C623940471DC",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft DirectX SDK February 2006",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:directx_sdk:-:*:*:*:*:*:*:*",
+      "title": "Microsoft DirectX SDK",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:directx_sdk:february_2006:*:*:*:*:*:*:*",
+      "title": "Microsoft DirectX SDK February 2006",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

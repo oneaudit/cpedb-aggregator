@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:mi:ax6000_firmware:1.0.56:*:*:*:*:*:*:*",
+        "cpeNameId": "284864CC-B886-4A96-B358-AF6E9325F837",
+        "lastModified": "2022-05-20T18:23:42.913",
+        "created": "2022-03-11T19:19:30.207",
+        "titles": [
+          {
+            "title": "Xiaomi AX6000 Firmware 1.0.56",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:mi:ax6000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F5500035-83DA-4A96-B33D-E70043BDA93B",
+        "lastModified": "2022-05-20T18:23:42.913",
+        "created": "2022-03-11T19:19:30.207",
+        "titles": [
+          {
+            "title": "Xiaomi AX6000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:mi:ax6000_firmware:1.0.56:*:*:*:*:*:*:*",
+      "title": "Xiaomi AX6000 Firmware 1.0.56",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:mi:ax6000_firmware:-:*:*:*:*:*:*:*",
+      "title": "Xiaomi AX6000 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:excel_web_app:2013:sp1:*:*:*:*:*:*",
+        "cpeNameId": "CCFFD4D5-F88B-45F4-88EB-C098724B4D5F",
+        "lastModified": "2021-07-08T14:33:26.063",
+        "created": "2017-09-18T18:32:33.790",
+        "titles": [
+          {
+            "title": "Microsoft ASP.NET Model View Controller (MVC) 2013 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:excel_web_app:2010:sp2:*:*:*:*:*:*",
+        "cpeNameId": "ADC962E5-926A-4B6C-9D84-94398A247730",
+        "lastModified": "2020-12-21T18:42:21.733",
+        "created": "2020-12-21T18:42:21.733",
+        "titles": [
+          {
+            "title": "Microsoft Excel Web App 2010 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:excel_web_app:2013:sp1:*:*:*:*:*:*",
+      "title": "Microsoft ASP.NET Model View Controller (MVC) 2013 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:excel_web_app:2010:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Excel Web App 2010 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

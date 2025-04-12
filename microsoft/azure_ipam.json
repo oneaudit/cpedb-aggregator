@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_ipam:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9D31FEE3-19BE-4992-AFE4-071FA9403B63",
+        "lastModified": "2024-01-19T18:35:44.360",
+        "created": "2024-01-19T18:35:44.360",
+        "titles": [
+          {
+            "title": "Microsoft Azure IPAM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_ipam:3.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6DB744A1-D038-4334-BC4D-1A789BDE505C",
+        "lastModified": "2024-01-19T18:35:44.360",
+        "created": "2024-01-19T18:35:44.360",
+        "titles": [
+          {
+            "title": "Microsoft Azure IPAM 3.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:azure_ipam:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure IPAM",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_ipam:3.0.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure IPAM 3.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

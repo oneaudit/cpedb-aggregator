@@ -1,0 +1,116 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:365_apps:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B5B1F65A-D0D7-41F7-885E-C42E1920270D",
+        "lastModified": "2020-05-22T20:05:13.600",
+        "created": "2020-05-22T20:05:13.600",
+        "titles": [
+          {
+            "title": "Microsoft 365 Apps",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:365_apps:-:*:*:*:enterprise:*:*:*",
+        "cpeNameId": "53BD7B34-C571-45C0-B334-333A6A8AAF5F",
+        "lastModified": "2020-06-12T15:45:00.353",
+        "created": "2020-06-12T15:45:00.353",
+        "titles": [
+          {
+            "title": "Microsoft 365 Apps Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:365_apps:-:*:*:*:enterprise:*:x64:*",
+        "cpeNameId": "FDBC89B1-ECB8-4283-BA71-8094D0C4A4D4",
+        "lastModified": "2020-09-16T14:44:12.833",
+        "created": "2020-09-16T14:44:12.833",
+        "titles": [
+          {
+            "title": "Microsoft 365 Apps Enterprise Edition on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:365_apps:-:*:*:*:enterprise:*:x86:*",
+        "cpeNameId": "6D8C53B3-327E-46A5-A6DF-C6A089326569",
+        "lastModified": "2020-09-16T14:44:13.240",
+        "created": "2020-09-16T14:44:13.240",
+        "titles": [
+          {
+            "title": "Microsoft 365 Apps Enterprise Edition on X86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:365_apps:2401.17231.20236:*:*:*:enterprise:*:*:*",
+        "cpeNameId": "037C0A8F-A9F0-44CB-A301-57E7E444CA91",
+        "lastModified": "2024-04-16T12:42:04.687",
+        "created": "2024-04-16T12:42:04.687",
+        "titles": [
+          {
+            "title": "Microsoft 365 Apps 2401.17231.20236 Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:365_apps:-:*:*:*:*:*:*:*",
+      "title": "Microsoft 365 Apps",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:365_apps:-:*:*:*:enterprise:*:*:*",
+      "title": "Microsoft 365 Apps Enterprise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:365_apps:-:*:*:*:enterprise:*:x64:*",
+      "title": "Microsoft 365 Apps Enterprise Edition on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:365_apps:-:*:*:*:enterprise:*:x86:*",
+      "title": "Microsoft 365 Apps Enterprise Edition on X86",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:365_apps:2401.17231.20236:*:*:*:enterprise:*:*:*",
+      "title": "Microsoft 365 Apps 2401.17231.20236 Enterprise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

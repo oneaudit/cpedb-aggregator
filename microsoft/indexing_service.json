@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:indexing_service:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7867A16A-5DE3-4B4B-BC33-E04DE7AB33D2",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:31:45.243",
+        "titles": [
+          {
+            "title": "Microsoft indexing_service",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:indexing_service:-:*:windows_2000:*:*:*:*:*",
+        "cpeNameId": "99FB7F8C-C551-4746-8B0E-23310DB1F360",
+        "lastModified": "2008-04-14T20:21:04.113",
+        "created": "2007-08-28T21:31:45.273",
+        "titles": [
+          {
+            "title": "Microsoft indexing_service windows_2000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:indexing_service:-:*:*:*:*:*:*:*",
+      "title": "Microsoft indexing_service",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:indexing_service:-:*:windows_2000:*:*:*:*:*",
+      "title": "Microsoft indexing_service windows_2000",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

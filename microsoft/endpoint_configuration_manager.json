@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:endpoint_configuration_manager:2103:*:*:*:*:*:*:*",
+        "cpeNameId": "7D53F618-6322-4F39-BAE1-136F7549CF08",
+        "lastModified": "2022-10-31T18:33:17.617",
+        "created": "2022-09-21T13:02:53.170",
+        "titles": [
+          {
+            "title": "Microsoft Endpoint Configuration Manager 2103",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:endpoint_configuration_manager:2207:*:*:*:*:*:*:*",
+        "cpeNameId": "6D886DE2-9E00-45FA-B755-BB755B8EC96A",
+        "lastModified": "2022-10-31T18:33:17.617",
+        "created": "2022-09-21T13:02:53.170",
+        "titles": [
+          {
+            "title": "Microsoft Endpoint Configuration Manager 2207",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:endpoint_configuration_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CBE1B1CE-F6E1-41E8-BC89-6029A89E37F5",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-04-03T19:07:21.527",
+        "titles": [
+          {
+            "title": "Microsoft Endpoint Configuration Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:endpoint_configuration_manager:2103:*:*:*:*:*:*:*",
+      "title": "Microsoft Endpoint Configuration Manager 2103",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:endpoint_configuration_manager:2207:*:*:*:*:*:*:*",
+      "title": "Microsoft Endpoint Configuration Manager 2207",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:endpoint_configuration_manager:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Endpoint Configuration Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:index_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "32D7FE0F-D004-4374-B775-1C9AD54529EB",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:31:45.150",
+        "titles": [
+          {
+            "title": "Microsoft index_server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:index_server:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "27035DAB-1453-430B-817A-89FF6B724B8C",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:31:45.150",
+        "titles": [
+          {
+            "title": "Microsoft index_server 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:index_server:-:*:*:*:*:*:*:*",
+      "title": "Microsoft index_server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:index_server:2.0:*:*:*:*:*:*:*",
+      "title": "Microsoft index_server 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

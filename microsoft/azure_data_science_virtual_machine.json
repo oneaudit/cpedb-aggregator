@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_data_science_virtual_machine:24.05.24:*:*:*:*:linux:*:*",
+        "cpeNameId": "9EBE0607-00A5-4C0C-B6D5-924BDDE3B1D3",
+        "lastModified": "2024-09-07T12:48:39.897",
+        "created": "2024-09-07T12:48:39.897",
+        "titles": [
+          {
+            "title": "Microsoft Azure Data Science Virtual Machine 24.05.24 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_data_science_virtual_machine:-:*:*:*:*:linux:*:*",
+        "cpeNameId": "63E194E6-4DE3-4699-8E45-6E4043A478DF",
+        "lastModified": "2024-09-07T12:48:39.897",
+        "created": "2024-09-07T12:48:39.897",
+        "titles": [
+          {
+            "title": "Microsoft Azure Data Science Virtual Machine for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:azure_data_science_virtual_machine:24.05.24:*:*:*:*:linux:*:*",
+      "title": "Microsoft Azure Data Science Virtual Machine 24.05.24 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_data_science_virtual_machine:-:*:*:*:*:linux:*:*",
+      "title": "Microsoft Azure Data Science Virtual Machine for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

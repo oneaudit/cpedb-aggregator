@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:meross:msg100_firmware:3.2.3:*:*:*:*:*:*:*",
+        "cpeNameId": "C07E97E0-2E0A-4DAC-8D6F-1A430A37DEEC",
+        "lastModified": "2021-11-23T18:38:45.487",
+        "created": "2021-10-13T17:23:57.157",
+        "titles": [
+          {
+            "title": "Meross Technology MSG100 Firmware 3.2.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:meross:msg100_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "016E55F9-2E71-4208-8954-06E80C550035",
+        "lastModified": "2021-11-23T18:38:45.487",
+        "created": "2021-10-13T17:23:57.157",
+        "titles": [
+          {
+            "title": "Meross Technology MSG100 Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:meross:msg100_firmware:3.2.3:*:*:*:*:*:*:*",
+      "title": "Meross Technology MSG100 Firmware 3.2.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:meross:msg100_firmware:-:*:*:*:*:*:*:*",
+      "title": "Meross Technology MSG100 Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_monitor_agent:1.26.0:*:*:*:*:*:*:*",
+        "cpeNameId": "79FDDC65-7CEA-43C1-AE3C-C583B87799B5",
+        "lastModified": "2024-08-02T10:33:05.010",
+        "created": "2024-08-02T10:33:05.010",
+        "titles": [
+          {
+            "title": "Microsoft Azure Monitor Agent 1.26.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_monitor_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "67276E00-A5F3-4FDB-9632-BCF41CECA6BA",
+        "lastModified": "2024-08-02T10:33:05.010",
+        "created": "2024-08-02T10:33:05.010",
+        "titles": [
+          {
+            "title": "Microsoft Azure Monitor Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_monitor_agent:1.30.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AC6EC77B-E610-4130-A8F9-A28A43D91661",
+        "lastModified": "2025-01-15T20:49:16.803",
+        "created": "2025-01-15T20:49:16.803",
+        "titles": [
+          {
+            "title": "Microsoft Azure Monitor Agent 1.30.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_monitor_agent:1.24.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CE3850AC-B6D5-4215-AF98-1585C9273B85",
+        "lastModified": "2025-01-15T20:49:16.803",
+        "created": "2025-01-15T20:49:16.803",
+        "titles": [
+          {
+            "title": "Microsoft Azure Monitor Agent 1.24.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:azure_monitor_agent:1.26.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure Monitor Agent 1.26.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_monitor_agent:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure Monitor Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_monitor_agent:1.30.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure Monitor Agent 1.30.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_monitor_agent:1.24.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure Monitor Agent 1.24.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

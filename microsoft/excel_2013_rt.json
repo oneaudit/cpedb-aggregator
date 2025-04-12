@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:excel_2013_rt:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BFF13368-6AD3-4F5C-908D-BCFA4288303B",
+        "lastModified": "2023-09-26T19:13:09.370",
+        "created": "2013-09-11T15:37:02.907",
+        "titles": [
+          {
+            "title": "Microsoft Excel 2013 RT",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:excel:2013:*:*:*:rt:*:*:*",
+            "cpeNameId": "5467715F-056F-4CC3-B19E-C131434ED904"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:excel_2013_rt:sp1:*:*:*:*:*:*:*",
+        "cpeNameId": "CC2C9C30-BB37-42D8-A566-E121BA51F1C2",
+        "lastModified": "2020-08-20T15:59:02.273",
+        "created": "2020-08-20T15:59:02.273",
+        "titles": [
+          {
+            "title": "Microsoft Excel 2013 RT Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:excel_2013_rt:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Excel 2013 RT",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:excel:2013:*:*:*:rt:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:excel_2013_rt:sp1:*:*:*:*:*:*:*",
+      "title": "Microsoft Excel 2013 RT Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

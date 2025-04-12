@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:forefront_endpoint_protection:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6808F642-A046-439E-A246-A4C570BAC426",
+        "lastModified": "2021-08-13T16:23:26.090",
+        "created": "2019-03-19T14:58:26.230",
+        "titles": [
+          {
+            "title": "Microsoft Forefront Endpoint Protection",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:forefront_endpoint_protection:2010:*:*:*:*:*:*:*",
+        "cpeNameId": "6E5AB0D0-B5E5-42DB-8BE4-B52813B0CB0A",
+        "lastModified": "2021-08-13T16:23:26.090",
+        "created": "2019-03-19T14:58:26.230",
+        "titles": [
+          {
+            "title": "Microsoft Forefront Endpoint Protection 2010",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:forefront_endpoint_protection:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Forefront Endpoint Protection",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:forefront_endpoint_protection:2010:*:*:*:*:*:*:*",
+      "title": "Microsoft Forefront Endpoint Protection 2010",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microfocus:client:2.0:sp3:*:*:*:open_enterprise_server:*:*",
+        "cpeNameId": "A6420285-427B-4704-94CF-4BCD198AF2E4",
+        "lastModified": "2021-04-13T13:08:32.960",
+        "created": "2018-06-26T16:15:54.753",
+        "titles": [
+          {
+            "title": "Micro Focus Client (Novell) 2.0 Service Pack 3 for Open Enterprise Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microfocus:client:2.0:*:*:*:*:open_enterprise_server:*:*",
+        "cpeNameId": "889BCC66-F426-461B-AEEB-3DCFA8C1C74D",
+        "lastModified": "2021-04-13T13:08:32.960",
+        "created": "2018-09-17T18:21:17.743",
+        "titles": [
+          {
+            "title": "Micro Focus Client (Novell) 2.0 for Open Enterprise Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microfocus:client:-:*:*:*:*:open_enterprise_server:*:*",
+        "cpeNameId": "72745856-258E-4E3F-A77A-1DABC91665FE",
+        "lastModified": "2021-04-13T13:08:32.960",
+        "created": "2018-09-17T18:21:17.743",
+        "titles": [
+          {
+            "title": "Micro Focus Client (Novell) for Open Enterprise Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microfocus:client:2.0:sp3:*:*:*:open_enterprise_server:*:*",
+      "title": "Micro Focus Client (Novell) 2.0 Service Pack 3 for Open Enterprise Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microfocus:client:2.0:*:*:*:*:open_enterprise_server:*:*",
+      "title": "Micro Focus Client (Novell) 2.0 for Open Enterprise Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microfocus:client:-:*:*:*:*:open_enterprise_server:*:*",
+      "title": "Micro Focus Client (Novell) for Open Enterprise Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

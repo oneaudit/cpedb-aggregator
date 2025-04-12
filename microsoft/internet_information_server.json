@@ -1,0 +1,577 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6CBB85A7-DBA9-485A-A437-3B31A154E98B",
+        "lastModified": "2020-11-23T19:49:20.003",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Microsoft IIS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:-:*:*:*:*:*:*:*",
+            "cpeNameId": "787B79A7-3D6E-46F3-B520-947450EF32D9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1AA4AE00-5160-4963-8FC4-5258C322A78C",
+        "lastModified": "2020-11-23T19:49:20.223",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft IIS 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "49DF8626-3EB0-42AD-9097-61CC6D2E9128"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E39DCC11-C890-495D-AE9E-0DA142783512",
+        "lastModified": "2020-11-23T19:49:23.630",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft IIS 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "FB36CF80-E24C-4381-A515-442BBD5B89D6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E58750C0-05E1-4A9F-B7DE-5B605AADFFF8",
+        "lastModified": "2020-11-23T19:49:26.973",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft IIS 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "A024050A-63CA-49CC-A0F9-9E1FF7FF7DB9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0F12512B-006B-45F0-BA7B-092C94401D58",
+        "lastModified": "2020-11-23T19:49:27.113",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft IIS 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "A20C5967-E38B-4CC0-83DE-7512684B0CC1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8AFB1C49-AC39-4C7E-A8FD-10E95ADBAC4A",
+        "lastModified": "2009-03-05T17:19:19.127",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft IIS 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2F9DA731-21E3-47D8-BF8A-6729EE8DAC5F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "42A23FF5-25F9-4F94-BC35-6F20B73BC991",
+        "lastModified": "2020-11-23T19:49:27.270",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft IIS 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:5.1:*:*:*:*:*:*:*",
+            "cpeNameId": "4E737DC8-8CB4-46DA-AD17-5415E56838A9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DF206BCC-5A9C-42F8-A3FC-899E215117EF",
+        "lastModified": "2021-02-05T15:37:14.197",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft IIS 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:6.0:*:*:*:*:*:*:*",
+            "cpeNameId": "8AF04EE0-17E6-4D75-83B0-31632A2D862F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:4.0:alpha:*:*:*:*:*:*",
+        "cpeNameId": "6B10089E-7C1E-4F1C-8666-611094CE7025",
+        "lastModified": "2008-04-15T23:55:05.120",
+        "created": "2007-08-28T18:19:15.047",
+        "titles": [
+          {
+            "title": "Microsoft Internet Information Server 4.0 Alpha",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:6.0:beta:*:*:*:*:*:*",
+        "cpeNameId": "E8B014F3-01A6-4DB2-8239-8BDB81982734",
+        "lastModified": "2008-04-15T23:55:05.230",
+        "created": "2007-09-12T22:54:01.883",
+        "titles": [
+          {
+            "title": "Microsoft Internet Information Server 6.0 Beta",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:3.0:unknown:unknown:zh:*:*:*:*",
+        "cpeNameId": "1BFB5FAC-2A73-44A5-890C-5C8749EDCABE",
+        "lastModified": "2008-09-10T17:43:57.307",
+        "created": "2008-09-10T17:43:57.307",
+        "titles": [
+          {
+            "title": "Microsoft IIS 3.0 Chinese",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:3.0:unknown:unknown:ko:*:*:*:*",
+        "cpeNameId": "3AC7D452-071B-4484-88C9-1997C2E0EC90",
+        "lastModified": "2008-09-10T17:43:57.383",
+        "created": "2008-09-10T17:43:57.383",
+        "titles": [
+          {
+            "title": "Microsoft IIS 3.0 Korean",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:3.0:unknown:unknown:ja:*:*:*:*",
+        "cpeNameId": "38B61ADC-0EA6-4942-BA9C-99DF93D0E6C9",
+        "lastModified": "2008-09-10T17:43:57.460",
+        "created": "2008-09-10T17:43:57.460",
+        "titles": [
+          {
+            "title": "Microsoft IIS 3.0 Japanese",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:4.0:unknown:unknown:zh:*:*:*:*",
+        "cpeNameId": "6D101772-8A6A-4236-9B61-DCF67C01D376",
+        "lastModified": "2008-09-10T17:43:57.540",
+        "created": "2008-09-10T17:43:57.540",
+        "titles": [
+          {
+            "title": "Microsoft IIS 4.0 Chinese",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:4.0:unknown:unknown:ko:*:*:*:*",
+        "cpeNameId": "AC0606FA-C3D9-4FF5-B635-36289B1BCF4A",
+        "lastModified": "2008-09-10T17:43:57.633",
+        "created": "2008-09-10T17:43:57.633",
+        "titles": [
+          {
+            "title": "Microsoft IIS 4.0 Korean",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:4.0:unknown:unknown:ja:*:*:*:*",
+        "cpeNameId": "52019525-7FFB-452F-9EF5-4BD8E626C4CA",
+        "lastModified": "2008-09-10T17:43:57.710",
+        "created": "2008-09-10T17:43:57.710",
+        "titles": [
+          {
+            "title": "Microsoft IIS 4.0 Japanese",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4F7B9E70-F7F5-44FA-AFD0-EB4418B40CA4",
+        "lastModified": "2021-02-05T15:37:14.697",
+        "created": "2018-07-11T13:30:41.180",
+        "titles": [
+          {
+            "title": "Microsoft Internet Information Server 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "742AA737-BBB4-42E9-8622-3CB6442D7FBE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:7.5:*:*:*:*:*:*:*",
+        "cpeNameId": "4E2A3E15-7D3F-4CDA-ACAC-359AF045D5CA",
+        "lastModified": "2021-02-05T15:37:20.600",
+        "created": "2018-07-11T13:30:41.303",
+        "titles": [
+          {
+            "title": "Microsoft Internet Information Server 7.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:7.5:*:*:*:*:*:*:*",
+            "cpeNameId": "96C3302A-A9C3-4D64-AB4B-86AA13C3BD32"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2703C479-5AAB-460B-9E5C-8B5438DAE17C",
+        "lastModified": "2021-02-05T15:37:24.710",
+        "created": "2018-07-11T13:30:41.367",
+        "titles": [
+          {
+            "title": "Microsoft Internet Information Server 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "F2C5E721-7419-43F4-B49F-1BD3430A2876"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:8.5:*:*:*:*:*:*:*",
+        "cpeNameId": "87D19712-292E-4087-B388-1B8805A76B49",
+        "lastModified": "2021-02-05T15:37:24.960",
+        "created": "2018-07-11T13:30:41.430",
+        "titles": [
+          {
+            "title": "Microsoft Internet Information Server 8.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:8.5:*:*:*:*:*:*:*",
+            "cpeNameId": "EEF28AA3-F5D5-489F-BE9B-87E86A997801"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "230A932D-ACCC-4E5B-97AF-B489F411707D",
+        "lastModified": "2021-02-05T15:37:25.320",
+        "created": "2018-07-11T13:30:41.490",
+        "titles": [
+          {
+            "title": "Microsoft Internet Information Server 10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:internet_information_services:10.0:*:*:*:*:*:*:*",
+            "cpeNameId": "884B8BD3-4AF7-40A6-B05D-6885243B3EAE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:4.0:*:*:*:far_east:*:*:*",
+        "cpeNameId": "C7A7E693-0848-4A82-94BB-815C84670FA7",
+        "lastModified": "2019-07-03T17:26:36.753",
+        "created": "2019-07-03T17:26:36.753",
+        "titles": [
+          {
+            "title": "Microsoft Internet Information Server 4.0 Far East Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:internet_information_server:5.0:*:*:*:far_east:*:*:*",
+        "cpeNameId": "F3F2E0DB-92B2-4290-BC38-30F313B5FC6C",
+        "lastModified": "2019-07-03T17:26:37.003",
+        "created": "2019-07-03T17:26:37.003",
+        "titles": [
+          {
+            "title": "Microsoft Internet Information Server 5.0 Far East Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:-:*:*:*:*:*:*:*",
+      "title": "Microsoft IIS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:1.0:*:*:*:*:*:*:*",
+      "title": "Microsoft IIS 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:2.0:*:*:*:*:*:*:*",
+      "title": "Microsoft IIS 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:3.0:*:*:*:*:*:*:*",
+      "title": "Microsoft IIS 3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:4.0:*:*:*:*:*:*:*",
+      "title": "Microsoft IIS 4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:4.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:5.0:*:*:*:*:*:*:*",
+      "title": "Microsoft IIS 5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:5.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:5.1:*:*:*:*:*:*:*",
+      "title": "Microsoft IIS 5.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:5.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:6.0:*:*:*:*:*:*:*",
+      "title": "Microsoft IIS 6.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:6.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:4.0:alpha:*:*:*:*:*:*",
+      "title": "Microsoft Internet Information Server 4.0 Alpha",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:6.0:beta:*:*:*:*:*:*",
+      "title": "Microsoft Internet Information Server 6.0 Beta",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:3.0:unknown:unknown:zh:*:*:*:*",
+      "title": "Microsoft IIS 3.0 Chinese",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:3.0:unknown:unknown:ko:*:*:*:*",
+      "title": "Microsoft IIS 3.0 Korean",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:3.0:unknown:unknown:ja:*:*:*:*",
+      "title": "Microsoft IIS 3.0 Japanese",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:4.0:unknown:unknown:zh:*:*:*:*",
+      "title": "Microsoft IIS 4.0 Chinese",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:4.0:unknown:unknown:ko:*:*:*:*",
+      "title": "Microsoft IIS 4.0 Korean",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:4.0:unknown:unknown:ja:*:*:*:*",
+      "title": "Microsoft IIS 4.0 Japanese",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:7.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Internet Information Server 7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:7.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:7.5:*:*:*:*:*:*:*",
+      "title": "Microsoft Internet Information Server 7.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:7.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:8.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Internet Information Server 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:8.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:8.5:*:*:*:*:*:*:*",
+      "title": "Microsoft Internet Information Server 8.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:8.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:10.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Internet Information Server 10.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:internet_information_services:10.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:4.0:*:*:*:far_east:*:*:*",
+      "title": "Microsoft Internet Information Server 4.0 Far East Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_information_server:5.0:*:*:*:far_east:*:*:*",
+      "title": "Microsoft Internet Information Server 5.0 Far East Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:internet_security_and_acceleration_server:2006:-:*:*:*:*:*:*",
+        "cpeNameId": "1BC5CFE2-B235-486D-A81B-A138EC77EF1E",
+        "lastModified": "2020-09-23T13:46:23.190",
+        "created": "2020-09-23T13:46:23.190",
+        "titles": [
+          {
+            "title": "Microsoft Internet Security And Acceleration (ISA) Server 2006",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:internet_security_and_acceleration_server:2006:sp1:*:*:*:*:*:*",
+        "cpeNameId": "DA514E44-F4F9-49C6-B4E2-E49DD37144EB",
+        "lastModified": "2020-09-23T13:46:23.270",
+        "created": "2020-09-23T13:46:23.270",
+        "titles": [
+          {
+            "title": "Microsoft Internet Security And Acceleration (ISA) Server 2006 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:internet_security_and_acceleration_server:2006:-:*:*:*:*:*:*",
+      "title": "Microsoft Internet Security And Acceleration (ISA) Server 2006",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:internet_security_and_acceleration_server:2006:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Internet Security And Acceleration (ISA) Server 2006 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

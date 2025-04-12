@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_instant_messenger:-:*:*:*:*:*:*:*",
+        "cpeNameId": "919C5496-F565-4DCD-A728-703B2C0BC656",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-28T21:31:41.383",
+        "titles": [
+          {
+            "title": "Microsoft exchange_instant_messenger",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_instant_messenger:4.5:*:*:*:*:*:*:*",
+        "cpeNameId": "0D2C63A8-BF37-41EA-A3FA-ABB4F5171EA5",
+        "lastModified": "2008-04-15T23:01:07.180",
+        "created": "2008-04-15T22:38:10.523",
+        "titles": [
+          {
+            "title": "Microsoft exchange_instant_messenger 4.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_instant_messenger:4.6:*:*:*:*:*:*:*",
+        "cpeNameId": "0F6D34A4-3935-427D-A1C4-626C17329553",
+        "lastModified": "2008-04-15T23:01:07.273",
+        "created": "2008-04-15T22:38:10.617",
+        "titles": [
+          {
+            "title": "Microsoft exchange_instant_messenger 4.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_instant_messenger:-:*:*:*:*:*:*:*",
+      "title": "Microsoft exchange_instant_messenger",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_instant_messenger:4.5:*:*:*:*:*:*:*",
+      "title": "Microsoft exchange_instant_messenger 4.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_instant_messenger:4.6:*:*:*:*:*:*:*",
+      "title": "Microsoft exchange_instant_messenger 4.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

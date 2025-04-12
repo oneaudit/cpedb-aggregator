@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:activesync:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D7D28A97-1C40-41C1-9E0B-67B8D6355516",
+        "lastModified": "2007-10-16T10:09:31.930",
+        "created": "2007-10-16T10:09:31.930",
+        "titles": [
+          {
+            "title": "Microsoft ActiveSync",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:activesync:4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "B6220A52-C380-42F2-95F9-F70E7DDD7669",
+        "lastModified": "2007-10-16T10:09:49.637",
+        "created": "2007-10-16T10:09:49.637",
+        "titles": [
+          {
+            "title": "Microsoft ActiveSync 4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:activesync:-:*:*:*:*:*:*:*",
+      "title": "Microsoft ActiveSync",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:activesync:4.1:*:*:*:*:*:*:*",
+      "title": "Microsoft ActiveSync 4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,3197 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0CB4266A-42F5-484B-959C-B8263152A770",
+        "lastModified": "2012-10-19T13:53:40.263",
+        "created": "2007-08-28T21:31:41.757",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1BBCD56F-EBED-4D4F-9D54-75C32904FC70",
+        "lastModified": "2020-04-01T16:38:09.623",
+        "created": "2007-08-28T21:31:41.773",
+        "titles": [
+          {
+            "title": "Microsoft exchange_srv 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:exchange_server:4.0:-:*:*:*:*:*:*",
+            "cpeNameId": "E5F0C9B6-BDC7-498B-AA55-17888802AA88"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7F53A596-1C61-448D-850F-3DC54892D780",
+        "lastModified": "2020-04-01T16:34:09.303",
+        "created": "2007-08-28T21:31:41.867",
+        "titles": [
+          {
+            "title": "Microsoft exchange_srv 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:exchange_server:5.0:-:*:*:*:*:*:*",
+            "cpeNameId": "74483401-E3D4-41D1-A422-2BF14AD10575"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:5.5:*:*:*:*:*:*:*",
+        "cpeNameId": "0407EB96-790D-4F89-9728-6FD240BE8B29",
+        "lastModified": "2020-04-01T16:34:09.477",
+        "created": "2007-08-28T21:31:42.197",
+        "titles": [
+          {
+            "title": "Microsoft exchange_srv 5.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:exchange_server:5.5:-:*:*:*:*:*:*",
+            "cpeNameId": "68327342-A906-46EC-B7C2-C22A426468E2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2000:*:*:*:*:*:*:*",
+        "cpeNameId": "FD1053CA-CAD0-4B45-812D-2A3BC414FC1C",
+        "lastModified": "2020-03-30T18:25:27.873",
+        "created": "2007-08-28T21:31:42.697",
+        "titles": [
+          {
+            "title": "Microsoft exchange_srv 2000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:exchange_server:2000:-:*:*:*:*:*:*",
+            "cpeNameId": "D2AADB25-56B7-4D93-81FB-4C6C940E83F2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2003:*:*:*:*:*:*:*",
+        "cpeNameId": "F4CD8566-ACDB-4957-9458-E9848E70AED2",
+        "lastModified": "2020-03-30T18:25:28.060",
+        "created": "2007-08-28T21:31:43.163",
+        "titles": [
+          {
+            "title": "Microsoft exchange_srv 2003",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:exchange_server:2003:-:*:*:*:*:*:*",
+            "cpeNameId": "321EAB30-B335-47E1-B763-35FBC1D785F3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+        "cpeNameId": "45F733CD-9C41-49AF-96FD-AD62DDFCA35C",
+        "lastModified": "2020-03-30T18:25:28.200",
+        "created": "2007-08-28T21:31:43.477",
+        "titles": [
+          {
+            "title": "Microsoft exchange_srv 2007",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:-:*:*:*:*:*:*",
+            "cpeNameId": "149453CF-7150-497B-B197-9A8677A99B3E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:5.0:sp1:*:*:*:*:*:*",
+        "cpeNameId": "EDA2FA72-1BC6-487D-95F4-3E0B1FA5715C",
+        "lastModified": "2008-04-15T23:33:40.913",
+        "created": "2007-09-12T22:53:56.740",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 5.0 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:5.0:sp2:*:*:*:*:*:*",
+        "cpeNameId": "2584C4F7-E61E-4150-A9B7-CAFD8E4A81AD",
+        "lastModified": "2008-04-15T23:33:41.007",
+        "created": "2007-09-12T22:53:56.927",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 5.0 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:5.5:sp1:*:*:*:*:*:*",
+        "cpeNameId": "297B0156-060D-4C8A-B4B3-4CD6A8D5CA70",
+        "lastModified": "2008-04-15T23:55:08.060",
+        "created": "2007-09-12T22:53:57.193",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 5.5 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:5.5:sp2:*:*:*:*:*:*",
+        "cpeNameId": "B2E33692-09CE-458F-80E5-2D10901BBF85",
+        "lastModified": "2008-04-15T23:55:07.777",
+        "created": "2007-09-12T22:53:57.367",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 5.5 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:5.5:sp3:*:*:*:*:*:*",
+        "cpeNameId": "4D7FDF3E-6084-4737-9F12-32765B674EF1",
+        "lastModified": "2008-04-15T23:55:07.870",
+        "created": "2007-09-12T22:53:57.553",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 5.5 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:5.5:sp4:*:*:*:*:*:*",
+        "cpeNameId": "1DEDDA27-B685-49CE-9C0E-034CB0067669",
+        "lastModified": "2008-04-15T23:55:07.967",
+        "created": "2007-09-12T22:53:57.723",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 5.5 Service Pack 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2000:sp1:*:*:*:*:*:*",
+        "cpeNameId": "9A951A6C-5B33-4BEF-AAD0-98E4869898F9",
+        "lastModified": "2008-04-15T23:55:06.700",
+        "created": "2007-09-12T22:53:57.973",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2000 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2000:sp2:*:*:*:*:*:*",
+        "cpeNameId": "2233B47E-E5A6-451A-9C04-FF4A31712D15",
+        "lastModified": "2008-04-15T23:55:06.590",
+        "created": "2007-09-12T22:53:58.193",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2000 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2000:sp3:*:*:*:*:*:*",
+        "cpeNameId": "1ACB12B4-FDB9-4DFB-8DA5-01CAFAA394FE",
+        "lastModified": "2008-04-15T23:55:06.497",
+        "created": "2007-09-12T22:53:58.367",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2000 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2003:sp1:*:*:*:*:*:*",
+        "cpeNameId": "1E235A1F-E00A-4CE4-93FB-5903A8079EC2",
+        "lastModified": "2008-04-15T23:55:04.917",
+        "created": "2007-09-12T22:53:58.600",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2003 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2003:sp2:*:*:*:*:*:*",
+        "cpeNameId": "33E5F386-E684-4F02-930D-42CEFEF6691C",
+        "lastModified": "2010-04-15T13:25:08.157",
+        "created": "2007-09-12T22:53:58.787",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2003 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+        "cpeNameId": "490C5A93-85D1-4A5F-8EDB-BEF8D3FEBDE2",
+        "lastModified": "2010-05-28T15:14:30.717",
+        "created": "2009-02-11T16:01:11.520",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2007 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:x64:*:*:*:*:*",
+        "cpeNameId": "03989465-1285-43F7-BC59-8A3CE7A97326",
+        "lastModified": "2010-12-20T14:34:39.237",
+        "created": "2010-04-15T13:25:08.343",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2007 Service Pack 2 for x64 based systems",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:-:x64:*:*:*:*:*",
+        "cpeNameId": "A705B134-CBF4-4E75-AFDB-F05F64FD1854",
+        "lastModified": "2010-12-20T14:34:40.253",
+        "created": "2010-04-15T13:25:08.483",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 for x64 based systems",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+        "cpeNameId": "2D0CBBE6-0BA7-4E18-BC4E-EB5B0AF359DA",
+        "lastModified": "2010-12-20T14:34:40.580",
+        "created": "2010-12-16T21:59:33.287",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+        "cpeNameId": "39521B08-4B25-41A7-848B-380421A92571",
+        "lastModified": "2020-03-30T18:25:28.340",
+        "created": "2010-12-16T21:59:33.397",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:-:*:*:*:*:*:*",
+            "cpeNameId": "DED87185-C839-4E9C-885D-B090949E0624"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+        "cpeNameId": "7EB7C464-CA72-4800-AFE2-F9C89B17E2AC",
+        "lastModified": "2010-12-20T14:34:39.597",
+        "created": "2010-12-16T22:02:28.990",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2007 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+        "cpeNameId": "D40AC940-4CCF-4F3F-951A-50D4236ED0F6",
+        "lastModified": "2012-12-26T21:09:33.847",
+        "created": "2012-12-12T16:21:44.593",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+        "cpeNameId": "F50474A0-206B-4E85-B411-2FB5B4392C30",
+        "lastModified": "2013-12-11T18:50:07.340",
+        "created": "2013-12-11T18:45:59.663",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_2:*:*:*:*:*:*",
+        "cpeNameId": "67A43F72-CA34-46DD-A2BC-2932FA4CC3F4",
+        "lastModified": "2013-12-11T18:50:07.607",
+        "created": "2013-12-11T18:47:10.913",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_3:*:*:*:*:*:*",
+        "cpeNameId": "343E6BF4-1AFD-4236-B8EC-D997F020528D",
+        "lastModified": "2013-12-11T18:50:07.967",
+        "created": "2013-12-11T18:47:11.210",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_7:*:*:*:*:*:*",
+        "cpeNameId": "AE8FA975-A183-499D-86FB-7DEAF5A2ABD8",
+        "lastModified": "2015-07-31T18:37:31.877",
+        "created": "2015-03-11T15:25:28.830",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
+        "cpeNameId": "A888A877-0CAB-4AC4-B70F-24F62088581B",
+        "lastModified": "2016-01-13T21:00:41.617",
+        "created": "2016-01-13T21:00:41.617",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:*:*:*:*:*:*:*",
+        "cpeNameId": "6DABC8EB-7AA2-4678-868A-88A5915FE8A4",
+        "lastModified": "2020-03-30T18:25:28.670",
+        "created": "2016-01-13T21:00:41.647",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:-:*:*:*:*:*:*",
+            "cpeNameId": "1DEE30F6-2A09-4FBD-9D51-3E0E0ABEFCD9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_11:*:*:*:*:*:*",
+        "cpeNameId": "0EEB2FCE-9288-48EC-A245-1299B3A3F03B",
+        "lastModified": "2016-01-13T21:00:41.663",
+        "created": "2016-01-13T21:00:41.663",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_10:*:*:*:*:*:*",
+        "cpeNameId": "CFDD1171-185A-4FE3-974C-B694148F00A1",
+        "lastModified": "2016-01-13T21:00:41.680",
+        "created": "2016-01-13T21:00:41.680",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_13:*:*:*:*:*:*",
+        "cpeNameId": "6373AC0B-C764-4D2E-8553-B1B7C9C6DEA5",
+        "lastModified": "2016-09-15T17:00:22.910",
+        "created": "2016-09-15T17:00:22.910",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_2:*:*:*:*:*:*",
+        "cpeNameId": "87126142-84AC-4884-A749-08B1F927321F",
+        "lastModified": "2016-09-15T17:02:28.393",
+        "created": "2016-09-15T17:02:28.393",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_16:*:*:*:*:*:*",
+        "cpeNameId": "0FC90835-784B-4D30-91D8-D655EAD7A116",
+        "lastModified": "2017-10-05T15:50:17.180",
+        "created": "2017-10-05T15:50:17.180",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_5:*:*:*:*:*:*",
+        "cpeNameId": "4BE3871E-436B-4C0E-8286-701C084DC0E5",
+        "lastModified": "2017-10-05T15:50:17.243",
+        "created": "2017-10-05T15:50:17.243",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_19:*:*:*:*:*:*",
+        "cpeNameId": "3BEE3FF9-A0D1-4BB9-8821-C50DF845CE77",
+        "lastModified": "2018-08-09T15:54:54.310",
+        "created": "2018-08-09T15:54:54.310",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 19",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_20:*:*:*:*:*:*",
+        "cpeNameId": "BBE92DFD-5DF9-4BA3-94CD-C8EAF59C417F",
+        "lastModified": "2018-08-09T15:54:54.403",
+        "created": "2018-08-09T15:54:54.403",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_8:*:*:*:*:*:*",
+        "cpeNameId": "6FB45E77-219E-4E63-B603-4DCFA251302F",
+        "lastModified": "2018-08-09T15:54:54.483",
+        "created": "2018-08-09T15:54:54.483",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_9:*:*:*:*:*:*",
+        "cpeNameId": "B04D7BE7-1FA8-4470-8ECB-3A860B7D7E48",
+        "lastModified": "2018-08-09T15:54:54.560",
+        "created": "2018-08-09T15:54:54.560",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_12:*:*:*:*:*:*",
+        "cpeNameId": "E350335B-5279-45D8-8D22-8AB06884B600",
+        "lastModified": "2018-08-09T15:59:09.893",
+        "created": "2018-08-09T15:59:09.893",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_1:*:*:*:*:*:*",
+        "cpeNameId": "CF6188CD-C216-41BD-960A-EF8CD0D5D8B0",
+        "lastModified": "2018-08-09T15:59:09.970",
+        "created": "2018-08-09T15:59:09.970",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_8:*:*:*:*:*:*",
+        "cpeNameId": "3E6195D8-81AC-4AE3-98D2-0B4F1751633A",
+        "lastModified": "2018-08-09T16:01:08.057",
+        "created": "2018-08-09T16:01:08.057",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_14:*:*:*:*:*:*",
+        "cpeNameId": "58D72883-BAD3-4C20-99F1-1DA2C543FFD9",
+        "lastModified": "2018-08-09T16:02:34.263",
+        "created": "2018-08-09T16:02:34.263",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_17:*:*:*:*:*:*",
+        "cpeNameId": "11172E5B-A146-4141-94FD-EE9CCBBECAF1",
+        "lastModified": "2018-08-09T16:03:39.157",
+        "created": "2018-08-09T16:03:39.157",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_6:*:*:*:*:*:*",
+        "cpeNameId": "C1C293BC-B5EA-4601-BFF9-BAA639291A2D",
+        "lastModified": "2018-08-09T16:03:42.050",
+        "created": "2018-08-09T16:03:42.050",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_7:*:*:*:*:*:*",
+        "cpeNameId": "28916F70-F31A-41CE-82FF-2CC045CE4CB1",
+        "lastModified": "2018-08-09T16:05:02.583",
+        "created": "2018-08-09T16:05:02.583",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_18:*:*:*:*:*:*",
+        "cpeNameId": "81C2665F-9AC2-4E29-B778-1D86C0065667",
+        "lastModified": "2018-08-09T16:06:32.213",
+        "created": "2018-08-09T16:06:32.213",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 18",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:*:*:*:*:*:*:*",
+        "cpeNameId": "FED064B6-5461-4CD5-BC0C-F3BC817C6D02",
+        "lastModified": "2020-03-30T18:25:28.497",
+        "created": "2018-12-11T19:28:25.157",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:-:*:*:*:*:*:*",
+            "cpeNameId": "D0779DC5-EC41-4051-B3E5-F7F939840D62"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+        "cpeNameId": "71E771F0-2DFB-4349-ACC6-2A47DE1A143A",
+        "lastModified": "2019-07-29T12:57:43.983",
+        "created": "2019-07-29T12:57:43.983",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 23",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+        "cpeNameId": "34EF3258-C506-4932-B2A7-E6DE5A66C617",
+        "lastModified": "2019-07-29T12:57:44.187",
+        "created": "2019-07-29T12:57:44.187",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_1:*:*:*:*:*:*",
+        "cpeNameId": "7B738ED2-1854-499C-8F60-AA91A5C83C7D",
+        "lastModified": "2019-11-05T16:05:33.810",
+        "created": "2019-11-05T16:05:33.810",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_10:*:*:*:*:*:*",
+        "cpeNameId": "B6F2EA54-4FD3-462F-B51D-78393DCC2F03",
+        "lastModified": "2019-11-05T16:05:34.060",
+        "created": "2019-11-05T16:05:34.060",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_11:*:*:*:*:*:*",
+        "cpeNameId": "D9CAB651-CE2F-4BB8-A40F-F089B80A317B",
+        "lastModified": "2019-11-05T16:05:34.200",
+        "created": "2019-11-05T16:05:34.200",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_12:*:*:*:*:*:*",
+        "cpeNameId": "A1B567C6-6ECB-4EFE-8866-748D176ADC3C",
+        "lastModified": "2019-11-05T16:05:34.327",
+        "created": "2019-11-05T16:05:34.327",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_13:*:*:*:*:*:*",
+        "cpeNameId": "79FEE148-E408-4BA8-A187-52CD939114FC",
+        "lastModified": "2019-11-05T16:05:34.437",
+        "created": "2019-11-05T16:05:34.437",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_14:*:*:*:*:*:*",
+        "cpeNameId": "CD3D81F8-D656-4868-99F2-C0AF09535264",
+        "lastModified": "2019-11-05T16:05:34.793",
+        "created": "2019-11-05T16:05:34.793",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_15:*:*:*:*:*:*",
+        "cpeNameId": "7A685D08-A64E-4869-97A5-A629E1FC0AA2",
+        "lastModified": "2019-11-05T16:05:34.903",
+        "created": "2019-11-05T16:05:34.903",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_16:*:*:*:*:*:*",
+        "cpeNameId": "69FF6509-4D9D-454C-A31C-CD443724DA95",
+        "lastModified": "2019-11-05T16:05:35.027",
+        "created": "2019-11-05T16:05:35.027",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_17:*:*:*:*:*:*",
+        "cpeNameId": "72AE6475-7B61-4802-B1D5-F3886D450F21",
+        "lastModified": "2019-11-05T16:05:35.137",
+        "created": "2019-11-05T16:05:35.137",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_18:*:*:*:*:*:*",
+        "cpeNameId": "719A20C7-1A8B-4D16-BE86-8C730AEA4197",
+        "lastModified": "2019-11-05T16:05:35.263",
+        "created": "2019-11-05T16:05:35.263",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 18",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_19:*:*:*:*:*:*",
+        "cpeNameId": "6441B987-38B5-43AF-BF34-CD45574F5619",
+        "lastModified": "2019-11-05T16:05:35.387",
+        "created": "2019-11-05T16:05:35.387",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 19",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_2:*:*:*:*:*:*",
+        "cpeNameId": "EEDBAE37-B140-4147-BD32-F7462E09A0B0",
+        "lastModified": "2019-11-05T16:05:35.513",
+        "created": "2019-11-05T16:05:35.513",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_20:*:*:*:*:*:*",
+        "cpeNameId": "5F3F4A95-6937-4BCD-AB0D-E6389579BB91",
+        "lastModified": "2019-11-05T16:05:35.637",
+        "created": "2019-11-05T16:05:35.637",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_21:*:*:*:*:*:*",
+        "cpeNameId": "CD264F95-85D4-4DD9-9CBD-6895050417BA",
+        "lastModified": "2019-11-05T16:05:35.793",
+        "created": "2019-11-05T16:05:35.793",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_22:*:*:*:*:*:*",
+        "cpeNameId": "D7795A2C-61EE-4F0A-B899-08D276762B76",
+        "lastModified": "2019-11-05T16:05:35.920",
+        "created": "2019-11-05T16:05:35.920",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_23:*:*:*:*:*:*",
+        "cpeNameId": "494BC5C3-9564-40A4-9375-105AFAE19958",
+        "lastModified": "2019-11-05T16:05:36.060",
+        "created": "2019-11-05T16:05:36.060",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 23",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_24:*:*:*:*:*:*",
+        "cpeNameId": "F7B10E2B-E6C3-472A-8668-DDECEC7E78E0",
+        "lastModified": "2019-11-05T16:05:36.217",
+        "created": "2019-11-05T16:05:36.217",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 24",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_25:*:*:*:*:*:*",
+        "cpeNameId": "1076C20E-7201-45F9-8597-6A1D90BC1AC2",
+        "lastModified": "2019-11-05T16:05:36.357",
+        "created": "2019-11-05T16:05:36.357",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 25",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_26:*:*:*:*:*:*",
+        "cpeNameId": "12337F4D-2A1C-440D-8472-F06532981210",
+        "lastModified": "2019-11-05T16:05:36.513",
+        "created": "2019-11-05T16:05:36.513",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 26",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_27:*:*:*:*:*:*",
+        "cpeNameId": "22A6CEC4-C591-46D9-ADB8-D112FB333186",
+        "lastModified": "2019-11-05T16:05:36.653",
+        "created": "2019-11-05T16:05:36.653",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 27",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_28:*:*:*:*:*:*",
+        "cpeNameId": "695B99D1-854E-4883-B7F2-126C37A45D3A",
+        "lastModified": "2019-11-05T16:05:36.810",
+        "created": "2019-11-05T16:05:36.810",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 28",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_29:*:*:*:*:*:*",
+        "cpeNameId": "568E87D0-9E54-4DE7-97DA-C425F407CF69",
+        "lastModified": "2019-11-05T16:05:36.950",
+        "created": "2019-11-05T16:05:36.950",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 29",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_3:*:*:*:*:*:*",
+        "cpeNameId": "1E4CBE73-860E-4A59-ACFD-47C6D77232E0",
+        "lastModified": "2019-11-05T16:05:37.107",
+        "created": "2019-11-05T16:05:37.107",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_4:*:*:*:*:*:*",
+        "cpeNameId": "EF6E9BA1-FACD-47A9-A8F5-8832ED8B7EEC",
+        "lastModified": "2019-11-05T16:05:37.263",
+        "created": "2019-11-05T16:05:37.263",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_5:*:*:*:*:*:*",
+        "cpeNameId": "8268C640-6A91-4A2A-9BDA-8C271AAACB20",
+        "lastModified": "2019-11-05T16:05:37.403",
+        "created": "2019-11-05T16:05:37.403",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_6:*:*:*:*:*:*",
+        "cpeNameId": "E891CB85-4B54-48EE-BC65-C91502557D93",
+        "lastModified": "2019-11-05T16:05:37.543",
+        "created": "2019-11-05T16:05:37.543",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_7:*:*:*:*:*:*",
+        "cpeNameId": "C9392DB5-9C3B-4612-97B3-589A8EF83A07",
+        "lastModified": "2019-11-05T16:05:37.700",
+        "created": "2019-11-05T16:05:37.700",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_8:*:*:*:*:*:*",
+        "cpeNameId": "B1E9E7DF-E0DD-4217-A5EC-FEF5DBCF299F",
+        "lastModified": "2019-11-05T16:05:37.857",
+        "created": "2019-11-05T16:05:37.857",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_9:*:*:*:*:*:*",
+        "cpeNameId": "03A6FD11-A177-4FAB-AF95-DCE25D8CF4ED",
+        "lastModified": "2019-11-05T16:05:38.013",
+        "created": "2019-11-05T16:05:38.013",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_1:*:*:*:*:*:*",
+        "cpeNameId": "9C6F8B15-3DDE-458A-B5E7-3375BF8CB458",
+        "lastModified": "2019-11-05T16:05:38.170",
+        "created": "2019-11-05T16:05:38.170",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_15:*:*:*:*:*:*",
+        "cpeNameId": "B8AEF4E9-F628-4DA3-BEA7-7389C52031B9",
+        "lastModified": "2019-11-05T16:05:38.357",
+        "created": "2019-11-05T16:05:38.357",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_21:*:*:*:*:*:*",
+        "cpeNameId": "515DE984-8077-441F-8707-0EE90707ED05",
+        "lastModified": "2019-11-05T16:05:38.497",
+        "created": "2019-11-05T16:05:38.497",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_22:*:*:*:*:*:*",
+        "cpeNameId": "C489E8BC-2D1E-4967-AE9F-8A83A2EECDF3",
+        "lastModified": "2019-11-05T16:05:38.653",
+        "created": "2019-11-05T16:05:38.653",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_5:*:*:*:*:*:*",
+        "cpeNameId": "00F4A3F9-D562-4719-AE0E-51D03EC0D2D9",
+        "lastModified": "2019-11-05T16:05:38.810",
+        "created": "2019-11-05T16:05:38.810",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_6:*:*:*:*:*:*",
+        "cpeNameId": "B2571692-01AF-4C4D-B4FE-B6493B533795",
+        "lastModified": "2019-11-05T16:05:38.950",
+        "created": "2019-11-05T16:05:38.950",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_9:*:*:*:*:*:*",
+        "cpeNameId": "443A3E4E-9A48-451E-BE0E-65D8B11FBDC6",
+        "lastModified": "2019-11-05T16:05:39.247",
+        "created": "2019-11-05T16:05:39.247",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013 Cumulative Update 9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
+        "cpeNameId": "D7EEF186-3A2D-4807-8456-13610CBB52AB",
+        "lastModified": "2019-11-05T16:05:39.420",
+        "created": "2019-11-05T16:05:39.420",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
+        "cpeNameId": "8522EB6E-746D-46DC-A905-604F1CFB57A8",
+        "lastModified": "2019-11-05T16:05:39.607",
+        "created": "2019-11-05T16:05:39.593",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_12:*:*:*:*:*:*",
+        "cpeNameId": "F4224F74-240C-437A-835E-D21B2F7B7971",
+        "lastModified": "2019-11-05T16:05:39.793",
+        "created": "2019-11-05T16:05:39.793",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
+        "cpeNameId": "9A145C14-4951-45EE-95EC-3200BF7350CD",
+        "lastModified": "2019-11-05T16:05:39.950",
+        "created": "2019-11-05T16:05:39.950",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_3:*:*:*:*:*:*",
+        "cpeNameId": "166EA25B-6AA6-4097-9BC7-C5423FB4E27E",
+        "lastModified": "2019-11-05T16:05:40.107",
+        "created": "2019-11-05T16:05:40.107",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_4:*:*:*:*:*:*",
+        "cpeNameId": "B2B7BC86-3815-4701-8FA0-AAB60415D07F",
+        "lastModified": "2019-11-05T16:05:40.263",
+        "created": "2019-11-05T16:05:40.263",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
+        "cpeNameId": "552A212A-B4BF-4BDB-A335-5DC41B291C10",
+        "lastModified": "2019-11-05T16:05:40.437",
+        "created": "2019-11-05T16:05:40.437",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+        "cpeNameId": "ECD90042-2FDC-4363-A2E9-742C84B918C4",
+        "lastModified": "2019-11-05T16:05:40.607",
+        "created": "2019-11-05T16:05:40.607",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_3:*:*:*:*:*:*",
+        "cpeNameId": "1BDD1DCA-27ED-47DA-8DBC-B6BD534148F7",
+        "lastModified": "2019-11-05T16:05:40.780",
+        "created": "2019-11-05T16:05:40.780",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_30:*:*:*:*:*:*",
+        "cpeNameId": "84A3285E-DEC4-4AAB-B36F-3BA7843875EF",
+        "lastModified": "2020-02-18T16:01:27.180",
+        "created": "2020-02-18T16:01:27.180",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_15:*:*:*:*:*:*",
+        "cpeNameId": "A3B545DF-F547-4FEB-872F-D5A4A7214BC7",
+        "lastModified": "2020-03-30T18:11:19.267",
+        "created": "2020-03-30T18:11:19.267",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_16:*:*:*:*:*:*",
+        "cpeNameId": "74D60B57-9F8C-41AF-8731-CA30D648E65B",
+        "lastModified": "2020-03-30T18:11:19.453",
+        "created": "2020-03-30T18:11:19.453",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_4:*:*:*:*:*:*",
+        "cpeNameId": "8A337ABE-F68D-4004-9400-9BF8DC6710AE",
+        "lastModified": "2020-03-30T18:13:24.367",
+        "created": "2020-03-30T18:13:24.367",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_5:*:*:*:*:*:*",
+        "cpeNameId": "A6C00CC0-EA87-41EE-9F4D-1B384D9F5B9F",
+        "lastModified": "2020-03-30T18:13:24.463",
+        "created": "2020-03-30T18:13:24.463",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2000:-:*:*:*:*:*:*",
+        "cpeNameId": "D2AADB25-56B7-4D93-81FB-4C6C940E83F2",
+        "lastModified": "2020-03-30T18:25:27.170",
+        "created": "2020-03-30T18:25:27.170",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2003:-:*:*:*:*:*:*",
+        "cpeNameId": "321EAB30-B335-47E1-B763-35FBC1D785F3",
+        "lastModified": "2020-03-30T18:25:27.373",
+        "created": "2020-03-30T18:25:27.373",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2003",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:-:*:*:*:*:*:*",
+        "cpeNameId": "149453CF-7150-497B-B197-9A8677A99B3E",
+        "lastModified": "2020-03-30T18:25:27.467",
+        "created": "2020-03-30T18:25:27.467",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2007",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:-:*:*:*:*:*:*",
+        "cpeNameId": "DED87185-C839-4E9C-885D-B090949E0624",
+        "lastModified": "2020-03-30T18:25:27.543",
+        "created": "2020-03-30T18:25:27.543",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2013:-:*:*:*:*:*:*",
+        "cpeNameId": "D0779DC5-EC41-4051-B3E5-F7F939840D62",
+        "lastModified": "2020-03-30T18:25:27.623",
+        "created": "2020-03-30T18:25:27.623",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2013",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:-:*:*:*:*:*:*",
+        "cpeNameId": "1DEE30F6-2A09-4FBD-9D51-3E0E0ABEFCD9",
+        "lastModified": "2020-03-30T18:25:27.717",
+        "created": "2020-03-30T18:25:27.717",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:-:*:*:*:*:*:*",
+        "cpeNameId": "11E551AF-4123-4859-854B-87D3462ECC57",
+        "lastModified": "2020-03-30T18:25:27.793",
+        "created": "2020-03-30T18:25:27.793",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:5.0:-:*:*:*:*:*:*",
+        "cpeNameId": "74483401-E3D4-41D1-A422-2BF14AD10575",
+        "lastModified": "2020-04-01T16:34:09.087",
+        "created": "2020-04-01T16:34:09.087",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:5.5:-:*:*:*:*:*:*",
+        "cpeNameId": "68327342-A906-46EC-B7C2-C22A426468E2",
+        "lastModified": "2020-04-01T16:34:09.210",
+        "created": "2020-04-01T16:34:09.210",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 5.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:4.0:-:*:*:*:*:*:*",
+        "cpeNameId": "E5F0C9B6-BDC7-498B-AA55-17888802AA88",
+        "lastModified": "2020-04-01T16:38:09.167",
+        "created": "2020-04-01T16:38:09.167",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:4.0:sp1:*:*:*:*:*:*",
+        "cpeNameId": "93B7B9C8-0BD2-4BE7-B7E3-7826775FBAA9",
+        "lastModified": "2020-04-01T16:38:09.263",
+        "created": "2020-04-01T16:38:09.263",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 4.0 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:4.0:sp2:*:*:*:*:*:*",
+        "cpeNameId": "EC9A419A-3D49-4DD1-928D-3A798538FE1E",
+        "lastModified": "2020-04-01T16:38:09.310",
+        "created": "2020-04-01T16:38:09.310",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 4.0 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:4.0:sp3:*:*:*:*:*:*",
+        "cpeNameId": "00ABFF82-0D97-4E7D-BAB0-F4E22C54F9E9",
+        "lastModified": "2020-04-01T16:38:09.373",
+        "created": "2020-04-01T16:38:09.373",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 4.0 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:4.0:sp4:*:*:*:*:*:*",
+        "cpeNameId": "8DEF5595-24AE-401A-8C52-D0F5D4A8829A",
+        "lastModified": "2020-04-01T16:38:09.467",
+        "created": "2020-04-01T16:38:09.467",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 4.0 Service Pack 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:4.0:sp5:*:*:*:*:*:*",
+        "cpeNameId": "2B731273-4B54-4E35-BDB7-F0129651851B",
+        "lastModified": "2020-04-01T16:38:09.560",
+        "created": "2020-04-01T16:38:09.560",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 4.0 Service Pack 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:x64:*",
+        "cpeNameId": "2E2C0E62-E812-48BD-9398-D58FF88A9D04",
+        "lastModified": "2020-04-14T11:52:24.150",
+        "created": "2020-04-14T11:52:24.150",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2007 Service Pack 2 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:x64:*",
+        "cpeNameId": "AF64AFD0-93E1-47B6-BEEF-119FCD0EEA86",
+        "lastModified": "2020-04-14T12:58:16.223",
+        "created": "2020-04-14T12:58:16.223",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2007 Service Pack 1 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:-:*:*:*:*:x64:*",
+        "cpeNameId": "6F6A61DE-B674-4A99-AA86-5B27646E76CB",
+        "lastModified": "2020-04-14T12:58:16.283",
+        "created": "2020-04-14T12:58:16.283",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:sp2_update_rollup_1:*:*:*:*:*:*",
+        "cpeNameId": "2CED8630-019D-44EE-959A-0975977CCC9B",
+        "lastModified": "2020-04-14T13:14:03.950",
+        "created": "2020-04-14T13:14:03.950",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2007 Service Pack 2 Update Rollup 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:sp2_update_rollup_2:*:*:*:*:*:*",
+        "cpeNameId": "0C812048-4109-4E7E-B8FE-C051175934F8",
+        "lastModified": "2020-04-14T13:14:04.013",
+        "created": "2020-04-14T13:14:04.013",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2007 Service Pack 2 Update Rollup 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:sp2_update_rollup_3:*:*:*:*:*:*",
+        "cpeNameId": "FB635E10-9414-41B8-B556-76955CA3FBCC",
+        "lastModified": "2020-04-14T13:14:04.060",
+        "created": "2020-04-14T13:14:04.060",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2007 Service Pack 2 Update Rollup 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:sp2_update_rollup_4:*:*:*:*:*:*",
+        "cpeNameId": "CB1482A1-3DE8-43AA-B69C-B1A90F193AB8",
+        "lastModified": "2020-04-14T13:14:04.107",
+        "created": "2020-04-14T13:14:04.107",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2007 Service Pack 2 Update Rollup 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2007:sp2_update_rollup_5:*:*:*:*:*:*",
+        "cpeNameId": "BD23326B-39C3-4AEA-A44B-03977BC5FD7E",
+        "lastModified": "2020-04-14T13:14:04.187",
+        "created": "2020-04-14T13:14:04.187",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2007 Service Pack 2 Update Rollup 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup20:*:*:*:*:*:*",
+        "cpeNameId": "7188B67D-E130-452C-AD54-1192F1EAF642",
+        "lastModified": "2020-07-30T18:29:41.283",
+        "created": "2020-07-30T18:29:41.283",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+        "cpeNameId": "74DE7180-6405-4BF3-B999-036427049A54",
+        "lastModified": "2020-09-14T16:34:08.890",
+        "created": "2020-09-14T16:34:08.890",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+        "cpeNameId": "1371B6EB-E967-4CA6-99B6-257A3AF89B27",
+        "lastModified": "2020-09-14T16:34:09.000",
+        "created": "2020-09-14T16:34:09.000",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_31:*:*:*:*:*:*",
+        "cpeNameId": "E9F89B55-147C-40BD-853F-2EDC03F3C86F",
+        "lastModified": "2020-12-11T15:16:10.447",
+        "created": "2020-12-11T15:16:10.447",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 31",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+        "cpeNameId": "2857A2A5-1116-4597-BF9A-DD23EF633C06",
+        "lastModified": "2021-01-19T22:49:37.703",
+        "created": "2021-01-19T22:49:37.703",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 18",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+        "cpeNameId": "99478486-B738-4B9D-8E08-271282976484",
+        "lastModified": "2021-01-19T22:49:37.967",
+        "created": "2021-01-19T22:49:37.967",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
+        "cpeNameId": "3BF8BFA5-4DEE-4FBB-8EAD-76F0315F8712",
+        "lastModified": "2021-08-17T17:45:49.637",
+        "created": "2021-02-26T23:13:24.577",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
+        "cpeNameId": "9F7D25B4-76F1-438C-9A52-FF6DF8E2A7F1",
+        "lastModified": "2021-08-17T17:45:49.637",
+        "created": "2021-02-26T23:13:24.577",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 19",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
+        "cpeNameId": "30ACD87B-0447-419E-8C01-26EEB5BDEB7F",
+        "lastModified": "2021-08-17T17:45:49.637",
+        "created": "2021-04-13T20:55:47.787",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
+        "cpeNameId": "1BA20333-B82A-4C10-9375-028C8B44A9E8",
+        "lastModified": "2021-08-17T17:45:49.637",
+        "created": "2021-04-13T20:55:47.787",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
+        "cpeNameId": "DE7C780E-42B7-4300-A05A-5A6A05F410F9",
+        "lastModified": "2021-08-17T17:45:49.637",
+        "created": "2021-07-15T12:47:53.130",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
+        "cpeNameId": "75B52E11-ADB5-4621-BE6C-4AA8340825C0",
+        "lastModified": "2021-08-17T17:45:49.637",
+        "created": "2021-07-15T12:47:53.130",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
+        "cpeNameId": "43AE89DE-E11B-4A53-964F-E424C55C546C",
+        "lastModified": "2022-05-23T14:02:22.247",
+        "created": "2021-10-15T17:07:23.543",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
+        "cpeNameId": "FEC1CD37-36A9-4B10-BF20-E2AF0FF2880F",
+        "lastModified": "2022-05-23T14:02:22.247",
+        "created": "2021-10-15T17:07:23.543",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
+        "cpeNameId": "B8F1FA01-225B-4A17-A04D-B078C1DF7CA2",
+        "lastModified": "2022-05-23T14:02:22.247",
+        "created": "2022-05-17T18:54:09.177",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2016 Cumulative Update 23",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_12:*:*:*:*:*:*",
+        "cpeNameId": "2B657379-FC49-425B-930E-92F21A14B1E2",
+        "lastModified": "2022-05-23T14:02:22.247",
+        "created": "2022-05-17T18:54:09.177",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_13:*:*:*:*:*:*",
+        "cpeNameId": "E3DA72C2-3644-4225-8273-2C1275CA4D8E",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-06-21T18:33:29.047",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_14:*:*:*:*:*:*",
+        "cpeNameId": "099B2109-BFE2-4DD0-9869-9C739DB94D48",
+        "lastModified": "2024-04-16T12:35:21.127",
+        "created": "2024-04-16T12:35:21.127",
+        "titles": [
+          {
+            "title": "Microsoft Exchange Server 2019 Cumulative Update 14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:4.0:*:*:*:*:*:*:*",
+      "title": "Microsoft exchange_srv 4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:exchange_server:4.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:5.0:*:*:*:*:*:*:*",
+      "title": "Microsoft exchange_srv 5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:exchange_server:5.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:5.5:*:*:*:*:*:*:*",
+      "title": "Microsoft exchange_srv 5.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:exchange_server:5.5:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2000:*:*:*:*:*:*:*",
+      "title": "Microsoft exchange_srv 2000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:exchange_server:2000:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2003:*:*:*:*:*:*:*",
+      "title": "Microsoft exchange_srv 2003",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:exchange_server:2003:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+      "title": "Microsoft exchange_srv 2007",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:exchange_server:2007:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:5.0:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 5.0 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:5.0:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 5.0 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:5.5:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 5.5 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:5.5:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 5.5 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:5.5:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 5.5 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:5.5:sp4:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 5.5 Service Pack 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2000:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2000 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2000:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2000 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2000:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2000 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2003:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2003 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2003:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2003 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2007 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:x64:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2007 Service Pack 2 for x64 based systems",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:-:x64:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 for x64 based systems",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:*:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:exchange_server:2010:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2007:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2007 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_2:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_3:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_7:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:*:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:exchange_server:2016:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_11:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_10:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_13:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_2:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_16:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 16",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_5:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_19:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 19",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_20:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 20",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_8:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_9:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_12:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_8:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_14:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_17:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 17",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_6:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_7:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_18:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 18",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:*:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:exchange_server:2013:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_23:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 23",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_10:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_11:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_12:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_13:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_14:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_15:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_16:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 16",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_17:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 17",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_18:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 18",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_19:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 19",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_2:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_20:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 20",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_21:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 21",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_22:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 22",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_23:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 23",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_24:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 24",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_25:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 25",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_26:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 26",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_27:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 27",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_28:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 28",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_29:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 29",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_3:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_4:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_5:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_6:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_7:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_8:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_9:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_15:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_21:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 21",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_22:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 22",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_5:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_6:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_9:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013 Cumulative Update 9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_10:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_11:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_12:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_14:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_3:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_4:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_2:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_3:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_30:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 30",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_15:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_16:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 16",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_4:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_5:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2000:-:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2000",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2003:-:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2003",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2007:-:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2007",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:-:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2013:-:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2013",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:-:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:-:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:5.0:-:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:5.5:-:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 5.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:4.0:-:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:4.0:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 4.0 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:4.0:sp2:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 4.0 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:4.0:sp3:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 4.0 Service Pack 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:4.0:sp4:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 4.0 Service Pack 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:4.0:sp5:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 4.0 Service Pack 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2007:sp2:*:*:*:*:x64:*",
+      "title": "Microsoft Exchange Server 2007 Service Pack 2 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2007:sp1:*:*:*:*:x64:*",
+      "title": "Microsoft Exchange Server 2007 Service Pack 1 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:-:*:*:*:*:x64:*",
+      "title": "Microsoft Exchange Server 2010 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2007:sp2_update_rollup_1:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2007 Service Pack 2 Update Rollup 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2007:sp2_update_rollup_2:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2007 Service Pack 2 Update Rollup 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2007:sp2_update_rollup_3:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2007 Service Pack 2 Update Rollup 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2007:sp2_update_rollup_4:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2007 Service Pack 2 Update Rollup 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2007:sp2_update_rollup_5:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2007 Service Pack 2 Update Rollup 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup20:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup20",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_17:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 17",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2010:sp3_rollup_31:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2010 Service Pack 3 Rollup 31",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_18:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 18",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_7:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_8:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_19:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 19",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_20:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 20",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_9:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_21:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 21",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_10:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_22:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 22",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_11:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2016 Cumulative Update 23",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_12:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_13:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_14:*:*:*:*:*:*",
+      "title": "Microsoft Exchange Server 2019 Cumulative Update 14",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

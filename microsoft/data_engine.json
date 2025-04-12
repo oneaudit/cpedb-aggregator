@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:data_engine:-:*:*:*:*:*:*:*",
+        "cpeNameId": "81110690-1848-436A-8FD2-8EBDC953AF68",
+        "lastModified": "2008-04-01T16:14:39.887",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Microsoft MSDE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:data_engine:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "20AC95E6-377F-43A7-8791-A93450BC7D3D",
+        "lastModified": "2008-04-15T23:01:06.697",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft data_engine 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:data_engine:2000:*:*:*:*:*:*:*",
+        "cpeNameId": "CCE8E2F6-0B39-421E-8AEA-1602CDB97FF9",
+        "lastModified": "2008-04-15T23:01:06.790",
+        "created": "2007-08-28T21:31:38.663",
+        "titles": [
+          {
+            "title": "Microsoft data_engine 2000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:data_engine:-:*:*:*:*:*:*:*",
+      "title": "Microsoft MSDE",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:data_engine:1.0:*:*:*:*:*:*:*",
+      "title": "Microsoft data_engine 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:data_engine:2000:*:*:*:*:*:*:*",
+      "title": "Microsoft data_engine 2000",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:bing:4.2.1:-:-:*:-:android:*:*",
+        "cpeNameId": "CB837F0E-6960-483E-AC88-EC959D004463",
+        "lastModified": "2014-01-27T15:15:29.947",
+        "created": "2014-01-27T15:12:15.710",
+        "titles": [
+          {
+            "title": "Microsoft Bing for Android operating system 4.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:bing:4.2.0:-:-:*:-:android:*:*",
+        "cpeNameId": "93801FD4-ADB1-4B6E-A670-ABDA219EE321",
+        "lastModified": "2014-01-27T15:15:30.057",
+        "created": "2014-01-27T15:12:15.867",
+        "titles": [
+          {
+            "title": "Microsoft Bing for Android operating system 4.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:bing:-:*:*:*:*:android:*:*",
+        "cpeNameId": "85B284A4-2451-43D2-810A-3EB256540595",
+        "lastModified": "2020-06-12T15:51:26.630",
+        "created": "2020-06-12T15:51:26.630",
+        "titles": [
+          {
+            "title": "Microsoft Bing for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:bing:4.2.1:-:-:*:-:android:*:*",
+      "title": "Microsoft Bing for Android operating system 4.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:bing:4.2.0:-:-:*:-:android:*:*",
+      "title": "Microsoft Bing for Android operating system 4.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:bing:-:*:*:*:*:android:*:*",
+      "title": "Microsoft Bing for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

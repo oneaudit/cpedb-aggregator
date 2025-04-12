@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:directx_media:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B22E682C-4E1D-4FEB-8E6F-5F5DA9807277",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Microsoft DirectX Media",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:directx_media:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0F164877-A85A-45C8-9E82-7A7F19B32203",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Microsoft DirectX Media 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:directx_media:-:*:*:*:*:*:*:*",
+      "title": "Microsoft DirectX Media",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:directx_media:6.0:*:*:*:*:*:*:*",
+      "title": "Microsoft DirectX Media 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:microsoft:asp.net_mvc:5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "3F68BAC8-368F-46D3-98EB-49CE9930AD0A",
+        "lastModified": "2021-06-30T16:52:58.683",
+        "created": "2018-09-07T14:01:57.117",
+        "titles": [
+          {
+            "title": "Microsoft ASP.NET Model View Controller (MVC) 5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:microsoft:asp.net_model_view_controller:5.2:*:*:*:*:*:*:*",
+            "cpeNameId": "643F9863-0AF5-497E-9C40-8C8F62AD333E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:asp.net_mvc:5.2:*:*:*:*:*:*:*",
+      "title": "Microsoft ASP.NET Model View Controller (MVC) 5.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:microsoft:asp.net_model_view_controller:5.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

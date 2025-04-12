@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:defender_for_endpoint:-:*:*:*:*:-:*:*",
+        "cpeNameId": "31C50730-1EEE-4DC4-AA5A-D0826182F153",
+        "lastModified": "2022-09-28T14:31:13.777",
+        "created": "2022-03-10T15:58:59.337",
+        "titles": [
+          {
+            "title": "Microsoft Defender For Endpoint",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:defender_for_endpoint:-:*:*:*:*:linux:*:*",
+        "cpeNameId": "CBA864F8-401A-4313-BF48-BA36D602E26A",
+        "lastModified": "2022-09-28T14:31:13.777",
+        "created": "2022-07-18T17:59:18.763",
+        "titles": [
+          {
+            "title": "Microsoft Defender For Endpoint for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:defender_for_endpoint:-:*:*:*:*:macos:*:*",
+        "cpeNameId": "F3952409-F594-4D45-991A-F38B7792C2C1",
+        "lastModified": "2022-09-28T14:31:13.777",
+        "created": "2022-09-15T01:44:48.060",
+        "titles": [
+          {
+            "title": "Microsoft Defender for Endpoint for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:defender_for_endpoint:-:*:*:*:*:-:*:*",
+      "title": "Microsoft Defender For Endpoint",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:defender_for_endpoint:-:*:*:*:*:linux:*:*",
+      "title": "Microsoft Defender For Endpoint for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:defender_for_endpoint:-:*:*:*:*:macos:*:*",
+      "title": "Microsoft Defender for Endpoint for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

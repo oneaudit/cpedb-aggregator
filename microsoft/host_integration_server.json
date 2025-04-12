@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:host_integration_server:2004:sp1:*:*:*:*:*:*",
+        "cpeNameId": "EBB4EC08-C81C-4203-8138-D6686E7A3A20",
+        "lastModified": "2012-08-20T17:05:47.480",
+        "created": "2011-10-12T15:08:24.783",
+        "titles": [
+          {
+            "title": "Microsoft Host Integration Server (HIS) 2004 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:host_integration_server:2020:*:*:*:*:*:*:*",
+        "cpeNameId": "DB4FE18F-6333-4015-8D9E-27139FF41C7E",
+        "lastModified": "2023-12-01T13:06:12.100",
+        "created": "2023-12-01T13:06:12.100",
+        "titles": [
+          {
+            "title": "Microsoft Host Integration Server 2020",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:host_integration_server:2004:sp1:*:*:*:*:*:*",
+      "title": "Microsoft Host Integration Server (HIS) 2004 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:host_integration_server:2020:*:*:*:*:*:*:*",
+      "title": "Microsoft Host Integration Server 2020",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

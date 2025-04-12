@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_site_recovery:9.47.6219.1:*:*:*:*:*:*:*",
+        "cpeNameId": "6D7E641D-C3DA-4B08-8C13-03E8BC7BF847",
+        "lastModified": "2022-08-12T20:37:57.897",
+        "created": "2022-03-10T18:35:34.940",
+        "titles": [
+          {
+            "title": "Microsoft Azure Site Recovery 9.47.6219.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_site_recovery:9.50.6419.1:*:*:*:vmware_to_azure:*:*:*",
+        "cpeNameId": "AC9666D6-E502-453E-9C02-D22B6587EB38",
+        "lastModified": "2022-08-12T20:37:57.897",
+        "created": "2022-08-10T17:54:48.530",
+        "titles": [
+          {
+            "title": "Microsoft Azure Site Recovery 9.50.6419.1 VMware To Azure Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_site_recovery:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7E260C30-74F0-4A6F-92B1-4A1133704326",
+        "lastModified": "2024-04-15T21:47:46.723",
+        "created": "2024-04-15T21:47:46.723",
+        "titles": [
+          {
+            "title": "Microsoft Azure Site Recovery",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:azure_site_recovery:9.47.6219.1:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure Site Recovery 9.47.6219.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_site_recovery:9.50.6419.1:*:*:*:vmware_to_azure:*:*:*",
+      "title": "Microsoft Azure Site Recovery 9.50.6419.1 VMware To Azure Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_site_recovery:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure Site Recovery",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

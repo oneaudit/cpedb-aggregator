@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:defender_for_endpoint_edr_sensor:10.8047.22439.1056:*:*:*:*:*:*:*",
+        "cpeNameId": "0793F804-64C6-4AD7-9597-0085387BD294",
+        "lastModified": "2022-09-28T14:49:49.280",
+        "created": "2022-03-10T15:59:15.310",
+        "titles": [
+          {
+            "title": "Microsoft Defender for Endpoint EDR Sensor 10.8047.22439.1056",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:defender_for_endpoint_edr_sensor:-:*:*:*:*:*:*:*",
+        "cpeNameId": "77D0C6C7-D8C9-4D2A-90D0-DA0F00CFA2AE",
+        "lastModified": "2022-09-28T14:49:49.280",
+        "created": "2022-03-10T15:59:15.310",
+        "titles": [
+          {
+            "title": "Microsoft Defender for Endpoint EDR Sensor",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:defender_for_endpoint_edr_sensor:10.8047.22439.1056:*:*:*:*:*:*:*",
+      "title": "Microsoft Defender for Endpoint EDR Sensor 10.8047.22439.1056",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:defender_for_endpoint_edr_sensor:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Defender for Endpoint EDR Sensor",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

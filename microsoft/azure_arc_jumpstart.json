@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_arc_jumpstart:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E3F47E77-B9E0-4EE5-ACDB-C8AB680F7F84",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-05-25T16:02:20.807",
+        "titles": [
+          {
+            "title": "Microsoft Azure Arc Jumpstart 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_arc_jumpstart:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DD5A8262-69D6-4DBC-BDA7-317B2ACA4F00",
+        "lastModified": "2023-07-27T18:25:20.450",
+        "created": "2023-05-25T16:02:20.807",
+        "titles": [
+          {
+            "title": "Microsoft Azure Arc Jumpstart 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:azure_arc_jumpstart:1.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure Arc Jumpstart 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_arc_jumpstart:2.0:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure Arc Jumpstart 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

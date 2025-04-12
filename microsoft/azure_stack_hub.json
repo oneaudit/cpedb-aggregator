@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_stack_hub:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0E806AD0-EC29-489A-B852-5F51112426AE",
+        "lastModified": "2022-10-03T15:00:00.713",
+        "created": "2021-09-21T15:30:29.403",
+        "titles": [
+          {
+            "title": "Microsoft Azure Stack Hub",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:azure_stack_hub:1.2311.1.22:*:*:*:*:*:*:*",
+        "cpeNameId": "3710E5A9-0E86-40B4-9CDE-D51C4B6F2B59",
+        "lastModified": "2024-08-02T10:34:31.507",
+        "created": "2024-08-02T10:34:31.507",
+        "titles": [
+          {
+            "title": "Microsoft Azure Stack Hub 1.2311.1.22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:azure_stack_hub:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure Stack Hub",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:azure_stack_hub:1.2311.1.22:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure Stack Hub 1.2311.1.22",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

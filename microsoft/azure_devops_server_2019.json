@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:microsoft:azure_devops_server_2019:-:*:*:*:*:*:*:*",
+        "cpeNameId": "19AC539E-664A-44AE-88C8-B0ECD43FAE60",
+        "lastModified": "2019-07-16T14:42:21.353",
+        "created": "2019-04-10T17:33:35.500",
+        "titles": [
+          {
+            "title": "Microsoft Azure DevOps Server 2019",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:microsoft:azure_devops_server:2019:*:*:*:*:*:*:*",
+            "cpeNameId": "A0C55605-B85A-4BC4-859E-2EEAC0CC2AD0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:microsoft:azure_devops_server_2019:-:*:*:*:*:*:*:*",
+      "title": "Microsoft Azure DevOps Server 2019",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:microsoft:azure_devops_server:2019:*:*:*:*:*:*:*"
+    }
+  ]
+}

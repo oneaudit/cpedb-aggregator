@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:ftp_service:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "966B21D7-CF8F-456C-A4E3-2D74FC240F32",
+        "lastModified": "2012-11-21T17:13:50.930",
+        "created": "2012-11-14T15:23:57.977",
+        "titles": [
+          {
+            "title": "Microsoft FTP Service 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:microsoft:ftp_service:7.5:*:*:*:*:*:*:*",
+        "cpeNameId": "2DBB16E5-888E-42A1-BE18-95005C701846",
+        "lastModified": "2012-11-21T17:13:51.007",
+        "created": "2012-11-14T15:23:58.133",
+        "titles": [
+          {
+            "title": "Microsoft FTP Service 7.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:microsoft:ftp_service:7.0:*:*:*:*:*:*:*",
+      "title": "Microsoft FTP Service 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:microsoft:ftp_service:7.5:*:*:*:*:*:*:*",
+      "title": "Microsoft FTP Service 7.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
