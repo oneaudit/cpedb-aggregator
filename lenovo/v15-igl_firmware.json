@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:v15-igl_firmware:dvcn28ww:*:*:*:*:*:*:*",
+        "cpeNameId": "E69F7919-ECFC-45B0-9114-CA5DB3B8F8F6",
+        "lastModified": "2023-08-28T17:45:00.400",
+        "created": "2023-08-28T17:24:26.113",
+        "titles": [
+          {
+            "title": "Lenovo V15-IGL Firmware DVCN28WW",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:v15-igl_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "65D699AD-33B8-4877-9C09-377738680DFF",
+        "lastModified": "2023-08-28T17:45:00.400",
+        "created": "2023-08-28T17:38:43.663",
+        "titles": [
+          {
+            "title": "Lenovo V15-IGL Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:v15-igl_firmware:dvcn28ww:*:*:*:*:*:*:*",
+      "title": "Lenovo V15-IGL Firmware DVCN28WW",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:v15-igl_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lenovo V15-IGL Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

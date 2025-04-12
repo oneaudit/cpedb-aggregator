@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinksystem_sr590_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6DDE2B46-7527-4009-8E3C-F3CD73431AC3",
+        "lastModified": "2020-07-17T15:42:12.173",
+        "created": "2020-07-17T15:42:12.173",
+        "titles": [
+          {
+            "title": "Lenovo ThinkSystem SR590 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinksystem_sr590_firmware:tee178i:*:*:*:*:*:*:*",
+        "cpeNameId": "325800EB-F2D2-4212-B17B-8B5BAD4B8EC6",
+        "lastModified": "2023-02-14T19:55:07.353",
+        "created": "2023-02-07T17:28:20.883",
+        "titles": [
+          {
+            "title": "Lenovo THINKSYSTEM SR590 FIRMWARE TEE178I",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinksystem_sr590_firmware:8.88_cdi3a4a:*:*:*:*:*:*:*",
+        "cpeNameId": "E0782CE1-3D6E-4732-8E62-F6B8940164CA",
+        "lastModified": "2023-08-19T04:12:53.843",
+        "created": "2023-05-05T10:58:55.273",
+        "titles": [
+          {
+            "title": "Lenovo THINKSYSTEM SR590 FIRMWARE 8.88 CDI3A4A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:thinksystem_sr590_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkSystem SR590 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinksystem_sr590_firmware:tee178i:*:*:*:*:*:*:*",
+      "title": "Lenovo THINKSYSTEM SR590 FIRMWARE TEE178I",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinksystem_sr590_firmware:8.88_cdi3a4a:*:*:*:*:*:*:*",
+      "title": "Lenovo THINKSYSTEM SR590 FIRMWARE 8.88 CDI3A4A",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

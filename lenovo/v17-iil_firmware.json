@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:v17-iil_firmware:emcn56ww:*:*:*:*:*:*:*",
+        "cpeNameId": "63D9A4A9-4D08-47A2-913A-57FA6404DB6C",
+        "lastModified": "2023-08-28T17:45:00.400",
+        "created": "2023-08-28T17:24:26.113",
+        "titles": [
+          {
+            "title": "Lenovo V17-IIL Firmware EMCN56WW",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:v17-iil_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C1599402-878E-4E0C-B799-F94FF8A5FD36",
+        "lastModified": "2023-08-28T17:45:00.400",
+        "created": "2023-08-28T17:38:43.663",
+        "titles": [
+          {
+            "title": "Lenovo V17-IIL Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:v17-iil_firmware:emcn56ww:*:*:*:*:*:*:*",
+      "title": "Lenovo V17-IIL Firmware EMCN56WW",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:v17-iil_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lenovo V17-IIL Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

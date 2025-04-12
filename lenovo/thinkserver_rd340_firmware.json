@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkserver_rd340_firmware:64.00:*:*:*:*:*:*:*",
+        "cpeNameId": "3767E485-D438-4886-BB77-CA29212219B8",
+        "lastModified": "2021-05-05T12:49:38.900",
+        "created": "2018-12-20T17:22:54.023",
+        "titles": [
+          {
+            "title": "Lenovo ThinkServer RD340 Firmware 64.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkserver_rd340_firmware:50.00:*:*:*:*:*:*:*",
+        "cpeNameId": "416C9C25-CDF6-445E-B91C-86A0B28A759D",
+        "lastModified": "2021-03-30T13:44:52.113",
+        "created": "2019-04-23T15:03:42.027",
+        "titles": [
+          {
+            "title": "Lenovo ThinkServer RD340 Firmware 50.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkserver_rd340_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "38E136DF-99D9-46A8-8016-1A9D882B1C39",
+        "lastModified": "2021-03-30T13:44:52.113",
+        "created": "2019-04-23T15:03:42.027",
+        "titles": [
+          {
+            "title": "Lenovo ThinkServer RD340 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:thinkserver_rd340_firmware:64.00:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkServer RD340 Firmware 64.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinkserver_rd340_firmware:50.00:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkServer RD340 Firmware 50.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinkserver_rd340_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkServer RD340 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

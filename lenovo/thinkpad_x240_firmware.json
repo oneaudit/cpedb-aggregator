@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkpad_x240_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CD66EAF3-BEF9-4DA7-8A11-F4A7BFC404EE",
+        "lastModified": "2019-12-10T16:09:00.287",
+        "created": "2019-12-10T16:09:00.287",
+        "titles": [
+          {
+            "title": "Lenovo ThinkPad X240 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkpad_x240_firmware:giet98ww:*:*:*:*:*:*:*",
+        "cpeNameId": "0803D871-0292-4F86-84FC-CA5D5664B934",
+        "lastModified": "2019-12-10T16:09:00.960",
+        "created": "2019-12-10T16:09:00.960",
+        "titles": [
+          {
+            "title": "Lenovo ThinkPad X240 Firmware GIET98WW",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkpad_x240_firmware:giet99ww:*:*:*:*:*:*:*",
+        "cpeNameId": "8063AEB5-BB3D-4DC1-8F3E-8ACD47AB0013",
+        "lastModified": "2020-07-17T14:46:39.613",
+        "created": "2020-07-17T14:46:39.613",
+        "titles": [
+          {
+            "title": "Lenovo ThinkPad X240 Firmware GIET99WW",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:thinkpad_x240_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkPad X240 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinkpad_x240_firmware:giet98ww:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkPad X240 Firmware GIET98WW",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinkpad_x240_firmware:giet99ww:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkPad X240 Firmware GIET99WW",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

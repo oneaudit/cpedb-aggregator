@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkpad_x240s_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E9BE6218-D9FC-4437-AF8B-6AB6B3F58DB0",
+        "lastModified": "2019-12-10T16:09:01.537",
+        "created": "2019-12-10T16:09:01.537",
+        "titles": [
+          {
+            "title": "Lenovo ThinkPad X240s Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkpad_x240s_firmware:giet98ww:*:*:*:*:*:*:*",
+        "cpeNameId": "C8B7D928-AB01-4F1F-8AAA-6BFC89B2B8D9",
+        "lastModified": "2019-12-10T16:09:02.397",
+        "created": "2019-12-10T16:09:02.397",
+        "titles": [
+          {
+            "title": "Lenovo ThinkPad X240s Firmware GIET98WW",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkpad_x240s_firmware:giet99ww:*:*:*:*:*:*:*",
+        "cpeNameId": "9F5B7F2A-A721-4C0B-82DF-529FE3F6250C",
+        "lastModified": "2020-07-17T14:46:39.723",
+        "created": "2020-07-17T14:46:39.723",
+        "titles": [
+          {
+            "title": "Lenovo ThinkPad X240s Firmware GIET99WW",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:thinkpad_x240s_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkPad X240s Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinkpad_x240s_firmware:giet98ww:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkPad X240s Firmware GIET98WW",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinkpad_x240s_firmware:giet99ww:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkPad X240s Firmware GIET99WW",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

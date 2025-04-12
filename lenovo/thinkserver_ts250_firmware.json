@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkserver_ts250_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DB75D5F1-03D7-4B90-A59E-3FCD8EF79881",
+        "lastModified": "2021-05-05T12:53:59.987",
+        "created": "2017-08-28T17:40:31.013",
+        "titles": [
+          {
+            "title": "Lenovo ThinkServer TS250 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkserver_ts250_firmware:6.0.1.7525:*:*:*:*:*:*:*",
+        "cpeNameId": "505D5BB2-C980-4F6E-B2D8-2429887CB9E2",
+        "lastModified": "2023-01-23T15:40:02.270",
+        "created": "2023-01-04T13:40:07.647",
+        "titles": [
+          {
+            "title": "Lenovo Thinkserver Ts250 Firmware 6.0.1.7525",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkserver_ts250_firmware:81i\\/b7s:*:*:*:*:*:*:*",
+        "cpeNameId": "2188E8AF-6E6D-4D10-A3D1-4AA4C77EB965",
+        "lastModified": "2023-02-14T19:55:07.353",
+        "created": "2023-02-07T17:28:20.883",
+        "titles": [
+          {
+            "title": "Lenovo THINKSERVER TS250 FIRMWARE 81I/B7S",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:thinkserver_ts250_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkServer TS250 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinkserver_ts250_firmware:6.0.1.7525:*:*:*:*:*:*:*",
+      "title": "Lenovo Thinkserver Ts250 Firmware 6.0.1.7525",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinkserver_ts250_firmware:81i\\/b7s:*:*:*:*:*:*:*",
+      "title": "Lenovo THINKSERVER TS250 FIRMWARE 81I/B7S",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

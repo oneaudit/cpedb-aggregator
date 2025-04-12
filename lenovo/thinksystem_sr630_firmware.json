@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinksystem_sr630_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "20A4E694-1E6F-410F-83C0-7F32AF38B9B0",
+        "lastModified": "2021-03-30T13:44:52.113",
+        "created": "2019-04-22T11:36:48.700",
+        "titles": [
+          {
+            "title": "Lenovo ThinkServer SR630 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinksystem_sr630_firmware:ive178i:*:*:*:*:*:*:*",
+        "cpeNameId": "6C13F487-DBCA-4E37-B019-5E6D1A1E9853",
+        "lastModified": "2023-02-14T19:55:07.353",
+        "created": "2023-02-07T17:28:20.883",
+        "titles": [
+          {
+            "title": "Lenovo THINKSYSTEM SR630 FIRMWARE IVE178I",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinksystem_sr630_firmware:8.88_cdi3a4a:*:*:*:*:*:*:*",
+        "cpeNameId": "D2D68E12-DAB7-4CA2-9EC8-80474F4E3FE0",
+        "lastModified": "2023-08-19T04:12:53.843",
+        "created": "2023-05-05T10:58:47.660",
+        "titles": [
+          {
+            "title": "Lenovo THINKSYSTEM SR630 FIRMWARE 8.88 CDI3A4A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:thinksystem_sr630_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkServer SR630 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinksystem_sr630_firmware:ive178i:*:*:*:*:*:*:*",
+      "title": "Lenovo THINKSYSTEM SR630 FIRMWARE IVE178I",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinksystem_sr630_firmware:8.88_cdi3a4a:*:*:*:*:*:*:*",
+      "title": "Lenovo THINKSYSTEM SR630 FIRMWARE 8.88 CDI3A4A",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

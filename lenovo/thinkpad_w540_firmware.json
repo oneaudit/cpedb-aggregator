@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CE7CEC02-2066-4179-A155-C4EC68145874",
+        "lastModified": "2019-12-10T16:08:55.130",
+        "created": "2019-12-10T16:08:55.130",
+        "titles": [
+          {
+            "title": "Lenovo ThinkPad W540 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:gnet92ww:*:*:*:*:*:*:*",
+        "cpeNameId": "0AF1C7C0-1A63-480C-BFBE-E1146CC4539B",
+        "lastModified": "2019-12-10T16:08:55.867",
+        "created": "2019-12-10T16:08:55.867",
+        "titles": [
+          {
+            "title": "Lenovo ThinkPad W540 Firmware GNET92WW",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:gnet93ww:*:*:*:*:*:*:*",
+        "cpeNameId": "E49F9243-F897-4D39-82D6-4940976D03B5",
+        "lastModified": "2020-07-17T14:46:38.957",
+        "created": "2020-07-17T14:46:38.957",
+        "titles": [
+          {
+            "title": "Lenovo ThinkPad W540 Firmware GNET93WW",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkPad W540 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:gnet92ww:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkPad W540 Firmware GNET92WW",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:gnet93ww:*:*:*:*:*:*:*",
+      "title": "Lenovo ThinkPad W540 Firmware GNET93WW",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

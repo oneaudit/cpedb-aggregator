@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:universal_device_client:23.10:*:*:*:*:*:*:*",
+        "cpeNameId": "6ABE9DC8-CD42-4648-9971-A61B66CAAE58",
+        "lastModified": "2024-01-12T12:35:05.863",
+        "created": "2024-01-12T12:35:05.863",
+        "titles": [
+          {
+            "title": "Lenovo Universal Device Client 23.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:universal_device_client:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3EF8F176-6F95-4332-B19F-B4AB83720779",
+        "lastModified": "2024-01-12T12:35:05.863",
+        "created": "2024-01-12T12:35:05.863",
+        "titles": [
+          {
+            "title": "Lenovo Universal Device Client -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lenovo:universal_device_client:23.10:*:*:*:*:*:*:*",
+      "title": "Lenovo Universal Device Client 23.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lenovo:universal_device_client:-:*:*:*:*:*:*:*",
+      "title": "Lenovo Universal Device Client -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
