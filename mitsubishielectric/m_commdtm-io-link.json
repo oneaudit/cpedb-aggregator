@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mitsubishielectric:m_commdtm-io-link:-:*:*:*:*:*:*:*",
+        "cpeNameId": "77128FAA-B185-4AA7-8C12-1DC323016CE9",
+        "lastModified": "2020-08-11T16:05:28.513",
+        "created": "2020-08-11T16:05:28.513",
+        "titles": [
+          {
+            "title": "Mitsubishi Electric M CommDMT-IO-Link",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mitsubishielectric:m_commdtm-io-link:1.03d:*:*:*:*:*:*:*",
+        "cpeNameId": "ED597D2C-8469-4CE5-9F43-3A860BD7D3F6",
+        "lastModified": "2020-08-11T16:05:28.890",
+        "created": "2020-08-11T16:05:28.890",
+        "titles": [
+          {
+            "title": "Mitsubishi Electric M CommDMT-IO-Link 1.03D",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mitsubishielectric:m_commdtm-io-link:1.04e:*:*:*:*:*:*:*",
+        "cpeNameId": "CF01FB44-F4FE-429F-BC08-3880862CDE7F",
+        "lastModified": "2022-07-07T19:22:20.140",
+        "created": "2022-06-06T13:33:17.963",
+        "titles": [
+          {
+            "title": "Mitsubishi Electric M COMMDTM-IO-LINK 1.04e",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mitsubishielectric:m_commdtm-io-link:-:*:*:*:*:*:*:*",
+      "title": "Mitsubishi Electric M CommDMT-IO-Link",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mitsubishielectric:m_commdtm-io-link:1.03d:*:*:*:*:*:*:*",
+      "title": "Mitsubishi Electric M CommDMT-IO-Link 1.03D",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mitsubishielectric:m_commdtm-io-link:1.04e:*:*:*:*:*:*:*",
+      "title": "Mitsubishi Electric M COMMDTM-IO-LINK 1.04e",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
