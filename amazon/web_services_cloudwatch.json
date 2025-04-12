@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:amazon:web_services_cloudwatch:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0025880A-897E-47BC-A553-C15AF76C22BD",
+        "lastModified": "2021-05-10T15:58:17.340",
+        "created": "2019-01-07T18:40:57.293",
+        "titles": [
+          {
+            "title": "Amazon Web Services CloudWatch",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:amazon:amazon_cloudwatch:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5B02C73E-133E-4A7C-879A-A8C8F19DFD6D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:web_services_cloudwatch:-:*:*:*:*:*:*:*",
+      "title": "Amazon Web Services CloudWatch",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:amazon:amazon_cloudwatch:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:amazon:web_services_cloudtrail:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1E422C1D-88FF-4BD9-96D5-3F22DCC9507B",
+        "lastModified": "2021-05-10T15:58:17.340",
+        "created": "2019-01-07T18:40:57.293",
+        "titles": [
+          {
+            "title": "Amazon Web Services CloudTrail",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:amazon:aws_cloudtrail:-:*:*:*:*:*:*:*",
+            "cpeNameId": "89867F15-727A-4304-9EB8-322E8C0A1212"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:web_services_cloudtrail:-:*:*:*:*:*:*:*",
+      "title": "Amazon Web Services CloudTrail",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:amazon:aws_cloudtrail:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

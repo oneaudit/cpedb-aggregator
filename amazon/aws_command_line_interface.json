@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:amazon:aws_command_line_interface:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7EE057A1-B871-4799-8CE0-5C4E2A58371F",
+        "lastModified": "2021-03-15T17:46:07.103",
+        "created": "2020-04-01T20:25:25.250",
+        "titles": [
+          {
+            "title": "Amazon AWS Command Line Interface (CLI) -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:amazon:aws_command_line_interface:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D519F897-F713-4191-9751-FBB3D34BD0B6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:aws_command_line_interface:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D519F897-F713-4191-9751-FBB3D34BD0B6",
+        "lastModified": "2021-03-15T17:46:07.103",
+        "created": "2021-03-15T17:44:55.540",
+        "titles": [
+          {
+            "title": "Amazon AWS Command Line Interface (CLI)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amazon:aws_command_line_interface:-:*:*:*:*:*:*:*",
+      "title": "Amazon AWS Command Line Interface (CLI) -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:amazon:aws_command_line_interface:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:amazon:aws_command_line_interface:-:*:*:*:*:*:*:*",
+      "title": "Amazon AWS Command Line Interface (CLI)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:corretto:8:*:*:*:*:*:*:*",
+        "cpeNameId": "1DE63DA0-4688-4C60-80DF-367E3A2FC02A",
+        "lastModified": "2020-03-31T14:54:38.967",
+        "created": "2020-03-31T14:54:38.967",
+        "titles": [
+          {
+            "title": "Amazon Corretto 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:corretto:11:*:*:*:*:*:*:*",
+        "cpeNameId": "00C1EB61-6960-4032-AC67-3BD1EB703FFF",
+        "lastModified": "2020-03-31T14:54:39.043",
+        "created": "2020-03-31T14:54:39.043",
+        "titles": [
+          {
+            "title": "Amazon Corretto 11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:corretto:8:*:*:*:*:*:*:*",
+      "title": "Amazon Corretto 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amazon:corretto:11:*:*:*:*:*:*:*",
+      "title": "Amazon Corretto 11",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

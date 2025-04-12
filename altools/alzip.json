@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:altools:alzip:8.51:*:*:*:*:*:*:*",
+        "cpeNameId": "907CAEA1-57AE-4EB1-A640-04914225F054",
+        "lastModified": "2021-04-29T14:45:42.900",
+        "created": "2017-08-25T19:33:43.220",
+        "titles": [
+          {
+            "title": "altools ALZip 8.51",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:estsoft:alzip:8.51:*:*:*:*:*:*:*",
+            "cpeNameId": "291A595F-3FA7-4F26-973E-D898B1275684"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:altools:alzip:8.51:*:*:*:*:*:*:*",
+      "title": "altools ALZip 8.51",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:estsoft:alzip:8.51:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:amazon:web_services_simple_notification_service:-:*:*:*:*:*:*:*",
+        "cpeNameId": "80615535-DF61-400F-B103-B539EE6F5A99",
+        "lastModified": "2021-05-10T15:58:17.340",
+        "created": "2019-01-07T18:40:57.293",
+        "titles": [
+          {
+            "title": "Amazon Web Services Simple Notification Service",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:amazon:amazon_simple_notification_service:-:*:*:*:*:*:*:*",
+            "cpeNameId": "415C2668-D18C-4D9D-BE64-399798E2DBAD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:web_services_simple_notification_service:-:*:*:*:*:*:*:*",
+      "title": "Amazon Web Services Simple Notification Service",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:amazon:amazon_simple_notification_service:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

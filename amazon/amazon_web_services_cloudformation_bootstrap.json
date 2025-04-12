@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:amazon:amazon_web_services_cloudformation_bootstrap:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3B2BAE84-A13D-40D6-BF23-E992257E8299",
+        "lastModified": "2021-05-10T16:20:39.687",
+        "created": "2018-01-17T19:52:06.703",
+        "titles": [
+          {
+            "title": "Amazon AWS Software Development Kit (SDK) -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:amazon:aws_cloudformation:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0DD7300F-C32D-44D8-BFF6-F35D9CBC9A25"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:amazon_web_services_cloudformation_bootstrap:-:*:*:*:*:*:*:*",
+      "title": "Amazon AWS Software Development Kit (SDK) -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:amazon:aws_cloudformation:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

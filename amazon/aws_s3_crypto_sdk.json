@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:aws_s3_crypto_sdk:1:*:*:*:*:golang:*:*",
+        "cpeNameId": "A39DA4B5-5DC3-45F2-A272-CF0DD37268AF",
+        "lastModified": "2021-01-21T15:00:27.837",
+        "created": "2021-01-21T15:00:27.837",
+        "titles": [
+          {
+            "title": "Amazon AWS S3 Crypto SDK 1 for GoLang",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:aws_s3_crypto_sdk:-:*:*:*:*:golang:*:*",
+        "cpeNameId": "2F3546FE-C416-4575-9D29-07908C6AAEB6",
+        "lastModified": "2021-01-21T15:02:45.873",
+        "created": "2021-01-21T15:02:45.873",
+        "titles": [
+          {
+            "title": "Amazon AWS S3 Crypto SDK for GoLang",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:aws_s3_crypto_sdk:2:*:*:*:*:golang:*:*",
+        "cpeNameId": "145D7BC9-D3D6-4AAB-84E0-BAEAA98FB53E",
+        "lastModified": "2021-01-21T15:02:46.183",
+        "created": "2021-01-21T15:02:46.183",
+        "titles": [
+          {
+            "title": "Amazon AWS S3 Crypto SDK 2 for GoLang",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:aws_s3_crypto_sdk:1:*:*:*:*:golang:*:*",
+      "title": "Amazon AWS S3 Crypto SDK 1 for GoLang",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amazon:aws_s3_crypto_sdk:-:*:*:*:*:golang:*:*",
+      "title": "Amazon AWS S3 Crypto SDK for GoLang",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amazon:aws_s3_crypto_sdk:2:*:*:*:*:golang:*:*",
+      "title": "Amazon AWS S3 Crypto SDK 2 for GoLang",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

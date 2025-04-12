@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:audible:november2017:*:*:*:*:*:*:*",
+        "cpeNameId": "A9AD4D34-325E-490D-9B00-CC2C3CCA199F",
+        "lastModified": "2021-03-22T18:23:04.020",
+        "created": "2018-01-10T18:43:10.553",
+        "titles": [
+          {
+            "title": "Amazon Audible November2017",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:audible:2.34.0:*:*:*:*:android:*:*",
+        "cpeNameId": "D27F0D54-1A94-47CC-9F25-F9E2537A9D4C",
+        "lastModified": "2019-12-11T18:16:09.240",
+        "created": "2019-12-11T18:16:09.240",
+        "titles": [
+          {
+            "title": "Amazon Audible 2.34.0 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:audible:2.44.1:*:*:*:*:android:*:*",
+        "cpeNameId": "D1D2E67C-52D4-4116-B505-20634CF1120E",
+        "lastModified": "2020-01-27T14:15:51.483",
+        "created": "2020-01-27T14:15:51.483",
+        "titles": [
+          {
+            "title": "Amazon Audible 2.44.1 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:audible:november2017:*:*:*:*:*:*:*",
+      "title": "Amazon Audible November2017",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amazon:audible:2.34.0:*:*:*:*:android:*:*",
+      "title": "Amazon Audible 2.34.0 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amazon:audible:2.44.1:*:*:*:*:android:*:*",
+      "title": "Amazon Audible 2.44.1 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

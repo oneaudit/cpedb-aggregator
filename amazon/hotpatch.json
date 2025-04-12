@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:hotpatch:1.1-12:*:*:*:*:log4j:*:*",
+        "cpeNameId": "6BDD0F80-8299-4F8E-8758-74EFE2BEC1A8",
+        "lastModified": "2022-05-16T03:02:01.230",
+        "created": "2022-04-29T17:24:42.457",
+        "titles": [
+          {
+            "title": "Amazon Hotpatch 1.1-12 for Log4j",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:hotpatch:1.1-16:*:*:*:*:log4j:*:*",
+        "cpeNameId": "AABE7E33-B51A-4F22-A1E4-ABC51ED52446",
+        "lastModified": "2022-05-16T03:02:01.230",
+        "created": "2022-04-29T17:27:23.807",
+        "titles": [
+          {
+            "title": "Amazon Hotpatch 1.1-16 for Log4j",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:hotpatch:-:*:*:*:*:log4j:*:*",
+        "cpeNameId": "AF4C8C10-BAFF-479E-8175-BAEFB1C13BAF",
+        "lastModified": "2022-05-16T03:02:01.230",
+        "created": "2022-04-29T17:27:23.807",
+        "titles": [
+          {
+            "title": "Amazon Hotpatch - for Log4j",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:hotpatch:1.1-12:*:*:*:*:log4j:*:*",
+      "title": "Amazon Hotpatch 1.1-12 for Log4j",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amazon:hotpatch:1.1-16:*:*:*:*:log4j:*:*",
+      "title": "Amazon Hotpatch 1.1-16 for Log4j",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amazon:hotpatch:-:*:*:*:*:log4j:*:*",
+      "title": "Amazon Hotpatch - for Log4j",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

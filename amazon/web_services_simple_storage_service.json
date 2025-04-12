@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:amazon:web_services_simple_storage_service:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8A9806EB-1DAB-44FC-80B9-FF05FF393744",
+        "lastModified": "2021-05-10T15:58:17.340",
+        "created": "2019-01-07T18:40:57.293",
+        "titles": [
+          {
+            "title": "Amazon Web Services Simple Storage Service",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:amazon:amazon_simple_storage_service:-:*:*:*:*:*:*:*",
+            "cpeNameId": "68C77311-56E8-4815-B044-3287E848F407"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:web_services_simple_storage_service:-:*:*:*:*:*:*:*",
+      "title": "Amazon Web Services Simple Storage Service",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:amazon:amazon_simple_storage_service:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

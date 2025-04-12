@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:amazon_cloudfront:-:*:*:*:*:*:*:*",
+        "cpeNameId": "056E0BF5-C4F9-4B01-A4B0-2EE2EA8A94D3",
+        "lastModified": "2021-05-10T15:43:36.050",
+        "created": "2021-05-10T14:39:15.270",
+        "titles": [
+          {
+            "title": "Amazon CloudFront",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amazon:amazon_cloudfront:1.2_2019:*:*:*:*:*:*:*",
+        "cpeNameId": "F4D8475F-1056-4BF9-B8AC-3EDC74EC6C5C",
+        "lastModified": "2021-09-25T13:37:30.007",
+        "created": "2021-08-13T17:39:33.257",
+        "titles": [
+          {
+            "title": "Amazon CloudFront 1.2 2019",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:amazon_cloudfront:-:*:*:*:*:*:*:*",
+      "title": "Amazon CloudFront",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amazon:amazon_cloudfront:1.2_2019:*:*:*:*:*:*:*",
+      "title": "Amazon CloudFront 1.2 2019",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:amazon:web_services_identity_and_access_management:-:*:*:*:*:*:*:*",
+        "cpeNameId": "033C4476-43F1-4A23-B2CB-BEE1C43572D1",
+        "lastModified": "2021-05-10T15:58:17.340",
+        "created": "2019-01-07T15:20:36.797",
+        "titles": [
+          {
+            "title": "Amazon Web Services Identity and Access Management",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:amazon:aws_identity_and_access_management:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BB8FA66B-FD05-4E3A-8E0B-229E31D3B17E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:web_services_identity_and_access_management:-:*:*:*:*:*:*:*",
+      "title": "Amazon Web Services Identity and Access Management",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:amazon:aws_identity_and_access_management:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:amazon:web_services_virtual_private_cloud:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6EF01E03-2395-4F69-A8F2-3CAA2AE175C7",
+        "lastModified": "2021-05-10T15:58:17.340",
+        "created": "2019-01-07T18:40:57.293",
+        "titles": [
+          {
+            "title": "Amazon Web Services Virtual Private Cloud",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:amazon:amazon_virtual_private_cloud:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4EAB6C48-3384-4F93-A265-386F0033C714"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:web_services_virtual_private_cloud:-:*:*:*:*:*:*:*",
+      "title": "Amazon Web Services Virtual Private Cloud",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:amazon:amazon_virtual_private_cloud:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

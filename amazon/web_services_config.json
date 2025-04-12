@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:amazon:web_services_config:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A76886B2-D896-402A-A78F-DB78A6CC49AA",
+        "lastModified": "2021-05-10T15:58:17.340",
+        "created": "2019-01-07T18:40:57.293",
+        "titles": [
+          {
+            "title": "Amazon Web Services Config",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:amazon:aws_config:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4A7EA46D-9BDA-4A28-AA86-3D2DF2919137"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amazon:web_services_config:-:*:*:*:*:*:*:*",
+      "title": "Amazon Web Services Config",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:amazon:aws_config:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
