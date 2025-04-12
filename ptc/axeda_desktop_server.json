@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ptc:axeda_desktop_server:6.9.215:*:*:*:*:windows:*:*",
+        "cpeNameId": "99C01FE2-BE56-429D-B3AE-EF3B6BBB1B41",
+        "lastModified": "2023-09-22T19:01:23.120",
+        "created": "2023-09-22T19:01:23.120",
+        "titles": [
+          {
+            "title": "PTC Axeda Desktop Server 6.9.215 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ptc:axeda_desktop_server:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "07EEBBBA-96D8-462E-A425-BC2A796FEC3E",
+        "lastModified": "2023-09-22T19:01:23.120",
+        "created": "2023-09-22T19:01:23.120",
+        "titles": [
+          {
+            "title": "PTC Axeda Desktop Server for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ptc:axeda_desktop_server:6.9.215:*:*:*:*:windows:*:*",
+      "title": "PTC Axeda Desktop Server 6.9.215 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ptc:axeda_desktop_server:-:*:*:*:*:windows:*:*",
+      "title": "PTC Axeda Desktop Server for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

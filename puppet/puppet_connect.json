@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:puppet:puppet_connect:0.4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F3E80C20-2B8D-4784-9419-CF43A494DBE1",
+        "lastModified": "2022-09-19T13:45:12.617",
+        "created": "2021-11-22T18:50:55.543",
+        "titles": [
+          {
+            "title": "Puppet Connect 0.4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:puppet:puppet_connect:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9723D79D-9E1B-4469-8058-869359601416",
+        "lastModified": "2022-09-19T13:45:12.617",
+        "created": "2021-11-22T18:51:23.990",
+        "titles": [
+          {
+            "title": "Puppet Connect",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:puppet:puppet_connect:0.4.0:*:*:*:*:*:*:*",
+      "title": "Puppet Connect 0.4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:puppet:puppet_connect:-:*:*:*:*:*:*:*",
+      "title": "Puppet Connect",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

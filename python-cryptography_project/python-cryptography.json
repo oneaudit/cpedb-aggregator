@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:python-cryptography_project:python-cryptography:3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "3C378D77-25EF-4929-AC61-60424743C9DE",
+        "lastModified": "2024-09-05T16:10:54.107",
+        "created": "2021-01-19T20:45:31.600",
+        "titles": [
+          {
+            "title": "Python-cryptography Project Python-cryptography 3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cryptography.io:cryptography:3.2:*:*:*:*:python:*:*",
+            "cpeNameId": "E76339BC-6157-42E5-859E-24E7B2686881"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:python-cryptography_project:python-cryptography:3.2:*:*:*:*:*:*:*",
+      "title": "Python-cryptography Project Python-cryptography 3.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cryptography.io:cryptography:3.2:*:*:*:*:python:*:*"
+    }
+  ]
+}

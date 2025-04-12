@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:qnap:qvr_firmware:5.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B0641103-39D4-42EA-832E-BE209D63BB10",
+        "lastModified": "2024-03-20T13:40:01.783",
+        "created": "2024-03-20T13:40:01.783",
+        "titles": [
+          {
+            "title": "QNAP QVR Firmware 5.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:qnap:qvr_firmware:4.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A45F1BB9-7370-4791-8277-3DD380667119",
+        "lastModified": "2024-12-20T15:55:25.187",
+        "created": "2024-12-20T15:55:25.187",
+        "titles": [
+          {
+            "title": "QNAP QVR Firmware 4.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:qnap:qvr_firmware:5.0.0:*:*:*:*:*:*:*",
+      "title": "QNAP QVR Firmware 5.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:qnap:qvr_firmware:4.0.0:*:*:*:*:*:*:*",
+      "title": "QNAP QVR Firmware 4.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

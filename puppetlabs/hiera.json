@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:puppetlabs:hiera:1.3.3:*:*:*:*:*:*:*",
+        "cpeNameId": "E70D5474-6FD3-4252-9D8B-B030FECF8964",
+        "lastModified": "2019-07-11T13:16:03.387",
+        "created": "2014-11-17T18:42:26.280",
+        "titles": [
+          {
+            "title": "Puppet Labs Hiera 1.3.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:puppet:hiera:1.3.3:*:*:*:*:*:*:*",
+            "cpeNameId": "827158EA-45E8-4374-8C84-C3F6F22C77A0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:puppetlabs:hiera:1.3.3:*:*:*:*:*:*:*",
+      "title": "Puppet Labs Hiera 1.3.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:puppet:hiera:1.3.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

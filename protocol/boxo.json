@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:protocol:boxo:0.4.0:*:*:*:*:go:*:*",
+        "cpeNameId": "6D42EDEB-03B3-46AE-996E-67667192E71D",
+        "lastModified": "2023-07-07T12:33:27.383",
+        "created": "2023-05-17T13:50:52.213",
+        "titles": [
+          {
+            "title": "Protocol Boxo 0.4.0 for Go",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:protocol:boxo:0.5.0:*:*:*:*:go:*:*",
+        "cpeNameId": "79DA5BAD-3D5F-4899-8185-4516B48C305A",
+        "lastModified": "2023-07-07T12:33:27.383",
+        "created": "2023-05-17T13:50:52.213",
+        "titles": [
+          {
+            "title": "Protocol Boxo 0.5.0 for Go",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:protocol:boxo:0.4.0:*:*:*:*:go:*:*",
+      "title": "Protocol Boxo 0.4.0 for Go",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:protocol:boxo:0.5.0:*:*:*:*:go:*:*",
+      "title": "Protocol Boxo 0.5.0 for Go",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

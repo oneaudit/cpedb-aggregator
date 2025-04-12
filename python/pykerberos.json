@@ -1,0 +1,141 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:python:pykerberos:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B3EF8AC9-76F0-4A76-B65F-DFF6EE4FB52D",
+        "lastModified": "2018-12-20T18:11:57.657",
+        "created": "2018-12-20T18:09:01.587",
+        "titles": [
+          {
+            "title": "Python Kerberos",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apple:pykerberos:-:*:*:*:*:*:*:*",
+            "cpeNameId": "54A3A462-13A5-4F81-A763-87270C18FF85"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:python:pykerberos:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "80F70D84-7A80-4D53-ABD0-927ED6B6B908",
+        "lastModified": "2018-12-20T18:11:58.623",
+        "created": "2018-12-20T18:09:01.837",
+        "titles": [
+          {
+            "title": "Python Pykerberos 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apple:pykerberos:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "C280E07D-83E9-48F7-847C-F208DE55F15C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:python:pykerberos:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "B6E738A3-8DBF-4618-8AB1-CC1604D64FB4",
+        "lastModified": "2018-12-20T18:11:58.717",
+        "created": "2018-12-20T18:09:01.913",
+        "titles": [
+          {
+            "title": "Python Pykerberos 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apple:pykerberos:1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "4FA041C9-1629-405A-8C82-4AAEF1C90D4C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:python:pykerberos:1.2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "0619E830-3EDE-48CB-BC03-5A5E26AB51CD",
+        "lastModified": "2018-12-20T18:11:58.810",
+        "created": "2018-12-20T18:09:02.007",
+        "titles": [
+          {
+            "title": "Python Pykerberos 1.2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apple:pykerberos:1.2.5:*:*:*:*:*:*:*",
+            "cpeNameId": "A9300C99-C3CF-410C-A5C6-0A098C48AF00"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:python:pykerberos:1.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "38437D35-9CF7-4B02-9800-3D9CA2723066",
+        "lastModified": "2018-12-20T18:11:58.907",
+        "created": "2018-12-20T18:09:02.087",
+        "titles": [
+          {
+            "title": "Python Pykerberos 1.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apple:pykerberos:1.3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "E07FED2A-9B3E-4AEA-B5B3-0B4E8D12AA2B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:python:pykerberos:-:*:*:*:*:*:*:*",
+      "title": "Python Kerberos",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apple:pykerberos:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:python:pykerberos:1.0:*:*:*:*:*:*:*",
+      "title": "Python Pykerberos 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apple:pykerberos:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:python:pykerberos:1.1:*:*:*:*:*:*:*",
+      "title": "Python Pykerberos 1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apple:pykerberos:1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:python:pykerberos:1.2.5:*:*:*:*:*:*:*",
+      "title": "Python Pykerberos 1.2.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apple:pykerberos:1.2.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:python:pykerberos:1.3.0:*:*:*:*:*:*:*",
+      "title": "Python Pykerberos 1.3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apple:pykerberos:1.3.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

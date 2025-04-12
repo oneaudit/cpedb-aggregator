@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:python:cpython:3.12.0:alpha_7:*:*:*:*:*:*",
+        "cpeNameId": "426F7C8B-F276-4F97-AA37-36AB26EBDFCC",
+        "lastModified": "2023-12-08T17:03:52.743",
+        "created": "2023-12-01T15:29:36.947",
+        "titles": [
+          {
+            "title": "Python Cpython 3.12.0 Alpha 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:python:python:3.12.0:alpha7:*:*:*:*:*:*",
+            "cpeNameId": "87297D3E-E31A-417C-AE95-5E5A5FBF8798"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:python:cpython:3.12.0:alpha_7:*:*:*:*:*:*",
+      "title": "Python Cpython 3.12.0 Alpha 7",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:python:python:3.12.0:alpha7:*:*:*:*:*:*"
+    }
+  ]
+}

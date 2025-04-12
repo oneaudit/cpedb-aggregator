@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:qualcomm:ipq8064__firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "482B8ECF-89AF-4132-ACD8-4546714BE19A",
+        "lastModified": "2021-04-14T13:15:52.550",
+        "created": "2019-05-07T16:57:52.227",
+        "titles": [
+          {
+            "title": "Qualcomm Ipq8064  Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:qualcomm:ipq8064_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A8084747-8EA9-4F64-B707-E18D9C0DB5E3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:qualcomm:ipq8064__firmware:-:*:*:*:*:*:*:*",
+      "title": "Qualcomm Ipq8064  Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:qualcomm:ipq8064_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

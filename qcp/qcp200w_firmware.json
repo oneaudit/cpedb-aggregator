@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:qcp:qcp200w_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C32AC577-C8FC-4B0A-B175-9A57C2A3D3FC",
+        "lastModified": "2023-08-30T12:55:38.123",
+        "created": "2022-04-26T17:39:56.090",
+        "titles": [
+          {
+            "title": "QCP QCP200W Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:qcp:qcp200w_firmware:-:*:*:*:*:android:*:*",
+        "cpeNameId": "6717106D-7CE4-4933-A8DA-146DAA54A409",
+        "lastModified": "2022-10-11T18:30:19.760",
+        "created": "2022-04-27T18:10:35.523",
+        "titles": [
+          {
+            "title": "QCP QCP200W Firmware for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:qcp:qcp200w_firmware:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "E88D5302-D584-4B88-B4AF-8C91B827403A",
+        "lastModified": "2022-10-11T18:30:19.760",
+        "created": "2022-04-27T18:10:35.523",
+        "titles": [
+          {
+            "title": "QCP QCP200W Firmware for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:qcp:qcp200w_firmware:-:*:*:*:*:*:*:*",
+      "title": "QCP QCP200W Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:qcp:qcp200w_firmware:-:*:*:*:*:android:*:*",
+      "title": "QCP QCP200W Firmware for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:qcp:qcp200w_firmware:-:*:*:*:*:windows:*:*",
+      "title": "QCP QCP200W Firmware for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

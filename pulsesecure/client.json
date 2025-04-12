@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pulsesecure:client:-:*:*:*:*:android:*:*",
+        "cpeNameId": "8FDE57B3-30CC-46F2-86F1-FF31D194CB20",
+        "lastModified": "2016-05-25T16:53:58.730",
+        "created": "2016-05-25T16:53:58.730",
+        "titles": [
+          {
+            "title": "Pulse Secure Client for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pulsesecure:client:-:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "90A65445-AA39-4644-ADF4-CB505E2BED88",
+        "lastModified": "2016-05-25T16:53:58.760",
+        "created": "2016-05-25T16:53:58.760",
+        "titles": [
+          {
+            "title": "Pulse Secure Client for iOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pulsesecure:client:-:*:*:*:*:android:*:*",
+      "title": "Pulse Secure Client for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:pulsesecure:client:-:*:*:*:*:iphone_os:*:*",
+      "title": "Pulse Secure Client for iOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

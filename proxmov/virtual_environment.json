@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:proxmov:virtual_environment:3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "F7CC5BE4-AD8C-4CAE-A71B-A8D234BF432A",
+        "lastModified": "2021-01-25T14:08:25.983",
+        "created": "2020-01-30T19:02:45.903",
+        "titles": [
+          {
+            "title": "Proxmov Virtual Environment 3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:proxmox:virtual_environment:3.2:*:*:*:*:*:*:*",
+            "cpeNameId": "7D508BCD-966C-4458-97E9-E1EC4E32365E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:proxmov:virtual_environment:3.2:*:*:*:*:*:*:*",
+      "title": "Proxmov Virtual Environment 3.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:proxmox:virtual_environment:3.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

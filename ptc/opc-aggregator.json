@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ptc:opc-aggregator:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6DE222A7-400E-4FA7-A789-7D1554647830",
+        "lastModified": "2021-08-17T16:32:35.333",
+        "created": "2021-01-20T23:11:12.987",
+        "titles": [
+          {
+            "title": "PTC OPC-Aggregator",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ptc:opc-aggregator:6.12:*:*:*:*:*:*:*",
+        "cpeNameId": "453B2F67-C6FE-4847-A60C-DC510E456AD2",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "PTC OPC-Aggregator 6.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ptc:opc-aggregator:-:*:*:*:*:*:*:*",
+      "title": "PTC OPC-Aggregator",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ptc:opc-aggregator:6.12:*:*:*:*:*:*:*",
+      "title": "PTC OPC-Aggregator 6.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

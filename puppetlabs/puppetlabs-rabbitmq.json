@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:puppetlabs:puppetlabs-rabbitmq:3.0.0:*:*:*:*:puppet:*:*",
+        "cpeNameId": "D533234D-7186-4726-8177-7339AD66BAF9",
+        "lastModified": "2019-07-11T14:35:30.157",
+        "created": "2015-02-04T14:34:29.663",
+        "titles": [
+          {
+            "title": "Puppetlabs RabbitMQ for Puppet 3.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:voxpupuli:rabbitmq:3.0.0:-:*:*:*:puppet:*:*",
+            "cpeNameId": "2FF2B7FA-07D6-4EBE-9C72-3D743C827C4C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:puppetlabs:puppetlabs-rabbitmq:3.1.0:*:*:*:*:puppet:*:*",
+        "cpeNameId": "F02FE3E1-6727-4DF7-95BC-74AFAA9E4D81",
+        "lastModified": "2019-07-11T14:35:32.233",
+        "created": "2015-02-04T14:34:29.663",
+        "titles": [
+          {
+            "title": "Puppetlabs RabbitMQ for Puppet 3.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:voxpupuli:rabbitmq:3.1.0:*:*:*:*:puppet:*:*",
+            "cpeNameId": "42D16A42-F497-4484-89C9-77861E84661E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:puppetlabs:puppetlabs-rabbitmq:4.0.0:*:*:*:*:puppet:*:*",
+        "cpeNameId": "444F4D9E-7C86-4030-9121-7C68CC6AFA06",
+        "lastModified": "2019-07-11T14:35:34.217",
+        "created": "2015-02-04T14:34:29.663",
+        "titles": [
+          {
+            "title": "Puppetlabs RabbitMQ for Puppet 4.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:voxpupuli:rabbitmq:4.0.0:*:*:*:*:puppet:*:*",
+            "cpeNameId": "A5E11E77-BB34-417F-AEC4-310EBC6ABEA7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:puppetlabs:puppetlabs-rabbitmq:3.0.0:*:*:*:*:puppet:*:*",
+      "title": "Puppetlabs RabbitMQ for Puppet 3.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:voxpupuli:rabbitmq:3.0.0:-:*:*:*:puppet:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:puppetlabs:puppetlabs-rabbitmq:3.1.0:*:*:*:*:puppet:*:*",
+      "title": "Puppetlabs RabbitMQ for Puppet 3.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:voxpupuli:rabbitmq:3.1.0:*:*:*:*:puppet:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:puppetlabs:puppetlabs-rabbitmq:4.0.0:*:*:*:*:puppet:*:*",
+      "title": "Puppetlabs RabbitMQ for Puppet 4.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:voxpupuli:rabbitmq:4.0.0:*:*:*:*:puppet:*:*"
+    }
+  ]
+}

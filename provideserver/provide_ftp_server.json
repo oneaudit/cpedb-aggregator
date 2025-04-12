@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:provideserver:provide_ftp_server:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "A4EE58D9-F467-49C9-B8AA-A0FCB1C3A790",
+        "lastModified": "2020-04-14T20:13:41.073",
+        "created": "2020-04-14T20:13:41.073",
+        "titles": [
+          {
+            "title": "Provideserver ProVide FTP Server for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:provideserver:provide_ftp_server:13.1:*:*:*:*:windows:*:*",
+        "cpeNameId": "4C3DD43F-A9D2-4D7F-937A-8B61563B8E91",
+        "lastModified": "2020-04-14T20:13:41.337",
+        "created": "2020-04-14T20:13:41.337",
+        "titles": [
+          {
+            "title": "Provideserver ProVide FTP Server 13.1 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:provideserver:provide_ftp_server:-:*:*:*:*:windows:*:*",
+      "title": "Provideserver ProVide FTP Server for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:provideserver:provide_ftp_server:13.1:*:*:*:*:windows:*:*",
+      "title": "Provideserver ProVide FTP Server 13.1 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

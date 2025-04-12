@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:qlik:qlikview:12.60.20100.0:*:*:*:*:*:*:.",
+        "cpeNameId": "C1D4CB90-EEEB-430D-9C13-277186C1130F",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-01-31T18:23:07.077",
+        "titles": [
+          {
+            "title": "Qlik Qlikview 12.60.20100.0 .",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:qlik:qlikview:-:*:*:*:*:*:*:.",
+        "cpeNameId": "44F159A3-B505-4E4B-B126-FE3844FAA48F",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-01-31T18:23:07.077",
+        "titles": [
+          {
+            "title": "Qlik Qlikview - .",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:qlik:qlikview:12.60:*:*:*:*:*:*:*",
+        "cpeNameId": "D39ED0AB-6E6D-48DD-8398-18EC4CEF13D2",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-03-10T15:34:04.533",
+        "titles": [
+          {
+            "title": "Qlik QlikView 12.60",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:qlik:qlikview:12.60.20100.0:*:*:*:*:*:*:.",
+      "title": "Qlik Qlikview 12.60.20100.0 .",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:qlik:qlikview:-:*:*:*:*:*:*:.",
+      "title": "Qlik Qlikview - .",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:qlik:qlikview:12.60:*:*:*:*:*:*:*",
+      "title": "Qlik QlikView 12.60",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:qsan:storage_manager:3.3.3:*:*:*:*:*:*:*",
+        "cpeNameId": "6D1385D7-FF30-4D78-9121-2EC9485DC45E",
+        "lastModified": "2021-08-25T16:28:55.537",
+        "created": "2021-07-09T16:00:44.507",
+        "titles": [
+          {
+            "title": "QSAN Technology Storage Manager (QSM) 3.3.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:qsan:storage_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "24295418-4B4F-4048-B905-1042E8B718C7",
+        "lastModified": "2021-08-25T16:28:55.537",
+        "created": "2021-07-09T17:00:01.540",
+        "titles": [
+          {
+            "title": "QSAN Technology Storage Manager (QSM)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:qsan:storage_manager:3.3.3:*:*:*:*:*:*:*",
+      "title": "QSAN Technology Storage Manager (QSM) 3.3.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:qsan:storage_manager:-:*:*:*:*:*:*:*",
+      "title": "QSAN Technology Storage Manager (QSM)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

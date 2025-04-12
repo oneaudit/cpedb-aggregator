@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:puppetlabs:puppet_server:0.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FF9EC366-2077-446F-B2B6-0D60AD2E52D2",
+        "lastModified": "2019-07-11T14:03:33.650",
+        "created": "2014-12-18T15:21:43.390",
+        "titles": [
+          {
+            "title": "PuppetLabs Puppet Server 0.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:puppet:puppet_server:0.2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "30E2D71D-72B5-4A14-B6CA-65AFBC19FDBF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:puppetlabs:puppet_server:0.2.0:*:*:*:*:*:*:*",
+      "title": "PuppetLabs Puppet Server 0.2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:puppet:puppet_server:0.2.0:*:*:*:*:*:*:*"
+    }
+  ]
+}
