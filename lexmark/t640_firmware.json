@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:t640_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "02E28028-07F3-4E01-A490-E0965852D071",
+        "lastModified": "2020-04-14T14:15:32.900",
+        "created": "2020-04-14T14:15:32.900",
+        "titles": [
+          {
+            "title": "Lexmark T640 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:t640_firmware:ls.st.p240s:*:*:*:*:*:*:*",
+        "cpeNameId": "7579AD7F-FC8E-4DF5-8B2A-CD992E088721",
+        "lastModified": "2020-04-14T14:15:33.507",
+        "created": "2020-04-14T14:15:33.507",
+        "titles": [
+          {
+            "title": "Lexmark T640 Firmware LS.ST.P240S",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lexmark:t640_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lexmark T640 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lexmark:t640_firmware:ls.st.p240s:*:*:*:*:*:*:*",
+      "title": "Lexmark T640 Firmware LS.ST.P240S",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

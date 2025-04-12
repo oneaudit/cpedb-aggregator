@@ -1,0 +1,110 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:linecorp:line\\@:1.2.1:*:*:*:*:android:*:*",
+        "cpeNameId": "83D98BD2-AB97-4414-B9AB-D926E871D26B",
+        "lastModified": "2015-07-15T17:33:56.633",
+        "created": "2015-07-15T17:30:58.120",
+        "titles": [
+          {
+            "title": "LINE LINE@ for Android 1.2.1",
+            "lang": "ja"
+          },
+          {
+            "title": "LINE LINE@ for Android 1.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:linecorp:line\\@:1.2.1:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "F581F64F-893B-4225-AA95-F7C871AD12CE",
+        "lastModified": "2015-07-15T17:33:56.713",
+        "created": "2015-07-15T17:30:58.307",
+        "titles": [
+          {
+            "title": "LINE LINE@ for iOS 1.2.1",
+            "lang": "ja"
+          },
+          {
+            "title": "LINE LINE@ for iOS 1.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:linecorp:line\\@:1.0.0:*:*:*:*:android:*:*",
+        "cpeNameId": "83CB9C63-B8A1-4A6F-A50B-3B19A5FCAD8F",
+        "lastModified": "2015-07-15T17:33:56.807",
+        "created": "2015-07-15T17:30:58.403",
+        "titles": [
+          {
+            "title": "LINE LINE@ for Android 1.0.0",
+            "lang": "en"
+          },
+          {
+            "title": "LINE LINE@ for Android 1.0.0",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:linecorp:line\\@:1.0.0:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "E3E131A3-5BAD-4B82-99C0-AD5C631D6271",
+        "lastModified": "2015-07-15T17:33:56.900",
+        "created": "2015-07-15T17:30:58.497",
+        "titles": [
+          {
+            "title": "LINE LINE@ for iOS 1.0.0",
+            "lang": "ja"
+          },
+          {
+            "title": "LINE LINE@ for iOS 1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:linecorp:line\\@:1.2.1:*:*:*:*:android:*:*",
+      "title": "LINE LINE@ for Android 1.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:linecorp:line\\@:1.2.1:*:*:*:*:iphone_os:*:*",
+      "title": "LINE LINE@ for iOS 1.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:linecorp:line\\@:1.0.0:*:*:*:*:android:*:*",
+      "title": "LINE LINE@ for Android 1.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:linecorp:line\\@:1.0.0:*:*:*:*:iphone_os:*:*",
+      "title": "LINE LINE@ for iOS 1.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

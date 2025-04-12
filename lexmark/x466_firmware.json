@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:x466_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "946065BF-34D3-4587-84BB-E757B6AD7352",
+        "lastModified": "2020-03-31T16:03:32.607",
+        "created": "2020-03-31T16:03:32.607",
+        "titles": [
+          {
+            "title": "Lexmark X466 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lexmark:x466_firmware:lr.bs.p224a:*:*:*:*:*:*:*",
+        "cpeNameId": "98E4842A-FD37-4038-8C61-76453677B7FB",
+        "lastModified": "2020-03-31T16:03:32.997",
+        "created": "2020-03-31T16:03:32.997",
+        "titles": [
+          {
+            "title": "Lexmark X466 Firmware LR.BS.P224a",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lexmark:x466_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lexmark X466 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lexmark:x466_firmware:lr.bs.p224a:*:*:*:*:*:*:*",
+      "title": "Lexmark X466 Firmware LR.BS.P224a",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

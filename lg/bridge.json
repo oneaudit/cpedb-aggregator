@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lg:bridge:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "C4BB6738-F6A3-43C5-A3DC-B007F15F8104",
+        "lastModified": "2021-03-31T18:05:15.920",
+        "created": "2020-05-05T15:01:53.657",
+        "titles": [
+          {
+            "title": "LG Bridge for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lg:bridge:-:*:*:*:*:-:*:*",
+        "cpeNameId": "E351D8B8-AE5B-4F52-8953-42CA8334618D",
+        "lastModified": "2021-03-31T18:05:15.920",
+        "created": "2020-05-05T15:01:53.657",
+        "titles": [
+          {
+            "title": "LG Bridge",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lg:bridge:-:*:*:*:*:windows:*:*",
+      "title": "LG Bridge for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lg:bridge:-:*:*:*:*:-:*:*",
+      "title": "LG Bridge",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

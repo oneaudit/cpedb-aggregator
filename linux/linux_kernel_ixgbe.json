@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:linux:linux_kernel_ixgbe:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E4C0FED2-6A80-4BBB-AF2D-7DD8F9EED90F",
+        "lastModified": "2021-06-23T18:37:45.510",
+        "created": "2018-02-13T18:11:16.510",
+        "titles": [
+          {
+            "title": "Linux Kernel IXGBE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:linux:linux_kernel_ixgbe:5.7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "90B8A596-7A33-4F7D-9486-8AACD3374514",
+        "lastModified": "2022-03-22T17:54:15.553",
+        "created": "2022-03-22T16:48:53.020",
+        "titles": [
+          {
+            "title": "Linux Kernel IXGBE 5.7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:linux:linux_kernel_ixgbe:-:*:*:*:*:*:*:*",
+      "title": "Linux Kernel IXGBE",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:linux:linux_kernel_ixgbe:5.7.1:*:*:*:*:*:*:*",
+      "title": "Linux Kernel IXGBE 5.7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

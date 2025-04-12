@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:linuxfoundation:nats.ws:-:*:*:*:*:*:*:*",
+        "cpeNameId": "301A1588-9A6A-4B9E-AB68-C67951964676",
+        "lastModified": "2020-10-20T16:59:12.383",
+        "created": "2020-10-20T16:59:12.383",
+        "titles": [
+          {
+            "title": "The Linux Foundation NATS.ws",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:linuxfoundation:nats.ws:1.0.0-111:*:*:*:*:*:*:*",
+        "cpeNameId": "FEBF7164-3429-4246-A557-848DB00D1991",
+        "lastModified": "2020-10-20T16:59:12.977",
+        "created": "2020-10-20T16:59:12.977",
+        "titles": [
+          {
+            "title": "The Linux Foundation NATS.ws 1.0.0-111",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:linuxfoundation:nats.ws:-:*:*:*:*:*:*:*",
+      "title": "The Linux Foundation NATS.ws",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:linuxfoundation:nats.ws:1.0.0-111:*:*:*:*:*:*:*",
+      "title": "The Linux Foundation NATS.ws 1.0.0-111",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

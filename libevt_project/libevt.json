@@ -1,0 +1,121 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:libevt_project:libevt:2019-12-21:alpha:*:*:*:*:*:*",
+        "cpeNameId": "6E80BD64-6543-4A6C-B049-260CD505E968",
+        "lastModified": "2020-06-17T13:13:28.567",
+        "created": "2020-03-12T16:28:55.250",
+        "titles": [
+          {
+            "title": "libEVT Project libEVT 2019-12-21 Alpha",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:libevt_project:libevt:20191221:alpha:*:*:*:*:*:*",
+            "cpeNameId": "8E33F15E-5830-4BE6-8515-84F0AF1E604E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:libevt_project:libevt:20180125:*:*:*:*:*:*:*",
+        "cpeNameId": "8BFC398A-3A0B-4E1F-A87F-4078F88C3312",
+        "lastModified": "2020-06-17T13:13:28.287",
+        "created": "2020-06-17T13:13:28.287",
+        "titles": [
+          {
+            "title": "libevt Project libevt 20180125",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:libevt_project:libevt:20180317:*:*:*:*:*:*:*",
+        "cpeNameId": "F6D80AF5-B2D1-400C-86FA-CDC5914C3B6C",
+        "lastModified": "2020-06-17T13:13:28.363",
+        "created": "2020-06-17T13:13:28.363",
+        "titles": [
+          {
+            "title": "libevt Project libevt 20180317",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:libevt_project:libevt:20191221:alpha:*:*:*:*:*:*",
+        "cpeNameId": "8E33F15E-5830-4BE6-8515-84F0AF1E604E",
+        "lastModified": "2020-06-17T13:13:28.427",
+        "created": "2020-06-17T13:13:28.427",
+        "titles": [
+          {
+            "title": "libevt Project libevt 20191221 Alpha",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:libevt_project:libevt:20200418:alpha:*:*:*:*:*:*",
+        "cpeNameId": "5976624C-508F-4062-ADE6-0115063B9970",
+        "lastModified": "2020-06-17T13:13:28.507",
+        "created": "2020-06-17T13:13:28.507",
+        "titles": [
+          {
+            "title": "libevt Project libevt 20200418 Alpha",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:libevt_project:libevt:2019-12-21:alpha:*:*:*:*:*:*",
+      "title": "libEVT Project libEVT 2019-12-21 Alpha",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:libevt_project:libevt:20191221:alpha:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:libevt_project:libevt:20180125:*:*:*:*:*:*:*",
+      "title": "libevt Project libevt 20180125",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:libevt_project:libevt:20180317:*:*:*:*:*:*:*",
+      "title": "libevt Project libevt 20180317",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:libevt_project:libevt:20191221:alpha:*:*:*:*:*:*",
+      "title": "libevt Project libevt 20191221 Alpha",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:libevt_project:libevt:20200418:alpha:*:*:*:*:*:*",
+      "title": "libevt Project libevt 20200418 Alpha",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

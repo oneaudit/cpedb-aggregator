@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:line:line:5.0.0:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "086D7778-8C6A-4DC8-84B2-DA80F27861FA",
+        "lastModified": "2023-11-25T04:35:20.817",
+        "created": "2023-11-25T04:35:20.817",
+        "titles": [
+          {
+            "title": "Line Line 5.0.0 for Iphone Os",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:line:line:5.0.2:*:*:*:*:android:*:*",
+        "cpeNameId": "24A41550-7589-4B22-9FCC-7A64881A6036",
+        "lastModified": "2023-11-25T04:35:20.817",
+        "created": "2023-11-25T04:35:20.817",
+        "titles": [
+          {
+            "title": "Line Line 5.0.2 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:line:line:-:*:*:*:*:android:*:*",
+        "cpeNameId": "D74595D6-E86E-4388-B984-2F275FFA061E",
+        "lastModified": "2023-11-25T04:35:20.817",
+        "created": "2023-11-25T04:35:20.817",
+        "titles": [
+          {
+            "title": "Line for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:line:line:5.0.0:*:*:*:*:iphone_os:*:*",
+      "title": "Line Line 5.0.0 for Iphone Os",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:line:line:5.0.2:*:*:*:*:android:*:*",
+      "title": "Line Line 5.0.2 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:line:line:-:*:*:*:*:android:*:*",
+      "title": "Line for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

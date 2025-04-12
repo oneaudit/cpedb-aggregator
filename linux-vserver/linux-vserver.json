@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:linux-vserver:linux-vserver:1.9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8B14A520-7783-4B86-B196-D16533756F82",
+        "lastModified": "2020-10-09T17:13:05.617",
+        "created": "2020-10-09T17:13:05.617",
+        "titles": [
+          {
+            "title": "Linux-vserver 1.9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:linux-vserver:linux-vserver:2.6.17:*:*:*:*:*:*:*",
+        "cpeNameId": "FD029873-BAC4-4890-8ED7-A59A1220AD43",
+        "lastModified": "2020-10-09T17:13:05.740",
+        "created": "2020-10-09T17:13:05.740",
+        "titles": [
+          {
+            "title": "Linux-vserver 2.6.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:linux-vserver:linux-vserver:1.9.0:*:*:*:*:*:*:*",
+      "title": "Linux-vserver 1.9.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:linux-vserver:linux-vserver:2.6.17:*:*:*:*:*:*:*",
+      "title": "Linux-vserver 2.6.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
