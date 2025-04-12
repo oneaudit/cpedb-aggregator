@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:zyzel:nas520:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F8F7672B-C5CF-4FFB-8140-75D639038174",
+        "lastModified": "2022-02-09T16:51:32.607",
+        "created": "2020-09-09T11:28:13.970",
+        "titles": [
+          {
+            "title": "Zyzel NAS520",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:zyxel:nas520:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5ADDF554-6A49-408D-8FC0-66C36215A6E9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:zyzel:nas520:-:*:*:*:*:*:*:*",
+      "title": "Zyzel NAS520",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:zyxel:nas520:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

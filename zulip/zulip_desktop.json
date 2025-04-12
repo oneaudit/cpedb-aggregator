@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:zulip:zulip_desktop:5.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CA6C96DF-0F11-4B34-8348-2CD86C1AD002",
+        "lastModified": "2020-05-12T17:39:02.283",
+        "created": "2020-05-12T12:09:37.710",
+        "titles": [
+          {
+            "title": "Zulip Desktop 5.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:zulipchat:zulip_desktop:5.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "49EA18CC-96A0-4DA7-B77B-107A6EB0BCAF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:zulip:zulip_desktop:5.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "203124AE-74F8-44AA-B0C4-2BEACA35133B",
+        "lastModified": "2020-05-12T17:39:02.440",
+        "created": "2020-05-12T12:09:37.803",
+        "titles": [
+          {
+            "title": "Zulip Desktop 5.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:zulipchat:zulip_desktop:5.2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "67D94027-426B-4706-AE8A-DAA4473B533F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:zulip:zulip_desktop:5.1.0:*:*:*:*:*:*:*",
+      "title": "Zulip Desktop 5.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:zulipchat:zulip_desktop:5.1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:zulip:zulip_desktop:5.2.0:*:*:*:*:*:*:*",
+      "title": "Zulip Desktop 5.2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:zulipchat:zulip_desktop:5.2.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

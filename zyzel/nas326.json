@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:zyzel:nas326:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AABC1606-6BFE-4855-BA55-CB130532A74C",
+        "lastModified": "2022-02-09T16:51:32.607",
+        "created": "2020-09-09T11:28:13.593",
+        "titles": [
+          {
+            "title": "Zyzel NAS326",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:zyxel:nas326:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BB5417BC-2135-4860-A0E9-63857BA40695"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:zyzel:nas326:-:*:*:*:*:*:*:*",
+      "title": "Zyzel NAS326",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:zyxel:nas326:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

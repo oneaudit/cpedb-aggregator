@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:zyxel:zld_firmware:4.30:*:*:*:*:*:*:*",
+        "cpeNameId": "4004C017-CD8C-4B66-A2E5-B2109DCC6BF6",
+        "lastModified": "2024-12-12T16:23:24.480",
+        "created": "2021-01-12T18:00:52.077",
+        "titles": [
+          {
+            "title": "Zyxel ZLD Firmware 4.30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:zyxel:zld:4.30:*:*:*:*:*:*:*",
+            "cpeNameId": "5F249BFA-79BE-4D13-8540-8B02E99A2657"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:zyxel:zld_firmware:4.55:*:*:*:*:*:*:*",
+        "cpeNameId": "7249AAA4-A2A5-481E-A08C-C61A8185BA18",
+        "lastModified": "2024-12-12T16:23:24.480",
+        "created": "2021-01-12T18:00:52.233",
+        "titles": [
+          {
+            "title": "Zyxel ZLD Firmware 4.55",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:zyxel:zld:4.55:*:*:*:*:*:*:*",
+            "cpeNameId": "831B8777-5FB3-4106-8810-D9B51E689709"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:zyxel:zld_firmware:4.30:*:*:*:*:*:*:*",
+      "title": "Zyxel ZLD Firmware 4.30",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:zyxel:zld:4.30:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:zyxel:zld_firmware:4.55:*:*:*:*:*:*:*",
+      "title": "Zyxel ZLD Firmware 4.55",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:zyxel:zld:4.55:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zyxel:usg_flex_100ax_firmware:5.37:-:*:*:*:*:*:*",
+        "cpeNameId": "22778F34-09AE-499F-9FC1-3768622A1B39",
+        "lastModified": "2025-01-24T12:06:29.920",
+        "created": "2025-01-24T12:06:29.920",
+        "titles": [
+          {
+            "title": "ZYXEL USG FLEX 100AX FIRMWARE 5.37 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zyxel:usg_flex_100ax_firmware:5.37:patch1:*:*:*:*:*:*",
+        "cpeNameId": "DEDED3A5-85F1-4636-AB7D-989C24B7BC7F",
+        "lastModified": "2025-01-24T12:06:29.920",
+        "created": "2025-01-24T12:06:29.920",
+        "titles": [
+          {
+            "title": "ZYXEL USG FLEX 100AX FIRMWARE 5.37 Patch 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zyxel:usg_flex_100ax_firmware:4.50:*:*:*:*:*:*:*",
+        "cpeNameId": "12D522BD-1D9E-4E91-8285-1C4BB8E43E36",
+        "lastModified": "2025-01-24T12:06:29.920",
+        "created": "2025-01-24T12:06:29.920",
+        "titles": [
+          {
+            "title": "Zyxel USG FLEX 100AX FIRMWARE 4.50",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:zyxel:usg_flex_100ax_firmware:5.37:-:*:*:*:*:*:*",
+      "title": "ZYXEL USG FLEX 100AX FIRMWARE 5.37 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:zyxel:usg_flex_100ax_firmware:5.37:patch1:*:*:*:*:*:*",
+      "title": "ZYXEL USG FLEX 100AX FIRMWARE 5.37 Patch 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:zyxel:usg_flex_100ax_firmware:4.50:*:*:*:*:*:*:*",
+      "title": "Zyxel USG FLEX 100AX FIRMWARE 4.50",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

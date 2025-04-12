@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zyxel:nxc2500_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D6057C63-2281-44EF-885D-C67D54BED83B",
+        "lastModified": "2022-06-06T17:04:22.433",
+        "created": "2022-06-06T14:02:05.557",
+        "titles": [
+          {
+            "title": "Zyxel NXC2500 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zyxel:nxc2500_firmware:6.10\\(aaig.0\\):*:*:*:*:*:*:*",
+        "cpeNameId": "933464A5-8AF6-463F-A2BC-E96FE2D60989",
+        "lastModified": "2023-08-04T19:55:06.350",
+        "created": "2023-07-26T15:11:48.573",
+        "titles": [
+          {
+            "title": "Zyxel NXC2500 Firmware 6.10(AAIG.0)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zyxel:nxc2500_firmware:6.10\\(aaig.3\\):*:*:*:*:*:*:*",
+        "cpeNameId": "F6A68DE4-0FCF-4784-959D-A85F7C6C82F0",
+        "lastModified": "2023-08-04T19:55:06.350",
+        "created": "2023-07-26T15:11:48.573",
+        "titles": [
+          {
+            "title": "Zyxel NXC2500 Firmware 6.10(AAIG.3)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:zyxel:nxc2500_firmware:-:*:*:*:*:*:*:*",
+      "title": "Zyxel NXC2500 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:zyxel:nxc2500_firmware:6.10\\(aaig.0\\):*:*:*:*:*:*:*",
+      "title": "Zyxel NXC2500 Firmware 6.10(AAIG.0)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:zyxel:nxc2500_firmware:6.10\\(aaig.3\\):*:*:*:*:*:*:*",
+      "title": "Zyxel NXC2500 Firmware 6.10(AAIG.3)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

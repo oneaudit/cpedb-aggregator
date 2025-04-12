@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zyxel:ex5600-t1_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8AEB80DF-B226-4900-B8A5-447C9DD182C6",
+        "lastModified": "2023-01-18T14:47:27.790",
+        "created": "2023-01-17T17:21:24.937",
+        "titles": [
+          {
+            "title": "Zyxel EX5600-T1 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zyxel:ex5600-t1_firmware:5.70\\(acdz.2\\)c0:*:*:*:*:*:*:*",
+        "cpeNameId": "C20F22EB-7DDE-4FC9-9417-CDEC44279F16",
+        "lastModified": "2025-01-24T12:06:29.920",
+        "created": "2025-01-24T12:06:29.920",
+        "titles": [
+          {
+            "title": "Zyxel EX5600-T1 FIRMWARE 5.70(ACDZ.2)C0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zyxel:ex5600-t1_firmware:5.70\\(acdz.3.4\\)c0:*:*:*:*:*:*:*",
+        "cpeNameId": "7048765F-7EA3-4298-BF47-9E18855E94D6",
+        "lastModified": "2025-01-24T12:06:29.920",
+        "created": "2025-01-24T12:06:29.920",
+        "titles": [
+          {
+            "title": "Zyxel EX5600-T1 FIRMWARE 5.70(ACDZ.3.4)C0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:zyxel:ex5600-t1_firmware:-:*:*:*:*:*:*:*",
+      "title": "Zyxel EX5600-T1 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:zyxel:ex5600-t1_firmware:5.70\\(acdz.2\\)c0:*:*:*:*:*:*:*",
+      "title": "Zyxel EX5600-T1 FIRMWARE 5.70(ACDZ.2)C0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:zyxel:ex5600-t1_firmware:5.70\\(acdz.3.4\\)c0:*:*:*:*:*:*:*",
+      "title": "Zyxel EX5600-T1 FIRMWARE 5.70(ACDZ.3.4)C0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

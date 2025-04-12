@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zyxel:nas520_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F805EC10-CEC4-4651-AC98-F2DE6C842CBF",
+        "lastModified": "2021-05-03T20:19:38.453",
+        "created": "2020-03-05T20:09:31.240",
+        "titles": [
+          {
+            "title": "Zyxel NAS520 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zyxel:nas520_firmware:5.21\\(aasz.3\\)c0:*:*:*:*:*:*:*",
+        "cpeNameId": "EB54CBCA-89E2-49AE-8B35-F95C814C2925",
+        "lastModified": "2021-05-03T20:19:38.453",
+        "created": "2020-03-05T20:09:31.240",
+        "titles": [
+          {
+            "title": "Zyxel NAS520 Firmware 5.21(AASZ.3)C0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zyxel:nas520_firmware:v5.21\\(aasz.5\\)c0:*:*:*:*:*:*:*",
+        "cpeNameId": "A456BE35-643A-44CA-8B4F-48F6E1C86185",
+        "lastModified": "2022-02-09T16:51:32.607",
+        "created": "2022-02-09T16:27:35.913",
+        "titles": [
+          {
+            "title": "Zyxel NAS520 Firmware V5.21(AASZ.5)C0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:zyxel:nas520_firmware:-:*:*:*:*:*:*:*",
+      "title": "Zyxel NAS520 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:zyxel:nas520_firmware:5.21\\(aasz.3\\)c0:*:*:*:*:*:*:*",
+      "title": "Zyxel NAS520 Firmware 5.21(AASZ.3)C0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:zyxel:nas520_firmware:v5.21\\(aasz.5\\)c0:*:*:*:*:*:*:*",
+      "title": "Zyxel NAS520 Firmware V5.21(AASZ.5)C0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
