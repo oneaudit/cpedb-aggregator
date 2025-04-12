@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:enhanced_internet_usage_manager:9.0:fp1:*:*:*:*:*:*",
+        "cpeNameId": "9267BF54-F11F-43EA-AECA-EC73854ADA50",
+        "lastModified": "2018-11-19T16:14:58.227",
+        "created": "2018-11-19T16:14:58.227",
+        "titles": [
+          {
+            "title": "HP Enhanced Internet Usage Manager 9.0 FP1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:enhanced_internet_usage_manager:8.3:*:*:*:*:*:*:*",
+        "cpeNameId": "CFB4A7F4-F7E7-4B6D-AFB4-CE97CF9FD056",
+        "lastModified": "2020-01-27T18:26:36.430",
+        "created": "2020-01-27T18:26:36.430",
+        "titles": [
+          {
+            "title": "HP enhanced Internet Usage Manager (eIUM) 8.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:enhanced_internet_usage_manager:9.0:-:*:*:*:*:*:*",
+        "cpeNameId": "9AA03FD4-9A78-4DF9-9BC6-24B3774D693A",
+        "lastModified": "2020-01-27T18:26:36.507",
+        "created": "2020-01-27T18:26:36.507",
+        "titles": [
+          {
+            "title": "HP enhanced Internet Usage Manager (eIUM) 9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:enhanced_internet_usage_manager:9.0:fp1:*:*:*:*:*:*",
+      "title": "HP Enhanced Internet Usage Manager 9.0 FP1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:enhanced_internet_usage_manager:8.3:*:*:*:*:*:*:*",
+      "title": "HP enhanced Internet Usage Manager (eIUM) 8.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:enhanced_internet_usage_manager:9.0:-:*:*:*:*:*:*",
+      "title": "HP enhanced Internet Usage Manager (eIUM) 9.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

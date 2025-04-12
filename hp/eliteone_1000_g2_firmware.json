@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:eliteone_1000_g2_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "68B010B6-8AC0-4890-A663-B46CD7D8120B",
+        "lastModified": "2021-05-21T19:13:00.800",
+        "created": "2020-07-28T12:43:00.893",
+        "titles": [
+          {
+            "title": "HP EliteOne 1000 G2 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:eliteone_1000_g2_firmware:5.5.21.1099:*:*:*:*:*:*:*",
+        "cpeNameId": "61C0DE47-43D9-49EB-ACA9-333FBCB37E48",
+        "lastModified": "2021-05-21T19:13:00.800",
+        "created": "2020-07-28T12:43:00.893",
+        "titles": [
+          {
+            "title": "HP EliteOne 1000 G2 Firmware 5.5.21.1099",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:eliteone_1000_g2_firmware:02.20.01:*:*:*:*:*:*:*",
+        "cpeNameId": "FDCD3355-F21A-45FA-9D13-0D94059CB9E5",
+        "lastModified": "2023-09-09T03:09:34.913",
+        "created": "2023-06-29T11:59:16.380",
+        "titles": [
+          {
+            "title": "HP Eliteone 1000 G2 Firmware 02.20.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:eliteone_1000_g2_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP EliteOne 1000 G2 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:eliteone_1000_g2_firmware:5.5.21.1099:*:*:*:*:*:*:*",
+      "title": "HP EliteOne 1000 G2 Firmware 5.5.21.1099",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:eliteone_1000_g2_firmware:02.20.01:*:*:*:*:*:*:*",
+      "title": "HP Eliteone 1000 G2 Firmware 02.20.01",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
