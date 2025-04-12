@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:siemens:vstar:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A03E5135-0C18-4472-A464-9DFF872AF5AC",
+        "lastModified": "2021-11-09T14:04:14.787",
+        "created": "2020-02-03T21:03:09.660",
+        "titles": [
+          {
+            "title": "Siemens VSTAR",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:siemens:capital_vstar:-:*:*:*:*:*:*:*",
+            "cpeNameId": "9AD26E8A-35EA-47D5-876E-1E10EC40D9AB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:vstar:-:*:*:*:*:*:*:*",
+      "title": "Siemens VSTAR",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:siemens:capital_vstar:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

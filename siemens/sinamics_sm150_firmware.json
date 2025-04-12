@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sinamics_sm150_firmware:4.8:*:*:*:*:*:*:*",
+        "cpeNameId": "2FEF0C83-904B-404F-BD02-C5B77A739C4E",
+        "lastModified": "2020-10-13T12:58:07.437",
+        "created": "2020-10-13T12:58:07.437",
+        "titles": [
+          {
+            "title": "Siemens SINAMICS SM150 Firmware 4.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sinamics_sm150_firmware:5.1:-:*:*:*:*:*:*",
+        "cpeNameId": "F3BCD5DC-6B8A-4DC9-BD71-9BB5F90C7FB1",
+        "lastModified": "2020-10-13T12:58:07.623",
+        "created": "2020-10-13T12:58:07.623",
+        "titles": [
+          {
+            "title": "Siemens SINAMICS SM150 Firmware 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sinamics_sm150_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "68DAEED7-14DF-4FAE-923F-676027C63460",
+        "lastModified": "2022-05-26T02:43:59.833",
+        "created": "2022-05-23T19:16:40.843",
+        "titles": [
+          {
+            "title": "Siemens SINAMICS SM150 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:sinamics_sm150_firmware:4.8:*:*:*:*:*:*:*",
+      "title": "Siemens SINAMICS SM150 Firmware 4.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sinamics_sm150_firmware:5.1:-:*:*:*:*:*:*",
+      "title": "Siemens SINAMICS SM150 Firmware 5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sinamics_sm150_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SINAMICS SM150 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

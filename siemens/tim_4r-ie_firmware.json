@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:tim_4r-ie_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6D1E0CD1-042A-4D1D-ABE7-3C69C318AA98",
+        "lastModified": "2020-04-20T17:23:09.237",
+        "created": "2020-04-20T17:23:09.237",
+        "titles": [
+          {
+            "title": "Siemens TIM 4R-IE Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:tim_4r-ie_firmware:3.3:*:*:*:*:*:*:*",
+        "cpeNameId": "06329A3B-343C-48ED-88FB-E4562F817D43",
+        "lastModified": "2020-04-20T17:23:09.517",
+        "created": "2020-04-20T17:23:09.517",
+        "titles": [
+          {
+            "title": "Siemens TIM 4R-IE Firmware 3.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:tim_4r-ie_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens TIM 4R-IE Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:tim_4r-ie_firmware:3.3:*:*:*:*:*:*:*",
+      "title": "Siemens TIM 4R-IE Firmware 3.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simotics_connect_400_firmware:0.3.0.95:*:*:*:*:*:*:*",
+        "cpeNameId": "B9609369-3ED5-48AF-9AEA-3152222A3214",
+        "lastModified": "2020-10-09T15:06:38.283",
+        "created": "2020-10-09T15:06:38.283",
+        "titles": [
+          {
+            "title": "Siemens Simotics Connect 400 Firmware 0.3.0.95",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simotics_connect_400_firmware:0.5.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B1CFEFCA-A420-4D79-8FFA-0F6ED99627EE",
+        "lastModified": "2021-05-26T17:31:17.920",
+        "created": "2021-04-28T14:44:15.067",
+        "titles": [
+          {
+            "title": "Siemens SIMOTICS CONNECT 400 FIRMWARE 0.5.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simotics_connect_400_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2D5D5CD6-2903-417D-A022-DD3392A2378C",
+        "lastModified": "2021-05-26T17:31:17.920",
+        "created": "2021-04-28T14:44:15.067",
+        "titles": [
+          {
+            "title": "Siemens SIMOTICS CONNECT 400 FIRMWARE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simotics_connect_400_firmware:0.3.0.95:*:*:*:*:*:*:*",
+      "title": "Siemens Simotics Connect 400 Firmware 0.3.0.95",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simotics_connect_400_firmware:0.5.0.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIMOTICS CONNECT 400 FIRMWARE 0.5.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simotics_connect_400_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMOTICS CONNECT 400 FIRMWARE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

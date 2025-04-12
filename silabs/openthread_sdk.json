@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:silabs:openthread_sdk:2.3.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "75E62423-EB4C-4FD9-A9A8-8629099FE44A",
+        "lastModified": "2023-12-02T03:37:44.170",
+        "created": "2023-12-02T03:37:44.170",
+        "titles": [
+          {
+            "title": "Silicon Labs OpenThread SDK 2.3.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:silabs:openthread_sdk:2.3.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8F80D7A9-CE4C-4607-B9F5-76FE30AE4411",
+        "lastModified": "2023-12-02T03:37:44.170",
+        "created": "2023-12-02T03:37:44.170",
+        "titles": [
+          {
+            "title": "Silicon Labs OpenThread SDK 2.3.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:silabs:openthread_sdk:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7002ECCD-72E1-4D5F-8F3C-656F90E415B6",
+        "lastModified": "2023-12-02T03:37:44.170",
+        "created": "2023-12-02T03:37:44.170",
+        "titles": [
+          {
+            "title": "Silicon Labs OpenThread SDK",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:silabs:openthread_sdk:2.3.1.0:*:*:*:*:*:*:*",
+      "title": "Silicon Labs OpenThread SDK 2.3.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:silabs:openthread_sdk:2.3.0.0:*:*:*:*:*:*:*",
+      "title": "Silicon Labs OpenThread SDK 2.3.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:silabs:openthread_sdk:-:*:*:*:*:*:*:*",
+      "title": "Silicon Labs OpenThread SDK",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

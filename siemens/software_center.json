@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:software_center:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DF45D9A2-A2B6-4546-9B95-F151B260988F",
+        "lastModified": "2023-08-18T17:04:20.543",
+        "created": "2023-08-14T11:29:29.587",
+        "titles": [
+          {
+            "title": "Siemens Software Center 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:software_center:-:*:*:*:*:*:*:*",
+        "cpeNameId": "09C7DBC0-067B-4567-AEDB-555F5E292091",
+        "lastModified": "2023-08-18T17:04:20.543",
+        "created": "2023-08-14T11:29:29.587",
+        "titles": [
+          {
+            "title": "Siemens Software Center",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:software_center:3.0:*:*:*:*:*:*:*",
+      "title": "Siemens Software Center 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:software_center:-:*:*:*:*:*:*:*",
+      "title": "Siemens Software Center",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

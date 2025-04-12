@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_cpu_316-2_dp_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B60872AD-7168-4599-9DE7-C406FF66164D",
+        "lastModified": "2020-01-16T13:44:02.330",
+        "created": "2020-01-16T13:44:02.330",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 CPU 316-2 DP Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_cpu_316-2_dp_firmware:3.2.17:*:*:*:*:*:*:*",
+        "cpeNameId": "9ED535A9-3D0E-40EE-81A3-563377135273",
+        "lastModified": "2020-03-16T17:14:23.447",
+        "created": "2020-03-16T17:14:23.447",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 CPU 316-2 DP Firmware 3.2.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_cpu_316-2_dp_firmware:3.3.17:*:*:*:*:*:*:*",
+        "cpeNameId": "B0604CB2-DE16-4B6D-8ABE-08AE455379F8",
+        "lastModified": "2020-03-16T17:14:23.557",
+        "created": "2020-03-16T17:14:23.557",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 CPU 316-2 DP Firmware 3.3.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_cpu_316-2_dp_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 CPU 316-2 DP Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_cpu_316-2_dp_firmware:3.2.17:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 CPU 316-2 DP Firmware 3.2.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_cpu_316-2_dp_firmware:3.3.17:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 CPU 316-2 DP Firmware 3.3.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

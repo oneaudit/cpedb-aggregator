@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sitop_psu8600_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9E9AAF65-8BB4-4C46-AC53-8C822F5F45F3",
+        "lastModified": "2021-06-29T13:39:33.123",
+        "created": "2017-05-23T01:51:46.050",
+        "titles": [
+          {
+            "title": "Siemens SITOP Psu8600 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sitop_psu8600_firmware:1.5:*:*:*:*:*:*:*",
+        "cpeNameId": "065C1EED-4B09-4045-AF4E-01714385B70F",
+        "lastModified": "2020-10-13T12:58:07.827",
+        "created": "2020-10-13T12:58:07.827",
+        "titles": [
+          {
+            "title": "Siemens SITOP PSU8600 Firmware 1.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sitop_psu8600_firmware:1.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DE4B481D-15EF-4DB7-8D9E-33F03B900EC1",
+        "lastModified": "2021-01-14T19:46:19.753",
+        "created": "2021-01-14T19:46:19.753",
+        "titles": [
+          {
+            "title": "Siemens SITOP PSU8600 Firmware 1.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:sitop_psu8600_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SITOP Psu8600 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sitop_psu8600_firmware:1.5:*:*:*:*:*:*:*",
+      "title": "Siemens SITOP PSU8600 Firmware 1.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sitop_psu8600_firmware:1.2.0:*:*:*:*:*:*:*",
+      "title": "Siemens SITOP PSU8600 Firmware 1.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

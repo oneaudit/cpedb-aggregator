@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:somatom_go.sim_firmware:va30:-:*:*:*:*:*:*",
+        "cpeNameId": "7C6C8032-048C-4680-9ECD-534CDEC9FDCB",
+        "lastModified": "2022-06-10T19:39:51.040",
+        "created": "2022-06-10T17:34:29.557",
+        "titles": [
+          {
+            "title": "Siemens SOMATOM go.Sim Firmware VA30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:somatom_go.sim_firmware:va40:-:*:*:*:*:*:*",
+        "cpeNameId": "198BEE83-1C61-48A8-89A0-9CFE45BA17F1",
+        "lastModified": "2022-06-10T19:39:51.040",
+        "created": "2022-06-10T17:34:29.557",
+        "titles": [
+          {
+            "title": "Siemens SOMATOM go.Sim Firmware VA40",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:somatom_go.sim_firmware:va30:-:*:*:*:*:*:*",
+      "title": "Siemens SOMATOM go.Sim Firmware VA30",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:somatom_go.sim_firmware:va40:-:*:*:*:*:*:*",
+      "title": "Siemens SOMATOM go.Sim Firmware VA40",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

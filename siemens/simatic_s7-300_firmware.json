@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9940D43B-D821-4B06-AECE-3E6A51C9CDC1",
+        "lastModified": "2021-06-28T19:35:05.880",
+        "created": "2017-05-23T01:51:46.050",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_firmware:3.3.17:*:*:*:*:*:*:*",
+        "cpeNameId": "6ADDF3AC-1503-4330-A14F-39CC7BF02BD5",
+        "lastModified": "2020-10-13T12:58:04.623",
+        "created": "2020-10-13T12:58:04.623",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 Firmware 3.3.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_firmware:3.3.17:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 Firmware 3.3.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

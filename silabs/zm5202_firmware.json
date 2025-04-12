@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:silabs:zm5202_firmware:s2:*:*:*:*:*:*:*",
+        "cpeNameId": "6045D466-949C-4B9A-B832-4A53F934B801",
+        "lastModified": "2022-06-03T13:12:51.790",
+        "created": "2022-02-09T12:29:00.420",
+        "titles": [
+          {
+            "title": "Silicon Labs ZM5202 Firmware S2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:silabs:zm5202_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6072097C-917E-4D51-BA25-D2751EA771DF",
+        "lastModified": "2022-05-27T14:53:39.310",
+        "created": "2022-05-24T17:48:04.710",
+        "titles": [
+          {
+            "title": "Silicon Labs ZM5202 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:silabs:zm5202_firmware:s2:*:*:*:*:*:*:*",
+      "title": "Silicon Labs ZM5202 Firmware S2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:silabs:zm5202_firmware:-:*:*:*:*:*:*:*",
+      "title": "Silicon Labs ZM5202 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

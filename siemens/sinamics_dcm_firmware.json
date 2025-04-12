@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sinamics_dcm_firmware:1.5:-:*:*:*:*:*:*",
+        "cpeNameId": "8A169B42-EC18-4053-9FED-E674E48ACB04",
+        "lastModified": "2020-01-16T13:44:04.893",
+        "created": "2020-01-16T13:44:04.893",
+        "titles": [
+          {
+            "title": "Siemens SINAMICS DCM Firmware 1.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sinamics_dcm_firmware:1.4:-:*:*:*:*:*:*",
+        "cpeNameId": "99B60009-4B85-4809-9F93-8CF1248971E7",
+        "lastModified": "2021-01-14T19:46:16.957",
+        "created": "2021-01-14T19:46:16.957",
+        "titles": [
+          {
+            "title": "Siemens SINAMICS DCM Firmware 1.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sinamics_dcm_firmware:1.4:sp1:*:*:*:*:*:*",
+        "cpeNameId": "AEB3AFDF-DCA4-4CEC-8077-311689364CFF",
+        "lastModified": "2021-01-14T19:46:17.207",
+        "created": "2021-01-14T19:46:17.207",
+        "titles": [
+          {
+            "title": "Siemens SINAMICS DCM Firmware 1.4 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:sinamics_dcm_firmware:1.5:-:*:*:*:*:*:*",
+      "title": "Siemens SINAMICS DCM Firmware 1.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sinamics_dcm_firmware:1.4:-:*:*:*:*:*:*",
+      "title": "Siemens SINAMICS DCM Firmware 1.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sinamics_dcm_firmware:1.4:sp1:*:*:*:*:*:*",
+      "title": "Siemens SINAMICS DCM Firmware 1.4 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

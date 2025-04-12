@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:sinumerik_opc_ua_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "593AC215-E6FA-4936-9858-9498C49696E2",
+        "lastModified": "2021-05-19T17:19:44.500",
+        "created": "2019-04-18T14:34:36.207",
+        "titles": [
+          {
+            "title": "Siemens SINUMERIK OPC UA Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:sinumerik_opc_ua_server:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "76F1658C-4B3B-4FEB-AFC4-6F86B9A4E8DC",
+        "lastModified": "2021-05-19T17:19:44.500",
+        "created": "2019-04-23T14:02:31.037",
+        "titles": [
+          {
+            "title": "Siemens SINUMERIK OPC UA Server 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:sinumerik_opc_ua_server:2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "89C9DF69-8E30-4C17-B408-41F98E612F2B",
+        "lastModified": "2021-05-19T17:19:44.500",
+        "created": "2019-04-23T14:02:31.037",
+        "titles": [
+          {
+            "title": "Siemens SINUMERIK OPC UA Server 2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:sinumerik_opc_ua_server:-:*:*:*:*:*:*:*",
+      "title": "Siemens SINUMERIK OPC UA Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sinumerik_opc_ua_server:2.1:*:*:*:*:*:*:*",
+      "title": "Siemens SINUMERIK OPC UA Server 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sinumerik_opc_ua_server:2.2:*:*:*:*:*:*:*",
+      "title": "Siemens SINUMERIK OPC UA Server 2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

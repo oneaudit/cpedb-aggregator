@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:siplus_s7-1500_cpu_1518-4_pn\\/dp_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DC13DC14-437C-496C-83EE-13A7AF2DE31D",
+        "lastModified": "2023-01-13T17:43:05.853",
+        "created": "2023-01-13T15:21:59.517",
+        "titles": [
+          {
+            "title": "Siemens SIPLUS S7-1500 CPU 1518-4 PN/DP Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:siplus_s7-1500_cpu_1518-4_pn\\/dp_firmware:3.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2B1919D2-38C3-4353-8BBE-23BDB5DCEEA8",
+        "lastModified": "2023-12-29T10:15:30.570",
+        "created": "2023-12-29T10:15:30.570",
+        "titles": [
+          {
+            "title": "Siemens SIPLUS S7-1500 CPU 1518-4 PN/DP FIRMWARE 3.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:siplus_s7-1500_cpu_1518-4_pn\\/dp_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIPLUS S7-1500 CPU 1518-4 PN/DP Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:siplus_s7-1500_cpu_1518-4_pn\\/dp_firmware:3.1.0:*:*:*:*:*:*:*",
+      "title": "Siemens SIPLUS S7-1500 CPU 1518-4 PN/DP FIRMWARE 3.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

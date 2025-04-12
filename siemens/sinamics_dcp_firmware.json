@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sinamics_dcp_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E4B33ED2-19BF-471A-B1D7-D12C8B79B210",
+        "lastModified": "2020-02-24T15:01:01.820",
+        "created": "2020-02-24T15:01:01.820",
+        "titles": [
+          {
+            "title": "Siemens SINAMICS DCP Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sinamics_dcp_firmware:1.3:*:*:*:*:*:*:*",
+        "cpeNameId": "2279B148-14A0-46FA-9D85-14BB8795DDC2",
+        "lastModified": "2020-02-24T15:01:02.413",
+        "created": "2020-02-24T15:01:02.413",
+        "titles": [
+          {
+            "title": "Siemens SINAMICS DCP Firmware 1.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:sinamics_dcp_firmware:1.2:-:*:*:*:*:*:*",
+        "cpeNameId": "66679305-50CD-49F0-98F2-32B5ADD5F50E",
+        "lastModified": "2021-01-14T19:46:17.457",
+        "created": "2021-01-14T19:46:17.457",
+        "titles": [
+          {
+            "title": "Siemens SINAMICS DCP Firmware 1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:sinamics_dcp_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SINAMICS DCP Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sinamics_dcp_firmware:1.3:*:*:*:*:*:*:*",
+      "title": "Siemens SINAMICS DCP Firmware 1.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sinamics_dcp_firmware:1.2:-:*:*:*:*:*:*",
+      "title": "Siemens SINAMICS DCP Firmware 1.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

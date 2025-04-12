@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:sinec_network_management_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "01CBED67-45A7-4A81-BF35-0A1C0D0666CD",
+        "lastModified": "2020-06-15T18:23:15.923",
+        "created": "2020-06-15T18:23:15.923",
+        "titles": [
+          {
+            "title": "Siemens SINEC Network Management System (NMS)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:sinec_network_management_system:1.0:-:*:*:*:*:*:*",
+        "cpeNameId": "F4FD089F-0C9F-4645-B31A-1E9C88215BB6",
+        "lastModified": "2021-05-19T17:19:44.500",
+        "created": "2021-02-10T14:13:26.870",
+        "titles": [
+          {
+            "title": "Siemens SINEC Network Management System (NMS) 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:sinec_network_management_system:1.0:sp1:*:*:*:*:*:*",
+        "cpeNameId": "E3D26E88-8652-4884-9E72-5D7A004C5E39",
+        "lastModified": "2021-05-19T17:19:44.500",
+        "created": "2021-02-10T14:13:26.870",
+        "titles": [
+          {
+            "title": "Siemens SINEC Network Management System (NMS) 1.0 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:sinec_network_management_system:1.0.3:*:*:*:*:*:*:*",
+        "cpeNameId": "C98C7D4D-0929-40E2-9E93-66453DA81BB9",
+        "lastModified": "2023-02-21T17:43:46.510",
+        "created": "2022-11-30T11:54:16.707",
+        "titles": [
+          {
+            "title": "Siemens SINEC Network Management System (NMS) 1.0.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:sinec_network_management_system:-:*:*:*:*:*:*:*",
+      "title": "Siemens SINEC Network Management System (NMS)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sinec_network_management_system:1.0:-:*:*:*:*:*:*",
+      "title": "Siemens SINEC Network Management System (NMS) 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sinec_network_management_system:1.0:sp1:*:*:*:*:*:*",
+      "title": "Siemens SINEC Network Management System (NMS) 1.0 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sinec_network_management_system:1.0.3:*:*:*:*:*:*:*",
+      "title": "Siemens SINEC Network Management System (NMS) 1.0.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

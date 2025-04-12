@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:siemens:sinema_server_firmware:14.0:-:*:*:*:*:*:*",
+        "cpeNameId": "2BDD7A42-977F-4A0F-AC9F-1DDBB87198C2",
+        "lastModified": "2021-09-17T12:17:41.920",
+        "created": "2020-02-26T16:05:37.020",
+        "titles": [
+          {
+            "title": "Siemens SINEMA Server Firmware 14.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:siemens:sinema_server:14.0:-:*:*:*:*:*:*",
+            "cpeNameId": "28BE2C0F-2622-4B15-ADB2-C2D8A73CD8EB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:siemens:sinema_server_firmware:14.0:sp1:*:*:*:*:*:*",
+        "cpeNameId": "A08D8386-C76C-4C2E-A55E-77841C2A2918",
+        "lastModified": "2021-09-17T12:17:41.920",
+        "created": "2020-02-26T16:05:37.130",
+        "titles": [
+          {
+            "title": "Siemens SINEMA Server Firmware 14.0 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:siemens:sinema_server:14.0:sp1:*:*:*:*:*:*",
+            "cpeNameId": "91500A5E-2E44-4696-BAB2-98C142EA18BC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:siemens:sinema_server_firmware:14.0:sp2:*:*:*:*:*:*",
+        "cpeNameId": "524AE776-507E-478F-A9C5-0ED3F45B715A",
+        "lastModified": "2021-09-17T12:17:41.920",
+        "created": "2020-02-26T16:05:37.270",
+        "titles": [
+          {
+            "title": "Siemens SINEMA Server Firmware 14.0 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:siemens:sinema_server:14.0:sp2:*:*:*:*:*:*",
+            "cpeNameId": "B2975DB9-A2A7-4050-B58E-9BD94EABFD7F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:sinema_server_firmware:14.0:-:*:*:*:*:*:*",
+      "title": "Siemens SINEMA Server Firmware 14.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:siemens:sinema_server:14.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sinema_server_firmware:14.0:sp1:*:*:*:*:*:*",
+      "title": "Siemens SINEMA Server Firmware 14.0 Service Pack 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:siemens:sinema_server:14.0:sp1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:siemens:sinema_server_firmware:14.0:sp2:*:*:*:*:*:*",
+      "title": "Siemens SINEMA Server Firmware 14.0 Service Pack 2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:siemens:sinema_server:14.0:sp2:*:*:*:*:*:*"
+    }
+  ]
+}

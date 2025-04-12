@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:siprotec_firmware:4.26:*:*:*:*:*:*:*",
+        "cpeNameId": "C9136809-7309-496C-A8AC-CCDEDDFCC8A9",
+        "lastModified": "2021-05-26T17:49:30.200",
+        "created": "2016-05-31T19:44:53.540",
+        "titles": [
+          {
+            "title": "Siemens SIPROTEC Firmware 4.26",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:siprotec_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "077736FF-B819-4701-8CC7-7AC82C333C4F",
+        "lastModified": "2021-05-26T17:49:30.200",
+        "created": "2016-05-31T19:44:53.540",
+        "titles": [
+          {
+            "title": "Siemens SIPROTEC Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:siprotec_firmware:4.26:*:*:*:*:*:*:*",
+      "title": "Siemens SIPROTEC Firmware 4.26",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:siprotec_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIPROTEC Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

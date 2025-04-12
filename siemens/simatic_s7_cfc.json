@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_s7_cfc:8.0:sp4:*:*:*:*:*:*",
+        "cpeNameId": "4B360448-DD06-44E3-9B39-3C38EC3A0480",
+        "lastModified": "2016-03-15T17:00:17.023",
+        "created": "2016-03-15T17:00:17.023",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7 CFC 8.0 Service Pack 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_s7_cfc:8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "77FD6552-5308-4B45-BF17-4B1EC9A8683D",
+        "lastModified": "2016-03-15T17:00:17.083",
+        "created": "2016-03-15T17:00:17.083",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7 CFC 8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:simatic_s7_cfc:8.0:sp4:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7 CFC 8.0 Service Pack 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simatic_s7_cfc:8.1:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7 CFC 8.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

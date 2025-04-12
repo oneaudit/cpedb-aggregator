@@ -1,0 +1,165 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:tia_project-server:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B9278C0E-CF48-4A29-8799-5E280A73C5DF",
+        "lastModified": "2023-03-06T14:59:11.617",
+        "created": "2023-02-21T17:48:21.660",
+        "titles": [
+          {
+            "title": "Siemens TIA Project-server 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:tia_project-server:16:*:*:*:*:*:*:*",
+        "cpeNameId": "FF0320F1-9443-4D52-858C-4B807BF736AA",
+        "lastModified": "2023-03-06T14:59:11.617",
+        "created": "2023-02-21T17:48:21.660",
+        "titles": [
+          {
+            "title": "Siemens TIA Project-server 16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:siemens:tia_project-server:17:*:*:*:*:*:*:*",
+        "cpeNameId": "A5CC9942-F1EA-4C98-8A75-F98BC8C75B43",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2023-02-21T17:48:21.660",
+        "titles": [
+          {
+            "title": "Siemens TIA Project-Server 17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:siemens:tia_project-server:17:-:*:*:*:*:*:*",
+            "cpeNameId": "BE426001-9C14-449C-8423-0B7E5D8949DB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:tia_project-server:17:update4:*:*:*:*:*:*",
+        "cpeNameId": "56855B17-B59E-432C-9088-4C2687DB2F0B",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2023-12-26T19:56:25.687",
+        "titles": [
+          {
+            "title": "Siemens TIA Project-Server 17 Update 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:tia_project-server:17:update1:*:*:*:*:*:*",
+        "cpeNameId": "312689A2-2B90-4371-8E51-154C96D679FC",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2023-12-26T19:56:25.687",
+        "titles": [
+          {
+            "title": "Siemens TIA Project-Server 17 Update 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:tia_project-server:17:-:*:*:*:*:*:*",
+        "cpeNameId": "BE426001-9C14-449C-8423-0B7E5D8949DB",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2023-12-26T19:56:25.687",
+        "titles": [
+          {
+            "title": "Siemens TIA Project-Server 17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:tia_project-server:17:update6:*:*:*:*:*:*",
+        "cpeNameId": "FEACF6BA-92C2-4835-871B-D7674CB1664A",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2023-12-26T19:56:25.687",
+        "titles": [
+          {
+            "title": "Siemens TIA Project-Server 17 Update 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:tia_project-server:1.0:*:*:*:*:*:*:*",
+      "title": "Siemens TIA Project-server 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:tia_project-server:16:*:*:*:*:*:*:*",
+      "title": "Siemens TIA Project-server 16",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:tia_project-server:17:*:*:*:*:*:*:*",
+      "title": "Siemens TIA Project-Server 17",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:siemens:tia_project-server:17:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:siemens:tia_project-server:17:update4:*:*:*:*:*:*",
+      "title": "Siemens TIA Project-Server 17 Update 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:tia_project-server:17:update1:*:*:*:*:*:*",
+      "title": "Siemens TIA Project-Server 17 Update 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:tia_project-server:17:-:*:*:*:*:*:*",
+      "title": "Siemens TIA Project-Server 17",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:tia_project-server:17:update6:*:*:*:*:*:*",
+      "title": "Siemens TIA Project-Server 17 Update 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

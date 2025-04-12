@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:tim_3v-ie_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "27EBBC43-A7BD-4379-878F-773B64B30BB2",
+        "lastModified": "2020-04-20T17:23:08.487",
+        "created": "2020-04-20T17:23:08.487",
+        "titles": [
+          {
+            "title": "Siemens TIM 3V-IE Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:tim_3v-ie_firmware:2.8:*:*:*:*:*:*:*",
+        "cpeNameId": "0D81384A-AB64-4E26-AE24-707FAD1F0D80",
+        "lastModified": "2020-04-20T17:23:08.767",
+        "created": "2020-04-20T17:23:08.767",
+        "titles": [
+          {
+            "title": "Siemens TIM 3V-IE Firmware 2.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:tim_3v-ie_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens TIM 3V-IE Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:tim_3v-ie_firmware:2.8:*:*:*:*:*:*:*",
+      "title": "Siemens TIM 3V-IE Firmware 2.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

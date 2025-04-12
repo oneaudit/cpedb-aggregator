@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-400h_v6_firmware:6.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "FE20E5DF-CA54-4A1F-B4D2-8B0B9342B8DE",
+        "lastModified": "2021-06-28T19:35:05.880",
+        "created": "2018-01-11T15:11:29.287",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-400H V6 Firmware 6.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-400h_v6_firmware:6.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "A98A89AF-B70D-4DF7-9BA7-90E5C0BBF174",
+        "lastModified": "2020-10-30T11:11:33.470",
+        "created": "2020-10-30T11:11:33.470",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-400H V6 Firmware 6.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-400h_v6_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A2911886-C9F8-4C78-AE33-504B4BF3B64F",
+        "lastModified": "2022-06-03T13:02:58.107",
+        "created": "2022-04-22T13:14:27.423",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-400H V6 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-400h_v6_firmware:6.0.8:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-400H V6 Firmware 6.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-400h_v6_firmware:6.0.9:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-400H V6 Firmware 6.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-400h_v6_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-400H V6 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_wincc_sm\\@rtclient:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "028451F0-9BD4-47C3-B8D9-2F7497240D35",
+        "lastModified": "2015-05-18T17:27:45.267",
+        "created": "2015-01-14T17:23:57.367",
+        "titles": [
+          {
+            "title": "Siemens Simatic WinCC Sm@rtClient 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_wincc_sm\\@rtclient:1.0:*:*:*:*:android:*:*",
+        "cpeNameId": "274D85EB-F3E8-4F44-8E90-AEA9E5550762",
+        "lastModified": "2016-03-17T18:59:17.770",
+        "created": "2016-03-17T18:59:17.770",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC WinCC Sm@rtClient for Android 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_wincc_sm\\@rtclient:1.0.2.1:*:*:*:*:android:*:*",
+        "cpeNameId": "63BC09D9-7D75-4DD5-A37E-68393CF934CC",
+        "lastModified": "2021-06-15T21:24:51.647",
+        "created": "2017-08-17T03:50:32.480",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC WinCC Sm@rtClient 1.0.2.1 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:simatic_wincc_sm\\@rtclient:1.0:*:*:*:*:*:*:*",
+      "title": "Siemens Simatic WinCC Sm@rtClient 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simatic_wincc_sm\\@rtclient:1.0:*:*:*:*:android:*:*",
+      "title": "Siemens SIMATIC WinCC Sm@rtClient for Android 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simatic_wincc_sm\\@rtclient:1.0.2.1:*:*:*:*:android:*:*",
+      "title": "Siemens SIMATIC WinCC Sm@rtClient 1.0.2.1 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

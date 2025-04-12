@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:softnet_profinet_io_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0C26BC2A-3F00-42DB-AC0D-BC5553C0B1E9",
+        "lastModified": "2021-06-29T13:39:33.123",
+        "created": "2017-05-23T01:51:46.050",
+        "titles": [
+          {
+            "title": "Siemens Softnet Profinet IO Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:softnet_profinet_io_firmware:14:-:*:*:*:*:*:*",
+        "cpeNameId": "75D2EE47-79CB-4A1E-895D-EE8B051C69A9",
+        "lastModified": "2021-01-14T19:46:20.033",
+        "created": "2021-01-14T19:46:20.033",
+        "titles": [
+          {
+            "title": "Siemens Softnet PROFINET IO Firmware 14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:softnet_profinet_io_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens Softnet Profinet IO Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:softnet_profinet_io_firmware:14:-:*:*:*:*:*:*",
+      "title": "Siemens Softnet PROFINET IO Firmware 14",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

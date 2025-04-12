@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_cpu_318-2_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C69EC0C1-8770-471F-A5B7-0A2C4E8E7FD9",
+        "lastModified": "2020-01-16T13:44:02.690",
+        "created": "2020-01-16T13:44:02.690",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 CPU 318-2 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_cpu_318-2_firmware:3.2.17:*:*:*:*:*:*:*",
+        "cpeNameId": "49FA6744-22E9-4498-84ED-9FFAD665E5EF",
+        "lastModified": "2020-03-16T17:14:23.683",
+        "created": "2020-03-16T17:14:23.683",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 CPU 318-2 Firmware 3.2.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:siemens:simatic_s7-300_cpu_318-2_firmware:3.3.17:*:*:*:*:*:*:*",
+        "cpeNameId": "678230E2-87C1-4B96-A3BE-D77ACBFB42D5",
+        "lastModified": "2020-03-16T17:14:23.807",
+        "created": "2020-03-16T17:14:23.807",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-300 CPU 318-2 Firmware 3.3.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_cpu_318-2_firmware:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 CPU 318-2 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_cpu_318-2_firmware:3.2.17:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 CPU 318-2 Firmware 3.2.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:siemens:simatic_s7-300_cpu_318-2_firmware:3.3.17:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-300 CPU 318-2 Firmware 3.3.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

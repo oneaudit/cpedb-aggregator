@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simit_simulation_platform:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8ADF907D-F65F-4600-9BB1-F0D8B0B4F002",
+        "lastModified": "2022-05-27T03:44:08.690",
+        "created": "2022-04-22T13:14:27.423",
+        "titles": [
+          {
+            "title": "Siemens SIMIT Simulation Platform",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simit_simulation_platform:10.3:-:*:*:*:*:*:*",
+        "cpeNameId": "12870743-778B-4294-B8FB-42452F1807BC",
+        "lastModified": "2022-05-23T15:28:45.200",
+        "created": "2022-05-22T22:13:55.813",
+        "titles": [
+          {
+            "title": "Siemens SIMIT Simulation Platform 10.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:simit_simulation_platform:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMIT Simulation Platform",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simit_simulation_platform:10.3:-:*:*:*:*:*:*",
+      "title": "Siemens SIMIT Simulation Platform 10.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

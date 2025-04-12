@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_s7-plcsim:-:*:*:*:*:*:*:*",
+        "cpeNameId": "78D7F627-A2A9-40AC-963F-363E68722B2A",
+        "lastModified": "2021-05-19T17:19:44.500",
+        "created": "2021-03-16T00:19:30.383",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-PLCSIM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:simatic_s7-plcsim:5.4:*:*:*:*:*:*:*",
+        "cpeNameId": "76112337-4E6D-456A-844B-53A8ED189A17",
+        "lastModified": "2021-06-15T21:24:51.647",
+        "created": "2021-03-18T17:16:47.017",
+        "titles": [
+          {
+            "title": "Siemens SIMATIC S7-PLCSIM 5.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:simatic_s7-plcsim:-:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-PLCSIM",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:simatic_s7-plcsim:5.4:*:*:*:*:*:*:*",
+      "title": "Siemens SIMATIC S7-PLCSIM 5.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

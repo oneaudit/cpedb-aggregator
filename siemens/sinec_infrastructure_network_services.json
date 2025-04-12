@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:sinec_infrastructure_network_services:1.0.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "ADF7FDFE-ACA2-4F39-AF71-D13D298462C8",
+        "lastModified": "2022-03-15T15:07:53.247",
+        "created": "2022-03-11T18:56:51.390",
+        "titles": [
+          {
+            "title": "Siemens SINEC Infrastructure Network Services (SINEC INS) 1.0.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:sinec_infrastructure_network_services:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3FEC5977-7848-451B-974E-0D68752A577A",
+        "lastModified": "2022-05-27T03:44:08.690",
+        "created": "2022-03-24T16:10:47.543",
+        "titles": [
+          {
+            "title": "Siemens SINEC Infrastructure Network Services (INS)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siemens:sinec_infrastructure_network_services:1.0.1:-:*:*:*:*:*:*",
+        "cpeNameId": "778D591B-3AEA-429E-BED4-DA67FBAF2040",
+        "lastModified": "2022-11-09T20:55:24.030",
+        "created": "2022-10-06T17:43:33.920",
+        "titles": [
+          {
+            "title": "Siemens Sinec Infrastructure Network Services 1.0.1 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siemens:sinec_infrastructure_network_services:1.0.1.1:*:*:*:*:*:*:*",
+      "title": "Siemens SINEC Infrastructure Network Services (SINEC INS) 1.0.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sinec_infrastructure_network_services:-:*:*:*:*:*:*:*",
+      "title": "Siemens SINEC Infrastructure Network Services (INS)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:siemens:sinec_infrastructure_network_services:1.0.1:-:*:*:*:*:*:*",
+      "title": "Siemens Sinec Infrastructure Network Services 1.0.1 -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
