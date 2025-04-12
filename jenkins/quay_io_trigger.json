@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:quay.io_trigger:0.1:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "299B9C59-73C8-44E9-824B-F7AF952CE2AC",
+        "lastModified": "2023-06-28T03:56:26.850",
+        "created": "2023-04-17T19:47:03.980",
+        "titles": [
+          {
+            "title": "Jenkins Quay.io Trigger 0.1 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:quay.io_trigger:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "BF06E239-3AD1-4B94-93BD-B887F412D8F7",
+        "lastModified": "2023-06-28T03:56:26.850",
+        "created": "2023-04-17T19:47:03.980",
+        "titles": [
+          {
+            "title": "Jenkins Quay.io Trigger - for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:quay.io_trigger:0.1:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Quay.io Trigger 0.1 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:quay.io_trigger:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Quay.io Trigger - for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

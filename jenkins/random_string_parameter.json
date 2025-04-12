@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:random_string_parameter:1.0:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "D4810DED-71E0-4FA7-A7A4-1536FD24BBF3",
+        "lastModified": "2022-11-23T13:43:03.340",
+        "created": "2022-11-23T13:28:33.820",
+        "titles": [
+          {
+            "title": "Jenkins Random String Parameter 1.0 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:random_string_parameter:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "66B5546B-56D0-4B19-9349-86EE215D9283",
+        "lastModified": "2022-11-23T13:43:03.340",
+        "created": "2022-11-23T13:28:33.820",
+        "titles": [
+          {
+            "title": "Jenkins Random String Parameter for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:random_string_parameter:1.0:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Random String Parameter 1.0 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:random_string_parameter:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Random String Parameter for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

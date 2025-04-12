@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:japex:1.7:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "C9B05080-3817-4C07-A642-3B10C4B8DAA8",
+        "lastModified": "2022-11-16T15:47:44.140",
+        "created": "2022-11-16T12:29:50.250",
+        "titles": [
+          {
+            "title": "Jenkins JAPEX 1.7 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:japex:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "33E1B589-1591-496F-961F-732DEFC76C0E",
+        "lastModified": "2022-11-16T15:47:44.140",
+        "created": "2022-11-16T12:29:50.250",
+        "titles": [
+          {
+            "title": "Jenkins JAPEX for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:japex:1.7:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins JAPEX 1.7 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:japex:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins JAPEX for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

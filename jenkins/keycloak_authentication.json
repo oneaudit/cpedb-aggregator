@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:keycloak_authentication:2.3.0:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "632AE983-00E1-4921-A4C5-0A0EFC98B781",
+        "lastModified": "2023-03-03T18:34:27.807",
+        "created": "2023-02-01T21:03:27.033",
+        "titles": [
+          {
+            "title": "Jenkins Keycloak Authentication 2.3.0 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:keycloak_authentication:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "ACAF28E9-DA7B-4C06-B1FE-C87C210DC68B",
+        "lastModified": "2023-03-03T18:34:27.807",
+        "created": "2023-02-01T21:03:27.033",
+        "titles": [
+          {
+            "title": "Jenkins Keycloak Authentication for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:keycloak_authentication:2.3.0:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Keycloak Authentication 2.3.0 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:keycloak_authentication:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Keycloak Authentication for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

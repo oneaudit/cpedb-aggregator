@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:kmap:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "2FFAA262-58A3-47EA-8A60-E5ED6B1897A2",
+        "lastModified": "2020-10-20T15:02:57.687",
+        "created": "2020-10-20T15:02:57.687",
+        "titles": [
+          {
+            "title": "Jenkins Kmap for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:kmap:1.6:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "DEB1E569-3595-4B67-8D55-8E14EA60E9CB",
+        "lastModified": "2020-10-20T15:02:58.077",
+        "created": "2020-10-20T15:02:58.077",
+        "titles": [
+          {
+            "title": "Jenkins Kmap 1.6 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:kmap:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Kmap for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:kmap:1.6:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Kmap 1.6 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

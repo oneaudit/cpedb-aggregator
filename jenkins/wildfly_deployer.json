@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:wildfly_deployer:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "5E170325-7AB8-4FCD-B051-4477407BF278",
+        "lastModified": "2019-04-11T19:10:57.200",
+        "created": "2019-04-11T19:10:57.200",
+        "titles": [
+          {
+            "title": "Jenkins WildFly Deployer for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:wildfly_deployer:1.0.2:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "710E033D-63BB-4268-AB16-055C18500B7B",
+        "lastModified": "2022-10-11T15:07:54.290",
+        "created": "2022-09-22T13:40:56.130",
+        "titles": [
+          {
+            "title": "Jenkins WildFly Deployer 1.0.2 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:wildfly_deployer:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins WildFly Deployer for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:wildfly_deployer:1.0.2:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins WildFly Deployer 1.0.2 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

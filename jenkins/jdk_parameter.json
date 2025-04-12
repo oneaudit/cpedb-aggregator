@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:jdk_parameter:1.0:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "2D955F84-1146-41CC-B923-960E1B827DF5",
+        "lastModified": "2022-11-23T13:27:13.697",
+        "created": "2022-11-23T13:13:58.843",
+        "titles": [
+          {
+            "title": "Jenkins JDK Parameter 1.0 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:jdk_parameter:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "8518D6C0-0C73-4F69-9E64-C2A2ABBB5A1A",
+        "lastModified": "2022-11-23T13:27:13.697",
+        "created": "2022-11-23T13:13:58.843",
+        "titles": [
+          {
+            "title": "Jenkins JDK Parameter for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:jdk_parameter:1.0:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins JDK Parameter 1.0 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:jdk_parameter:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins JDK Parameter for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

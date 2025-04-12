@@ -1,0 +1,168 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:jpeg:jpeg_xl:0.3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "4DEE5C3C-6F57-4E9B-B03F-4565DDF65EF7",
+        "lastModified": "2021-06-21T13:41:05.703",
+        "created": "2021-03-02T15:46:31.670",
+        "titles": [
+          {
+            "title": "JPEG XL 0.3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:libjxl_project:libjxl:0.3.2:*:*:*:*:*:*:*",
+            "cpeNameId": "732661F3-B4B1-429F-A2CF-45DC3C9562AA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:jpeg:jpeg_xl:0.3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "A6F75A82-C8F2-4FFE-9F87-B717D544F9D9",
+        "lastModified": "2021-06-21T13:41:05.703",
+        "created": "2021-03-02T15:46:31.670",
+        "titles": [
+          {
+            "title": "JPEG XL 0.3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:libjxl_project:libjxl:0.3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "7A42E1FD-B6A8-47BB-84F1-BDA5AE01CBAE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:jpeg:jpeg_xl:0.3:*:*:*:*:*:*:*",
+        "cpeNameId": "CD23D7AE-8DC8-41EC-8B2D-3C97B009929A",
+        "lastModified": "2021-06-21T13:41:05.703",
+        "created": "2021-03-02T15:46:31.670",
+        "titles": [
+          {
+            "title": "JPEG XL 0.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:libjxl_project:libjxl:0.3:*:*:*:*:*:*:*",
+            "cpeNameId": "F242F425-B6FF-4A28-8D07-6D22A873EF63"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:jpeg:jpeg_xl:0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "FA631188-45B7-416C-9891-ABCFD8B949EF",
+        "lastModified": "2021-06-21T13:41:05.703",
+        "created": "2021-03-02T15:46:31.670",
+        "titles": [
+          {
+            "title": "JPEG XL 0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:libjxl_project:libjxl:0.2:*:*:*:*:*:*:*",
+            "cpeNameId": "91E927A4-695A-443C-8F54-B8630A7B141A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:jpeg:jpeg_xl:0.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "26283C3A-645E-4DDE-8BD0-99A78BD11C52",
+        "lastModified": "2021-06-21T13:41:05.703",
+        "created": "2021-03-02T15:46:31.670",
+        "titles": [
+          {
+            "title": "JPEG XL 0.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:libjxl_project:libjxl:0.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "9C057AFF-7873-47B2-BA42-CBE2B77F266C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:jpeg:jpeg_xl:0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "FF16C374-43F1-4FC5-89A5-665E03ECB414",
+        "lastModified": "2021-06-21T13:41:05.703",
+        "created": "2021-03-02T15:46:31.670",
+        "titles": [
+          {
+            "title": "JPEG XL 0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:libjxl_project:libjxl:0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "C3BE8B86-3B45-4F79-930C-9CACCB1BDE17"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jpeg:jpeg_xl:0.3.2:*:*:*:*:*:*:*",
+      "title": "JPEG XL 0.3.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:libjxl_project:libjxl:0.3.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:jpeg:jpeg_xl:0.3.1:*:*:*:*:*:*:*",
+      "title": "JPEG XL 0.3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:libjxl_project:libjxl:0.3.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:jpeg:jpeg_xl:0.3:*:*:*:*:*:*:*",
+      "title": "JPEG XL 0.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:libjxl_project:libjxl:0.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:jpeg:jpeg_xl:0.2:*:*:*:*:*:*:*",
+      "title": "JPEG XL 0.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:libjxl_project:libjxl:0.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:jpeg:jpeg_xl:0.1.1:*:*:*:*:*:*:*",
+      "title": "JPEG XL 0.1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:libjxl_project:libjxl:0.1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:jpeg:jpeg_xl:0.1:*:*:*:*:*:*:*",
+      "title": "JPEG XL 0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:libjxl_project:libjxl:0.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

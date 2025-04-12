@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:google_cloud_backup:0.6:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "77DAC878-717A-43C7-AF80-23014DD198DF",
+        "lastModified": "2022-08-09T12:01:49.980",
+        "created": "2022-08-02T18:28:10.773",
+        "titles": [
+          {
+            "title": "Jenkins Google Cloud Backup 0.6 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:google_cloud_backup:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "D6E6C566-3673-4587-B846-65F6F38B4410",
+        "lastModified": "2022-08-09T12:01:49.980",
+        "created": "2022-08-02T18:28:10.773",
+        "titles": [
+          {
+            "title": "Jenkins Google Cloud Backup for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:google_cloud_backup:0.6:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Google Cloud Backup 0.6 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:google_cloud_backup:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Google Cloud Backup for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

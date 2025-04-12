@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:jsonlint_project:jsonlint:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4FE35CF2-7C77-478A-AB95-95D288B3F9DD",
+        "lastModified": "2023-01-17T18:28:49.587",
+        "created": "2022-10-20T18:13:15.977",
+        "titles": [
+          {
+            "title": "Jsonlint Project Jsonlint 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:jsonlint_project:jsonlint_c\\+\\+:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "EDEE706B-38FB-42C8-81E0-8E530620CCFC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jsonlint_project:jsonlint:1.0:*:*:*:*:*:*:*",
+      "title": "Jsonlint Project Jsonlint 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:jsonlint_project:jsonlint_c\\+\\+:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

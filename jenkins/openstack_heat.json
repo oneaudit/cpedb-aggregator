@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:openstack_heat:1.5:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "B6FA79AF-04D5-4495-8A1A-214B15B884DF",
+        "lastModified": "2022-08-09T12:01:49.980",
+        "created": "2022-08-02T17:45:11.367",
+        "titles": [
+          {
+            "title": "Jenkins Openstack Heat 1.5 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:openstack_heat:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "74453EA4-9841-4842-BE80-5F80429D7A66",
+        "lastModified": "2022-08-09T12:01:49.980",
+        "created": "2022-08-02T17:45:11.367",
+        "titles": [
+          {
+            "title": "Jenkins Openstack Heat for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:openstack_heat:1.5:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Openstack Heat 1.5 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:openstack_heat:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins Openstack Heat for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

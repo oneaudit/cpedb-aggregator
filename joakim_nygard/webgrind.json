@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:joakim_nygard:webgrind:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "759FEE3D-5FC4-4BEF-A986-BCE7632D272F",
+        "lastModified": "2018-08-23T15:04:56.470",
+        "created": "2012-03-20T16:20:08.680",
+        "titles": [
+          {
+            "title": "Joakim Nygard Webgrind 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:webgrind_project:webgrind:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "AA530F6F-E661-4742-9022-DB1FB97049EF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:joakim_nygard:webgrind:1.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "192E418F-55C9-45DB-9D93-DD810E52666A",
+        "lastModified": "2012-12-21T16:41:03.817",
+        "created": "2012-03-20T16:20:08.777",
+        "titles": [
+          {
+            "title": "Joakim Nygard Webgrind 1.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:joakim_nygard:webgrind:1.0:*:*:*:*:*:*:*",
+      "title": "Joakim Nygard Webgrind 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:webgrind_project:webgrind:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:joakim_nygard:webgrind:1.0.2:*:*:*:*:*:*:*",
+      "title": "Joakim Nygard Webgrind 1.0.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

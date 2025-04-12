@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:xp-dev:1.0:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "7D9BB003-8A47-433F-8154-4838EDF3AA9C",
+        "lastModified": "2022-11-16T15:47:44.140",
+        "created": "2022-11-16T13:56:39.030",
+        "titles": [
+          {
+            "title": "Jenkins XP-Dev 1.0 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:xp-dev:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "284A2A2E-B87B-4C38-BBD7-352B261B2861",
+        "lastModified": "2022-11-16T15:47:44.140",
+        "created": "2022-11-16T13:56:39.030",
+        "titles": [
+          {
+            "title": "Jenkins XP-Dev for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:xp-dev:1.0:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins XP-Dev 1.0 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:xp-dev:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins XP-Dev for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:loader.io:1.0.1:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "9EB86245-1C53-4A4F-98BA-AE8E044617FA",
+        "lastModified": "2022-11-16T15:47:44.140",
+        "created": "2022-11-16T13:51:37.397",
+        "titles": [
+          {
+            "title": "Jenkins loader.io 1.0.1 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:loader.io:-:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "B68DA715-EF39-4133-BF29-2B807FF0080B",
+        "lastModified": "2022-11-16T15:47:44.140",
+        "created": "2022-11-16T13:51:37.397",
+        "titles": [
+          {
+            "title": "Jenkins loader.io for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:loader.io:1.0.1:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins loader.io 1.0.1 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:loader.io:-:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins loader.io for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
