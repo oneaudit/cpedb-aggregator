@@ -1,0 +1,163 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:content_services_switch_11500:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BE736478-327D-422C-A4DD-2C398F1D3945",
+        "lastModified": "2008-04-07T13:48:53.823",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Content Service Switch 11500",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:content_services_switch_11500:7.10_\\(05.07\\)s:*:*:*:*:*:*:*",
+        "cpeNameId": "5DFC6146-DD49-43BB-ACD4-C878B8A1B4B6",
+        "lastModified": "2010-12-28T17:36:33.693",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Web NS (Networking Services) 7.10 (05.07)S",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:webns:7.10_\\(05.07\\)s:*:*:*:*:*:*:*",
+            "cpeNameId": "F164B201-617E-46C5-9EAA-147665673B71"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:content_services_switch_11500:7.20_\\(03.09\\)s:*:*:*:*:*:*:*",
+        "cpeNameId": "A5B5808E-49AA-4C4D-9180-F3654521F0DE",
+        "lastModified": "2010-12-28T17:36:34.130",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Web NS (Networking Services) 7.20 (03.09)S",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:webns:7.20_\\(03.09\\)s:*:*:*:*:*:*:*",
+            "cpeNameId": "1769E8C2-C6E0-4033-864B-297C0EB2B19F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:content_services_switch_11500:7.20_\\(03.10\\)s:*:*:*:*:*:*:*",
+        "cpeNameId": "7D41F2C6-ECFB-4208-ADDF-496FF832DE7C",
+        "lastModified": "2010-12-28T17:36:34.537",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Web NS (Networking Services) 7.20 (03.10)S",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:webns:7.20_\\(03.10\\)s:*:*:*:*:*:*:*",
+            "cpeNameId": "4DF9CAFE-CCF9-463F-9958-4118FACADB23"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:content_services_switch_11500:7.30_\\(00.08\\)s:*:*:*:*:*:*:*",
+        "cpeNameId": "79A7FFFE-F5F6-4715-A822-FE998AEF5ADB",
+        "lastModified": "2010-12-28T17:36:34.977",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Web NS (Networking Services) Software 7.30 (00.08)S",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:webns:7.30_\\(00.08\\)s:*:*:*:*:*:*:*",
+            "cpeNameId": "0F2AE1A4-0F75-44BC-A65E-03D757B89F08"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:content_services_switch_11500:7.30_\\(00.09\\)s:*:*:*:*:*:*:*",
+        "cpeNameId": "A5C70DF4-9309-42F8-8943-A0B17D14F9C4",
+        "lastModified": "2010-12-28T17:36:35.397",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Web NS (Networking Services) Software 7.10 (05.07)S",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:webns:7.30_\\(00.09\\)s:*:*:*:*:*:*:*",
+            "cpeNameId": "1207675E-0300-4503-8DA9-DFFE1E7966C3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:content_services_switch_11500:-:*:*:*:*:*:*:*",
+      "title": "Cisco Content Service Switch 11500",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:content_services_switch_11500:7.10_\\(05.07\\)s:*:*:*:*:*:*:*",
+      "title": "Cisco Web NS (Networking Services) 7.10 (05.07)S",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:webns:7.10_\\(05.07\\)s:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:content_services_switch_11500:7.20_\\(03.09\\)s:*:*:*:*:*:*:*",
+      "title": "Cisco Web NS (Networking Services) 7.20 (03.09)S",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:webns:7.20_\\(03.09\\)s:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:content_services_switch_11500:7.20_\\(03.10\\)s:*:*:*:*:*:*:*",
+      "title": "Cisco Web NS (Networking Services) 7.20 (03.10)S",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:webns:7.20_\\(03.10\\)s:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:content_services_switch_11500:7.30_\\(00.08\\)s:*:*:*:*:*:*:*",
+      "title": "Cisco Web NS (Networking Services) Software 7.30 (00.08)S",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:webns:7.30_\\(00.08\\)s:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:content_services_switch_11500:7.30_\\(00.09\\)s:*:*:*:*:*:*:*",
+      "title": "Cisco Web NS (Networking Services) Software 7.10 (05.07)S",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:webns:7.30_\\(00.09\\)s:*:*:*:*:*:*:*"
+    }
+  ]
+}

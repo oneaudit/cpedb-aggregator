@@ -1,0 +1,784 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:clean_access:-:*:*:*:*:*:*:*",
+        "cpeNameId": "81B6E35B-FFFA-45F0-907B-76D77C6261E7",
+        "lastModified": "2010-12-28T17:28:22.583",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco Clean Access Appliance",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.3:*:*:*:*:*:*:*",
+        "cpeNameId": "1F329D66-379B-4D90-A7EB-F72AFB389FDF",
+        "lastModified": "2010-12-28T17:36:21.083",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3:*:*:*:*:*:*:*",
+            "cpeNameId": "1806740B-4EC5-4301-9C81-D10BE79594C8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "E4215117-82D2-4DD3-A32B-D93A3FA30D92",
+        "lastModified": "2010-12-28T17:36:21.507",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control Manager and Server System Software 3.3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "32748FD7-3036-4CCB-8EEF-6E76F844B080"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "BBACE828-596B-4ACF-B959-212F8342938A",
+        "lastModified": "2010-12-28T17:36:21.927",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.2:*:*:*:*:*:*:*",
+            "cpeNameId": "5A42022D-9AB5-4550-A191-2B5A7B5CA230"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.3.3:*:*:*:*:*:*:*",
+        "cpeNameId": "EFBBAD96-55D9-402A-B391-4A3E8D5C20C4",
+        "lastModified": "2010-12-28T17:36:22.333",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.3:*:*:*:*:*:*:*",
+            "cpeNameId": "217CA4EC-EE1B-4DA5-800E-B421B4A57176"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.3.4:*:*:*:*:*:*:*",
+        "cpeNameId": "5294866F-C018-4C5F-89E5-8B504866E38D",
+        "lastModified": "2010-12-28T17:36:22.757",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.4:*:*:*:*:*:*:*",
+            "cpeNameId": "D006D158-8003-43D0-AEE7-43162E1C5E53"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "87FD95A1-A2F1-453B-BC64-AA9A59D3D773",
+        "lastModified": "2010-12-28T17:36:23.193",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.5:*:*:*:*:*:*:*",
+            "cpeNameId": "2835BD28-B84E-4AB8-96DF-5E1F68F74A25"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.3.6:*:*:*:*:*:*:*",
+        "cpeNameId": "6B3ED410-0992-43AF-ADC9-DE6133A53810",
+        "lastModified": "2010-12-28T17:36:23.600",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.6:*:*:*:*:*:*:*",
+            "cpeNameId": "270313EA-6232-49C1-9056-5CCE4FD47C56"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.3.7:*:*:*:*:*:*:*",
+        "cpeNameId": "6717503E-D16D-4799-A260-F77EBB7064FC",
+        "lastModified": "2010-12-28T17:36:24.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.7:*:*:*:*:*:*:*",
+            "cpeNameId": "8FFEC25E-358E-4065-9232-C03D28349D82"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.3.8:*:*:*:*:*:*:*",
+        "cpeNameId": "71EF3CD1-9615-47BE-A41E-AEC5AC674CF3",
+        "lastModified": "2010-12-28T17:36:24.443",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.8:*:*:*:*:*:*:*",
+            "cpeNameId": "BDECB541-51C1-4976-9C7F-5FC59CB0A8C9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.3.9:*:*:*:*:*:*:*",
+        "cpeNameId": "45892496-5FBA-4B32-84D1-C19E7134F713",
+        "lastModified": "2010-12-28T17:36:24.867",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.9:*:*:*:*:*:*:*",
+            "cpeNameId": "9879D7F5-A6DF-475B-B8A9-5252CA9DB87A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.4:*:*:*:*:*:*:*",
+        "cpeNameId": "80E98A69-B249-441B-9983-DA7B67A8960D",
+        "lastModified": "2010-12-28T17:36:25.273",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.4:*:*:*:*:*:*:*",
+            "cpeNameId": "3309B09E-6E82-4398-8E5C-9E7635834591"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4616A53C-0FD3-4A53-9AA0-4B5B58FF3E61",
+        "lastModified": "2010-12-28T17:36:25.710",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.4.1:*:*:*:*:*:*:*",
+            "cpeNameId": "63D59ABA-9017-4AD7-A8D3-4BC6955430E0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "7DEC8FA8-7C95-4744-8B02-EA7780245B2C",
+        "lastModified": "2010-12-28T17:36:26.117",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.4.2:*:*:*:*:*:*:*",
+            "cpeNameId": "6EFA3C47-2E99-4B3D-B9AA-D9F4AEA5CD45"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.4.3:*:*:*:*:*:*:*",
+        "cpeNameId": "F1313DFA-BE57-4527-8BDA-30775882EB38",
+        "lastModified": "2010-12-28T17:36:26.537",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.4.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.4.3:*:*:*:*:*:*:*",
+            "cpeNameId": "878DE62F-A369-488E-B2FD-7E71DDA97B9F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.4.4:*:*:*:*:*:*:*",
+        "cpeNameId": "7F134E97-9F01-474D-BA94-76F3DF51E26B",
+        "lastModified": "2010-12-28T17:36:26.960",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.4.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.4.4:*:*:*:*:*:*:*",
+            "cpeNameId": "DAC8ECBA-094F-4576-9E05-D742A9706710"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.4.5:*:*:*:*:*:*:*",
+        "cpeNameId": "3B7BFCE2-5672-4AF5-B17F-D5BDD789E434",
+        "lastModified": "2010-12-28T17:36:27.380",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.4.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.4.5:*:*:*:*:*:*:*",
+            "cpeNameId": "B8109CBA-8316-444B-B0C6-EE6EF31859BA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "F2026540-2D57-4AEF-93E0-E100ED25CF20",
+        "lastModified": "2010-12-28T17:36:27.787",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5:*:*:*:*:*:*:*",
+            "cpeNameId": "EA3FC782-EE97-459C-A8F7-36F6A7964904"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.5\\(9\\):*:*:*:*:*:*:*",
+        "cpeNameId": "A6CEDB06-E513-49A7-85AE-475D4C9912E3",
+        "lastModified": "2010-12-28T17:36:28.210",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5(9)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5\\(9\\):*:*:*:*:*:*:*",
+            "cpeNameId": "F82EEF93-1391-4FE8-A414-25D2300F3AC1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0D2FC0B5-446C-4CCE-8A72-DB69AF412967",
+        "lastModified": "2010-12-28T17:36:28.630",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5.1:*:*:*:*:*:*:*",
+            "cpeNameId": "1554C0A6-F2D5-4F02-8DF3-CEF9EF50D8C4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "BF9C4232-3B5A-4445-A0D1-D54203E50FE0",
+        "lastModified": "2010-12-28T17:36:29.053",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5.2:*:*:*:*:*:*:*",
+            "cpeNameId": "EA62457E-9107-4F66-B3C7-FA3712F533B9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.5.3:*:*:*:*:*:*:*",
+        "cpeNameId": "E5A879A4-053D-4C75-B140-D9B2EFF62626",
+        "lastModified": "2010-12-28T17:36:29.490",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5.3:*:*:*:*:*:*:*",
+            "cpeNameId": "EF1C3E4C-7912-4719-B461-D6DF36FF2396"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.5.4:*:*:*:*:*:*:*",
+        "cpeNameId": "0C8C1198-BCEF-488A-ABB0-36673C9D7861",
+        "lastModified": "2010-12-28T17:36:29.897",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5.4:*:*:*:*:*:*:*",
+            "cpeNameId": "3FAC92A5-3499-4E02-B7F7-995CC9F6BD24"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.5.5:*:*:*:*:*:*:*",
+        "cpeNameId": "AE499C4E-CC7C-4E9D-BC9C-6243CBFE6708",
+        "lastModified": "2010-12-28T17:36:30.320",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5.5:*:*:*:*:*:*:*",
+            "cpeNameId": "DC0F20F5-3350-43FC-9CA1-98668A407578"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.6.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "A193F666-5B99-498F-9C26-F3F35D18B743",
+        "lastModified": "2010-12-28T17:36:31.163",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.6.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.6.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "C9EFC4B2-CBF9-4CFA-870E-271DEF620AFD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.6.4.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "87800EAB-9348-46F5-B3C0-EC91E9FCB56A",
+        "lastModified": "2010-12-28T17:36:32.007",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.6.4.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.6.4.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "445F82C2-D79F-42CB-AA19-0D8648E8AC7C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.5.9:*:*:*:*:*:*:*",
+        "cpeNameId": "561449D8-ED44-4208-8DBE-A73267D87A9F",
+        "lastModified": "2010-12-28T17:36:30.740",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5.9:*:*:*:*:*:*:*",
+            "cpeNameId": "795C55D2-20C9-4AEE-86B6-F8105D9196CB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:3.6.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "C22E9384-901E-4BA5-A378-CA2530C3944B",
+        "lastModified": "2010-12-28T17:36:31.583",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.6.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.6.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "DD0CA4AB-8B2F-4FD8-A17D-5BC9A1F9630B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:clean_access:4.0.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "F598B67D-25CB-47FA-998A-6BD25F4EE25E",
+        "lastModified": "2010-12-28T17:36:32.427",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 4.0.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:4.0.4.2:*:*:*:*:*:*:*",
+            "cpeNameId": "8575E84C-59FA-4BB0-B3A8-280DE1115E58"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:clean_access:-:*:*:*:*:*:*:*",
+      "title": "Cisco Clean Access Appliance",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.3:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.3.1:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control Manager and Server System Software 3.3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.3.2:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.3.3:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.3.4:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.3.5:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.3.6:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.6:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.3.7:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.7",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.7:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.3.8:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.8:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.3.9:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.3.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.3.9:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.4:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.4.1:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.4.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.4.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.4.2:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.4.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.4.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.4.3:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.4.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.4.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.4.4:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.4.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.4.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.4.5:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.4.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.4.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.5:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.5\\(9\\):*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5(9)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5\\(9\\):*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.5.1:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.5.2:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.5.3:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.5.4:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.5.5:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.6.0.1:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.6.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.6.0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.6.4.0.1:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.6.4.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.6.4.0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.5.9:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.5.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.5.9:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:3.6.1.1:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 3.6.1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.6.1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:clean_access:4.0.4.2:*:*:*:*:*:*:*",
+      "title": "Cisco Network Admission Control (NAC) Manager and Server System Software 4.0.4.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:4.0.4.2:*:*:*:*:*:*:*"
+    }
+  ]
+}
