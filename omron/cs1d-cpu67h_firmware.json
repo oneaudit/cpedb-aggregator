@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:omron:cs1d-cpu67h_firmware:1.4:*:*:*:*:*:*:*",
+        "cpeNameId": "9E3C0962-7326-4415-ACBE-CAA5F135DDB9",
+        "lastModified": "2024-01-29T19:32:36.737",
+        "created": "2024-01-29T19:32:36.737",
+        "titles": [
+          {
+            "title": "Omron CS1D-CPU67H Firmware 1.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:omron:cs1d-cpu67h_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CCF6C3DF-2BAA-4244-BC57-A2E60DF2BF35",
+        "lastModified": "2024-01-29T19:32:52.340",
+        "created": "2024-01-29T19:32:52.340",
+        "titles": [
+          {
+            "title": "Omron CS1D-CPU67H Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:omron:cs1d-cpu67h_firmware:1.4:*:*:*:*:*:*:*",
+      "title": "Omron CS1D-CPU67H Firmware 1.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:omron:cs1d-cpu67h_firmware:-:*:*:*:*:*:*:*",
+      "title": "Omron CS1D-CPU67H Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

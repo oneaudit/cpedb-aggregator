@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:omron:cj2h-cpu65_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8023421D-8CDF-43AA-9265-545E89592C27",
+        "lastModified": "2023-06-29T16:17:08.853",
+        "created": "2023-06-29T16:04:22.513",
+        "titles": [
+          {
+            "title": "Omron CJ2H-CPU65 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:omron:cj2h-cpu65_firmware:1.5:*:*:*:*:*:*:*",
+        "cpeNameId": "256D2C62-0B90-4DFE-9119-4691C370212A",
+        "lastModified": "2024-01-29T19:32:36.737",
+        "created": "2024-01-29T19:32:36.737",
+        "titles": [
+          {
+            "title": "Omron CJ2H-CPU65 Firmware 1.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:omron:cj2h-cpu65_firmware:-:*:*:*:*:*:*:*",
+      "title": "Omron CJ2H-CPU65 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:omron:cj2h-cpu65_firmware:1.5:*:*:*:*:*:*:*",
+      "title": "Omron CJ2H-CPU65 Firmware 1.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

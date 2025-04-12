@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:omron:cs1d-cpu65p_firmware:1.4:*:*:*:*:*:*:*",
+        "cpeNameId": "A5F98ADA-665E-49B5-AA21-C62BEBC8CADE",
+        "lastModified": "2024-01-29T19:32:36.737",
+        "created": "2024-01-29T19:32:36.737",
+        "titles": [
+          {
+            "title": "Omron CS1D-CPU65P Firmware 1.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:omron:cs1d-cpu65p_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AE04E22C-39A2-4AA3-BDD3-72CF048FE41E",
+        "lastModified": "2024-01-29T19:32:52.340",
+        "created": "2024-01-29T19:32:52.340",
+        "titles": [
+          {
+            "title": "Omron CS1D-CPU65P Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:omron:cs1d-cpu65p_firmware:1.4:*:*:*:*:*:*:*",
+      "title": "Omron CS1D-CPU65P Firmware 1.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:omron:cs1d-cpu65p_firmware:-:*:*:*:*:*:*:*",
+      "title": "Omron CS1D-CPU65P Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

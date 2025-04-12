@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:omron:sysmac_cp1e_firmware:1.30:*:*:*:*:*:*:*",
+        "cpeNameId": "10FBED3A-4C06-4C49-B2E8-C2EB298FEEF7",
+        "lastModified": "2022-08-03T16:56:50.837",
+        "created": "2022-08-03T14:54:37.167",
+        "titles": [
+          {
+            "title": "Omron SYSMAC CP1E Firmware 1.30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:omron:sysmac_cp1e_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F499482D-07AC-48D2-A52E-FA850C649C42",
+        "lastModified": "2022-08-03T16:56:50.837",
+        "created": "2022-08-03T14:54:37.167",
+        "titles": [
+          {
+            "title": "Omron SYSMAC CP1E Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:omron:sysmac_cp1e_firmware:1.30:*:*:*:*:*:*:*",
+      "title": "Omron SYSMAC CP1E Firmware 1.30",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:omron:sysmac_cp1e_firmware:-:*:*:*:*:*:*:*",
+      "title": "Omron SYSMAC CP1E Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

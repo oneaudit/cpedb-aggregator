@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:omron:cs1d-cpu44s_firmware:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "77FFCCF6-7B65-4143-B70D-60DBA90F97D8",
+        "lastModified": "2024-01-29T19:32:36.737",
+        "created": "2024-01-29T19:32:36.737",
+        "titles": [
+          {
+            "title": "Omron CS1D-CPU44S Firmware 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:omron:cs1d-cpu44s_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "611D640A-E354-484C-BE53-4BE522C1A192",
+        "lastModified": "2024-01-29T19:32:52.340",
+        "created": "2024-01-29T19:32:52.340",
+        "titles": [
+          {
+            "title": "Omron CS1D-CPU44S Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:omron:cs1d-cpu44s_firmware:2.1:*:*:*:*:*:*:*",
+      "title": "Omron CS1D-CPU44S Firmware 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:omron:cs1d-cpu44s_firmware:-:*:*:*:*:*:*:*",
+      "title": "Omron CS1D-CPU44S Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

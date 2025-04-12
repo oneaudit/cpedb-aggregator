@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:omron:cs1g-cpu45h_firmware:4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "90F3AA81-EC8D-43BD-B212-659A10E3FFA5",
+        "lastModified": "2024-01-29T19:32:36.737",
+        "created": "2024-01-29T19:32:36.737",
+        "titles": [
+          {
+            "title": "Omron CS1G-CPU45H Firmware 4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:omron:cs1g-cpu45h_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "184AF425-59F5-4299-8646-6E4EC731948D",
+        "lastModified": "2024-01-29T19:32:52.340",
+        "created": "2024-01-29T19:32:52.340",
+        "titles": [
+          {
+            "title": "Omron CS1G-CPU45H Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:omron:cs1g-cpu45h_firmware:4.1:*:*:*:*:*:*:*",
+      "title": "Omron CS1G-CPU45H Firmware 4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:omron:cs1g-cpu45h_firmware:-:*:*:*:*:*:*:*",
+      "title": "Omron CS1G-CPU45H Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
