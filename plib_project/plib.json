@@ -1,0 +1,77 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:plib_project:plib:1.85:*:*:*:*:*:*:*",
+        "cpeNameId": "A8BD1821-CD91-4BCF-AD2E-0B4F8709073B",
+        "lastModified": "2021-09-08T15:06:30.277",
+        "created": "2021-08-27T13:15:06.200",
+        "titles": [
+          {
+            "title": "Plib Project Plib 1.85",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:plib_project:plib:1.8.5:*:*:*:*:*:*:*",
+            "cpeNameId": "E3B8ACA3-482F-47C1-8678-C56F6E6B0415"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:plib_project:plib:1.8.5:*:*:*:*:*:*:*",
+        "cpeNameId": "E3B8ACA3-482F-47C1-8678-C56F6E6B0415",
+        "lastModified": "2021-09-08T15:06:30.277",
+        "created": "2021-09-02T12:43:39.643",
+        "titles": [
+          {
+            "title": "PLIB Project PLIB 1.8.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:plib_project:plib:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CE73B5A4-1B97-4664-B4D7-FBEE730B597D",
+        "lastModified": "2021-09-02T12:45:30.747",
+        "created": "2021-09-02T12:43:39.643",
+        "titles": [
+          {
+            "title": "PLIB Project PLIB",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:plib_project:plib:1.85:*:*:*:*:*:*:*",
+      "title": "Plib Project Plib 1.85",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:plib_project:plib:1.8.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:plib_project:plib:1.8.5:*:*:*:*:*:*:*",
+      "title": "PLIB Project PLIB 1.8.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:plib_project:plib:-:*:*:*:*:*:*:*",
+      "title": "PLIB Project PLIB",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

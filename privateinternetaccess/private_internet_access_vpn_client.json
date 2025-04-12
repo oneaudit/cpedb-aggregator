@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:privateinternetaccess:private_internet_access_vpn_client:1.5.0:*:*:*:*:linux:*:*",
+        "cpeNameId": "E810D49D-2133-497F-8518-1A514581A5E7",
+        "lastModified": "2021-01-11T15:20:57.257",
+        "created": "2021-01-11T15:20:57.257",
+        "titles": [
+          {
+            "title": "Private Internet Access VPN Client 1.5.0 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:privateinternetaccess:private_internet_access_vpn_client:2.4.0:*:*:*:*:linux:*:*",
+        "cpeNameId": "513EF89C-825B-40CC-8090-A9897A209C11",
+        "lastModified": "2021-01-11T15:20:57.460",
+        "created": "2021-01-11T15:20:57.460",
+        "titles": [
+          {
+            "title": "Private Internet Access VPN Client 2.4.0 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:privateinternetaccess:private_internet_access_vpn_client:1.5.0:*:*:*:*:linux:*:*",
+      "title": "Private Internet Access VPN Client 1.5.0 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:privateinternetaccess:private_internet_access_vpn_client:2.4.0:*:*:*:*:linux:*:*",
+      "title": "Private Internet Access VPN Client 2.4.0 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

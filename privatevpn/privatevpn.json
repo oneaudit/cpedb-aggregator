@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:privatevpn:privatevpn:2.0.31:*:*:*:*:mac_os:*:*",
+        "cpeNameId": "DC051497-8C48-4D28-9CED-182B3AA81216",
+        "lastModified": "2020-05-04T14:14:15.900",
+        "created": "2019-10-04T16:04:29.583",
+        "titles": [
+          {
+            "title": "PrivateVPN 2.0.31 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:privatevpn:privatevpn:2.0.31:*:*:*:*:macos:*:*",
+            "cpeNameId": "50BF1989-AF9C-4F30-ABDC-7408E6C3C6DC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:privatevpn:privatevpn:2.0.31:*:*:*:*:macos:*:*",
+        "cpeNameId": "50BF1989-AF9C-4F30-ABDC-7408E6C3C6DC",
+        "lastModified": "2020-05-04T14:13:19.823",
+        "created": "2020-05-04T14:13:19.823",
+        "titles": [
+          {
+            "title": "PrivateVPN 2.0.31 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:privatevpn:privatevpn:2.0.31:*:*:*:*:mac_os:*:*",
+      "title": "PrivateVPN 2.0.31 for macOS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:privatevpn:privatevpn:2.0.31:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:privatevpn:privatevpn:2.0.31:*:*:*:*:macos:*:*",
+      "title": "PrivateVPN 2.0.31 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:plex:plex_media_server:0.9.9.2:*:*:*:*:*:*:*",
+        "cpeNameId": "10B1D2AE-B8CF-41E7-9C79-2F0DC2FE54B8",
+        "lastModified": "2021-12-10T16:58:35.190",
+        "created": "2014-12-02T18:38:59.860",
+        "titles": [
+          {
+            "title": "Plex Media Server 0.9.9.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:plex:media_server:0.9.9.2:*:*:*:*:*:*:*",
+            "cpeNameId": "97A634AD-E418-4526-91D9-33D8A3983EF5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:plex:plex_media_server:1.18.2.2029-36236cc4c:*:*:*:*:*:*:*",
+        "cpeNameId": "D35C3CC4-8DD9-4516-B80C-8ECD27A14CC8",
+        "lastModified": "2021-12-10T16:58:35.190",
+        "created": "2019-12-03T17:33:10.403",
+        "titles": [
+          {
+            "title": "Plex Media Server 1.18.2.2029-36236cc4c",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:plex:media_server:1.18.2.2029-36236cc4c:*:*:*:*:*:*:*",
+            "cpeNameId": "202D8B15-31A0-45D0-B9EF-36F0A29CF431"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:plex:plex_media_server:1.19.3:*:*:*:*:*:*:*",
+        "cpeNameId": "6D6BAA07-1670-48B6-9C2F-16F194ADF2D7",
+        "lastModified": "2021-12-10T16:58:35.190",
+        "created": "2020-05-12T12:34:01.577",
+        "titles": [
+          {
+            "title": "Plex Media Server 1.19.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:plex:media_server:1.19.3:*:*:*:*:*:*:*",
+            "cpeNameId": "21A158BE-F44B-4879-89A7-8467872A9A09"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:plex:plex_media_server:1.19.1.2701:*:*:*:*:*:*:*",
+        "cpeNameId": "B53E8220-FF3F-4054-BA09-B351675186AF",
+        "lastModified": "2021-12-10T16:58:35.190",
+        "created": "2020-06-25T18:51:56.460",
+        "titles": [
+          {
+            "title": "Plex Media Server 1.19.1.2701",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:plex:media_server:1.19.1.2701:*:*:*:*:*:*:*",
+            "cpeNameId": "7EC7F0B7-C6EB-4B8B-BF98-89A9A936BBBA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:plex:plex_media_server:0.9.9.2:*:*:*:*:*:*:*",
+      "title": "Plex Media Server 0.9.9.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:plex:media_server:0.9.9.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:plex:plex_media_server:1.18.2.2029-36236cc4c:*:*:*:*:*:*:*",
+      "title": "Plex Media Server 1.18.2.2029-36236cc4c",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:plex:media_server:1.18.2.2029-36236cc4c:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:plex:plex_media_server:1.19.3:*:*:*:*:*:*:*",
+      "title": "Plex Media Server 1.19.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:plex:media_server:1.19.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:plex:plex_media_server:1.19.1.2701:*:*:*:*:*:*:*",
+      "title": "Plex Media Server 1.19.1.2701",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:plex:media_server:1.19.1.2701:*:*:*:*:*:*:*"
+    }
+  ]
+}

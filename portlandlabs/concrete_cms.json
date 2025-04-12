@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:portlandlabs:concrete_cms:5.4.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "5EE93EA4-5472-4D59-B233-24B66657BC07",
+        "lastModified": "2021-07-15T20:42:14.807",
+        "created": "2020-01-16T19:42:51.313",
+        "titles": [
+          {
+            "title": "Portlandlabs Concrete CMS  5.4.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:concretecms:concrete_cms:5.4.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "73F93866-AEB6-4503-8885-F536F48160F0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:portlandlabs:concrete_cms:5.4.1.1:*:*:*:*:*:*:*",
+      "title": "Portlandlabs Concrete CMS  5.4.1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:concretecms:concrete_cms:5.4.1.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

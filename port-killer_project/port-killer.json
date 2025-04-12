@@ -1,0 +1,99 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:port-killer_project:port-killer:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CCB1527E-5262-4845-8A4A-17D0FE350312",
+        "lastModified": "2021-06-28T17:23:17.760",
+        "created": "2021-03-18T15:25:08.500",
+        "titles": [
+          {
+            "title": "port-killer Project port-killer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:port-killer_project:port-killer:-:*:*:*:*:node.js:*:*",
+            "cpeNameId": "497377C6-515F-4EEB-A95C-FF97C21D3F8C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:port-killer_project:port-killer:-:*:*:*:*:node.js:*:*",
+        "cpeNameId": "497377C6-515F-4EEB-A95C-FF97C21D3F8C",
+        "lastModified": "2021-06-28T17:23:17.760",
+        "created": "2021-06-28T17:22:22.840",
+        "titles": [
+          {
+            "title": "port-killer Project port-killer for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:port-killer_project:port-killer:1.0.0:*:*:*:*:node.js:*:*",
+        "cpeNameId": "49EA4D23-AD74-4112-A6B7-94F32AE55E80",
+        "lastModified": "2021-06-28T17:24:36.590",
+        "created": "2021-06-28T17:23:54.060",
+        "titles": [
+          {
+            "title": "port-killer Project port-killer 1.0.0 for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:port-killer_project:port-killer:1.0.1:*:*:*:*:node.js:*:*",
+        "cpeNameId": "03217C63-AC6A-471E-94EF-0AB2F68381F6",
+        "lastModified": "2021-06-28T17:24:36.590",
+        "created": "2021-06-28T17:23:54.060",
+        "titles": [
+          {
+            "title": "port-killer Project port-killer 1.0.1 for Node.js",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:port-killer_project:port-killer:-:*:*:*:*:*:*:*",
+      "title": "port-killer Project port-killer",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:port-killer_project:port-killer:-:*:*:*:*:node.js:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:port-killer_project:port-killer:-:*:*:*:*:node.js:*:*",
+      "title": "port-killer Project port-killer for Node.js",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:port-killer_project:port-killer:1.0.0:*:*:*:*:node.js:*:*",
+      "title": "port-killer Project port-killer 1.0.0 for Node.js",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:port-killer_project:port-killer:1.0.1:*:*:*:*:node.js:*:*",
+      "title": "port-killer Project port-killer 1.0.1 for Node.js",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

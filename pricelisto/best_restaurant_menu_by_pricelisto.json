@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pricelisto:best_restaurant_menu_by_pricelisto:1.3.1:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "FA18F861-B592-4143-9CFF-C0377AFE731C",
+        "lastModified": "2024-09-13T21:06:33.657",
+        "created": "2023-12-16T03:42:31.200",
+        "titles": [
+          {
+            "title": "PriceListo Best Restaurant Menu By PriceListo 1.3.1 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:pricelisto:great_restaurant_menu_wp:1.3.1:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "764CC303-177D-4132-9850-52F5250810AA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pricelisto:best_restaurant_menu_by_pricelisto:1.3.1:*:*:*:*:wordpress:*:*",
+      "title": "PriceListo Best Restaurant Menu By PriceListo 1.3.1 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:pricelisto:great_restaurant_menu_wp:1.3.1:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

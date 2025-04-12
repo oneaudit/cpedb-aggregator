@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:platform:lsadmin:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8E5010ED-DEAB-4B01-A7C1-1D364A048F3E",
+        "lastModified": "2008-04-01T16:13:39.710",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Linux lsadmin",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:platform:lsadmin:5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "10687584-934B-4470-86C8-41C400B7E22C",
+        "lastModified": "2008-04-01T16:13:39.757",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Linux lsadmin 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:platform:lsadmin:-:*:*:*:*:*:*:*",
+      "title": "Linux lsadmin",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:platform:lsadmin:5.1:*:*:*:*:*:*:*",
+      "title": "Linux lsadmin 5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

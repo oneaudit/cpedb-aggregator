@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:proofpoint:threat_response_auto_pull:5.10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5607FCF9-F697-49BF-8052-579F28707CFD",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "ProofPoint Threat Response Auto Pull (TRAP) 5.10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:proofpoint:threat_response_auto_pull:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7DD23006-6FED-4E42-A859-7DB5F4BB014C",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "ProofPoint Threat Response Auto Pull (TRAP)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:proofpoint:threat_response_auto_pull:5.10.0:*:*:*:*:*:*:*",
+      "title": "ProofPoint Threat Response Auto Pull (TRAP) 5.10.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:proofpoint:threat_response_auto_pull:-:*:*:*:*:*:*:*",
+      "title": "ProofPoint Threat Response Auto Pull (TRAP)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
