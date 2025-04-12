@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pi-hole:adminlte:5.13:*:*:*:*:*:*:*",
+        "cpeNameId": "BBE5E9DB-5FD5-49BE-889D-546167D72D84",
+        "lastModified": "2022-07-20T18:40:44.273",
+        "created": "2022-07-13T15:16:11.157",
+        "titles": [
+          {
+            "title": "Pi-hole AdminLTE 5.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pi-hole:adminlte:-:*:*:*:*:*:*:*",
+        "cpeNameId": "69DD501C-FA11-4BA7-8FF5-A25E8B3F73AA",
+        "lastModified": "2022-07-20T18:40:44.273",
+        "created": "2022-07-13T15:16:11.157",
+        "titles": [
+          {
+            "title": "Pi-hole AdminLTE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pi-hole:adminlte:5.12:*:*:*:*:*:*:*",
+        "cpeNameId": "12A14C67-7D59-4481-BF38-69250E346EDB",
+        "lastModified": "2022-07-20T18:40:44.273",
+        "created": "2022-07-13T15:16:11.157",
+        "titles": [
+          {
+            "title": "Pi-hole AdminLTE 5.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pi-hole:adminlte:5.13:*:*:*:*:*:*:*",
+      "title": "Pi-hole AdminLTE 5.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:pi-hole:adminlte:-:*:*:*:*:*:*:*",
+      "title": "Pi-hole AdminLTE",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:pi-hole:adminlte:5.12:*:*:*:*:*:*:*",
+      "title": "Pi-hole AdminLTE 5.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

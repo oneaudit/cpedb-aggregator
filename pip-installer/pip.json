@@ -1,0 +1,168 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pip-installer:pip:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D02762E3-5690-4F61-889C-8FF5546470BB",
+        "lastModified": "2021-03-18T13:27:05.530",
+        "created": "2013-08-06T04:18:52.087",
+        "titles": [
+          {
+            "title": "pip-installer pip 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:pypa:pip:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "47646610-B62A-46D9-AB00-3B6D29869809"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pip-installer:pip:1.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "D0E989EA-3377-4D5A-B3D7-85A5F3EACF0C",
+        "lastModified": "2021-03-18T13:27:05.530",
+        "created": "2013-08-06T04:18:52.230",
+        "titles": [
+          {
+            "title": "pip-installer pip 1.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:pypa:pip:1.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "B6101BFA-9D58-4EC9-A629-1B82BF4FF52A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pip-installer:pip:1.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "C4425651-C106-4F23-BAFC-631C775CA713",
+        "lastModified": "2021-03-18T13:27:05.530",
+        "created": "2013-08-06T04:18:52.373",
+        "titles": [
+          {
+            "title": "pip-installer pip 1.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:pypa:pip:1.0.2:*:*:*:*:*:*:*",
+            "cpeNameId": "6BCEDCE1-609F-4098-9783-F463AB48D8F3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pip-installer:pip:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "3769EC5F-4E7B-4C97-988E-CAF0287310F7",
+        "lastModified": "2021-03-18T13:27:05.530",
+        "created": "2013-08-06T04:18:52.513",
+        "titles": [
+          {
+            "title": "pip-installer pip 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:pypa:pip:1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "B623313A-AF2F-4AF5-A2F3-0CB46FD58F4C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pip-installer:pip:1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "FE8E85DF-A223-41E9-AACF-24AAA882AF85",
+        "lastModified": "2021-03-18T13:27:05.530",
+        "created": "2013-08-06T04:18:52.663",
+        "titles": [
+          {
+            "title": "pip-installer pip 1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:pypa:pip:1.2:*:*:*:*:*:*:*",
+            "cpeNameId": "38D6F320-CB71-440E-BA5C-AB7E4C2FE17C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pip-installer:pip:1.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "2BEE9B6B-6836-4D04-96FA-2930CCEC8EDA",
+        "lastModified": "2021-03-18T13:27:05.530",
+        "created": "2013-08-06T04:18:52.803",
+        "titles": [
+          {
+            "title": "pip-installer pip 1.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:pypa:pip:1.2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "6E7FA816-AED3-4E9E-8401-3A2A3F20BE62"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pip-installer:pip:1.0:*:*:*:*:*:*:*",
+      "title": "pip-installer pip 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:pypa:pip:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:pip-installer:pip:1.0.1:*:*:*:*:*:*:*",
+      "title": "pip-installer pip 1.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:pypa:pip:1.0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:pip-installer:pip:1.0.2:*:*:*:*:*:*:*",
+      "title": "pip-installer pip 1.0.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:pypa:pip:1.0.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:pip-installer:pip:1.1:*:*:*:*:*:*:*",
+      "title": "pip-installer pip 1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:pypa:pip:1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:pip-installer:pip:1.2:*:*:*:*:*:*:*",
+      "title": "pip-installer pip 1.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:pypa:pip:1.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:pip-installer:pip:1.2.1:*:*:*:*:*:*:*",
+      "title": "pip-installer pip 1.2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:pypa:pip:1.2.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

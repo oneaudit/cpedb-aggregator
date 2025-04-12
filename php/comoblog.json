@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:php:comoblog:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7D1C7EBA-45F5-4C4E-8E43-A8140248FB7F",
+        "lastModified": "2020-03-24T12:49:59.027",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "PHP CoMoblog",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:comoblog_project:comoblog:-:*:*:*:*:*:*:*",
+            "cpeNameId": "DE28FDB4-0830-4154-923E-EA7C7AB89261"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:php:comoblog:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "FFFA1644-BCC3-47B9-B34D-5D6712E16845",
+        "lastModified": "2020-03-24T12:49:59.320",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "PHP CoMoblog 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:comoblog_project:comoblog:1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "7C3F93F8-0610-4B35-82D1-A6B4CA94713D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:php:comoblog:-:*:*:*:*:*:*:*",
+      "title": "PHP CoMoblog",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:comoblog_project:comoblog:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:php:comoblog:1.1:*:*:*:*:*:*:*",
+      "title": "PHP CoMoblog 1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:comoblog_project:comoblog:1.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

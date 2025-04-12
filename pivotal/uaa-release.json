@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pivotal:uaa-release:2:*:*:*:*:*:*:*",
+        "cpeNameId": "1D253349-0198-4770-96B5-BDDD0FC27E53",
+        "lastModified": "2021-05-25T12:45:11.460",
+        "created": "2017-09-13T14:56:02.010",
+        "titles": [
+          {
+            "title": "Pivotal Uaa-release 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cloudfoundry:uaa-release:2:*:*:*:*:*:*:*",
+            "cpeNameId": "C243592F-A534-4FA9-A825-81BECB0F4ECF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pivotal:uaa-release:3:*:*:*:*:*:*:*",
+        "cpeNameId": "86BFDA21-3E79-4405-87C1-170052D02C9D",
+        "lastModified": "2021-05-25T12:45:11.460",
+        "created": "2017-09-13T14:56:02.010",
+        "titles": [
+          {
+            "title": "Pivotal Uaa-release 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cloudfoundry:uaa-release:3:*:*:*:*:*:*:*",
+            "cpeNameId": "E9CBF358-AEB2-4798-8741-364CCAC35025"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pivotal:uaa-release:4:*:*:*:*:*:*:*",
+        "cpeNameId": "4A48475F-4A4A-407D-BD11-688913FC3897",
+        "lastModified": "2021-05-25T12:45:11.460",
+        "created": "2017-09-13T14:56:02.010",
+        "titles": [
+          {
+            "title": "Pivotal Uaa-release 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cloudfoundry:uaa-release:4:*:*:*:*:*:*:*",
+            "cpeNameId": "2FD5C435-90BB-43EC-8E74-17C1B163395E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pivotal:uaa-release:2:*:*:*:*:*:*:*",
+      "title": "Pivotal Uaa-release 2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cloudfoundry:uaa-release:2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:pivotal:uaa-release:3:*:*:*:*:*:*:*",
+      "title": "Pivotal Uaa-release 3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cloudfoundry:uaa-release:3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:pivotal:uaa-release:4:*:*:*:*:*:*:*",
+      "title": "Pivotal Uaa-release 4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cloudfoundry:uaa-release:4:*:*:*:*:*:*:*"
+    }
+  ]
+}

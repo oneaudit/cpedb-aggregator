@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pivotal:cloud_foundry_smb_volume:3.1.19:*:*:*:*:*:*:*",
+        "cpeNameId": "F39B2D33-4851-4818-A955-8BF6C076584C",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-06-30T15:15:57.940",
+        "titles": [
+          {
+            "title": "Pivotal Cloud Foundry SMB Volume 3.1.19",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pivotal:cloud_foundry_smb_volume:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3417E6E7-3209-491B-9545-9D8C6AFEA21A",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-06-30T15:15:57.940",
+        "titles": [
+          {
+            "title": "Pivotal Cloud Foundry SMB Volume -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pivotal:cloud_foundry_smb_volume:3.1.19:*:*:*:*:*:*:*",
+      "title": "Pivotal Cloud Foundry SMB Volume 3.1.19",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:pivotal:cloud_foundry_smb_volume:-:*:*:*:*:*:*:*",
+      "title": "Pivotal Cloud Foundry SMB Volume -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

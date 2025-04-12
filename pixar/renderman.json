@@ -1,0 +1,99 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:pixar:renderman:22.3.0:*:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "231AE04B-D8C1-4EBD-A1B6-1FBC579BA585",
+        "lastModified": "2020-05-11T18:39:02.633",
+        "created": "2019-05-29T13:33:44.073",
+        "titles": [
+          {
+            "title": "Pixar Renderman 22.3.0 for Mac OS X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:pixar:renderman:22.3.0:*:*:*:*:macos:*:*",
+            "cpeNameId": "A23BBAAF-498F-4967-925A-FF76426E3D8D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pixar:renderman:22.3.0:*:*:*:*:macos:*:*",
+        "cpeNameId": "A23BBAAF-498F-4967-925A-FF76426E3D8D",
+        "lastModified": "2019-06-14T20:02:59.183",
+        "created": "2019-06-14T20:02:59.183",
+        "titles": [
+          {
+            "title": "Pixar Renderman 22.3.0 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pixar:renderman:22.2.0:*:*:*:*:macos:*:*",
+        "cpeNameId": "3A38DFAD-0F29-42AB-BEBD-4C58A8AD1B4B",
+        "lastModified": "2019-09-11T14:23:34.340",
+        "created": "2019-09-11T14:23:34.340",
+        "titles": [
+          {
+            "title": "Pixar Renderman 22.2.0 for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:pixar:renderman:21.6:*:*:*:*:*:*:*",
+        "cpeNameId": "499FCF30-3E89-43F3-9140-307D84B4CE10",
+        "lastModified": "2020-07-29T19:57:13.480",
+        "created": "2020-07-29T19:57:13.480",
+        "titles": [
+          {
+            "title": "Pixar Renderman 21.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:pixar:renderman:22.3.0:*:*:*:*:mac_os_x:*:*",
+      "title": "Pixar Renderman 22.3.0 for Mac OS X",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:pixar:renderman:22.3.0:*:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:pixar:renderman:22.3.0:*:*:*:*:macos:*:*",
+      "title": "Pixar Renderman 22.3.0 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:pixar:renderman:22.2.0:*:*:*:*:macos:*:*",
+      "title": "Pixar Renderman 22.2.0 for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:pixar:renderman:21.6:*:*:*:*:*:*:*",
+      "title": "Pixar Renderman 21.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:php:phorum:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FBED0065-0C9E-402B-AF0A-BB6C0CE84188",
+        "lastModified": "2012-02-10T18:53:07.970",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Phorum",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phorum:phorum:-:*:*:*:*:*:*:*",
+            "cpeNameId": "64AD2DBC-4E36-484D-A1B5-F7C146359AD0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:php:phorum:3.2.11:*:*:*:*:*:*:*",
+        "cpeNameId": "7DD084FA-69EE-44B6-8D8D-ABB1B96940B1",
+        "lastModified": "2012-02-10T18:53:08.080",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Phorum 3.2.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phorum:phorum:3.2.11:*:*:*:*:*:*:*",
+            "cpeNameId": "739FB5D5-461E-4F17-81A4-C40CBC7C6ACD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:php:phorum:-:*:*:*:*:*:*:*",
+      "title": "Phorum",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phorum:phorum:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:php:phorum:3.2.11:*:*:*:*:*:*:*",
+      "title": "Phorum 3.2.11",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phorum:phorum:3.2.11:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "01F7B74E-8DAD-4FDD-A518-1D53268F0E9D",
+        "lastModified": "2023-11-14T17:39:11.430",
+        "created": "2020-03-05T20:04:22.707",
+        "titles": [
+          {
+            "title": "phpgurukul Daily Expense Tracker System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:1.0:*:*:*:-:*:*:*",
+            "cpeNameId": "718D5BB6-46FF-427D-A7EA-3D7A049EC45E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0A1424DA-79A7-4712-8BF7-8CD7D0B48E42",
+        "lastModified": "2023-11-14T17:39:11.430",
+        "created": "2023-11-14T16:00:47.317",
+        "titles": [
+          {
+            "title": "PHPGurukul Daily Expense Tracker System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:-:*:*:*:-:*:*:*",
+            "cpeNameId": "C3866BCC-0E17-4B62-ABD7-665D9E96CF4B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:-:*:*:*:pro:*:*:*",
+        "cpeNameId": "819723F8-298E-49AF-9C47-0D513E0092F8",
+        "lastModified": "2023-11-14T17:36:30.797",
+        "created": "2023-11-14T17:36:30.797",
+        "titles": [
+          {
+            "title": "PHPGurukul Daily Expense Tracker System Pro Version",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:-:*:*:*:-:*:*:*",
+        "cpeNameId": "C3866BCC-0E17-4B62-ABD7-665D9E96CF4B",
+        "lastModified": "2023-11-14T17:39:11.430",
+        "created": "2023-11-14T17:39:11.430",
+        "titles": [
+          {
+            "title": "PHPGurukul Daily Expense Tracker System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:1.0:*:*:*:-:*:*:*",
+        "cpeNameId": "718D5BB6-46FF-427D-A7EA-3D7A049EC45E",
+        "lastModified": "2023-11-14T17:39:11.430",
+        "created": "2023-11-14T17:39:11.430",
+        "titles": [
+          {
+            "title": "PHPGurukul Daily Expense Tracker System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:1.1:*:*:*:-:*:*:*",
+        "cpeNameId": "21C87CA2-3807-4F7F-96A9-E24DC1DB080A",
+        "lastModified": "2025-03-31T12:27:56.180",
+        "created": "2025-03-31T12:27:56.180",
+        "titles": [
+          {
+            "title": "PHPGurukul Daily Expense Tracker System 1.1 - Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:1.0:*:*:*:*:*:*:*",
+      "title": "phpgurukul Daily Expense Tracker System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:1.0:*:*:*:-:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:-:*:*:*:*:*:*:*",
+      "title": "PHPGurukul Daily Expense Tracker System",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:-:*:*:*:-:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:-:*:*:*:pro:*:*:*",
+      "title": "PHPGurukul Daily Expense Tracker System Pro Version",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:-:*:*:*:-:*:*:*",
+      "title": "PHPGurukul Daily Expense Tracker System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:1.0:*:*:*:-:*:*:*",
+      "title": "PHPGurukul Daily Expense Tracker System 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:1.1:*:*:*:-:*:*:*",
+      "title": "PHPGurukul Daily Expense Tracker System 1.1 - Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

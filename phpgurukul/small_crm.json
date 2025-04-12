@@ -1,0 +1,77 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:phpgurukul:small_crm:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DF2BC810-D31A-4E38-A2DE-AA4E702CEE3E",
+        "lastModified": "2023-02-21T19:09:46.910",
+        "created": "2020-04-14T11:18:03.247",
+        "titles": [
+          {
+            "title": "PHPGurukul Small CRM 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:small_crm_project:small_crm:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "7DA90781-F0BA-41D3-9355-2766513EEFD3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:phpgurukul:small_crm:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "215FB1F7-9B7B-4F5B-BB2D-98659232FA50",
+        "lastModified": "2025-02-18T19:00:58.060",
+        "created": "2025-02-18T19:00:58.060",
+        "titles": [
+          {
+            "title": "PHPGurukul Small CRM 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:phpgurukul:small_crm:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "921D9640-918B-4CAB-A704-F4F014CAA71E",
+        "lastModified": "2025-03-31T12:27:56.180",
+        "created": "2025-03-31T12:27:56.180",
+        "titles": [
+          {
+            "title": "PHPGurukul Small CRM 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:phpgurukul:small_crm:2.0:*:*:*:*:*:*:*",
+      "title": "PHPGurukul Small CRM 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:small_crm_project:small_crm:2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:phpgurukul:small_crm:3.0:*:*:*:*:*:*:*",
+      "title": "PHPGurukul Small CRM 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:phpgurukul:small_crm:1.0:*:*:*:*:*:*:*",
+      "title": "PHPGurukul Small CRM 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

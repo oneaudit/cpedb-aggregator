@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:php-fusion:team_impact_ti_blog_system_module:_nil_:*:*:*:*:*:*:*",
+        "cpeNameId": "74ACC42C-9E7A-4C1E-B43C-203481CA6802",
+        "lastModified": "2009-03-05T17:19:19.547",
+        "created": "2008-12-29T19:32:36.043",
+        "titles": [
+          {
+            "title": "PHP-Fusion Team Impact TI Blog System Module",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:php-fusion:team_impact_ti_blog_system_module:-:*:*:*:*:*:*:*",
+            "cpeNameId": "20AEBA8F-32EA-44C2-9937-52EED97E3FEE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:php-fusion:team_impact_ti_blog_system_module:-:*:*:*:*:*:*:*",
+        "cpeNameId": "20AEBA8F-32EA-44C2-9937-52EED97E3FEE",
+        "lastModified": "2009-03-05T17:19:03.203",
+        "created": "2009-03-05T17:19:03.203",
+        "titles": [
+          {
+            "title": "PHP-Fusion Team Impact TI Blog System Module",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:php-fusion:team_impact_ti_blog_system_module:_nil_:*:*:*:*:*:*:*",
+      "title": "PHP-Fusion Team Impact TI Blog System Module",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:php-fusion:team_impact_ti_blog_system_module:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:php-fusion:team_impact_ti_blog_system_module:-:*:*:*:*:*:*:*",
+      "title": "PHP-Fusion Team Impact TI Blog System Module",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

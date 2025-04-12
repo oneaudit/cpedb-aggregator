@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:phpgurukul:hospital_management_system_in_php:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C78DCB19-D83C-489C-8FC8-658817BEF2FD",
+        "lastModified": "2023-11-14T16:21:39.953",
+        "created": "2020-01-14T18:31:07.350",
+        "titles": [
+          {
+            "title": "PHGurukul Hospital Management System In PHP 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:hospital_management_system:4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "95BF3A4E-E997-4E50-941E-0C8EC1F6A0BC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:phpgurukul:hospital_management_system_in_php:4.0:*:*:*:*:*:*:*",
+      "title": "PHGurukul Hospital Management System In PHP 4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:hospital_management_system:4.0:*:*:*:*:*:*:*"
+    }
+  ]
+}
