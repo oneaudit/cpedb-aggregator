@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_4431:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5CAF7629-4C64-48F9-BF02-A8D5302AC74D",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2020-04-03T13:23:54.340",
+        "titles": [
+          {
+            "title": "Cisco ISR 4431",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4431_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "364F7726-968D-4511-B880-241DB1C79109"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_4431:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 4431",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4431_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

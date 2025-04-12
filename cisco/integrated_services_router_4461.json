@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:integrated_services_router_4461:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8BCA1B98-85FE-4AD2-8237-D297B2F542B9",
+        "lastModified": "2023-05-22T17:08:23.710",
+        "created": "2020-10-30T10:49:37.010",
+        "titles": [
+          {
+            "title": "Cisco Integrated Services Router 4461 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4461_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "01F8DBB6-F02E-4186-8D2C-CC8C9BDCE83C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:integrated_services_router_4461:-:*:*:*:*:*:*:*",
+      "title": "Cisco Integrated Services Router 4461 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4461_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

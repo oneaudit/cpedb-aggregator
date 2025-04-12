@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_4461:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2BB9E249-47E9-446F-A69B-7C06E8B542CB",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2020-04-03T13:23:54.620",
+        "titles": [
+          {
+            "title": "Cisco ISR 4461",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4461_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "01F8DBB6-F02E-4186-8D2C-CC8C9BDCE83C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_4461:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 4461",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4461_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

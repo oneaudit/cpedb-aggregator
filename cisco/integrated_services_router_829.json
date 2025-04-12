@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:integrated_services_router_829:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7957909C-20A5-4062-85E8-7338EBED30FA",
+        "lastModified": "2023-05-22T17:08:23.710",
+        "created": "2016-06-27T13:40:25.177",
+        "titles": [
+          {
+            "title": "Cisco Integrated Services Router 829 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:829_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "398742F2-D8A3-4CA9-8A2A-735DFFE6EA9E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:integrated_services_router_829:-:*:*:*:*:*:*:*",
+      "title": "Cisco Integrated Services Router 829 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:829_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

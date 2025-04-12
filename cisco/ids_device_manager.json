@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:ids_device_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AB722F41-1362-4030-9180-A8804830A2E8",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco IDS Device Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:ids_device_manager:3.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "53A87E98-BC05-450C-9C40-86F5C4C6EA9E",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco IDS Device Manager 3.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:ids_device_manager:-:*:*:*:*:*:*:*",
+      "title": "Cisco IDS Device Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:ids_device_manager:3.1.1:*:*:*:*:*:*:*",
+      "title": "Cisco IDS Device Manager 3.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

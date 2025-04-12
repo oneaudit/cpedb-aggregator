@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:integrated_services_router_871:-:*:*:*:*:*:*:*",
+        "cpeNameId": "87F18A2E-F192-4633-82C3-649DD897C6C6",
+        "lastModified": "2023-05-22T17:08:23.710",
+        "created": "2022-05-23T16:09:36.460",
+        "titles": [
+          {
+            "title": "Cisco Integrated Services Router 871 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:871_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "566E3FAB-799D-4282-B45A-20B6C6B80400"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:integrated_services_router_871:-:*:*:*:*:*:*:*",
+      "title": "Cisco Integrated Services Router 871 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:871_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

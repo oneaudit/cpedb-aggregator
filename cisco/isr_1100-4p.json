@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_1100-4p:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A5AB7653-41C2-4EEA-805C-025B2B4DD9ED",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2020-03-31T18:37:31.073",
+        "titles": [
+          {
+            "title": "Cisco ISR 1100-4p -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:1100-4p_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "028C51B9-E020-42EC-80D6-8E0BF9FF24F0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_1100-4p:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 1100-4p -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:1100-4p_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

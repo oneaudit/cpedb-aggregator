@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_1109-4p:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0B98E004-F0B9-483B-8C81-2F4981F8B4B1",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2020-03-31T18:37:32.633",
+        "titles": [
+          {
+            "title": "Cisco ISR 1109-4p -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:1109-4p_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A16D8826-4821-4628-9827-3A50701486B1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_1109-4p:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 1109-4p -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:1109-4p_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

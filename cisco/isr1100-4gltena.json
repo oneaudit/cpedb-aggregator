@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr1100-4gltena:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DECBD251-D7C8-460D-85B1-D62F792BD88A",
+        "lastModified": "2023-05-23T13:55:45.550",
+        "created": "2020-03-30T17:52:48.393",
+        "titles": [
+          {
+            "title": "Cisco ISR1100-4GLTENA",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:1100-4gltena_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F22F57CD-EBEE-41C0-9E18-3A1F570E650A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr1100-4gltena:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR1100-4GLTENA",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:1100-4gltena_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

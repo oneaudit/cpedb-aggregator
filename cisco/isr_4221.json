@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_4221:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3B694B9A-7276-4099-B174-14463171CCE5",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2019-10-03T12:05:49.443",
+        "titles": [
+          {
+            "title": "Cisco ISR 4221 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4221_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B291A325-9214-472F-90D9-88440E6EA4C4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_4221:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 4221 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4221_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:ios_xe_2.6:2.6.2a:*:*:*:*:*:*:*",
+        "cpeNameId": "2F3EAE61-B639-43F8-9000-7A8D5EC6E50E",
+        "lastModified": "2020-09-29T12:13:07.020",
+        "created": "2016-10-06T17:28:21.230",
+        "titles": [
+          {
+            "title": "Cisco IOS XE 2.6 2.6.2A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:ios_xe:2.6.2a:*:*:*:*:*:*:*",
+            "cpeNameId": "AF303262-E265-45A7-A999-85C39646B9C3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:ios_xe_2.6:2.6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3E53DF71-997E-4D0D-80CB-8F7E6F14A064",
+        "lastModified": "2020-09-29T12:13:06.613",
+        "created": "2016-10-06T17:28:21.277",
+        "titles": [
+          {
+            "title": "Cisco IOS XE 2.6 2.6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:ios_xe:2.6.0:*:*:*:*:*:*:*",
+            "cpeNameId": "D4D52105-2113-4AA4-9FD4-2DA631F037D3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:ios_xe_2.6:2.6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "7B661BC1-5199-4B55-9727-87B3D16D1656",
+        "lastModified": "2020-09-29T12:13:06.880",
+        "created": "2016-10-06T17:28:21.290",
+        "titles": [
+          {
+            "title": "Cisco IOS XE 2.6 2.6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:ios_xe:2.6.2:*:*:*:*:*:*:*",
+            "cpeNameId": "25578FBE-0458-468F-8095-A22289439E9C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:ios_xe_2.6:2.6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "38A562A2-3C4F-4668-AA51-3690C724DDA1",
+        "lastModified": "2020-09-29T12:13:06.737",
+        "created": "2016-10-06T17:28:21.480",
+        "titles": [
+          {
+            "title": "Cisco IOS XE 2.6 2.6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:ios_xe:2.6.1:*:*:*:*:*:*:*",
+            "cpeNameId": "F6000AAE-9468-4981-9EA5-8BF74C6BC6DD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:ios_xe_2.6:2.6.2a:*:*:*:*:*:*:*",
+      "title": "Cisco IOS XE 2.6 2.6.2A",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:ios_xe:2.6.2a:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ios_xe_2.6:2.6.0:*:*:*:*:*:*:*",
+      "title": "Cisco IOS XE 2.6 2.6.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:ios_xe:2.6.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ios_xe_2.6:2.6.2:*:*:*:*:*:*:*",
+      "title": "Cisco IOS XE 2.6 2.6.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:ios_xe:2.6.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ios_xe_2.6:2.6.1:*:*:*:*:*:*:*",
+      "title": "Cisco IOS XE 2.6 2.6.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:ios_xe:2.6.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

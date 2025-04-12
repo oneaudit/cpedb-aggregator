@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:isrv:-:*:*:*:*:*:*:*",
+        "cpeNameId": "303D231F-C2ED-4B90-9056-C0F5CB6D1E2B",
+        "lastModified": "2021-07-12T15:28:30.577",
+        "created": "2019-10-03T12:05:49.443",
+        "titles": [
+          {
+            "title": "Cisco Isrv -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:isrv:-:*:*:*:*:*:*:*",
+        "cpeNameId": "47FA52A6-01ED-4F2B-980B-8770180FD1E7",
+        "lastModified": "2020-11-02T20:56:42.803",
+        "created": "2020-11-02T20:56:42.803",
+        "titles": [
+          {
+            "title": "Cisco Integrated Services Virtual Router (ISRv)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isrv:-:*:*:*:*:*:*:*",
+      "title": "Cisco Isrv -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:isrv:-:*:*:*:*:*:*:*",
+      "title": "Cisco Integrated Services Virtual Router (ISRv)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

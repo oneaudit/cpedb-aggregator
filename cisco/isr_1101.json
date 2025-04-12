@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_1101:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3FDED187-78EB-4423-A14C-9B233E6B90B5",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2020-05-14T14:02:54.527",
+        "titles": [
+          {
+            "title": "Cisco ISR 1101",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:1101_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "412365D9-D972-42DC-B166-B0778D40518C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_1101:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 1101",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:1101_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

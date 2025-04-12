@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:guard:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DC4BE007-E7EC-48F5-B95E-1ED92452B1FA",
+        "lastModified": "2008-04-01T14:41:20.493",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco Guard",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:guard:5.0\\(1\\):*:*:*:*:*:*:*",
+        "cpeNameId": "E730E1DC-EC70-48FA-BFCB-9898A72E065B",
+        "lastModified": "2008-06-17T17:51:00.563",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Guard 5.0(1)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:guard:5.0\\(3\\):*:*:*:*:*:*:*",
+        "cpeNameId": "67509102-AB0B-4C3E-BB5B-F9216551C856",
+        "lastModified": "2008-06-17T17:51:00.703",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Guard 5.0(3)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:guard:-:*:*:*:*:*:*:*",
+      "title": "Cisco Guard",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:guard:5.0\\(1\\):*:*:*:*:*:*:*",
+      "title": "Cisco Guard 5.0(1)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:guard:5.0\\(3\\):*:*:*:*:*:*:*",
+      "title": "Cisco Guard 5.0(3)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

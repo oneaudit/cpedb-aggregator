@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_4451-x:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E0B4570F-1754-4AF3-BDD4-EAA6B1364A91",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2020-10-20T18:24:01.773",
+        "titles": [
+          {
+            "title": "Cisco ISR 4451-X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4451-x_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E27B4E19-385D-4B84-B2A3-6A25E8971584"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_4451-x:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 4451-X",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4451-x_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

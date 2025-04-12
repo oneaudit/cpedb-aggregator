@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_1160:-:*:*:*:*:*:*:*",
+        "cpeNameId": "100EF53C-8F09-4CFE-AA3B-B0A96FAA8E22",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2020-05-14T14:02:56.013",
+        "titles": [
+          {
+            "title": "Cisco ISR 1160",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:1160_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4BD3DC91-0E27-4473-AFF0-C71B611E2A05"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_1160:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 1160",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:1160_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

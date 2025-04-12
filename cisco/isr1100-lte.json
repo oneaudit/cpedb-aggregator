@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr1100-lte:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CACF7E4A-584D-4A1F-BE7F-A1709EB11AF6",
+        "lastModified": "2023-05-23T13:55:45.550",
+        "created": "2020-05-14T14:02:54.217",
+        "titles": [
+          {
+            "title": "Cisco ISR1100-LTE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:1100-lte_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "17320E1C-BEDC-406F-B2E4-5E7C6D7C495F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr1100-lte:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR1100-LTE",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:1100-lte_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

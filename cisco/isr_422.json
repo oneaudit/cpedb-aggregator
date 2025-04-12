@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_422:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FFA70D6A-D942-4955-B80B-E293C329AA48",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2020-08-03T14:27:57.963",
+        "titles": [
+          {
+            "title": "Cisco ISR 422",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:422_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "6D81A12E-84EE-42BE-90A1-B96A219D24B2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_422:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 422",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:422_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

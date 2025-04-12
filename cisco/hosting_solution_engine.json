@@ -1,0 +1,165 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:hosting_solution_engine:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7CAC02B5-46FC-4AB8-9738-8E797F9BF2A2",
+        "lastModified": "2010-12-28T17:36:35.787",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco Hosting Solution Engine",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:hosting_solution_engine:-:*:*:*:*:*:*:*",
+            "cpeNameId": "918741C7-54F2-4D60-9E6B-428B7C61D158"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:hosting_solution_engine:1.7:*:*:*:*:*:*:*",
+        "cpeNameId": "3AB9EEEE-0C6E-4B69-B4FB-790754CD2B6F",
+        "lastModified": "2008-04-07T13:49:04.450",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Hosting Solution Engine 1.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:hosting_solution_engine:1.7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AE10C973-00FA-496A-BE9B-05E62B77591F",
+        "lastModified": "2008-04-07T13:49:04.840",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Hosting Solution Engine 1.7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:hosting_solution_engine:1.7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "65F6C1F0-AA2D-44B7-910C-E5C33B7F33D3",
+        "lastModified": "2008-04-07T13:49:05.183",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Hosting Solution Engine 1.7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:hosting_solution_engine:1.7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "48B6DF39-0932-4D17-B43E-2840129793DD",
+        "lastModified": "2008-04-07T13:49:05.543",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Hosting Solution Engine 1.7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:hosting_solution_engine:1.7.3:*:*:*:*:*:*:*",
+        "cpeNameId": "4DEA62BB-13B0-4D08-B717-BDE953B9ADCC",
+        "lastModified": "2008-04-07T13:49:05.980",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Hosting Solution Engine 1.7.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:hosting_solution_engine:-:*:*:*:*:*:*:*",
+        "cpeNameId": "918741C7-54F2-4D60-9E6B-428B7C61D158",
+        "lastModified": "2010-12-28T17:29:33.070",
+        "created": "2010-12-28T17:29:33.070",
+        "titles": [
+          {
+            "title": "Cisco Hosting Solution Engine",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:hosting_solution_engine:-:*:*:*:*:*:*:*",
+      "title": "Cisco Hosting Solution Engine",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:hosting_solution_engine:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:cisco:hosting_solution_engine:1.7:*:*:*:*:*:*:*",
+      "title": "Cisco Hosting Solution Engine 1.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:hosting_solution_engine:1.7.0:*:*:*:*:*:*:*",
+      "title": "Cisco Hosting Solution Engine 1.7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:hosting_solution_engine:1.7.1:*:*:*:*:*:*:*",
+      "title": "Cisco Hosting Solution Engine 1.7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:hosting_solution_engine:1.7.2:*:*:*:*:*:*:*",
+      "title": "Cisco Hosting Solution Engine 1.7.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:hosting_solution_engine:1.7.3:*:*:*:*:*:*:*",
+      "title": "Cisco Hosting Solution Engine 1.7.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:hosting_solution_engine:-:*:*:*:*:*:*:*",
+      "title": "Cisco Hosting Solution Engine",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

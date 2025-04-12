@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr1100-6g:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E9BD33E7-9E52-4973-AFE3-962E4F6DB3CE",
+        "lastModified": "2023-05-23T13:55:45.550",
+        "created": "2020-03-30T17:52:48.627",
+        "titles": [
+          {
+            "title": "Cisco ISR1100-6G",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:1100-6g_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E97B3E8E-C951-4FCD-8AD9-66544E3BA425"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr1100-6g:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR1100-6G",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:1100-6g_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

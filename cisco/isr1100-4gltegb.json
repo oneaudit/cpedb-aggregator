@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr1100-4gltegb:-:*:*:*:*:*:*:*",
+        "cpeNameId": "076C8356-C635-4156-A42E-F812F3D97944",
+        "lastModified": "2023-05-23T13:55:45.550",
+        "created": "2020-03-30T17:52:48.143",
+        "titles": [
+          {
+            "title": "Cisco ISR1100-4GLTEGB",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:1100-4gltegb_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "19BD9A10-51F9-43D5-824E-A84F7EDFB433"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr1100-4gltegb:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR1100-4GLTEGB",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:1100-4gltegb_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

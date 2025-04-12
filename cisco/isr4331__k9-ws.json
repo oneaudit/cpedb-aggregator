@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr4331\\/k9-ws:-:*:*:*:*:*:*:*",
+        "cpeNameId": "398F0A18-0657-4CE3-B402-3C864239171C",
+        "lastModified": "2023-05-23T13:55:45.550",
+        "created": "2019-12-13T20:09:05.507",
+        "titles": [
+          {
+            "title": "Cisco ISR4331/K9-WS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4331\\/k9-ws_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "189C4422-D824-4CFC-A48C-1A9C8E01FB70"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr4331\\/k9-ws:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR4331/K9-WS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4331\\/k9-ws_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

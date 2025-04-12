@@ -1,0 +1,86 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:ids:-:*:*:*:*:*:*:*",
+        "cpeNameId": "573D320F-D9F0-4411-AA37-D1E83104D56E",
+        "lastModified": "2011-01-12T14:36:11.193",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco IDS",
+            "lang": "en"
+          },
+          {
+            "title": "シスコシステムズ IDS",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:ids:-:*:*:*:*:*:*:*",
+        "cpeNameId": "179EA634-23D5-4E9E-8DD2-667C46BDBE02",
+        "lastModified": "2010-12-28T17:36:36.147",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco IDS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:ids:-:*:*:*:*:*:*:*",
+            "cpeNameId": "573D320F-D9F0-4411-AA37-D1E83104D56E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:ids:4.1\\(5b\\):*:*:*:*:*:*:*",
+        "cpeNameId": "C9AE6860-366D-48AB-8D00-2ADF1ED3C997",
+        "lastModified": "2010-12-28T17:36:36.583",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco IDS Sensor Software 4.1(5b)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:ids_sensor_software:4.1\\(5b\\):*:*:*:*:*:*:*",
+            "cpeNameId": "D4D4C3A8-824D-4FF4-8EC4-8842432AB4BB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:ids:-:*:*:*:*:*:*:*",
+      "title": "Cisco IDS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ids:-:*:*:*:*:*:*:*",
+      "title": "Cisco IDS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:ids:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:cisco:ids:4.1\\(5b\\):*:*:*:*:*:*:*",
+      "title": "Cisco IDS Sensor Software 4.1(5b)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:ids_sensor_software:4.1\\(5b\\):*:*:*:*:*:*:*"
+    }
+  ]
+}

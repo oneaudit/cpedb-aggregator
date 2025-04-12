@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_3000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FC6E4CA1-FD11-46C8-8122-D444BFE89ABB",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2021-05-05T17:05:57.267",
+        "titles": [
+          {
+            "title": "Cisco ISR 3000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:3000_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "C4446D0A-2C42-439D-A482-9B9B69C38BFF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_3000:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 3000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:3000_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

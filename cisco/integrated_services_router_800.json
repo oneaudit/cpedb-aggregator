@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:integrated_services_router_800:-:*:*:*:*:*:*:*",
+        "cpeNameId": "385B3729-2BC9-4B45-8114-93B78AD8D7CA",
+        "lastModified": "2023-05-22T17:08:23.710",
+        "created": "2016-06-27T13:40:25.287",
+        "titles": [
+          {
+            "title": "Cisco Integrated Services Router 800 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:800_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E19B1856-8C0A-422D-BB62-AB9DBAC837E2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:integrated_services_router_800:-:*:*:*:*:*:*:*",
+      "title": "Cisco Integrated Services Router 800 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:800_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

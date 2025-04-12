@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:integrated_services_router_4331:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8E7E226E-1EBC-44B9-84D3-CB642749D068",
+        "lastModified": "2023-05-22T17:08:23.710",
+        "created": "2020-10-30T10:49:36.683",
+        "titles": [
+          {
+            "title": "Cisco Integrated Services Router 4331 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4331_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "ADF66DC4-7694-4C72-B5CE-124D4CE3E339"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:integrated_services_router_4331:-:*:*:*:*:*:*:*",
+      "title": "Cisco Integrated Services Router 4331 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4331_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

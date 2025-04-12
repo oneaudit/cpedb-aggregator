@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:integrated_services_router_4221:-:*:*:*:*:*:*:*",
+        "cpeNameId": "94C54C44-B08C-4B14-BA87-DBF938A3B1D7",
+        "lastModified": "2023-05-22T17:08:23.710",
+        "created": "2020-10-30T10:49:36.307",
+        "titles": [
+          {
+            "title": "Cisco Integrated Services Router 4221 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4221_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B291A325-9214-472F-90D9-88440E6EA4C4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:integrated_services_router_4221:-:*:*:*:*:*:*:*",
+      "title": "Cisco Integrated Services Router 4221 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4221_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ios_xe_rom_monitor:15.6\\(18r\\):*:*:*:*:*:*:*",
+        "cpeNameId": "B75C3AA6-A0DF-4A55-A247-121C526222D7",
+        "lastModified": "2020-10-16T18:14:41.957",
+        "created": "2020-10-16T18:14:41.957",
+        "titles": [
+          {
+            "title": "Cisco IOS XE ROM Monitor 15.6(18r)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ios_xe_rom_monitor:16.2\\(1r\\):*:*:*:*:*:*:*",
+        "cpeNameId": "82E7E643-2EF3-46E8-9D28-72AB6747854C",
+        "lastModified": "2020-10-16T18:14:42.100",
+        "created": "2020-10-16T18:14:42.100",
+        "titles": [
+          {
+            "title": "Cisco IOS XE Rom Monitor 16.2(1r)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ios_xe_rom_monitor:16.4\\(1r\\)s:*:*:*:*:*:*:*",
+        "cpeNameId": "AD0C6962-7379-4AC7-BF8E-45074CA883C3",
+        "lastModified": "2020-10-16T18:14:42.193",
+        "created": "2020-10-16T18:14:42.193",
+        "titles": [
+          {
+            "title": "Cisco IOS XE Rom Monitor 16.4(1r)s",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:ios_xe_rom_monitor:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FDD6645F-AB16-4346-A7F8-E8163440E9B4",
+        "lastModified": "2022-12-30T17:05:15.180",
+        "created": "2022-10-13T15:05:06.140",
+        "titles": [
+          {
+            "title": "Cisco IOS XE ROM Monitor",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:ios_xe_rom_monitor:15.6\\(18r\\):*:*:*:*:*:*:*",
+      "title": "Cisco IOS XE ROM Monitor 15.6(18r)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ios_xe_rom_monitor:16.2\\(1r\\):*:*:*:*:*:*:*",
+      "title": "Cisco IOS XE Rom Monitor 16.2(1r)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ios_xe_rom_monitor:16.4\\(1r\\)s:*:*:*:*:*:*:*",
+      "title": "Cisco IOS XE Rom Monitor 16.4(1r)s",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ios_xe_rom_monitor:-:*:*:*:*:*:*:*",
+      "title": "Cisco IOS XE ROM Monitor",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:managed_services_accelerator:3.7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "67F4FB71-6A51-47B0-B915-CC525CBB103B",
+        "lastModified": "2020-10-13T10:51:38.643",
+        "created": "2020-10-13T10:51:38.643",
+        "titles": [
+          {
+            "title": "Cisco Managed Services Accelerator 3.7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:managed_services_accelerator:-:*:*:*:*:*:*:*",
+        "cpeNameId": "32A10A01-2585-4987-8CAF-DBC9B42FCCC8",
+        "lastModified": "2021-02-08T12:48:22.957",
+        "created": "2021-02-08T12:48:22.957",
+        "titles": [
+          {
+            "title": "Cisco Managed Services Accelerator (MSX)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:managed_services_accelerator:3.10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D682346D-1E06-46F0-98A2-9E75220D9A57",
+        "lastModified": "2021-02-08T12:48:23.753",
+        "created": "2021-02-08T12:48:23.753",
+        "titles": [
+          {
+            "title": "Cisco Managed Services Accelerator (MSX) 3.10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:managed_services_accelerator:3.7.0:*:*:*:*:*:*:*",
+      "title": "Cisco Managed Services Accelerator 3.7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:managed_services_accelerator:-:*:*:*:*:*:*:*",
+      "title": "Cisco Managed Services Accelerator (MSX)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:managed_services_accelerator:3.10.0:*:*:*:*:*:*:*",
+      "title": "Cisco Managed Services Accelerator (MSX) 3.10.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

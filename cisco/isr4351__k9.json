@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr4351\\/k9:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6F32E1FA-2C0D-4801-A3C8-FD70C969A3AE",
+        "lastModified": "2023-05-23T13:55:45.550",
+        "created": "2019-12-13T20:09:05.803",
+        "titles": [
+          {
+            "title": "Cisco ISR4351/K9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4351\\/k9_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D2A5E9AE-2877-44B3-91F0-1982FDB64A3E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr4351\\/k9:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR4351/K9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4351\\/k9_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

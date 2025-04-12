@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr4321\\/k9:-:*:*:*:*:*:*:*",
+        "cpeNameId": "69D5C1E0-B7CC-4FBD-87B2-94265C5ED72A",
+        "lastModified": "2023-05-23T13:55:45.550",
+        "created": "2019-12-13T20:09:03.943",
+        "titles": [
+          {
+            "title": "Cisco ISR4321/K9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4321\\/k9_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7B2A20E8-3067-476B-8C7C-B5A5DE362E3F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr4321\\/k9:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR4321/K9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4321\\/k9_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

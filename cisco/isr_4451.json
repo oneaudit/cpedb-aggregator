@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_4451:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E56826AE-9238-4D8B-9E21-E9C686BC343E",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2021-03-29T18:25:19.700",
+        "titles": [
+          {
+            "title": "Cisco ISR 4451",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4451_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "819E60C7-F5B5-481E-9417-E26454C84CEA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_4451:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 4451",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4451_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

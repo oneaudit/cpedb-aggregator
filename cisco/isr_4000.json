@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_4000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1A0AC61C-4611-4AA2-8249-D28299EEC5D7",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2019-10-03T13:20:42.883",
+        "titles": [
+          {
+            "title": "Cisco ISR 4000 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4000_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "159CC139-D8E5-4266-99F0-CF9C372210C5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_4000:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 4000 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4000_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:isr_4321:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FC48CD88-C1BE-4792-AB3C-8E53C1B71463",
+        "lastModified": "2023-05-22T18:57:24.033",
+        "created": "2019-10-03T16:51:44.193",
+        "titles": [
+          {
+            "title": "Cisco ISR 4321 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:4321_integrated_services_router:-:*:*:*:*:*:*:*",
+            "cpeNameId": "707E297E-01A8-4237-8142-A795937378D8"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:isr_4321:-:*:*:*:*:*:*:*",
+      "title": "Cisco ISR 4321 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:4321_integrated_services_router:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

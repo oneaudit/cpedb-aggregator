@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:icdn:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A7FAE1EB-E499-4EBC-B5E3-CE70266955CD",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco iCDN",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:icdn:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4BEFBC32-C5CC-44E1-A391-82C6A3BB82C4",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco iCDN 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:icdn:-:*:*:*:*:*:*:*",
+      "title": "Cisco iCDN",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:icdn:2.0:*:*:*:*:*:*:*",
+      "title": "Cisco iCDN 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
