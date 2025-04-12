@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:alphaworks_tftp_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4A098287-15E0-47DC-8B41-83F118885155",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM alphaWorks TFTP Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:alphaworks_tftp_server:1.21:*:*:*:*:*:*:*",
+        "cpeNameId": "6457D4AD-DE9A-4F9B-A0BD-27A7A57CA740",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM alphaWorks TFTP Server 1.21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:alphaworks_tftp_server:-:*:*:*:*:*:*:*",
+      "title": "IBM alphaWorks TFTP Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:alphaworks_tftp_server:1.21:*:*:*:*:*:*:*",
+      "title": "IBM alphaWorks TFTP Server 1.21",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

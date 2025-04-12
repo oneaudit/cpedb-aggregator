@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:liberty:3.15:*:*:*:*:bluemix:*:*",
+        "cpeNameId": "7B086413-D7E8-4F34-A935-459B5CA46C1A",
+        "lastModified": "2020-07-16T16:08:25.783",
+        "created": "2020-07-16T16:08:25.783",
+        "titles": [
+          {
+            "title": "IBM Liberty for Java for Bluemix 3.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:liberty:3.13:*:*:*:*:bluemix:*:*",
+        "cpeNameId": "E5ECFE21-751E-46BA-82BE-528DF59B6681",
+        "lastModified": "2020-09-16T12:26:25.640",
+        "created": "2020-09-16T12:26:25.640",
+        "titles": [
+          {
+            "title": "IBM Liberty 3.13 for Bluemix",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:liberty:3.15:*:*:*:*:bluemix:*:*",
+      "title": "IBM Liberty for Java for Bluemix 3.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:liberty:3.13:*:*:*:*:bluemix:*:*",
+      "title": "IBM Liberty 3.13 for Bluemix",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

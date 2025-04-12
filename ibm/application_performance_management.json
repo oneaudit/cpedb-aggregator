@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:application_performance_management:8.1.4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B7A5FFAB-D034-44FB-B42F-9D0B116ED3B6",
+        "lastModified": "2021-06-04T16:57:38.247",
+        "created": "2018-03-22T15:48:37.100",
+        "titles": [
+          {
+            "title": "IBM Application Performance Management 8.1.4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:application_performance_management:8.1.4:*:*:*:advanced_private:*:*:*",
+        "cpeNameId": "85CFC40F-0ABB-4710-A4E0-70539655835F",
+        "lastModified": "2019-09-23T13:43:07.797",
+        "created": "2019-09-23T13:43:07.797",
+        "titles": [
+          {
+            "title": "IBM Application Performance Management 8.1.4 Advanced Private Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:application_performance_management:8.1.4:*:*:*:base_private:*:*:*",
+        "cpeNameId": "B4EB3C8F-F164-4388-86E3-5D66FF015870",
+        "lastModified": "2019-09-23T13:43:07.970",
+        "created": "2019-09-23T13:43:07.970",
+        "titles": [
+          {
+            "title": "IBM Application Performance Management 8.1.4 Base Private Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:application_performance_management:8.1.4.0:*:*:*:*:*:*:*",
+      "title": "IBM Application Performance Management 8.1.4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:application_performance_management:8.1.4:*:*:*:advanced_private:*:*:*",
+      "title": "IBM Application Performance Management 8.1.4 Advanced Private Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:application_performance_management:8.1.4:*:*:*:base_private:*:*:*",
+      "title": "IBM Application Performance Management 8.1.4 Base Private Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

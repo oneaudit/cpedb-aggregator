@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:power_system_cs822lc_\\(8005-22n\\)_firmware:op825.51:*:*:*:*:*:*:*",
+        "cpeNameId": "31059A46-19E1-488A-B4D2-EC16DF0C6BBE",
+        "lastModified": "2022-01-25T18:46:42.860",
+        "created": "2021-12-20T21:01:47.753",
+        "titles": [
+          {
+            "title": "IBM Power System CS822LC (8005-22N) Firmware OP825.51",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:power_system_cs822lc_\\(8005-22n\\)_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "139CEB7C-279F-4350-B9A5-39A82668E69D",
+        "lastModified": "2022-01-25T18:46:42.860",
+        "created": "2021-12-20T21:02:35.177",
+        "titles": [
+          {
+            "title": "IBM Power System CS822LC (8005-22N) Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ibm:power_system_cs822lc_\\(8005-22n\\)_firmware:op825.51:*:*:*:*:*:*:*",
+      "title": "IBM Power System CS822LC (8005-22N) Firmware OP825.51",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ibm:power_system_cs822lc_\\(8005-22n\\)_firmware:-:*:*:*:*:*:*:*",
+      "title": "IBM Power System CS822LC (8005-22N) Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

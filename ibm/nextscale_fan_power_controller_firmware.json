@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:nextscale_fan_power_controller_firmware:44a-3.70:*:*:*:*:*:*:*",
+        "cpeNameId": "9F447643-575C-4A1B-9B28-A3B82B027243",
+        "lastModified": "2022-08-04T15:59:29.833",
+        "created": "2022-05-02T18:32:30.317",
+        "titles": [
+          {
+            "title": "IBM NeXtScale Fan Power Controller Firmware 44A-3.70",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:nextscale_fan_power_controller_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "33437A7C-F202-488A-A706-D2F907C40970",
+        "lastModified": "2022-08-04T15:59:29.833",
+        "created": "2022-05-02T18:32:30.317",
+        "titles": [
+          {
+            "title": "IBM NeXtScale Fan Power Controller Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ibm:nextscale_fan_power_controller_firmware:44a-3.70:*:*:*:*:*:*:*",
+      "title": "IBM NeXtScale Fan Power Controller Firmware 44A-3.70",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ibm:nextscale_fan_power_controller_firmware:-:*:*:*:*:*:*:*",
+      "title": "IBM NeXtScale Fan Power Controller Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

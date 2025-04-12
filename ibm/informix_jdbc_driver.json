@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:informix_jdbc_driver:4.10:*:*:*:*:*:*:*",
+        "cpeNameId": "FD988B5B-1F69-4880-92E7-41D36324ED96",
+        "lastModified": "2023-12-29T10:45:38.920",
+        "created": "2023-12-29T10:45:38.920",
+        "titles": [
+          {
+            "title": "IBM Informix JDBC Driver 4.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:informix_jdbc_driver:4.50:*:*:*:*:*:*:*",
+        "cpeNameId": "20E2AD88-8398-4B54-BDAC-F5599389F574",
+        "lastModified": "2023-12-29T10:45:38.920",
+        "created": "2023-12-29T10:45:38.920",
+        "titles": [
+          {
+            "title": "IBM Informix JDBC Driver 4.50",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:informix_jdbc_driver:4.10:*:*:*:*:*:*:*",
+      "title": "IBM Informix JDBC Driver 4.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:informix_jdbc_driver:4.50:*:*:*:*:*:*:*",
+      "title": "IBM Informix JDBC Driver 4.50",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:db2_content_manager_toolkit:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6F24F602-FB61-4B84-8E6A-F61EE757961E",
+        "lastModified": "2007-12-28T01:34:38.443",
+        "created": "2007-12-28T01:34:38.443",
+        "titles": [
+          {
+            "title": "IBM DB2 Content Manager Toolkit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:db2_content_manager_toolkit:8.3:*:*:*:*:*:*:*",
+        "cpeNameId": "DD1B7F56-1AE0-4A30-8E9C-5B9D523C88B8",
+        "lastModified": "2007-12-28T01:35:07.510",
+        "created": "2007-12-28T01:35:07.510",
+        "titles": [
+          {
+            "title": "IBM DB2 Content Manager Toolkit 8.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:db2_content_manager_toolkit:-:*:*:*:*:*:*:*",
+      "title": "IBM DB2 Content Manager Toolkit",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:db2_content_manager_toolkit:8.3:*:*:*:*:*:*:*",
+      "title": "IBM DB2 Content Manager Toolkit 8.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

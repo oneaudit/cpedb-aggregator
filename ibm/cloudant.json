@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:cloudant:8349:*:*:*:*:*:*:*",
+        "cpeNameId": "8BF31CDC-CB19-4821-B48B-3AEF171AFA06",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "IBM Cloudant 8349",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:cloudant:-:*:*:*:*:*:*:*",
+        "cpeNameId": "34243849-8EAA-4D7A-B8C1-2EB19191FE4F",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "IBM Cloudant -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:cloudant:8349:*:*:*:*:*:*:*",
+      "title": "IBM Cloudant 8349",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:cloudant:-:*:*:*:*:*:*:*",
+      "title": "IBM Cloudant -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

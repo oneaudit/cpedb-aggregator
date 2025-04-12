@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:lotus_domino_enterprise_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8A0E5ECF-167E-4A2D-80BD-E5C68A8F4D26",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM Lotus Domino Enterprise Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:lotus_domino_enterprise_server:6.5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "30B0B152-EEF2-47B9-9198-BA60FA6C828E",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Lotus Domino Enterprise Server 6.5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:lotus_domino_enterprise_server:6.5.4:*:*:*:*:*:*:*",
+        "cpeNameId": "3CAD8BA2-BB09-4E5F-9F7C-F4C9E36BC636",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Lotus Domino Enterprise Server 6.5.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:lotus_domino_enterprise_server:-:*:*:*:*:*:*:*",
+      "title": "IBM Lotus Domino Enterprise Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:lotus_domino_enterprise_server:6.5.2:*:*:*:*:*:*:*",
+      "title": "IBM Lotus Domino Enterprise Server 6.5.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:lotus_domino_enterprise_server:6.5.4:*:*:*:*:*:*:*",
+      "title": "IBM Lotus Domino Enterprise Server 6.5.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

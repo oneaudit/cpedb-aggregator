@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:flashsystem_900_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CE9450ED-8877-47AA-8DE4-71A04ABC4C62",
+        "lastModified": "2021-06-09T15:16:56.750",
+        "created": "2018-07-06T19:50:07.403",
+        "titles": [
+          {
+            "title": "IBM FlashSystem 900 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:flashsystem_900_firmware:1.4:*:*:*:*:*:*:*",
+        "cpeNameId": "D70C1CBF-28B0-4679-84BD-668499A2CDE3",
+        "lastModified": "2021-06-09T15:16:56.750",
+        "created": "2018-12-03T17:12:57.723",
+        "titles": [
+          {
+            "title": "IBM FlashSystem 900 Firmware 1.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ibm:flashsystem_900_firmware:-:*:*:*:*:*:*:*",
+      "title": "IBM FlashSystem 900 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ibm:flashsystem_900_firmware:1.4:*:*:*:*:*:*:*",
+      "title": "IBM FlashSystem 900 Firmware 1.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

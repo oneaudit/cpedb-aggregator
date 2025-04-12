@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:flashsystem_840_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "121CE638-5609-4047-95BD-ACD64E93FA0F",
+        "lastModified": "2021-06-09T15:16:56.750",
+        "created": "2018-07-06T19:50:07.403",
+        "titles": [
+          {
+            "title": "IBM FlashSystem 840 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:flashsystem_840_firmware:1.4:*:*:*:*:*:*:*",
+        "cpeNameId": "F6EFBB6E-3237-427C-B94F-4594F6CA4AFC",
+        "lastModified": "2021-06-09T15:16:56.750",
+        "created": "2018-12-03T17:12:57.723",
+        "titles": [
+          {
+            "title": "IBM FlashSystem 840 Firmware 1.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ibm:flashsystem_840_firmware:-:*:*:*:*:*:*:*",
+      "title": "IBM FlashSystem 840 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ibm:flashsystem_840_firmware:1.4:*:*:*:*:*:*:*",
+      "title": "IBM FlashSystem 840 Firmware 1.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

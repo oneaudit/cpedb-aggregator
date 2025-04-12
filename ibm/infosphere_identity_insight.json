@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:infosphere_identity_insight:8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "403EC07E-2440-480C-A37F-EC6BFDC07BA5",
+        "lastModified": "2020-04-02T15:35:48.683",
+        "created": "2020-04-02T15:35:48.683",
+        "titles": [
+          {
+            "title": "IBM InfoSphere Identity Insight 8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:infosphere_identity_insight:9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FDD00FE1-3DBB-441B-B712-0DB6F36BFA99",
+        "lastModified": "2020-04-02T15:35:48.837",
+        "created": "2020-04-02T15:35:48.837",
+        "titles": [
+          {
+            "title": "IBM InfoSphere Identity Insight 9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:infosphere_identity_insight:8.1:*:*:*:*:*:*:*",
+      "title": "IBM InfoSphere Identity Insight 8.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:infosphere_identity_insight:9.0:*:*:*:*:*:*:*",
+      "title": "IBM InfoSphere Identity Insight 9.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

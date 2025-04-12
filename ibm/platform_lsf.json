@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:platform_lsf:9.1:*:*:*:*:*:*:*",
+        "cpeNameId": "3B519A6B-2BE9-49B0-B40A-9EE91CA75129",
+        "lastModified": "2020-04-02T16:21:48.037",
+        "created": "2020-04-02T16:21:48.037",
+        "titles": [
+          {
+            "title": "IBM Platform LSF 9.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:platform_lsf:10.1:*:*:*:*:*:*:*",
+        "cpeNameId": "76881F5D-BE51-4DD3-BC3E-A56CA44E7BA1",
+        "lastModified": "2020-04-02T16:21:48.117",
+        "created": "2020-04-02T16:21:48.117",
+        "titles": [
+          {
+            "title": "IBM Platform LSF 10.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:platform_lsf:9.1:*:*:*:*:*:*:*",
+      "title": "IBM Platform LSF 9.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:platform_lsf:10.1:*:*:*:*:*:*:*",
+      "title": "IBM Platform LSF 10.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

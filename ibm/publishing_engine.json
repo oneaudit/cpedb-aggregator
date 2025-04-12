@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ibm:publishing_engine:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8EDAD1DA-5708-4C38-B525-C622DD657719",
+        "lastModified": "2025-03-25T14:26:27.457",
+        "created": "2020-07-21T19:35:38.583",
+        "titles": [
+          {
+            "title": "IBM Publishing Engine 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ibm:engineering_lifecycle_optimization_-_publishing:7.0:-:*:*:*:*:*:*",
+            "cpeNameId": "C8D36631-A193-41F3-B0F4-F2ECDBBF679E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:publishing_engine:7.0:*:*:*:*:*:*:*",
+      "title": "IBM Publishing Engine 7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ibm:engineering_lifecycle_optimization_-_publishing:7.0:-:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:application_support_facility:3.4.0:-:*:*:*:z\\/os:*:*",
+        "cpeNameId": "49E74951-4726-4229-AC1F-C04B98EE7C18",
+        "lastModified": "2013-05-01T01:38:55.457",
+        "created": "2013-04-29T13:24:11.460",
+        "titles": [
+          {
+            "title": "IBM Application Support Facility (ASF) 3.4.0 for z/OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:application_support_facility:3.4.0:-:*:*:*:windows:*:*",
+        "cpeNameId": "F539FDB5-E637-47CE-BCC7-1516F9D4148F",
+        "lastModified": "2013-05-01T01:38:55.400",
+        "created": "2013-04-29T13:24:11.587",
+        "titles": [
+          {
+            "title": "IBM Application Support Facility (ASF) 3.4.0 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:application_support_facility:3.4.0:-:*:*:*:linux_kernel:*:*",
+        "cpeNameId": "8D90A329-17D7-449B-B3DE-9EC5B7457E18",
+        "lastModified": "2013-05-01T01:38:55.327",
+        "created": "2013-04-29T13:24:11.680",
+        "titles": [
+          {
+            "title": "IBM Application Support Facility (ASF) 3.4.0 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:application_support_facility:3.4.0:-:*:*:*:aix:*:*",
+        "cpeNameId": "A9316776-D7F9-4435-87D6-2A023A2A9936",
+        "lastModified": "2013-05-01T01:38:55.223",
+        "created": "2013-04-29T13:24:13.210",
+        "titles": [
+          {
+            "title": "IBM Application Support Facility (ASF) 3.4.0 for AIX",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:application_support_facility:3.4.0:-:*:*:*:z\\/os:*:*",
+      "title": "IBM Application Support Facility (ASF) 3.4.0 for z/OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:application_support_facility:3.4.0:-:*:*:*:windows:*:*",
+      "title": "IBM Application Support Facility (ASF) 3.4.0 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:application_support_facility:3.4.0:-:*:*:*:linux_kernel:*:*",
+      "title": "IBM Application Support Facility (ASF) 3.4.0 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:application_support_facility:3.4.0:-:*:*:*:aix:*:*",
+      "title": "IBM Application Support Facility (ASF) 3.4.0 for AIX",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

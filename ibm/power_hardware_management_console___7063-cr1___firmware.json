@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:power_hardware_management_console_\\(7063-cr1\\)_firmware:op825.51:*:*:*:*:*:*:*",
+        "cpeNameId": "4DA1DDEE-7C0C-49E9-8C88-98E6BA4E11A7",
+        "lastModified": "2022-01-25T18:46:42.860",
+        "created": "2021-12-20T21:01:47.753",
+        "titles": [
+          {
+            "title": "IBM Power Hardware Management Console (HMC) (7063-CR1) Firmware OP825.51",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:power_hardware_management_console_\\(7063-cr1\\)_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4A8020AE-1C4B-405D-A928-F616F28756B4",
+        "lastModified": "2022-01-25T18:46:42.860",
+        "created": "2021-12-20T21:02:35.177",
+        "titles": [
+          {
+            "title": "IBM Power Hardware Management Console (HMC) (7063-CR1) Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ibm:power_hardware_management_console_\\(7063-cr1\\)_firmware:op825.51:*:*:*:*:*:*:*",
+      "title": "IBM Power Hardware Management Console (HMC) (7063-CR1) Firmware OP825.51",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ibm:power_hardware_management_console_\\(7063-cr1\\)_firmware:-:*:*:*:*:*:*:*",
+      "title": "IBM Power Hardware Management Console (HMC) (7063-CR1) Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

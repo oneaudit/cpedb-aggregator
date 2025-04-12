@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:power_system_cs821lc_\\(8005-12n\\)_firmware:op825.51:*:*:*:*:*:*:*",
+        "cpeNameId": "E9B1616F-A88C-47ED-921B-99B22FBE3A30",
+        "lastModified": "2022-01-25T18:46:42.860",
+        "created": "2021-12-20T21:01:47.753",
+        "titles": [
+          {
+            "title": "IBM Power System CS821LC (8005-12N) Firmware OP825.51",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:power_system_cs821lc_\\(8005-12n\\)_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "01C8B70C-EBF5-4EA7-837A-C431F81BB971",
+        "lastModified": "2022-01-25T18:46:42.860",
+        "created": "2021-12-20T21:02:35.177",
+        "titles": [
+          {
+            "title": "IBM Power System CS821LC (8005-12N) Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ibm:power_system_cs821lc_\\(8005-12n\\)_firmware:op825.51:*:*:*:*:*:*:*",
+      "title": "IBM Power System CS821LC (8005-12N) Firmware OP825.51",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ibm:power_system_cs821lc_\\(8005-12n\\)_firmware:-:*:*:*:*:*:*:*",
+      "title": "IBM Power System CS821LC (8005-12N) Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

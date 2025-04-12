@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:net.data:-:*:*:*:*:*:*:*",
+        "cpeNameId": "431D3584-F67E-4052-AC51-0023A9493269",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM Net.Data",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:net.data:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E140083D-159F-43B5-B3BC-9D1E5F14D3AF",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Net.Data 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:net.data:7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "703BB3AD-63D8-4D1D-AD37-9AF775168734",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Net.Data 7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:net.data:-:*:*:*:*:*:*:*",
+      "title": "IBM Net.Data",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:net.data:7.0:*:*:*:*:*:*:*",
+      "title": "IBM Net.Data 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:net.data:7.2:*:*:*:*:*:*:*",
+      "title": "IBM Net.Data 7.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

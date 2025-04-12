@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:informix_client_sdk:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2F20A6FE-7DE6-41C0-AB0A-C31A88AB26F5",
+        "lastModified": "2008-04-01T16:39:17.140",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM Informix Client Software Development Kit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:informix_client_sdk:2.90:*:*:*:*:*:*:*",
+        "cpeNameId": "1412F514-9D68-441A-AEF2-B12001DFE3E8",
+        "lastModified": "2008-04-01T16:39:17.217",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Informix Client Software Development Kit 2.90",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:informix_client_sdk:-:*:*:*:*:*:*:*",
+      "title": "IBM Informix Client Software Development Kit",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:informix_client_sdk:2.90:*:*:*:*:*:*:*",
+      "title": "IBM Informix Client Software Development Kit 2.90",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

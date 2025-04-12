@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:informix_i-connect:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1DE8B653-3DF4-4FF2-B035-332DD97DEFF5",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM Informix I-Connect",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:informix_i-connect:2.90:*:*:*:*:*:*:*",
+        "cpeNameId": "6B5D0D0C-4CBB-430C-B6E8-1826746E5E11",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Informix I-Connect 2.90",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:informix_i-connect:-:*:*:*:*:*:*:*",
+      "title": "IBM Informix I-Connect",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:informix_i-connect:2.90:*:*:*:*:*:*:*",
+      "title": "IBM Informix I-Connect 2.90",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

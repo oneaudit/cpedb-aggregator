@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:db2_recovery_expert:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A8DA4EB2-07F4-46E3-AC5C-BB505B024FF2",
+        "lastModified": "2013-09-25T14:00:43.257",
+        "created": "2013-09-25T13:51:14.183",
+        "titles": [
+          {
+            "title": "IBM DB2 Recovery Expert 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:db2_recovery_expert:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "22452A3C-701C-45A7-83F3-0215A29E39A1",
+        "lastModified": "2013-09-25T14:00:43.570",
+        "created": "2013-09-25T13:51:14.327",
+        "titles": [
+          {
+            "title": "IBM DB2 Recovery Expert 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:db2_recovery_expert:2.0:*:*:*:*:*:*:*",
+      "title": "IBM DB2 Recovery Expert 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:db2_recovery_expert:3.1:*:*:*:*:*:*:*",
+      "title": "IBM DB2 Recovery Expert 3.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

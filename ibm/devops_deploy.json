@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:devops_deploy:8.0.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "5C7DDB4A-CBB3-4D96-80D7-385B9746916F",
+        "lastModified": "2024-04-12T12:17:38.530",
+        "created": "2024-04-12T12:17:38.530",
+        "titles": [
+          {
+            "title": "IBM DevOps Deploy 8.0.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:devops_deploy:8.0.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "324E54E8-90C5-4205-B51C-7380EEC33040",
+        "lastModified": "2024-04-12T12:17:38.530",
+        "created": "2024-04-12T12:17:38.530",
+        "titles": [
+          {
+            "title": "IBM Devops Deploy 8.0.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:devops_deploy:8.0.0.1:*:*:*:*:*:*:*",
+      "title": "IBM DevOps Deploy 8.0.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:devops_deploy:8.0.0.0:*:*:*:*:*:*:*",
+      "title": "IBM Devops Deploy 8.0.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

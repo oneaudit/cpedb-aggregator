@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:content_manager:8.5:*:*:*:*:enterprise:*:*",
+        "cpeNameId": "51AC8727-B8CA-483A-A93E-84B8001C4480",
+        "lastModified": "2016-04-25T18:15:43.423",
+        "created": "2016-04-25T18:15:43.423",
+        "titles": [
+          {
+            "title": "IBM Content Manager 8.5 Enterprise",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:content_manager:8.4.3:*:*:*:enterprise:*:*:*",
+        "cpeNameId": "5849A404-8E09-41D2-90B8-D198CD2DB73F",
+        "lastModified": "2019-10-02T18:12:03.327",
+        "created": "2019-10-02T18:12:03.327",
+        "titles": [
+          {
+            "title": "IBM Content Manager 8.4.3 Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:content_manager:8.5:*:*:*:enterprise:*:*:*",
+        "cpeNameId": "2E6DDECC-86DC-4470-BDE2-DB16842C5B64",
+        "lastModified": "2019-10-02T18:12:03.500",
+        "created": "2019-10-02T18:12:03.500",
+        "titles": [
+          {
+            "title": "IBM Content Manager 8.5 Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:content_manager:8.5:*:*:*:*:enterprise:*:*",
+      "title": "IBM Content Manager 8.5 Enterprise",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:content_manager:8.4.3:*:*:*:enterprise:*:*:*",
+      "title": "IBM Content Manager 8.4.3 Enterprise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:content_manager:8.5:*:*:*:enterprise:*:*:*",
+      "title": "IBM Content Manager 8.5 Enterprise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

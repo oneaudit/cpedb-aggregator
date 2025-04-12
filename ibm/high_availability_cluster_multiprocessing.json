@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:high_availability_cluster_multiprocessing:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FD807F51-D012-4EEE-AC98-E5ADF0A73D76",
+        "lastModified": "2008-04-01T16:39:14.843",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM HSLCTF",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:high_availability_cluster_multiprocessing:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "890B5B86-D00A-40DF-BCD2-C4DAEC03ACE1",
+        "lastModified": "2008-04-01T16:39:14.907",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM HSLCTF 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:high_availability_cluster_multiprocessing:-:*:*:*:*:*:*:*",
+      "title": "IBM HSLCTF",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:high_availability_cluster_multiprocessing:1.0:*:*:*:*:*:*:*",
+      "title": "IBM HSLCTF 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

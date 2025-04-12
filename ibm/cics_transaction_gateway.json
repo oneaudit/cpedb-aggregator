@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:cics_transaction_gateway:9.3:*:*:*:*:*:*:*",
+        "cpeNameId": "51BFDA73-E450-45AF-BFB1-8CDCE5C48684",
+        "lastModified": "2024-01-12T12:35:05.863",
+        "created": "2024-01-12T12:35:05.863",
+        "titles": [
+          {
+            "title": "IBM CICS Transaction Gateway 9.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:cics_transaction_gateway:9.2:*:*:*:*:multiplatforms:*:*",
+        "cpeNameId": "148677FD-39C2-4586-96D7-BD690B53C9D0",
+        "lastModified": "2024-04-12T12:17:38.530",
+        "created": "2024-04-12T12:17:38.530",
+        "titles": [
+          {
+            "title": "IBM CICS Transaction Gateway 9.2 for Multiplatforms",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:cics_transaction_gateway:9.3:*:*:*:*:multiplatforms:*:*",
+        "cpeNameId": "C65D0BF4-BCC4-4DE4-81A3-EE4BA6DAF58E",
+        "lastModified": "2024-04-12T12:17:38.530",
+        "created": "2024-04-12T12:17:38.530",
+        "titles": [
+          {
+            "title": "IBM CICS Transaction Gateway 9.3 for Multiplatforms",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:cics_transaction_gateway:9.3:*:*:*:*:*:*:*",
+      "title": "IBM CICS Transaction Gateway 9.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:cics_transaction_gateway:9.2:*:*:*:*:multiplatforms:*:*",
+      "title": "IBM CICS Transaction Gateway 9.2 for Multiplatforms",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:cics_transaction_gateway:9.3:*:*:*:*:multiplatforms:*:*",
+      "title": "IBM CICS Transaction Gateway 9.3 for Multiplatforms",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:aix_5l:-:*:*:*:*:*:*:*",
+        "cpeNameId": "873F77C5-51EA-4EB6-85A6-6EF74D4EF46D",
+        "lastModified": "2008-04-01T15:04:05.227",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM 5L AIX",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:aix_5l:5.3:sp6:*:*:*:*:*:*",
+        "cpeNameId": "59C3E0C0-CFD9-43AC-8FE3-E3210A5ACF55",
+        "lastModified": "2008-04-07T14:13:46.457",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM 5L AIX 5.3 sp6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:aix_5l:-:*:*:*:*:*:*:*",
+      "title": "IBM 5L AIX",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:aix_5l:5.3:sp6:*:*:*:*:*:*",
+      "title": "IBM 5L AIX 5.3 sp6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

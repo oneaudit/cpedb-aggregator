@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:lotus_domino_web_access:-:*:*:*:*:*:*:*",
+        "cpeNameId": "96ADD753-7DC5-4BF2-B98B-F4BAF362BC3A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM Lotus Domino Web Access",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:lotus_domino_web_access:7.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "86456B6C-70EF-4B22-ADD6-7B3831C01CF6",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Lotus Domino Web Access 7.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:lotus_domino_web_access:-:*:*:*:*:*:*:*",
+      "title": "IBM Lotus Domino Web Access",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:lotus_domino_web_access:7.0.1:*:*:*:*:*:*:*",
+      "title": "IBM Lotus Domino Web Access 7.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

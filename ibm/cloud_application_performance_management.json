@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:cloud_application_performance_management:8.1.4:*:*:*:*:advanced_private:*:*",
+        "cpeNameId": "F47554B3-D390-4DD4-9418-E53B346250AB",
+        "lastModified": "2020-03-06T16:57:13.720",
+        "created": "2020-03-06T16:57:13.720",
+        "titles": [
+          {
+            "title": "IBM Cloud Application Performance Management 8.1.4 for Advanced Private",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:cloud_application_performance_management:8.1.4:*:*:*:*:base_private:*:*",
+        "cpeNameId": "308DD3F4-2D3D-4703-9121-E1DC4A46B9DC",
+        "lastModified": "2020-03-06T16:57:13.937",
+        "created": "2020-03-06T16:57:13.937",
+        "titles": [
+          {
+            "title": "IBM Cloud Application Performance Management 8.1.4 for Base Private",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:cloud_application_performance_management:8.1.4:*:*:*:*:advanced_private:*:*",
+      "title": "IBM Cloud Application Performance Management 8.1.4 for Advanced Private",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:cloud_application_performance_management:8.1.4:*:*:*:*:base_private:*:*",
+      "title": "IBM Cloud Application Performance Management 8.1.4 for Base Private",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

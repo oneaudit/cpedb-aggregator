@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:hacmp:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0475C6A5-6590-4DF4-95E6-966B4116B83B",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM HACMP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:hacmp:4.4:*:*:*:*:*:*:*",
+        "cpeNameId": "CA71D328-ADFB-4DA0-B3EF-24DC5750267B",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM HACMP 4.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:hacmp:-:*:*:*:*:*:*:*",
+      "title": "IBM HACMP",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:hacmp:4.4:*:*:*:*:*:*:*",
+      "title": "IBM HACMP 4.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

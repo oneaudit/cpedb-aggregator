@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:i2_ibase:8.9.13:*:*:*:*:*:*:*",
+        "cpeNameId": "03DD88DD-484A-4E9E-B496-74E13126C60C",
+        "lastModified": "2020-11-02T16:32:02.863",
+        "created": "2020-11-02T16:32:02.863",
+        "titles": [
+          {
+            "title": "IBM I2 Ibase 8.9.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:i2_ibase:9.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "BC5E547C-C114-4F68-AEE7-44A7C2950EBC",
+        "lastModified": "2021-12-09T21:07:53.453",
+        "created": "2021-11-01T17:51:24.707",
+        "titles": [
+          {
+            "title": "IBM i2 iBase 9.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:i2_ibase:8.9.13:*:*:*:*:*:*:*",
+      "title": "IBM I2 Ibase 8.9.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:i2_ibase:9.0.0:*:*:*:*:*:*:*",
+      "title": "IBM i2 iBase 9.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

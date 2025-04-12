@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:informix_extended_parallel_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7A9575B6-4EFC-420D-850D-18CC227EFCE1",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM Informix Extended Parallel Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:informix_extended_parallel_server:8.40_uc1:*:*:*:*:*:*:*",
+        "cpeNameId": "FEA896D9-BB78-4CA7-95B0-AEB3B6330531",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Informix Extended Parallel Server 8.40 UC1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:informix_extended_parallel_server:8.40_uc2:*:*:*:*:*:*:*",
+        "cpeNameId": "DBCB2E49-8AF4-4D6D-8675-0BD89E700DAE",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Informix Extended Parallel Server 8.40 UC2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:informix_extended_parallel_server:-:*:*:*:*:*:*:*",
+      "title": "IBM Informix Extended Parallel Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:informix_extended_parallel_server:8.40_uc1:*:*:*:*:*:*:*",
+      "title": "IBM Informix Extended Parallel Server 8.40 UC1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:informix_extended_parallel_server:8.40_uc2:*:*:*:*:*:*:*",
+      "title": "IBM Informix Extended Parallel Server 8.40 UC2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

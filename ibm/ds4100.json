@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:ds4100:-:*:*:*:*:*:*:*",
+        "cpeNameId": "687F3D87-D7ED-480B-8704-757528901F8B",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM DS4100",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:ds4100:1724:*:*:*:*:*:*:*",
+        "cpeNameId": "8DD97257-F070-44AA-903C-E267C5B7F08D",
+        "lastModified": "2012-06-29T14:52:23.047",
+        "created": "2012-06-22T17:57:08.253",
+        "titles": [
+          {
+            "title": "IBM DS4100 (FAStT100) Dual-Controller Storage Server, Type 1724",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ibm:ds4100:-:*:*:*:*:*:*:*",
+      "title": "IBM DS4100",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:ibm:ds4100:1724:*:*:*:*:*:*:*",
+      "title": "IBM DS4100 (FAStT100) Dual-Controller Storage Server, Type 1724",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

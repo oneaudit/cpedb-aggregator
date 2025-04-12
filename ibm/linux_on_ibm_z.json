@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2BA9ED0F-26AB-411A-AD7A-E3D32E933C34",
+        "lastModified": "2023-02-14T15:51:38.130",
+        "created": "2023-02-14T15:44:13.530",
+        "titles": [
+          {
+            "title": "IBM Linux on IBM Z",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "AD9C8387-D9D1-4865-9475-6D19F148E3F6",
+        "lastModified": "2023-02-14T15:51:38.130",
+        "created": "2023-02-14T15:49:35.603",
+        "titles": [
+          {
+            "title": "IBM Linux on IBM Z on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:x86:*",
+        "cpeNameId": "3FB13552-4ECF-4760-90BA-17263EA08A27",
+        "lastModified": "2023-02-14T15:51:38.130",
+        "created": "2023-02-14T15:49:35.603",
+        "titles": [
+          {
+            "title": "IBM Linux on IBM Z on X86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:*:*",
+      "title": "IBM Linux on IBM Z",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:x64:*",
+      "title": "IBM Linux on IBM Z on X64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:x86:*",
+      "title": "IBM Linux on IBM Z on X86",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

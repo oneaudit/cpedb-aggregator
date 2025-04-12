@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:mq_appliance_m2000:8.0.0.3:*:*:*:*:*:*:*",
+        "cpeNameId": "8BFD3F98-E3C9-4F58-8870-CB34317FA404",
+        "lastModified": "2016-01-05T19:36:31.170",
+        "created": "2016-01-05T19:36:31.170",
+        "titles": [
+          {
+            "title": "IBM MQ Appliance 8.0.0.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:mq_appliance_m2000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C4B8370D-2732-432E-8900-C67935C1B91D",
+        "lastModified": "2021-06-09T14:02:02.940",
+        "created": "2016-09-02T19:04:08.187",
+        "titles": [
+          {
+            "title": "IBM MQ Appliance M2000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:mq_appliance_m2000:8.0.0.3:*:*:*:*:*:*:*",
+      "title": "IBM MQ Appliance 8.0.0.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:ibm:mq_appliance_m2000:-:*:*:*:*:*:*:*",
+      "title": "IBM MQ Appliance M2000",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

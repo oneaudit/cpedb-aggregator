@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:*:*",
+        "cpeNameId": "42F567D6-154B-4B80-96B3-266EF00E8D07",
+        "lastModified": "2023-02-14T15:51:38.130",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM Linux on zSeries",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:*:*",
+            "cpeNameId": "2BA9ED0F-26AB-411A-AD7A-E3D32E933C34"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:x86:*",
+        "cpeNameId": "5B2F7E7B-0FE6-4311-9E80-08C6C5D5967D",
+        "lastModified": "2023-02-14T15:51:38.130",
+        "created": "2015-02-17T20:12:51.463",
+        "titles": [
+          {
+            "title": "IBM Linux on zSeries 32-bit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:x86:*",
+            "cpeNameId": "3FB13552-4ECF-4760-90BA-17263EA08A27"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:x64:*",
+        "cpeNameId": "2984C6A5-5B83-4658-AB14-6CD8EF73F327",
+        "lastModified": "2023-02-14T15:51:38.130",
+        "created": "2015-02-17T20:12:51.463",
+        "titles": [
+          {
+            "title": "IBM Linux on zSeries 64-bit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:x64:*",
+            "cpeNameId": "AD9C8387-D9D1-4865-9475-6D19F148E3F6"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:*:*",
+      "title": "IBM Linux on zSeries",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:x86:*",
+      "title": "IBM Linux on zSeries 32-bit",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:x86:*"
+    },
+    {
+      "name": "cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:x64:*",
+      "title": "IBM Linux on zSeries 64-bit",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:x64:*"
+    }
+  ]
+}

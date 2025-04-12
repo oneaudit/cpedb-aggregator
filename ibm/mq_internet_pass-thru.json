@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:mq_internet_pass-thru:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "D17DA9D1-51ED-45FA-9260-9AB9526D7864",
+        "lastModified": "2021-01-27T12:56:43.483",
+        "created": "2021-01-27T12:56:43.483",
+        "titles": [
+          {
+            "title": "IBM MQ Internet Pass-Thru 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:mq_internet_pass-thru:9.2:*:*:*:*:*:*:*",
+        "cpeNameId": "1497B713-6E38-45C4-B1C6-54BFF56ACB4E",
+        "lastModified": "2021-01-27T12:56:43.670",
+        "created": "2021-01-27T12:56:43.670",
+        "titles": [
+          {
+            "title": "IBM MQ Internet Pass-Thru 9.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:mq_internet_pass-thru:9.2:*:*:*:continuous_delivery:*:*:*",
+        "cpeNameId": "E2D0A4D2-AA85-441B-A43B-CE75EC6A1E3D",
+        "lastModified": "2022-11-18T17:27:05.287",
+        "created": "2022-11-15T21:11:34.047",
+        "titles": [
+          {
+            "title": "IBM MQ Internet Pass-Thru 9.2 Continuous Delivery Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:mq_internet_pass-thru:9.2:*:*:*:lts:*:*:*",
+        "cpeNameId": "02CCC114-8B88-4954-ADF1-40961BF6BF55",
+        "lastModified": "2022-11-18T17:27:05.287",
+        "created": "2022-11-15T21:11:34.047",
+        "titles": [
+          {
+            "title": "IBM MQ Internet Pass-Thru 9.2 LTS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:mq_internet_pass-thru:2.1:*:*:*:*:*:*:*",
+      "title": "IBM MQ Internet Pass-Thru 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:mq_internet_pass-thru:9.2:*:*:*:*:*:*:*",
+      "title": "IBM MQ Internet Pass-Thru 9.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:mq_internet_pass-thru:9.2:*:*:*:continuous_delivery:*:*:*",
+      "title": "IBM MQ Internet Pass-Thru 9.2 Continuous Delivery Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:mq_internet_pass-thru:9.2:*:*:*:lts:*:*:*",
+      "title": "IBM MQ Internet Pass-Thru 9.2 LTS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

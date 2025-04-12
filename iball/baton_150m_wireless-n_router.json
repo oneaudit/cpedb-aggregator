@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:iball:baton_150m_wireless-n_router:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D3562289-ECC3-4E03-B7DF-7ADC169E0079",
+        "lastModified": "2021-06-17T16:56:39.803",
+        "created": "2017-03-14T22:38:32.343",
+        "titles": [
+          {
+            "title": "iBall Baton 150M Wireless-N Router",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:iball:ib-wra150n:-:*:*:*:*:*:*:*",
+            "cpeNameId": "AEB98218-D7F2-431D-9070-92C8ED763B8C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:iball:baton_150m_wireless-n_router:-:*:*:*:*:*:*:*",
+      "title": "iBall Baton 150M Wireless-N Router",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:iball:ib-wra150n:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

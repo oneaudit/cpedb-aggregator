@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:iseries_as_400:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A52753F5-8666-4A3D-90D6-C047C0CE65A6",
+        "lastModified": "2008-04-07T14:14:02.987",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM iSeries AS_400",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:iseries_as_400:4.3:*:*:*:*:*:*:*",
+        "cpeNameId": "D74AD819-21E5-4272-A231-A861935ECFE8",
+        "lastModified": "2008-04-07T14:14:03.157",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM iSeries AS_400 4.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ibm:iseries_as_400:-:*:*:*:*:*:*:*",
+      "title": "IBM iSeries AS_400",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:ibm:iseries_as_400:4.3:*:*:*:*:*:*:*",
+      "title": "IBM iSeries AS_400 4.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:lotus_domino_inotes_client:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8E140C46-AFB1-4E79-9148-66FE621E0742",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM Lotus Domino iNotes Client",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:lotus_domino_inotes_client:6.5.4:*:*:*:*:*:*:*",
+        "cpeNameId": "84DDA5AC-556F-47BD-B415-5833942327D2",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Lotus Domino iNotes Client 6.5.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:lotus_domino_inotes_client:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1E06E675-8119-4E5B-A627-67B403220650",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Lotus Domino iNotes Client 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:lotus_domino_inotes_client:-:*:*:*:*:*:*:*",
+      "title": "IBM Lotus Domino iNotes Client",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:lotus_domino_inotes_client:6.5.4:*:*:*:*:*:*:*",
+      "title": "IBM Lotus Domino iNotes Client 6.5.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:lotus_domino_inotes_client:7.0:*:*:*:*:*:*:*",
+      "title": "IBM Lotus Domino iNotes Client 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

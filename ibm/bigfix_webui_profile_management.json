@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:bigfix_webui_profile_management:6:*:*:*:*:*:*:*",
+        "cpeNameId": "247B7D72-7CC0-4944-9A5E-DA660AB87828",
+        "lastModified": "2020-03-31T18:01:46.173",
+        "created": "2020-03-31T18:01:46.173",
+        "titles": [
+          {
+            "title": "IBM BigFix WebUI Profile Management 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:bigfix_webui_profile_management:7:*:*:*:*:*:*:*",
+        "cpeNameId": "3761578A-11D9-4890-B3B9-D2B400F728CA",
+        "lastModified": "2020-03-31T18:01:46.360",
+        "created": "2020-03-31T18:01:46.360",
+        "titles": [
+          {
+            "title": "IBM BigFix WebUI Profile Management 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:bigfix_webui_profile_management:6:*:*:*:*:*:*:*",
+      "title": "IBM BigFix WebUI Profile Management 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:bigfix_webui_profile_management:7:*:*:*:*:*:*:*",
+      "title": "IBM BigFix WebUI Profile Management 7",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

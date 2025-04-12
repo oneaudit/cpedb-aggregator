@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:gina:-:*:*:*:*:*:*:*",
+        "cpeNameId": "442DC9D5-D51A-4864-965E-49B56DDB5F7E",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM GINA",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:gina:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AE84DD96-5F68-40C7-8931-8E607D992768",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM GINA 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:gina:-:*:*:*:*:*:*:*",
+      "title": "IBM GINA",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:gina:1.0:*:*:*:*:*:*:*",
+      "title": "IBM GINA 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

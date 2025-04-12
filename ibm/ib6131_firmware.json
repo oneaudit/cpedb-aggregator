@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:ib6131_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "304C51A9-E251-4063-BCF6-46E7C747519D",
+        "lastModified": "2021-06-09T15:31:21.133",
+        "created": "2017-08-30T01:53:51.970",
+        "titles": [
+          {
+            "title": "IBM IB6131 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:ib6131_firmware:3.4.0.0.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3B614E40-D148-4AD2-A694-8C78418BBB03",
+        "lastModified": "2021-06-09T15:31:21.133",
+        "created": "2017-09-12T14:11:41.100",
+        "titles": [
+          {
+            "title": "IBM IB6131 Firmware 3.4.0.0.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ibm:ib6131_firmware:-:*:*:*:*:*:*:*",
+      "title": "IBM IB6131 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ibm:ib6131_firmware:3.4.0.0.0.0:*:*:*:*:*:*:*",
+      "title": "IBM IB6131 Firmware 3.4.0.0.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

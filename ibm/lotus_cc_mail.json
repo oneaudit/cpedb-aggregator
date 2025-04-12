@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:lotus_cc_mail:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9BEEC12E-2DD8-48EE-B985-864A721E57B9",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM Lotus cc Mail",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:lotus_cc_mail:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CF624A87-5A16-4057-BE5B-77A4248E214B",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Lotus cc Mail 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:lotus_cc_mail:-:*:*:*:*:*:*:*",
+      "title": "IBM Lotus cc Mail",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:lotus_cc_mail:8.0:*:*:*:*:*:*:*",
+      "title": "IBM Lotus cc Mail 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

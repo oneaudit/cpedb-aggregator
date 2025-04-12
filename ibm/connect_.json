@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:connect\\:direct:6.0.0:*:*:*:*:unix:*:*",
+        "cpeNameId": "533F9E1C-24B0-4C36-8A93-7DE4E1792D4B",
+        "lastModified": "2020-08-25T16:14:32.067",
+        "created": "2020-08-25T16:14:32.067",
+        "titles": [
+          {
+            "title": "IBM Connect:Direct 6.0.0 for UNIX",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:connect\\:direct:6.1.0:*:*:*:*:unix:*:*",
+        "cpeNameId": "C643D2B1-4392-4B34-84EF-3CFB776FDB06",
+        "lastModified": "2020-08-25T16:14:32.147",
+        "created": "2020-08-25T16:14:32.147",
+        "titles": [
+          {
+            "title": "IBM Connect:Direct 6.1.0 for UNIX",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:connect\\:direct:4.2.0:*:*:*:*:unix:*:*",
+        "cpeNameId": "AA95E010-A66D-4A5C-8459-2A2F0DDEB867",
+        "lastModified": "2021-06-04T17:41:28.150",
+        "created": "2020-12-16T21:53:12.207",
+        "titles": [
+          {
+            "title": "IBM Connect:Direct 4.2.0 for Unix",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:connect\\:direct:4.3.0:*:*:*:*:unix:*:*",
+        "cpeNameId": "C46DB3F2-F1C5-4699-BED4-9B3FB6D1186C",
+        "lastModified": "2021-06-04T17:41:28.150",
+        "created": "2020-12-16T21:53:12.207",
+        "titles": [
+          {
+            "title": "IBM Connect:Direct 4.3.0 for Unix",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:connect\\:direct:6.0.0:*:*:*:*:unix:*:*",
+      "title": "IBM Connect:Direct 6.0.0 for UNIX",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:connect\\:direct:6.1.0:*:*:*:*:unix:*:*",
+      "title": "IBM Connect:Direct 6.1.0 for UNIX",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:connect\\:direct:4.2.0:*:*:*:*:unix:*:*",
+      "title": "IBM Connect:Direct 4.2.0 for Unix",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:connect\\:direct:4.3.0:*:*:*:*:unix:*:*",
+      "title": "IBM Connect:Direct 4.3.0 for Unix",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
