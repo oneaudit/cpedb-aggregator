@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:one_messaging_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2132CA80-E462-46CF-9458-1D0343F6CCB7",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sun ONE Messaging Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:one_messaging_server:5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "E5FAC820-EB57-4676-8AFF-FB2F426C6C84",
+        "lastModified": "2008-04-07T14:52:43.300",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun ONE Messaging Server 5.2 Hotfix 1.1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:one_messaging_server:6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "A9478AAF-E429-4ED9-99CA-F444E867F3A6",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun ONE Messaging Server 6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:one_messaging_server:-:*:*:*:*:*:*:*",
+      "title": "Sun ONE Messaging Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:one_messaging_server:5.2:*:*:*:*:*:*:*",
+      "title": "Sun ONE Messaging Server 5.2 Hotfix 1.1.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:one_messaging_server:6.2:*:*:*:*:*:*:*",
+      "title": "Sun ONE Messaging Server 6.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

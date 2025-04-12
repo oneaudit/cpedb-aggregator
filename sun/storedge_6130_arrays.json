@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:sun:storedge_6130_arrays:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C0B320C8-032C-4950-957D-F2DD0BF04D64",
+        "lastModified": "2008-04-07T14:53:02.550",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun StorEdge 6130 Arrays",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:sun:storedge_6130_arrays:06.12.10.11:*:*:*:*:*:*:*",
+        "cpeNameId": "CBC6C479-A582-4C80-BB56-381934B07A3B",
+        "lastModified": "2008-04-07T14:53:02.737",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun StorEdge 6130 Arrays firmware 06.12.10.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:sun:storedge_6130_arrays:-:*:*:*:*:*:*:*",
+      "title": "Sun StorEdge 6130 Arrays",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:sun:storedge_6130_arrays:06.12.10.11:*:*:*:*:*:*:*",
+      "title": "Sun StorEdge 6130 Arrays firmware 06.12.10.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

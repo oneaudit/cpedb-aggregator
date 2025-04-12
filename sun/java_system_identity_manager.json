@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_system_identity_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C141E4AD-7E19-421F-902A-E8DB26557E49",
+        "lastModified": "2008-01-14T13:34:42.523",
+        "created": "2008-01-14T13:34:42.523",
+        "titles": [
+          {
+            "title": "Sun Java System Identity Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_system_identity_manager:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FD4B39F0-B53A-460E-BA6D-8BB2FBD27455",
+        "lastModified": "2008-01-14T13:35:18.887",
+        "created": "2008-01-14T13:35:18.887",
+        "titles": [
+          {
+            "title": "Sun Java System Identity Manager 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_system_identity_manager:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "C0344CB2-B928-4BE6-A924-8D295E531D64",
+        "lastModified": "2008-01-14T13:35:23.200",
+        "created": "2008-01-14T13:35:23.200",
+        "titles": [
+          {
+            "title": "Sun Java System Identity Manager 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:java_system_identity_manager:-:*:*:*:*:*:*:*",
+      "title": "Sun Java System Identity Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:java_system_identity_manager:7.0:*:*:*:*:*:*:*",
+      "title": "Sun Java System Identity Manager 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:java_system_identity_manager:7.1:*:*:*:*:*:*:*",
+      "title": "Sun Java System Identity Manager 7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

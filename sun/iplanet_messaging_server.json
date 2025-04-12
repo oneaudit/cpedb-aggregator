@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:iplanet_messaging_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "460AB0F6-54A8-42BD-A035-C53E027A799A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sun iPlanet Messaging Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:iplanet_messaging_server:5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "7F5AC6A5-D7C8-4319-8F0D-22F79D467924",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun iPlanet Messaging Server 5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:iplanet_messaging_server:-:*:*:*:*:*:*:*",
+      "title": "Sun iPlanet Messaging Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:iplanet_messaging_server:5.2:*:*:*:*:*:*:*",
+      "title": "Sun iPlanet Messaging Server 5.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

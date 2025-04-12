@@ -1,0 +1,68 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sun:mysql_connector\\/j:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FCA17748-435D-4512-BA05-1B3601E47C8D",
+        "lastModified": "2018-01-19T19:46:36.880",
+        "created": "2009-09-10T18:53:19.077",
+        "titles": [
+          {
+            "title": "Sun MySQL Connector/J",
+            "lang": "en"
+          },
+          {
+            "title": "サン・マイクロシステムズ MySQL Connector/J",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:mysql_connector\\/j:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5291A65A-C0B4-4044-BD49-F4CA1AD6E3F1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sun:mysql_connector\\/j:5.1.8:*:*:*:*:*:*:*",
+        "cpeNameId": "14953FCC-1080-4DC9-A6E7-FB7096FBEEC3",
+        "lastModified": "2018-01-19T19:45:48.647",
+        "created": "2009-09-10T18:53:19.217",
+        "titles": [
+          {
+            "title": "Sun MySQL Connector/J 5.1.8",
+            "lang": "en"
+          },
+          {
+            "title": "サン・マイクロシステムズ MySQL Connector/J 5.1.8",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:mysql_connector\\/j:5.1.8:*:*:*:*:*:*:*",
+            "cpeNameId": "E1C7D899-F82E-46EF-9E76-594A59C36971"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:mysql_connector\\/j:-:*:*:*:*:*:*:*",
+      "title": "Sun MySQL Connector/J",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:mysql_connector\\/j:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:sun:mysql_connector\\/j:5.1.8:*:*:*:*:*:*:*",
+      "title": "Sun MySQL Connector/J 5.1.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:mysql_connector\\/j:5.1.8:*:*:*:*:*:*:*"
+    }
+  ]
+}

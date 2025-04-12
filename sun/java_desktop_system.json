@@ -1,0 +1,77 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_desktop_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4512B2BF-3119-4EF5-AC48-05635D632DDB",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sun Java Desktop System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_desktop_system:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C20E82F4-611B-4685-90C8-4D6AB35E4BA9",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Java Desktop System 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:sun:java_desktop_system:2:*:*:*:*:*:*:*",
+        "cpeNameId": "3D586F72-B567-4D28-A67D-2740E7EAE7E7",
+        "lastModified": "2010-12-29T17:11:03.727",
+        "created": "2008-12-12T16:13:44.613",
+        "titles": [
+          {
+            "title": "Sun Java Desktop System 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sun:java_desktop_system:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "C20E82F4-611B-4685-90C8-4D6AB35E4BA9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:java_desktop_system:-:*:*:*:*:*:*:*",
+      "title": "Sun Java Desktop System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:java_desktop_system:2.0:*:*:*:*:*:*:*",
+      "title": "Sun Java Desktop System 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sun:java_desktop_system:2:*:*:*:*:*:*:*",
+      "title": "Sun Java Desktop System 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sun:java_desktop_system:2.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

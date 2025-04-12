@@ -1,0 +1,187 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_system_access_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "251CC5E5-543C-4327-91C2-498D832E5615",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sun Java System Access Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_system_access_manager:6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "88AB72BB-C013-43FB-AE9D-44CEE6B2243E",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Java System Access Manager 6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_system_access_manager:6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "45AAA25B-F24B-4517-9A43-79B6EE766952",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Java System Access Manager 6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_system_access_manager:6.3:*:*:*:*:*:*:*",
+        "cpeNameId": "06F41590-B264-4053-B0A5-708EAED3182B",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Java System Access Manager 6.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_system_access_manager:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7133F1A2-1643-451A-A30C-5EE2005321E2",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Java System Access Manager 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_system_access_manager:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "3E27A645-F15C-418E-8293-9EF4669036C9",
+        "lastModified": "2007-10-01T17:39:19.427",
+        "created": "2007-10-01T17:39:19.427",
+        "titles": [
+          {
+            "title": "Sun Java System Access Manager 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sun:java_system_access_manager:6.3_2005q4:*:*:*:*:*:*:*",
+        "cpeNameId": "CFBDAA9F-DF20-48A6-98F4-4AA38687FED8",
+        "lastModified": "2013-02-11T20:14:27.307",
+        "created": "2009-01-19T19:15:52.817",
+        "titles": [
+          {
+            "title": "Sun Java System Access Manager 6.3 2005Q4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sun:java_system_access_manager:6.3:2005q4:*:*:*:*:*:*",
+            "cpeNameId": "F2B510A3-47C0-4C29-AFF7-9C76E3BF7CEE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_system_access_manager:6.3:2005q4:*:*:*:*:*:*",
+        "cpeNameId": "F2B510A3-47C0-4C29-AFF7-9C76E3BF7CEE",
+        "lastModified": "2013-02-11T20:14:25.663",
+        "created": "2013-02-11T20:14:25.663",
+        "titles": [
+          {
+            "title": "Sun Java System Access Manager 6.3 2005Q4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:java_system_access_manager:-:*:*:*:*:*:*:*",
+      "title": "Sun Java System Access Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:java_system_access_manager:6.1:*:*:*:*:*:*:*",
+      "title": "Sun Java System Access Manager 6.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:java_system_access_manager:6.2:*:*:*:*:*:*:*",
+      "title": "Sun Java System Access Manager 6.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:java_system_access_manager:6.3:*:*:*:*:*:*:*",
+      "title": "Sun Java System Access Manager 6.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:java_system_access_manager:7.0:*:*:*:*:*:*:*",
+      "title": "Sun Java System Access Manager 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:java_system_access_manager:7.1:*:*:*:*:*:*:*",
+      "title": "Sun Java System Access Manager 7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:java_system_access_manager:6.3_2005q4:*:*:*:*:*:*:*",
+      "title": "Sun Java System Access Manager 6.3 2005Q4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sun:java_system_access_manager:6.3:2005q4:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:sun:java_system_access_manager:6.3:2005q4:*:*:*:*:*:*",
+      "title": "Sun Java System Access Manager 6.3 2005Q4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

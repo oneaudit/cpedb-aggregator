@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:subrion:cms:3.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "B03E01C7-9C79-45FE-892E-5D4E612EF201",
+        "lastModified": "2018-11-07T13:59:11.717",
+        "created": "2014-12-11T15:02:24.513",
+        "titles": [
+          {
+            "title": "Subrion CMS 3.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:intelliants:subrion:3.2.2:*:*:*:*:*:*:*",
+            "cpeNameId": "350F7227-E02E-4CA8-9089-3845800ECA29"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:subrion:cms:4.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "DA8E18A6-EDB1-4337-B1BA-9E00A1A73EC1",
+        "lastModified": "2018-11-07T13:59:12.093",
+        "created": "2018-10-17T21:55:26.577",
+        "titles": [
+          {
+            "title": "Subrion CMS 4.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:intelliants:subrion:4.2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "5DE34329-98E9-40AF-9471-4E18D143DBCB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:subrion:cms:3.2.2:*:*:*:*:*:*:*",
+      "title": "Subrion CMS 3.2.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:intelliants:subrion:3.2.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:subrion:cms:4.2.1:*:*:*:*:*:*:*",
+      "title": "Subrion CMS 4.2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:intelliants:subrion:4.2.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

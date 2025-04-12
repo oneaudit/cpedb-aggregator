@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:one_administration_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "23A37F47-680E-4E6A-9D86-C0B386D69BA7",
+        "lastModified": "2008-04-01T16:55:55.013",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sun Sun ONE Administration Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:one_administration_server:5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "26DD0429-3907-44CE-B252-BF83F0F57C16",
+        "lastModified": "2008-04-01T16:55:55.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Sun ONE Administration Server 5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:one_administration_server:-:*:*:*:*:*:*:*",
+      "title": "Sun Sun ONE Administration Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:one_administration_server:5.2:*:*:*:*:*:*:*",
+      "title": "Sun Sun ONE Administration Server 5.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:sun:crypto_accelerator_4000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A4354445-6478-4FC4-BD25-19DE5BE90693",
+        "lastModified": "2008-04-01T16:42:42.853",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sun Crypto Accelerator 4000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:sun:crypto_accelerator_4000:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "34550156-43DA-46D1-80F3-390911E0B35C",
+        "lastModified": "2008-04-01T16:42:42.930",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Crypto Accelerator 4000 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:sun:crypto_accelerator_4000:-:*:*:*:*:*:*:*",
+      "title": "Sun Crypto Accelerator 4000",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:sun:crypto_accelerator_4000:1.0:*:*:*:*:*:*:*",
+      "title": "Sun Crypto Accelerator 4000 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

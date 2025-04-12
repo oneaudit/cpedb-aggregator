@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:net_connect_software:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FEC04828-304A-4BC6-8405-B3D8A44DD076",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sun Net Connect Software",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:net_connect_software:3.2.3:*:*:*:*:*:*:*",
+        "cpeNameId": "672C8063-BCCE-4674-AC0E-3EA9A9904C53",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Net Connect Software 3.2.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:net_connect_software:3.2.4:*:*:*:*:*:*:*",
+        "cpeNameId": "C0C77401-AD70-454F-AC2B-04245D6EB9B4",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Net Connect Software 3.2.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:net_connect_software:-:*:*:*:*:*:*:*",
+      "title": "Sun Net Connect Software",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:net_connect_software:3.2.3:*:*:*:*:*:*:*",
+      "title": "Sun Net Connect Software 3.2.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:net_connect_software:3.2.4:*:*:*:*:*:*:*",
+      "title": "Sun Net Connect Software 3.2.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

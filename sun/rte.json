@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:rte:-:*:*:*:*:*:*:*",
+        "cpeNameId": "61FE60A0-8685-486A-B497-5DBA76F133C6",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sun RTE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:rte:1.4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "5FFA870B-6499-4600-8D44-3E6F690F5D83",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun RTE 1.4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:rte:1.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "B5006398-F76C-40A7-8281-CB5268B86F2C",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun RTE 1.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:rte:-:*:*:*:*:*:*:*",
+      "title": "Sun RTE",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:rte:1.4.1:*:*:*:*:*:*:*",
+      "title": "Sun RTE 1.4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:rte:1.4.2:*:*:*:*:*:*:*",
+      "title": "Sun RTE 1.4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

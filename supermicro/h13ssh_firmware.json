@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:supermicro:h13ssh_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A07986D4-6261-43D2-B04A-1C397E13F3AF",
+        "lastModified": "2023-08-16T16:21:06.167",
+        "created": "2023-08-07T12:54:57.150",
+        "titles": [
+          {
+            "title": "Supermicro H13SSH FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:supermicro:h13ssh_firmware:3.17.02:*:*:*:*:*:*:*",
+        "cpeNameId": "AC7DF1C5-EFC0-4D70-B02C-A6DAF06BF662",
+        "lastModified": "2023-12-12T13:55:58.383",
+        "created": "2023-12-12T13:55:58.383",
+        "titles": [
+          {
+            "title": "Super Micro H13SSH Firmware 3.17.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:supermicro:h13ssh_firmware:-:*:*:*:*:*:*:*",
+      "title": "Supermicro H13SSH FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:supermicro:h13ssh_firmware:3.17.02:*:*:*:*:*:*:*",
+      "title": "Super Micro H13SSH Firmware 3.17.02",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

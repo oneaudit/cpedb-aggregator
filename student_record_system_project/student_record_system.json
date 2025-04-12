@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:student_record_system_project:student_record_system:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "877E62C1-0BE3-46BD-8600-93500BFEDC34",
+        "lastModified": "2023-11-14T21:36:21.653",
+        "created": "2021-07-23T14:16:04.853",
+        "titles": [
+          {
+            "title": "Student Record System Project Student Record System 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:student_record_system:4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "E0C469A9-36D0-42CC-B720-2C23EEEF629B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:student_record_system_project:student_record_system:4.0:*:*:*:*:*:*:*",
+      "title": "Student Record System Project Student Record System 4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:student_record_system:4.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

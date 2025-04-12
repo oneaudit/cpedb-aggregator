@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_enterprise_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "81192404-7043-4220-BA37-89635C096928",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sun Java Enterprise System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_enterprise_system:5.0:update10:*:*:*:*:*:*",
+        "cpeNameId": "4F16F57D-D545-44DB-95F3-2D5E117C4A34",
+        "lastModified": "2008-04-14T20:21:44.910",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Java Enterprise System 5.0 Update10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:java_enterprise_system:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8C0FD7EA-2929-46FE-9014-CF47419665FE",
+        "lastModified": "2012-07-10T03:20:46.823",
+        "created": "2012-07-10T03:20:46.823",
+        "titles": [
+          {
+            "title": "Sun Java Enterprise System 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:java_enterprise_system:-:*:*:*:*:*:*:*",
+      "title": "Sun Java Enterprise System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:java_enterprise_system:5.0:update10:*:*:*:*:*:*",
+      "title": "Sun Java Enterprise System 5.0 Update10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:java_enterprise_system:5.0:*:*:*:*:*:*:*",
+      "title": "Sun Java Enterprise System 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

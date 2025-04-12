@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:enterprise_storage_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7E242C9F-6D03-43DB-814F-6C9BF1B94BFF",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sun Enterprise Storage Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:enterprise_storage_manager:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "D10B0FBA-6A89-43F5-BE4B-6DED55DC76EC",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Enterprise Storage Manager 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:enterprise_storage_manager:-:*:*:*:*:*:*:*",
+      "title": "Sun Enterprise Storage Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:enterprise_storage_manager:2.1:*:*:*:*:*:*:*",
+      "title": "Sun Enterprise Storage Manager 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

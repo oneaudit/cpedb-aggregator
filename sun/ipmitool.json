@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:ipmitool:-:*:*:*:*:*:*:*",
+        "cpeNameId": "813A9E94-B31D-4E58-B020-4D714AD9732A",
+        "lastModified": "2008-04-01T16:42:43.710",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sun Ipmtool",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:ipmitool:1.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "BC0C2B31-5667-4254-953D-9D1FA38C3E8B",
+        "lastModified": "2012-07-10T03:20:40.137",
+        "created": "2012-07-10T03:20:40.137",
+        "titles": [
+          {
+            "title": "Sun Ipmitool 1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:ipmitool:1.8.9:*:*:*:*:*:*:*",
+        "cpeNameId": "A5DBD5D0-25F8-42D0-A420-E3EB140912A4",
+        "lastModified": "2012-07-10T03:20:40.527",
+        "created": "2012-07-10T03:20:40.527",
+        "titles": [
+          {
+            "title": "Sun Ipmitool 1.8.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:ipmitool:-:*:*:*:*:*:*:*",
+      "title": "Sun Ipmtool",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:ipmitool:1.0.0:*:*:*:*:*:*:*",
+      "title": "Sun Ipmitool 1.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:ipmitool:1.8.9:*:*:*:*:*:*:*",
+      "title": "Sun Ipmitool 1.8.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

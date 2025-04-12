@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:sun:fire_x2200_m2:2.19:_nil_:x86:*:*:*:*:*",
+        "cpeNameId": "97C073C9-B86F-4678-92AF-B148B5C3C6E4",
+        "lastModified": "2013-02-11T20:14:28.337",
+        "created": "2009-01-30T14:33:02.183",
+        "titles": [
+          {
+            "title": "Sun Fire X2100 M2 2.19 x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:sun:fire_x2200_m2:2.19:-:x86:*:*:*:*:*",
+            "cpeNameId": "5FF3BE00-476A-49EE-8B04-C19726D4193B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:sun:fire_x2200_m2:2.19:-:x86:*:*:*:*:*",
+        "cpeNameId": "5FF3BE00-476A-49EE-8B04-C19726D4193B",
+        "lastModified": "2013-02-11T20:14:27.163",
+        "created": "2013-02-11T20:14:27.163",
+        "titles": [
+          {
+            "title": "Sun Fire X2100 M2 2.19 x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:sun:fire_x2200_m2:2.19:_nil_:x86:*:*:*:*:*",
+      "title": "Sun Fire X2100 M2 2.19 x86 (32-bit)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:sun:fire_x2200_m2:2.19:-:x86:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:sun:fire_x2200_m2:2.19:-:x86:*:*:*:*:*",
+      "title": "Sun Fire X2100 M2 2.19 x86 (32-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

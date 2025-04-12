@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:secure_global_desktop:-:*:*:*:*:*:*:*",
+        "cpeNameId": "70CC9648-8321-4910-AA79-C232BE065595",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Sun Secure Global Desktop",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:secure_global_desktop:3.42:*:*:*:*:*:*:*",
+        "cpeNameId": "FA1CF743-768B-4825-B069-0632D4FADFF5",
+        "lastModified": "2008-04-01T16:55:59.980",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Sun Secure Global Desktop 3.42",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sun:secure_global_desktop:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8F30CAE8-26D2-4CE9-82CD-94BD24077E79",
+        "lastModified": "2008-04-01T16:56:00.123",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Sun Sun Secure Global Desktop 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sun:secure_global_desktop:-:*:*:*:*:*:*:*",
+      "title": "Sun Secure Global Desktop",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:secure_global_desktop:3.42:*:*:*:*:*:*:*",
+      "title": "Sun Sun Secure Global Desktop 3.42",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sun:secure_global_desktop:4.0:*:*:*:*:*:*:*",
+      "title": "Sun Sun Secure Global Desktop 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
