@@ -36,7 +36,7 @@ const (
 )
 
 var (
-	nameSanitize = regexp.MustCompile(`[^\w-.]`)
+	nameSanitize = regexp.MustCompile(`[^\w-]`)
 	rateLimiter  = ratelimit.New(context.Background(), RateLimit, time.Minute)
 )
 
@@ -307,7 +307,7 @@ func computeJsonFilePath(cpe string) (string, string, error) {
 }
 
 func sanitize(str string, newChar string) string {
-	return strings.ReplaceAll(nameSanitize.ReplaceAllString(str, newChar), "./", newChar+"/")
+	return nameSanitize.ReplaceAllString(str, newChar)
 }
 
 func buildOpenCpeProduct(product types.NistProduct) types.OpenCPEProduct {
