@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:configuration_automation_server:12.5.0.29:*:*:*:*:*:*:*",
+        "cpeNameId": "9CD9FF5F-433B-4697-8C55-070C676F529A",
+        "lastModified": "2021-04-08T13:06:36.147",
+        "created": "2012-05-08T13:50:32.787",
+        "titles": [
+          {
+            "title": "Ca Configuration Automation Server 12.5.0.29",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:configuration_automation_server:12.5.0.29:*:*:*:*:*:*:*",
+            "cpeNameId": "1FE1E0F8-93CD-43AC-8B79-9BF0898362EF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:configuration_automation_server:12.5.8.1016:*:*:*:*:*:*:*",
+        "cpeNameId": "03731EEA-6F07-4CF1-AA30-0A1532CC09E7",
+        "lastModified": "2021-04-08T13:06:36.147",
+        "created": "2012-05-08T13:50:32.957",
+        "titles": [
+          {
+            "title": "Ca Configuration Automation Server 12.5.8.1016",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:configuration_automation_server:12.5.8.1016:*:*:*:*:*:*:*",
+            "cpeNameId": "C31E77DA-1FE7-45E3-89B8-886B90ACF440"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:configuration_automation_server:12.5.0.29:*:*:*:*:*:*:*",
+      "title": "Ca Configuration Automation Server 12.5.0.29",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:configuration_automation_server:12.5.0.29:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:configuration_automation_server:12.5.8.1016:*:*:*:*:*:*:*",
+      "title": "Ca Configuration Automation Server 12.5.8.1016",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:configuration_automation_server:12.5.8.1016:*:*:*:*:*:*:*"
+    }
+  ]
+}

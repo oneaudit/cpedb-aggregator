@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:anti-spyware:2007:*:*:*:*:*:*:*",
+        "cpeNameId": "55229662-14BA-4762-8B8B-295BC62110D8",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Anti-spyware 2007",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:anti-spyware:2007:*:*:*:*:*:*:*",
+            "cpeNameId": "78D864E1-47BB-487E-BF16-2BE6D8C1CA8A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:anti-spyware:2008:*:*:*:*:*:*:*",
+        "cpeNameId": "3D13DC80-A5AE-46DA-A727-B93FD7548D89",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2009-01-28T17:03:40.413",
+        "titles": [
+          {
+            "title": "Computer Associates Anti-spyware 2008",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:anti-spyware:2008:*:*:*:*:*:*:*",
+            "cpeNameId": "3A438F0C-A2B7-452C-A895-A82E67B01ADD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:anti-spyware:2007:*:*:*:*:*:*:*",
+      "title": "Computer Associates Anti-spyware 2007",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:anti-spyware:2007:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:anti-spyware:2008:*:*:*:*:*:*:*",
+      "title": "Computer Associates Anti-spyware 2008",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:anti-spyware:2008:*:*:*:*:*:*:*"
+    }
+  ]
+}

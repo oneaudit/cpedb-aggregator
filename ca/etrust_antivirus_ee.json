@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_antivirus_ee:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D3B7FB7C-D168-4148-ACB8-929C1891BD80",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Antivirus EE 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_antivirus_ee:6.0:*:*:*:*:*:*:*",
+            "cpeNameId": "C4E3D141-A60D-4FC6-89F8-0C538C53EB48"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_antivirus_ee:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FDC4858F-1228-4D1E-B94F-9EFD29C136A7",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Antivirus EE 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_antivirus_ee:7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "A50B7578-862E-4558-A523-1683A988C35B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_antivirus_ee:6.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Antivirus EE 6.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_antivirus_ee:6.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_antivirus_ee:7.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Antivirus EE 7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_antivirus_ee:7.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_performance_management:2.4:sp3:openvms:*:*:*:*:*",
+        "cpeNameId": "32A9675F-09D3-434C-9B58-146579604D1C",
+        "lastModified": "2021-04-14T15:38:55.600",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Performance Management for OpenVMS 2.4 SP3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_performance_management:2.4:sp3:openvms:*:*:*:*:*",
+            "cpeNameId": "262D8A25-F01E-4B43-A260-25DDBC35F000"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_performance_management:2.4:sp3:openvms:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Performance Management for OpenVMS 2.4 SP3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_performance_management:2.4:sp3:openvms:*:*:*:*:*"
+    }
+  ]
+}

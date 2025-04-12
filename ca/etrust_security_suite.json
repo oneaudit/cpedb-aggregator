@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_security_suite:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8A7120F1-A668-4BA7-AB25-7279214BF01A",
+        "lastModified": "2021-04-09T16:22:06.837",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates etrust Security Suite",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_security_suite:-:*:*:*:*:*:*:*",
+            "cpeNameId": "119CEF59-A63B-4051-958D-8DA533A1C06B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_security_suite:1:*:*:*:*:*:*:*",
+        "cpeNameId": "4405C561-9C95-4925-B5E2-5C794F04F200",
+        "lastModified": "2021-04-09T16:28:18.890",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates etrust Security Suite r1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_security_suite:1:*:*:*:*:*:*:*",
+            "cpeNameId": "20AD72C0-452E-48E4-8229-5C326E5F38D9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_security_suite:2:*:*:*:*:*:*:*",
+        "cpeNameId": "506AFB25-6166-46E9-AA6F-28F8F8364826",
+        "lastModified": "2021-04-09T16:28:49.707",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates etrust Security Suite r2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_security_suite:2:*:*:*:*:*:*:*",
+            "cpeNameId": "5293B431-42D1-4E7D-AC15-67C52A54F112"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_security_suite:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates etrust Security Suite",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_security_suite:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_security_suite:1:*:*:*:*:*:*:*",
+      "title": "Computer Associates etrust Security Suite r1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_security_suite:1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_security_suite:2:*:*:*:*:*:*:*",
+      "title": "Computer Associates etrust Security Suite r2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_security_suite:2:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_serviceplus_service_desk:-:*:*:*:*:*:*:*",
+        "cpeNameId": "78A7DE92-B8B4-444C-BB5B-75ECA9EB3C20",
+        "lastModified": "2021-04-14T15:42:08.247",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter ServicePlus Service Desk",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_serviceplus_service_desk:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BBF805B9-B4D8-417F-9DC7-36D1C210D070"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_serviceplus_service_desk:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C4DB118F-50B9-482E-949E-85571F303382",
+        "lastModified": "2021-04-14T15:42:27.127",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter ServicePlus Service Desk 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_serviceplus_service_desk:6.0:*:*:*:*:*:*:*",
+            "cpeNameId": "5E0301F2-880E-496A-B5FD-63D8BAEEBB69"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_serviceplus_service_desk:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter ServicePlus Service Desk",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_serviceplus_service_desk:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_serviceplus_service_desk:6.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter ServicePlus Service Desk 6.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_serviceplus_service_desk:6.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

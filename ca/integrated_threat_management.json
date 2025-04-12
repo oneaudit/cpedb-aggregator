@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:integrated_threat_management:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AFCFD2E3-FB11-423C-96E2-B31F9E2D3583",
+        "lastModified": "2021-04-09T17:03:25.903",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Integrated Threat Management",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:integrated_threat_management:-:*:*:*:*:*:*:*",
+            "cpeNameId": "3D2CBCD7-3544-453D-B562-BD56FFDD4AA9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:integrated_threat_management:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F4B8FAFD-667A-4C61-8832-51E9E941940A",
+        "lastModified": "2021-04-09T17:04:04.200",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Integrated Threat Management 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:integrated_threat_management:8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2FDE2251-FBEE-4976-B24A-21391C492FE2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:integrated_threat_management:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Integrated Threat Management",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:integrated_threat_management:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:integrated_threat_management:8.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Integrated Threat Management 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:integrated_threat_management:8.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

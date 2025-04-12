@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_application_server_managment:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1A6E0699-2CBD-4BAE-AEF3-49EC19FC832A",
+        "lastModified": "2021-04-12T14:31:55.117",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Application Server Managment",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_application_server_managment:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7EE6DF6E-362A-4B8E-92FE-9CE9F1F54304"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_application_server_managment:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Application Server Managment",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_application_server_managment:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

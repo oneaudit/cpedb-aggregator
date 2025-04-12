@@ -1,0 +1,141 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_service_level_management:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9D462888-7E0A-4F14-AFE7-1D97A9903060",
+        "lastModified": "2021-04-13T20:21:00.100",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Service Level Management",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_service_level_management:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7C95CDB1-063F-472B-9ABD-C9BA4570D6D9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_service_level_management:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "14AA45B1-9CD0-491E-BD0D-8C6F8482DC4D",
+        "lastModified": "2021-04-13T20:21:00.100",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Service Level Management 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_service_level_management:3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "0821BBA4-4097-4FA1-9C43-6D26170852E4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_service_level_management:3.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7583ADEE-6F46-43F0-B200-4F93F2ABBE09",
+        "lastModified": "2021-04-13T20:21:00.100",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Service Level Management 3.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_service_level_management:3.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "4E3DA16D-EEAC-4B58-AD9C-CDF4F5DEA4A8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_service_level_management:3.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "BC28F629-2143-41DF-85AE-4A7FEA0ABB92",
+        "lastModified": "2021-04-13T20:21:00.100",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Service Level Management 3.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_service_level_management:3.0.2:*:*:*:*:*:*:*",
+            "cpeNameId": "4A91F1E5-D05F-4419-B6E4-F0B7DFF28962"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_service_level_management:3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "01579701-44EC-4ECF-9DA5-F1B3C24844F4",
+        "lastModified": "2021-04-13T20:21:00.100",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Service Level Management 3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_service_level_management:3.5:*:*:*:*:*:*:*",
+            "cpeNameId": "54CD4B04-9783-485E-8C59-BBC6C850AEED"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_service_level_management:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Service Level Management",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_service_level_management:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_service_level_management:3.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Service Level Management 3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_service_level_management:3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_service_level_management:3.0.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Service Level Management 3.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_service_level_management:3.0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_service_level_management:3.0.2:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Service Level Management 3.0.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_service_level_management:3.0.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_service_level_management:3.5:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Service Level Management 3.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_service_level_management:3.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:business_protection_suite:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E60AA019-556D-447D-91BB-BF4F0D8EDABD",
+        "lastModified": "2021-04-07T18:53:37.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Business Protection Suite 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:business_protection_suite:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "5A25E88B-FD31-40FB-B543-7287C00DB070"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:business_protection_suite:-:*:*:*:*:*:*:*",
+        "cpeNameId": "619ECC81-6FF1-47D3-8FCE-33C82314A999",
+        "lastModified": "2021-04-07T18:53:37.023",
+        "created": "2007-10-15T17:20:52.353",
+        "titles": [
+          {
+            "title": "Computer Associates Business Protection Suite",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:business_protection_suite:-:*:*:*:*:*:*:*",
+            "cpeNameId": "30C4BAAC-1BE2-4552-A05F-0887D1674245"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:business_protection_suite:r2:*:*:*:*:*:*:*",
+        "cpeNameId": "5466D99C-7DD4-47EF-83AC-7F366A853191",
+        "lastModified": "2021-04-07T18:53:37.023",
+        "created": "2008-10-15T14:49:14.370",
+        "titles": [
+          {
+            "title": "Computer Associates Business Protection Suite r2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:business_protection_suite:r2:*:*:*:*:*:*:*",
+            "cpeNameId": "D51D4106-C44A-4814-939C-9D178755F8FA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:business_protection_suite:2.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Business Protection Suite 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:business_protection_suite:2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:business_protection_suite:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Business Protection Suite",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:business_protection_suite:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:business_protection_suite:r2:*:*:*:*:*:*:*",
+      "title": "Computer Associates Business Protection Suite r2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:business_protection_suite:r2:*:*:*:*:*:*:*"
+    }
+  ]
+}

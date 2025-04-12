@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:host-based_intrusion_prevention_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "45E07B83-ABA2-44A2-AC35-83B6EA2A8ECB",
+        "lastModified": "2021-04-09T16:51:45.723",
+        "created": "2007-10-23T13:43:14.323",
+        "titles": [
+          {
+            "title": "Computer Associates Host-Based Intrusion Prevention System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:host-based_intrusion_prevention_system:-:*:*:*:*:*:*:*",
+            "cpeNameId": "2981ABAD-F3AE-41A8-9EF5-550B60B6DC30"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:host-based_intrusion_prevention_system:8:*:*:*:*:*:*:*",
+        "cpeNameId": "CB6F93CA-EC5A-4A2D-B73D-48C088BDDF06",
+        "lastModified": "2021-04-09T16:52:32.537",
+        "created": "2007-10-23T13:45:11.520",
+        "titles": [
+          {
+            "title": "Computer Associates Host-Based Intrusion Prevention System r8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:host-based_intrusion_prevention_system:8:*:*:*:*:*:*:*",
+            "cpeNameId": "72D658E7-98B3-4947-B38C-D7A8D3132B40"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:host-based_intrusion_prevention_system:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Host-Based Intrusion Prevention System",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:host-based_intrusion_prevention_system:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:host-based_intrusion_prevention_system:8:*:*:*:*:*:*:*",
+      "title": "Computer Associates Host-Based Intrusion Prevention System r8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:host-based_intrusion_prevention_system:8:*:*:*:*:*:*:*"
+    }
+  ]
+}

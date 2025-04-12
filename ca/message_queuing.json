@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:message_queuing:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EA3F153F-53E5-4DAF-9AFA-79A14645B8B9",
+        "lastModified": "2021-04-09T17:44:22.503",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Message Queuing",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:message_queuing:-:*:*:*:*:*:*:*",
+            "cpeNameId": "2D91F6EF-AEC4-451A-8471-0572C3BB2E0F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:message_queuing:1.05:*:*:*:*:*:*:*",
+        "cpeNameId": "807813E9-D1EA-4F9F-B8C4-3D4CE1003273",
+        "lastModified": "2021-04-09T17:44:22.503",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Message Queuing 1.05",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:message_queuing:1.05:*:*:*:*:*:*:*",
+            "cpeNameId": "34A6219C-A0E6-4D34-80D4-42260B332E05"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:message_queuing:1.07_build_220_13:*:*:*:*:*:*:*",
+        "cpeNameId": "52C53D4E-3F1D-4CA6-8966-7CB4D4CE1887",
+        "lastModified": "2021-04-09T17:44:22.503",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Message Queuing 1.07 Build 220_13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:message_queuing:1.07_build_220_13:*:*:*:*:*:*:*",
+            "cpeNameId": "EBB28104-CD80-4503-9F05-6E4B7F1EA2C4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:message_queuing:1.11_build_29_13:*:*:*:*:*:*:*",
+        "cpeNameId": "4170A57F-279E-44FF-BAC5-990CCEE1CDEB",
+        "lastModified": "2021-04-09T17:44:22.503",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Message Queuing 1.11 Build 29_13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:message_queuing:1.11_build_29_13:*:*:*:*:*:*:*",
+            "cpeNameId": "4F98EAA4-B07C-480B-A7EF-46BB06D7A248"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:message_queuing:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Message Queuing",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:message_queuing:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:message_queuing:1.05:*:*:*:*:*:*:*",
+      "title": "Computer Associates Message Queuing 1.05",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:message_queuing:1.05:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:message_queuing:1.07_build_220_13:*:*:*:*:*:*:*",
+      "title": "Computer Associates Message Queuing 1.07 Build 220_13",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:message_queuing:1.07_build_220_13:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:message_queuing:1.11_build_29_13:*:*:*:*:*:*:*",
+      "title": "Computer Associates Message Queuing 1.11 Build 29_13",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:message_queuing:1.11_build_29_13:*:*:*:*:*:*:*"
+    }
+  ]
+}

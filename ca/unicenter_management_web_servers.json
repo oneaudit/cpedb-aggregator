@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_management_web_servers:-:*:*:*:*:*:*:*",
+        "cpeNameId": "52A423C9-795B-4AAB-BE17-75D034B96285",
+        "lastModified": "2021-04-14T15:32:04.820",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Management Web Servers",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_management_web_servers:-:*:*:*:*:*:*:*",
+            "cpeNameId": "598EB986-5D82-48AD-9A60-99973EA5A5AD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_management_web_servers:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Management Web Servers",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_management_web_servers:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

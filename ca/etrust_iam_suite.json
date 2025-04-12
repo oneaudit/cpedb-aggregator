@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_iam_suite:12.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C29230FF-9F58-4F2B-A3F7-1392D1531596",
+        "lastModified": "2021-04-09T14:31:10.093",
+        "created": "2012-05-08T13:50:36.333",
+        "titles": [
+          {
+            "title": "Ca Etrust Iam Suite 12.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_iam_suite:12.0:*:*:*:*:*:*:*",
+            "cpeNameId": "6DB53B2E-0710-4B8B-958E-033BD5DAD107"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_iam_suite:12.0.1.114:*:*:*:*:*:*:*",
+        "cpeNameId": "F1DD5DF3-76CF-47AB-9086-797691B92B80",
+        "lastModified": "2021-04-09T14:31:10.093",
+        "created": "2012-05-08T13:50:36.520",
+        "titles": [
+          {
+            "title": "Ca Etrust Iam Suite 12.0.1.114",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_iam_suite:12.0.1.114:*:*:*:*:*:*:*",
+            "cpeNameId": "DEE79BA5-3466-4812-91E7-E33CAEF584BA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_iam_suite:12.0.7.441:*:*:*:*:*:*:*",
+        "cpeNameId": "FACFB66D-9ABB-4ED3-A02A-E1D334A0A98C",
+        "lastModified": "2021-04-09T14:31:10.093",
+        "created": "2012-05-08T13:50:36.707",
+        "titles": [
+          {
+            "title": "Ca Etrust Iam Suite 12.0.7.441",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_iam_suite:12.0.7.441:*:*:*:*:*:*:*",
+            "cpeNameId": "1BD1E30B-950E-4C4C-8C14-EB8634B732EC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_iam_suite:12.0:*:*:*:*:*:*:*",
+      "title": "Ca Etrust Iam Suite 12.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_iam_suite:12.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_iam_suite:12.0.1.114:*:*:*:*:*:*:*",
+      "title": "Ca Etrust Iam Suite 12.0.1.114",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_iam_suite:12.0.1.114:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_iam_suite:12.0.7.441:*:*:*:*:*:*:*",
+      "title": "Ca Etrust Iam Suite 12.0.7.441",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_iam_suite:12.0.7.441:*:*:*:*:*:*:*"
+    }
+  ]
+}

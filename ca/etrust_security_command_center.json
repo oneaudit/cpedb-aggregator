@@ -1,0 +1,141 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_security_command_center:-:*:*:*:*:*:*:*",
+        "cpeNameId": "83F8C76A-C45E-4FE9-867C-2A42E906FF6C",
+        "lastModified": "2021-04-09T16:05:47.577",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Security Command Center",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_security_command_center:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B80EC708-38EB-44C7-8DED-2447A955550A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_security_command_center:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "60C7A623-4CEF-4348-8F4A-DF088B06D384",
+        "lastModified": "2021-04-09T16:07:18.877",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Security Command Center 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_security_command_center:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3A5B6F81-6A19-48FB-B4A2-ABC256878ED9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_security_command_center:8:*:*:*:*:*:*:*",
+        "cpeNameId": "540CA7F6-2421-4E0A-BC76-9B3B3A17724F",
+        "lastModified": "2021-04-09T16:14:07.420",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Security Command Center r8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_security_command_center:8:*:*:*:*:*:*:*",
+            "cpeNameId": "A3E5D5EF-E2B4-4F7A-8061-DB5956A2517C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_security_command_center:8:sp1:cr1:*:*:*:*:*",
+        "cpeNameId": "2B3D8669-A9E7-4CF7-B491-BDDFD39159B1",
+        "lastModified": "2021-04-09T16:19:10.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Security Command Center r8 SP1 CR1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_security_command_center:8:sp1:cr1:*:*:*:*:*",
+            "cpeNameId": "671435ED-F1AF-4A08-B357-D94FB16C8DD8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_security_command_center:8:sp1:cr2:*:*:*:*:*",
+        "cpeNameId": "D070DEAB-E123-4ED3-BF21-DF00091DB999",
+        "lastModified": "2021-04-09T16:21:23.377",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Security Command Center r8 SP1 CR2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_security_command_center:8:sp1:cr2:*:*:*:*:*",
+            "cpeNameId": "13DFE944-0658-47B7-8955-42F3DAF8B71A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_security_command_center:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Security Command Center",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_security_command_center:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_security_command_center:1.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Security Command Center 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_security_command_center:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_security_command_center:8:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Security Command Center r8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_security_command_center:8:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_security_command_center:8:sp1:cr1:*:*:*:*:*",
+      "title": "Computer Associates eTrust Security Command Center r8 SP1 CR1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_security_command_center:8:sp1:cr1:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_security_command_center:8:sp1:cr2:*:*:*:*:*",
+      "title": "Computer Associates eTrust Security Command Center r8 SP1 CR2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_security_command_center:8:sp1:cr2:*:*:*:*:*"
+    }
+  ]
+}

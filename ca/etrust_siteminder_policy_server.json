@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_siteminder_policy_server:12.0.102.414:sp1:*:*:*:*:*:*",
+        "cpeNameId": "6EE19AA4-15C0-4F4D-B817-35AAF8C84F4C",
+        "lastModified": "2021-04-09T16:37:11.050",
+        "created": "2012-05-08T13:50:37.130",
+        "titles": [
+          {
+            "title": "Ca Etrust Siteminder Policy Server Service Pack 1 12.0.102.414",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_siteminder_policy_server:12.0.102.414:sp1:*:*:*:*:*:*",
+            "cpeNameId": "A589A81D-E6A6-4521-A09A-9D7E27A5988C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_siteminder_policy_server:12.0.105.635:sp1:*:*:*:*:*:*",
+        "cpeNameId": "5786AA18-DDEC-4EE6-B2DD-40AE9563927D",
+        "lastModified": "2021-04-09T16:38:20.100",
+        "created": "2012-05-08T13:50:37.317",
+        "titles": [
+          {
+            "title": "Ca Etrust Siteminder Policy Server Service Pack 1 12.0.105.635",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_siteminder_policy_server:12.0.105.635:sp1:*:*:*:*:*:*",
+            "cpeNameId": "81D6C4B0-BE64-423C-8C2D-622CDCACAF38"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_siteminder_policy_server:6.0.506.223:sp5:*:*:*:*:*:*",
+        "cpeNameId": "A13C332A-42E9-42B2-92A8-4CD73D337AFB",
+        "lastModified": "2021-04-09T16:36:35.360",
+        "created": "2012-05-08T13:50:37.537",
+        "titles": [
+          {
+            "title": "Ca Etrust Siteminder Policy Server Service Pack 5 6.0.506.223",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_siteminder_policy_server:6.0.506.223:sp5:*:*:*:*:*:*",
+            "cpeNameId": "AF919AD9-8D0A-40BC-AE53-3F723B193C12"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_siteminder_policy_server:12.0.102.414:sp1:*:*:*:*:*:*",
+      "title": "Ca Etrust Siteminder Policy Server Service Pack 1 12.0.102.414",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_siteminder_policy_server:12.0.102.414:sp1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_siteminder_policy_server:12.0.105.635:sp1:*:*:*:*:*:*",
+      "title": "Ca Etrust Siteminder Policy Server Service Pack 1 12.0.105.635",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_siteminder_policy_server:12.0.105.635:sp1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_siteminder_policy_server:6.0.506.223:sp5:*:*:*:*:*:*",
+      "title": "Ca Etrust Siteminder Policy Server Service Pack 5 6.0.506.223",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_siteminder_policy_server:6.0.506.223:sp5:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:netviz_professional:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7DD08910-CFF9-48D1-8DA0-BC6379F48F17",
+        "lastModified": "2021-04-09T17:45:27.317",
+        "created": "2012-05-08T13:50:40.550",
+        "titles": [
+          {
+            "title": "Ca Netviz Professional 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:netviz_professional:4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "9F606552-63A5-46A2-874D-9A29FB2C489C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:netviz_professional:4.0:*:*:*:*:*:*:*",
+      "title": "Ca Netviz Professional 4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:netviz_professional:4.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

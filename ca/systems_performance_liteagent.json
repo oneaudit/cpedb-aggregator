@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:systems_performance_liteagent:11.2.9273:*:*:*:*:*:*:*",
+        "cpeNameId": "D131B50A-8C99-4A8A-8ADA-3D08ADE1C325",
+        "lastModified": "2021-04-12T14:30:20.630",
+        "created": "2012-05-08T13:50:41.333",
+        "titles": [
+          {
+            "title": "Ca Systems Performance Liteagent 11.2.9273",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:systems_performance_liteagent:11.2.9273:*:*:*:*:*:*:*",
+            "cpeNameId": "7F56A1BB-E2F5-4647-9C9F-0593C0696705"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:systems_performance_liteagent:11.2.9273:*:*:*:*:*:*:*",
+      "title": "Ca Systems Performance Liteagent 11.2.9273",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:systems_performance_liteagent:11.2.9273:*:*:*:*:*:*:*"
+    }
+  ]
+}

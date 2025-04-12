@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:adviseit:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8191FCAD-7B2B-41C3-A714-7D3EE010FD1A",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates AdviseIT",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:adviseit:-:*:*:*:*:*:*:*",
+            "cpeNameId": "90E1F26F-9F73-4BA9-A760-AECEB4B31539"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:adviseit:2.4:*:*:*:*:*:*:*",
+        "cpeNameId": "1E8A07ED-189C-4065-A36C-B83D07A69319",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates AdviseIT 2.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:adviseit:2.4:*:*:*:*:*:*:*",
+            "cpeNameId": "12B27997-7A89-46BC-BDBB-2A90EAC64128"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:adviseit:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates AdviseIT",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:adviseit:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:adviseit:2.4:*:*:*:*:*:*:*",
+      "title": "Computer Associates AdviseIT 2.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:adviseit:2.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

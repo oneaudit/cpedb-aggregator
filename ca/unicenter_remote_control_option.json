@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_remote_control_option:-:*:*:*:*:*:*:*",
+        "cpeNameId": "802A8B8A-435E-405C-B30E-6F41A8F1D486",
+        "lastModified": "2021-04-13T20:13:03.943",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Remote Control Option",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_remote_control_option:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A6001C4D-AFCC-46D8-AA1D-4577B9BC4425"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_remote_control_option:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3C00FCC3-5811-4444-8F22-96035A1D8727",
+        "lastModified": "2021-04-13T20:13:03.943",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Remote Control Option 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_remote_control_option:5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "ABA94BC4-F653-4318-A83A-5608125A3D2F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_remote_control_option:5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "93FEFF0C-7F13-4CFD-AC4F-DAAEBBFFB0D9",
+        "lastModified": "2021-04-13T20:13:03.943",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Remote Control Option 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_remote_control_option:5.1:*:*:*:*:*:*:*",
+            "cpeNameId": "4716D9A2-FEF8-48D4-8C7A-698C7B82C0D2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_remote_control_option:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Remote Control Option",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_remote_control_option:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_remote_control_option:5.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Remote Control Option 5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_remote_control_option:5.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_remote_control_option:5.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Remote Control Option 5.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_remote_control_option:5.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_management:-:*:*:*:*:*:*:*",
+        "cpeNameId": "501CF435-0ABB-498B-99B1-2AB2D71FF8A6",
+        "lastModified": "2021-04-14T15:29:45.860",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Management",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_management:-:*:*:*:*:*:*:*",
+            "cpeNameId": "6BF288A0-9913-4234-8745-CF2B4FEFA6B6"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_management:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Management",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_management:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

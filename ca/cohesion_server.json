@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:cohesion_server:4.5.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B0674A83-07AE-40F3-BCC2-1AD6539C3B4E",
+        "lastModified": "2021-04-08T13:06:36.147",
+        "created": "2012-05-08T13:50:32.067",
+        "titles": [
+          {
+            "title": "Ca Cohesion Server 4.5.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:cohesion_server:4.5.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "45B4C65A-2115-421B-AD30-DF54F1DA00D7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:cohesion_server:4.5.1.0:*:*:*:*:*:*:*",
+      "title": "Ca Cohesion Server 4.5.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:cohesion_server:4.5.1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_process_automation_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "ACEFB733-A55B-4EBC-94CF-BC48D10B3539",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Process Automation Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_process_automation_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "63411574-3712-47FF-ADD4-C88A4CAD6432"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_process_automation_manager:11.1:*:*:*:*:*:*:*",
+        "cpeNameId": "507B1DFC-C8DC-4A96-BE8F-CED1CF0575F8",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Process Automation Manager 11.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_process_automation_manager:11.1:*:*:*:*:*:*:*",
+            "cpeNameId": "97DEB750-3752-4E9C-9C24-EB13F5E87A31"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_process_automation_manager:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Process Automation Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_process_automation_manager:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_process_automation_manager:11.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Process Automation Manager 11.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_process_automation_manager:11.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

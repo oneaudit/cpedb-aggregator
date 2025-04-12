@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_browser_interface:-:*:*:*:*:*:*:*",
+        "cpeNameId": "50A78F6E-DE7B-4058-8746-76DB67AE2F17",
+        "lastModified": "2021-04-12T14:33:18.253",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Browser Interface",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_browser_interface:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A7C71DB9-281A-4FE7-8247-662DA10A38CA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_browser_interface:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Browser Interface",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_browser_interface:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

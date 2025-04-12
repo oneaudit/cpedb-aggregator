@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:2e_web_option:r8.1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "D6F2683C-7B47-4850-B7C9-E51DD5E15BA3",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2014-02-14T17:53:56.477",
+        "titles": [
+          {
+            "title": "CA 2E Web Option r8.1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:2e_web_option:r8.1.2:*:*:*:*:*:*:*",
+            "cpeNameId": "EDD276E4-112C-41FC-864A-0C8F7A893541"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:2e_web_option:r8.1.2:*:*:*:*:*:*:*",
+      "title": "CA 2E Web Option r8.1.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:2e_web_option:r8.1.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

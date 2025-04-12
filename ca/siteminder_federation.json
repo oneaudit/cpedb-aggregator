@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:siteminder_federation:12.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2DF9FD7F-36D2-4701-8647-79FDEF6B7983",
+        "lastModified": "2021-04-12T14:17:03.700",
+        "created": "2014-05-19T17:24:10.590",
+        "titles": [
+          {
+            "title": "Computer Associates SiteMinder Federation (FSS) 12.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:siteminder_federation:12.0:*:*:*:*:*:*:*",
+            "cpeNameId": "569A4BAA-DC2A-4A46-9760-722CB51F64C4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:siteminder_federation:12.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates SiteMinder Federation (FSS) 12.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:siteminder_federation:12.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

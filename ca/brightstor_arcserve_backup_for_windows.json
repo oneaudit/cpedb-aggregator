@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_arcserve_backup_for_windows:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3A9B5848-DAF8-42D1-856F-E16D6267D014",
+        "lastModified": "2021-04-07T18:12:56.910",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor ARCserve Backup for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_for_windows:-:*:*:*:*:*:*:*",
+            "cpeNameId": "D47CE434-1111-4814-8A9A-90188BCEFF50"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_arcserve_backup_for_windows:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor ARCserve Backup for Windows",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_for_windows:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

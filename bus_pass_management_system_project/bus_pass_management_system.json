@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:bus_pass_management_system_project:bus_pass_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EA8BA06E-E581-4884-A272-EB7BB7BB9408",
+        "lastModified": "2023-11-14T20:37:13.827",
+        "created": "2021-12-21T19:05:46.327",
+        "titles": [
+          {
+            "title": "Bus Pass Management System Project Bus Pass Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:bus_pass_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "33278D92-4BD5-4884-A49A-DE8A5F175D37"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:bus_pass_management_system_project:bus_pass_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Bus Pass Management System Project Bus Pass Management System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:bus_pass_management_system:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

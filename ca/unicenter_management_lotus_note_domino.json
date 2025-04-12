@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_management_lotus_note_domino:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A11D781A-BBA5-4B83-A70E-08D941775B81",
+        "lastModified": "2021-04-14T15:30:05.453",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Management Lotus Note_Domino",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_management_lotus_note_domino:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4AB8D0C7-E89B-46AF-BD02-02EC986DB12B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_management_lotus_note_domino:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Management Lotus Note_Domino",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_management_lotus_note_domino:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:erwin_data_model_validator:-:*:*:*:*:*:*:*",
+        "cpeNameId": "43106B0C-D8F8-4CA5-9A51-AA6A3C896580",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates ERwin Data Model Validator",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:erwin_data_model_validator:-:*:*:*:*:*:*:*",
+            "cpeNameId": "9891217A-F504-462C-B6BD-54D8AA1F9964"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:erwin_data_model_validator:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates ERwin Data Model Validator",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:erwin_data_model_validator:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

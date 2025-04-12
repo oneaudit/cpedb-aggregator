@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_portal:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8B67637C-4F61-4693-9A2F-83AF273FD447",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Portal",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_portal:-:*:*:*:*:*:*:*",
+            "cpeNameId": "17C0759D-170E-4757-8D48-D5353FC4EF18"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_portal:11.1:*:*:*:*:*:*:*",
+        "cpeNameId": "36960048-E6D0-41FB-9C3D-9A7B07E67D13",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Portal 11.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_portal:11.1:*:*:*:*:*:*:*",
+            "cpeNameId": "61F8FD42-88B5-45CB-9658-53E3BDBA257C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_portal:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Portal",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_portal:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_portal:11.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Portal 11.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_portal:11.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

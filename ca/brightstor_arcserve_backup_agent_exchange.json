@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_arcserve_backup_agent_exchange:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A5E6C778-D0D9-432E-A9CD-92CA9BF48AA9",
+        "lastModified": "2021-04-07T18:12:56.910",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor ARCserve Backup Agent Exchange",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_agent_exchange:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E9D0AA9F-CA95-4412-B41E-682DD0F1602C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_arcserve_backup_agent_exchange:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor ARCserve Backup Agent Exchange",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_agent_exchange:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

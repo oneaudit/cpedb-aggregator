@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:ccc_harvest:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0E75CF43-7927-48A9-A9F6-49E8843FD7E9",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates CCC_Harvest",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:ccc_harvest:-:*:*:*:*:*:*:*",
+            "cpeNameId": "685973C1-5BB5-4F8B-9DD7-AFE9866889CF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:ccc_harvest:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "609ED70B-608D-44BA-9C6F-8C847680FBE3",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates CCC_Harvest 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:ccc_harvest:5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "759A0A8D-AE7B-4F19-8094-898CE2DC5AB3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:ccc_harvest:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates CCC_Harvest",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:ccc_harvest:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:ccc_harvest:5.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates CCC_Harvest 5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:ccc_harvest:5.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_management_microsoft_exchange:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4F2122A2-E947-465D-8BC6-2DAB92B7484F",
+        "lastModified": "2021-04-14T15:30:31.767",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Management Microsoft Exchange",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_management_microsoft_exchange:-:*:*:*:*:*:*:*",
+            "cpeNameId": "AF002092-CA93-49DC-BD17-4F4F70741700"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_management_microsoft_exchange:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Management Microsoft Exchange",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_management_microsoft_exchange:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

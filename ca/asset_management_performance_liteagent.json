@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:asset_management_performance_liteagent:11.2.7277:*:*:*:*:*:*:*",
+        "cpeNameId": "9556DB92-CF03-4644-AFA9-224C6A49AF04",
+        "lastModified": "2021-04-07T18:12:56.910",
+        "created": "2012-05-08T13:50:31.177",
+        "titles": [
+          {
+            "title": "Ca Asset Management Performance Liteagent 11.2.7277",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:asset_management_performance_liteagent:11.2.7277:*:*:*:*:*:*:*",
+            "cpeNameId": "4A9F2164-C7F1-4F2E-B400-78CCB434E038"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:asset_management_performance_liteagent:11.2.7277:*:*:*:*:*:*:*",
+      "title": "Ca Asset Management Performance Liteagent 11.2.7277",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:asset_management_performance_liteagent:11.2.7277:*:*:*:*:*:*:*"
+    }
+  ]
+}

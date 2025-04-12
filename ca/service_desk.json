@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:service_desk:11.2:*:*:*:*:*:*:*",
+        "cpeNameId": "E77A41C2-27DB-4627-B48E-B4B518CD9F31",
+        "lastModified": "2021-04-09T18:53:53.987",
+        "created": "2008-09-29T23:26:27.330",
+        "titles": [
+          {
+            "title": "Computer Associates Service Desk 11.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:service_desk:11.2:*:*:*:*:*:*:*",
+            "cpeNameId": "A677DC20-7172-4A0E-92AC-1EDF0E493DE7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:service_desk:11.2:*:*:*:*:*:*:*",
+      "title": "Computer Associates Service Desk 11.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:service_desk:11.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

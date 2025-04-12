@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:identity_manager:12.0.7.441:*:*:*:*:*:*:*",
+        "cpeNameId": "3331C8D1-35B7-4D54-8648-895F692489CC",
+        "lastModified": "2021-04-09T16:53:11.850",
+        "created": "2012-05-08T13:50:38.113",
+        "titles": [
+          {
+            "title": "Ca Identity Manager 12.0.7.441",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:identity_manager:12.0.7.441:*:*:*:*:*:*:*",
+            "cpeNameId": "4A31F9CF-C02B-4C43-AF1E-E56680653A4D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:identity_manager:12.0.7.441:*:*:*:*:*:*:*",
+      "title": "Ca Identity Manager 12.0.7.441",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:identity_manager:12.0.7.441:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:introscope:7.2.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CC34E24D-33C2-47C6-B2C0-2323FCA3D1D9",
+        "lastModified": "2021-04-09T17:08:36.847",
+        "created": "2012-05-08T13:50:38.300",
+        "titles": [
+          {
+            "title": "Ca Introscope 7.2.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:introscope:7.2.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2BC75BCA-E7CB-46A1-8C95-93304DA8731A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:introscope:7.2.0.0:*:*:*:*:*:*:*",
+      "title": "Ca Introscope 7.2.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:introscope:7.2.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

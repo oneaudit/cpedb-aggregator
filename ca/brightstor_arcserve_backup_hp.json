@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_arcserve_backup_hp:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6CD467DF-FD06-4584-A125-8F64C45810A8",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor ARCServe Backup HP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_hp:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7EBBC97C-381F-498B-840B-24999E571E83"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_arcserve_backup_hp:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor ARCServe Backup HP",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_hp:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:embedded_entitlements_manager:8.4.218:*:*:*:*:*:*:*",
+        "cpeNameId": "1D87C192-A2C4-4ADA-8ECB-6F415CD39507",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2012-05-08T13:50:35.147",
+        "titles": [
+          {
+            "title": "Ca Embedded Entitlements Manager 8.4.218",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:embedded_entitlements_manager:8.4.218:*:*:*:*:*:*:*",
+            "cpeNameId": "F41747FA-D4CC-4081-B3EF-42D70BC9619F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:embedded_entitlements_manager:8.4.406:*:*:*:*:*:*:*",
+        "cpeNameId": "5736B357-C14B-454F-A808-26BC99792567",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2012-05-08T13:50:35.300",
+        "titles": [
+          {
+            "title": "Ca Embedded Entitlements Manager 8.4.406",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:embedded_entitlements_manager:8.4.406:*:*:*:*:*:*:*",
+            "cpeNameId": "1F586795-0C1D-451F-B177-6B10EE52C980"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:embedded_entitlements_manager:8.4.218:*:*:*:*:*:*:*",
+      "title": "Ca Embedded Entitlements Manager 8.4.218",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:embedded_entitlements_manager:8.4.218:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:embedded_entitlements_manager:8.4.406:*:*:*:*:*:*:*",
+      "title": "Ca Embedded Entitlements Manager 8.4.406",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:embedded_entitlements_manager:8.4.406:*:*:*:*:*:*:*"
+    }
+  ]
+}

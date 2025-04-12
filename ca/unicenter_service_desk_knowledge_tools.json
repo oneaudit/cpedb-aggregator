@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_service_desk_knowledge_tools:-:*:*:*:*:*:*:*",
+        "cpeNameId": "259B47DC-4C92-4981-A2F6-0E57CD6EC20F",
+        "lastModified": "2021-04-14T15:40:16.117",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Service Desk Knowledge Tools",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_service_desk_knowledge_tools:-:*:*:*:*:*:*:*",
+            "cpeNameId": "3AA48333-8989-4418-920D-186281BE9728"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_service_desk_knowledge_tools:11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "62F47A88-3B81-4FB9-822A-57B6ECFDC68A",
+        "lastModified": "2021-04-14T15:40:33.587",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Service Desk Knowledge Tools 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_service_desk_knowledge_tools:11.0:*:*:*:*:*:*:*",
+            "cpeNameId": "5CB582AA-9E4C-4BBE-B473-9EEA7D7FD942"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_service_desk_knowledge_tools:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Service Desk Knowledge Tools",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_service_desk_knowledge_tools:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_service_desk_knowledge_tools:11.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Service Desk Knowledge Tools 11.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_service_desk_knowledge_tools:11.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

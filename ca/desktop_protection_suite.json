@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:desktop_protection_suite:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3D029E7E-A4B0-4382-8928-CA5C0255D12A",
+        "lastModified": "2021-04-08T13:30:25.160",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Desktop Protection Suite",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:desktop_protection_suite:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0A6C5AE0-4672-4E71-B0EB-87C7FC2A3356"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:desktop_protection_suite:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FDB1F3EA-FDBA-4DD9-ACE1-4C04B6310DA4",
+        "lastModified": "2021-04-08T13:30:25.160",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Desktop Protection Suite 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:desktop_protection_suite:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "981E2F32-D002-443E-B442-0EE797722829"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:desktop_protection_suite:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Desktop Protection Suite",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:desktop_protection_suite:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:desktop_protection_suite:2.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Desktop Protection Suite 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:desktop_protection_suite:2.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

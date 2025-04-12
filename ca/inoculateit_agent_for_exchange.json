@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:inoculateit_agent_for_exchange:-:*:*:*:*:*:*:*",
+        "cpeNameId": "91DA95AE-598A-4AA4-8A47-E5FE5164654D",
+        "lastModified": "2021-04-09T17:01:41.320",
+        "created": "2008-01-02T18:32:34.597",
+        "titles": [
+          {
+            "title": "Computer Associates InoculateIT_Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:inoculateit_agent_for_exchange:-:*:*:*:*:*:*:*",
+            "cpeNameId": "DA60F131-B5F8-4A25-AB70-C36F21E8DECF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:inoculateit_agent_for_exchange:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates InoculateIT_Agent",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:inoculateit_agent_for_exchange:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:introscope_workstation:7.2.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "58AD4F8F-6D24-4921-9C2C-0FA28DB7CE81",
+        "lastModified": "2021-04-09T17:09:48.147",
+        "created": "2012-05-08T13:50:38.690",
+        "titles": [
+          {
+            "title": "Ca Introscope Workstation 7.2.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:introscope_workstation:7.2.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "EDA8FC7A-1A11-45AC-9FCB-D0AAA9A10B17"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:introscope_workstation:8.2.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "417B9B23-7DE1-4751-ADFB-6B8E1E66CC28",
+        "lastModified": "2021-04-09T17:10:29.380",
+        "created": "2012-05-08T13:50:38.863",
+        "titles": [
+          {
+            "title": "Ca Introscope Workstation 8.2.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:introscope_workstation:8.2.3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "59C50749-600E-44CC-85CC-5B88A8039001"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:introscope_workstation:7.2.0.0:*:*:*:*:*:*:*",
+      "title": "Ca Introscope Workstation 7.2.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:introscope_workstation:7.2.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:introscope_workstation:8.2.3.0:*:*:*:*:*:*:*",
+      "title": "Ca Introscope Workstation 8.2.3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:introscope_workstation:8.2.3.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

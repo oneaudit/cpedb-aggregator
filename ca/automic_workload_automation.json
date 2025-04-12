@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:automic_workload_automation:12.0:*:*:*:*:*:*:*",
+        "cpeNameId": "31BF910B-A0CF-4DD1-A59F-60DAC41C7676",
+        "lastModified": "2021-04-07T18:12:56.910",
+        "created": "2019-10-09T17:39:25.417",
+        "titles": [
+          {
+            "title": "CA Automic Workload Automation 12.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:automic_workload_automation:12.0:*:*:*:*:*:*:*",
+            "cpeNameId": "613D49CD-16FB-4654-8624-4DA4E81F543C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:automic_workload_automation:12.1:*:*:*:*:*:*:*",
+        "cpeNameId": "C3CC5E39-B692-41F4-B83E-F3B166D8620D",
+        "lastModified": "2021-04-07T18:12:56.910",
+        "created": "2019-10-09T17:39:25.540",
+        "titles": [
+          {
+            "title": "CA Automic Workload Automation 12.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:automic_workload_automation:12.1:*:*:*:*:*:*:*",
+            "cpeNameId": "1BBB12A7-435B-4901-BD22-CE198EF4209A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:automic_workload_automation:12.2:*:*:*:*:*:*:*",
+        "cpeNameId": "76673683-8D40-4C99-A054-CC49CE3AE0E8",
+        "lastModified": "2021-04-07T18:12:56.910",
+        "created": "2019-10-09T17:39:25.650",
+        "titles": [
+          {
+            "title": "CA Automic Workload Automation 12.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:automic_workload_automation:12.2:*:*:*:*:*:*:*",
+            "cpeNameId": "AEAB245C-5281-483A-95FF-761C5268D3BF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:automic_workload_automation:12.0:*:*:*:*:*:*:*",
+      "title": "CA Automic Workload Automation 12.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:automic_workload_automation:12.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:automic_workload_automation:12.1:*:*:*:*:*:*:*",
+      "title": "CA Automic Workload Automation 12.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:automic_workload_automation:12.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:automic_workload_automation:12.2:*:*:*:*:*:*:*",
+      "title": "CA Automic Workload Automation 12.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:automic_workload_automation:12.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

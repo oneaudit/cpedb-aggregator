@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:antivirus_sdk:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2EABE85F-2058-45F6-B5D6-4C17FC04CEB5",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Antivirus SDK",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:antivirus_sdk:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0216BC21-907D-40F7-8E5C-6CE9642AE1DB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:antivirus_sdk:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Antivirus SDK",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:antivirus_sdk:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

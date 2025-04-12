@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_nsm_wireless_network_management_option:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5006327D-E12D-4163-B733-478284C43866",
+        "lastModified": "2021-04-14T15:34:55.703",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter NSM Wireless Network Management Option",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_nsm_wireless_network_management_option:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5A078D1A-A764-4D22-BED4-635CCD77A137"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_nsm_wireless_network_management_option:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0B80481F-9879-4268-9A4E-85D6170CEB47",
+        "lastModified": "2021-04-14T15:38:34.547",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter NSM Wireless Network Management Option 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_nsm_wireless_network_management_option:3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "B672FD74-DDD3-44B1-BBC7-DE61EF76FB75"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_nsm_wireless_network_management_option:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter NSM Wireless Network Management Option",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_nsm_wireless_network_management_option:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_nsm_wireless_network_management_option:3.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter NSM Wireless Network Management Option 3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_nsm_wireless_network_management_option:3.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:antivirus_gateway:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "F228663C-610D-4AFD-9414-584B90814DF7",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2009-01-28T16:43:21.337",
+        "titles": [
+          {
+            "title": "Computer Associates Antivirus Gateway 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:antivirus_gateway:7.1:*:*:*:*:*:*:*",
+            "cpeNameId": "53B03627-494C-4230-ADF8-AA39ABD88BEC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:antivirus_gateway:7.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Antivirus Gateway 7.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:antivirus_gateway:7.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

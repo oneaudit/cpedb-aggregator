@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:cleverpath_predictive_analysis_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "617FB6D9-2A67-47D8-AA70-7D61628214EB",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates CleverPath Predictive Analysis Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:cleverpath_predictive_analysis_server:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7117C974-682B-4092-853E-18406991D26C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:cleverpath_predictive_analysis_server:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2042B6D5-3004-40E9-8B61-40985A8892CF",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates CleverPath Predictive Analysis Server 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:cleverpath_predictive_analysis_server:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "AA2A5768-4F76-4D5E-A3BA-54D1F7D1143D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:cleverpath_predictive_analysis_server:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "145C02A5-834A-4307-A4B3-12557FF1B77B",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates CleverPath Predictive Analysis Server 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:cleverpath_predictive_analysis_server:3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3D462CFA-79EF-4E0E-829F-5A0F4739021E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:cleverpath_predictive_analysis_server:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates CleverPath Predictive Analysis Server",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:cleverpath_predictive_analysis_server:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:cleverpath_predictive_analysis_server:2.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates CleverPath Predictive Analysis Server 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:cleverpath_predictive_analysis_server:2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:cleverpath_predictive_analysis_server:3.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates CleverPath Predictive Analysis Server 3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:cleverpath_predictive_analysis_server:3.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

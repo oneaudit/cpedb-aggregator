@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:erwin_process_modeler:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9F69FA06-B3CC-46F5-87B7-2B2B8F462C6C",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates ERwin Process Modeler",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:erwin_process_modeler:-:*:*:*:*:*:*:*",
+            "cpeNameId": "71EDC2FE-427C-41D5-919A-14128761C545"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:erwin_process_modeler:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "58A81610-D27C-44B0-BB95-64206B6C1F32",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates ERwin Process Modeler 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:erwin_process_modeler:7.1:*:*:*:*:*:*:*",
+            "cpeNameId": "C1676D67-1B5B-4C4B-BEB4-88C51C823497"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:erwin_process_modeler:7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "A441FED2-50F0-4243-B7E5-7BA178F5792B",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-10-15T18:02:51.020",
+        "titles": [
+          {
+            "title": "Computer Associates ERwin Process Modeler 7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:erwin_process_modeler:7.2:*:*:*:*:*:*:*",
+            "cpeNameId": "FD26572F-7F87-4F14-AA07-477DE418D979"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:erwin_process_modeler:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates ERwin Process Modeler",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:erwin_process_modeler:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:erwin_process_modeler:7.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates ERwin Process Modeler 7.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:erwin_process_modeler:7.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:erwin_process_modeler:7.2:*:*:*:*:*:*:*",
+      "title": "Computer Associates ERwin Process Modeler 7.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:erwin_process_modeler:7.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

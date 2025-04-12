@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:client_automation:14.0:*:*:*:*:*:*:*",
+        "cpeNameId": "185551F0-6C0E-4688-8F3C-E1FDFF3DBD17",
+        "lastModified": "2021-04-08T13:06:36.147",
+        "created": "2017-03-14T15:18:47.580",
+        "titles": [
+          {
+            "title": "CA Technologies Client Automation 14.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:client_automation:14.0:*:*:*:*:*:*:*",
+            "cpeNameId": "AA7D03AF-AD8B-495E-84E8-0AF5FA539222"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:client_automation:12.9:*:*:*:*:*:*:*",
+        "cpeNameId": "C04D86D1-6D5B-42AE-9F1F-0D3FC816565C",
+        "lastModified": "2021-04-08T13:06:36.147",
+        "created": "2017-03-14T15:18:47.753",
+        "titles": [
+          {
+            "title": "CA Technologies Client Automation 12.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:client_automation:12.9:*:*:*:*:*:*:*",
+            "cpeNameId": "B93583A6-A07D-4E4A-ACDF-15CEC0F1A83D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:client_automation:12.8:*:*:*:*:*:*:*",
+        "cpeNameId": "69DBC5F2-256C-4B94-A4D0-B2B4A5DD9D9A",
+        "lastModified": "2021-04-08T13:06:36.147",
+        "created": "2017-03-14T15:18:47.847",
+        "titles": [
+          {
+            "title": "CA Technologies Client Automation 12.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:client_automation:12.8:*:*:*:*:*:*:*",
+            "cpeNameId": "1A61540A-6CF4-48F7-A5CA-F618DBA9B1E7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:client_automation:14.0:*:*:*:*:*:*:*",
+      "title": "CA Technologies Client Automation 14.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:client_automation:14.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:client_automation:12.9:*:*:*:*:*:*:*",
+      "title": "CA Technologies Client Automation 12.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:client_automation:12.9:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:client_automation:12.8:*:*:*:*:*:*:*",
+      "title": "CA Technologies Client Automation 12.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:client_automation:12.8:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:configuration_automation_agent:12.5.0.29:*:*:*:*:*:*:*",
+        "cpeNameId": "489F3C1B-2C3D-4A00-964F-F8D41DBB3ABB",
+        "lastModified": "2021-04-08T13:06:36.147",
+        "created": "2012-05-08T13:50:32.270",
+        "titles": [
+          {
+            "title": "Ca Configuration Automation Agent 12.5.0.29",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:configuration_automation_agent:12.5.0.29:*:*:*:*:*:*:*",
+            "cpeNameId": "F7B4AFE8-A49F-4D40-BF42-C5812B83C8E3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:configuration_automation_agent:12.5.8.1016:*:*:*:*:*:*:*",
+        "cpeNameId": "A94D149E-446A-4095-9B2F-97E9DA99AFA5",
+        "lastModified": "2021-04-08T13:06:36.147",
+        "created": "2012-05-08T13:50:32.440",
+        "titles": [
+          {
+            "title": "Ca Configuration Automation Agent 12.5.8.1016",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:configuration_automation_agent:12.5.8.1016:*:*:*:*:*:*:*",
+            "cpeNameId": "59FBECF4-6CE3-449B-A1C3-389BDE4F242C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:configuration_automation_agent:12.5.0.29:*:*:*:*:*:*:*",
+      "title": "Ca Configuration Automation Agent 12.5.0.29",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:configuration_automation_agent:12.5.0.29:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:configuration_automation_agent:12.5.8.1016:*:*:*:*:*:*:*",
+      "title": "Ca Configuration Automation Agent 12.5.8.1016",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:configuration_automation_agent:12.5.8.1016:*:*:*:*:*:*:*"
+    }
+  ]
+}

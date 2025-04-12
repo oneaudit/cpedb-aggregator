@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:netviz_viewer:6.5:*:*:*:*:*:*:*",
+        "cpeNameId": "2F3F0FAF-2762-409C-AD23-192D2032D954",
+        "lastModified": "2021-04-09T17:45:27.317",
+        "created": "2012-05-08T13:50:40.737",
+        "titles": [
+          {
+            "title": "Ca Netviz Viewer 6.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:netviz_viewer:6.5:*:*:*:*:*:*:*",
+            "cpeNameId": "21ACAA3D-C740-4FCF-8A6C-93FF159425E9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:netviz_viewer:6.5:*:*:*:*:*:*:*",
+      "title": "Ca Netviz Viewer 6.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:netviz_viewer:6.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

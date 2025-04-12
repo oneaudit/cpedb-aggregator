@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_autosys_jm:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2642A4CA-28BC-4290-ABB5-FCCA56FBB882",
+        "lastModified": "2021-04-12T14:33:18.253",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter AutoSys JM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_autosys_jm:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F6517B77-7BF3-4C2F-976C-CD428336607D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_autosys_jm:11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B9B86CEB-1FBE-4423-B871-296347F988CA",
+        "lastModified": "2021-04-12T14:33:18.253",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter AutoSys JM 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_autosys_jm:11.0:*:*:*:*:*:*:*",
+            "cpeNameId": "9BF44823-981A-4E6E-9B18-4AB28DAB79A1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_autosys_jm:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter AutoSys JM",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_autosys_jm:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_autosys_jm:11.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter AutoSys JM 11.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_autosys_jm:11.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

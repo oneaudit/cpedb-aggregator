@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:ehealth_for_voice:4.0.3:*:*:*:*:*:*:*",
+        "cpeNameId": "A0AAE508-B58B-443F-8FC7-0A06D9E71BEA",
+        "lastModified": "2021-04-09T13:18:14.527",
+        "created": "2012-05-08T13:50:33.487",
+        "titles": [
+          {
+            "title": "Ca Ehealth For Voice 4.0.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:ehealth_for_voice:4.0.3:*:*:*:*:*:*:*",
+            "cpeNameId": "286E6124-5388-4F46-98B9-2FADF232CE98"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:ehealth_for_voice:4.0.3:*:*:*:*:*:*:*",
+      "title": "Ca Ehealth For Voice 4.0.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:ehealth_for_voice:4.0.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

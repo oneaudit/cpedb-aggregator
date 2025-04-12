@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:alert_notification_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "40AA9C91-E553-4BB4-AE67-AF0F26536950",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Alert Notification Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:alert_notification_server:-:*:*:*:*:*:*:*",
+            "cpeNameId": "994CBA5C-DCD6-4410-9E13-8E3C1CDDA422"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:alert_notification_server:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Alert Notification Server",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:alert_notification_server:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_secure_content_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "696A1B4C-68F7-4475-8668-42F2AF4637A7",
+        "lastModified": "2021-04-09T15:54:37.960",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Secure Content Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_secure_content_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F7BD7A1C-3D8C-47C0-A6FE-3028DCF092AF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_secure_content_manager:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "82400742-2559-430B-9DFE-12BABBAC7799",
+        "lastModified": "2021-04-09T16:00:10.233",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Secure Content Manager 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_secure_content_manager:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "58C254D8-986A-4907-B9AB-FFE652F51955"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_secure_content_manager:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "741FFC53-1A87-4F8F-B038-BF4734BBBEA0",
+        "lastModified": "2021-04-09T16:00:41.763",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Secure Content Manager 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_secure_content_manager:1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "31DAA541-8921-46F2-9D87-00C3142969D9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ca:etrust_secure_content_manager:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "318874B7-1DBC-4F8A-B710-CEDB2DC5D8AF",
+        "lastModified": "2021-04-12T15:26:45.817",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Secure Content Manager 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_secure_content_manager:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Secure Content Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_secure_content_manager:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_secure_content_manager:1.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Secure Content Manager 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_secure_content_manager:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_secure_content_manager:1.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Secure Content Manager 1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_secure_content_manager:1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_secure_content_manager:8.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Secure Content Manager 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

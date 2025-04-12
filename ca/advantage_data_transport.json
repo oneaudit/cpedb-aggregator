@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:advantage_data_transport:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8FFA041F-45B9-425E-9BBA-ACCB4F656244",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Advantage Data Transport",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:advantage_data_transport:-:*:*:*:*:*:*:*",
+            "cpeNameId": "10A2F770-D951-47B0-9F38-36394878AF34"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:advantage_data_transport:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C8D44D8A-4ABA-4377-8793-7B7D63D40C08",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Advantage Data Transport 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:advantage_data_transport:3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "D3C8F1DB-CB12-4312-B7F4-0292BBBDF819"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:advantage_data_transport:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Advantage Data Transport",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:advantage_data_transport:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:advantage_data_transport:3.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Advantage Data Transport 3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:advantage_data_transport:3.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

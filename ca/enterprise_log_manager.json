@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:enterprise_log_manager:11.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "02D473C4-DA72-4B35-A674-A8FC4E29BEED",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2012-05-08T13:50:35.897",
+        "titles": [
+          {
+            "title": "Ca Enterprise Log Manager 11.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:enterprise_log_manager:11.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "7104C7C2-2321-4EB8-AAA5-587892A2CF57"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:enterprise_log_manager:11.1.0:*:*:*:*:*:*:*",
+      "title": "Ca Enterprise Log Manager 11.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:enterprise_log_manager:11.1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

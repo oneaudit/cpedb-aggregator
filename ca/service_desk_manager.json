@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:service_desk_manager:12.5:*:*:*:*:*:*:*",
+        "cpeNameId": "ECF30DCD-8CEA-4D47-9A25-791DAE2475F6",
+        "lastModified": "2021-04-09T18:53:53.987",
+        "created": "2013-07-31T21:34:50.387",
+        "titles": [
+          {
+            "title": "CA Service Desk Manager 12.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:service_desk_manager:12.5:*:*:*:*:*:*:*",
+            "cpeNameId": "007EF5F6-B496-4B33-9653-B90B3585DF5E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:service_desk_manager:12.6:*:*:*:*:*:*:*",
+        "cpeNameId": "357BBB30-A678-47B1-81EC-43E77BDA2F76",
+        "lastModified": "2021-04-09T18:53:53.987",
+        "created": "2013-07-31T21:34:50.463",
+        "titles": [
+          {
+            "title": "CA Service Desk Manager 12.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:service_desk_manager:12.6:*:*:*:*:*:*:*",
+            "cpeNameId": "C0971A8A-13E3-42B8-AFD4-8EE279703985"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:service_desk_manager:12.7:*:*:*:*:*:*:*",
+        "cpeNameId": "88DC626F-AF9F-4C10-9CA1-58486CF26778",
+        "lastModified": "2021-04-09T18:53:53.987",
+        "created": "2013-07-31T21:34:50.533",
+        "titles": [
+          {
+            "title": "CA Service Desk Manager 12.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:service_desk_manager:12.7:*:*:*:*:*:*:*",
+            "cpeNameId": "BFC0DBB3-E4C8-4F43-8B53-63F0152DD7F6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:service_desk_manager:17.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C60AEBD6-A4E6-4F76-82EE-04FADECA99DE",
+        "lastModified": "2021-04-09T18:53:53.987",
+        "created": "2019-03-19T15:15:10.597",
+        "titles": [
+          {
+            "title": "CA Service Desk Manager 17.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:service_desk_manager:17.0:*:*:*:*:*:*:*",
+            "cpeNameId": "60EFE519-7AB5-4D69-AF84-65D2D2E3DA24"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:service_desk_manager:12.5:*:*:*:*:*:*:*",
+      "title": "CA Service Desk Manager 12.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:service_desk_manager:12.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:service_desk_manager:12.6:*:*:*:*:*:*:*",
+      "title": "CA Service Desk Manager 12.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:service_desk_manager:12.6:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:service_desk_manager:12.7:*:*:*:*:*:*:*",
+      "title": "CA Service Desk Manager 12.7",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:service_desk_manager:12.7:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:service_desk_manager:17.0:*:*:*:*:*:*:*",
+      "title": "CA Service Desk Manager 17.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:service_desk_manager:17.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

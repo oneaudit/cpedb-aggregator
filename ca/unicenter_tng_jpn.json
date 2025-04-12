@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_tng_jpn:-:*:*:*:*:*:*:*",
+        "cpeNameId": "68C289DE-47C6-49EA-B70F-11863BB8E5BD",
+        "lastModified": "2021-04-14T15:46:46.520",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter TNG JPN",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_tng_jpn:-:*:*:*:*:*:*:*",
+            "cpeNameId": "32A16C52-C04E-483F-894A-62316721FBEA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_tng_jpn:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter TNG JPN",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_tng_jpn:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

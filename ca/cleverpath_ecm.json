@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:cleverpath_ecm:-:*:*:*:*:*:*:*",
+        "cpeNameId": "98D474C4-9D14-48A2-84AF-103F42BD8F69",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates CleverPath ECM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:cleverpath_ecm:-:*:*:*:*:*:*:*",
+            "cpeNameId": "6358B63A-FF8C-41E0-98CB-F335DE15AF1A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:cleverpath_ecm:3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "6EF12847-CE91-48B6-A2C5-BDA62F7BC47B",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates CleverPath ECM 3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:cleverpath_ecm:3.5:*:*:*:*:*:*:*",
+            "cpeNameId": "0255356C-964E-424E-89C0-D2F4999D6D67"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:cleverpath_ecm:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates CleverPath ECM",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:cleverpath_ecm:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:cleverpath_ecm:3.5:*:*:*:*:*:*:*",
+      "title": "Computer Associates CleverPath ECM 3.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:cleverpath_ecm:3.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

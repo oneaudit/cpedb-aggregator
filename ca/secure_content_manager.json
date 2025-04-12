@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:secure_content_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8AC761C1-6919-41C0-9783-7A52155D9EFF",
+        "lastModified": "2021-04-09T18:52:43.980",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Secure Content Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:secure_content_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "AB0B5BAF-3DD0-4C2C-850C-3F94F3A8AE04"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:secure_content_manager:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "A9BCBA64-446F-4357-B652-ED2F00A30979",
+        "lastModified": "2021-04-09T18:52:43.980",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Secure Content Manager 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:secure_content_manager:1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "0DB20E52-8CB8-4B8C-B408-F8B1E46B5928"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:secure_content_manager:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "37AA564C-41B7-4080-8657-74CC386BB4CE",
+        "lastModified": "2021-04-09T18:52:43.980",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Secure Content Manager 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:secure_content_manager:8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "78657839-EB05-4982-AD9F-E021F2DC2932"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:secure_content_manager:8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "72B6567D-4E99-4A6C-BF1C-D1966009B2A5",
+        "lastModified": "2021-04-09T18:52:43.980",
+        "created": "2009-01-28T16:43:21.587",
+        "titles": [
+          {
+            "title": "Computer Associates Secure Content Manager 8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:secure_content_manager:8.1:*:*:*:*:*:*:*",
+            "cpeNameId": "31FD1047-EC13-4DB2-8EC4-10CD518B373E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:secure_content_manager:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Secure Content Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:secure_content_manager:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:secure_content_manager:1.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Secure Content Manager 1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:secure_content_manager:1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:secure_content_manager:8.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Secure Content Manager 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:secure_content_manager:8.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:secure_content_manager:8.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Secure Content Manager 8.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:secure_content_manager:8.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

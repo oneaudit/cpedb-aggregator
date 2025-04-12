@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_access_control:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7D79673A-4690-4758-8CC1-96E060A1AC8F",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Access Control",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_access_control:-:*:*:*:*:*:*:*",
+            "cpeNameId": "8331B280-3541-47CA-879E-E47D4B679B31"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_access_control:4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "85A3395D-5EA7-4EA7-B078-EC4A49968BEB",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Access Control 4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_access_control:4.1:*:*:*:*:*:*:*",
+            "cpeNameId": "03E81995-31AA-4768-9B6B-2C070820FAAA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_access_control:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A2107708-E82B-4E82-ADC5-5F096FC68D6D",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Access Control 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_access_control:5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "1B9AD6D9-7879-4200-BE5D-4B5C7F553F59"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_access_control:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Access Control",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_access_control:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_access_control:4.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Access Control 4.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_access_control:4.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_access_control:5.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Access Control 5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_access_control:5.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

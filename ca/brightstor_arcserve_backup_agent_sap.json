@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_arcserve_backup_agent_sap:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3F6429B4-A918-45B4-B4B9-96A34A4DAAA1",
+        "lastModified": "2021-04-07T18:12:56.910",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor ARCserve Backup Agent SAP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_agent_sap:-:*:*:*:*:*:*:*",
+            "cpeNameId": "32D0433E-7257-430A-AECF-0CA85C0F1709"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_arcserve_backup_agent_sap:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor ARCserve Backup Agent SAP",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_agent_sap:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

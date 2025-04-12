@@ -1,0 +1,168 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_asset_management:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6D63759A-E77A-4A93-8795-AB1E5573844B",
+        "lastModified": "2021-04-12T14:31:55.117",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Asset Management",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_asset_management:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4CAA3F51-66CE-4751-B686-6A321A17CCC1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_asset_management:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "2557403E-FBFF-4F8C-B81B-6960291955DC",
+        "lastModified": "2021-04-12T14:31:55.117",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Asset Management 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_asset_management:3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "F6AB3198-099F-4607-B18D-98D7F10F841B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_asset_management:3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "D89A1A66-0969-4E3E-B8B1-D1D5B8CE97A0",
+        "lastModified": "2021-04-12T14:33:18.253",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Asset Management 3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_asset_management:3.2:*:*:*:*:*:*:*",
+            "cpeNameId": "E83FA9CD-4DBC-4292-BD86-E616372213A8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_asset_management:3.2:sp1:*:*:*:*:*:*",
+        "cpeNameId": "48B27753-AF65-480B-A9F8-BBCF873BA1BF",
+        "lastModified": "2021-04-12T14:33:18.253",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Asset Management 3.2 SP1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_asset_management:3.2:sp1:*:*:*:*:*:*",
+            "cpeNameId": "BD3C2A0B-77F9-4B9B-BE7E-7CFFDFB6EF69"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_asset_management:3.2:sp2:*:*:*:*:*:*",
+        "cpeNameId": "2C2ADC90-493E-4303-9C1C-95312ABFC49F",
+        "lastModified": "2021-04-12T14:33:18.253",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Asset Management 3.2 SP2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_asset_management:3.2:sp2:*:*:*:*:*:*",
+            "cpeNameId": "C3C741BD-2464-43F1-9C65-91CA2FC8FBD9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_asset_management:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "99A0AD36-089E-4E9F-9C03-4220208A38F8",
+        "lastModified": "2021-04-12T14:33:18.253",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Asset Management 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_asset_management:4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "5DE500E4-5D0D-413A-BD86-9C8F27984138"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_asset_management:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Asset Management",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_asset_management:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_asset_management:3.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Asset Management 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_asset_management:3.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_asset_management:3.2:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Asset Management 3.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_asset_management:3.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_asset_management:3.2:sp1:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Asset Management 3.2 SP1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_asset_management:3.2:sp1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_asset_management:3.2:sp2:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Asset Management 3.2 SP2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_asset_management:3.2:sp2:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_asset_management:4.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Asset Management 4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_asset_management:4.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

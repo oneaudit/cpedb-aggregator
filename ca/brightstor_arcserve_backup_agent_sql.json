@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_arcserve_backup_agent_sql:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9447CD22-945F-4BE1-86C8-7982F223408C",
+        "lastModified": "2021-04-07T18:12:56.910",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor ARCserve Backup Agent SQL",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_agent_sql:-:*:*:*:*:*:*:*",
+            "cpeNameId": "685974FD-4AA4-4100-81F8-BEAD8146266B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_arcserve_backup_agent_sql:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor ARCserve Backup Agent SQL",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_agent_sql:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

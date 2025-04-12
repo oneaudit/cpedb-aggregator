@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_mobile_backup:-:*:*:*:*:*:*:*",
+        "cpeNameId": "35876A4D-7A4A-442D-8F8B-EF015813140A",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Mobile Backup",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_mobile_backup:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4AD507C6-6B5E-490F-B7DD-F079718EB605"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_mobile_backup:r4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "66D34BBA-9F7A-4E7F-93B9-D0D3BB0B033C",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Mobile Backup r4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_mobile_backup:r4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "88C9DF20-D9E2-41AA-91EC-0120895B7DA6"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_mobile_backup:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Mobile Backup",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_mobile_backup:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_mobile_backup:r4.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Mobile Backup r4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_mobile_backup:r4.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

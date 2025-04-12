@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_service_desk:-:*:*:*:*:*:*:*",
+        "cpeNameId": "97F374C3-1806-4C78-9CF4-1AE49282C03C",
+        "lastModified": "2021-04-14T15:39:36.340",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Service Desk",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_service_desk:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B05EE483-6A50-4B6F-8914-134D1A47A09A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_service_desk:11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4D440FFC-AA88-4099-A223-96CB9EF2A822",
+        "lastModified": "2021-04-14T15:39:53.563",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Service Desk 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_service_desk:11.0:*:*:*:*:*:*:*",
+            "cpeNameId": "60E1C9C5-70C8-445E-9B61-CC46DE58D1D1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_service_desk:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Service Desk",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_service_desk:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_service_desk:11.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Service Desk 11.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_service_desk:11.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

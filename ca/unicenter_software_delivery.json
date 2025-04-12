@@ -1,0 +1,168 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_software_delivery:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2DE60E8D-A5D6-41C1-A719-BF33C158C5DB",
+        "lastModified": "2021-04-14T15:42:49.350",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Software Delivery",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_software_delivery:-:*:*:*:*:*:*:*",
+            "cpeNameId": "85791E95-7FEC-4BE2-9A1C-242FDB5C600F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_software_delivery:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5B6C3617-A6F2-4A01-804B-9F5D256CC3DA",
+        "lastModified": "2021-04-14T15:43:08.867",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Software Delivery 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_software_delivery:3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "B3B84D16-AEC9-463E-B526-A8EB06EC494C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_software_delivery:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4C79E8B1-9EF9-488A-B468-8F151896A728",
+        "lastModified": "2021-04-14T15:43:36.077",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Software Delivery 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_software_delivery:3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "790336C8-6125-4724-A1F3-380575C8B4B0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_software_delivery:3.1:sp1:*:*:*:*:*:*",
+        "cpeNameId": "849649EC-8E1C-4717-AF03-F5CC32903D28",
+        "lastModified": "2021-04-14T15:43:53.623",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Software Delivery 3.1 SP1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_software_delivery:3.1:sp1:*:*:*:*:*:*",
+            "cpeNameId": "2AC05C41-48C4-477B-8E00-1B7DD2403011"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_software_delivery:3.1:sp2:*:*:*:*:*:*",
+        "cpeNameId": "EFD3C731-2C09-4BFD-A3C9-8860892FE020",
+        "lastModified": "2021-04-14T15:44:13.457",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Software Delivery 3.1 SP2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_software_delivery:3.1:sp2:*:*:*:*:*:*",
+            "cpeNameId": "A7F121DD-BE42-4702-8A33-9896B372E66E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_software_delivery:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "09DA109E-BDCF-4148-9A49-F5D6A73421EE",
+        "lastModified": "2021-04-14T15:44:37.490",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Software Delivery 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_software_delivery:4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3B161BB4-A1CF-491A-9B47-9E8ACC0650E7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_software_delivery:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Software Delivery",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_software_delivery:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_software_delivery:3.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Software Delivery 3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_software_delivery:3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_software_delivery:3.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Software Delivery 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_software_delivery:3.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_software_delivery:3.1:sp1:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Software Delivery 3.1 SP1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_software_delivery:3.1:sp1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_software_delivery:3.1:sp2:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Software Delivery 3.1 SP2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_software_delivery:3.1:sp2:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_software_delivery:4.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Software Delivery 4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_software_delivery:4.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

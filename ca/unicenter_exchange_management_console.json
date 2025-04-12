@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_exchange_management_console:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F08ECD8C-05DC-4BF0-9C99-DAC945D81C17",
+        "lastModified": "2021-04-14T15:28:16.687",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Exchange Management",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_exchange_management_console:-:*:*:*:*:*:*:*",
+            "cpeNameId": "FFC9E99C-E028-4516-8D97-2B542228F440"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_exchange_management_console:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Exchange Management",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_exchange_management_console:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

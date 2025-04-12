@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:anti-spyware_for_the_enterprise:8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "8471A781-08F5-43F7-A42F-6543B4B8F316",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2009-01-28T17:03:40.490",
+        "titles": [
+          {
+            "title": "Computer Associates Anti-spyware For The Enterprise 8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:anti-spyware_for_the_enterprise:8.1:*:*:*:*:*:*:*",
+            "cpeNameId": "6038BC36-D9EB-4317-BD18-C5BBE0BF412E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:anti-spyware_for_the_enterprise:r8:*:*:*:*:*:*:*",
+        "cpeNameId": "F7D6B1C5-C200-43D1-83A6-C5E0EEA24259",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2009-01-28T17:03:41.773",
+        "titles": [
+          {
+            "title": "Computer Associates Anti-spyware For The Enterprise r8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:anti-spyware_for_the_enterprise:r8:*:*:*:*:*:*:*",
+            "cpeNameId": "81D05BF7-D4A8-4353-BE08-751D541ADB86"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:anti-spyware_for_the_enterprise:8.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Anti-spyware For The Enterprise 8.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:anti-spyware_for_the_enterprise:8.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:anti-spyware_for_the_enterprise:r8:*:*:*:*:*:*:*",
+      "title": "Computer Associates Anti-spyware For The Enterprise r8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:anti-spyware_for_the_enterprise:r8:*:*:*:*:*:*:*"
+    }
+  ]
+}

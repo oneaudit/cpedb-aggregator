@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_ez_armor_le:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FDF52EA5-DE7E-49AA-8127-CE11DD027A16",
+        "lastModified": "2021-04-09T13:54:57.567",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust EZ Armor LE 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_ez_armor_le:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "5E363A1E-17E4-4C17-9CDE-CDC7CE8A9810"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_ez_armor_le:3.0.0.14:*:*:*:*:*:*:*",
+        "cpeNameId": "9DAE5C45-AC4E-4EE7-8BFE-D040187F2A56",
+        "lastModified": "2021-04-09T13:54:57.567",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust EZ Armor LE 3.0.0.1.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_ez_armor_le:3.0.0.14:*:*:*:*:*:*:*",
+            "cpeNameId": "2781A1B9-D6C0-4E76-B397-1429ACD80E94"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_ez_armor_le:2.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust EZ Armor LE 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_ez_armor_le:2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_ez_armor_le:3.0.0.14:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust EZ Armor LE 3.0.0.1.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_ez_armor_le:3.0.0.14:*:*:*:*:*:*:*"
+    }
+  ]
+}

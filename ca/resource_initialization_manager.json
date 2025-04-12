@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:resource_initialization_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EE767CBD-7987-41B0-9583-34CC03185F0E",
+        "lastModified": "2021-04-09T18:52:43.980",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Resource Initialization Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:resource_initialization_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A2DD2B9F-8A56-4640-9B19-305AFCD72917"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:resource_initialization_manager:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B086B9C6-26BB-48BF-9B58-06446D672AAB",
+        "lastModified": "2021-04-09T18:52:43.980",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Resource Initialization Manager 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:resource_initialization_manager:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "73305D5A-F63B-4A9B-9294-5337DF13FF87"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:resource_initialization_manager:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Resource Initialization Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:resource_initialization_manager:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:resource_initialization_manager:1.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Resource Initialization Manager 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:resource_initialization_manager:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:systems_performance_for_infrastructure_managers:12.9:*:*:*:*:*:*:*",
+        "cpeNameId": "C376CFEF-83BA-4C36-B6C7-326D099F8899",
+        "lastModified": "2021-04-12T14:30:20.630",
+        "created": "2017-03-14T15:18:47.643",
+        "titles": [
+          {
+            "title": "CA Technologies Systems Performance For Infrastructure Managers 12.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:systems_performance_for_infrastructure_managers:12.9:*:*:*:*:*:*:*",
+            "cpeNameId": "96526757-2755-4C07-A229-C0AAC22EF480"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:systems_performance_for_infrastructure_managers:12.8:*:*:*:*:*:*:*",
+        "cpeNameId": "75A52722-031A-4D06-846F-762A5DFFFBD5",
+        "lastModified": "2021-04-12T14:30:20.630",
+        "created": "2017-03-14T15:18:47.720",
+        "titles": [
+          {
+            "title": "CA Technologies Systems Performance For Infrastructure Managers 12.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:systems_performance_for_infrastructure_managers:12.8:*:*:*:*:*:*:*",
+            "cpeNameId": "90ED78A0-EAA4-4E79-99FB-A5BF7E20848A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:systems_performance_for_infrastructure_managers:12.9:*:*:*:*:*:*:*",
+      "title": "CA Technologies Systems Performance For Infrastructure Managers 12.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:systems_performance_for_infrastructure_managers:12.9:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:systems_performance_for_infrastructure_managers:12.8:*:*:*:*:*:*:*",
+      "title": "CA Technologies Systems Performance For Infrastructure Managers 12.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:systems_performance_for_infrastructure_managers:12.8:*:*:*:*:*:*:*"
+    }
+  ]
+}

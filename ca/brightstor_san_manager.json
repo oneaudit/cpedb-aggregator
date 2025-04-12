@@ -1,0 +1,168 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_san_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "754988C9-E420-462D-8E11-8645609AD3DC",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor SAN Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_san_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "334002D6-C9C5-4657-86E4-55AA77A51CA9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_san_manager:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "FC117B78-7191-4A0C-AFBF-2FE65D97D17F",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor SAN Manager 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_san_manager:1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "4BCD1B66-2274-431A-8548-8A7DC5B00C9F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_san_manager:1.1:sp1:*:*:*:*:*:*",
+        "cpeNameId": "647BDC4A-F624-4853-9D54-EF67ED352EF6",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor SAN Manager 1.1 SP1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_san_manager:1.1:sp1:*:*:*:*:*:*",
+            "cpeNameId": "CD085544-BAB3-4BDF-BCAC-CB75BCA05722"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_san_manager:1.1:sp2:*:*:*:*:*:*",
+        "cpeNameId": "489D56C7-669F-412D-8FAD-15129064F3FC",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor SAN Manager 1.1 SP2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_san_manager:1.1:sp2:*:*:*:*:*:*",
+            "cpeNameId": "010CDAC6-BA1A-494C-9B2C-22A458F9887F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_san_manager:11.1:*:*:*:*:*:*:*",
+        "cpeNameId": "AD2435C5-8CD5-4DA5-840F-27A308A110C9",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor SAN Manager 11.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_san_manager:11.1:*:*:*:*:*:*:*",
+            "cpeNameId": "7D4265CC-F1A6-4A09-8BD3-BF4C7BDBBBD1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_san_manager:11.5:*:*:*:*:*:*:*",
+        "cpeNameId": "DF7AC3E6-3B92-4BDC-9830-CCBD804B3EF9",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor SAN Manager 11.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_san_manager:11.5:*:*:*:*:*:*:*",
+            "cpeNameId": "3A4C7121-0342-4923-B553-300F4D41806C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_san_manager:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor SAN Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_san_manager:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_san_manager:1.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor SAN Manager 1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_san_manager:1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_san_manager:1.1:sp1:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor SAN Manager 1.1 SP1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_san_manager:1.1:sp1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_san_manager:1.1:sp2:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor SAN Manager 1.1 SP2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_san_manager:1.1:sp2:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_san_manager:11.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor SAN Manager 11.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_san_manager:11.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_san_manager:11.5:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor SAN Manager 11.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_san_manager:11.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B1E444F5-018C-4804-B50E-1836CCD085EF",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Anti-Virus for the Enterprise",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:-:*:*:*:*:*:*:*",
+            "cpeNameId": "2BFF8F0F-D80E-4528-BBCA-25BF7507B958"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "104C02E7-2BFE-4C63-B7E8-40E0AC3E7110",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Anti-Virus for the Enterprise 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "16DFE53C-905F-4BB2-BD3D-6E2A73A10CF1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "8E3C7CB8-AE42-42A6-B953-EE29F8FFFD15",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Anti-Virus for the Enterprise 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:7.1:*:*:*:*:*:*:*",
+            "cpeNameId": "FA540FC4-181A-4DF8-AEC0-693BB09B88E9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:8:*:*:*:*:*:*:*",
+        "cpeNameId": "27A5B34F-E21E-409B-9434-060582BA1A45",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Anti-Virus for the Enterprise r8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:8:*:*:*:*:*:*:*",
+            "cpeNameId": "B4784686-8DA1-4567-9781-C2C9A19EA135"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7A4FF133-C149-4A6F-889F-E07D59C9366B",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Anti-Virus for the Enterprise r8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:8.1:*:*:*:*:*:*:*",
+            "cpeNameId": "2BC9C333-A3F8-4CE6-88E4-994ACCDF637B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:r8:*:*:*:*:*:*:*",
+        "cpeNameId": "23D783D5-F773-47BA-96C8-051DF25D4393",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2009-01-28T17:03:41.273",
+        "titles": [
+          {
+            "title": "Computer Associates Anti-Virus for the Enterprise r8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:r8:*:*:*:*:*:*:*",
+            "cpeNameId": "26FB69FD-12FB-4699-847E-B98B39754730"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Anti-Virus for the Enterprise",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:7.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Anti-Virus for the Enterprise 7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:7.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:7.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Anti-Virus for the Enterprise 7.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:7.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:8:*:*:*:*:*:*:*",
+      "title": "Computer Associates Anti-Virus for the Enterprise r8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:8:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:8.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Anti-Virus for the Enterprise r8.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:8.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:r8:*:*:*:*:*:*:*",
+      "title": "Computer Associates Anti-Virus for the Enterprise r8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:r8:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_enterprise_job_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E0036845-9CA0-4CF4-BBC4-034EFABE958A",
+        "lastModified": "2021-04-14T15:27:49.293",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Enterprise Job Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_enterprise_job_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0A4FFFD8-5714-4EF4-9608-EAA739183A54"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_enterprise_job_manager:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Enterprise Job Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_enterprise_job_manager:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

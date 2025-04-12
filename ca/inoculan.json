@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:inoculan:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5D305250-21C1-4717-899C-BC1343965E88",
+        "lastModified": "2021-04-09T16:57:16.703",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Inoculan AV client",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:inoculan:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BEFFB53A-BB1F-448A-BFCA-AFCF545D332A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:inoculan:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Inoculan AV client",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:inoculan:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

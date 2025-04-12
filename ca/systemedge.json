@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:systemedge:5.9:*:*:*:*:*:*:*",
+        "cpeNameId": "48B3A66F-3D90-4F41-91D8-8815B4218E2E",
+        "lastModified": "2021-04-12T14:30:20.630",
+        "created": "2017-03-14T15:18:47.830",
+        "titles": [
+          {
+            "title": "CA Technologies SystemEDGE 5.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:systemedge:5.9:*:*:*:*:*:*:*",
+            "cpeNameId": "4CA8966F-B08F-4596-B5F1-1166A6BE4D99"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:systemedge:5.8.2:*:*:*:*:*:*:*",
+        "cpeNameId": "6F1C6B45-0263-463E-9DC1-B4BB25B1F131",
+        "lastModified": "2021-04-12T14:30:20.630",
+        "created": "2017-03-14T15:18:47.877",
+        "titles": [
+          {
+            "title": "CA Technologies SystemEDGE 5.8.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:systemedge:5.8.2:*:*:*:*:*:*:*",
+            "cpeNameId": "15AAF20B-678E-46B1-B943-F54645963AF3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:systemedge:5.9:*:*:*:*:*:*:*",
+      "title": "CA Technologies SystemEDGE 5.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:systemedge:5.9:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:systemedge:5.8.2:*:*:*:*:*:*:*",
+      "title": "CA Technologies SystemEDGE 5.8.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:systemedge:5.8.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

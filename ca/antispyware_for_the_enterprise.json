@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:antispyware_for_the_enterprise:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5F7B164B-408A-4D6F-A3F0-9D9A8D822D87",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates AntiSpyware for the Enterprise",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:antispyware_for_the_enterprise:-:*:*:*:*:*:*:*",
+            "cpeNameId": "65E1991D-D12B-48E8-8EC6-8A036DE4BB85"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:antispyware_for_the_enterprise:8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "31A99669-B85B-4072-A39C-3561FE9089E2",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates AntiSpyware for the Enterprise 8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:antispyware_for_the_enterprise:8.1:*:*:*:*:*:*:*",
+            "cpeNameId": "B05A1F86-E1E0-46E7-AFCF-B52F43C8C3C8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:antispyware_for_the_enterprise:8:*:*:*:*:*:*:*",
+        "cpeNameId": "90ED94A5-5936-41D7-BDCA-ED6471C33750",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates AntiSpyware for the Enterprise r8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:antispyware_for_the_enterprise:8:*:*:*:*:*:*:*",
+            "cpeNameId": "7CD2E8B9-AF8C-47BA-94B9-A18EEB8CB166"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:antispyware_for_the_enterprise:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "515574D6-216C-4D02-881E-9167E8775CDE",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Antivirus Enterprise 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:antispyware_for_the_enterprise:8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "663F370B-539B-4DCE-BB5D-4B4BA29407F2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:antispyware_for_the_enterprise:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates AntiSpyware for the Enterprise",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:antispyware_for_the_enterprise:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:antispyware_for_the_enterprise:8.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates AntiSpyware for the Enterprise 8.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:antispyware_for_the_enterprise:8.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:antispyware_for_the_enterprise:8:*:*:*:*:*:*:*",
+      "title": "Computer Associates AntiSpyware for the Enterprise r8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:antispyware_for_the_enterprise:8:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:antispyware_for_the_enterprise:8.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Antivirus Enterprise 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:antispyware_for_the_enterprise:8.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

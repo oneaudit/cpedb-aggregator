@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_pestpatrol:-:*:*:*:*:*:*:*",
+        "cpeNameId": "07FE3130-C9B5-4982-997A-81C8B40E81E4",
+        "lastModified": "2021-04-09T15:30:49.207",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust PestPatrol",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_pestpatrol:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A6863A13-5020-4E43-A834-4CD05A0B897D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_pestpatrol:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "081BC9A1-B5A7-4BF7-8436-44492AA7F3D4",
+        "lastModified": "2021-04-09T15:30:49.207",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust PestPatrol 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_pestpatrol:8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "A95F33D7-C550-4300-B394-BF56239E1931"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_pestpatrol:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust PestPatrol",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_pestpatrol:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_pestpatrol:8.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust PestPatrol 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_pestpatrol:8.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

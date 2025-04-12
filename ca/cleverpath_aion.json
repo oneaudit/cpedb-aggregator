@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:cleverpath_aion:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2227E01C-3B2C-4429-90C0-656A802BB3DD",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates CleverPath Aion",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:cleverpath_aion:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7867CD8D-C174-4EA7-B1AF-FD840B1ED42E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:cleverpath_aion:10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E9CE7DB6-8D9F-4BF9-A13F-2DE2D3D7519C",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates CleverPath Aion 10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:cleverpath_aion:10.0:*:*:*:*:*:*:*",
+            "cpeNameId": "92553C65-DAAE-4779-A582-ECC44723A307"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:cleverpath_aion:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates CleverPath Aion",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:cleverpath_aion:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:cleverpath_aion:10.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates CleverPath Aion 10.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:cleverpath_aion:10.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

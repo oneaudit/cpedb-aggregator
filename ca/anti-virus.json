@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:anti-virus:2007:8:*:*:*:*:*:*",
+        "cpeNameId": "C7A42327-A29A-42A6-BFB9-28CC0A959DEC",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2009-01-28T16:43:20.740",
+        "titles": [
+          {
+            "title": "Computer Associates Anti-virus 2007 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:anti-virus:2007:8:*:*:*:*:*:*",
+            "cpeNameId": "1394BD8E-FBEF-4AC7-B560-E3A640320375"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:anti-virus:2008:*:*:*:*:*:*:*",
+        "cpeNameId": "467C8F1B-295E-4E94-887A-EFC8468297F4",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2009-01-28T16:43:20.930",
+        "titles": [
+          {
+            "title": "Computer Associates Anti-virus 2008",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:anti-virus:2008:*:*:*:*:*:*:*",
+            "cpeNameId": "52D299E4-4BDA-4645-8EEA-99C8108AC619"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:anti-virus:2007:8:*:*:*:*:*:*",
+      "title": "Computer Associates Anti-virus 2007 8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:anti-virus:2007:8:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:anti-virus:2008:*:*:*:*:*:*:*",
+      "title": "Computer Associates Anti-virus 2008",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:anti-virus:2008:*:*:*:*:*:*:*"
+    }
+  ]
+}

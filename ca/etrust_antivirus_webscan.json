@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_antivirus_webscan:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2320920C-1FFE-459C-8D53-C0DD15C493B3",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Antivirus WebScan",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_antivirus_webscan:-:*:*:*:*:*:*:*",
+            "cpeNameId": "73A526DA-6DA0-4701-AB49-CDB500034ECF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_antivirus_webscan:1.1.0.1045:*:*:*:*:*:*:*",
+        "cpeNameId": "2CDC42A2-DB90-4269-9354-C9A45F670240",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Antivirus WebScan 1.1.0.1045",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_antivirus_webscan:1.1.0.1045:*:*:*:*:*:*:*",
+            "cpeNameId": "7DCF7400-D8AB-4FBC-A6D2-1612A64A8DE5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_antivirus_webscan:1.1.0.1047:*:*:*:*:*:*:*",
+        "cpeNameId": "CCE25016-15D9-4BCB-9685-468627494F3A",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Antivirus WebScan 1.1.0.1047",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_antivirus_webscan:1.1.0.1047:*:*:*:*:*:*:*",
+            "cpeNameId": "86098D72-C158-427E-84FB-B2E19186BA63"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_antivirus_webscan:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Antivirus WebScan",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_antivirus_webscan:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_antivirus_webscan:1.1.0.1045:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Antivirus WebScan 1.1.0.1045",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_antivirus_webscan:1.1.0.1045:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_antivirus_webscan:1.1.0.1047:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Antivirus WebScan 1.1.0.1047",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_antivirus_webscan:1.1.0.1047:*:*:*:*:*:*:*"
+    }
+  ]
+}

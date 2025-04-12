@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:internet_security_suite:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "67651AF7-1136-4622-ADC9-B561B7610FE5",
+        "lastModified": "2021-04-09T17:07:54.487",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Internet Security Suite 2007",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:internet_security_suite:3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "8140096C-F175-4E36-A6C1-3013F11E4ACE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:internet_security_suite:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EBAECFBA-DD90-4721-AB90-E7F53CEC5131",
+        "lastModified": "2021-04-09T17:05:10.920",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Internet Security Suite",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:internet_security_suite:-:*:*:*:*:*:*:*",
+            "cpeNameId": "EFA7B92A-73AE-40C9-B6C8-BB41CFDDE7D3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:internet_security_suite:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "892F30CC-12D5-46C0-83D0-CD2534032E0B",
+        "lastModified": "2021-04-09T17:05:48.170",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Internet Security Suite 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:internet_security_suite:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3BCD52C2-4A51-4FD1-9027-EE0079E1CA8A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:internet_security_suite:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2AF57341-51A5-42C8-9762-9F8B7D87C7FE",
+        "lastModified": "2021-04-09T17:07:01.500",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Internet Security Suite 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:internet_security_suite:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "A25FBD35-F425-4669-A556-85AD4F1F9BF2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:internet_security_suite:3.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Internet Security Suite 2007",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:internet_security_suite:3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:internet_security_suite:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Internet Security Suite",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:internet_security_suite:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:internet_security_suite:1.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Internet Security Suite 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:internet_security_suite:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:internet_security_suite:2.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Internet Security Suite 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:internet_security_suite:2.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

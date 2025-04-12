@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_management_portal:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E2F4E509-F15F-4842-AB2A-9F4B19277D38",
+        "lastModified": "2021-04-14T15:30:55.110",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Management Portal",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_management_portal:-:*:*:*:*:*:*:*",
+            "cpeNameId": "11941DA0-3EB4-41D3-9BF1-D53830839A99"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_management_portal:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "9BA8D296-6757-4A0D-AD24-F5DBEA3E4236",
+        "lastModified": "2021-04-14T15:31:19.033",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Management Portal 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_management_portal:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "F9AC46EC-AAED-499C-B295-00BCA7CBCD8F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_management_portal:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "B7E91885-17A1-4EBA-808D-57227FB5979E",
+        "lastModified": "2021-04-14T15:31:41.067",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Management Portal 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_management_portal:3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "53C9D425-31D0-4CAB-8F4A-96EFD25711D5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_management_portal:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Management Portal",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_management_portal:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_management_portal:2.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Management Portal 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_management_portal:2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_management_portal:3.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Management Portal 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_management_portal:3.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_enterprise:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2F05BB72-B0F1-4FB8-A2D7-67339B19CA95",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Enterprise",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_enterprise:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0ED36822-F8CE-4F02-8E6A-F9112684EF1C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_enterprise:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Enterprise",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_enterprise:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

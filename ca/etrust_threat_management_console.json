@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_threat_management_console:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2DF019E9-7D33-4398-B4E6-310910125A2C",
+        "lastModified": "2021-04-09T16:50:57.460",
+        "created": "2007-12-17T20:20:06.843",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Threat Management Console",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_threat_management_console:-:*:*:*:*:*:*:*",
+            "cpeNameId": "833B8E99-296C-4B9B-B75D-92EE8430FCDB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_threat_management_console:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Threat Management Console",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_threat_management_console:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

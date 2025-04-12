@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_audit_policy_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B3138C49-E1C2-4443-BB6F-59AD19B4741D",
+        "lastModified": "2021-04-09T13:54:57.567",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Audit Policy Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_audit_policy_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A9EE3B5C-4B6E-40C2-BD17-641692B174EF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_audit_policy_manager:1.5:sp2:*:*:*:*:*:*",
+        "cpeNameId": "07569F9D-96E2-481C-818B-55DBB855527D",
+        "lastModified": "2021-04-09T13:54:57.567",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Audit Policy Manager 1.5 SP2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_audit_policy_manager:1.5:sp2:*:*:*:*:*:*",
+            "cpeNameId": "C41124C3-CA19-4933-A283-261326FD2CA4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_audit_policy_manager:1.5:sp3:*:*:*:*:*:*",
+        "cpeNameId": "FEF06D24-DC76-445E-9BD5-5751BC11DC7C",
+        "lastModified": "2021-04-09T13:54:57.567",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Audit Policy Manager 1.5 SP3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_audit_policy_manager:1.5:sp3:*:*:*:*:*:*",
+            "cpeNameId": "56A52A85-CCD2-450D-9D93-55C38B2A7D6A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_audit_policy_manager:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "97D20FE9-B981-429C-98A9-FE7BA7625AC3",
+        "lastModified": "2021-04-09T13:54:57.567",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Audit Policy Manager r8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_audit_policy_manager:8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "CE6543A2-FACE-4B7A-81CF-C1765932E701"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_audit_policy_manager:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Audit Policy Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_audit_policy_manager:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_audit_policy_manager:1.5:sp2:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Audit Policy Manager 1.5 SP2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_audit_policy_manager:1.5:sp2:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_audit_policy_manager:1.5:sp3:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Audit Policy Manager 1.5 SP3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_audit_policy_manager:1.5:sp3:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_audit_policy_manager:8.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Audit Policy Manager r8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_audit_policy_manager:8.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

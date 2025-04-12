@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:application_configuration_manager_agent:12.0.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3B1C7FC7-7AA2-4A4C-ACE1-AFEC8CBBB124",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2012-05-08T13:50:30.317",
+        "titles": [
+          {
+            "title": "Ca Application Configuration Manager Agent 12.0.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:application_configuration_manager_agent:12.0.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "6DA0484A-A50F-47CC-8B51-08E29D39ED70"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:application_configuration_manager_agent:12.0.19.0:*:*:*:*:*:*:*",
+        "cpeNameId": "49F87710-83FB-4292-8228-C4F3B4E59CFE",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2012-05-08T13:50:30.487",
+        "titles": [
+          {
+            "title": "Ca Application Configuration Manager Agent 12.0.19.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:application_configuration_manager_agent:12.0.19.0:*:*:*:*:*:*:*",
+            "cpeNameId": "51CC26AC-F52E-4A2A-8707-2D986CBCBF21"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:application_configuration_manager_agent:12.0.19.110:*:*:*:*:*:*:*",
+        "cpeNameId": "76F0F9F7-88EA-4820-BF31-10FFAD66AE70",
+        "lastModified": "2021-04-07T17:53:45.387",
+        "created": "2012-05-08T13:50:30.677",
+        "titles": [
+          {
+            "title": "Ca Application Configuration Manager Agent 12.0.19.110",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:application_configuration_manager_agent:12.0.19.110:*:*:*:*:*:*:*",
+            "cpeNameId": "BE74D183-BC3C-49C8-9E14-6EAB703ABA21"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:application_configuration_manager_agent:12.0.1.0:*:*:*:*:*:*:*",
+      "title": "Ca Application Configuration Manager Agent 12.0.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:application_configuration_manager_agent:12.0.1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:application_configuration_manager_agent:12.0.19.0:*:*:*:*:*:*:*",
+      "title": "Ca Application Configuration Manager Agent 12.0.19.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:application_configuration_manager_agent:12.0.19.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:application_configuration_manager_agent:12.0.19.110:*:*:*:*:*:*:*",
+      "title": "Ca Application Configuration Manager Agent 12.0.19.110",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:application_configuration_manager_agent:12.0.19.110:*:*:*:*:*:*:*"
+    }
+  ]
+}

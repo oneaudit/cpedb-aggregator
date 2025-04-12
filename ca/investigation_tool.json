@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:investigation_tool:1.0.0:*:*:*:*:android:*:*",
+        "cpeNameId": "8570081B-9278-4AC1-9532-4E8D0801952B",
+        "lastModified": "2021-04-09T17:11:09.710",
+        "created": "2014-11-10T16:17:38.940",
+        "titles": [
+          {
+            "title": "ca Investigation Tool (aka gov.ca.post.lp.itool) for android 1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:investigation_tool:1.0.0:*:*:*:*:android:*:*",
+            "cpeNameId": "67E45128-8C3A-4F45-80A2-5961EA0DF19F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:investigation_tool:1.0.0:*:*:*:*:android:*:*",
+      "title": "ca Investigation Tool (aka gov.ca.post.lp.itool) for android 1.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:investigation_tool:1.0.0:*:*:*:*:android:*:*"
+    }
+  ]
+}

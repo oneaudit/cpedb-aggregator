@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_antivirus_iris_engine:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8F78CACF-4679-4CD0-831F-D86E22293B40",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust-Iris Antivirus",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_antivirus_iris_engine:-:*:*:*:*:*:*:*",
+            "cpeNameId": "73A40AD9-9206-4502-B22E-D6FC415B6D01"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_antivirus_iris_engine:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust-Iris Antivirus",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_antivirus_iris_engine:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

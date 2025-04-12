@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:arcserve_backup_client_agent_for_windows:12.0.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8E29DBC1-926A-4B64-A4CF-F9D397F7094D",
+        "lastModified": "2021-04-07T18:12:56.910",
+        "created": "2012-05-08T13:50:31.003",
+        "titles": [
+          {
+            "title": "Ca Arcserve Backup Client Agent For Windows 12.0.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:arcserve_backup_client_agent_for_windows:12.0.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "F8781A7A-DB35-4D0F-8E86-3E60B138E17D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:arcserve_backup_client_agent_for_windows:12.0.0.0:*:*:*:*:*:*:*",
+      "title": "Ca Arcserve Backup Client Agent For Windows 12.0.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:arcserve_backup_client_agent_for_windows:12.0.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

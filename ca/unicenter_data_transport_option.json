@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_data_transport_option:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3FDFFB79-B830-465C-AC1D-9DDA2AE77F74",
+        "lastModified": "2021-04-12T14:33:18.253",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Data Transport Option",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_data_transport_option:-:*:*:*:*:*:*:*",
+            "cpeNameId": "580F3C8A-5571-4D7E-BF0F-D4D7C320DB84"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_data_transport_option:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7D3C1F68-A0FC-4748-9B0B-D2D1A81DD6C1",
+        "lastModified": "2021-04-12T14:33:18.253",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Data Transport Option 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_data_transport_option:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "F4C8AAC5-B89E-4660-8E7B-230061732F45"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_data_transport_option:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Data Transport Option",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_data_transport_option:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_data_transport_option:2.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Data Transport Option 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_data_transport_option:2.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

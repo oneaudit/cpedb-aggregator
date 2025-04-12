@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_enterprise_backup_agent:-:*:oracle:*:*:*:*:*",
+        "cpeNameId": "8DD38F68-B5DF-49FD-BC38-87A4941E0D56",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Enterprise Backup Agent Oracle",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:oracle:*:*:*:*:*",
+            "cpeNameId": "5E539CE4-157E-4DFD-BD8F-FABB440BC342"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_enterprise_backup_agent:-:*:sap:*:*:*:*:*",
+        "cpeNameId": "BA1EA7E5-ED58-4FE8-8AAC-8A5B29CD7583",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Enterprise Backup Agent SAP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:sap:*:*:*:*:*",
+            "cpeNameId": "6BC0EE24-0E0E-411C-9F95-5CFFAE9DAD83"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_enterprise_backup_agent:-:*:sql:*:*:*:*:*",
+        "cpeNameId": "BE33FFA0-D50B-42E5-8FCA-3F23CE19FA6D",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Enterprise Backup Agent SQL",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:sql:*:*:*:*:*",
+            "cpeNameId": "456CDCD0-A7A2-4DFE-BD25-8C7CD825E703"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_enterprise_backup_agent:-:*:oracle:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Enterprise Backup Agent Oracle",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:oracle:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_enterprise_backup_agent:-:*:sap:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Enterprise Backup Agent SAP",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:sap:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_enterprise_backup_agent:-:*:sql:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Enterprise Backup Agent SQL",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:sql:*:*:*:*:*"
+    }
+  ]
+}

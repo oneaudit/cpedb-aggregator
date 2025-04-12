@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:cleverpath_olap:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0829016E-7284-4A3D-BDC1-A53ADEB1EAD0",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates CleverPath OLAP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:cleverpath_olap:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BF984732-9337-4750-8EA4-CF6930861399"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:cleverpath_olap:5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "FA8B2F7E-02EA-4FC7-8B94-BB976045F856",
+        "lastModified": "2021-04-07T18:56:58.900",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates CleverPath OLAP 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:cleverpath_olap:5.1:*:*:*:*:*:*:*",
+            "cpeNameId": "B523925E-1D7A-4F3C-999A-B3D184533B1C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:cleverpath_olap:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates CleverPath OLAP",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:cleverpath_olap:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:cleverpath_olap:5.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates CleverPath OLAP 5.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:cleverpath_olap:5.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

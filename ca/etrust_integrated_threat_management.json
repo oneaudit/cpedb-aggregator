@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_integrated_threat_management:-:*:*:*:*:*:*:*",
+        "cpeNameId": "076CCD64-7987-4EC8-A9F1-3C985BBB5776",
+        "lastModified": "2021-04-09T14:31:46.300",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Integrated Threat Management",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_integrated_threat_management:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B1FFBA21-496C-4159-A771-C536013E95B3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_integrated_threat_management:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5EE3066D-E26F-46FB-9D4B-C6EE1093D61B",
+        "lastModified": "2021-04-09T14:31:46.300",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Integrated Threat Management 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_integrated_threat_management:8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "297B1FD4-A82D-48B7-AB57-1CDF0EB86752"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_integrated_threat_management:8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "A8B7310E-6989-4A4C-AED2-0F0469FF388B",
+        "lastModified": "2021-04-09T14:31:46.300",
+        "created": "2007-10-15T18:25:00.827",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Integrated Threat Management 8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_integrated_threat_management:8.1:*:*:*:*:*:*:*",
+            "cpeNameId": "EB6B470A-EE90-4726-B188-D37BEB85A985"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_integrated_threat_management:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Integrated Threat Management",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_integrated_threat_management:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_integrated_threat_management:8.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Integrated Threat Management 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_integrated_threat_management:8.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_integrated_threat_management:8.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Integrated Threat Management 8.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_integrated_threat_management:8.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

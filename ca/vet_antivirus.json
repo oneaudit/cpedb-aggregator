@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ca:vet_antivirus:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3270F627-1976-461C-9447-C6BDC7F6902B",
+        "lastModified": "2008-03-25T19:15:17.553",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Vet Antivirus",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ca:vet_antivirus:10.66:*:*:*:*:*:*:*",
+        "cpeNameId": "4C7CEAAB-C77E-4C04-A3ED-65601A84174B",
+        "lastModified": "2008-03-25T19:15:17.677",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Vet Antivirus 10.66",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:vet_antivirus:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Vet Antivirus",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ca:vet_antivirus:10.66:*:*:*:*:*:*:*",
+      "title": "Computer Associates Vet Antivirus 10.66",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_dsm_agent_\\+_basic_inventory_plugin:11.2.4000.6:*:*:*:*:*:*:*",
+        "cpeNameId": "CE11FEA5-0E8A-4B01-AA91-42CDA7A24ACD",
+        "lastModified": "2021-04-14T15:26:21.620",
+        "created": "2012-05-08T13:50:41.707",
+        "titles": [
+          {
+            "title": "Ca Unicenter Dsm Agent + Basic Inventory Plugin 11.2.4000.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_dsm_agent_\\+_basic_inventory_plugin:11.2.4000.6:*:*:*:*:*:*:*",
+            "cpeNameId": "D4E2FE52-9E1F-4FBA-ABB8-4D0FED02D042"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_dsm_agent_\\+_basic_inventory_plugin:11.2.4000.6:*:*:*:*:*:*:*",
+      "title": "Ca Unicenter Dsm Agent + Basic Inventory Plugin 11.2.4000.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_dsm_agent_\\+_basic_inventory_plugin:11.2.4000.6:*:*:*:*:*:*:*"
+    }
+  ]
+}

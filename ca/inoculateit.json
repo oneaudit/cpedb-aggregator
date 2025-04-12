@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:inoculateit:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F54B0F49-936B-4CD3-8D39-90F41741D3FB",
+        "lastModified": "2021-04-09T16:57:52.110",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates InoculateIT",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:inoculateit:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BF574904-DA8B-45B6-A86C-AC9A20526806"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:inoculateit:4.53:*:*:*:*:*:*:*",
+        "cpeNameId": "F733B1AC-0023-43FC-8C16-59E931FD4F98",
+        "lastModified": "2021-04-09T16:58:28.097",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates InoculateIT 4.53",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:inoculateit:4.53:*:*:*:*:*:*:*",
+            "cpeNameId": "6D5A6B35-2C02-4837-80E6-15FDB3F914C3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:inoculateit:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "51C9A824-0D74-49DE-B0BF-D4F443CC61CE",
+        "lastModified": "2021-04-09T17:00:05.630",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates InoculateIT 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:inoculateit:6.0:*:*:*:*:*:*:*",
+            "cpeNameId": "8F529921-17A9-42B4-A12F-2805206AB489"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:inoculateit:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates InoculateIT",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:inoculateit:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:inoculateit:4.53:*:*:*:*:*:*:*",
+      "title": "Computer Associates InoculateIT 4.53",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:inoculateit:4.53:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:inoculateit:6.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates InoculateIT 6.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:inoculateit:6.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

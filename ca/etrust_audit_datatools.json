@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_audit_datatools:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FCF6E063-534C-4A50-954B-0E303DECFC2C",
+        "lastModified": "2021-04-09T13:54:57.567",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Audit DataTools",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_audit_datatools:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E4665AE2-6620-4E92-965C-55C2DFE6562B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_audit_datatools:1.5:sp2:*:*:*:*:*:*",
+        "cpeNameId": "34F14C2F-7EDC-4308-8B95-79B68A6133B2",
+        "lastModified": "2021-04-09T13:54:57.567",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Audit DataTools 1.5 SP2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_audit_datatools:1.5:sp2:*:*:*:*:*:*",
+            "cpeNameId": "B8F24FE4-BD09-4971-B5E2-082B6EB4D4E7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_audit_datatools:1.5:sp3:*:*:*:*:*:*",
+        "cpeNameId": "8194461F-372A-4E13-B151-AEFE3FEA7B26",
+        "lastModified": "2021-04-09T13:54:57.567",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Audit DataTools 1.5 SP3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_audit_datatools:1.5:sp3:*:*:*:*:*:*",
+            "cpeNameId": "F6BDE164-16B0-4FD8-9E5E-6220DFF926A8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_audit_datatools:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4C65107D-C070-476A-A16C-A9D98242CF1C",
+        "lastModified": "2021-04-09T13:54:57.567",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Audit DataTools r8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_audit_datatools:8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "A78E0432-2920-4913-88E0-FD25C73CEEFA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_audit_datatools:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Audit DataTools",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_audit_datatools:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_audit_datatools:1.5:sp2:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Audit DataTools 1.5 SP2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_audit_datatools:1.5:sp2:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_audit_datatools:1.5:sp3:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Audit DataTools 1.5 SP3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_audit_datatools:1.5:sp3:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_audit_datatools:8.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Audit DataTools r8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_audit_datatools:8.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

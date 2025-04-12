@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:igateway:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A679E897-DC48-47B2-93CF-8FA28ED4921A",
+        "lastModified": "2021-04-09T16:53:51.417",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates iGateway",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:igateway:-:*:*:*:*:*:*:*",
+            "cpeNameId": "ABF35EF3-962B-43C6-9256-2ABF222C36E4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:igateway:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "56DDB947-9B01-48F7-9D17-74F282078B47",
+        "lastModified": "2021-04-09T16:55:29.340",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates iGateway 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:igateway:3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "7F5B5620-847A-4A80-9FC1-17A1C6CD2D34"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:igateway:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8DF06B82-F4C1-4C89-8107-ABAA334776F2",
+        "lastModified": "2021-04-09T16:56:05.030",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates iGateway 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:igateway:4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "35284FBB-43FC-42FD-B89B-077A5646BBC8"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:igateway:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates iGateway",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:igateway:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:igateway:3.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates iGateway 3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:igateway:3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:igateway:4.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates iGateway 4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:igateway:4.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

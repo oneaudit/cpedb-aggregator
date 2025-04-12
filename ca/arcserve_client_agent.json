@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:arcserve_client_agent:_nil_:_nil_:windows:*:*:*:*:*",
+        "cpeNameId": "375BA5D3-35AB-426B-9F3A-F153D039518F",
+        "lastModified": "2009-03-05T17:19:19.437",
+        "created": "2009-01-28T17:03:41.053",
+        "titles": [
+          {
+            "title": "Computer Associates Client Agent Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ca:arcserve_client_agent:-:*:windows:*:*:*:*:*",
+            "cpeNameId": "488ABF3F-0179-4BAB-BF6D-B887E0B3FD8A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:arcserve_client_agent:-:*:windows:*:*:*:*:*",
+        "cpeNameId": "488ABF3F-0179-4BAB-BF6D-B887E0B3FD8A",
+        "lastModified": "2021-04-07T18:12:56.910",
+        "created": "2009-03-05T17:19:03.017",
+        "titles": [
+          {
+            "title": "Computer Associates Client Agent Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:arcserve_client_agent:-:*:windows:*:*:*:*:*",
+            "cpeNameId": "23615E8C-5AB8-4144-8BC3-D6303F3D1D5E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:arcserve_client_agent:_nil_:_nil_:windows:*:*:*:*:*",
+      "title": "Computer Associates Client Agent Windows",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ca:arcserve_client_agent:-:*:windows:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:arcserve_client_agent:-:*:windows:*:*:*:*:*",
+      "title": "Computer Associates Client Agent Windows",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:arcserve_client_agent:-:*:windows:*:*:*:*:*"
+    }
+  ]
+}

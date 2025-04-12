@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_arcserve_backup_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CCD0BB4B-54FA-4EC1-8075-74B8BA0F3470",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor ARCserve Backup Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_server:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E2D0CB6F-C736-4790-A2BB-79B74407A53D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_arcserve_backup_server:11.5:*:*:*:*:*:*:*",
+        "cpeNameId": "AF55332A-C236-4343-A7C8-F847C062E841",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor ARCserve Backup Server R11.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_server:11.5:*:*:*:*:*:*:*",
+            "cpeNameId": "B9CA8E73-313B-4BDB-B2BD-DE7D2698A75D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_arcserve_backup_server:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor ARCserve Backup Server",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_server:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_arcserve_backup_server:11.5:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor ARCserve Backup Server R11.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_server:11.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

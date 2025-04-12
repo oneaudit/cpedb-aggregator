@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_service_fulfillment:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A029D769-5A81-4217-800D-CF8EC0E9FD55",
+        "lastModified": "2021-04-14T15:40:52.937",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Service Fulfillment",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_service_fulfillment:-:*:*:*:*:*:*:*",
+            "cpeNameId": "2ECC2CD4-1136-4629-8629-1E65BED887FD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_service_fulfillment:2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "CE9D84DF-1AB7-4D84-BE30-D02067123194",
+        "lastModified": "2021-04-14T15:41:11.283",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Service Fulfillment 2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_service_fulfillment:2.2:*:*:*:*:*:*:*",
+            "cpeNameId": "EB53BA4C-DC3D-4AB9-AFBC-47271FB9913F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_service_fulfillment:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Service Fulfillment",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_service_fulfillment:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_service_fulfillment:2.2:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Service Fulfillment 2.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_service_fulfillment:2.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

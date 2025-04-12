@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:network_discovery_gateway:2.0.41.0:*:*:*:*:*:*:*",
+        "cpeNameId": "98752D90-2C15-4387-BEF1-1847F905A05D",
+        "lastModified": "2021-04-09T18:51:29.100",
+        "created": "2012-05-08T13:50:40.940",
+        "titles": [
+          {
+            "title": "Ca Network Discovery Gateway 2.0.41.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:network_discovery_gateway:2.0.41.0:*:*:*:*:*:*:*",
+            "cpeNameId": "8BB1C485-4911-4DD7-9BC2-40DC4E6BA100"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:network_discovery_gateway:2.5.1.117:*:*:*:*:*:*:*",
+        "cpeNameId": "AA7C36A9-A041-46F0-B21D-08D1B325F2E8",
+        "lastModified": "2021-04-09T18:51:29.100",
+        "created": "2012-05-08T13:50:41.130",
+        "titles": [
+          {
+            "title": "Ca Network Discovery Gateway 2.5.1.117",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:network_discovery_gateway:2.5.1.117:*:*:*:*:*:*:*",
+            "cpeNameId": "E86CA9BE-E282-4040-BC65-E6B38476F4FD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:network_discovery_gateway:2.0.41.0:*:*:*:*:*:*:*",
+      "title": "Ca Network Discovery Gateway 2.0.41.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:network_discovery_gateway:2.0.41.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:network_discovery_gateway:2.5.1.117:*:*:*:*:*:*:*",
+      "title": "Ca Network Discovery Gateway 2.5.1.117",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:network_discovery_gateway:2.5.1.117:*:*:*:*:*:*:*"
+    }
+  ]
+}

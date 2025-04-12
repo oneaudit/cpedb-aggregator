@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:mlink:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A7EA381E-D275-49BA-BED0-CF13ABD9D647",
+        "lastModified": "2021-04-09T17:45:27.317",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates CA-MLink",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:mlink:-:*:*:*:*:*:*:*",
+            "cpeNameId": "8EB0A28C-79AD-4C65-92CA-7261125A803B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:mlink:6.5:*:*:*:*:*:*:*",
+        "cpeNameId": "86586182-9FDE-4506-8A58-E1AA3831FFD8",
+        "lastModified": "2021-04-09T17:45:27.317",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates CA-MLink 6.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:mlink:6.5:*:*:*:*:*:*:*",
+            "cpeNameId": "C1F82FBA-C127-4BAF-955F-4B7FC6128539"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:mlink:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates CA-MLink",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:mlink:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:mlink:6.5:*:*:*:*:*:*:*",
+      "title": "Computer Associates CA-MLink 6.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:mlink:6.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

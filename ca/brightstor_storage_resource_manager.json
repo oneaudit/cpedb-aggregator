@@ -1,0 +1,141 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_storage_resource_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "91289A6C-BCBF-4D70-80B1-E838AA9CA1E4",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Storage Resource Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_storage_resource_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B222F18F-E0B2-4617-8263-DBF3646155A1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_storage_resource_manager:11.1:*:*:*:*:*:*:*",
+        "cpeNameId": "C692CCFF-CDB8-4A08-BB33-55A6FBEA05A6",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Storage Resource Manager 11.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_storage_resource_manager:11.1:*:*:*:*:*:*:*",
+            "cpeNameId": "C751EA8C-811B-4605-A93F-3E7EAD89173D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_storage_resource_manager:11.5:*:*:*:*:*:*:*",
+        "cpeNameId": "4C6033DC-B714-4F16-A79C-5ACBBB03F7A8",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Storage Resource Manager 11.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_storage_resource_manager:11.5:*:*:*:*:*:*:*",
+            "cpeNameId": "13933934-D101-4E10-982D-047082E6AE71"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_storage_resource_manager:6.3:*:*:*:*:*:*:*",
+        "cpeNameId": "5EECDF9F-9981-4A11-9512-5F64B335D0A4",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Storage Resource Manager 6.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_storage_resource_manager:6.3:*:*:*:*:*:*:*",
+            "cpeNameId": "3CF611B8-509A-4DD6-BC30-EB219649CDA2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_storage_resource_manager:6.4:*:*:*:*:*:*:*",
+        "cpeNameId": "7C04AD6A-E78B-4D05-93B3-101027B9DA82",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Storage Resource Manager 6.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_storage_resource_manager:6.4:*:*:*:*:*:*:*",
+            "cpeNameId": "F99B0840-CD12-4550-87A3-664DB5CC0F66"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_storage_resource_manager:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Storage Resource Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_storage_resource_manager:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_storage_resource_manager:11.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Storage Resource Manager 11.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_storage_resource_manager:11.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_storage_resource_manager:11.5:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Storage Resource Manager 11.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_storage_resource_manager:11.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_storage_resource_manager:6.3:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Storage Resource Manager 6.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_storage_resource_manager:6.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_storage_resource_manager:6.4:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Storage Resource Manager 6.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_storage_resource_manager:6.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

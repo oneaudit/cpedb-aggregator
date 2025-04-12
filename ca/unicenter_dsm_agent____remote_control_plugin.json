@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_dsm_agent_\\+_remote_control_plugin:11.2.4000.6:*:*:*:*:*:*:*",
+        "cpeNameId": "F1084DC9-AC44-4188-B2B0-226F8F9964C0",
+        "lastModified": "2021-04-14T15:26:56.683",
+        "created": "2012-05-08T13:50:41.897",
+        "titles": [
+          {
+            "title": "Ca Unicenter Dsm Agent + Remote Control Plugin 11.2.4000.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_dsm_agent_\\+_remote_control_plugin:11.2.4000.6:*:*:*:*:*:*:*",
+            "cpeNameId": "30849431-C48C-4E78-B014-0C6F2B71FC1C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_dsm_agent_\\+_remote_control_plugin:11.2.4000.6:*:*:*:*:*:*:*",
+      "title": "Ca Unicenter Dsm Agent + Remote Control Plugin 11.2.4000.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_dsm_agent_\\+_remote_control_plugin:11.2.4000.6:*:*:*:*:*:*:*"
+    }
+  ]
+}

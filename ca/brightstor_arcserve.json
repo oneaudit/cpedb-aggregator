@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_arcserve:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7167ECEE-B692-4F53-A3C6-851BF97718F1",
+        "lastModified": "2021-04-07T18:12:56.910",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor ARCserve",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_arcserve:-:*:*:*:*:*:*:*",
+            "cpeNameId": "C3CF7EEC-0DED-4AAD-A04D-C960D26E6661"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_arcserve:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor ARCserve",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_arcserve:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

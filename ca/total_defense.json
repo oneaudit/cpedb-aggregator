@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:total_defense:r12:*:*:*:*:*:*:*",
+        "cpeNameId": "627BE00D-54FA-419B-9315-C32C8F609547",
+        "lastModified": "2021-04-12T14:30:20.630",
+        "created": "2011-04-18T15:12:41.577",
+        "titles": [
+          {
+            "title": "Computer Associates Total Defense (TD) r12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:total_defense:r12:*:*:*:*:*:*:*",
+            "cpeNameId": "AB147C3F-AC5E-49C5-8D43-3A35CDC4D934"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:total_defense:r12:se2:*:*:*:*:*:*",
+        "cpeNameId": "D18B05AF-6A68-4DEF-83B4-4B11733DD153",
+        "lastModified": "2021-04-12T14:30:20.630",
+        "created": "2011-04-18T15:14:24.187",
+        "titles": [
+          {
+            "title": "Computer Associates Total Defense (TD) r12 SE2 (Sustenance Engineering)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:total_defense:r12:se2:*:*:*:*:*:*",
+            "cpeNameId": "E639702A-A6B7-40A7-A6C9-485F446F9E0F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:total_defense:r12:*:*:*:*:*:*:*",
+      "title": "Computer Associates Total Defense (TD) r12",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:total_defense:r12:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:total_defense:r12:se2:*:*:*:*:*:*",
+      "title": "Computer Associates Total Defense (TD) r12 SE2 (Sustenance Engineering)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:total_defense:r12:se2:*:*:*:*:*:*"
+    }
+  ]
+}

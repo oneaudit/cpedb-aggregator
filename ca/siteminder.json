@@ -1,0 +1,141 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:siteminder:12.0:sp3:cr01:*:*:*:*:*",
+        "cpeNameId": "81235786-45EA-49AD-830B-CB641E0BE427",
+        "lastModified": "2021-04-12T14:17:03.700",
+        "created": "2011-04-27T17:31:00.697",
+        "titles": [
+          {
+            "title": "Computer Associates (CA) SiteMinder 12.0 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:siteminder:12.0:sp3:cr01:*:*:*:*:*",
+            "cpeNameId": "7A0B2409-3071-4DEE-A021-51C0E5C03D00"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:siteminder:12.51:*:*:*:*:*:*:*",
+        "cpeNameId": "AB751A09-F8CB-4285-A5BA-2DEB739CCFD3",
+        "lastModified": "2021-04-12T14:17:03.700",
+        "created": "2013-10-29T18:49:39.130",
+        "titles": [
+          {
+            "title": "Computer Associates (CA) SiteMinder 12.51",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:siteminder:12.51:*:*:*:*:*:*:*",
+            "cpeNameId": "908215AC-C548-4F97-9636-F791BAA91172"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:siteminder:12.5:*:*:*:*:*:*:*",
+        "cpeNameId": "76B72C89-BA52-49C3-9C0B-C72A810009FB",
+        "lastModified": "2021-04-12T14:17:03.700",
+        "created": "2013-10-29T18:49:39.287",
+        "titles": [
+          {
+            "title": "Computer Associates (CA) SiteMinder 12.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:siteminder:12.5:*:*:*:*:*:*:*",
+            "cpeNameId": "8A51904A-A0BC-43CF-86EC-8A2CE2957160"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:siteminder:12.0:sp2:*:*:*:*:*:*",
+        "cpeNameId": "6F76E031-FA6E-4BA4-B6E5-68A65CB3E8BB",
+        "lastModified": "2021-04-12T14:17:03.700",
+        "created": "2013-10-29T18:49:39.817",
+        "titles": [
+          {
+            "title": "Computer Associates (CA) SiteMinder 12.0 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:siteminder:12.0:sp2:*:*:*:*:*:*",
+            "cpeNameId": "AC8442B2-04D2-4D9E-9B01-1F64495ACF39"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:siteminder:12.0:sp1:*:*:*:*:*:*",
+        "cpeNameId": "E6A23573-B5A7-4EB3-92FE-AB14BE76A265",
+        "lastModified": "2021-04-12T14:17:03.700",
+        "created": "2013-10-29T18:49:39.990",
+        "titles": [
+          {
+            "title": "Computer Associates (CA) SiteMinder 12.0 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:siteminder:12.0:sp1:*:*:*:*:*:*",
+            "cpeNameId": "8233D96F-075A-4B5C-A399-6363244DD9EF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:siteminder:12.0:sp3:cr01:*:*:*:*:*",
+      "title": "Computer Associates (CA) SiteMinder 12.0 Service Pack 3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:siteminder:12.0:sp3:cr01:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:siteminder:12.51:*:*:*:*:*:*:*",
+      "title": "Computer Associates (CA) SiteMinder 12.51",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:siteminder:12.51:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:siteminder:12.5:*:*:*:*:*:*:*",
+      "title": "Computer Associates (CA) SiteMinder 12.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:siteminder:12.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:siteminder:12.0:sp2:*:*:*:*:*:*",
+      "title": "Computer Associates (CA) SiteMinder 12.0 Service Pack 2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:siteminder:12.0:sp2:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:siteminder:12.0:sp1:*:*:*:*:*:*",
+      "title": "Computer Associates (CA) SiteMinder 12.0 Service Pack 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:siteminder:12.0:sp1:*:*:*:*:*:*"
+    }
+  ]
+}

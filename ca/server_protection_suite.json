@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:server_protection_suite:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7DBC4F44-C0EA-4CDE-B744-CDAB9562710A",
+        "lastModified": "2021-04-09T18:53:53.987",
+        "created": "2007-10-15T17:19:33.780",
+        "titles": [
+          {
+            "title": "Computer Associates Server Protection Suite",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:server_protection_suite:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F47F3AD9-0378-461A-8A16-450B48D928E9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:server_protection_suite:2:*:*:*:*:*:*:*",
+        "cpeNameId": "65861858-DBCE-451C-8354-E1C449A4724C",
+        "lastModified": "2021-04-09T18:53:53.987",
+        "created": "2007-10-15T17:19:48.860",
+        "titles": [
+          {
+            "title": "Computer Associates Server Protection Suite r2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:server_protection_suite:2:*:*:*:*:*:*:*",
+            "cpeNameId": "31322CA4-9B60-465D-9D81-194E494A21B6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:server_protection_suite:r2:*:*:*:*:*:*:*",
+        "cpeNameId": "7B0380F6-6EB7-4ECF-9123-96CB32D27E64",
+        "lastModified": "2021-04-09T18:53:53.987",
+        "created": "2008-10-15T14:49:14.307",
+        "titles": [
+          {
+            "title": "Computer Associates Server Protection Suite r2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:server_protection_suite:r2:*:*:*:*:*:*:*",
+            "cpeNameId": "9921DB0F-A49A-49D3-9185-E2DDB4F2DDA0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:server_protection_suite:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Server Protection Suite",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:server_protection_suite:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:server_protection_suite:2:*:*:*:*:*:*:*",
+      "title": "Computer Associates Server Protection Suite r2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:server_protection_suite:2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:server_protection_suite:r2:*:*:*:*:*:*:*",
+      "title": "Computer Associates Server Protection Suite r2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:server_protection_suite:r2:*:*:*:*:*:*:*"
+    }
+  ]
+}

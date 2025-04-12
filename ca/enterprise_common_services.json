@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:enterprise_common_services:8.2.9.92:*:*:*:*:*:*:*",
+        "cpeNameId": "ADDEE1DB-19D1-4791-A37B-FF6F61BC64ED",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2012-05-08T13:50:35.503",
+        "titles": [
+          {
+            "title": "Ca Enterprise Common Services 8.2.9.92",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:enterprise_common_services:8.2.9.92:*:*:*:*:*:*:*",
+            "cpeNameId": "FD5B9C4D-D29D-4C2D-891B-4C92F2C0F766"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:enterprise_common_services:8.3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "D552E47A-5D97-4090-AA28-E44793008E50",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2012-05-08T13:50:35.690",
+        "titles": [
+          {
+            "title": "Ca Enterprise Common Services 8.3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:enterprise_common_services:8.3.5:*:*:*:*:*:*:*",
+            "cpeNameId": "B1008001-BCA0-4EB5-8FFE-C4AC84493BC2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:enterprise_common_services:8.2.9.92:*:*:*:*:*:*:*",
+      "title": "Ca Enterprise Common Services 8.2.9.92",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:enterprise_common_services:8.2.9.92:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:enterprise_common_services:8.3.5:*:*:*:*:*:*:*",
+      "title": "Ca Enterprise Common Services 8.3.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:enterprise_common_services:8.3.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_tng:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FDA77CAB-1703-4D05-991B-D99008624B7B",
+        "lastModified": "2021-04-14T15:45:09.340",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter TNG",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_tng:-:*:*:*:*:*:*:*",
+            "cpeNameId": "FCDD6341-0F1A-4A9D-8862-DDF6CB510B3C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_tng:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "6638F16C-7EF8-4B79-B94A-FEF587FEFB81",
+        "lastModified": "2021-04-14T15:45:25.903",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter TNG 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_tng:2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "C589E331-24D2-4254-AB59-BEB94F282EB7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_tng:2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "9240341B-2C0A-44CF-A957-7CBE048DA485",
+        "lastModified": "2021-04-14T15:45:44.690",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter TNG 2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_tng:2.2:*:*:*:*:*:*:*",
+            "cpeNameId": "D66C0639-3BE1-4E45-B1CB-1C7CBC039915"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_tng:2.4:*:*:*:*:*:*:*",
+        "cpeNameId": "777DB540-376F-4585-92D9-CEF1080F6109",
+        "lastModified": "2021-04-14T15:46:05.100",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter TNG 2.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_tng:2.4:*:*:*:*:*:*:*",
+            "cpeNameId": "5AB85126-1BC0-4CE7-B190-CF6A2A71D971"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_tng:2.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "2245214E-93BE-4D79-9C6D-15E67DD43FBE",
+        "lastModified": "2021-04-14T15:46:23.177",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter TNG 2.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_tng:2.4.2:*:*:*:*:*:*:*",
+            "cpeNameId": "270D7D5C-9157-4BF4-9A75-C3D33B3DF229"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_tng:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter TNG",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_tng:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_tng:2.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter TNG 2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_tng:2.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_tng:2.2:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter TNG 2.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_tng:2.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_tng:2.4:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter TNG 2.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_tng:2.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_tng:2.4.2:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter TNG 2.4.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_tng:2.4.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

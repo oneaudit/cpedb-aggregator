@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_mq_management:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9462CAB2-9C48-44D5-958C-BA7978AB9F91",
+        "lastModified": "2021-04-14T15:32:44.057",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter MQ Management",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_mq_management:-:*:*:*:*:*:*:*",
+            "cpeNameId": "C0688C0B-9087-45C1-B525-818BB868514C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_mq_management:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter MQ Management",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_mq_management:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

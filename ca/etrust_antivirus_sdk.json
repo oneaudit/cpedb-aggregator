@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_antivirus_sdk:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5F6E6C90-9998-4B14-AA52-CB7D543D0E57",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Anti-Virus SDK",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_antivirus_sdk:-:*:*:*:*:*:*:*",
+            "cpeNameId": "EF896C3D-3562-4C0C-B03E-456796BD14B5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_antivirus_sdk:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Anti-Virus SDK",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_antivirus_sdk:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

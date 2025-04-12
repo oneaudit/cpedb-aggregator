@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:network_and_systems_management:r11:*:*:*:*:*:*:*",
+        "cpeNameId": "B11D5BD8-983D-4DA5-A338-B9CFBC270FF0",
+        "lastModified": "2021-04-09T18:50:27.237",
+        "created": "2009-01-28T17:03:41.850",
+        "titles": [
+          {
+            "title": "Computer Associates Network and Systems Management r11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:network_and_systems_management:r11:*:*:*:*:*:*:*",
+            "cpeNameId": "A8ABBA86-0BED-42D1-9A81-965A7F9BEEC4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:network_and_systems_management:r11.1:*:*:*:*:*:*:*",
+        "cpeNameId": "BB1A4811-CC72-4ABC-A192-75ABCC858E91",
+        "lastModified": "2021-04-09T18:50:27.237",
+        "created": "2009-01-28T17:03:41.930",
+        "titles": [
+          {
+            "title": "Computer Associates Network and Systems Management r11.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:network_and_systems_management:r11.1:*:*:*:*:*:*:*",
+            "cpeNameId": "8542B445-85B4-46EE-8131-3636F32F6702"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:network_and_systems_management:r3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1FCB2803-230E-4D8E-A00B-F5437BE56C85",
+        "lastModified": "2021-04-09T18:50:27.237",
+        "created": "2009-01-28T17:03:42.023",
+        "titles": [
+          {
+            "title": "Computer Associates Network and Systems Management r3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:network_and_systems_management:r3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "5374D7CB-603F-481D-B282-D5A58091A1A9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:network_and_systems_management:r3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "1F41D115-C842-449F-BBEF-C90DEBAD221E",
+        "lastModified": "2021-04-09T18:50:27.237",
+        "created": "2009-01-28T17:03:42.133",
+        "titles": [
+          {
+            "title": "Computer Associates Network and Systems Management r3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:network_and_systems_management:r3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "9DF98214-26E5-48DC-A288-88F4F9D10893"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:network_and_systems_management:r11:*:*:*:*:*:*:*",
+      "title": "Computer Associates Network and Systems Management r11",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:network_and_systems_management:r11:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:network_and_systems_management:r11.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Network and Systems Management r11.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:network_and_systems_management:r11.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:network_and_systems_management:r3.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Network and Systems Management r3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:network_and_systems_management:r3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:network_and_systems_management:r3.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Network and Systems Management r3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:network_and_systems_management:r3.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:desktop_management_suite:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6F67A0F2-AFB7-4B7C-B45C-F93993E9CF8F",
+        "lastModified": "2021-04-08T13:30:25.160",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Desktop Management Suite",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:desktop_management_suite:-:*:*:*:*:*:*:*",
+            "cpeNameId": "AC7021BB-FA98-4444-B18C-F5F7B1B96992"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:desktop_management_suite:11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F8FDAC6A-5B8D-49CA-A512-F6C9A7E39061",
+        "lastModified": "2021-04-08T13:30:25.160",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Desktop Management Suite 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:desktop_management_suite:11.0:*:*:*:*:*:*:*",
+            "cpeNameId": "1AEC0F6E-0971-453A-BD6A-076DF257DF62"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:desktop_management_suite:11.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0FCAB905-73B2-4F21-930F-B9AACFB19B22",
+        "lastModified": "2021-04-08T13:30:25.160",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Desktop Management Suite 11.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:desktop_management_suite:11.1:*:*:*:*:*:*:*",
+            "cpeNameId": "83B9516A-5C4D-4D34-8A69-02E47D2FA804"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:desktop_management_suite:11.2:*:*:*:*:*:*:*",
+        "cpeNameId": "2FC4A3E3-FD29-49D6-B7F0-A0DF7903C941",
+        "lastModified": "2021-04-08T13:30:25.160",
+        "created": "2007-10-02T13:32:28.727",
+        "titles": [
+          {
+            "title": "Computer Associates Desktop Management Suite 11.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:desktop_management_suite:11.2:*:*:*:*:*:*:*",
+            "cpeNameId": "7BB11E1B-441A-40EE-9257-AA47559DC1F5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:desktop_management_suite:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Desktop Management Suite",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:desktop_management_suite:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:desktop_management_suite:11.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Desktop Management Suite 11.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:desktop_management_suite:11.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:desktop_management_suite:11.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates Desktop Management Suite 11.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:desktop_management_suite:11.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:desktop_management_suite:11.2:*:*:*:*:*:*:*",
+      "title": "Computer Associates Desktop Management Suite 11.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:desktop_management_suite:11.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

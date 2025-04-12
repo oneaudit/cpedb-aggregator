@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_antivirus_gateway:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CE647D0D-A112-462C-9EA3-094A61EEACC4",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates etrust Antivirus Gateway",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_antivirus_gateway:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0D8D9387-CC35-4C14-83A9-1D8E05E6222A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_antivirus_gateway:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4767A448-160E-4885-9721-C6EB45A78D00",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates etrust Antivirus Gateway 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_antivirus_gateway:7.1:*:*:*:*:*:*:*",
+            "cpeNameId": "0AF718C6-9DE7-4C5B-82A0-28C3265CCB02"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:etrust_antivirus_gateway:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "885CED25-AB48-4868-8DEC-E8C240E04866",
+        "lastModified": "2021-04-09T13:51:27.590",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates eTrust Antivirus Gateway 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:etrust_antivirus_gateway:7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "331A94B1-EEA6-4EF2-AD38-EDE1240982CD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:etrust_antivirus_gateway:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates etrust Antivirus Gateway",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_antivirus_gateway:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_antivirus_gateway:7.1:*:*:*:*:*:*:*",
+      "title": "Computer Associates etrust Antivirus Gateway 7.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_antivirus_gateway:7.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:etrust_antivirus_gateway:7.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates eTrust Antivirus Gateway 7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:etrust_antivirus_gateway:7.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

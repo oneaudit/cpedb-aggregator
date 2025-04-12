@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brigthstor_arcserve_client_for_windows:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AEFBD04C-5C82-4F33-8441-06B3D2EF97DA",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates BrigthStor ARCserve Client for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brigthstor_arcserve_client_for_windows:-:*:*:*:*:*:*:*",
+            "cpeNameId": "88CAE227-C7D2-4B98-9513-7E296D14F2F0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brigthstor_arcserve_client_for_windows:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrigthStor ARCserve Client for Windows",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brigthstor_arcserve_client_for_windows:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

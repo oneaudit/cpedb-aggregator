@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_hierarchical_storage_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "07C56D72-4D36-48FB-B203-358A3471A4E9",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-10-02T13:57:57.330",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Hierarchical Storage Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_hierarchical_storage_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "679C7D5A-1925-4389-96FA-81C859F6A605"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:brightstor_hierarchical_storage_manager:11.5:*:*:*:*:*:*:*",
+        "cpeNameId": "7DDD4FCF-13BD-4BE8-8589-7AA5D2CC7A95",
+        "lastModified": "2021-04-07T18:19:43.023",
+        "created": "2007-10-02T13:58:32.007",
+        "titles": [
+          {
+            "title": "Computer Associates BrightStor Hierarchical Storage Manager r11.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:brightstor_hierarchical_storage_manager:11.5:*:*:*:*:*:*:*",
+            "cpeNameId": "754E3E91-A915-4DE5-B254-76E42E584D83"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:brightstor_hierarchical_storage_manager:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Hierarchical Storage Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_hierarchical_storage_manager:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:brightstor_hierarchical_storage_manager:11.5:*:*:*:*:*:*:*",
+      "title": "Computer Associates BrightStor Hierarchical Storage Manager r11.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:brightstor_hierarchical_storage_manager:11.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

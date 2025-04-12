@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_asset_portfolio_management:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1A12DF5C-EB7D-471D-A945-091B1E477455",
+        "lastModified": "2021-04-12T14:33:18.253",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Asset Portfolio Management",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_asset_portfolio_management:-:*:*:*:*:*:*:*",
+            "cpeNameId": "134C53EC-1872-4884-924E-F847BEAD3859"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:unicenter_asset_portfolio_management:11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1780B769-DF4F-4F60-9100-51C122367B99",
+        "lastModified": "2021-04-12T14:33:18.253",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Computer Associates Unicenter Asset Portfolio Management 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:unicenter_asset_portfolio_management:11.0:*:*:*:*:*:*:*",
+            "cpeNameId": "CB46ABED-1F84-47F9-ADFF-6C963CCF5984"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:unicenter_asset_portfolio_management:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Asset Portfolio Management",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_asset_portfolio_management:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:unicenter_asset_portfolio_management:11.0:*:*:*:*:*:*:*",
+      "title": "Computer Associates Unicenter Asset Portfolio Management 11.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:unicenter_asset_portfolio_management:11.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

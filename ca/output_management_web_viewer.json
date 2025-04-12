@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:output_management_web_viewer:11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "9B3B6046-7958-42D3-A0CE-29598FFC94D6",
+        "lastModified": "2021-04-09T18:51:29.100",
+        "created": "2011-04-27T17:34:50.277",
+        "titles": [
+          {
+            "title": "CA Output Management Web Viewer 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:output_management_web_viewer:11.0:*:*:*:*:*:*:*",
+            "cpeNameId": "CA3B3D48-3998-4B2C-8A92-8EC5FAFE73FE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ca:output_management_web_viewer:11.5:*:*:*:*:*:*:*",
+        "cpeNameId": "A465E1FE-66FE-43C8-B3E6-E945E9F420C0",
+        "lastModified": "2021-04-09T18:51:29.100",
+        "created": "2011-04-27T17:34:50.353",
+        "titles": [
+          {
+            "title": "CA Output Management Web Viewer 11.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:output_management_web_viewer:11.5:*:*:*:*:*:*:*",
+            "cpeNameId": "B57C2167-0013-403A-B938-58A389C98E7C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ca:output_management_web_viewer:11.0:*:*:*:*:*:*:*",
+      "title": "CA Output Management Web Viewer 11.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:output_management_web_viewer:11.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ca:output_management_web_viewer:11.5:*:*:*:*:*:*:*",
+      "title": "CA Output Management Web Viewer 11.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:output_management_web_viewer:11.5:*:*:*:*:*:*:*"
+    }
+  ]
+}
