@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:apache:qpid_java:6.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "3D448E3E-B045-4488-B91C-002DDF72F2A7",
+        "lastModified": "2023-05-22T14:42:56.190",
+        "created": "2016-09-01T18:52:46.297",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Qpid Java 6.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apache:qpid_broker-j:6.0.2:*:*:*:*:*:*:*",
+            "cpeNameId": "C0F3564A-BAF6-40A3-99EE-69B675E4CAD2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apache:qpid_java:6.0.2:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Qpid Java 6.0.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apache:qpid_broker-j:6.0.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apache:coyote_http_connector:-:*:*:*:*:*:*:*",
+        "cpeNameId": "160CA1AB-A636-4122-ADE4-46E5911F9A4D",
+        "lastModified": "2008-04-14T17:56:48.813",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Coyote",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apache:coyote_http_connector:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "28C202E8-8174-4A3F-B360-79214C61ACDA",
+        "lastModified": "2008-04-07T13:40:39.590",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Coyote 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apache:coyote_http_connector:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "5B3CF076-230D-4ADB-9B9B-7D357D4728E2",
+        "lastModified": "2008-04-07T13:40:39.747",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Coyote 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apache:coyote_http_connector:-:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Coyote",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apache:coyote_http_connector:1.0:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Coyote 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apache:coyote_http_connector:1.1:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Coyote 1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

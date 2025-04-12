@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ariadne-cms:ariadne:2.7.6:*:*:*:*:*:*:*",
+        "cpeNameId": "5608A55D-B9F8-4B88-A1A3-FCCF3617ED5B",
+        "lastModified": "2020-02-28T22:07:46.697",
+        "created": "2020-02-28T22:06:30.117",
+        "titles": [
+          {
+            "title": "Ariadne-CMS Ariadne 2.7.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:muze:ariadne:2.7.6:*:*:*:*:*:*:*",
+            "cpeNameId": "91CE1802-EEB2-4328-8761-43DE73540DC0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ariadne-cms:ariadne:2.7.6:*:*:*:*:*:*:*",
+      "title": "Ariadne-CMS Ariadne 2.7.6",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:muze:ariadne:2.7.6:*:*:*:*:*:*:*"
+    }
+  ]
+}

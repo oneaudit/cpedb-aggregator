@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:appnitro:machform:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6D5DEE35-7F87-440D-B925-C1E08D2E62DF",
+        "lastModified": "2021-07-01T12:25:42.800",
+        "created": "2013-07-30T15:37:05.153",
+        "titles": [
+          {
+            "title": "appnitro Machform 2.0 (2)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:machform:machform:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "DF0A1936-076B-4AF6-A7BC-B9C638A5CC0E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:appnitro:machform:3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "835019F3-3CA1-4425-9EE6-5A5C7DDAE61B",
+        "lastModified": "2021-07-01T12:25:42.800",
+        "created": "2013-07-30T15:37:05.250",
+        "titles": [
+          {
+            "title": "appnitro Machform 3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:machform:machform:3.5:*:*:*:*:*:*:*",
+            "cpeNameId": "825F027E-CE42-486E-81DF-C6DC1A7E96B3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:appnitro:machform:4.2.3:*:*:*:*:*:*:*",
+        "cpeNameId": "5F45BC6B-2C75-4A37-B869-5838549D7568",
+        "lastModified": "2021-07-01T12:25:42.800",
+        "created": "2019-08-01T14:37:40.087",
+        "titles": [
+          {
+            "title": "appnitro MachForm 4.2.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:machform:machform:4.2.3:*:*:*:*:*:*:*",
+            "cpeNameId": "96F23A04-AB97-4092-9B03-09637951BFBC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:appnitro:machform:2.0:*:*:*:*:*:*:*",
+      "title": "appnitro Machform 2.0 (2)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:machform:machform:2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:appnitro:machform:3.5:*:*:*:*:*:*:*",
+      "title": "appnitro Machform 3.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:machform:machform:3.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:appnitro:machform:4.2.3:*:*:*:*:*:*:*",
+      "title": "appnitro MachForm 4.2.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:machform:machform:4.2.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

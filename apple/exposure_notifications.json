@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:exposure_notifications:-:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "9C2B02C0-FC93-4648-B6E3-2B01CD5FE81B",
+        "lastModified": "2020-11-06T12:10:19.460",
+        "created": "2020-11-06T12:10:19.460",
+        "titles": [
+          {
+            "title": "Apple Exposure Notifications for iPhone OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:exposure_notifications:1.5:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "76A49388-EA16-42FB-BAF5-B430F3E9B62F",
+        "lastModified": "2020-11-06T12:10:19.867",
+        "created": "2020-11-06T12:10:19.867",
+        "titles": [
+          {
+            "title": "Apple Exposure Notifications 1.5 for iPhone OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apple:exposure_notifications:-:*:*:*:*:iphone_os:*:*",
+      "title": "Apple Exposure Notifications for iPhone OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apple:exposure_notifications:1.5:*:*:*:*:iphone_os:*:*",
+      "title": "Apple Exposure Notifications 1.5 for iPhone OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

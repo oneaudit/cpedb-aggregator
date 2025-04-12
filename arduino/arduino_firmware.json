@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:arduino:arduino_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "95B0705D-C759-429B-A5A7-CE0E25C97CC5",
+        "lastModified": "2021-06-15T17:33:23.077",
+        "created": "2019-07-23T16:44:33.073",
+        "titles": [
+          {
+            "title": "Arduino Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:arduino:arduino_firmware:rev3:*:*:*:*:*:*:*",
+        "cpeNameId": "C746AC0F-2CB0-47BB-9BC4-684D05DA5250",
+        "lastModified": "2021-06-15T17:33:23.077",
+        "created": "2019-07-23T16:44:33.073",
+        "titles": [
+          {
+            "title": "Arduino Firmware Rev3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:arduino:arduino_firmware:-:*:*:*:*:*:*:*",
+      "title": "Arduino Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:arduino:arduino_firmware:rev3:*:*:*:*:*:*:*",
+      "title": "Arduino Firmware Rev3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apache:jena_sdb:3.17.0:*:*:*:*:*:*:*",
+        "cpeNameId": "839D2AAA-97A5-4DE9-9A40-1AEA01830E92",
+        "lastModified": "2022-11-16T14:23:12.550",
+        "created": "2022-11-15T19:37:03.117",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Jena SDB 3.17.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apache:jena_sdb:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1F425864-E23C-4D4B-B6B1-22D03FE9665C",
+        "lastModified": "2022-11-16T14:23:12.550",
+        "created": "2022-11-15T19:37:03.117",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Jena SDB",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apache:jena_sdb:3.17.0:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Jena SDB 3.17.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apache:jena_sdb:-:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Jena SDB",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

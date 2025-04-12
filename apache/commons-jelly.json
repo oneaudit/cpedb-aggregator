@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:apache:commons-jelly:1.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "51AF3802-0B2B-4B99-80CF-B90D5FF7759F",
+        "lastModified": "2023-02-06T23:09:11.063",
+        "created": "2019-06-21T18:16:11.560",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Commons Jelly 1.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apache:commons_jelly:1.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "A007D423-0B95-40A6-82E6-837B90214ED5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apache:commons-jelly:1.0.1:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Commons Jelly 1.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apache:commons_jelly:1.0.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

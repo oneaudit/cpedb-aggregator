@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:arista:c-260_firmware:10.0.1-31:*:*:*:*:*:*:*",
+        "cpeNameId": "80624875-F191-4101-9A48-35927897664C",
+        "lastModified": "2021-12-03T19:12:53.700",
+        "created": "2021-11-30T14:33:07.220",
+        "titles": [
+          {
+            "title": "Arista C-260 Firmware 10.0.1-31",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:arista:c-260_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "87CBC2E5-F81E-474A-A36C-CDB320E96BB2",
+        "lastModified": "2021-12-03T19:12:53.700",
+        "created": "2021-11-30T14:33:07.220",
+        "titles": [
+          {
+            "title": "Arista C-260 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:arista:c-260_firmware:10.0.1-31:*:*:*:*:*:*:*",
+      "title": "Arista C-260 Firmware 10.0.1-31",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:arista:c-260_firmware:-:*:*:*:*:*:*:*",
+      "title": "Arista C-260 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

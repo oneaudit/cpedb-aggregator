@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:apple:a_ux:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BCEA12D4-B57E-4001-AC6B-9D805B677705",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Apple A_UX",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:apple:a_ux:3.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "75FBB218-A8EE-4BCF-A5F2-EEF03925FD2A",
+        "lastModified": "2009-03-04T13:01:49.360",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Apple A/UX 3.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:apple:a_ux:2.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "188C5776-B68B-4840-9985-D03579E7F641",
+        "lastModified": "2008-04-01T15:04:05.493",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM A_UX 2.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:apple:a_ux:-:*:*:*:*:*:*:*",
+      "title": "Apple A_UX",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:apple:a_ux:3.1.1:*:*:*:*:*:*:*",
+      "title": "Apple A/UX 3.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:apple:a_ux:2.0.1:*:*:*:*:*:*:*",
+      "title": "IBM A_UX 2.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

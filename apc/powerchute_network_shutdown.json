@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apc:powerchute_network_shutdown:-:*:*:*:*:*:*:*",
+        "cpeNameId": "282D00DB-ADDC-4D05-AC18-BB036D047B7E",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "APC PowerChute Network Shutdown",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apc:powerchute_network_shutdown:3.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B94BACBB-691F-4DFE-A93A-6CCD09A78EB0",
+        "lastModified": "2012-04-24T23:22:54.310",
+        "created": "2012-04-24T23:22:54.310",
+        "titles": [
+          {
+            "title": "Apc Powerchute Network Shutdown 3.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apc:powerchute_network_shutdown:-:*:*:*:*:*:*:*",
+      "title": "APC PowerChute Network Shutdown",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apc:powerchute_network_shutdown:3.0.0:*:*:*:*:*:*:*",
+      "title": "Apc Powerchute Network Shutdown 3.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

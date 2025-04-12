@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:apple:ipad_mini-:-:*:*:*:*:*:*:*",
+        "cpeNameId": "09F16AAB-013E-4E93-A08C-C11840137777",
+        "lastModified": "2013-06-07T18:31:14.753",
+        "created": "2013-04-24T13:01:55.513",
+        "titles": [
+          {
+            "title": "Apple iPad Mini",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:apple:ipad_mini:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A744FB9B-C7F3-44F4-8A55-28CF64E83525"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:apple:ipad_mini-:-:*:*:*:*:*:*:*",
+      "title": "Apple iPad Mini",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:apple:ipad_mini:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

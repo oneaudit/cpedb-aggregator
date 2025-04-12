@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apc:switched_rack_pdu_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6CC41949-AE1D-4541-BF90-F942C425287D",
+        "lastModified": "2008-04-01T14:36:23.730",
+        "created": "2007-12-04T19:29:27.327",
+        "titles": [
+          {
+            "title": "APC Rack Power Distribution Unit",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apc:switched_rack_pdu_firmware:3.5.5:*:*:*:*:*:*:*",
+        "cpeNameId": "5221486E-2CFB-4492-BC59-53E18FAD673B",
+        "lastModified": "2008-04-01T14:36:23.777",
+        "created": "2007-12-04T19:30:37.273",
+        "titles": [
+          {
+            "title": "APC Rack Power Distribution Unit 3.5.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apc:switched_rack_pdu_firmware:-:*:*:*:*:*:*:*",
+      "title": "APC Rack Power Distribution Unit",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apc:switched_rack_pdu_firmware:3.5.5:*:*:*:*:*:*:*",
+      "title": "APC Rack Power Distribution Unit 3.5.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

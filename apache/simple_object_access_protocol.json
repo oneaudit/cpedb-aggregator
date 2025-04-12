@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:apache:simple_object_access_protocol:2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "B9E02A31-CA5D-4285-BFB2-1E1077F0F900",
+        "lastModified": "2023-03-07T22:11:07.440",
+        "created": "2022-09-23T13:59:56.407",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Simple Object Access Protocol (SOAP) 2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apache:soap:2.2:*:*:*:*:*:*:*",
+            "cpeNameId": "26A18713-B8C4-46F3-832F-607A0C48C79E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apache:simple_object_access_protocol:2.2:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Simple Object Access Protocol (SOAP) 2.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apache:soap:2.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

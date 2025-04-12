@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apache:mod_auth_radius:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3635036A-6319-4F04-BD9C-2555DF3BA130",
+        "lastModified": "2008-03-25T18:12:07.733",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Apache Software Foundation mod_auth_radius",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apache:mod_auth_radius:1.5.4:*:*:*:*:*:*:*",
+        "cpeNameId": "270D4A24-7A5B-4296-B9C5-F3CD03A231D3",
+        "lastModified": "2008-03-25T18:12:07.797",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Apache Software Foundation mod_auth_radius 1.5.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apache:mod_auth_radius:-:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation mod_auth_radius",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apache:mod_auth_radius:1.5.4:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation mod_auth_radius 1.5.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

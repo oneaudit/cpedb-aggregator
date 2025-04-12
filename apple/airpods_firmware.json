@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:apple:airpods_firmware:5e133:*:*:*:*:*:*:*",
+        "cpeNameId": "F243F1B2-F727-4E5D-A477-044CD9501FF8",
+        "lastModified": "2023-08-30T11:38:26.980",
+        "created": "2023-06-28T13:00:39.870",
+        "titles": [
+          {
+            "title": "Apple AirPods Firmware 5E133",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:apple:airpods_firmware:6a326:*:*:*:*:*:*:*",
+        "cpeNameId": "416EE6B0-FDAF-41E5-80F0-AA3267650B0B",
+        "lastModified": "2024-12-17T13:44:36.427",
+        "created": "2024-12-17T13:44:36.427",
+        "titles": [
+          {
+            "title": "Apple AirPods Firmware 6A326",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:apple:airpods_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "18D56A58-F729-4F38-809A-2D16688CA068",
+        "lastModified": "2024-12-17T13:44:36.427",
+        "created": "2024-12-17T13:44:36.427",
+        "titles": [
+          {
+            "title": "Apple AirPods Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:apple:airpods_firmware:5e133:*:*:*:*:*:*:*",
+      "title": "Apple AirPods Firmware 5E133",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:apple:airpods_firmware:6a326:*:*:*:*:*:*:*",
+      "title": "Apple AirPods Firmware 6A326",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:apple:airpods_firmware:-:*:*:*:*:*:*:*",
+      "title": "Apple AirPods Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

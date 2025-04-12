@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:appgate:software_defined_perimeter:6.4.2:*:*:*:*:macos:*:*",
+        "cpeNameId": "5F1B76DC-66D3-4989-8274-793A98B7441E",
+        "lastModified": "2025-01-16T18:23:36.367",
+        "created": "2025-01-16T18:23:36.367",
+        "titles": [
+          {
+            "title": "Appgate Software Defined Perimeter (SDP) 6.4.2 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:appgate:software_defined_perimeter:6.4.2:*:*:*:*:windows:*:*",
+        "cpeNameId": "1038F951-8534-4771-B090-0CF248C0F5A8",
+        "lastModified": "2025-01-16T18:23:36.367",
+        "created": "2025-01-16T18:23:36.367",
+        "titles": [
+          {
+            "title": "Appgate Software Defined Perimeter (SDP) 6.4.2 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:appgate:software_defined_perimeter:6.4.2:*:*:*:*:macos:*:*",
+      "title": "Appgate Software Defined Perimeter (SDP) 6.4.2 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:appgate:software_defined_perimeter:6.4.2:*:*:*:*:windows:*:*",
+      "title": "Appgate Software Defined Perimeter (SDP) 6.4.2 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

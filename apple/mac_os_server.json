@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:apple:mac_os_server:9:*:*:*:*:*:*:*",
+        "cpeNameId": "A514242E-DD83-41EA-9111-B98CEF5C84D6",
+        "lastModified": "2008-04-15T22:37:33.443",
+        "created": "2008-04-15T22:37:33.443",
+        "titles": [
+          {
+            "title": "Apple Mac OS Server 9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:apple:mac_os_server:5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "491B6123-16F6-4EFD-8C16-925600CD569D",
+        "lastModified": "2021-05-23T01:13:32.070",
+        "created": "2017-04-07T16:01:31.650",
+        "titles": [
+          {
+            "title": "Apple macOS Server 5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:apple:mac_os_server:9:*:*:*:*:*:*:*",
+      "title": "Apple Mac OS Server 9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:apple:mac_os_server:5.2:*:*:*:*:*:*:*",
+      "title": "Apple macOS Server 5.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

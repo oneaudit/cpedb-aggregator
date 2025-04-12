@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:arista:c-130_firmware:11.0.0-36:*:*:*:*:*:*:*",
+        "cpeNameId": "18AAB5A5-61CF-4330-A5F8-7277E2B47741",
+        "lastModified": "2021-12-03T19:12:53.700",
+        "created": "2021-11-30T19:00:57.420",
+        "titles": [
+          {
+            "title": "Arista C-130 Firmware 11.0.0-36",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:arista:c-130_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A5C1A7FE-5996-4977-B71B-EC5A56619F1D",
+        "lastModified": "2021-12-03T19:12:53.700",
+        "created": "2021-11-30T19:00:57.420",
+        "titles": [
+          {
+            "title": "Arista C-130 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:arista:c-130_firmware:11.0.0-36:*:*:*:*:*:*:*",
+      "title": "Arista C-130 Firmware 11.0.0-36",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:arista:c-130_firmware:-:*:*:*:*:*:*:*",
+      "title": "Arista C-130 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

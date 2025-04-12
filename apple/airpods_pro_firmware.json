@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:apple:airpods_pro_firmware:6f8:*:*:*:*:*:*:*",
+        "cpeNameId": "788A7CD8-21D5-4D6A-A6D4-E644C73E0DE1",
+        "lastModified": "2024-12-17T13:44:36.427",
+        "created": "2024-12-17T13:44:36.427",
+        "titles": [
+          {
+            "title": "Apple AirPods Pro Firmware 6F8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:apple:airpods_pro_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C176A155-5FAB-4644-92A5-18C79DB7D3AA",
+        "lastModified": "2024-12-17T13:44:36.427",
+        "created": "2024-12-17T13:44:36.427",
+        "titles": [
+          {
+            "title": "Apple AirPods Pro Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:apple:airpods_pro_firmware:6f8:*:*:*:*:*:*:*",
+      "title": "Apple AirPods Pro Firmware 6F8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:apple:airpods_pro_firmware:-:*:*:*:*:*:*:*",
+      "title": "Apple AirPods Pro Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

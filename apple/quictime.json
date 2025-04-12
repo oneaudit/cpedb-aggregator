@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:apple:quictime:7.7.4:*:*:*:*:*:*:*",
+        "cpeNameId": "B6CA2B7D-C015-41FB-B54D-5FF2DB211CF4",
+        "lastModified": "2015-09-30T16:55:32.057",
+        "created": "2013-12-27T15:26:36.657",
+        "titles": [
+          {
+            "title": "Apple QuickTime 7.7.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apple:quicktime:7.7.4:*:*:*:*:*:*:*",
+            "cpeNameId": "6D7DFB13-D8D6-4DDD-A377-BE9B160BB061"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apple:quictime:7.7.4:*:*:*:*:*:*:*",
+      "title": "Apple QuickTime 7.7.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apple:quicktime:7.7.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:apc:2200:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B87E48A2-A9EE-430A-9E6D-6E5364E5A262",
+        "lastModified": "2016-03-30T14:19:32.250",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "APC 2200 KvA",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:apc:smart-ups_2200:-:*:*:*:*:*:*:*",
+            "cpeNameId": "726B6343-E86A-4F21-9241-4CA9D7FDF655"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:apc:2200:-:*:*:*:*:*:*:*",
+      "title": "APC 2200 KvA",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:apc:smart-ups_2200:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

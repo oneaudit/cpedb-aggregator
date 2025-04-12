@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:apache_friends:xampp:-:*:*:*:*:*:*:*",
+        "cpeNameId": "ADCD509B-7038-4B4D-8B47-A151A0EB4988",
+        "lastModified": "2020-05-06T13:56:59.413",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Apache Friends XAMPP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apachefriends:xampp:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F5189734-89EB-4DA7-B1EB-DD5EE8B68767"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:apache_friends:xampp:1.5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "B0380E27-B267-4D86-B30E-A8BEB41880B7",
+        "lastModified": "2020-05-06T13:56:59.570",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Apache Friends XAMPP 1.5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apachefriends:xampp:1.5.2:*:*:*:*:*:*:*",
+            "cpeNameId": "1D22A870-D47B-48E7-A32A-C12E5C994CA5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apache_friends:xampp:-:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Apache Friends XAMPP",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apachefriends:xampp:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:apache_friends:xampp:1.5.2:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Apache Friends XAMPP 1.5.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apachefriends:xampp:1.5.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

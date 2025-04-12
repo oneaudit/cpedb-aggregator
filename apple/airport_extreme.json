@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:apple:airport_extreme:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D74D91BE-E7FB-4187-A7E8-7EAEBE361900",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Apple AirPort Extreme",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:apple:airport_extreme:5.5:*:*:*:*:*:*:*",
+        "cpeNameId": "B8076581-29B8-47C4-8050-C9A7F8152E70",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Apple AirPort Extreme 5.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:apple:airport_extreme:-:*:*:*:*:*:*:*",
+      "title": "Apple AirPort Extreme",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:apple:airport_extreme:5.5:*:*:*:*:*:*:*",
+      "title": "Apple AirPort Extreme 5.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

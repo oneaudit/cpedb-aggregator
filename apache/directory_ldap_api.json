@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apache:directory_ldap_api:1.0.0:m30:*:*:*:*:*:*",
+        "cpeNameId": "BFAABF58-E58B-408C-8D68-9A339FB4178B",
+        "lastModified": "2021-03-23T15:45:17.367",
+        "created": "2017-09-14T18:26:36.033",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Directory LDAP API 1.0.0 M30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apache:directory_ldap_api:1.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "D5B11067-FB03-42D1-9E2E-BA07DCF1710A",
+        "lastModified": "2019-09-19T15:08:38.060",
+        "created": "2019-09-19T15:08:38.060",
+        "titles": [
+          {
+            "title": "Apache Software Foundation Directory LDAP API 1.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apache:directory_ldap_api:1.0.0:m30:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Directory LDAP API 1.0.0 M30",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apache:directory_ldap_api:1.0.2:*:*:*:*:*:*:*",
+      "title": "Apache Software Foundation Directory LDAP API 1.0.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

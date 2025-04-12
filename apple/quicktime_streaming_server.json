@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:quicktime_streaming_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A4E800A6-EE70-421C-B053-294FE0345D7E",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Apple Quicktime Streaming Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:quicktime_streaming_server:4.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "01098545-F80E-417D-AB37-9587F5166DA5",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Apple Quicktime Streaming Server 4.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apple:quicktime_streaming_server:-:*:*:*:*:*:*:*",
+      "title": "Apple Quicktime Streaming Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apple:quicktime_streaming_server:4.1.1:*:*:*:*:*:*:*",
+      "title": "Apple Quicktime Streaming Server 4.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

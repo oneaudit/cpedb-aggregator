@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:apple:airpods_max_firmware:6f8:*:*:*:*:*:*:*",
+        "cpeNameId": "252A75F3-39DE-4604-A11F-8679648A3E72",
+        "lastModified": "2024-12-17T13:44:36.427",
+        "created": "2024-12-17T13:44:36.427",
+        "titles": [
+          {
+            "title": "Apple AirPods Max Firmware 6F8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:apple:airpods_max_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4CFC6B2A-463A-4BED-BF10-AEEEF18170C5",
+        "lastModified": "2024-12-17T13:44:36.427",
+        "created": "2024-12-17T13:44:36.427",
+        "titles": [
+          {
+            "title": "Apple AirPods Max Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:apple:airpods_max_firmware:6f8:*:*:*:*:*:*:*",
+      "title": "Apple AirPods Max Firmware 6F8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:apple:airpods_max_firmware:-:*:*:*:*:*:*:*",
+      "title": "Apple AirPods Max Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:mac_os_nsl_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8A9F4597-BDE8-4137-909B-1DF072C0CFE3",
+        "lastModified": "2008-04-14T17:56:50.330",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Apple Minimal SLP Service Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:mac_os_nsl_manager:2:*:*:*:*:*:*:*",
+        "cpeNameId": "4DF30E61-1623-4368-A16C-F42830A4FFE8",
+        "lastModified": "2008-04-07T13:41:04.963",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Apple Minimal SLP Service Agent 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apple:mac_os_nsl_manager:-:*:*:*:*:*:*:*",
+      "title": "Apple Minimal SLP Service Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apple:mac_os_nsl_manager:2:*:*:*:*:*:*:*",
+      "title": "Apple Minimal SLP Service Agent 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

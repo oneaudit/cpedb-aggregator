@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:texture:4.22.0.4:*:*:*:*:android:*:*",
+        "cpeNameId": "291AEE38-CDC6-417E-BF4B-AB2B34CAECA1",
+        "lastModified": "2019-12-26T17:42:44.017",
+        "created": "2019-12-26T17:42:44.017",
+        "titles": [
+          {
+            "title": "Apple Texture 4.22.0.4 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:texture:5.11.10:*:*:*:*:ios:*:*",
+        "cpeNameId": "DEDD4787-9563-491A-A1FE-01935E4AB9E2",
+        "lastModified": "2019-12-26T17:42:44.217",
+        "created": "2019-12-26T17:42:44.217",
+        "titles": [
+          {
+            "title": "Apple Texture 5.11.10 for iOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apple:texture:4.22.0.4:*:*:*:*:android:*:*",
+      "title": "Apple Texture 4.22.0.4 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apple:texture:5.11.10:*:*:*:*:ios:*:*",
+      "title": "Apple Texture 5.11.10 for iOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

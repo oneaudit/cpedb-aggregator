@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:apple:watch_os:2.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "6F85C3B8-117C-4474-A3FE-001AE4FB94A2",
+        "lastModified": "2017-04-05T17:47:22.070",
+        "created": "2016-09-26T14:44:56.020",
+        "titles": [
+          {
+            "title": "Apple Watch OS 2.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*",
+            "cpeNameId": "1BAA75EC-F468-4E55-A360-D8138ED49B54"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:apple:watch_os:2.2.2:*:*:*:*:*:*:*",
+      "title": "Apple Watch OS 2.2.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

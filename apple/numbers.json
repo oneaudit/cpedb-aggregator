@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:numbers:3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "B8D6F793-4183-4BE3-BB30-FB6E45B70924",
+        "lastModified": "2015-11-10T19:18:25.440",
+        "created": "2015-10-19T14:52:04.207",
+        "titles": [
+          {
+            "title": "Apple Numbers 3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:numbers:4.0.5:*:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "A21C05E2-3061-491E-B5E6-536A2ACFC1C6",
+        "lastModified": "2021-05-20T14:10:34.360",
+        "created": "2017-04-07T14:17:37.420",
+        "titles": [
+          {
+            "title": "Apple Numbers 4.0.5 for Mac",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:numbers:3.0.5:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "DEF5377A-5ABF-4DD7-BB3F-E53528E447E7",
+        "lastModified": "2021-05-20T14:10:34.360",
+        "created": "2017-04-07T14:17:37.420",
+        "titles": [
+          {
+            "title": "Apple Numbers 3.0.5 for iOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apple:numbers:3.5:*:*:*:*:*:*:*",
+      "title": "Apple Numbers 3.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apple:numbers:4.0.5:*:*:*:*:mac_os_x:*:*",
+      "title": "Apple Numbers 4.0.5 for Mac",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apple:numbers:3.0.5:*:*:*:*:iphone_os:*:*",
+      "title": "Apple Numbers 3.0.5 for iOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

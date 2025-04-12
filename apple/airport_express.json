@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:apple:airport_express:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4BBDD94E-A9C3-4FD1-8AD8-DB694378F949",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Apple AirPort Express",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:apple:airport_express:6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0602CEFA-F677-4EC5-A9D9-34B4473909A5",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Apple AirPort Express 6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:apple:airport_express:-:*:*:*:*:*:*:*",
+      "title": "Apple AirPort Express",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:apple:airport_express:6.1:*:*:*:*:*:*:*",
+      "title": "Apple AirPort Express 6.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

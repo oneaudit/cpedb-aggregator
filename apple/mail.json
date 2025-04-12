@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:mail:-:*:*:*:*:*:*:*",
+        "cpeNameId": "12FD3F2A-1363-4575-85D1-8988B2143564",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Apple Mail",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:mail:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2E0CAA4B-CA53-4AE0-A978-8A177569589C",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Apple Mail 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:mail:3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "B51C7546-72F9-4CF6-AE86-367135299C03",
+        "lastModified": "2008-10-08T18:38:28.937",
+        "created": "2008-10-08T18:38:28.937",
+        "titles": [
+          {
+            "title": "Apple Mail 3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:apple:mail:-:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "DAB4707F-5A36-4116-8C83-E8644BA19CAA",
+        "lastModified": "2021-05-20T14:10:34.360",
+        "created": "2018-06-25T13:32:33.230",
+        "titles": [
+          {
+            "title": "Apple Mail for iPhone OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:apple:mail:-:*:*:*:*:*:*:*",
+      "title": "Apple Mail",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apple:mail:2.0:*:*:*:*:*:*:*",
+      "title": "Apple Mail 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apple:mail:3.5:*:*:*:*:*:*:*",
+      "title": "Apple Mail 3.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:apple:mail:-:*:*:*:*:iphone_os:*:*",
+      "title": "Apple Mail for iPhone OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
