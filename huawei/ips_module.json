@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:huawei:ips_module:-:*:*:*:*:*:*:*",
+        "cpeNameId": "590A68C2-FC70-4A0F-8DB8-4BBF953C6902",
+        "lastModified": "2016-09-08T16:19:53.170",
+        "created": "2016-09-08T16:19:53.170",
+        "titles": [
+          {
+            "title": "Huawei IPS Module",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:ips_module:v500r001c50:*:*:*:*:*:*:*",
+        "cpeNameId": "1BC3EC2C-B387-4D02-843E-DFBF912BB774",
+        "lastModified": "2020-02-23T00:58:56.933",
+        "created": "2020-02-23T00:58:56.933",
+        "titles": [
+          {
+            "title": "Huawei Ips Module V500r001c50",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:huawei:ips_module:-:*:*:*:*:*:*:*",
+      "title": "Huawei IPS Module",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:ips_module:v500r001c50:*:*:*:*:*:*:*",
+      "title": "Huawei Ips Module V500r001c50",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:huawei:fusionmanager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E41E8779-A81A-4BB4-88C0-3D98D6A28740",
+        "lastModified": "2021-05-20T18:51:01.917",
+        "created": "2017-04-05T17:25:54.893",
+        "titles": [
+          {
+            "title": "Huawei FusionManager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:fusionmanager:v100r003c00:*:*:*:*:*:*:*",
+        "cpeNameId": "C1699F06-5FBC-4ED5-9FBA-E06798CB7AE7",
+        "lastModified": "2021-05-25T18:42:03.710",
+        "created": "2017-04-05T18:09:12.993",
+        "titles": [
+          {
+            "title": "Huawei FusionManager V100R003C00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:fusionmanager:v100r002c03:*:*:*:*:*:*:*",
+        "cpeNameId": "4618A310-530D-4FAE-9692-14004BDC682A",
+        "lastModified": "2021-05-25T18:42:03.710",
+        "created": "2017-04-05T18:09:12.993",
+        "titles": [
+          {
+            "title": "Huawei FusionManager V100R002C03",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:huawei:fusionmanager:-:*:*:*:*:*:*:*",
+      "title": "Huawei FusionManager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:huawei:fusionmanager:v100r003c00:*:*:*:*:*:*:*",
+      "title": "Huawei FusionManager V100R003C00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:huawei:fusionmanager:v100r002c03:*:*:*:*:*:*:*",
+      "title": "Huawei FusionManager V100R002C03",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

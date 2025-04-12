@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:huawei:fusionstorage:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9EEB96F2-AEBF-48B3-B3D8-7E87E6A70841",
+        "lastModified": "2021-05-20T18:51:01.917",
+        "created": "2017-04-05T17:10:18.053",
+        "titles": [
+          {
+            "title": "Huawei FusionStorage",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:fusionstorage:v100r003c30u1:*:*:*:*:*:*:*",
+        "cpeNameId": "3D5470F5-48A1-4D5E-BFF2-181DF5277E3E",
+        "lastModified": "2021-06-03T19:09:15.837",
+        "created": "2017-04-05T18:53:37.240",
+        "titles": [
+          {
+            "title": "Huawei FusionStorage V100R003C30U1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:huawei:fusionstorage:-:*:*:*:*:*:*:*",
+      "title": "Huawei FusionStorage",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:huawei:fusionstorage:v100r003c30u1:*:*:*:*:*:*:*",
+      "title": "Huawei FusionStorage V100R003C30U1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

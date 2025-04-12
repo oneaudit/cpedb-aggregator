@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:hwbackup:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C711CFFC-DC26-47EB-BE4D-5DBE94DAFA05",
+        "lastModified": "2019-12-13T13:52:41.447",
+        "created": "2019-12-13T13:52:41.447",
+        "titles": [
+          {
+            "title": "Huawei HwBackup",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:hwbackup:9.1.1.308:*:*:*:*:*:*:*",
+        "cpeNameId": "1A81307C-2B38-43A9-A88F-5BC9D04A0677",
+        "lastModified": "2019-12-13T13:52:41.747",
+        "created": "2019-12-13T13:52:41.747",
+        "titles": [
+          {
+            "title": "Huawei HwBackup 9.1.1.308",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:huawei:hwbackup:-:*:*:*:*:*:*:*",
+      "title": "Huawei HwBackup",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:huawei:hwbackup:9.1.1.308:*:*:*:*:*:*:*",
+      "title": "Huawei HwBackup 9.1.1.308",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

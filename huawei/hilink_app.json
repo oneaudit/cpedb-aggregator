@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:hilink_app:-:*:*:*:*:*:*:*",
+        "cpeNameId": "683E0E92-005F-424D-ADC6-0DD9C7AFEB76",
+        "lastModified": "2021-06-04T12:40:15.740",
+        "created": "2016-06-13T19:56:13.967",
+        "titles": [
+          {
+            "title": "Huawei HiLink",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:huawei:hilink_app:3.19.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7FD4672B-2133-4323-B649-9938F2A2BAA4",
+        "lastModified": "2020-08-20T19:18:22.107",
+        "created": "2020-08-20T19:18:22.107",
+        "titles": [
+          {
+            "title": "Huawei HiLink 3.19.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:huawei:hilink_app:-:*:*:*:*:*:*:*",
+      "title": "Huawei HiLink",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:huawei:hilink_app:3.19.1:*:*:*:*:*:*:*",
+      "title": "Huawei HiLink 3.19.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

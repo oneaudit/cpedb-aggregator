@@ -1,0 +1,525 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:9.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "323CA8BE-41D1-412F-9AB6-B3B4DA5EE6A6",
+        "lastModified": "2021-12-09T17:57:09.680",
+        "created": "2021-01-14T18:13:09.253",
+        "titles": [
+          {
+            "title": "Huawei EMUI 9.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:9.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "208351B3-AC40-4152-8D6E-50774FB1C840",
+        "lastModified": "2021-12-09T17:57:09.680",
+        "created": "2021-01-14T18:13:09.253",
+        "titles": [
+          {
+            "title": "Huawei EMUI 9.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:10.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "897E9E28-F3A1-4C75-8C67-632FAA8887AE",
+        "lastModified": "2021-12-09T17:57:09.680",
+        "created": "2021-01-14T18:13:09.253",
+        "titles": [
+          {
+            "title": "Huawei EMUI 10.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:10.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4C745D50-415D-404F-9546-D122B0FA237D",
+        "lastModified": "2021-12-09T17:57:09.680",
+        "created": "2021-01-14T18:13:09.253",
+        "titles": [
+          {
+            "title": "Huawei EMUI 10.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:10.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7BE3A552-E7CD-48EE-8CE2-4A963DDD20AC",
+        "lastModified": "2021-12-09T17:57:43.870",
+        "created": "2021-01-14T18:13:09.253",
+        "titles": [
+          {
+            "title": "Huawei EMUI 10.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:11.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B6FBBAA5-CE65-4FD6-BE9B-E2B34888EE26",
+        "lastModified": "2021-12-09T17:57:43.870",
+        "created": "2021-01-14T18:31:22.000",
+        "titles": [
+          {
+            "title": "Huawei EMUI 11.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:huawei:emui:9.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "08F61A0F-4089-4A1E-8B59-8432562A884E",
+        "lastModified": "2021-12-09T17:57:09.680",
+        "created": "2021-01-14T19:12:17.807",
+        "titles": [
+          {
+            "title": "Huawei EMUI 9.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:huawei:emui:9.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "323CA8BE-41D1-412F-9AB6-B3B4DA5EE6A6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:huawei:emui:9.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "F96E0C28-BD4E-4561-9876-E7272F9AD014",
+        "lastModified": "2021-12-09T17:57:09.680",
+        "created": "2021-01-14T19:12:17.900",
+        "titles": [
+          {
+            "title": "Huawei EMUI 9.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:huawei:emui:9.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "208351B3-AC40-4152-8D6E-50774FB1C840"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:huawei:emui:10.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3757E49F-7711-44E1-9B94-F59D34184985",
+        "lastModified": "2021-12-09T17:57:09.680",
+        "created": "2021-01-14T19:12:17.963",
+        "titles": [
+          {
+            "title": "Huawei EMUI 10.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:huawei:emui:10.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "897E9E28-F3A1-4C75-8C67-632FAA8887AE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:huawei:emui:10.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CC112AC0-0FE9-4333-9305-4B8AD0213CA1",
+        "lastModified": "2021-12-09T17:57:09.680",
+        "created": "2021-01-14T19:12:18.027",
+        "titles": [
+          {
+            "title": "Huawei EMUI 10.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:huawei:emui:10.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "4C745D50-415D-404F-9546-D122B0FA237D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:huawei:emui:10.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "ADF62204-91B7-4274-9ECF-47A1E540DB56",
+        "lastModified": "2021-12-09T17:57:43.870",
+        "created": "2021-01-14T19:12:18.090",
+        "titles": [
+          {
+            "title": "Huawei EMUI 10.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:huawei:emui:10.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "7BE3A552-E7CD-48EE-8CE2-4A963DDD20AC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:huawei:emui:11.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7F39FC8C-4E49-4C4F-A7B0-CEFAD2C6E432",
+        "lastModified": "2021-12-09T17:57:43.870",
+        "created": "2021-01-14T19:12:18.150",
+        "titles": [
+          {
+            "title": "Huawei EMUI 11.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:huawei:emui:11.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "B6FBBAA5-CE65-4FD6-BE9B-E2B34888EE26"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:huawei:emui:11.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "2A0E4995-D6E0-4DCA-80F2-C28B0FBFF0A7",
+        "lastModified": "2021-12-09T17:57:43.870",
+        "created": "2021-06-09T13:11:07.223",
+        "titles": [
+          {
+            "title": "Huawei EMUI 11.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:huawei:emui:11.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "7B050303-3F50-40FF-944C-66CF8D7FDA16"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:11.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7B050303-3F50-40FF-944C-66CF8D7FDA16",
+        "lastModified": "2021-12-09T17:57:43.870",
+        "created": "2021-07-01T13:44:57.090",
+        "titles": [
+          {
+            "title": "Huawei EMUI 11.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "99CEFBAE-6D2D-4F9D-AFAB-F55258943775",
+        "lastModified": "2021-07-08T18:26:48.960",
+        "created": "2021-07-01T14:31:11.673",
+        "titles": [
+          {
+            "title": "Huawei EMUI 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:8.2:*:*:*:*:*:*:*",
+        "cpeNameId": "43D50A6C-C36A-495B-86EC-4E3B9441D364",
+        "lastModified": "2021-07-08T18:26:48.960",
+        "created": "2021-07-01T14:31:11.673",
+        "titles": [
+          {
+            "title": "Huawei EMUI 8.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:12.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "57220BF4-75D9-40D2-BB66-54C464EF824C",
+        "lastModified": "2023-09-02T02:50:32.933",
+        "created": "2022-11-10T06:15:39.703",
+        "titles": [
+          {
+            "title": "Huawei EMUI 12.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:12.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D743D857-124E-47CD-BA74-FAFCB20694AE",
+        "lastModified": "2023-09-02T02:50:32.933",
+        "created": "2022-11-10T07:09:49.927",
+        "titles": [
+          {
+            "title": "Huawei EMUI 12.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:13.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E656A648-C8AA-4C5A-98A1-DFBA599DC93C",
+        "lastModified": "2023-09-02T02:50:32.933",
+        "created": "2023-03-30T15:37:55.663",
+        "titles": [
+          {
+            "title": "Huawei EMUI 13.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5AE63F55-D64E-4C90-BB6C-6A9306804B2E",
+        "lastModified": "2023-09-27T11:49:27.253",
+        "created": "2023-09-27T11:49:27.253",
+        "titles": [
+          {
+            "title": "Huawei EMUI ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:12.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D159C581-47C0-475F-8813-D7A7813D9C99",
+        "lastModified": "2023-10-25T12:57:43.240",
+        "created": "2023-10-25T12:57:43.240",
+        "titles": [
+          {
+            "title": "Huawei EMUI 12.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:huawei:emui:14.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "9D9710F7-3F88-45F9-92A6-D9F26E464729",
+        "lastModified": "2024-08-12T17:57:43.273",
+        "created": "2024-08-12T17:57:43.273",
+        "titles": [
+          {
+            "title": "Huawei EMUI 14.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:huawei:emui:9.1.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 9.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:9.1.1:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 9.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:10.0.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 10.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:10.1.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 10.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:10.1.1:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 10.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:11.0.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 11.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:huawei:emui:9.1.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 9.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:huawei:emui:9.1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:huawei:emui:9.1.1:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 9.1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:huawei:emui:9.1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:huawei:emui:10.0.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 10.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:huawei:emui:10.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:huawei:emui:10.1.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 10.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:huawei:emui:10.1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:huawei:emui:10.1.1:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 10.1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:huawei:emui:10.1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:huawei:emui:11.0.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 11.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:huawei:emui:11.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:huawei:emui:11.0.1:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 11.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:huawei:emui:11.0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:11.0.1:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 11.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:8.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:8.2:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 8.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:12.0.1:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 12.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:12.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 12.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:13.0.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 13.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:-:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:12.0.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 12.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:huawei:emui:14.0.0:*:*:*:*:*:*:*",
+      "title": "Huawei EMUI 14.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
