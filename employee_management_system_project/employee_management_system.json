@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:employee_management_system_project:employee_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A762768C-5933-4199-9B9D-B3734F043DFE",
+        "lastModified": "2024-01-31T19:19:40.597",
+        "created": "2021-06-17T19:03:07.020",
+        "titles": [
+          {
+            "title": "Employee Management System Project Employee Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:razormist:employee_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "58944011-AC12-492A-B4B9-47152D573E04"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:employee_management_system_project:employee_management_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "75AAD2F3-1A9C-415C-B179-003B5FFCF765",
+        "lastModified": "2022-08-10T17:56:12.223",
+        "created": "2022-08-10T17:04:03.717",
+        "titles": [
+          {
+            "title": "Employee Management System Project Employee Management System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:employee_management_system_project:employee_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Employee Management System Project Employee Management System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:razormist:employee_management_system:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:employee_management_system_project:employee_management_system:-:*:*:*:*:*:*:*",
+      "title": "Employee Management System Project Employee Management System",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

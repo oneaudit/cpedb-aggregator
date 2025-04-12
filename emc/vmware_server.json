@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:vmware_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A08C5A5E-DBAE-46F7-B159-0D1D2C2D1EEC",
+        "lastModified": "2007-09-24T15:33:38.770",
+        "created": "2007-09-24T15:33:38.770",
+        "titles": [
+          {
+            "title": "EMC VMware Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:vmware_server:1.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "8E3DB3EE-A548-4165-839F-B70EA26A68CB",
+        "lastModified": "2007-09-24T15:33:51.303",
+        "created": "2007-09-24T15:33:51.303",
+        "titles": [
+          {
+            "title": "EMC VMware Server 1.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:vmware_server:1.0.4_build_56528:*:*:*:*:*:*:*",
+        "cpeNameId": "B8DEA4F6-EAA6-43DD-8D63-A6C252D065D1",
+        "lastModified": "2007-09-26T12:34:07.857",
+        "created": "2007-09-26T12:34:07.857",
+        "titles": [
+          {
+            "title": "EMC VMware Server 1.0.4 Build 56528",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:vmware_server:-:*:*:*:*:*:*:*",
+      "title": "EMC VMware Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:vmware_server:1.0.4:*:*:*:*:*:*:*",
+      "title": "EMC VMware Server 1.0.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:vmware_server:1.0.4_build_56528:*:*:*:*:*:*:*",
+      "title": "EMC VMware Server 1.0.4 Build 56528",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

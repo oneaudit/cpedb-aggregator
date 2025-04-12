@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:cloud_tiering_appliance_software:10.0:-:*:*:*:*:*:*",
+        "cpeNameId": "DF7690D2-F8A4-4DC8-863E-0CB71AF209D5",
+        "lastModified": "2014-04-24T19:30:59.207",
+        "created": "2014-04-17T14:57:46.937",
+        "titles": [
+          {
+            "title": "EMC Cloud Tiering Appliance software 10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:cloud_tiering_appliance_software:10.0:sp1:*:*:*:*:*:*",
+        "cpeNameId": "56780EFD-8FB5-4840-9E8A-6184A1DD987D",
+        "lastModified": "2014-04-24T19:30:59.393",
+        "created": "2014-04-17T14:57:47.110",
+        "titles": [
+          {
+            "title": "EMC Cloud Tiering Appliance software 10.0 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:cloud_tiering_appliance_software:9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AD9CC3CD-53F7-4289-9904-DD12563A153E",
+        "lastModified": "2014-04-24T19:30:59.597",
+        "created": "2014-04-17T14:57:47.267",
+        "titles": [
+          {
+            "title": "EMC Cloud Tiering Appliance software 9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:cloud_tiering_appliance_software:10.0:-:*:*:*:*:*:*",
+      "title": "EMC Cloud Tiering Appliance software 10.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:cloud_tiering_appliance_software:10.0:sp1:*:*:*:*:*:*",
+      "title": "EMC Cloud Tiering Appliance software 10.0 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:cloud_tiering_appliance_software:9.0:*:*:*:*:*:*:*",
+      "title": "EMC Cloud Tiering Appliance software 9.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

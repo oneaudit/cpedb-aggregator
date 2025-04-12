@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:vmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "60BA6C0F-0384-4A39-BDCC-F9AE17546106",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "EMC VMware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:vmware:6.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5C99FDCA-9CB3-49D1-A97A-CCE72F966A5E",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "EMC VMware 6.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:vmware:-:*:*:*:*:*:*:*",
+      "title": "EMC VMware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:vmware:6.0.0:*:*:*:*:*:*:*",
+      "title": "EMC VMware 6.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:control_center:5.2:sp5:*:*:*:*:*:*",
+        "cpeNameId": "0307ABC9-E6FD-4287-AAD6-8DDF3D6CF410",
+        "lastModified": "2008-12-11T18:19:18.427",
+        "created": "2008-12-11T18:19:18.427",
+        "titles": [
+          {
+            "title": "EMC Control Center 5.2 SP5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:control_center:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EE81C0CE-6476-47AF-ADF1-0BA07C313D57",
+        "lastModified": "2008-12-11T18:19:18.567",
+        "created": "2008-12-11T18:19:18.567",
+        "titles": [
+          {
+            "title": "EMC Control Center 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:control_center:5.2:sp5:*:*:*:*:*:*",
+      "title": "EMC Control Center 5.2 SP5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:control_center:6.0:*:*:*:*:*:*:*",
+      "title": "EMC Control Center 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

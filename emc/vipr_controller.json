@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:vipr_controller:3.0.0.39:*:*:*:*:*:*:*",
+        "cpeNameId": "151CBCB1-818F-4B6F-AA21-1B88DD0C4764",
+        "lastModified": "2019-11-04T13:43:14.103",
+        "created": "2019-11-04T13:43:14.103",
+        "titles": [
+          {
+            "title": "EMC ViPR Controller 3.0.0.39",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:vipr_controller:3.6.1.4:*:*:*:*:*:*:*",
+        "cpeNameId": "3811D5E5-4E27-4B80-B78E-0ABFE1EF0CE4",
+        "lastModified": "2019-11-04T13:43:14.273",
+        "created": "2019-11-04T13:43:14.273",
+        "titles": [
+          {
+            "title": "EMC ViPR Controller 3.6.1.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:vipr_controller:3.0.0.39:*:*:*:*:*:*:*",
+      "title": "EMC ViPR Controller 3.0.0.39",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:vipr_controller:3.6.1.4:*:*:*:*:*:*:*",
+      "title": "EMC ViPR Controller 3.6.1.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:rsa_bsafe-java_toolkits:-:*:*:*:*:*:*:*",
+        "cpeNameId": "23B4133E-1568-4D3E-A400-0ADD24D68118",
+        "lastModified": "2021-11-30T18:26:12.847",
+        "created": "2014-06-19T13:20:00.257",
+        "titles": [
+          {
+            "title": "EMC RSA BSAFE-Java Toolkits (aka Share for Java)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_share:-:*:*:*:*:java:*:*",
+            "cpeNameId": "D38617F3-7DA8-4746-8E6F-113626592EA9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:rsa_bsafe-java_toolkits:-:*:*:*:*:*:*:*",
+      "title": "EMC RSA BSAFE-Java Toolkits (aka Share for Java)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_share:-:*:*:*:*:java:*:*"
+    }
+  ]
+}

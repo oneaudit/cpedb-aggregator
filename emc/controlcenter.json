@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:controlcenter:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BB848303-24B4-4C06-8AC1-3F7B505EA44C",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "EMC ControlCenter",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:controlcenter:5.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A4055727-647A-47E3-AFDE-6AB3372A9339",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "EMC ControlCenter 5.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:controlcenter:6.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1125BD35-E82E-4EDA-81CE-F8841C5E6401",
+        "lastModified": "2012-05-14T23:28:48.563",
+        "created": "2012-05-14T23:28:48.563",
+        "titles": [
+          {
+            "title": "Emc Controlcenter 6.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:controlcenter:-:*:*:*:*:*:*:*",
+      "title": "EMC ControlCenter",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:controlcenter:5.2.0:*:*:*:*:*:*:*",
+      "title": "EMC ControlCenter 5.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:controlcenter:6.0.0:*:*:*:*:*:*:*",
+      "title": "Emc Controlcenter 6.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

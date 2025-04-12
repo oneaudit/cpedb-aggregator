@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:epson:prolab_print:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5FF0A292-E0C5-4BE6-9575-7E940E5995E1",
+        "lastModified": "2020-12-09T16:40:31.510",
+        "created": "2020-12-09T16:40:31.510",
+        "titles": [
+          {
+            "title": "Epson ProLab Print",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:epson:prolab_print:-:*:*:*:*:camera_raw:*:*",
+        "cpeNameId": "F752B4E8-9F2D-4246-BE1C-A3231900B171",
+        "lastModified": "2020-12-09T16:40:31.887",
+        "created": "2020-12-09T16:40:31.887",
+        "titles": [
+          {
+            "title": "Epson Prolab Print for Camera Raw",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:epson:prolab_print:-:*:*:*:*:*:*:*",
+      "title": "Epson ProLab Print",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:epson:prolab_print:-:*:*:*:*:camera_raw:*:*",
+      "title": "Epson Prolab Print for Camera Raw",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

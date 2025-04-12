@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:employee_record_management_system_project:employee_record_management_system:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "F8D1546A-7B53-43F3-B2C7-964BE4B7B53B",
+        "lastModified": "2023-09-25T16:46:19.030",
+        "created": "2021-07-26T18:21:35.217",
+        "titles": [
+          {
+            "title": "Employee Record Management System Project Employee Record Management System 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:employee_record_management_system:1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "0CC0040E-6EF6-47DE-8985-1F41C9BDDD8F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:employee_record_management_system_project:employee_record_management_system:1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "58CCDCFA-A634-44E3-826A-BA6F2068ECF0",
+        "lastModified": "2023-09-25T16:46:19.030",
+        "created": "2021-12-02T18:22:00.687",
+        "titles": [
+          {
+            "title": "Employee Record Management System Project Employee Record Management System 1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:employee_record_management_system:1.2:*:*:*:*:*:*:*",
+            "cpeNameId": "72105F12-2717-431B-B369-74EF67AF5D80"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:employee_record_management_system_project:employee_record_management_system:1.1:*:*:*:*:*:*:*",
+      "title": "Employee Record Management System Project Employee Record Management System 1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:employee_record_management_system:1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:employee_record_management_system_project:employee_record_management_system:1.2:*:*:*:*:*:*:*",
+      "title": "Employee Record Management System Project Employee Record Management System 1.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:employee_record_management_system:1.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

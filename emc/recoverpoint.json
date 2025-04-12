@@ -1,0 +1,175 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:recoverpoint:4.4.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "469CE42E-DC01-4544-80BC-856F62A24742",
+        "lastModified": "2021-05-24T16:56:08.873",
+        "created": "2017-03-07T16:13:37.627",
+        "titles": [
+          {
+            "title": "EMC RecoverPoint 4.4.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:recoverpoint:4.4.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "A363C419-C1F3-4CE6-B205-468C4005794C",
+        "lastModified": "2021-05-24T16:56:08.873",
+        "created": "2017-03-24T18:54:14.127",
+        "titles": [
+          {
+            "title": "EMC RecoverPoint 4.4.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:recoverpoint:5.1.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "13867BA3-C561-48EA-8A8A-1CC11260B9CC",
+        "lastModified": "2021-05-24T14:10:42.743",
+        "created": "2018-02-23T20:06:28.020",
+        "titles": [
+          {
+            "title": "EMC Recoverpoint 5.1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:emc_recoverpoint:5.1.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2D71E9FA-CC96-4265-AADC-51A11710DA91"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:recoverpoint:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6FF09D21-2809-4B5F-8EF9-A00FFBF3FE85",
+        "lastModified": "2021-05-24T14:10:42.743",
+        "created": "2018-06-12T15:02:23.913",
+        "titles": [
+          {
+            "title": "EMC Recoverpoint 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:emc_recoverpoint:5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2785C9CF-B76C-4498-ACED-9AC20D152236"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:recoverpoint:5.0.1.3:*:*:*:*:*:*:*",
+        "cpeNameId": "BDE3814E-EF34-460D-8C6C-CDE9AA2F4D06",
+        "lastModified": "2021-05-24T14:10:42.743",
+        "created": "2018-06-12T15:02:23.913",
+        "titles": [
+          {
+            "title": "EMC Recoverpoint 5.0.1.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:emc_recoverpoint:5.0.1.3:*:*:*:*:*:*:*",
+            "cpeNameId": "CAC9BC4F-AF91-4ABB-8E10-2EF5798A09FB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:recoverpoint:5.1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "72B7F220-FC2C-47E2-9B73-992A96136ED1",
+        "lastModified": "2021-05-24T16:56:08.873",
+        "created": "2018-06-28T16:37:42.593",
+        "titles": [
+          {
+            "title": "EMC RecoverPoint 5.1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:recoverpoint:5.1.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "DEBB1A09-83EB-444F-B0E8-06FC58F79C03",
+        "lastModified": "2021-05-24T16:56:08.873",
+        "created": "2018-12-13T18:13:14.100",
+        "titles": [
+          {
+            "title": "Emc RecoverPoint 5.1.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:recoverpoint:4.4.1.0:*:*:*:*:*:*:*",
+      "title": "EMC RecoverPoint 4.4.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:recoverpoint:4.4.1.1:*:*:*:*:*:*:*",
+      "title": "EMC RecoverPoint 4.4.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:recoverpoint:5.1.0.0:*:*:*:*:*:*:*",
+      "title": "EMC Recoverpoint 5.1.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:emc_recoverpoint:5.1.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:emc:recoverpoint:5.0:*:*:*:*:*:*:*",
+      "title": "EMC Recoverpoint 5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:emc_recoverpoint:5.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:emc:recoverpoint:5.0.1.3:*:*:*:*:*:*:*",
+      "title": "EMC Recoverpoint 5.0.1.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:emc_recoverpoint:5.0.1.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:emc:recoverpoint:5.1.2:*:*:*:*:*:*:*",
+      "title": "EMC RecoverPoint 5.1.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:recoverpoint:5.1.2.1:*:*:*:*:*:*:*",
+      "title": "Emc RecoverPoint 5.1.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

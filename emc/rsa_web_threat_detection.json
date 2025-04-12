@@ -1,0 +1,141 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:rsa_web_threat_detection:4.6.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E21B006B-7932-41CA-A26E-C8BDF6189DE6",
+        "lastModified": "2021-08-06T13:18:55.267",
+        "created": "2014-11-07T14:32:12.857",
+        "titles": [
+          {
+            "title": "EMC RSA Web Threat Detection 4.6.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rsa:web_threat_detection:4.6.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "8D524366-AE84-4345-855C-BB6AAC34C54B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:rsa_web_threat_detection:4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "EBAF4A92-77AC-4E94-982E-123212282CC7",
+        "lastModified": "2021-08-06T13:18:55.267",
+        "created": "2014-11-07T14:32:12.857",
+        "titles": [
+          {
+            "title": "EMC RSA Web Threat Detection 4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rsa:web_threat_detection:4.1:*:*:*:*:*:*:*",
+            "cpeNameId": "653228CC-A927-42D5-BA3B-9916B50D2B8E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:rsa_web_threat_detection:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "599886FB-4E51-45D7-A145-118BB31E6EF5",
+        "lastModified": "2021-08-06T13:18:55.267",
+        "created": "2014-11-07T14:32:12.857",
+        "titles": [
+          {
+            "title": "EMC RSA Web Threat Detection 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rsa:web_threat_detection:4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "CA38B2DC-03C1-4B96-9685-F26D0D9CFC01"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:rsa_web_threat_detection:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EA659BB9-A85D-4C21-9290-439E4BFF2D54",
+        "lastModified": "2021-08-06T13:18:55.267",
+        "created": "2015-06-05T13:24:07.550",
+        "titles": [
+          {
+            "title": "EMC RSA Web Threat Detection 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rsa:web_threat_detection:5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2881151E-6B98-47A5-B1CB-9A42C9F56DCD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:rsa_web_threat_detection:5.1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "7B5F55CB-C9F2-450A-8EC4-9059031E2D78",
+        "lastModified": "2021-08-06T13:18:55.267",
+        "created": "2017-03-09T16:45:45.000",
+        "titles": [
+          {
+            "title": "EMC RSA Web Threat Detection 5.1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rsa:web_threat_detection:5.1.2:*:*:*:*:*:*:*",
+            "cpeNameId": "26DA0F79-82D7-4E50-BC7C-800150B5BCDF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:rsa_web_threat_detection:4.6.1.0:*:*:*:*:*:*:*",
+      "title": "EMC RSA Web Threat Detection 4.6.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rsa:web_threat_detection:4.6.1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:emc:rsa_web_threat_detection:4.1:*:*:*:*:*:*:*",
+      "title": "EMC RSA Web Threat Detection 4.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rsa:web_threat_detection:4.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:emc:rsa_web_threat_detection:4.0:*:*:*:*:*:*:*",
+      "title": "EMC RSA Web Threat Detection 4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rsa:web_threat_detection:4.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:emc:rsa_web_threat_detection:5.0:*:*:*:*:*:*:*",
+      "title": "EMC RSA Web Threat Detection 5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rsa:web_threat_detection:5.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:emc:rsa_web_threat_detection:5.1.2:*:*:*:*:*:*:*",
+      "title": "EMC RSA Web Threat Detection 5.1.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rsa:web_threat_detection:5.1.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

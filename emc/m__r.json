@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:m\\\u0026r:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7454E5D3-AD9D-46B8-8D88-5F2B4EFC7556",
+        "lastModified": "2021-08-31T11:46:12.300",
+        "created": "2017-07-26T17:17:12.223",
+        "titles": [
+          {
+            "title": "EMC M\u0026R",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:emc_m\\\u0026r:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E658487C-ECCC-4E23-AF33-4EAF1DE39255"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:m\\\u0026r:-:*:*:*:*:*:*:*",
+      "title": "EMC M\u0026R",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:emc_m\\\u0026r:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

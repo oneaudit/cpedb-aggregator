@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:rsa_bsafe_ssl-c:2.8:*:*:*:*:*:*:*",
+        "cpeNameId": "847DBB5D-F215-496F-BD10-11444C763356",
+        "lastModified": "2021-11-30T18:59:25.327",
+        "created": "2019-05-31T16:17:35.260",
+        "titles": [
+          {
+            "title": "EMC RSA BSAFE SSL-C 2.8.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_ssl-c:2.8:*:*:*:*:*:*:*",
+            "cpeNameId": "444924EA-9201-435C-8002-DAF5AD6115D0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:rsa_bsafe_ssl-c:2.8.7:*:*:*:*:*:*:*",
+        "cpeNameId": "F806159C-B742-4BD1-B986-6B9F28A9607C",
+        "lastModified": "2021-11-30T18:59:25.327",
+        "created": "2019-10-28T17:19:10.937",
+        "titles": [
+          {
+            "title": "EMC RSA BSAFE SSL-C 2.8.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_ssl-c:2.8.7:*:*:*:*:*:*:*",
+            "cpeNameId": "9703D3A7-8082-455B-B3B2-837220D4805E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:rsa_bsafe_ssl-c:2.8.9:*:*:*:*:*:*:*",
+        "cpeNameId": "C32BCE93-70CE-4F77-A5E5-F09684DC15F3",
+        "lastModified": "2021-11-30T18:59:25.327",
+        "created": "2019-10-28T17:19:11.123",
+        "titles": [
+          {
+            "title": "EMC RSA BSAFE SSL-C 2.8.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_ssl-c:2.8.9:*:*:*:*:*:*:*",
+            "cpeNameId": "8292A17C-66B1-488F-95D5-E27505A03D61"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:rsa_bsafe_ssl-c:2.8:*:*:*:*:*:*:*",
+      "title": "EMC RSA BSAFE SSL-C 2.8.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_ssl-c:2.8:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:emc:rsa_bsafe_ssl-c:2.8.7:*:*:*:*:*:*:*",
+      "title": "EMC RSA BSAFE SSL-C 2.8.7",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_ssl-c:2.8.7:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:emc:rsa_bsafe_ssl-c:2.8.9:*:*:*:*:*:*:*",
+      "title": "EMC RSA BSAFE SSL-C 2.8.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_ssl-c:2.8.9:*:*:*:*:*:*:*"
+    }
+  ]
+}

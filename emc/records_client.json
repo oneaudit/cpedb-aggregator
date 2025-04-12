@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:records_client:6.7:sp2:*:*:*:*:*:*",
+        "cpeNameId": "A65C40B8-3BD2-412E-8745-3FA5333AAEF0",
+        "lastModified": "2014-08-28T01:42:58.783",
+        "created": "2014-08-20T18:20:51.427",
+        "titles": [
+          {
+            "title": "EMC Records Client 6.7 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:records_client:6.7:sp1:*:*:*:*:*:*",
+        "cpeNameId": "6DA98EEA-AAEE-4B00-AE38-04E0C37CEF2C",
+        "lastModified": "2014-08-28T01:42:58.987",
+        "created": "2014-08-20T18:20:51.927",
+        "titles": [
+          {
+            "title": "EMC Records Client 6.7 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:records_client:6.7:*:*:*:*:*:*:*",
+        "cpeNameId": "4E8274BA-204A-4844-8C37-3098CC9A8D32",
+        "lastModified": "2014-08-28T01:42:59.157",
+        "created": "2014-08-20T18:20:52.363",
+        "titles": [
+          {
+            "title": "EMC Records Client 6.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:records_client:6.7:sp2:*:*:*:*:*:*",
+      "title": "EMC Records Client 6.7 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:records_client:6.7:sp1:*:*:*:*:*:*",
+      "title": "EMC Records Client 6.7 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:records_client:6.7:*:*:*:*:*:*:*",
+      "title": "EMC Records Client 6.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:rsa_bsafe-c_toolkits:-:*:*:*:*:*:*:*",
+        "cpeNameId": "304D95B7-8124-4BE2-8F84-23A672B3F904",
+        "lastModified": "2021-11-30T19:04:20.513",
+        "created": "2014-06-19T13:18:55.020",
+        "titles": [
+          {
+            "title": "EMC RSA BSAFE-C Toolkits (aka Share for C and C++)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:bsafe_share:-:*:*:*:*:c:*:*",
+            "cpeNameId": "DAD4FB5F-849C-4C83-962E-3484648FD119"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:rsa_bsafe-c_toolkits:-:*:*:*:*:*:*:*",
+      "title": "EMC RSA BSAFE-C Toolkits (aka Share for C and C++)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:bsafe_share:-:*:*:*:*:c:*:*"
+    }
+  ]
+}

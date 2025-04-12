@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:esrs_policy_manager:6.7:*:*:*:*:*:*:*",
+        "cpeNameId": "A0E8869A-503B-4020-AE78-3E7DE1D42375",
+        "lastModified": "2021-05-24T16:26:43.340",
+        "created": "2017-07-12T15:15:38.413",
+        "titles": [
+          {
+            "title": "EMC ESRS Policy Manager 6.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:esrs_policy_manager:6.8:*:*:*:*:*:*:*",
+        "cpeNameId": "D508442A-19B8-4A81-AC3F-E204BFB6ADB5",
+        "lastModified": "2020-03-05T20:14:12.000",
+        "created": "2020-03-05T20:14:12.000",
+        "titles": [
+          {
+            "title": "EMC ESRS Policy Manager 6.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:esrs_policy_manager:6.7:*:*:*:*:*:*:*",
+      "title": "EMC ESRS Policy Manager 6.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:esrs_policy_manager:6.8:*:*:*:*:*:*:*",
+      "title": "EMC ESRS Policy Manager 6.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

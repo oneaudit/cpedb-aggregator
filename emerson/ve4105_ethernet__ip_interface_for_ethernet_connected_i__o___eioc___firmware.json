@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:emerson:ve4105_ethernet\\/ip_interface_for_ethernet_connected_i\\/o_\\(eioc\\)_firmware:14.3:*:*:*:*:*:*:*",
+        "cpeNameId": "10DCA440-9160-4852-B4B3-7E70ED05BFE0",
+        "lastModified": "2023-01-05T14:49:39.313",
+        "created": "2023-01-03T16:32:11.947",
+        "titles": [
+          {
+            "title": "Emerson Ve4105 Ethernet/ip Interface For Ethernet Connected I/o (eioc) Firmware 14.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:emerson:ve4105_ethernet\\/ip_interface_for_ethernet_connected_i\\/o_\\(eioc\\)_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CAB4E94F-D5A2-439F-AA0C-1256FDEBF6BD",
+        "lastModified": "2023-01-05T14:49:39.313",
+        "created": "2023-01-03T16:32:11.947",
+        "titles": [
+          {
+            "title": "Emerson Ve4105 Ethernet/ip Interface For Ethernet Connected I/o (eioc) Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:emerson:ve4105_ethernet\\/ip_interface_for_ethernet_connected_i\\/o_\\(eioc\\)_firmware:14.3:*:*:*:*:*:*:*",
+      "title": "Emerson Ve4105 Ethernet/ip Interface For Ethernet Connected I/o (eioc) Firmware 14.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:emerson:ve4105_ethernet\\/ip_interface_for_ethernet_connected_i\\/o_\\(eioc\\)_firmware:-:*:*:*:*:*:*:*",
+      "title": "Emerson Ve4105 Ethernet/ip Interface For Ethernet Connected I/o (eioc) Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

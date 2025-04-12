@@ -1,0 +1,121 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:recoverpoint_for_virtual_machines:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "9F75FF93-DAB7-4FF7-96C6-DA66196D54E0",
+        "lastModified": "2021-05-24T16:56:08.873",
+        "created": "2017-03-07T16:13:37.627",
+        "titles": [
+          {
+            "title": "EMC RecoverPoint For Virtual Machines 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:recoverpoint_for_virtual_machines:4.4.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "9BFCDD24-0B74-47EA-9287-127327750F62",
+        "lastModified": "2021-05-24T16:56:08.873",
+        "created": "2017-03-24T18:54:14.127",
+        "titles": [
+          {
+            "title": "EMC RecoverPoint For Virtual Machines 4.4.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:emc:recoverpoint_for_virtual_machines:5.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "5412DB03-8984-40F9-BCB6-B1093138D258",
+        "lastModified": "2021-05-24T14:10:42.743",
+        "created": "2018-06-12T15:02:37.367",
+        "titles": [
+          {
+            "title": "EMC Recoverpoint For Virtual Machines 5.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:emc_recoverpoint_for_virtual_machines:5.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "31DAC6FF-7385-4237-887C-B94A4835560A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:recoverpoint_for_virtual_machines:5.1.1.3:*:*:*:*:*:*:*",
+        "cpeNameId": "B0699138-23F5-491F-B36A-E618A7987AA7",
+        "lastModified": "2021-05-24T16:56:08.873",
+        "created": "2018-06-28T16:37:49.657",
+        "titles": [
+          {
+            "title": "EMC RecoverPoint for Virtual Machines 5.1.1.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emc:recoverpoint_for_virtual_machines:5.2.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "36ACC701-236D-43EB-8B68-C352E5E2E4DD",
+        "lastModified": "2021-05-24T16:56:08.873",
+        "created": "2018-12-13T18:13:14.193",
+        "titles": [
+          {
+            "title": "Emc RecoverPoint For Virtual Machines 5.2.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emc:recoverpoint_for_virtual_machines:4.0:*:*:*:*:*:*:*",
+      "title": "EMC RecoverPoint For Virtual Machines 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:recoverpoint_for_virtual_machines:4.4.1.1:*:*:*:*:*:*:*",
+      "title": "EMC RecoverPoint For Virtual Machines 4.4.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:recoverpoint_for_virtual_machines:5.1.1:*:*:*:*:*:*:*",
+      "title": "EMC Recoverpoint For Virtual Machines 5.1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:emc_recoverpoint_for_virtual_machines:5.1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:emc:recoverpoint_for_virtual_machines:5.1.1.3:*:*:*:*:*:*:*",
+      "title": "EMC RecoverPoint for Virtual Machines 5.1.1.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emc:recoverpoint_for_virtual_machines:5.2.0.2:*:*:*:*:*:*:*",
+      "title": "Emc RecoverPoint For Virtual Machines 5.2.0.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

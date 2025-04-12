@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emqx:neuron:2.10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "614E3E20-5DEA-4EAB-9199-0C51499632D0",
+        "lastModified": "2025-01-15T18:16:49.100",
+        "created": "2025-01-15T18:16:49.100",
+        "titles": [
+          {
+            "title": "EMQ Neuron 2.10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:emqx:neuron:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CFBD3E30-4465-4715-B496-588D7B2AF14A",
+        "lastModified": "2025-01-15T18:16:49.100",
+        "created": "2025-01-15T18:16:49.100",
+        "titles": [
+          {
+            "title": "EMQ Neuron ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:emqx:neuron:2.10.0:*:*:*:*:*:*:*",
+      "title": "EMQ Neuron 2.10.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:emqx:neuron:-:*:*:*:*:*:*:*",
+      "title": "EMQ Neuron ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
