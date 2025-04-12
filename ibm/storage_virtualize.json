@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:storage_virtualize:8.3:*:*:*:*:*:*:*",
+        "cpeNameId": "BD67F4E0-4044-4A6E-A0AD-9F81A1D9ACBF",
+        "lastModified": "2023-12-19T16:20:51.353",
+        "created": "2023-12-19T16:20:51.353",
+        "titles": [
+          {
+            "title": "IBM Storage Virtualize 8.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:storage_virtualize:8.6:*:*:*:*:*:*:*",
+        "cpeNameId": "5CBD730D-CA31-49F8-9846-48C92CD6EB92",
+        "lastModified": "2024-04-12T12:17:38.530",
+        "created": "2024-04-12T12:17:38.530",
+        "titles": [
+          {
+            "title": "IBM Storage Virtualize 8.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:storage_virtualize:8.3:*:*:*:*:*:*:*",
+      "title": "IBM Storage Virtualize 8.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:storage_virtualize:8.6:*:*:*:*:*:*:*",
+      "title": "IBM Storage Virtualize 8.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

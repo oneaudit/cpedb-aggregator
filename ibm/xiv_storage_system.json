@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:xiv_storage_system:2812-114:*:*:*:*:*:*:*",
+        "cpeNameId": "5654554D-4D0B-4D69-81C1-C71C3EEDF867",
+        "lastModified": "2012-10-22T18:21:34.320",
+        "created": "2012-10-22T14:26:23.400",
+        "titles": [
+          {
+            "title": "IBM XIV Storage System Model 2812-114",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:xiv_storage_system:2810:*:*:*:*:*:*:*",
+        "cpeNameId": "8B9216EB-52C4-4321-A912-AF8BC255AEAB",
+        "lastModified": "2012-10-22T18:21:34.243",
+        "created": "2012-10-22T14:26:23.540",
+        "titles": [
+          {
+            "title": "IBM XIV Storage System Model 2810",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ibm:xiv_storage_system:2812-114:*:*:*:*:*:*:*",
+      "title": "IBM XIV Storage System Model 2812-114",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:ibm:xiv_storage_system:2810:*:*:*:*:*:*:*",
+      "title": "IBM XIV Storage System Model 2810",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

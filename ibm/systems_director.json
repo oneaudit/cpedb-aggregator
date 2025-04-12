@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:systems_director:6.3.6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1085B69D-DD91-47A1-A574-704735F7331A",
+        "lastModified": "2015-09-01T18:11:58.307",
+        "created": "2015-08-24T16:45:04.737",
+        "titles": [
+          {
+            "title": "IBM Systems Director 6.3.6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:systems_director:5.20:*:*:*:*:*:*:*",
+        "cpeNameId": "46C1ED42-E8F6-464A-9239-30D5D98C4FC2",
+        "lastModified": "2015-09-01T18:11:58.403",
+        "created": "2015-08-24T16:45:04.737",
+        "titles": [
+          {
+            "title": "IBM Systems Director 5.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:systems_director:6.3.6.0:*:*:*:*:*:*:*",
+      "title": "IBM Systems Director 6.3.6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:systems_director:5.20:*:*:*:*:*:*:*",
+      "title": "IBM Systems Director 5.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

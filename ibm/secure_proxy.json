@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ibm:secure_proxy:3.4.3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "6AB5DF48-6046-4803-9A76-40443AF3347F",
+        "lastModified": "2024-03-19T17:10:06.580",
+        "created": "2021-07-31T01:06:34.383",
+        "titles": [
+          {
+            "title": "IBM Secure Proxy 3.4.3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ibm:sterling_secure_proxy:3.4.3.2:*:*:*:*:*:*:*",
+            "cpeNameId": "FF6DE63E-AE57-49C7-A198-734E646D0BA0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ibm:secure_proxy:6.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "90094333-485B-40DE-94E0-85A225A99095",
+        "lastModified": "2024-03-19T17:10:06.580",
+        "created": "2021-07-31T01:06:34.383",
+        "titles": [
+          {
+            "title": "IBM Secure Proxy 6.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ibm:sterling_secure_proxy:6.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "C3C31976-540F-4DFA-856F-C68D0E6B0C3E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ibm:secure_proxy:6.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "906FFC67-361C-4482-911C-725F203B6232",
+        "lastModified": "2024-03-19T17:10:06.580",
+        "created": "2021-07-31T01:06:34.383",
+        "titles": [
+          {
+            "title": "IBM Secure Proxy 6.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ibm:sterling_secure_proxy:6.0.2:*:*:*:*:*:*:*",
+            "cpeNameId": "14462873-EBE6-45E6-9F9C-E2938C82618C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:secure_proxy:3.4.3.2:*:*:*:*:*:*:*",
+      "title": "IBM Secure Proxy 3.4.3.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ibm:sterling_secure_proxy:3.4.3.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ibm:secure_proxy:6.0.1:*:*:*:*:*:*:*",
+      "title": "IBM Secure Proxy 6.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ibm:sterling_secure_proxy:6.0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ibm:secure_proxy:6.0.2:*:*:*:*:*:*:*",
+      "title": "IBM Secure Proxy 6.0.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ibm:sterling_secure_proxy:6.0.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

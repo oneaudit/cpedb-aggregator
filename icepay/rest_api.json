@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:icepay:rest_api:0.9:*:*:*:*:.net:*:*",
+        "cpeNameId": "2B519355-4282-4A9A-94FA-C5F0886E6E54",
+        "lastModified": "2023-03-27T15:32:55.070",
+        "created": "2023-03-17T12:48:11.517",
+        "titles": [
+          {
+            "title": "ICEPAY REST API 0.9 for .NET",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:icepay:rest_api:1.0:*:*:*:*:.net:*:*",
+        "cpeNameId": "DC27481D-A370-40E1-B808-FA581CD617F2",
+        "lastModified": "2023-03-27T15:32:55.070",
+        "created": "2023-03-17T12:49:08.823",
+        "titles": [
+          {
+            "title": "ICEPAY REST API 1.0 for .NET",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:icepay:rest_api:0.9:*:*:*:*:.net:*:*",
+      "title": "ICEPAY REST API 0.9 for .NET",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:icepay:rest_api:1.0:*:*:*:*:.net:*:*",
+      "title": "ICEPAY REST API 1.0 for .NET",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

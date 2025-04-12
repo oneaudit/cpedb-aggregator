@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:websphere_mq_light:1.0.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "3C89506C-37C7-408D-8742-D748AEF59730",
+        "lastModified": "2015-08-05T15:36:24.633",
+        "created": "2015-08-04T11:46:12.957",
+        "titles": [
+          {
+            "title": "IBM Websphere MQ Light 1.0.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:websphere_mq_light:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E42E8400-77F2-40E0-8442-431123D328D9",
+        "lastModified": "2015-08-05T15:36:24.713",
+        "created": "2015-08-04T11:46:12.957",
+        "titles": [
+          {
+            "title": "IBM Websphere MQ Light 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:websphere_mq_light:1.0.0.1:*:*:*:*:*:*:*",
+      "title": "IBM Websphere MQ Light 1.0.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:websphere_mq_light:1.0:*:*:*:*:*:*:*",
+      "title": "IBM Websphere MQ Light 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

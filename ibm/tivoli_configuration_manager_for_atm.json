@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:tivoli_configuration_manager_for_atm:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2EF06F0B-EE9C-402A-A5D4-4A7B0018B003",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM Tivoli Configuration Manager for ATM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:tivoli_configuration_manager_for_atm:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "0801BCDB-3FC8-4BA0-9C43-28B7F1ED9A0A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Tivoli Configuration Manager for ATM 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:tivoli_configuration_manager_for_atm:-:*:*:*:*:*:*:*",
+      "title": "IBM Tivoli Configuration Manager for ATM",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:tivoli_configuration_manager_for_atm:2.1:*:*:*:*:*:*:*",
+      "title": "IBM Tivoli Configuration Manager for ATM 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

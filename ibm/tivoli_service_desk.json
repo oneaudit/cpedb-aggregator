@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:tivoli_service_desk:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3D0B1772-5F04-4519-A5F5-711C7240D30D",
+        "lastModified": "2007-11-15T04:16:14.960",
+        "created": "2007-11-15T04:16:14.960",
+        "titles": [
+          {
+            "title": "IBM Tivoli Service Desk",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:tivoli_service_desk:6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "94CFADB8-543B-4160-9DF2-0AE50869CDF7",
+        "lastModified": "2007-11-15T04:16:25.383",
+        "created": "2007-11-15T04:16:25.383",
+        "titles": [
+          {
+            "title": "IBM Tivoli Service Desk 6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:tivoli_service_desk:-:*:*:*:*:*:*:*",
+      "title": "IBM Tivoli Service Desk",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:tivoli_service_desk:6.2:*:*:*:*:*:*:*",
+      "title": "IBM Tivoli Service Desk 6.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

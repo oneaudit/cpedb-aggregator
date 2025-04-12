@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:idrix:truecrypt:7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "123F49D5-7470-446A-9B13-F320B9063C8A",
+        "lastModified": "2021-06-09T18:46:26.653",
+        "created": "2017-01-24T18:55:56.873",
+        "titles": [
+          {
+            "title": "Idrix TrueCrypt 7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:idrix:truecrypt:7.1:a:*:*:*:*:*:*",
+        "cpeNameId": "1DACF683-7179-45B6-8448-BA203F932437",
+        "lastModified": "2021-06-09T18:46:26.653",
+        "created": "2017-01-24T18:55:56.873",
+        "titles": [
+          {
+            "title": "Idrix TrueCrypt 7.1 Alpha",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:idrix:truecrypt:7.2:*:*:*:*:*:*:*",
+      "title": "Idrix TrueCrypt 7.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:idrix:truecrypt:7.1:a:*:*:*:*:*:*",
+      "title": "Idrix TrueCrypt 7.1 Alpha",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

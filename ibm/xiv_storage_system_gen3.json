@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:xiv_storage_system_gen3:2810:*:*:*:*:*:*:*",
+        "cpeNameId": "73AA8B24-FD6D-446C-8768-D7B829BC0BBB",
+        "lastModified": "2012-10-22T18:21:34.400",
+        "created": "2012-10-22T14:26:23.103",
+        "titles": [
+          {
+            "title": "IBM XIV Storage System Gen3 Model 2810",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:xiv_storage_system_gen3:2812-114:*:*:*:*:*:*:*",
+        "cpeNameId": "37EA4EE8-BF1A-4EED-9FFA-DC63EB33AE47",
+        "lastModified": "2012-10-22T18:21:34.477",
+        "created": "2012-10-22T14:26:23.210",
+        "titles": [
+          {
+            "title": "IBM XIV Storage System Gen3 Model 2812-114",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ibm:xiv_storage_system_gen3:2810:*:*:*:*:*:*:*",
+      "title": "IBM XIV Storage System Gen3 Model 2810",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:ibm:xiv_storage_system_gen3:2812-114:*:*:*:*:*:*:*",
+      "title": "IBM XIV Storage System Gen3 Model 2812-114",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

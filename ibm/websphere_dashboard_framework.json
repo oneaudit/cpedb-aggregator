@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:websphere_dashboard_framework:6.1.5:*:*:*:*:*:*:*",
+        "cpeNameId": "0BDF9BCC-28AC-4371-BB64-4543BF6FEF3E",
+        "lastModified": "2014-02-14T16:36:16.237",
+        "created": "2014-02-14T16:33:46.230",
+        "titles": [
+          {
+            "title": "IBM WebSphere Dashboard Framework (WDF) 6.1.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:websphere_dashboard_framework:7.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "F1827097-AFE9-4437-9C3E-39D7BF4D51B1",
+        "lastModified": "2014-02-14T16:36:16.347",
+        "created": "2014-02-14T16:33:46.590",
+        "titles": [
+          {
+            "title": "IBM WebSphere Dashboard Framework (WDF) 7.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:websphere_dashboard_framework:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4E15E067-95A1-4D45-B8E8-A0A8924137A7",
+        "lastModified": "2015-02-18T18:15:35.650",
+        "created": "2014-11-26T20:57:33.497",
+        "titles": [
+          {
+            "title": "IBM WebSphere Dashboard Framework",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:websphere_dashboard_framework:6.1.5:*:*:*:*:*:*:*",
+      "title": "IBM WebSphere Dashboard Framework (WDF) 6.1.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:websphere_dashboard_framework:7.0.1:*:*:*:*:*:*:*",
+      "title": "IBM WebSphere Dashboard Framework (WDF) 7.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:websphere_dashboard_framework:-:*:*:*:*:*:*:*",
+      "title": "IBM WebSphere Dashboard Framework",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

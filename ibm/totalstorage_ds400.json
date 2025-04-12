@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:totalstorage_ds400:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8DD03CFF-5971-4F4A-B0B0-B71E9AEBCA51",
+        "lastModified": "2008-04-14T20:20:17.880",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM TotalStorage DS400 firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:totalstorage_ds400:4.15:*:*:*:*:*:*:*",
+        "cpeNameId": "9B892620-DBBB-4F8A-950E-4E787C29F33E",
+        "lastModified": "2008-04-14T20:20:17.940",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM TotalStorage DS400 firmware 4.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ibm:totalstorage_ds400:-:*:*:*:*:*:*:*",
+      "title": "IBM TotalStorage DS400 firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:ibm:totalstorage_ds400:4.15:*:*:*:*:*:*:*",
+      "title": "IBM TotalStorage DS400 firmware 4.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

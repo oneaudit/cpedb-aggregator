@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:icecms_project:icecms:1.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D20EB9D4-E661-4102-B309-B9961766ECDA",
+        "lastModified": "2023-12-07T15:11:50.590",
+        "created": "2023-09-28T14:29:09.543",
+        "titles": [
+          {
+            "title": "IceCMS Project IceCMS 1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:thecosy:icecms:1.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "E779BB57-0705-4075-8550-48C53D416F23"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:icecms_project:icecms:2.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7BA16C47-4213-4D12-8352-49509535C78F",
+        "lastModified": "2024-02-03T03:15:39.403",
+        "created": "2024-02-03T03:15:39.403",
+        "titles": [
+          {
+            "title": "IceCMS Project IceCMS.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:icecms_project:icecms:1.0.0:*:*:*:*:*:*:*",
+      "title": "IceCMS Project IceCMS 1.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:thecosy:icecms:1.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:icecms_project:icecms:2.0.1:*:*:*:*:*:*:*",
+      "title": "IceCMS Project IceCMS.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

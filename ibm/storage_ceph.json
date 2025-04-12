@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:storage_ceph:6.1z1:*:*:*:*:*:*:*",
+        "cpeNameId": "92B50597-58B4-4772-ADBF-92DDB9415F18",
+        "lastModified": "2024-04-12T12:17:38.530",
+        "created": "2024-04-12T12:17:38.530",
+        "titles": [
+          {
+            "title": "IBM Storage Ceph 6.1z1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:storage_ceph:5.3z1:*:*:*:*:*:*:*",
+        "cpeNameId": "B9DDCC26-BF1D-46F8-9145-9873284E7335",
+        "lastModified": "2024-04-12T12:17:38.530",
+        "created": "2024-04-12T12:17:38.530",
+        "titles": [
+          {
+            "title": "IBM Storage Ceph 5.3z1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:storage_ceph:5.3z5:*:*:*:*:*:*:*",
+        "cpeNameId": "77CCEC78-82A1-4138-AF36-EB4A0C10AA76",
+        "lastModified": "2024-04-12T12:17:38.530",
+        "created": "2024-04-12T12:17:38.530",
+        "titles": [
+          {
+            "title": "IBM Storage Ceph 5.3z5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:storage_ceph:6.1z1:*:*:*:*:*:*:*",
+      "title": "IBM Storage Ceph 6.1z1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:storage_ceph:5.3z1:*:*:*:*:*:*:*",
+      "title": "IBM Storage Ceph 5.3z1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:storage_ceph:5.3z5:*:*:*:*:*:*:*",
+      "title": "IBM Storage Ceph 5.3z5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

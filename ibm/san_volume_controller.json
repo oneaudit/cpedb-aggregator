@@ -1,0 +1,136 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ibm:san_volume_controller:6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "028C1A08-9DC4-4B7B-B04E-93B4D4D8FEDC",
+        "lastModified": "2014-03-31T16:29:10.457",
+        "created": "2013-02-20T14:11:04.100",
+        "titles": [
+          {
+            "title": "IBM SAN Volume Controller 6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ibm:san_volume_controller_software:6.1.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "64663086-C431-4E4D-9AAF-E73D9F3805B0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ibm:san_volume_controller:6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "A0ACB269-A18E-4982-9419-C1C3D0F275D3",
+        "lastModified": "2014-03-31T16:30:25.773",
+        "created": "2013-02-20T14:11:04.333",
+        "titles": [
+          {
+            "title": "IBM SAN Volume Controller 6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ibm:san_volume_controller_software:6.2.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "588E10BB-90BE-4721-A825-261FDB13F0BD"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ibm:san_volume_controller:6.3:*:*:*:*:*:*:*",
+        "cpeNameId": "77EAFFB5-51A1-4928-AFA6-16A47312FC8B",
+        "lastModified": "2014-03-31T16:31:23.837",
+        "created": "2013-02-20T14:11:04.553",
+        "titles": [
+          {
+            "title": "IBM SAN Volume Controller 6.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ibm:san_volume_controller_software:6.3.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "00CFC354-F276-48EB-8B75-687A027D4A58"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ibm:san_volume_controller:6.4:*:*:*:*:*:*:*",
+        "cpeNameId": "36B7E179-0984-40D8-90F2-CA9A631556F2",
+        "lastModified": "2014-03-31T16:32:54.327",
+        "created": "2013-02-20T14:11:04.707",
+        "titles": [
+          {
+            "title": "IBM SAN Volume Controller 6.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ibm:san_volume_controller_software:6.4.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2234E439-49B9-4037-BF2B-DA527FCBEC83"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:san_volume_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2D9BF2E7-5CD5-4226-994F-A7C130245C01",
+        "lastModified": "2014-03-31T16:28:09.067",
+        "created": "2014-03-31T16:12:58.580",
+        "titles": [
+          {
+            "title": "IBM SAN Volume Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:san_volume_controller:6.1:*:*:*:*:*:*:*",
+      "title": "IBM SAN Volume Controller 6.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ibm:san_volume_controller_software:6.1.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ibm:san_volume_controller:6.2:*:*:*:*:*:*:*",
+      "title": "IBM SAN Volume Controller 6.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ibm:san_volume_controller_software:6.2.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ibm:san_volume_controller:6.3:*:*:*:*:*:*:*",
+      "title": "IBM SAN Volume Controller 6.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ibm:san_volume_controller_software:6.3.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ibm:san_volume_controller:6.4:*:*:*:*:*:*:*",
+      "title": "IBM SAN Volume Controller 6.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ibm:san_volume_controller_software:6.4.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:ibm:san_volume_controller:-:*:*:*:*:*:*:*",
+      "title": "IBM SAN Volume Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ibm:storwize:v7000:*:*:*:*:*:*:*",
+        "cpeNameId": "AE8955E8-6BDC-493B-8F77-87798D61A259",
+        "lastModified": "2014-06-03T18:13:39.147",
+        "created": "2013-02-20T14:11:04.863",
+        "titles": [
+          {
+            "title": "IBM Storwize V7000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:ibm:storwize_v7000:-:*:*:*:*:*:*:*",
+            "cpeNameId": "8883FF86-7EA9-4156-B379-D0CB584A0282"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:storwize:v7000:*:*:*:*:*:*:*",
+      "title": "IBM Storwize V7000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:ibm:storwize_v7000:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:websphere_real_time:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "02A41E5A-51D6-45EC-8A66-F93623C59906",
+        "lastModified": "2013-01-16T19:26:19.890",
+        "created": "2013-01-11T15:26:40.743",
+        "titles": [
+          {
+            "title": "IBM Websphere Real Time 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:websphere_real_time:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5B078173-37E9-4CFE-8A06-797B53A34DC2",
+        "lastModified": "2013-01-16T19:26:20.013",
+        "created": "2013-01-11T15:26:40.930",
+        "titles": [
+          {
+            "title": "IBM Websphere Real Time 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:websphere_real_time:2.0:*:*:*:*:*:*:*",
+      "title": "IBM Websphere Real Time 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:websphere_real_time:3.0:*:*:*:*:*:*:*",
+      "title": "IBM Websphere Real Time 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

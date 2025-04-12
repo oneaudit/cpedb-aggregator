@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:tivoli_configuration_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D10C3C18-FAE3-4AEC-9E01-9C87FEA1F43F",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM Tivoli Configuration Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:tivoli_configuration_manager:4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "449E6B6E-783D-40D9-A6A2-911EC38676EB",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM Tivoli Configuration Manager 4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:tivoli_configuration_manager:-:*:*:*:*:*:*:*",
+      "title": "IBM Tivoli Configuration Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:tivoli_configuration_manager:4.2:*:*:*:*:*:*:*",
+      "title": "IBM Tivoli Configuration Manager 4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:security_access_manager_for_mobile_appliance:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A756420D-EBD4-4848-83E9-801FB96A19F7",
+        "lastModified": "2014-06-24T15:02:20.107",
+        "created": "2014-06-23T16:01:58.293",
+        "titles": [
+          {
+            "title": "IBM Security Access Manager for Mobile appliance 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:ibm:security_access_manager_for_mobile_appliance:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5EFA13BB-C6D1-4564-9BAE-E5AA02AC3EC5",
+        "lastModified": "2021-06-09T14:53:01.470",
+        "created": "2018-01-30T15:31:10.723",
+        "titles": [
+          {
+            "title": "IBM Security Access Manager For Mobile Appliance",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:ibm:security_access_manager_for_mobile_appliance:8.0:*:*:*:*:*:*:*",
+      "title": "IBM Security Access Manager for Mobile appliance 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:ibm:security_access_manager_for_mobile_appliance:-:*:*:*:*:*:*:*",
+      "title": "IBM Security Access Manager For Mobile Appliance",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

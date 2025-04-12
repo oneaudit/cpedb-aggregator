@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:tivoli_storage_manager_express:-:*:*:*:*:*:*:*",
+        "cpeNameId": "824C3225-C780-468A-B485-DA1AE5D37653",
+        "lastModified": "2008-01-14T15:27:35.483",
+        "created": "2008-01-14T15:27:35.483",
+        "titles": [
+          {
+            "title": "IBM Tivoli Storage Manager Express",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:tivoli_storage_manager_express:5.3:*:*:*:*:*:*:*",
+        "cpeNameId": "E4B86443-60A3-4946-9434-2478BB08A2E7",
+        "lastModified": "2008-01-14T15:27:59.160",
+        "created": "2008-01-14T15:27:59.160",
+        "titles": [
+          {
+            "title": "IBM Tivoli Storage Manager Express 5.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:tivoli_storage_manager_express:-:*:*:*:*:*:*:*",
+      "title": "IBM Tivoli Storage Manager Express",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:tivoli_storage_manager_express:5.3:*:*:*:*:*:*:*",
+      "title": "IBM Tivoli Storage Manager Express 5.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

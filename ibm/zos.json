@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ibm:zos:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F457B56B-7050-43C6-8070-51305A35ADBC",
+        "lastModified": "2011-01-25T15:30:19.637",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "IBM z/OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:ibm:z\\/os:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0B23E62E-759B-4691-88B4-9427B758E1E7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:ibm:zos:6.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "88CA7428-3329-4E07-84CB-428DB1D2BC8E",
+        "lastModified": "2011-01-25T15:30:19.777",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "IBM RACF",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ibm:racf:-:*:*:*:*:*:*:*",
+            "cpeNameId": "844DAA25-4126-4B00-8ABB-C0D987258E8E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ibm:zos:-:*:*:*:*:*:*:*",
+      "title": "IBM z/OS",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:ibm:z\\/os:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:ibm:zos:6.0.1:*:*:*:*:*:*:*",
+      "title": "IBM RACF",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ibm:racf:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

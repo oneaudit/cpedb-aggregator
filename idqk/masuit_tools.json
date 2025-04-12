@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:idqk:masuit.tools:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FEF8A3A1-9431-4D3F-8F83-4213F05CA9A3",
+        "lastModified": "2022-10-07T15:11:28.607",
+        "created": "2022-05-06T15:57:59.923",
+        "titles": [
+          {
+            "title": "Idqk Masuit.tools",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ldqk:masuit.tools:-:*:*:*:*:*:*:*",
+            "cpeNameId": "88683180-589B-4294-8CF0-10B007ECDB4A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:idqk:masuit.tools:-:*:*:*:*:*:*:*",
+      "title": "Idqk Masuit.tools",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ldqk:masuit.tools:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

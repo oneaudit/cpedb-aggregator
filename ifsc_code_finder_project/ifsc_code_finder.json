@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ifsc_code_finder_project:ifsc_code_finder:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "10EF38FE-37BC-4D2C-AA5C-6476B15E820C",
+        "lastModified": "2023-11-14T21:14:47.580",
+        "created": "2021-10-14T14:10:27.707",
+        "titles": [
+          {
+            "title": "IFSC Code Finder Project IFSC Code Finder 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:ifsc_code_finder:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "9007A6A9-306E-4357-8BB8-F060DB83492E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ifsc_code_finder_project:ifsc_code_finder:1.0:*:*:*:*:*:*:*",
+      "title": "IFSC Code Finder Project IFSC Code Finder 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:ifsc_code_finder:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

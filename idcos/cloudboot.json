@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:idcos:cloudboot:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8B8C06C7-2871-4D53-9BB4-7EF89B29F93C",
+        "lastModified": "2020-01-07T16:04:08.423",
+        "created": "2020-01-07T16:04:08.423",
+        "titles": [
+          {
+            "title": "iDC OS CloudBoot",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:idcos:cloudboot:2019-03-08:*:*:*:*:*:*:*",
+        "cpeNameId": "F612A86B-A8E7-436C-8B83-C33AD485F6B2",
+        "lastModified": "2020-01-07T16:04:08.797",
+        "created": "2020-01-07T16:04:08.797",
+        "titles": [
+          {
+            "title": "iDC OS CloudBoot 2019-03-08",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:idcos:cloudboot:-:*:*:*:*:*:*:*",
+      "title": "iDC OS CloudBoot",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:idcos:cloudboot:2019-03-08:*:*:*:*:*:*:*",
+      "title": "iDC OS CloudBoot 2019-03-08",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

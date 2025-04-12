@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:xiv_storage_system_gen3_firmware:11.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FC19D08D-503C-409D-8065-B77753E5CD0D",
+        "lastModified": "2012-10-22T18:21:34.540",
+        "created": "2012-10-22T14:26:22.960",
+        "titles": [
+          {
+            "title": "IBM XIV Storage System Gen3 Firmware 11.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:ibm:xiv_storage_system_gen3_firmware:11.1.0:a:*:*:*:*:*:*",
+        "cpeNameId": "E10B8474-8003-4518-8970-7D6D564C5F41",
+        "lastModified": "2012-10-22T18:21:34.617",
+        "created": "2012-10-22T14:26:23.697",
+        "titles": [
+          {
+            "title": "IBM XIV Storage System Gen3 Firmware 11.1.0a",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:ibm:xiv_storage_system_gen3_firmware:11.1.0:*:*:*:*:*:*:*",
+      "title": "IBM XIV Storage System Gen3 Firmware 11.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:ibm:xiv_storage_system_gen3_firmware:11.1.0:a:*:*:*:*:*:*",
+      "title": "IBM XIV Storage System Gen3 Firmware 11.1.0a",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

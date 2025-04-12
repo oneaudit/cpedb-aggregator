@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:tivoli_netcool\\/omnibus_webgui:8.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B5D5FF5B-9360-4037-BB44-B6E309C1EA9A",
+        "lastModified": "2021-05-17T17:45:50.457",
+        "created": "2021-03-12T13:32:01.483",
+        "titles": [
+          {
+            "title": "IBM  Tivoli Netcool/OMNIbus WebGUI 8.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ibm:tivoli_netcool\\/omnibus_webgui:-:*:*:*:*:*:*:*",
+        "cpeNameId": "750DB036-F6F3-4DAB-8211-2343369A239E",
+        "lastModified": "2024-04-12T12:17:38.530",
+        "created": "2024-04-12T12:17:38.530",
+        "titles": [
+          {
+            "title": "IBM Tivoli Netcool/OMNIbus_GUI",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ibm:tivoli_netcool\\/omnibus_webgui:8.1.0:*:*:*:*:*:*:*",
+      "title": "IBM  Tivoli Netcool/OMNIbus WebGUI 8.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ibm:tivoli_netcool\\/omnibus_webgui:-:*:*:*:*:*:*:*",
+      "title": "IBM Tivoli Netcool/OMNIbus_GUI",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
