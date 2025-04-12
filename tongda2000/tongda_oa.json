@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tongda2000:tongda_oa:11.10:*:*:*:*:*:*:*",
+        "cpeNameId": "45DAAFA4-0D02-4762-A409-8188C3766C5F",
+        "lastModified": "2023-12-16T04:28:17.570",
+        "created": "2022-02-17T14:48:21.663",
+        "titles": [
+          {
+            "title": "Tongda2000 Office Anywhere 11.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tongda2000:tongda_office_anywhere:11.10:*:*:*:*:*:*:*",
+            "cpeNameId": "9B9CCCE4-30BD-4C26-AE1C-2F660E102879"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tongda2000:tongda_oa:2017:*:*:*:*:*:*:*",
+        "cpeNameId": "28E64EEF-7B24-4A28-BF71-B3FA7C5D84CE",
+        "lastModified": "2023-12-16T04:28:17.570",
+        "created": "2023-09-19T17:13:42.080",
+        "titles": [
+          {
+            "title": "Tongda2000 Tongda  2017",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tongda2000:tongda_office_anywhere:2017:*:*:*:*:*:*:*",
+            "cpeNameId": "32E95D4C-7473-4866-8183-23965E6056E2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:tongda2000:tongda_oa:11.10:*:*:*:*:*:*:*",
+      "title": "Tongda2000 Office Anywhere 11.10",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tongda2000:tongda_office_anywhere:11.10:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:tongda2000:tongda_oa:2017:*:*:*:*:*:*:*",
+      "title": "Tongda2000 Tongda  2017",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tongda2000:tongda_office_anywhere:2017:*:*:*:*:*:*:*"
+    }
+  ]
+}

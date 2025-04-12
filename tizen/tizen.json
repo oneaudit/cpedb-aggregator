@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tizen:tizen:-:*:*:*:*:*:*:*",
+        "cpeNameId": "86476E43-F1E0-4120-A8B6-F9D5083E97AC",
+        "lastModified": "2013-05-30T20:33:07.523",
+        "created": "2013-01-02T18:03:48.617",
+        "titles": [
+          {
+            "title": "Tizen",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:tizen:tizen:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0093E9AC-F85A-4900-BA30-967B390D91F7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:tizen:tizen:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0093E9AC-F85A-4900-BA30-967B390D91F7",
+        "lastModified": "2020-02-07T16:02:49.717",
+        "created": "2013-05-30T20:33:07.360",
+        "titles": [
+          {
+            "title": "Tizen",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:linux:tizen:-:*:*:*:*:*:*:*",
+            "cpeNameId": "48AADB6B-C076-4674-98EA-B26835DD6DD5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:tizen:tizen:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "5E804D9F-1571-407E-8D6A-E3E3A4BE0DDB",
+        "lastModified": "2020-02-07T16:02:51.327",
+        "created": "2013-05-30T20:33:07.460",
+        "titles": [
+          {
+            "title": "Tizen 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:linux:tizen:2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "38F6AD49-9B3C-4B58-86E6-1C3E32D0D888"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:tizen:tizen:-:*:*:*:*:*:*:*",
+      "title": "Tizen",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:tizen:tizen:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:tizen:tizen:-:*:*:*:*:*:*:*",
+      "title": "Tizen",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:linux:tizen:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:tizen:tizen:2.1:*:*:*:*:*:*:*",
+      "title": "Tizen 2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:linux:tizen:2.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

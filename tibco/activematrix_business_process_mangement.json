@@ -1,0 +1,104 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tibco:activematrix_business_process_mangement:4.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C8F558E6-00D6-4196-BD3E-7419E35A00C8",
+        "lastModified": "2021-11-02T16:28:40.120",
+        "created": "2019-04-29T18:46:50.063",
+        "titles": [
+          {
+            "title": "TIBCO Activematrix Business Process Mangement (BPM) 4.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tibco:activematrix_business_process_mangement:4.1.0:*:*:*:-:*:*:*",
+            "cpeNameId": "44A1A3F7-689F-4F5A-9E23-0C23DD94B173"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:tibco:activematrix_business_process_mangement:4.1.0:*:*:*:*:silver_fabric:*:*",
+        "cpeNameId": "8134E8D0-6F38-40F4-B74D-DA35F8F3F3CD",
+        "lastModified": "2021-05-17T12:01:10.030",
+        "created": "2019-04-29T18:46:50.170",
+        "titles": [
+          {
+            "title": "TIBCO Activematrix Business Process Mangement 4.1.0 for Silver Fabric",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:tibco:activematrix_business_process_mangement:4.1.0:*:*:*:-:*:*:*",
+        "cpeNameId": "44A1A3F7-689F-4F5A-9E23-0C23DD94B173",
+        "lastModified": "2021-11-02T16:46:40.737",
+        "created": "2021-11-02T16:27:25.147",
+        "titles": [
+          {
+            "title": "TIBCO Activematrix Business Process Mangement (BPM) 4.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tibco:activematrix_business_process_mangement:4.1.0:*:*:*:*:-:*:*",
+            "cpeNameId": "F2731EE4-B5ED-4F4C-9122-890AAD71A80C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:tibco:activematrix_business_process_mangement:4.1.0:*:*:*:*:-:*:*",
+        "cpeNameId": "F2731EE4-B5ED-4F4C-9122-890AAD71A80C",
+        "lastModified": "2021-11-02T16:46:40.737",
+        "created": "2021-11-02T16:45:05.587",
+        "titles": [
+          {
+            "title": "TIBCO Activematrix Business Process Mangement (BPM) 4.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:tibco:activematrix_business_process_mangement:4.1.0:*:*:*:*:*:*:*",
+      "title": "TIBCO Activematrix Business Process Mangement (BPM) 4.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tibco:activematrix_business_process_mangement:4.1.0:*:*:*:-:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:tibco:activematrix_business_process_mangement:4.1.0:*:*:*:*:silver_fabric:*:*",
+      "title": "TIBCO Activematrix Business Process Mangement 4.1.0 for Silver Fabric",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:tibco:activematrix_business_process_mangement:4.1.0:*:*:*:-:*:*:*",
+      "title": "TIBCO Activematrix Business Process Mangement (BPM) 4.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tibco:activematrix_business_process_mangement:4.1.0:*:*:*:*:-:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:tibco:activematrix_business_process_mangement:4.1.0:*:*:*:*:-:*:*",
+      "title": "TIBCO Activematrix Business Process Mangement (BPM) 4.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

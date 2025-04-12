@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:thalesgroup:safenet_windows_logon_agent:3.4.4:*:*:*:*:*:*:*",
+        "cpeNameId": "B5236DB6-3A75-4067-AA28-4290614388F0",
+        "lastModified": "2022-01-04T15:20:05.433",
+        "created": "2021-12-23T15:42:57.227",
+        "titles": [
+          {
+            "title": "Thales SafeNet Windows Logon Agent (WLA) 3.4.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:thalesgroup:safenet_windows_logon_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "409AADA1-ADD1-4448-88B4-B6CF98727AC9",
+        "lastModified": "2022-01-04T15:20:05.433",
+        "created": "2021-12-23T15:42:57.227",
+        "titles": [
+          {
+            "title": "Thales SafeNet Windows Logon Agent (WLA)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:thalesgroup:safenet_windows_logon_agent:3.4.4:*:*:*:*:*:*:*",
+      "title": "Thales SafeNet Windows Logon Agent (WLA) 3.4.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:thalesgroup:safenet_windows_logon_agent:-:*:*:*:*:*:*:*",
+      "title": "Thales SafeNet Windows Logon Agent (WLA)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:themify:themify_ultra:7.3.6:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "872A1B42-47B9-4615-80E1-11B19AB6ED70",
+        "lastModified": "2024-09-16T14:11:41.993",
+        "created": "2023-12-29T10:15:30.570",
+        "titles": [
+          {
+            "title": "Themify Themify Ultra 7.3.6 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:themify:ultra:7.3.6:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "C9DEA7FF-E768-461E-A630-F266228FFD03"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:themify:themify_ultra:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "50A27602-CD9A-440F-9324-D2572EED626F",
+        "lastModified": "2024-09-16T14:11:41.993",
+        "created": "2023-12-29T10:15:30.570",
+        "titles": [
+          {
+            "title": "Themify Themify Ultra for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:themify:ultra:-:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "F2D99FEE-655D-4E24-A522-0CD57A6DF7AC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:themify:themify_ultra:7.3.5:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "05F50E38-2475-42AF-8F58-CC2ADBC512BF",
+        "lastModified": "2024-09-16T14:11:41.993",
+        "created": "2023-12-29T10:15:30.570",
+        "titles": [
+          {
+            "title": "Themify Themify Ultra 7.3.5 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:themify:ultra:7.3.5:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "AE77596D-8EA8-4FBB-B34D-A8EF67FFB4BB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:themify:themify_ultra:7.3.6:*:*:*:*:wordpress:*:*",
+      "title": "Themify Themify Ultra 7.3.6 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:themify:ultra:7.3.6:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:themify:themify_ultra:-:*:*:*:*:wordpress:*:*",
+      "title": "Themify Themify Ultra for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:themify:ultra:-:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:themify:themify_ultra:7.3.5:*:*:*:*:wordpress:*:*",
+      "title": "Themify Themify Ultra 7.3.5 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:themify:ultra:7.3.5:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

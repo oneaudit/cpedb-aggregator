@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:torrentflux:torrentflux:2.4:*:*:*:*:*:*:*",
+        "cpeNameId": "9A3C5E73-4DD2-4DA9-8582-A593C4228BFF",
+        "lastModified": "2020-01-30T15:48:35.050",
+        "created": "2014-09-05T18:51:01.977",
+        "titles": [
+          {
+            "title": "TorrentFlux TorrentFlux 2.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:torrentflux_project:torrentflux:2.4:*:*:*:*:*:*:*",
+            "cpeNameId": "7E645B2B-061A-4A33-872E-81E24FB7C6D7"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:torrentflux:torrentflux:2.4:*:*:*:*:*:*:*",
+      "title": "TorrentFlux TorrentFlux 2.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:torrentflux_project:torrentflux:2.4:*:*:*:*:*:*:*"
+    }
+  ]
+}

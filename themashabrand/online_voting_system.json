@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:themashabrand:online_voting_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AC40ABE4-7B1D-4437-8038-BF6A9C0131EC",
+        "lastModified": "2020-02-19T18:47:18.027",
+        "created": "2020-02-19T18:45:01.613",
+        "titles": [
+          {
+            "title": "TheMashaBrand Online Voting Platform 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:themashabrand:online_voting_platform:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "9E4BC7CD-D05E-41CA-B8D8-A0917F1A37B9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:themashabrand:online_voting_system:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "BCC0E0BB-65E6-4CE3-88BE-775EA0F64EA6",
+        "lastModified": "2020-02-19T18:47:18.917",
+        "created": "2020-02-19T18:45:01.737",
+        "titles": [
+          {
+            "title": "TheMashaBrand Online Voting Platform 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:themashabrand:online_voting_platform:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "54B71825-B6A8-48FC-8DE2-41ECFC230367"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:themashabrand:online_voting_system:1.0:*:*:*:*:*:*:*",
+      "title": "TheMashaBrand Online Voting Platform 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:themashabrand:online_voting_platform:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:themashabrand:online_voting_system:2.0:*:*:*:*:*:*:*",
+      "title": "TheMashaBrand Online Voting Platform 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:themashabrand:online_voting_platform:2.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

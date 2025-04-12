@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:themexa:secure_file_manager:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "1E3538D2-BFCB-455E-9CA0-E315308E5FAE",
+        "lastModified": "2020-12-17T16:49:38.347",
+        "created": "2020-12-17T16:49:38.347",
+        "titles": [
+          {
+            "title": "Themexa Secure File Manager for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:themexa:secure_file_manager:2.5:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "F9EC7537-FC39-422B-A8E1-000745293998",
+        "lastModified": "2020-12-17T16:49:38.660",
+        "created": "2020-12-17T16:49:38.660",
+        "titles": [
+          {
+            "title": "Themexa Secure File Manager 2.5 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:themexa:secure_file_manager:-:*:*:*:*:wordpress:*:*",
+      "title": "Themexa Secure File Manager for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:themexa:secure_file_manager:2.5:*:*:*:*:wordpress:*:*",
+      "title": "Themexa Secure File Manager 2.5 for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
