@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nokia:service_router_operating_system:22.10:*:*:*:*:*:*:*",
+        "cpeNameId": "FC0C2577-F2AE-41D6-925C-E9BE19D0DFE3",
+        "lastModified": "2023-09-07T18:11:23.160",
+        "created": "2023-09-05T14:40:11.737",
+        "titles": [
+          {
+            "title": "Nokia Service Router Operating System (SR OS) 22.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:nokia:service_router_operating_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D1B04D6C-E495-4E5B-9C08-ED34755EBE50",
+        "lastModified": "2023-09-07T18:11:23.160",
+        "created": "2023-09-05T14:40:44.070",
+        "titles": [
+          {
+            "title": "Nokia Service Router Operating System (SR OS)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:nokia:service_router_operating_system:22.10:*:*:*:*:*:*:*",
+      "title": "Nokia Service Router Operating System (SR OS) 22.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:nokia:service_router_operating_system:-:*:*:*:*:*:*:*",
+      "title": "Nokia Service Router Operating System (SR OS)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

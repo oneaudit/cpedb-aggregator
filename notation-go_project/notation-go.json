@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:notation-go_project:notation-go:0.7.0:alpha1:*:*:*:*:*:*",
+        "cpeNameId": "BC9E8EDC-32C4-4FDE-B278-60024A7D2E6A",
+        "lastModified": "2024-02-29T21:18:27.563",
+        "created": "2023-02-28T12:41:12.450",
+        "titles": [
+          {
+            "title": "Notation-go Project Notation-go 0.7.0 Alpha 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:notaryproject:notation-go:0.7.0:alpha1:*:*:*:*:*:*",
+            "cpeNameId": "C9267869-D14E-43DA-95C7-9846EA2DC8B7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:notation-go_project:notation-go:0.8.0:alpha1:*:*:*:*:*:*",
+        "cpeNameId": "98072BF6-1CFE-4E3F-BA1A-3709DD00F302",
+        "lastModified": "2024-02-29T21:18:27.563",
+        "created": "2023-02-28T12:41:12.450",
+        "titles": [
+          {
+            "title": "Notation-go Project Notation-go 0.8.0 Alpha 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:notaryproject:notation-go:0.8.0:alpha1:*:*:*:*:*:*",
+            "cpeNameId": "9603CE9A-0FA7-49FF-914A-A6411FF3FC17"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:notation-go_project:notation-go:0.9.0:alpha1:*:*:*:*:*:*",
+        "cpeNameId": "B3DA43BB-1ED9-43CC-B6AE-C5A671F0A6D4",
+        "lastModified": "2024-02-29T21:18:27.563",
+        "created": "2023-02-28T12:41:12.450",
+        "titles": [
+          {
+            "title": "Notation-go Project Notation-go 0.9.0 Alpha 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:notaryproject:notation-go:0.9.0:alpha1:*:*:*:*:*:*",
+            "cpeNameId": "A5403B28-E9FF-477C-8C81-5765F0E5C38B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:notation-go_project:notation-go:0.7.0:alpha1:*:*:*:*:*:*",
+      "title": "Notation-go Project Notation-go 0.7.0 Alpha 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:notaryproject:notation-go:0.7.0:alpha1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:notation-go_project:notation-go:0.8.0:alpha1:*:*:*:*:*:*",
+      "title": "Notation-go Project Notation-go 0.8.0 Alpha 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:notaryproject:notation-go:0.8.0:alpha1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:notation-go_project:notation-go:0.9.0:alpha1:*:*:*:*:*:*",
+      "title": "Notation-go Project Notation-go 0.9.0 Alpha 1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:notaryproject:notation-go:0.9.0:alpha1:*:*:*:*:*:*"
+    }
+  ]
+}

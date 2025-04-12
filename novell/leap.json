@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:novell:leap:42.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6F8D7DE5-365C-49A6-9C4C-DBB5FBED2FFD",
+        "lastModified": "2018-01-25T12:51:09.493",
+        "created": "2015-11-10T16:26:49.670",
+        "titles": [
+          {
+            "title": "Novell Leap 42.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:opensuse:leap:42.0:*:*:*:*:*:*:*",
+            "cpeNameId": "B2AB3C79-028C-46C8-B2C2-4514206839A2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:novell:leap:42.1:*:*:*:*:*:*:*",
+        "cpeNameId": "816133F9-1B6F-46C3-ADFA-F4169140BDC3",
+        "lastModified": "2018-01-25T12:51:09.540",
+        "created": "2015-12-04T14:24:40.437",
+        "titles": [
+          {
+            "title": "Novell Leap 42.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:opensuse:leap:42.1:*:*:*:*:*:*:*",
+            "cpeNameId": "BEBD416A-3E29-4FC3-BDB6-FDAA154B6FBE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:novell:leap:42.0:*:*:*:*:*:*:*",
+      "title": "Novell Leap 42.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:opensuse:leap:42.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:novell:leap:42.1:*:*:*:*:*:*:*",
+      "title": "Novell Leap 42.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:opensuse:leap:42.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

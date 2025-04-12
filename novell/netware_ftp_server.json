@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:novell:netware_ftp_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7B401647-DF80-4A88-8465-8555501FDDF7",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Novell Netware FTP Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:novell:netware_ftp_server:5.07:*:*:*:*:*:*:*",
+        "cpeNameId": "C7B40D6E-2D03-4D52-B337-58FB1E7919DD",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Novell Netware FTP Server 5.07",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:novell:netware_ftp_server:5.06.05:*:*:*:*:*:*:*",
+        "cpeNameId": "6C150A92-B453-49F2-AA8B-40084E897025",
+        "lastModified": "2008-04-01T16:40:19.627",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Novell Netware NWFTPD 5.06.05",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:novell:netware_ftp_server:-:*:*:*:*:*:*:*",
+      "title": "Novell Netware FTP Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:novell:netware_ftp_server:5.07:*:*:*:*:*:*:*",
+      "title": "Novell Netware FTP Server 5.07",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:novell:netware_ftp_server:5.06.05:*:*:*:*:*:*:*",
+      "title": "Novell Netware NWFTPD 5.06.05",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

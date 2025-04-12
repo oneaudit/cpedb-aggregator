@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:novell:suse_linux_software_development_kit:11.0:sp2:enterprise:*:*:*:*:*",
+        "cpeNameId": "369CD8C5-8B4C-4185-AD92-C37345993FCC",
+        "lastModified": "2015-01-14T16:30:51.690",
+        "created": "2013-10-03T18:03:34.003",
+        "titles": [
+          {
+            "title": "Novell SUSE Linux Enterprise Software Development Kit 11.0 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:suse:suse_linux_enterprise_software_development_kit:11.0:sp2:*:*:*:*:*:*",
+            "cpeNameId": "FB623CC6-5DF5-4BCC-80A6-6DEC49C192E6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:novell:suse_linux_software_development_kit:11.0:sp3:enterprise:*:*:*:*:*",
+        "cpeNameId": "95C262C9-8683-4DF3-9882-B7433C328AFA",
+        "lastModified": "2015-03-25T14:17:59.610",
+        "created": "2013-10-03T18:03:56.033",
+        "titles": [
+          {
+            "title": "Novell SUSE Linux Enterprise Software Development Kit 11.0 Service Pack 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:suse:suse_linux_enterprise_software_development_kit:11.0:sp3:*:*:*:*:*:*",
+            "cpeNameId": "6250BBFB-BAFA-4222-8BE0-0CC68AB09FDE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:novell:suse_linux_software_development_kit:11.0:sp2:enterprise:*:*:*:*:*",
+      "title": "Novell SUSE Linux Enterprise Software Development Kit 11.0 Service Pack 2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:suse:suse_linux_enterprise_software_development_kit:11.0:sp2:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:novell:suse_linux_software_development_kit:11.0:sp3:enterprise:*:*:*:*:*",
+      "title": "Novell SUSE Linux Enterprise Software Development Kit 11.0 Service Pack 3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:suse:suse_linux_enterprise_software_development_kit:11.0:sp3:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:nitro_software:nitro_pro:10.5.9.9:*:*:*:*:*:*:*",
+        "cpeNameId": "85A8240C-CCD0-468B-BEA0-5219E132B849",
+        "lastModified": "2021-06-16T13:51:00.657",
+        "created": "2017-02-15T15:36:44.807",
+        "titles": [
+          {
+            "title": "Nitro Software Nitro Pro 10.5.9.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:gonitro:nitro_pdf_pro:10.5.9.9:*:*:*:*:*:*:*",
+            "cpeNameId": "011A9382-D7F6-4363-A4D2-8DDE7746CAAC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:nitro_software:nitro_pro:10.5.5.9:*:*:*:*:*:*:*",
+        "cpeNameId": "9D23D23A-93BB-4E5A-A498-A5324A9C1848",
+        "lastModified": "2021-06-16T13:51:00.657",
+        "created": "2017-02-24T15:09:27.603",
+        "titles": [
+          {
+            "title": "Nitro Software Nitro Pro 10.5.5.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:gonitro:nitro_pdf_pro:10.5.5.9:*:*:*:*:*:*:*",
+            "cpeNameId": "6C866185-075C-419B-ADD6-E5E4EC056F45"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:nitro_software:nitro_pro:10.5.9.9:*:*:*:*:*:*:*",
+      "title": "Nitro Software Nitro Pro 10.5.9.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:gonitro:nitro_pdf_pro:10.5.9.9:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:nitro_software:nitro_pro:10.5.5.9:*:*:*:*:*:*:*",
+      "title": "Nitro Software Nitro Pro 10.5.5.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:gonitro:nitro_pdf_pro:10.5.5.9:*:*:*:*:*:*:*"
+    }
+  ]
+}

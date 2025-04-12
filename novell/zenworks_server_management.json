@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:novell:zenworks_server_management:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AD98739E-4BFE-4A6F-8E14-8E9E41FEE7A0",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Novell ZENworks Server Management",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:novell:zenworks_server_management:6.5:*:*:*:*:*:*:*",
+        "cpeNameId": "3CDB4627-0DC3-47F1-B266-A941CAA26F64",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Novell ZENworks Server Management 6.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:novell:zenworks_server_management:-:*:*:*:*:*:*:*",
+      "title": "Novell ZENworks Server Management",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:novell:zenworks_server_management:6.5:*:*:*:*:*:*:*",
+      "title": "Novell ZENworks Server Management 6.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

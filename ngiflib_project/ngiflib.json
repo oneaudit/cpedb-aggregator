@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ngiflib_project:ngiflib:0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "58962B88-CA7D-4160-8908-F327EAC5584E",
+        "lastModified": "2024-06-06T20:17:46.353",
+        "created": "2019-09-17T14:37:38.777",
+        "titles": [
+          {
+            "title": "ngiflib Project ngiflib 0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:miniupnp_project:ngiflib:0.4:*:*:*:*:*:*:*",
+            "cpeNameId": "F380FCAD-0075-468B-8619-BB4312F8EAAB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ngiflib_project:ngiflib:2023-07-14:*:*:*:*:*:*:*",
+        "cpeNameId": "67855712-2E73-4823-8594-5B4FFF36611A",
+        "lastModified": "2024-06-06T20:20:13.930",
+        "created": "2023-08-07T17:03:37.970",
+        "titles": [
+          {
+            "title": "Ngiflib Project Ngiflib 2023-07-14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:miniupnp_project:ngiflib:0.5:*:*:*:*:*:*:*",
+            "cpeNameId": "4BD3CF2B-3D83-4F54-B228-997CCFB7F605"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ngiflib_project:ngiflib:2023-07-21:*:*:*:*:*:*:*",
+        "cpeNameId": "825BE494-1C1E-4B03-A949-9ACEACAECF75",
+        "lastModified": "2024-06-06T20:21:19.953",
+        "created": "2023-08-07T17:06:15.067",
+        "titles": [
+          {
+            "title": "Ngiflib Project Ngiflib 2023-07-21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:miniupnp_project:ngiflib:0.5:*:*:*:*:*:*:*",
+            "cpeNameId": "4BD3CF2B-3D83-4F54-B228-997CCFB7F605"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ngiflib_project:ngiflib:0.4:*:*:*:*:*:*:*",
+      "title": "ngiflib Project ngiflib 0.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:miniupnp_project:ngiflib:0.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ngiflib_project:ngiflib:2023-07-14:*:*:*:*:*:*:*",
+      "title": "Ngiflib Project Ngiflib 2023-07-14",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:miniupnp_project:ngiflib:0.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ngiflib_project:ngiflib:2023-07-21:*:*:*:*:*:*:*",
+      "title": "Ngiflib Project Ngiflib 2023-07-21",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:miniupnp_project:ngiflib:0.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:novell:filr:1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "F1056B73-AEE2-46AD-99E7-CC23F91DD63D",
+        "lastModified": "2016-03-23T17:03:08.873",
+        "created": "2016-03-23T17:03:08.873",
+        "titles": [
+          {
+            "title": "Novell Filr 1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:novell:filr:1.2:security_update_2:*:*:*:*:*:*",
+        "cpeNameId": "2AA7D0CA-9B8A-4586-A40C-D00AD3D6E2FE",
+        "lastModified": "2016-08-01T15:27:37.360",
+        "created": "2016-08-01T15:27:37.360",
+        "titles": [
+          {
+            "title": "Novell Filr 1.2 Security Update 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:novell:filr:2.0:security_update_1:*:*:*:*:*:*",
+        "cpeNameId": "34C53E87-E0FD-45A7-95DC-A558B66F0900",
+        "lastModified": "2016-08-01T15:27:37.487",
+        "created": "2016-08-01T15:27:37.487",
+        "titles": [
+          {
+            "title": "Novell Filr 2.0 Security Update 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:novell:filr:1.2:*:*:*:*:*:*:*",
+      "title": "Novell Filr 1.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:novell:filr:1.2:security_update_2:*:*:*:*:*:*",
+      "title": "Novell Filr 1.2 Security Update 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:novell:filr:2.0:security_update_1:*:*:*:*:*:*",
+      "title": "Novell Filr 2.0 Security Update 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

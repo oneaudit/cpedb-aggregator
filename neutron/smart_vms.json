@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:neutron:smart_vms:b1130.1.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "ACE6255A-C65F-4BA3-9D12-8C167B46ED44",
+        "lastModified": "2023-12-16T04:05:58.243",
+        "created": "2023-12-16T04:05:58.243",
+        "titles": [
+          {
+            "title": "Neutron Smart VMS b1130.1.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:neutron:smart_vms:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B21F652F-D0C8-418E-A103-87FF519742CA",
+        "lastModified": "2023-12-16T04:05:58.243",
+        "created": "2023-12-16T04:05:58.243",
+        "titles": [
+          {
+            "title": "Neutron Smart VMS -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:neutron:smart_vms:b1130.1.0.1:*:*:*:*:*:*:*",
+      "title": "Neutron Smart VMS b1130.1.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:neutron:smart_vms:-:*:*:*:*:*:*:*",
+      "title": "Neutron Smart VMS -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

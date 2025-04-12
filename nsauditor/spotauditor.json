@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:nsauditor:spotauditor:5.3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "0F6D3642-372A-49AA-85FE-6B1641014FFC",
+        "lastModified": "2023-09-28T11:27:00.313",
+        "created": "2021-11-02T18:15:45.023",
+        "titles": [
+          {
+            "title": "NSAUDITOR SpotAuditor 5.3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:nsasoft:spotauditor:5.3.5:*:*:*:*:*:*:*",
+            "cpeNameId": "DA06730B-E4EF-42BB-B811-97A4027F51DA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:nsauditor:spotauditor:5.3.5:*:*:*:*:*:*:*",
+      "title": "NSAUDITOR SpotAuditor 5.3.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:nsasoft:spotauditor:5.3.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

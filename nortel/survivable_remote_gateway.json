@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:nortel:survivable_remote_gateway:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3035A913-8BB7-47FF-B8F7-F2FC0219CFDF",
+        "lastModified": "2008-04-01T16:40:11.000",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Nortel SRG",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:nortel:survivable_remote_gateway:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2D366613-5261-43FB-8D5D-EB14850B17D5",
+        "lastModified": "2008-04-01T16:40:11.047",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Nortel SRG 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:nortel:survivable_remote_gateway:-:*:*:*:*:*:*:*",
+      "title": "Nortel SRG",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:nortel:survivable_remote_gateway:1.0:*:*:*:*:*:*:*",
+      "title": "Nortel SRG 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

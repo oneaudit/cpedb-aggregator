@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:novell:open_enterprise:9:*:server:*:*:*:*:*",
+        "cpeNameId": "EFE01FD2-B4F6-409A-9EA5-D35F7640765A",
+        "lastModified": "2013-04-09T21:43:49.267",
+        "created": "2008-04-16T00:01:07.610",
+        "titles": [
+          {
+            "title": "Novell Open Enterprise Server 9.0 (9)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:novell:open_enterprise_server:9.0:*:*:*:*:*:*:*",
+            "cpeNameId": "E8210B9D-5E96-4BBE-9129-599EBE079F15"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:novell:open_enterprise:9:*:server:*:*:*:*:*",
+      "title": "Novell Open Enterprise Server 9.0 (9)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:novell:open_enterprise_server:9.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

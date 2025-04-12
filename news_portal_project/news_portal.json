@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:news_portal_project:news_portal:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "955560D5-2121-4D69-A329-EB8D950E7035",
+        "lastModified": "2023-11-14T18:20:05.443",
+        "created": "2021-11-01T19:51:46.720",
+        "titles": [
+          {
+            "title": "News Portal Project News Portal 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:news_portal:3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "DD3DFDCD-031F-478C-AADC-EFC6A91A4A50"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:news_portal_project:news_portal:3.1:*:*:*:*:*:*:*",
+      "title": "News Portal Project News Portal 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:news_portal:3.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

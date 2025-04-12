@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:newrelic:service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+        "cpeNameId": "C517C0DB-9C54-434E-A70C-183450A25E60",
+        "lastModified": "2020-04-01T20:19:15.307",
+        "created": "2020-04-01T20:19:15.307",
+        "titles": [
+          {
+            "title": "Newrelic Service Broker - for Pivotal Cloud Foundry",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:newrelic:service_broker:1.12.64:*:*:*:*:pivotal_cloud_foundry:*:*",
+        "cpeNameId": "9467A76B-7C86-483D-A26C-EF23A7B7DD46",
+        "lastModified": "2020-04-01T20:19:15.960",
+        "created": "2020-04-01T20:19:15.960",
+        "titles": [
+          {
+            "title": "Newrelic Service Broker 1.12.64 for Pivotal Cloud Foundry",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:newrelic:service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+      "title": "Newrelic Service Broker - for Pivotal Cloud Foundry",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:newrelic:service_broker:1.12.64:*:*:*:*:pivotal_cloud_foundry:*:*",
+      "title": "Newrelic Service Broker 1.12.64 for Pivotal Cloud Foundry",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:novell:linux_desktop:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2FA6951D-FAC9-4EB0-9700-91CB143FF23C",
+        "lastModified": "2008-04-01T16:40:17.987",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Novell Linux Desktop",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:novell:linux_desktop:9:*:*:*:*:*:*:*",
+        "cpeNameId": "16F07486-1927-4A6D-9661-B826FC3757EE",
+        "lastModified": "2009-09-18T17:45:38.313",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Novell Linux Desktop 9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:novell:linux_desktop:-:*:*:*:*:*:*:*",
+      "title": "Novell Linux Desktop",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:novell:linux_desktop:9:*:*:*:*:*:*:*",
+      "title": "Novell Linux Desktop 9",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:novell:kanaka:2.7:-:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "320EFEBB-A17A-41DA-BAB0-84FE04E8EB90",
+        "lastModified": "2020-05-11T18:38:51.053",
+        "created": "2013-04-08T16:17:57.803",
+        "titles": [
+          {
+            "title": "Novell Kanaka 2.7 for Mac OS X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:novell:kanaka:2.7:-:*:*:*:macos:*:*",
+            "cpeNameId": "5EFF0946-1114-4A12-A7A3-5C81B4F5A17E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:novell:kanaka:2.8:-:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "9C1D22DC-E552-4A09-A17A-64AAD876487E",
+        "lastModified": "2020-05-11T18:38:57.210",
+        "created": "2013-04-08T16:17:57.870",
+        "titles": [
+          {
+            "title": "Novell Kanaka 2.8 for Mac OS X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:novell:kanaka:2.8:-:*:*:*:macos:*:*",
+            "cpeNameId": "60E0CC02-3D3D-4089-8A0D-545E6B2601B6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:novell:kanaka:2.7.1:-:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "254F2E8B-A3DE-4C2D-8607-24A435D1CDCA",
+        "lastModified": "2020-05-11T18:38:54.290",
+        "created": "2013-04-08T16:19:27.380",
+        "titles": [
+          {
+            "title": "Novell Kanaka 2.7.1 for Mac OS X",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:novell:kanaka:2.7.1:-:*:*:*:macos:*:*",
+            "cpeNameId": "963CB282-C713-4530-990A-951DC08ECCF1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:novell:kanaka:2.7:-:*:*:*:macos:*:*",
+        "cpeNameId": "5EFF0946-1114-4A12-A7A3-5C81B4F5A17E",
+        "lastModified": "2020-05-11T18:37:54.880",
+        "created": "2020-05-11T18:37:54.880",
+        "titles": [
+          {
+            "title": "Novell Kanaka 2.7 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:novell:kanaka:2.7.1:-:*:*:*:macos:*:*",
+        "cpeNameId": "963CB282-C713-4530-990A-951DC08ECCF1",
+        "lastModified": "2020-05-11T18:37:55.300",
+        "created": "2020-05-11T18:37:55.300",
+        "titles": [
+          {
+            "title": "Novell Kanaka 2.7.1 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:novell:kanaka:2.8:-:*:*:*:macos:*:*",
+        "cpeNameId": "60E0CC02-3D3D-4089-8A0D-545E6B2601B6",
+        "lastModified": "2020-05-11T18:37:55.693",
+        "created": "2020-05-11T18:37:55.693",
+        "titles": [
+          {
+            "title": "Novell Kanaka 2.8 for macOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:novell:kanaka:2.7:-:*:*:*:mac_os_x:*:*",
+      "title": "Novell Kanaka 2.7 for Mac OS X",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:novell:kanaka:2.7:-:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:novell:kanaka:2.8:-:*:*:*:mac_os_x:*:*",
+      "title": "Novell Kanaka 2.8 for Mac OS X",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:novell:kanaka:2.8:-:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:novell:kanaka:2.7.1:-:*:*:*:mac_os_x:*:*",
+      "title": "Novell Kanaka 2.7.1 for Mac OS X",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:novell:kanaka:2.7.1:-:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:novell:kanaka:2.7:-:*:*:*:macos:*:*",
+      "title": "Novell Kanaka 2.7 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:novell:kanaka:2.7.1:-:*:*:*:macos:*:*",
+      "title": "Novell Kanaka 2.7.1 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:novell:kanaka:2.8:-:*:*:*:macos:*:*",
+      "title": "Novell Kanaka 2.8 for macOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

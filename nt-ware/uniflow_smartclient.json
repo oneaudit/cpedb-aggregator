@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nt-ware:uniflow_smartclient:-:*:*:*:*:macos:*:*",
+        "cpeNameId": "E03E29AC-7E73-4C66-A026-470B6E797E0F",
+        "lastModified": "2024-10-03T19:03:53.537",
+        "created": "2024-10-03T19:03:53.537",
+        "titles": [
+          {
+            "title": "NT-ware uniFLOW SmartClient for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:nt-ware:uniflow_smartclient:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "80AC3064-ACA5-42AA-BFFB-AF97576FA8FC",
+        "lastModified": "2024-10-03T19:03:53.537",
+        "created": "2024-10-03T19:03:53.537",
+        "titles": [
+          {
+            "title": "NT-ware uniFLOW SmartClient for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:nt-ware:uniflow_smartclient:-:*:*:*:*:macos:*:*",
+      "title": "NT-ware uniFLOW SmartClient for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:nt-ware:uniflow_smartclient:-:*:*:*:*:windows:*:*",
+      "title": "NT-ware uniFLOW SmartClient for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
