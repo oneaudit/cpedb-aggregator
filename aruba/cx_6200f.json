@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:aruba:cx_6200f:-:*:*:*:*:*:*:*",
+        "cpeNameId": "831FED1F-AD4F-40E9-9902-96DE19493AC8",
+        "lastModified": "2023-12-28T19:02:52.547",
+        "created": "2020-10-16T18:02:52.200",
+        "titles": [
+          {
+            "title": "Aruba CX 6200F",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:arubanetworks:cx_6200f:-:*:*:*:*:*:*:*",
+            "cpeNameId": "AC5B74AE-2A36-4BA4-A5A7-5B9BD231068F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:aruba:cx_6200f:-:*:*:*:*:*:*:*",
+      "title": "Aruba CX 6200F",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:arubanetworks:cx_6200f:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

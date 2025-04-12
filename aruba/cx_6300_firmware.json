@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:aruba:cx_6300_firmware:10.04.1000:*:*:*:*:*:*:*",
+        "cpeNameId": "D1F69418-5976-453F-A703-B4646AEE9310",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2020-10-16T18:00:57.307",
+        "titles": [
+          {
+            "title": "Aruba CX 6300 Firmware 10.04.1000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:arubanetworks:cx_6300_firmware:10.04.1000:*:*:*:*:*:*:*",
+            "cpeNameId": "BFEDB654-B091-4FAA-862A-30DED3EC9985"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:aruba:cx_6300_firmware:10.04.3021:*:*:*:*:*:*:*",
+        "cpeNameId": "37A89E56-2CDC-4234-B2F3-964E376C6556",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2020-10-16T18:02:54.327",
+        "titles": [
+          {
+            "title": "Aruba CX 6300 Firmware 10.04.3021",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:arubanetworks:cx_6300_firmware:10.04.3021:*:*:*:*:*:*:*",
+            "cpeNameId": "300B12AF-0BF1-4A1B-9821-461177E0345F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:aruba:cx_6300_firmware:10.04.1000:*:*:*:*:*:*:*",
+      "title": "Aruba CX 6300 Firmware 10.04.1000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:arubanetworks:cx_6300_firmware:10.04.1000:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:aruba:cx_6300_firmware:10.04.3021:*:*:*:*:*:*:*",
+      "title": "Aruba CX 6300 Firmware 10.04.3021",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:arubanetworks:cx_6300_firmware:10.04.3021:*:*:*:*:*:*:*"
+    }
+  ]
+}

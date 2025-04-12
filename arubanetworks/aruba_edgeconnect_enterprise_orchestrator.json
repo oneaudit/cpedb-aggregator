@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:-:*:*:*:as-a-service:*:*:*",
+        "cpeNameId": "F45E89C6-C7B1-4A3D-B09F-B4753E9BF15F",
+        "lastModified": "2023-01-20T15:16:16.040",
+        "created": "2023-01-09T18:52:46.813",
+        "titles": [
+          {
+            "title": "Aruba Networks Aruba EdgeConnect Enterprise Orchestrator As-a-service Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:-:*:*:*:global_enterprise_tenant_orchestrators:*:*:*",
+        "cpeNameId": "349BB57E-F3C0-45FA-B222-58CEF55B1BEB",
+        "lastModified": "2023-01-20T15:16:16.040",
+        "created": "2023-01-09T18:53:04.767",
+        "titles": [
+          {
+            "title": "Aruba Networks Aruba EdgeConnect Enterprise Orchestrator Global Enterprise Tenant Orchestrators Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:-:*:*:*:on-premises:*:*:*",
+        "cpeNameId": "D6DA8E61-E28B-49D0-813D-1E80DC52CE89",
+        "lastModified": "2023-01-20T15:16:16.040",
+        "created": "2023-01-09T18:53:15.580",
+        "titles": [
+          {
+            "title": "Aruba Networks Aruba EdgeConnect Enterprise Orchestrator On-premises Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:-:*:*:*:sp:*:*:*",
+        "cpeNameId": "E5A4E208-8A52-4FEB-A3E9-C741A2DA25E0",
+        "lastModified": "2023-01-20T15:16:16.040",
+        "created": "2023-01-09T18:53:25.190",
+        "titles": [
+          {
+            "title": "Aruba Networks Aruba EdgeConnect Enterprise Orchestrator SP Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:-:*:*:*:as-a-service:*:*:*",
+      "title": "Aruba Networks Aruba EdgeConnect Enterprise Orchestrator As-a-service Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:-:*:*:*:global_enterprise_tenant_orchestrators:*:*:*",
+      "title": "Aruba Networks Aruba EdgeConnect Enterprise Orchestrator Global Enterprise Tenant Orchestrators Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:-:*:*:*:on-premises:*:*:*",
+      "title": "Aruba Networks Aruba EdgeConnect Enterprise Orchestrator On-premises Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:-:*:*:*:sp:*:*:*",
+      "title": "Aruba Networks Aruba EdgeConnect Enterprise Orchestrator SP Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

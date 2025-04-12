@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:arm:cortex-a77_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "46E29B76-89D9-4BC6-849A-1C1CCA7EFBCF",
+        "lastModified": "2021-06-30T13:31:12.407",
+        "created": "2021-06-24T17:35:38.340",
+        "titles": [
+          {
+            "title": "ARM Cortex-A77 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:arm:cortex-a77_firmware:r0p0:*:*:*:*:*:*:*",
+        "cpeNameId": "09C19069-C31B-46DF-8AE5-2654B53F5F38",
+        "lastModified": "2023-12-16T03:29:20.353",
+        "created": "2023-12-16T03:29:20.353",
+        "titles": [
+          {
+            "title": "ARM Cortex-a77 Firmware R0p0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:arm:cortex-a77_firmware:r1p0:*:*:*:*:*:*:*",
+        "cpeNameId": "1EA348CF-62A9-4A85-972A-298B5553389C",
+        "lastModified": "2023-12-16T03:29:20.353",
+        "created": "2023-12-16T03:29:20.353",
+        "titles": [
+          {
+            "title": "ARM Cortex-a77 Firmware R1p0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:arm:cortex-a77_firmware:-:*:*:*:*:*:*:*",
+      "title": "ARM Cortex-A77 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:arm:cortex-a77_firmware:r0p0:*:*:*:*:*:*:*",
+      "title": "ARM Cortex-a77 Firmware R0p0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:arm:cortex-a77_firmware:r1p0:*:*:*:*:*:*:*",
+      "title": "ARM Cortex-a77 Firmware R1p0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

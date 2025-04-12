@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:aruba:cx_6400:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5410D757-AEED-4AF4-B730-80956F195898",
+        "lastModified": "2023-12-28T19:02:52.547",
+        "created": "2020-10-16T18:02:52.843",
+        "titles": [
+          {
+            "title": "Aruba CX 6400",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:arubanetworks:cx_6400:-:*:*:*:*:*:*:*",
+            "cpeNameId": "E533AC6E-1BDE-48E6-92A6-E2B5B1430E41"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:aruba:cx_6400:-:*:*:*:*:*:*:*",
+      "title": "Aruba CX 6400",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:arubanetworks:cx_6400:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:arm:cortex-35p_firmware:r0:*:*:*:*:*:*:*",
+        "cpeNameId": "3CF73016-D9A0-4F7D-ACB9-E3374F9EA41A",
+        "lastModified": "2021-09-22T12:56:04.507",
+        "created": "2021-08-26T17:52:10.393",
+        "titles": [
+          {
+            "title": "ARM Cortex-35P Firmware r0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:arm:cortex-m35p_firmware:r0:*:*:*:*:*:*:*",
+            "cpeNameId": "F272B92C-6E24-4EC9-98A0-CEE5845BF378"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:arm:cortex-35p_firmware:r0:*:*:*:*:*:*:*",
+      "title": "ARM Cortex-35P Firmware r0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:arm:cortex-m35p_firmware:r0:*:*:*:*:*:*:*"
+    }
+  ]
+}

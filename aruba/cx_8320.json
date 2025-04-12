@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:aruba:cx_8320:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FD9D885E-A938-4DEB-BE4F-19CA4E784049",
+        "lastModified": "2023-12-28T19:02:52.547",
+        "created": "2020-10-16T18:02:53.153",
+        "titles": [
+          {
+            "title": "Aruba CX 8320",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:arubanetworks:cx_8320:-:*:*:*:*:*:*:*",
+            "cpeNameId": "3AF405A9-3880-460D-A197-240A811C37BB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:aruba:cx_8320:-:*:*:*:*:*:*:*",
+      "title": "Aruba CX 8320",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:arubanetworks:cx_8320:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

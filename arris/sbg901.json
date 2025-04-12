@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:arris:sbg901:-:*:*:*:*:*:*:*",
+        "cpeNameId": "971DD868-D15B-44ED-85DB-9B8AB86369F5",
+        "lastModified": "2021-08-23T17:24:41.650",
+        "created": "2014-06-20T14:42:03.993",
+        "titles": [
+          {
+            "title": "SBG901 SURFboard Wireless Cable Modem",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:commscope:arris_sbg901:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7AC57AF1-9D02-4A7E-9076-C5D345FDB541"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:arris:sbg901:-:*:*:*:*:*:*:*",
+      "title": "SBG901 SURFboard Wireless Cable Modem",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:commscope:arris_sbg901:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

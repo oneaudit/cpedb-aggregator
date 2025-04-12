@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:arm:arm7:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4502D916-26BD-4EB9-84FD-ECA5E1B207A6",
+        "lastModified": "2018-12-01T23:58:48.520",
+        "created": "2018-12-01T23:58:48.520",
+        "titles": [
+          {
+            "title": "ARM7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:arm:arm7:3.7:*:*:*:*:*:*:*",
+        "cpeNameId": "724798F3-4159-4BDC-8A92-EE3264647F32",
+        "lastModified": "2018-12-01T23:58:48.693",
+        "created": "2018-12-01T23:58:48.693",
+        "titles": [
+          {
+            "title": "ARM7 3.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:arm:arm7:-:*:*:*:*:*:*:*",
+      "title": "ARM7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:arm:arm7:3.7:*:*:*:*:*:*:*",
+      "title": "ARM7 3.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

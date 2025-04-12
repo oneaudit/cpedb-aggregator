@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:arm:utgard_gpu_kernel_driver:r11p0:*:*:*:*:*:*:*",
+        "cpeNameId": "11F04B95-0629-4F6D-ADF2-FDFC9A6D47E5",
+        "lastModified": "2022-11-27T13:21:57.050",
+        "created": "2022-11-25T19:27:46.287",
+        "titles": [
+          {
+            "title": "ARM Utgard GPU Kernel Driver r11P0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:arm:utgard_gpu_kernel_driver:r12p0:*:*:*:*:*:*:*",
+        "cpeNameId": "905AFCEA-CF79-433E-8D8B-1A0CD84CD849",
+        "lastModified": "2022-11-27T13:21:57.050",
+        "created": "2022-11-25T19:27:46.287",
+        "titles": [
+          {
+            "title": "ARM Utgard GPU Kernel Driver r12P0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:arm:utgard_gpu_kernel_driver:r11p0:*:*:*:*:*:*:*",
+      "title": "ARM Utgard GPU Kernel Driver r11P0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:arm:utgard_gpu_kernel_driver:r12p0:*:*:*:*:*:*:*",
+      "title": "ARM Utgard GPU Kernel Driver r12P0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

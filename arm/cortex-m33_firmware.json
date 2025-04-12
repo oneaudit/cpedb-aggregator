@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:arm:cortex-m33_firmware:r0p0:*:*:*:*:*:*:*",
+        "cpeNameId": "40AC46BE-C51D-4F37-BC3A-D5FC5DE064A6",
+        "lastModified": "2021-09-09T16:19:24.780",
+        "created": "2021-08-26T17:52:30.740",
+        "titles": [
+          {
+            "title": "ARM Cortex-M33 Firmware r0p0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:arm:cortex-m33_firmware:r1p0:*:*:*:*:*:*:*",
+        "cpeNameId": "983FA4CB-5D0C-4ADF-9BD1-0E587B3CA2D0",
+        "lastModified": "2021-09-09T16:19:24.780",
+        "created": "2021-08-26T17:52:30.740",
+        "titles": [
+          {
+            "title": "ARM Cortex-M33 Firmware r1p0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:arm:cortex-m33_firmware:r0p0:*:*:*:*:*:*:*",
+      "title": "ARM Cortex-M33 Firmware r0p0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:arm:cortex-m33_firmware:r1p0:*:*:*:*:*:*:*",
+      "title": "ARM Cortex-M33 Firmware r1p0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

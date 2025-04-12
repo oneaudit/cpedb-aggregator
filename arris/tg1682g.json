@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:arris:tg1682g:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6BBA8C4A-C459-4CFE-965E-E821CCF26A94",
+        "lastModified": "2021-08-23T17:24:41.650",
+        "created": "2017-08-02T14:29:07.347",
+        "titles": [
+          {
+            "title": "Arris TG1682G",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:commscope:arris_tg1682g:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F43A2624-89C7-45E6-ADF2-F89D9DB5A9A0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:arris:tg1682g:tg1682_2.2p7s2_prod_sey:*:*:*:*:*:*:*",
+        "cpeNameId": "E0212C07-560D-4257-BA6F-BBA2460717D3",
+        "lastModified": "2021-07-02T16:37:29.020",
+        "created": "2017-08-02T16:41:21.577",
+        "titles": [
+          {
+            "title": "Arris TG1682G TG1682 2.2p7s2 PROD sey",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:commscope:arris_tg1682g:tg1682_2.2p7s2_prod_sey:*:*:*:*:*:*:*",
+            "cpeNameId": "3678EEB3-D072-418B-B876-2EE6E13D9F8D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:arris:tg1682g:-:*:*:*:*:*:*:*",
+      "title": "Arris TG1682G",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:commscope:arris_tg1682g:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:arris:tg1682g:tg1682_2.2p7s2_prod_sey:*:*:*:*:*:*:*",
+      "title": "Arris TG1682G TG1682 2.2p7s2 PROD sey",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:commscope:arris_tg1682g:tg1682_2.2p7s2_prod_sey:*:*:*:*:*:*:*"
+    }
+  ]
+}

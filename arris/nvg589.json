@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:arris:nvg589:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6C76B4E3-2630-458E-B1D4-7B9C90E5CDC0",
+        "lastModified": "2021-08-23T17:24:41.650",
+        "created": "2017-09-12T18:40:37.933",
+        "titles": [
+          {
+            "title": "Arris NVG589",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:commscope:arris_nvg589:-:*:*:*:*:*:*:*",
+            "cpeNameId": "EC20D65E-5DF5-4AD2-A591-2F13D00D78F2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:arris:nvg589:-:*:*:*:*:*:*:*",
+      "title": "Arris NVG589",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:commscope:arris_nvg589:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

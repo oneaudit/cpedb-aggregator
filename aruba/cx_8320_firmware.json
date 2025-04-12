@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:aruba:cx_8320_firmware:10.04.1000:*:*:*:*:*:*:*",
+        "cpeNameId": "4873DFB7-BD07-4F0E-BE51-0E8A72C5EE7B",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2020-10-16T18:00:57.447",
+        "titles": [
+          {
+            "title": "Aruba CX 8320 Firmware 10.04.1000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:arubanetworks:cx_8320_firmware:10.04.1000:*:*:*:*:*:*:*",
+            "cpeNameId": "A8E13533-FA5C-4426-B9DE-EBAF73F88038"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:aruba:cx_8320_firmware:10.04.3021:*:*:*:*:*:*:*",
+        "cpeNameId": "BFDECB1C-23DF-463C-A196-D8046B2240A6",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2020-10-16T18:02:54.483",
+        "titles": [
+          {
+            "title": "Aruba CX 8320 Firmware 10.04.3021",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:arubanetworks:cx_8320_firmware:10.04.3021:*:*:*:*:*:*:*",
+            "cpeNameId": "4F3021B7-9902-4486-B419-708DCCD73D6D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:aruba:cx_8320_firmware:10.04.1000:*:*:*:*:*:*:*",
+      "title": "Aruba CX 8320 Firmware 10.04.1000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:arubanetworks:cx_8320_firmware:10.04.1000:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:aruba:cx_8320_firmware:10.04.3021:*:*:*:*:*:*:*",
+      "title": "Aruba CX 8320 Firmware 10.04.3021",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:arubanetworks:cx_8320_firmware:10.04.3021:*:*:*:*:*:*:*"
+    }
+  ]
+}

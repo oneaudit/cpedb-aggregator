@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:aruba:cx_6200f_firmware:10.04.1000:*:*:*:*:*:*:*",
+        "cpeNameId": "1E5F62CE-04AA-4A45-8EFC-0A5B9FD02E5D",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2020-10-16T18:00:57.133",
+        "titles": [
+          {
+            "title": "Aruba CX 6200F Firmware 10.04.1000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:arubanetworks:cx_6200f_firmware:10.04.1000:*:*:*:*:*:*:*",
+            "cpeNameId": "3FA99B3A-8226-4F41-BE30-508E8B8127DC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:aruba:cx_6200f_firmware:10.04.3021:*:*:*:*:*:*:*",
+        "cpeNameId": "35B86EDA-2EEA-4B46-8573-FA4A59D374F7",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2020-10-16T18:02:54.247",
+        "titles": [
+          {
+            "title": "Aruba CX 6200F Firmware 10.04.3021",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:arubanetworks:cx_6200f_firmware:10.04.3021:*:*:*:*:*:*:*",
+            "cpeNameId": "50107C6D-80C2-4C6D-9A3E-B1262FD4FAB3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:aruba:cx_6200f_firmware:10.04.1000:*:*:*:*:*:*:*",
+      "title": "Aruba CX 6200F Firmware 10.04.1000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:arubanetworks:cx_6200f_firmware:10.04.1000:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:aruba:cx_6200f_firmware:10.04.3021:*:*:*:*:*:*:*",
+      "title": "Aruba CX 6200F Firmware 10.04.3021",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:arubanetworks:cx_6200f_firmware:10.04.3021:*:*:*:*:*:*:*"
+    }
+  ]
+}

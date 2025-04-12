@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:asus:asusswitch:1.0.10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "631B449D-75D0-4799-91A4-73DF35247F05",
+        "lastModified": "2022-11-07T17:59:28.897",
+        "created": "2022-10-20T12:49:01.013",
+        "titles": [
+          {
+            "title": "ASUS AsusSwitch 1.0.10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:asus:asusswitch:-:*:*:*:*:*:*:*",
+        "cpeNameId": "50F21C2B-0063-46C1-B12F-9F53C5ACAAC5",
+        "lastModified": "2022-11-07T17:59:28.897",
+        "created": "2022-10-20T12:49:01.013",
+        "titles": [
+          {
+            "title": "ASUS AsusSwitch",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:asus:asusswitch:1.0.10.0:*:*:*:*:*:*:*",
+      "title": "ASUS AsusSwitch 1.0.10.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:asus:asusswitch:-:*:*:*:*:*:*:*",
+      "title": "ASUS AsusSwitch",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

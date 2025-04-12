@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:aruba:cx_8325:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F31DC73F-F565-46F4-A765-91E5F117F1C1",
+        "lastModified": "2023-12-28T19:02:52.547",
+        "created": "2020-10-16T18:02:53.483",
+        "titles": [
+          {
+            "title": "Aruba CX 8325",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:arubanetworks:cx_8325:-:*:*:*:*:*:*:*",
+            "cpeNameId": "9F8C13C6-493C-455C-8D6E-831BD607645A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:aruba:cx_8325:-:*:*:*:*:*:*:*",
+      "title": "Aruba CX 8325",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:arubanetworks:cx_8325:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

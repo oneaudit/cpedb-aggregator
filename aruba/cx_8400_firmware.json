@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:aruba:cx_8400_firmware:10.04.1000:*:*:*:*:*:*:*",
+        "cpeNameId": "3DEB3E13-36C7-4376-8F51-DC3691948845",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2020-10-16T18:00:57.603",
+        "titles": [
+          {
+            "title": "Aruba CX 8400 Firmware 10.04.1000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:arubanetworks:cx_8400_firmware:10.04.1000:*:*:*:*:*:*:*",
+            "cpeNameId": "AD2F9AFE-0D9F-46F0-A482-B97E4AEF02DB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:aruba:cx_8400_firmware:10.04.3021:*:*:*:*:*:*:*",
+        "cpeNameId": "A4349CB6-A373-4877-AEED-98F720454B35",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2020-10-16T18:02:54.623",
+        "titles": [
+          {
+            "title": "Aruba CX 8400 Firmware 10.04.3021",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:arubanetworks:cx_8400_firmware:10.04.3021:*:*:*:*:*:*:*",
+            "cpeNameId": "74E2786D-C7C6-4783-89BE-5DEA7EFCAEE1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:aruba:cx_8400_firmware:10.04.1000:*:*:*:*:*:*:*",
+      "title": "Aruba CX 8400 Firmware 10.04.1000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:arubanetworks:cx_8400_firmware:10.04.1000:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:aruba:cx_8400_firmware:10.04.3021:*:*:*:*:*:*:*",
+      "title": "Aruba CX 8400 Firmware 10.04.3021",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:arubanetworks:cx_8400_firmware:10.04.3021:*:*:*:*:*:*:*"
+    }
+  ]
+}

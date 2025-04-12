@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:aruba:cx_8325_firmware:10.04.1000:*:*:*:*:*:*:*",
+        "cpeNameId": "B25156A6-9BFA-425B-B921-8BD01F60AB5F",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2020-10-16T18:00:57.523",
+        "titles": [
+          {
+            "title": "Aruba CX 8325 Firmware 10.04.1000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:arubanetworks:cx_8325_firmware:10.04.1000:*:*:*:*:*:*:*",
+            "cpeNameId": "B215DF5C-E8FA-4ACF-9608-DFA5DC944203"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:aruba:cx_8325_firmware:10.04.3021:*:*:*:*:*:*:*",
+        "cpeNameId": "CE8CDD4E-34AB-42EE-977F-1CB8CBB47259",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2020-10-16T18:02:54.560",
+        "titles": [
+          {
+            "title": "Aruba CX 8325 Firmware 10.04.3021",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:arubanetworks:cx_8325_firmware:10.04.3021:*:*:*:*:*:*:*",
+            "cpeNameId": "9334376B-3436-415E-A34E-7813664B1ECD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:aruba:cx_8325_firmware:10.04.1000:*:*:*:*:*:*:*",
+      "title": "Aruba CX 8325 Firmware 10.04.1000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:arubanetworks:cx_8325_firmware:10.04.1000:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:aruba:cx_8325_firmware:10.04.3021:*:*:*:*:*:*:*",
+      "title": "Aruba CX 8325 Firmware 10.04.3021",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:arubanetworks:cx_8325_firmware:10.04.3021:*:*:*:*:*:*:*"
+    }
+  ]
+}

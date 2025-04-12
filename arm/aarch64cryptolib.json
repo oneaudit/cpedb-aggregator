@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:arm:aarch64cryptolib:2023-02-20:*:*:*:*:*:*:*",
+        "cpeNameId": "C5198BA5-F75E-40A7-89DE-9057BDC247F8",
+        "lastModified": "2023-09-28T16:37:58.717",
+        "created": "2023-09-28T16:37:58.717",
+        "titles": [
+          {
+            "title": "ARM AArch64cryptolib 2023-02-20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:arm:aarch64cryptolib:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7BDB168B-B384-4659-A715-1F996231C3D3",
+        "lastModified": "2023-09-28T16:37:58.717",
+        "created": "2023-09-28T16:37:58.717",
+        "titles": [
+          {
+            "title": "ARM AArch64cryptolib -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:arm:aarch64cryptolib:2023-02-20:*:*:*:*:*:*:*",
+      "title": "ARM AArch64cryptolib 2023-02-20",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:arm:aarch64cryptolib:-:*:*:*:*:*:*:*",
+      "title": "ARM AArch64cryptolib -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

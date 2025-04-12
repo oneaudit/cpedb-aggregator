@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:arris:dg950s:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CC3AB480-1612-4BCF-986A-D838AA0D4C7D",
+        "lastModified": "2021-08-23T17:24:41.650",
+        "created": "2019-01-10T19:03:38.527",
+        "titles": [
+          {
+            "title": "Arris DG950S 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:commscope:arris_dg950s:3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "1E3DF000-A4A6-45CE-86A5-7C150089AF3B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:arris:dg950s:3.0:*:*:*:*:*:*:*",
+      "title": "Arris DG950S 3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:commscope:arris_dg950s:3.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

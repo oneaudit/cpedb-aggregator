@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:arm:midguard:r28p0:*:*:*:*:*:*:*",
+        "cpeNameId": "80164B13-2AAB-4E8B-AABB-3FF5147F42B8",
+        "lastModified": "2022-03-22T15:00:39.830",
+        "created": "2021-06-02T15:41:55.930",
+        "titles": [
+          {
+            "title": "ARM Midguard r28p0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:arm:midgard:r28p0:*:*:*:*:*:*:*",
+            "cpeNameId": "42C7F63C-4EB9-410B-9BCE-369923C729DE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:arm:midguard:r30p0:*:*:*:*:*:*:*",
+        "cpeNameId": "DB857BA1-63B6-483E-955F-CBA81CDDB155",
+        "lastModified": "2022-03-22T15:00:39.830",
+        "created": "2021-06-02T15:41:55.930",
+        "titles": [
+          {
+            "title": "ARM Midguard r30p0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:arm:midgard:r30p0:*:*:*:*:*:*:*",
+            "cpeNameId": "A648B028-63B8-4D0F-A220-6F0FC82FB643"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:arm:midguard:r28p0-01eac0:*:*:*:*:*:*:*",
+        "cpeNameId": "51555168-DADA-49E0-B9ED-37FEFC3C628F",
+        "lastModified": "2022-03-22T15:00:39.830",
+        "created": "2021-06-03T12:45:29.230",
+        "titles": [
+          {
+            "title": "ARM Midguard r28p0-01eac0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:arm:midgard:r28p0-01eac0:*:*:*:*:*:*:*",
+            "cpeNameId": "AE266BA9-6E26-47F8-BA1B-D8A29AE37A5C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:arm:midguard:r30p0-01eac0:*:*:*:*:*:*:*",
+        "cpeNameId": "4C4C3B7E-2905-4F72-866E-DFC265D3FA1F",
+        "lastModified": "2022-03-22T15:00:39.830",
+        "created": "2021-06-03T12:45:29.230",
+        "titles": [
+          {
+            "title": "ARM Midguard r30p0-01eac0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:arm:midgard:r30p0-01eac0:*:*:*:*:*:*:*",
+            "cpeNameId": "0E1C9B30-4E89-414F-A7EE-CD80B9C44714"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:arm:midguard:r28p0:*:*:*:*:*:*:*",
+      "title": "ARM Midguard r28p0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:arm:midgard:r28p0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:arm:midguard:r30p0:*:*:*:*:*:*:*",
+      "title": "ARM Midguard r30p0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:arm:midgard:r30p0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:arm:midguard:r28p0-01eac0:*:*:*:*:*:*:*",
+      "title": "ARM Midguard r28p0-01eac0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:arm:midgard:r28p0-01eac0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:arm:midguard:r30p0-01eac0:*:*:*:*:*:*:*",
+      "title": "ARM Midguard r30p0-01eac0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:arm:midgard:r30p0-01eac0:*:*:*:*:*:*:*"
+    }
+  ]
+}

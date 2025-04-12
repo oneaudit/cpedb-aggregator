@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:askapplications:fromdoctopdf:13.611.13.2303:*:*:*:*:chrome:*:*",
+        "cpeNameId": "A324A2DC-0637-4E44-AE87-F5D38278B27C",
+        "lastModified": "2020-06-04T14:35:12.037",
+        "created": "2020-06-03T16:43:36.287",
+        "titles": [
+          {
+            "title": "Ask Applications FromDocToPDF 13.611.13.2303 for Chrome",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:iac:fromdoctopdf:13.611.13.2303:*:*:*:*:chrome:*:*",
+            "cpeNameId": "00DA44FE-34EF-4B51-A29D-CBDBE9A349B3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:askapplications:fromdoctopdf:-:*:*:*:*:chrome:*:*",
+        "cpeNameId": "C06FC752-32FD-41D2-99E7-68A5045FD193",
+        "lastModified": "2020-06-04T14:35:11.910",
+        "created": "2020-06-03T16:47:08.097",
+        "titles": [
+          {
+            "title": "Ask Applications FromDocToPDF for Chrome",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:iac:fromdoctopdf:-:*:*:*:*:chrome:*:*",
+            "cpeNameId": "90FBA1BB-2AF8-44E7-A1F8-BFB26BCDAF0C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:askapplications:fromdoctopdf:13.611.13.2303:*:*:*:*:chrome:*:*",
+      "title": "Ask Applications FromDocToPDF 13.611.13.2303 for Chrome",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:iac:fromdoctopdf:13.611.13.2303:*:*:*:*:chrome:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:askapplications:fromdoctopdf:-:*:*:*:*:chrome:*:*",
+      "title": "Ask Applications FromDocToPDF for Chrome",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:iac:fromdoctopdf:-:*:*:*:*:chrome:*:*"
+    }
+  ]
+}
