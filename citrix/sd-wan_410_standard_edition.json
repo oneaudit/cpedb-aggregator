@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:citrix:sd-wan_410_standard_edition:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C95AE1D0-5073-429D-A518-962DCC25F709",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-19T15:07:29.633",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 410 STANDARD EDITION -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:citrix:sd-wan_410:-:*:*:*:*:*:*:*",
+            "cpeNameId": "1D69D2E0-A5D3-4482-8A74-82E2E95F314C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:citrix:sd-wan_410_standard_edition:-:*:*:*:*:*:*:*",
+      "title": "Citrix SD-WAN 410 STANDARD EDITION -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:citrix:sd-wan_410:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

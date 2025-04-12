@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_2000_firmware:-:*:*:*:standard:*:*:*",
+        "cpeNameId": "6D78CEEA-F418-4CC5-A93B-AF36DC557CEA",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:07:02.013",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 2000 Firmware Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_2000_firmware:11.4.1:*:*:*:standard:*:*:*",
+        "cpeNameId": "F80FC393-D45B-4D6B-8172-949FB5901A98",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:07:02.013",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 2000 Firmware 11.4.1 Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_2000_firmware:11.4.1:*:*:*:premium:*:*:*",
+        "cpeNameId": "1BCB44B5-8DD7-4EAF-9153-F1C8745D9842",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:21:54.683",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 2000 Firmware 11.4.1 Premium Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_2000_firmware:-:*:*:*:premium:*:*:*",
+        "cpeNameId": "3066919E-9663-43A1-BB4A-900EA1369211",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:21:54.683",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 2000 Firmware Premium Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_2000_firmware:-:*:*:*:standard:*:*:*",
+      "title": "Citrix SD-WAN 2000 Firmware Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_2000_firmware:11.4.1:*:*:*:standard:*:*:*",
+      "title": "Citrix SD-WAN 2000 Firmware 11.4.1 Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_2000_firmware:11.4.1:*:*:*:premium:*:*:*",
+      "title": "Citrix SD-WAN 2000 Firmware 11.4.1 Premium Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_2000_firmware:-:*:*:*:premium:*:*:*",
+      "title": "Citrix SD-WAN 2000 Firmware Premium Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:clinic\\'s_patient_management_system_project:clinic\\'s_patient_management_system:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E09DCC25-23E9-4CC3-B8A4-DC9801462C69",
+        "lastModified": "2024-09-07T12:56:40.797",
+        "created": "2022-07-14T17:03:58.723",
+        "titles": [
+          {
+            "title": "Clinic's Patient Management System Project Clinic's Patient Management System 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oretnom23:clinic\\'s_patient_management_system:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "F0CE4B8D-718F-4A70-93A3-25DE7674C6E2"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:clinic\\'s_patient_management_system_project:clinic\\'s_patient_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "216854E8-5009-4BF9-B1A9-3ABDF26A5E48",
+        "lastModified": "2024-09-07T12:56:40.797",
+        "created": "2022-08-11T16:31:16.553",
+        "titles": [
+          {
+            "title": "Clinic's Patient Management System Project Clinic's Patient Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oretnom23:clinic\\'s_patient_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "B82FBF8C-64FE-4862-A111-CF448118A4C8"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:clinic\\'s_patient_management_system_project:clinic\\'s_patient_management_system:2.0:*:*:*:*:*:*:*",
+      "title": "Clinic's Patient Management System Project Clinic's Patient Management System 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oretnom23:clinic\\'s_patient_management_system:2.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:clinic\\'s_patient_management_system_project:clinic\\'s_patient_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Clinic's Patient Management System Project Clinic's Patient Management System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oretnom23:clinic\\'s_patient_management_system:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

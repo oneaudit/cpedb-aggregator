@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cloudfoundry:garden_linux:0.332.0:*:*:*:*:*:*:*",
+        "cpeNameId": "9E01B1DD-728E-46F6-A993-2CD1088C3D35",
+        "lastModified": "2021-08-10T12:45:19.840",
+        "created": "2017-06-08T03:09:07.937",
+        "titles": [
+          {
+            "title": "Cloud Foundry Garden Linux 0.332.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cloudfoundry:garden_linux:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9B40EF76-33F8-454F-AEAC-9D2EDD4EA4BE",
+        "lastModified": "2021-08-12T11:56:21.273",
+        "created": "2021-08-10T12:46:40.787",
+        "titles": [
+          {
+            "title": "Cloud Foundry Garden Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cloudfoundry:garden_linux:0.332.0:*:*:*:*:*:*:*",
+      "title": "Cloud Foundry Garden Linux 0.332.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cloudfoundry:garden_linux:-:*:*:*:*:*:*:*",
+      "title": "Cloud Foundry Garden Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

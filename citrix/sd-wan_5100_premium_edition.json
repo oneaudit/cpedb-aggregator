@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:citrix:sd-wan_5100_premium_edition:-:*:*:*:*:*:*:*",
+        "cpeNameId": "96321611-FA19-4E7E-89D2-E39033DC714F",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-19T15:07:29.633",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 5100 PREMIUM EDITION -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:citrix:sd-wan_5100:-:*:*:*:*:*:*:*",
+            "cpeNameId": "75860A79-4389-4B30-A385-8E85BB15A6A4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:citrix:sd-wan_5100_premium_edition:-:*:*:*:*:*:*:*",
+      "title": "Citrix SD-WAN 5100 PREMIUM EDITION -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:citrix:sd-wan_5100:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

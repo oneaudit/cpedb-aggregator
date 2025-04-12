@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:clario:vpn:5.9.1.1662:*:*:*:*:macos:*:*",
+        "cpeNameId": "FDFA81B4-F703-4F41-B850-8BF6CB04794D",
+        "lastModified": "2023-08-19T03:58:59.643",
+        "created": "2023-08-17T17:59:03.147",
+        "titles": [
+          {
+            "title": "Clario VPN 5.9.1.1662 for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:clario:vpn:-:*:*:*:*:macos:*:*",
+        "cpeNameId": "F523D67D-26CD-4FB2-A9DF-2B9556560E07",
+        "lastModified": "2023-08-19T03:58:59.643",
+        "created": "2023-08-17T17:59:03.147",
+        "titles": [
+          {
+            "title": "Clario VPN for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:clario:vpn:5.9.1.1662:*:*:*:*:macos:*:*",
+      "title": "Clario VPN 5.9.1.1662 for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:clario:vpn:-:*:*:*:*:macos:*:*",
+      "title": "Clario VPN for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_210_firmware:-:*:*:*:standard:*:*:*",
+        "cpeNameId": "13541FC6-3925-4C04-8D45-1234DF96C59E",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:07:02.013",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 210 Firmware Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_210_firmware:11.4.1:*:*:*:standard:*:*:*",
+        "cpeNameId": "9DC3BB28-34FC-4F26-9627-402F9C916328",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:07:02.013",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 210 Firmware 11.4.1 Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_210_firmware:-:*:*:*:standard:*:*:*",
+      "title": "Citrix SD-WAN 210 Firmware Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_210_firmware:11.4.1:*:*:*:standard:*:*:*",
+      "title": "Citrix SD-WAN 210 Firmware 11.4.1 Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

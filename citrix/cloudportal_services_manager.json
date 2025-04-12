@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:cloudportal_services_manager:10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FE4EDEBC-32C4-42D5-8A66-9DB34E7ACFFC",
+        "lastModified": "2013-09-13T17:42:42.107",
+        "created": "2013-09-13T16:10:00.787",
+        "titles": [
+          {
+            "title": "Citrix CloudPortal Services Manager 10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:cloudportal_services_manager:10.0:cu2:*:*:*:*:*:*",
+        "cpeNameId": "5DC096AF-2B11-4E70-B383-469892FE0537",
+        "lastModified": "2013-09-13T17:42:42.417",
+        "created": "2013-09-13T16:10:00.953",
+        "titles": [
+          {
+            "title": "Citrix CloudPortal Services Manager 10.0 Cumulative Update 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:citrix:cloudportal_services_manager:10.0:*:*:*:*:*:*:*",
+      "title": "Citrix CloudPortal Services Manager 10.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:cloudportal_services_manager:10.0:cu2:*:*:*:*:*:*",
+      "title": "Citrix CloudPortal Services Manager 10.0 Cumulative Update 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

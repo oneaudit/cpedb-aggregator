@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:ica_client:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6694045F-3E7B-466F-9FE7-3A10B3473D36",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Citrix ICA Client",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:ica_client:6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "C19FA1AE-1F23-4BA6-B139-B49E8A1D3C82",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Citrix ICA Client 6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:citrix:ica_client:-:*:*:*:*:*:*:*",
+      "title": "Citrix ICA Client",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:ica_client:6.1:*:*:*:*:*:*:*",
+      "title": "Citrix ICA Client 6.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

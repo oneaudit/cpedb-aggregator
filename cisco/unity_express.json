@@ -1,0 +1,153 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:unity_express:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C46F29B6-4017-45A2-9E06-F31F28C07869",
+        "lastModified": "2008-04-01T14:40:55.977",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco Cisco Unity Express",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:unity_express:1.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "E096BBE9-2FA5-4492-9DB4-322BB15DD000",
+        "lastModified": "2013-02-07T14:59:29.190",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Unity Express Software 1.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:unity_express_software:1.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "BC6DF377-672B-4947-A2C1-0DBE5531C00A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:unity_express:2.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7E137FD3-22B1-41E3-A846-C49050BE016E",
+        "lastModified": "2013-02-07T14:59:29.407",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Unity Express Software 2.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:unity_express_software:2.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "F7E7C870-6C8B-4B41-B6C7-9063AC0D9355"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:unity_express:2.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "5584DB2C-1E9D-4F34-BDB4-D48546FDD084",
+        "lastModified": "2013-02-07T14:59:29.610",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Unity Express Software 2.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:unity_express_software:2.2.2:*:*:*:*:*:*:*",
+            "cpeNameId": "CDE4A046-7B80-4C54-A56C-C96587B1743C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:unity_express:9.0.6:*:*:*:*:*:*:*",
+        "cpeNameId": "76647931-1D32-46A7-9292-CA1DB016352C",
+        "lastModified": "2019-03-13T15:48:28.557",
+        "created": "2019-03-13T15:48:28.557",
+        "titles": [
+          {
+            "title": "Cisco Unity Express 9.0.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:unity_express:10.1:*:*:*:*:*:*:*",
+        "cpeNameId": "97078D0F-7CCC-459C-9896-1F4766F01106",
+        "lastModified": "2019-12-30T16:02:12.533",
+        "created": "2019-12-30T16:02:12.533",
+        "titles": [
+          {
+            "title": "Cisco Unity Express 10.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:unity_express:-:*:*:*:*:*:*:*",
+      "title": "Cisco Cisco Unity Express",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:unity_express:1.1.1:*:*:*:*:*:*:*",
+      "title": "Cisco Unity Express Software 1.1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:unity_express_software:1.1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:cisco:unity_express:2.1.1:*:*:*:*:*:*:*",
+      "title": "Cisco Unity Express Software 2.1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:unity_express_software:2.1.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:cisco:unity_express:2.2.2:*:*:*:*:*:*:*",
+      "title": "Cisco Unity Express Software 2.2.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:unity_express_software:2.2.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:cisco:unity_express:9.0.6:*:*:*:*:*:*:*",
+      "title": "Cisco Unity Express 9.0.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:unity_express:10.1:*:*:*:*:*:*:*",
+      "title": "Cisco Unity Express 10.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:secure_mail:-:*:*:*:*:android:*:*",
+        "cpeNameId": "17DB16DD-1286-45C9-919A-C273165FEB9A",
+        "lastModified": "2021-01-11T13:51:37.340",
+        "created": "2021-01-11T13:51:37.340",
+        "titles": [
+          {
+            "title": "Citrix Secure Mail for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:secure_mail:20.11.0:*:*:*:*:android:*:*",
+        "cpeNameId": "17DB8CA8-681B-4573-B45F-7EEB4B5B206C",
+        "lastModified": "2021-01-11T13:51:37.730",
+        "created": "2021-01-11T13:51:37.730",
+        "titles": [
+          {
+            "title": "Citrix Secure Mail 20.11.0 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:citrix:secure_mail:-:*:*:*:*:android:*:*",
+      "title": "Citrix Secure Mail for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:secure_mail:20.11.0:*:*:*:*:android:*:*",
+      "title": "Citrix Secure Mail 20.11.0 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

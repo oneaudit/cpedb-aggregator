@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_5100_firmware:-:*:*:*:standard:*:*:*",
+        "cpeNameId": "BFD2C7F2-0FEB-40B5-B164-C281398C36D0",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:07:02.013",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 5100 Firmware Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_5100_firmware:11.4.1:*:*:*:standard:*:*:*",
+        "cpeNameId": "9032860E-4FAD-463A-AA31-F0FD7C36AD3A",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:07:02.013",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 5100 Firmware 11.4.1 Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_5100_firmware:11.4.1:*:*:*:premium:*:*:*",
+        "cpeNameId": "A2C28F6F-0814-4305-BBB5-2375B58B445E",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:21:54.683",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 5100 Firmware 11.4.1 Premium Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_5100_firmware:-:*:*:*:premium:*:*:*",
+        "cpeNameId": "E31089DD-E41A-4EFE-93D3-7B66EF1C9ADA",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:21:54.683",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 5100 Firmware Premium Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_5100_firmware:-:*:*:*:standard:*:*:*",
+      "title": "Citrix SD-WAN 5100 Firmware Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_5100_firmware:11.4.1:*:*:*:standard:*:*:*",
+      "title": "Citrix SD-WAN 5100 Firmware 11.4.1 Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_5100_firmware:11.4.1:*:*:*:premium:*:*:*",
+      "title": "Citrix SD-WAN 5100 Firmware 11.4.1 Premium Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_5100_firmware:-:*:*:*:premium:*:*:*",
+      "title": "Citrix SD-WAN 5100 Firmware Premium Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_6100_standard_edition_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AE9960C9-4C24-41EE-AD0E-006F71004F64",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-19T15:11:22.733",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 6100 STANDARD EDITION FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:citrix:sd-wan_6100_firmware:-:*:*:*:standard:*:*:*",
+            "cpeNameId": "877DBED2-1895-415A-A002-1A4CCC993E1D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_6100_standard_edition_firmware:11.4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "99284D40-7522-41CF-8969-FA97C7CA19BF",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-19T15:11:53.797",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 6100 STANDARD EDITION FIRMWARE 11.4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:citrix:sd-wan_6100_firmware:11.4.1:*:*:*:standard:*:*:*",
+            "cpeNameId": "02344BEE-6819-4E29-85B3-0EA1E7F57FA6"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_6100_standard_edition_firmware:-:*:*:*:*:*:*:*",
+      "title": "Citrix SD-WAN 6100 STANDARD EDITION FIRMWARE -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:citrix:sd-wan_6100_firmware:-:*:*:*:standard:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_6100_standard_edition_firmware:11.4.1:*:*:*:*:*:*:*",
+      "title": "Citrix SD-WAN 6100 STANDARD EDITION FIRMWARE 11.4.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:citrix:sd-wan_6100_firmware:11.4.1:*:*:*:standard:*:*:*"
+    }
+  ]
+}

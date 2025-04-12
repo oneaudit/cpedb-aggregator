@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cmder_project:cmder:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8285BCFE-64CD-4E3D-B88B-280254842F6A",
+        "lastModified": "2023-10-03T15:24:07.390",
+        "created": "2023-04-04T11:34:34.480",
+        "titles": [
+          {
+            "title": "Cmder Project Cmder ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cmder:cmder:-:*:*:*:*:*:*:*",
+            "cpeNameId": "98598A66-63CB-45B2-81E0-4C29251F11A4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cmder_project:cmder:-:*:*:*:*:*:*:*",
+      "title": "Cmder Project Cmder ",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cmder:cmder:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

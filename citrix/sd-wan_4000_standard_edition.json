@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:citrix:sd-wan_4000_standard_edition:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5321AA84-BAA2-495D-9376-BBE996864004",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-19T15:07:29.633",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 4000 STANDARD EDITION -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:citrix:sd-wan_4000:-:*:*:*:*:*:*:*",
+            "cpeNameId": "39C6FE93-CEAC-4667-BF32-78E730A97CF4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:citrix:sd-wan_4000_standard_edition:-:*:*:*:*:*:*:*",
+      "title": "Citrix SD-WAN 4000 STANDARD EDITION -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:citrix:sd-wan_4000:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

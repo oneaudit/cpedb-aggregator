@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_6100_firmware:-:*:*:*:standard:*:*:*",
+        "cpeNameId": "877DBED2-1895-415A-A002-1A4CCC993E1D",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:07:02.013",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 6100 Firmware Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_6100_firmware:11.4.1:*:*:*:standard:*:*:*",
+        "cpeNameId": "02344BEE-6819-4E29-85B3-0EA1E7F57FA6",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:07:02.013",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 6100 Firmware 11.4.1 Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_6100_firmware:11.4.1:*:*:*:premium:*:*:*",
+        "cpeNameId": "423BF272-FEC0-4235-BA3F-40E68F565615",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:21:54.683",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 6100 Firmware 11.4.1 Premium Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_6100_firmware:-:*:*:*:premium:*:*:*",
+        "cpeNameId": "113E3631-F21E-4073-89D2-AF727449052D",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:21:54.683",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 6100 Firmware Premium Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_6100_firmware:-:*:*:*:standard:*:*:*",
+      "title": "Citrix SD-WAN 6100 Firmware Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_6100_firmware:11.4.1:*:*:*:standard:*:*:*",
+      "title": "Citrix SD-WAN 6100 Firmware 11.4.1 Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_6100_firmware:11.4.1:*:*:*:premium:*:*:*",
+      "title": "Citrix SD-WAN 6100 Firmware 11.4.1 Premium Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_6100_firmware:-:*:*:*:premium:*:*:*",
+      "title": "Citrix SD-WAN 6100 Firmware Premium Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_400_standard_edition_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7295FF94-849C-45E8-B12C-DCDDCA31B488",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-19T15:11:22.733",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 400 STANDARD EDITION FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:citrix:sd-wan_400_firmware:-:*:*:*:standard:*:*:*",
+            "cpeNameId": "5ECE8854-EEA4-4255-83B5-8E37FD60ABE1"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_400_standard_edition_firmware:11.4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "6149FCAD-C118-4F26-8D84-774949BAB6B1",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-19T15:11:53.797",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 400 STANDARD EDITION FIRMWARE 11.4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:citrix:sd-wan_400_firmware:11.4.1:*:*:*:standard:*:*:*",
+            "cpeNameId": "5EC5B385-B247-4931-9CF6-9A74EC21EC20"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_400_standard_edition_firmware:-:*:*:*:*:*:*:*",
+      "title": "Citrix SD-WAN 400 STANDARD EDITION FIRMWARE -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:citrix:sd-wan_400_firmware:-:*:*:*:standard:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_400_standard_edition_firmware:11.4.1:*:*:*:*:*:*:*",
+      "title": "Citrix SD-WAN 400 STANDARD EDITION FIRMWARE 11.4.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:citrix:sd-wan_400_firmware:11.4.1:*:*:*:standard:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cncf:argo_continuous_delivery:1.5.0:-:*:*:*:kubernetes:*:*",
+        "cpeNameId": "DCA5BB84-D2FB-4315-9226-A5F7A984FE00",
+        "lastModified": "2020-04-14T16:07:08.987",
+        "created": "2020-04-13T13:48:31.137",
+        "titles": [
+          {
+            "title": "Cloud Native Computing Foundation Argo Continuous Delivery 1.5.0 for Kubernetes",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.0:-:*:*:*:kubernetes:*:*",
+            "cpeNameId": "64C1404F-4C89-4BEB-9A45-14952EE765E4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cncf:argo_continuous_delivery:1.5.0:rc1:*:*:*:kubernetes:*:*",
+        "cpeNameId": "18F143F1-5373-4963-AD74-475AA70A55C6",
+        "lastModified": "2020-04-14T16:07:10.333",
+        "created": "2020-04-13T13:48:31.247",
+        "titles": [
+          {
+            "title": "Cloud Native Computing Foundation Argo Continuous Delivery 1.5.0 Release Candidate 1 for Kubernetes",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.0:rc1:*:*:*:kubernetes:*:*",
+            "cpeNameId": "08FA2C29-02F6-49C9-87EF-F3F021160113"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cncf:argo_continuous_delivery:1.5.0:rc2:*:*:*:kubernetes:*:*",
+        "cpeNameId": "67B8F270-F2DA-4860-A907-F2C1F1687D11",
+        "lastModified": "2020-04-14T16:07:10.547",
+        "created": "2020-04-13T13:48:31.307",
+        "titles": [
+          {
+            "title": "Cloud Native Computing Foundation Argo Continuous Delivery 1.5.0 Release Candidate 2 for Kubernetes",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.0:rc2:*:*:*:kubernetes:*:*",
+            "cpeNameId": "3D62A24F-564C-43A7-806C-7BD4743BD2BE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cncf:argo_continuous_delivery:1.5.0:rc3:*:*:*:kubernetes:*:*",
+        "cpeNameId": "40208659-CBC9-430C-87B9-C9AFD477B488",
+        "lastModified": "2020-04-14T16:07:10.813",
+        "created": "2020-04-13T13:48:31.370",
+        "titles": [
+          {
+            "title": "Cloud Native Computing Foundation Argo Continuous Delivery 1.5.0 Release Candidate 3 for Kubernetes",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.0:rc3:*:*:*:kubernetes:*:*",
+            "cpeNameId": "7F3F24B1-F288-49D2-A699-5D25FD77220D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cncf:argo_continuous_delivery:1.5.1:*:*:*:*:kubernetes:*:*",
+        "cpeNameId": "40C0A883-720C-4699-B2DF-BB48B453F7BC",
+        "lastModified": "2020-04-14T16:07:11.953",
+        "created": "2020-04-13T13:48:31.447",
+        "titles": [
+          {
+            "title": "Cloud Native Computing Foundation Argo Continuous Delivery 1.5.1 for Kubernetes",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.1:*:*:*:*:kubernetes:*:*",
+            "cpeNameId": "96AF6F10-7E0A-4259-BE25-C802164BD399"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cncf:argo_continuous_delivery:1.5.0:-:*:*:*:kubernetes:*:*",
+      "title": "Cloud Native Computing Foundation Argo Continuous Delivery 1.5.0 for Kubernetes",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.0:-:*:*:*:kubernetes:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:cncf:argo_continuous_delivery:1.5.0:rc1:*:*:*:kubernetes:*:*",
+      "title": "Cloud Native Computing Foundation Argo Continuous Delivery 1.5.0 Release Candidate 1 for Kubernetes",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.0:rc1:*:*:*:kubernetes:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:cncf:argo_continuous_delivery:1.5.0:rc2:*:*:*:kubernetes:*:*",
+      "title": "Cloud Native Computing Foundation Argo Continuous Delivery 1.5.0 Release Candidate 2 for Kubernetes",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.0:rc2:*:*:*:kubernetes:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:cncf:argo_continuous_delivery:1.5.0:rc3:*:*:*:kubernetes:*:*",
+      "title": "Cloud Native Computing Foundation Argo Continuous Delivery 1.5.0 Release Candidate 3 for Kubernetes",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.0:rc3:*:*:*:kubernetes:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:cncf:argo_continuous_delivery:1.5.1:*:*:*:*:kubernetes:*:*",
+      "title": "Cloud Native Computing Foundation Argo Continuous Delivery 1.5.1 for Kubernetes",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.1:*:*:*:*:kubernetes:*:*"
+    }
+  ]
+}

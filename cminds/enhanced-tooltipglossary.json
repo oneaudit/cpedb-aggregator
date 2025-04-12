@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cminds:enhanced-tooltipglossary:3.2.8:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "03AA62D6-3D2C-4FCF-ADE4-0B594C9A89CE",
+        "lastModified": "2021-10-12T12:11:39.560",
+        "created": "2016-10-31T14:16:26.107",
+        "titles": [
+          {
+            "title": "Cminds enhanced-tooltipglossary 3.2.8 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cminds:tooltip_glossary:3.2.8:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "D44841AC-4EC5-41E1-89F7-7DD4EB01A970"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cminds:enhanced-tooltipglossary:3.2.8:*:*:*:*:wordpress:*:*",
+      "title": "Cminds enhanced-tooltipglossary 3.2.8 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cminds:tooltip_glossary:3.2.8:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

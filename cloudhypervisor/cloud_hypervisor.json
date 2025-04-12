@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cloudhypervisor:cloud_hypervisor:30.0:*:*:*:*:rust:*:*",
+        "cpeNameId": "8000B799-2752-457E-94D7-61B1ECF7280D",
+        "lastModified": "2023-07-12T09:15:11.773",
+        "created": "2023-04-26T14:24:50.180",
+        "titles": [
+          {
+            "title": "Cloudhypervisor Cloud Hypervisor 30.0 for Rust",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cloudhypervisor:cloud_hypervisor:31.1:*:*:*:*:rust:*:*",
+        "cpeNameId": "F67D1BB4-70D9-4E0F-828C-844981066D30",
+        "lastModified": "2023-07-12T09:15:11.773",
+        "created": "2023-04-26T14:24:50.180",
+        "titles": [
+          {
+            "title": "Cloudhypervisor Cloud Hypervisor 31.1 for Rust",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cloudhypervisor:cloud_hypervisor:30.0:*:*:*:*:rust:*:*",
+      "title": "Cloudhypervisor Cloud Hypervisor 30.0 for Rust",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cloudhypervisor:cloud_hypervisor:31.1:*:*:*:*:rust:*:*",
+      "title": "Cloudhypervisor Cloud Hypervisor 31.1 for Rust",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

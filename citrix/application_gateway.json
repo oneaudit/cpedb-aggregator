@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:citrix:application_gateway:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AD36E093-04BA-4C5C-806E-D93DEF071120",
+        "lastModified": "2010-12-29T17:10:52.633",
+        "created": "2009-01-09T21:11:44.220",
+        "titles": [
+          {
+            "title": "Citrix Broadcast Server (Cisco) 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:citrix:broadcast_server:6.0:*:cisco:*:*:*:*:*",
+            "cpeNameId": "F97B0F61-B9C7-4EF9-9203-CF8D102496E8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:citrix:application_gateway:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8E73FAF6-08EA-4C56-B7DC-3487B336383E",
+        "lastModified": "2010-12-29T17:10:52.760",
+        "created": "2009-01-09T21:15:01.007",
+        "titles": [
+          {
+            "title": "Citrix Application Gateway for Avaya",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:citrix:application_gateway_for_avaya:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4C32B376-DB71-48CA-B55B-7DEB57456CEF"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:citrix:application_gateway:6.0:*:*:*:*:*:*:*",
+      "title": "Citrix Broadcast Server (Cisco) 6.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:citrix:broadcast_server:6.0:*:cisco:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:citrix:application_gateway:6.0:*:*:*:*:*:*:*",
+      "title": "Citrix Application Gateway for Avaya",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:citrix:application_gateway_for_avaya:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

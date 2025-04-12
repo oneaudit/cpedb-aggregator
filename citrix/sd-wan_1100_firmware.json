@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_1100_firmware:-:*:*:*:standard:*:*:*",
+        "cpeNameId": "854D6C2C-7B7C-4D5D-9975-68A87D7F5CF8",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:07:02.013",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 1100 Firmware Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_1100_firmware:11.4.1:*:*:*:standard:*:*:*",
+        "cpeNameId": "AA91F999-10D5-410D-984D-56E7B2BFA170",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:07:02.013",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 1100 Firmware 11.4.1 Standard Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_1100_firmware:-:*:*:*:premium:*:*:*",
+        "cpeNameId": "3C01B32A-7D35-4ECB-A60D-95F8756F5291",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:21:54.683",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 1100 Firmware Premium Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:citrix:sd-wan_1100_firmware:11.4.1:*:*:*:premium:*:*:*",
+        "cpeNameId": "A3C4B50F-4625-46A3-BFF1-DDC89FD2646F",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-21T18:21:54.683",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 1100 Firmware 11.4.1 Premium Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_1100_firmware:-:*:*:*:standard:*:*:*",
+      "title": "Citrix SD-WAN 1100 Firmware Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_1100_firmware:11.4.1:*:*:*:standard:*:*:*",
+      "title": "Citrix SD-WAN 1100 Firmware 11.4.1 Standard Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_1100_firmware:-:*:*:*:premium:*:*:*",
+      "title": "Citrix SD-WAN 1100 Firmware Premium Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:citrix:sd-wan_1100_firmware:11.4.1:*:*:*:premium:*:*:*",
+      "title": "Citrix SD-WAN 1100 Firmware 11.4.1 Premium Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

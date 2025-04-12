@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:citrix:sd-wan_6100_premium_edition:-:*:*:*:*:*:*:*",
+        "cpeNameId": "69CF46C2-592C-4DD1-ABC3-A24E3CCD11B8",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-19T15:07:29.633",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 6100 PREMIUM EDITION -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:citrix:sd-wan_6100:-:*:*:*:*:*:*:*",
+            "cpeNameId": "A62620C6-A1FD-498E-9150-02D48E35E88B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:citrix:sd-wan_6100_premium_edition:-:*:*:*:*:*:*:*",
+      "title": "Citrix SD-WAN 6100 PREMIUM EDITION -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:citrix:sd-wan_6100:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

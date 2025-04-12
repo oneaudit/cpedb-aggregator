@@ -1,0 +1,549 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:citrix:application_delivery_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BAFBC552-B3CA-4F70-8938-A3D514FA00A0",
+        "lastModified": "2021-01-14T19:42:27.703",
+        "created": "2021-01-14T19:42:27.703",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.0-fips:*:*:*:*:*:*:*",
+        "cpeNameId": "4E170E8D-643F-4C79-88A7-809CEE004EEA",
+        "lastModified": "2021-08-19T13:57:16.973",
+        "created": "2021-08-13T12:25:57.557",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.0-FIPS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.247:*:*:*:*:*:*:*",
+        "cpeNameId": "471DB757-F36A-4048-935D-8BA61E614C38",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2021-08-13T12:25:57.557",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1-55.247",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.247:*:*:*:-:*:*:*",
+            "cpeNameId": "C5E3A404-A07F-4E74-B23E-6203CB15471E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.16:*:*:*:*:*:*:*",
+        "cpeNameId": "5B6E91E7-2124-46EC-ABE7-30581C671A29",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-02-01T14:11:29.343",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1-64.16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.16:*:*:*:-:*:*:*",
+            "cpeNameId": "F05FD5BE-3833-4700-BFFE-C88F4070BD55"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.17:*:*:*:*:*:*:*",
+        "cpeNameId": "85EEF0FC-43E6-4ED3-8AB2-39125C620402",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-02-01T14:13:28.580",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1-64.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.17:*:*:*:-:*:*:*",
+            "cpeNameId": "F2EBB490-EE86-4A7D-B616-E05AF8E262C5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:13.0-85.19:*:*:*:*:*:*:*",
+        "cpeNameId": "B0872614-7E52-4CC7-B312-24A1FB9F4E73",
+        "lastModified": "2023-02-01T17:56:47.683",
+        "created": "2023-02-01T14:13:28.580",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 13.0-85.19",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:13.1-21.50:*:*:*:*:*:*:*",
+        "cpeNameId": "A1B87A08-FCE7-4361-B0A2-9C90957ED639",
+        "lastModified": "2023-02-01T17:56:47.683",
+        "created": "2023-02-01T14:13:28.580",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 13.1-21.50",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.278:*:*:*:fips:*:*:*",
+        "cpeNameId": "C69D337C-E978-406F-87B0-0B3588B10926",
+        "lastModified": "2023-02-01T17:56:47.683",
+        "created": "2023-02-01T14:14:03.337",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1-55.278 FIPS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.278:*:*:*:ndcpp:*:*:*",
+        "cpeNameId": "26A82EC1-4BC4-47AD-92C9-0FFFCE596F87",
+        "lastModified": "2023-02-01T17:56:47.683",
+        "created": "2023-02-01T14:14:03.337",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1-55.278 NDcPP Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1:*:*:*:-:*:*:*",
+        "cpeNameId": "A3A1BB61-321F-4EE2-BD99-F2BB62075E22",
+        "lastModified": "2023-08-25T07:02:28.027",
+        "created": "2023-07-11T13:19:40.520",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-65.35:*:*:*:-:*:*:*",
+        "cpeNameId": "51C00AAD-0B1E-43FF-8403-DBA1233E275E",
+        "lastModified": "2023-08-25T07:02:28.027",
+        "created": "2023-07-11T13:19:40.520",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1-65.35",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1:*:*:*:fips:*:*:*",
+        "cpeNameId": "951A14FD-71C0-4A73-B919-16643E9E21C2",
+        "lastModified": "2023-08-25T07:02:28.027",
+        "created": "2023-07-11T13:20:09.620",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1 FIPS  Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.296:*:*:*:fips:*:*:*",
+        "cpeNameId": "F05F2C32-0860-45D0-A6F5-08C6225F97AE",
+        "lastModified": "2023-07-11T14:49:08.573",
+        "created": "2023-07-11T13:20:09.620",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1-55.296 FIPS  Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1:*:*:*:ndcpp:*:*:*",
+        "cpeNameId": "1A055708-EA5C-4DA0-BF6E-92A61A469597",
+        "lastModified": "2023-08-25T07:02:28.027",
+        "created": "2023-07-11T13:20:17.047",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1 NDcPP Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.296:*:*:*:ndcpp:*:*:*",
+        "cpeNameId": "D449EB85-E374-4937-B522-AE40A45F9D95",
+        "lastModified": "2023-08-25T07:02:28.027",
+        "created": "2023-07-11T13:20:17.047",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1-55.296 NDcPP Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:13.0:*:*:*:-:*:*:*",
+        "cpeNameId": "CB15219D-2F74-45E5-98BF-C76EE946763E",
+        "lastModified": "2023-08-25T07:02:28.027",
+        "created": "2023-07-18T13:47:53.240",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller 13.0 - Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:13.0-90.11:*:*:*:-:*:*:*",
+        "cpeNameId": "96F545B7-6A66-4067-AADF-A7A021E7B026",
+        "lastModified": "2023-08-25T07:02:28.027",
+        "created": "2023-07-18T13:47:53.240",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller 13.0-90.11 - Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:13.1:*:*:*:fips:*:*:*",
+        "cpeNameId": "977EBEEA-24CC-4B58-8BA9-9CA5EB4DCFB2",
+        "lastModified": "2023-08-25T07:02:28.027",
+        "created": "2023-07-18T13:47:58.647",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller 13.1 FIPS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:13.1-37.150:*:*:*:fips:*:*:*",
+        "cpeNameId": "9402885F-4EEF-4782-9ACF-3CB1C657B2B5",
+        "lastModified": "2023-08-25T07:02:28.027",
+        "created": "2023-07-18T13:47:58.647",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller 13.1-37.150 FIPS Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:13.1:*:*:*:-:*:*:*",
+        "cpeNameId": "B6BDDA66-D437-4DF1-9CA7-139E665F6312",
+        "lastModified": "2023-08-25T07:02:28.027",
+        "created": "2023-07-18T13:48:15.310",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller 13.1 - Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:13.1-45.61:*:*:*:-:*:*:*",
+        "cpeNameId": "693C4363-8D55-449F-8717-85BDDDB6EABA",
+        "lastModified": "2023-08-25T07:02:28.027",
+        "created": "2023-07-18T13:48:15.310",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller 13.1-45.61 - Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.247:*:*:*:-:*:*:*",
+        "cpeNameId": "C5E3A404-A07F-4E74-B23E-6203CB15471E",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1-55.247",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.16:*:*:*:-:*:*:*",
+        "cpeNameId": "F05FD5BE-3833-4700-BFFE-C88F4070BD55",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1-64.16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.17:*:*:*:-:*:*:*",
+        "cpeNameId": "F2EBB490-EE86-4A7D-B616-E05AF8E262C5",
+        "lastModified": "2023-09-29T11:33:57.233",
+        "created": "2023-09-29T11:33:57.233",
+        "titles": [
+          {
+            "title": "Citrix Application Delivery Controller (ADC) 12.1-64.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:citrix:application_delivery_controller:-:*:*:*:*:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.0-fips:*:*:*:*:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.0-FIPS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.247:*:*:*:*:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1-55.247",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.247:*:*:*:-:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.16:*:*:*:*:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1-64.16",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.16:*:*:*:-:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.17:*:*:*:*:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1-64.17",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.17:*:*:*:-:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:13.0-85.19:*:*:*:*:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 13.0-85.19",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:13.1-21.50:*:*:*:*:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 13.1-21.50",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.278:*:*:*:fips:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1-55.278 FIPS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.278:*:*:*:ndcpp:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1-55.278 NDcPP Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1:*:*:*:-:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-65.35:*:*:*:-:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1-65.35",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1:*:*:*:fips:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1 FIPS  Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.296:*:*:*:fips:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1-55.296 FIPS  Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1:*:*:*:ndcpp:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1 NDcPP Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.296:*:*:*:ndcpp:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1-55.296 NDcPP Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:13.0:*:*:*:-:*:*:*",
+      "title": "Citrix Application Delivery Controller 13.0 - Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:13.0-90.11:*:*:*:-:*:*:*",
+      "title": "Citrix Application Delivery Controller 13.0-90.11 - Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:13.1:*:*:*:fips:*:*:*",
+      "title": "Citrix Application Delivery Controller 13.1 FIPS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:13.1-37.150:*:*:*:fips:*:*:*",
+      "title": "Citrix Application Delivery Controller 13.1-37.150 FIPS Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:13.1:*:*:*:-:*:*:*",
+      "title": "Citrix Application Delivery Controller 13.1 - Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:13.1-45.61:*:*:*:-:*:*:*",
+      "title": "Citrix Application Delivery Controller 13.1-45.61 - Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.247:*:*:*:-:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1-55.247",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.16:*:*:*:-:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1-64.16",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.17:*:*:*:-:*:*:*",
+      "title": "Citrix Application Delivery Controller (ADC) 12.1-64.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

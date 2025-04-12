@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citadel:smtp:-:*:*:*:*:*:*:*",
+        "cpeNameId": "80FE5A7A-5C6E-4D6C-BC98-EBE3B4B8C60A",
+        "lastModified": "2008-04-01T14:41:49.497",
+        "created": "2008-01-23T15:27:10.130",
+        "titles": [
+          {
+            "title": "Citadel Citadel_SMTP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citadel:smtp:7.10:*:*:*:*:*:*:*",
+        "cpeNameId": "62C57576-B7F4-42ED-A036-811747173BD2",
+        "lastModified": "2008-04-01T14:41:49.543",
+        "created": "2008-01-23T15:27:17.100",
+        "titles": [
+          {
+            "title": "Citadel Citadel_SMTP 7.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:citadel:smtp:-:*:*:*:*:*:*:*",
+      "title": "Citadel Citadel_SMTP",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citadel:smtp:7.10:*:*:*:*:*:*:*",
+      "title": "Citadel Citadel_SMTP 7.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

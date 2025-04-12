@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:webex:4.1:-:*:*:*:iphone_os:*:*",
+        "cpeNameId": "199A686F-F983-48A8-97D5-6179389ECCFC",
+        "lastModified": "2013-05-31T20:48:07.273",
+        "created": "2013-05-28T17:03:04.317",
+        "titles": [
+          {
+            "title": "Cisco WebEx 4.1 for Apple iPhone OS (iOS)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:webex:11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C2537745-CCBC-4AFC-BCE2-8B1D251B5894",
+        "lastModified": "2013-08-01T01:36:06.330",
+        "created": "2013-07-31T15:31:45.637",
+        "titles": [
+          {
+            "title": "Cisco WebEx 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:webex:1.0.6:*:*:*:*:chrome:*:*",
+        "cpeNameId": "01891D72-396A-4090-82B6-0723C3155F14",
+        "lastModified": "2021-04-01T17:08:18.877",
+        "created": "2017-02-24T19:26:22.920",
+        "titles": [
+          {
+            "title": "Cisco Webex 1.0.6 for Chrome",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:webex:4.1:-:*:*:*:iphone_os:*:*",
+      "title": "Cisco WebEx 4.1 for Apple iPhone OS (iOS)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:webex:11.0:*:*:*:*:*:*:*",
+      "title": "Cisco WebEx 11.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:webex:1.0.6:*:*:*:*:chrome:*:*",
+      "title": "Cisco Webex 1.0.6 for Chrome",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cloudfoundry:cloud_controller:1.78.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3727004E-14F5-41CC-BA36-6C2012A8BBC9",
+        "lastModified": "2021-08-17T15:30:22.483",
+        "created": "2019-03-29T18:06:10.857",
+        "titles": [
+          {
+            "title": "Cloud Foundry Cloud Controller 1.78.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cloudfoundry:capi-release:1.78.0:*:*:*:*:*:*:*",
+            "cpeNameId": "183CA582-02CF-4966-B6F9-71D5CF9D9C2B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cloudfoundry:cloud_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5779AA4A-DA47-4223-A3D5-A274F3354132",
+        "lastModified": "2019-06-05T15:16:42.313",
+        "created": "2019-06-05T15:16:42.313",
+        "titles": [
+          {
+            "title": "Cloud Foundry Cloud Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cloudfoundry:cloud_controller:1.88.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A5D6B5CA-7D74-40C9-AB45-49B21935A2D1",
+        "lastModified": "2021-08-17T15:30:22.483",
+        "created": "2020-01-02T18:15:39.917",
+        "titles": [
+          {
+            "title": "Cloud Foundry Cloud Controller 1.88.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cloudfoundry:capi-release:1.88.0:*:*:*:*:*:*:*",
+            "cpeNameId": "DAE77358-BA9C-47D1-B396-30750EDDCBD6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cloudfoundry:cloud_controller:1.91.0:*:*:*:*:*:*:*",
+        "cpeNameId": "68693645-C589-4395-8A9F-1E88E9F7B84B",
+        "lastModified": "2021-08-17T15:30:22.483",
+        "created": "2020-03-06T21:28:07.100",
+        "titles": [
+          {
+            "title": "Cloud Foundry Cloud Controller 1.91.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cloudfoundry:capi-release:1.91.0:*:*:*:*:*:*:*",
+            "cpeNameId": "DB70B348-0AF0-4FB5-AD0C-488D76332800"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cloudfoundry:cloud_controller:1.97.0:*:*:*:*:*:*:*",
+        "cpeNameId": "09CBC2D9-8BE7-4CEB-BC74-A023A484FE0D",
+        "lastModified": "2021-08-17T15:30:22.483",
+        "created": "2020-08-24T15:08:53.863",
+        "titles": [
+          {
+            "title": "Cloud Foundry Cloud Controller 1.97.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cloudfoundry:capi-release:1.97.0:*:*:*:*:*:*:*",
+            "cpeNameId": "21AACFCF-82FB-48C2-90D1-30B02CBBCF04"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cloudfoundry:cloud_controller:1.78.0:*:*:*:*:*:*:*",
+      "title": "Cloud Foundry Cloud Controller 1.78.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cloudfoundry:capi-release:1.78.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:cloudfoundry:cloud_controller:-:*:*:*:*:*:*:*",
+      "title": "Cloud Foundry Cloud Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cloudfoundry:cloud_controller:1.88.0:*:*:*:*:*:*:*",
+      "title": "Cloud Foundry Cloud Controller 1.88.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cloudfoundry:capi-release:1.88.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:cloudfoundry:cloud_controller:1.91.0:*:*:*:*:*:*:*",
+      "title": "Cloud Foundry Cloud Controller 1.91.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cloudfoundry:capi-release:1.91.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:cloudfoundry:cloud_controller:1.97.0:*:*:*:*:*:*:*",
+      "title": "Cloud Foundry Cloud Controller 1.97.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cloudfoundry:capi-release:1.97.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

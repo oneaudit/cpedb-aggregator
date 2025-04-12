@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:cloud_connector:6.31.0.62192:*:*:*:*:*:*:*",
+        "cpeNameId": "F4BC599B-E649-40C8-B799-08BEDAE38AEA",
+        "lastModified": "2021-06-23T15:47:48.023",
+        "created": "2021-06-23T14:51:59.790",
+        "titles": [
+          {
+            "title": "Citrix Cloud Connector 6.31.0.62192",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:cloud_connector:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3907DFED-B23C-4EDF-AF42-BB3AC4F97E0E",
+        "lastModified": "2021-06-23T15:47:48.023",
+        "created": "2021-06-23T14:51:59.790",
+        "titles": [
+          {
+            "title": "Citrix Cloud Connector",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:citrix:cloud_connector:6.31.0.62192:*:*:*:*:*:*:*",
+      "title": "Citrix Cloud Connector 6.31.0.62192",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:cloud_connector:-:*:*:*:*:*:*:*",
+      "title": "Citrix Cloud Connector",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

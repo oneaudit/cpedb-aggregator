@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:storage_zones_controller:5.11.19:*:*:*:*:*:*:*",
+        "cpeNameId": "BEF674FD-2465-4714-B9E3-10ECB2B96AAF",
+        "lastModified": "2021-08-30T18:43:47.840",
+        "created": "2021-08-27T12:51:41.013",
+        "titles": [
+          {
+            "title": "Citrix Storage Zones Controller 5.11.19",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:storage_zones_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EFA9ABF7-2EF7-419B-8B85-040FDC5C778C",
+        "lastModified": "2021-08-30T18:43:47.840",
+        "created": "2021-08-27T12:51:41.013",
+        "titles": [
+          {
+            "title": "Citrix Storage Zones Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:citrix:storage_zones_controller:5.11.19:*:*:*:*:*:*:*",
+      "title": "Citrix Storage Zones Controller 5.11.19",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:storage_zones_controller:-:*:*:*:*:*:*:*",
+      "title": "Citrix Storage Zones Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

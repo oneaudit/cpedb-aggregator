@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:federated_authentication_service:7.17:*:*:*:*:*:*:*",
+        "cpeNameId": "1A31F0C6-6B5E-41BF-80D7-B74F5C7BC1BC",
+        "lastModified": "2022-07-06T15:45:54.633",
+        "created": "2022-03-15T17:54:08.747",
+        "titles": [
+          {
+            "title": "Citrix Federated Authentication Service (FAS) 7.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:federated_authentication_service:10.6:*:*:*:*:*:*:*",
+        "cpeNameId": "04209AD0-4864-42E9-86C9-F3C3A1ABC640",
+        "lastModified": "2022-07-06T15:45:54.633",
+        "created": "2022-03-15T17:54:08.747",
+        "titles": [
+          {
+            "title": "Citrix Federated Authentication Service (FAS) 10.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:citrix:federated_authentication_service:7.17:*:*:*:*:*:*:*",
+      "title": "Citrix Federated Authentication Service (FAS) 7.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:federated_authentication_service:10.6:*:*:*:*:*:*:*",
+      "title": "Citrix Federated Authentication Service (FAS) 10.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

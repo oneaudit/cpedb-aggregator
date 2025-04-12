@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:desktop_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2B560011-6AB9-46F3-9F67-477FDED6D68A",
+        "lastModified": "2008-01-21T13:16:21.280",
+        "created": "2008-01-21T13:16:21.280",
+        "titles": [
+          {
+            "title": "Citrix Desktop Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:desktop_server:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EBEABDE7-3738-4D51-8A5F-F08FEEAB8983",
+        "lastModified": "2008-01-21T13:16:31.390",
+        "created": "2008-01-21T13:16:31.390",
+        "titles": [
+          {
+            "title": "Citrix Desktop Server 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:citrix:desktop_server:-:*:*:*:*:*:*:*",
+      "title": "Citrix Desktop Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:desktop_server:1.0:*:*:*:*:*:*:*",
+      "title": "Citrix Desktop Server 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

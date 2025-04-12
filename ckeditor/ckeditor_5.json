@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ckeditor:ckeditor_5:10.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "50DACC2E-1403-47CB-923E-11627C8B30B2",
+        "lastModified": "2022-08-09T17:31:08.413",
+        "created": "2019-08-27T12:52:51.490",
+        "titles": [
+          {
+            "title": "CKEditor CKEditor 5 10.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ckeditor:ckeditor5:10.0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "924A70A0-31F3-4C11-B420-2872D60072C3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ckeditor:ckeditor_5:25.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C57DA4EA-D182-4D58-9B1F-DCEB4BB84A46",
+        "lastModified": "2022-08-09T17:31:08.413",
+        "created": "2021-02-01T12:50:05.370",
+        "titles": [
+          {
+            "title": "CKEditor CKEditor 5 25.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ckeditor:ckeditor5:25.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "1F4D8252-27DF-4BE2-BD2C-781693A43F95"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ckeditor:ckeditor_5:10.0.1:*:*:*:*:*:*:*",
+      "title": "CKEditor CKEditor 5 10.0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ckeditor:ckeditor5:10.0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ckeditor:ckeditor_5:25.0.0:*:*:*:*:*:*:*",
+      "title": "CKEditor CKEditor 5 25.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ckeditor:ckeditor5:25.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

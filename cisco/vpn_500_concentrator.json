@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:vpn_500_concentrator:-:*:*:*:*:*:*:*",
+        "cpeNameId": "854E2524-F517-4D6E-A396-B8E77D6D14DF",
+        "lastModified": "2010-12-28T17:38:42.053",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco VPN 5000 Concentrator",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:cisco:vpn_5000_concentrator:-:*:*:*:*:*:*:*",
+            "cpeNameId": "62B455AD-2690-4AAF-BB45-8823BE273F24"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:vpn_500_concentrator:5.2.23.0003:*:*:*:*:*:*:*",
+        "cpeNameId": "086A42FC-E2D3-40BF-B42F-F707C2284DC3",
+        "lastModified": "2010-12-28T17:38:42.460",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco VPN 5000 Concentrator Series Software 5.2.23.0003",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:vpn_5000_concentrator_series_software:5.2.23.0003:*:*:*:*:*:*:*",
+            "cpeNameId": "3916BCAB-F5EB-490B-934B-E5AD5FCE48F9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:vpn_500_concentrator:6.0.21.0002:*:*:*:*:*:*:*",
+        "cpeNameId": "A5C7A251-BBD3-4991-9507-E5C6304E1EFC",
+        "lastModified": "2010-12-28T17:38:42.880",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco VPN 5000 Concentrator Series Software 6.0.21.0002",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:vpn_5000_concentrator_series_software:6.0.21.0002:*:*:*:*:*:*:*",
+            "cpeNameId": "822C003C-B300-4450-936C-121970870AA8"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:vpn_500_concentrator:-:*:*:*:*:*:*:*",
+      "title": "Cisco VPN 5000 Concentrator",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:cisco:vpn_5000_concentrator:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:vpn_500_concentrator:5.2.23.0003:*:*:*:*:*:*:*",
+      "title": "Cisco VPN 5000 Concentrator Series Software 5.2.23.0003",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:vpn_5000_concentrator_series_software:5.2.23.0003:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:vpn_500_concentrator:6.0.21.0002:*:*:*:*:*:*:*",
+      "title": "Cisco VPN 5000 Concentrator Series Software 6.0.21.0002",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:vpn_5000_concentrator_series_software:6.0.21.0002:*:*:*:*:*:*:*"
+    }
+  ]
+}

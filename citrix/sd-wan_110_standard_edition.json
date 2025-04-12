@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:citrix:sd-wan_110_standard_edition:-:*:*:*:*:*:*:*",
+        "cpeNameId": "49E1F470-B9ED-4467-BF1F-F7F8E6F6C627",
+        "lastModified": "2022-04-22T18:05:51.033",
+        "created": "2022-04-19T15:07:29.633",
+        "titles": [
+          {
+            "title": "Citrix SD-WAN 110 STANDARD EDITION -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:citrix:sd-wan_110:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BAB72876-9A41-4C85-856E-4EC55D54651C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:citrix:sd-wan_110_standard_edition:-:*:*:*:*:*:*:*",
+      "title": "Citrix SD-WAN 110 STANDARD EDITION -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:citrix:sd-wan_110:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

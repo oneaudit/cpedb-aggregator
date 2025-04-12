@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cloudbees:jenkins1.381:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4261754F-AF0B-40F7-BE3F-6373BDE9CC2B",
+        "lastModified": "2016-06-13T11:16:28.190",
+        "created": "2011-12-01T15:43:11.723",
+        "titles": [
+          {
+            "title": "CloudBees Jenkins 1.381",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:jenkins:jenkins:1.381:*:*:*:*:*:*:*",
+            "cpeNameId": "E34E8BF0-23B9-48EE-B012-CB398457253B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cloudbees:jenkins1.381:-:*:*:*:*:*:*:*",
+      "title": "CloudBees Jenkins 1.381",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:jenkins:jenkins:1.381:*:*:*:*:*:*:*"
+    }
+  ]
+}

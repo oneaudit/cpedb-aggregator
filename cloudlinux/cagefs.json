@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cloudlinux:cagefs:7.1.2-2:*:*:*:*:*:*:*",
+        "cpeNameId": "6CB19851-8A95-40F0-AB02-554FF982B26E",
+        "lastModified": "2024-02-03T01:39:22.613",
+        "created": "2024-02-03T01:39:22.613",
+        "titles": [
+          {
+            "title": "CloudLinux CageFS7.1.2-2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cloudlinux:cagefs:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CEC2AE9C-AE4F-4890-9FC8-EF30DE1BA8DB",
+        "lastModified": "2024-02-03T01:39:22.613",
+        "created": "2024-02-03T01:39:22.613",
+        "titles": [
+          {
+            "title": "CloudLinux CageFS -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cloudlinux:cagefs:7.1.1-1:*:*:*:*:*:*:*",
+        "cpeNameId": "C9D40C9C-122E-419B-A6FF-FA4156345570",
+        "lastModified": "2024-02-03T01:39:22.613",
+        "created": "2024-02-03T01:39:22.613",
+        "titles": [
+          {
+            "title": "CloudLinux CageFS7.1.1-1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cloudlinux:cagefs:7.1.2-2:*:*:*:*:*:*:*",
+      "title": "CloudLinux CageFS7.1.2-2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cloudlinux:cagefs:-:*:*:*:*:*:*:*",
+      "title": "CloudLinux CageFS -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cloudlinux:cagefs:7.1.1-1:*:*:*:*:*:*:*",
+      "title": "CloudLinux CageFS7.1.1-1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

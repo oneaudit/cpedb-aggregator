@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:presentation_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CEB5344B-5725-4BD5-9DE2-768E9FC2F114",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Citrix Presentation Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:presentation_server:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "70052754-3194-4CB7-8C75-7766DECC43DC",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Citrix Presentation Server 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:presentation_server:4.5:*:*:*:*:*:*:*",
+        "cpeNameId": "F3A7F052-93B5-45B3-ADCE-EAD2C7F3D7C0",
+        "lastModified": "2019-11-26T17:20:31.717",
+        "created": "2019-11-26T17:20:31.717",
+        "titles": [
+          {
+            "title": "Citrix Presentation Server 4.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:citrix:presentation_server:-:*:*:*:*:*:*:*",
+      "title": "Citrix Presentation Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:presentation_server:4.0:*:*:*:*:*:*:*",
+      "title": "Citrix Presentation Server 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:presentation_server:4.5:*:*:*:*:*:*:*",
+      "title": "Citrix Presentation Server 4.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cloudflare:golz4:2014-07-11:*:*:*:*:go:*:*",
+        "cpeNameId": "A7AECDE6-7F12-4999-972A-C73B55124A5F",
+        "lastModified": "2023-08-29T12:29:58.473",
+        "created": "2023-01-04T16:03:14.070",
+        "titles": [
+          {
+            "title": "Cloudflare Golz4 2014-07-11 for Go",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cloudflare:golz4:-:*:*:*:*:go:*:*",
+        "cpeNameId": "30D50F9F-67B6-42C8-BA16-41F14352D6A5",
+        "lastModified": "2023-08-29T12:29:58.473",
+        "created": "2023-01-04T16:03:14.070",
+        "titles": [
+          {
+            "title": "Cloudflare Golz4 for Go",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cloudflare:golz4:2014-07-11:*:*:*:*:go:*:*",
+      "title": "Cloudflare Golz4 2014-07-11 for Go",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cloudflare:golz4:-:*:*:*:*:go:*:*",
+      "title": "Cloudflare Golz4 for Go",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

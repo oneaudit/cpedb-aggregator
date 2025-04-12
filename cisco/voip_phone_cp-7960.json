@@ -1,0 +1,136 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:voip_phone_cp-7960:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4E3EBB9D-FDCD-48A2-B912-C56C9064B742",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco VoIP Phone CP-7960",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:voip_phone_cp-7960:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "97A0B0C3-0133-4F6B-9774-A828F178081F",
+        "lastModified": "2010-12-28T17:38:04.320",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Skinny Client Control Protocol (SCCP) 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "34BD8A13-AAD1-440F-95B0-22A37BCD56A6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:voip_phone_cp-7960:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "CFA897F6-D5FC-4FB2-BDED-5EF5456374C4",
+        "lastModified": "2010-12-28T17:38:04.727",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Skinny Client Control Protocol (SCCP) 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "06708809-2CA6-4B64-8B15-73298E159669"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:voip_phone_cp-7960:3.2:*:*:*:*:*:*:*",
+        "cpeNameId": "6C1D556C-3021-4653-AA09-D6B9370CA688",
+        "lastModified": "2010-12-28T17:38:05.147",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Skinny Client Control Protocol (SCCP) 3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:3.2:*:*:*:*:*:*:*",
+            "cpeNameId": "54D5B8B6-B711-4244-9B9A-E67F270897A7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:cisco:voip_phone_cp-7960:8.70:*:*:*:*:*:*:*",
+        "cpeNameId": "F14A8F1E-7ACF-4726-B92E-A50B9C7122DB",
+        "lastModified": "2010-12-28T17:38:03.880",
+        "created": "2007-12-19T15:46:04.480",
+        "titles": [
+          {
+            "title": "Cisco Skinny Client Control Protocol (SCCP) 8.70",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:8.70:*:*:*:*:*:*:*",
+            "cpeNameId": "3C06CB53-1BB3-4C39-A36D-3B90DFB99FAA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:voip_phone_cp-7960:-:*:*:*:*:*:*:*",
+      "title": "Cisco VoIP Phone CP-7960",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:voip_phone_cp-7960:3.0:*:*:*:*:*:*:*",
+      "title": "Cisco Skinny Client Control Protocol (SCCP) 3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:3.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:voip_phone_cp-7960:3.1:*:*:*:*:*:*:*",
+      "title": "Cisco Skinny Client Control Protocol (SCCP) 3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:3.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:cisco:voip_phone_cp-7960:3.2:*:*:*:*:*:*:*",
+      "title": "Cisco Skinny Client Control Protocol (SCCP) 3.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:3.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:cisco:voip_phone_cp-7960:8.70:*:*:*:*:*:*:*",
+      "title": "Cisco Skinny Client Control Protocol (SCCP) 8.70",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:8.70:*:*:*:*:*:*:*"
+    }
+  ]
+}

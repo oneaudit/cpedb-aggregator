@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:broadcast_server:6.0:*:cisco:*:*:*:*:*",
+        "cpeNameId": "F97B0F61-B9C7-4EF9-9203-CF8D102496E8",
+        "lastModified": "2009-01-09T21:11:44.343",
+        "created": "2009-01-09T21:11:44.343",
+        "titles": [
+          {
+            "title": "Citrix Broadcast Server (Cisco) 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:broadcast_server:6.1:*:cisco:*:*:*:*:*",
+        "cpeNameId": "9CA8FA3C-CB27-4788-B5D1-AB06CC45347E",
+        "lastModified": "2010-12-29T17:10:17.777",
+        "created": "2010-12-29T17:10:17.777",
+        "titles": [
+          {
+            "title": "Citrix Broadcast Server (Cisco) 6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:citrix:broadcast_server:2.0:*:avaya:*:*:*:*:*",
+        "cpeNameId": "FDE2CD95-6C3A-4B2E-A764-F06AC9956D91",
+        "lastModified": "2010-12-29T17:10:17.930",
+        "created": "2010-12-29T17:10:17.930",
+        "titles": [
+          {
+            "title": "Citrix Broadcast Server (Avaya) 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:citrix:broadcast_server:6.0:*:cisco:*:*:*:*:*",
+      "title": "Citrix Broadcast Server (Cisco) 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:broadcast_server:6.1:*:cisco:*:*:*:*:*",
+      "title": "Citrix Broadcast Server (Cisco) 6.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:citrix:broadcast_server:2.0:*:avaya:*:*:*:*:*",
+      "title": "Citrix Broadcast Server (Avaya) 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

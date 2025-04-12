@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:clearcanvas_project:clearcanvas:3.0:alpha:*:*:*:*:*:*",
+        "cpeNameId": "EB19039B-E519-40C0-B2D3-0FFCD7090516",
+        "lastModified": "2020-03-02T14:23:07.423",
+        "created": "2020-02-10T18:49:58.603",
+        "titles": [
+          {
+            "title": "ClearCanvas Project ClearCanvas 3.0 Alpha",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:synaptivemedical:clearcanvas:3.0:alpha:*:*:*:*:*:*",
+            "cpeNameId": "EFBA7E56-7B2F-435E-9476-1435A47C18BB"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:clearcanvas_project:clearcanvas:3.0:alpha:*:*:*:*:*:*",
+      "title": "ClearCanvas Project ClearCanvas 3.0 Alpha",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:synaptivemedical:clearcanvas:3.0:alpha:*:*:*:*:*:*"
+    }
+  ]
+}
