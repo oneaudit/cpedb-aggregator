@@ -1,0 +1,77 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:widcomm_bluetooth:-:*:*:*:*:*:*:*",
+        "cpeNameId": "43523FE6-BBAF-4754-BA93-3EF4A6CD0237",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Broadcom Widcomm Bluetooth",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:broadcom:widcomm_bluetooth:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2225BD8B-2CD0-421B-8CE9-6DF2477F57ED",
+        "lastModified": "2010-12-28T17:36:05.100",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Broadcom Widcomm Bluetooth",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:broadcom:widcomm_bluetooth:-:*:*:*:*:*:*:*",
+            "cpeNameId": "43523FE6-BBAF-4754-BA93-3EF4A6CD0237"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:widcomm_bluetooth:4.0.1.1500:*:*:*:*:*:*:*",
+        "cpeNameId": "BBC76A17-208D-45D9-B3ED-62B456C41A4B",
+        "lastModified": "2008-04-01T14:37:02.157",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Broadcom Widcomm Bluetooth for Windows 4.0.1.1500",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:broadcom:widcomm_bluetooth:-:*:*:*:*:*:*:*",
+      "title": "Broadcom Widcomm Bluetooth",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:broadcom:widcomm_bluetooth:-:*:*:*:*:*:*:*",
+      "title": "Broadcom Widcomm Bluetooth",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:broadcom:widcomm_bluetooth:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:broadcom:widcomm_bluetooth:4.0.1.1500:*:*:*:*:*:*:*",
+      "title": "Broadcom Widcomm Bluetooth for Windows 4.0.1.1500",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

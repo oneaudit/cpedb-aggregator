@@ -1,0 +1,143 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:brocade:fabric_operating_system:8.2.2:a1:*:*:*:*:*:*",
+        "cpeNameId": "CFED5651-9FB4-4EB8-9418-FD22B8CC8DF8",
+        "lastModified": "2021-06-22T15:47:17.857",
+        "created": "2021-06-22T14:57:08.260",
+        "titles": [
+          {
+            "title": "Brocade Fabric Operating System 8.2.2 A1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.2:a1:*:*:*:*:*:*",
+            "cpeNameId": "5A08C1A5-CD39-430F-807E-FE785D5E5A72"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:brocade:fabric_operating_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6C5A79BC-B5F4-4C9C-A4D5-DAF78C48BB28",
+        "lastModified": "2021-09-23T19:36:14.477",
+        "created": "2021-09-03T17:13:38.907",
+        "titles": [
+          {
+            "title": "Brocade Fabric Operating System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:brocade:fabric_operating_system:7.4.2j:*:*:*:*:*:*:*",
+        "cpeNameId": "F34413AB-72C9-425B-B3F0-6820D77587A7",
+        "lastModified": "2023-08-30T11:42:20.643",
+        "created": "2022-12-12T17:15:51.060",
+        "titles": [
+          {
+            "title": "Brocade Fabric Operating System 7.4.2j",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:brocade:fabric_operating_system:8.2.3c:*:*:*:*:*:*:*",
+        "cpeNameId": "EF7B7015-F3E5-416F-AE7A-EFB31C325F88",
+        "lastModified": "2023-08-30T11:42:20.643",
+        "created": "2022-12-12T17:15:51.060",
+        "titles": [
+          {
+            "title": "Brocade Fabric Operating System 8.2.3c",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:brocade:fabric_operating_system:9.0.1e:*:*:*:*:*:*:*",
+        "cpeNameId": "66A9E346-9FC4-4E6C-900F-610081B644CD",
+        "lastModified": "2023-08-30T11:42:20.643",
+        "created": "2022-12-12T17:15:51.060",
+        "titles": [
+          {
+            "title": "Brocade Fabric Operating System 9.0.1e",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:brocade:fabric_operating_system:9.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "D8EB3449-6FFC-4970-BFFF-3FFF1F0414CC",
+        "lastModified": "2023-08-30T11:42:20.643",
+        "created": "2022-12-12T17:15:51.060",
+        "titles": [
+          {
+            "title": "Brocade Fabric Operating System 9.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:brocade:fabric_operating_system:8.2.2:a1:*:*:*:*:*:*",
+      "title": "Brocade Fabric Operating System 8.2.2 A1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.2:a1:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:brocade:fabric_operating_system:-:*:*:*:*:*:*:*",
+      "title": "Brocade Fabric Operating System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:brocade:fabric_operating_system:7.4.2j:*:*:*:*:*:*:*",
+      "title": "Brocade Fabric Operating System 7.4.2j",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:brocade:fabric_operating_system:8.2.3c:*:*:*:*:*:*:*",
+      "title": "Brocade Fabric Operating System 8.2.3c",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:brocade:fabric_operating_system:9.0.1e:*:*:*:*:*:*:*",
+      "title": "Brocade Fabric Operating System 9.0.1e",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:brocade:fabric_operating_system:9.1.1:*:*:*:*:*:*:*",
+      "title": "Brocade Fabric Operating System 9.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

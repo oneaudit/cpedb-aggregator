@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:mlink:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8EB0A28C-79AD-4C65-92CA-7261125A803B",
+        "lastModified": "2021-04-09T17:45:27.317",
+        "created": "2021-04-08T13:32:56.120",
+        "titles": [
+          {
+            "title": "Broadcom MLINK",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:mlink:6.5:*:*:*:*:*:*:*",
+        "cpeNameId": "C1F82FBA-C127-4BAF-955F-4B7FC6128539",
+        "lastModified": "2021-04-09T17:45:27.317",
+        "created": "2021-04-08T13:32:56.120",
+        "titles": [
+          {
+            "title": "Broadcom MLINK 6.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:broadcom:mlink:-:*:*:*:*:*:*:*",
+      "title": "Broadcom MLINK",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:broadcom:mlink:6.5:*:*:*:*:*:*:*",
+      "title": "Broadcom MLINK 6.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

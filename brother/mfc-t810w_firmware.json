@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:brother:mfc-t810w_firmware:p:*:*:*:*:*:*:*",
+        "cpeNameId": "3D9A6016-65AA-41BB-8A3E-3579AF3C667A",
+        "lastModified": "2023-07-21T22:42:34.757",
+        "created": "2023-07-21T18:10:26.817",
+        "titles": [
+          {
+            "title": "Brother MFC-T810W FIRMWARE P",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:brother:mfc-t810w_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0CBF16FA-9268-499D-9ED3-CB700C492FEB",
+        "lastModified": "2023-08-17T15:22:36.013",
+        "created": "2023-08-16T18:48:05.387",
+        "titles": [
+          {
+            "title": "Brother MFC-T810W Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:brother:mfc-t810w_firmware:p:*:*:*:*:*:*:*",
+      "title": "Brother MFC-T810W FIRMWARE P",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:brother:mfc-t810w_firmware:-:*:*:*:*:*:*:*",
+      "title": "Brother MFC-T810W Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

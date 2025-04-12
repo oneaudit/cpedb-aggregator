@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:threat_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "88BC06BF-983E-4917-A4A3-D4E48F44AA73",
+        "lastModified": "2021-04-12T14:30:20.630",
+        "created": "2021-04-08T13:32:56.120",
+        "titles": [
+          {
+            "title": "Broadcom Threat Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:threat_manager:8:*:*:*:*:*:*:*",
+        "cpeNameId": "08EE42E8-CDC1-499D-B495-D84978347D07",
+        "lastModified": "2021-04-12T14:30:20.630",
+        "created": "2021-04-08T13:32:56.120",
+        "titles": [
+          {
+            "title": "Broadcom Threat Manager 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:broadcom:threat_manager:-:*:*:*:*:*:*:*",
+      "title": "Broadcom Threat Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:broadcom:threat_manager:8:*:*:*:*:*:*:*",
+      "title": "Broadcom Threat Manager 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

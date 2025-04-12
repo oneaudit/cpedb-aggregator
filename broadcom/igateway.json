@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:igateway:-:*:*:*:*:*:*:*",
+        "cpeNameId": "ABF35EF3-962B-43C6-9256-2ABF222C36E4",
+        "lastModified": "2021-04-09T16:53:51.417",
+        "created": "2021-04-08T13:32:56.120",
+        "titles": [
+          {
+            "title": "Broadcom iGateway",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:igateway:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7F5B5620-847A-4A80-9FC1-17A1C6CD2D34",
+        "lastModified": "2021-04-09T16:55:29.340",
+        "created": "2021-04-08T13:32:56.120",
+        "titles": [
+          {
+            "title": "Broadcom iGateway 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:broadcom:igateway:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "35284FBB-43FC-42FD-B89B-077A5646BBC8",
+        "lastModified": "2021-04-09T16:56:05.030",
+        "created": "2021-04-08T13:32:56.120",
+        "titles": [
+          {
+            "title": "Broadcom iGateway 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:broadcom:igateway:-:*:*:*:*:*:*:*",
+      "title": "Broadcom iGateway",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:broadcom:igateway:3.0:*:*:*:*:*:*:*",
+      "title": "Broadcom iGateway 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:broadcom:igateway:4.0:*:*:*:*:*:*:*",
+      "title": "Broadcom iGateway 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

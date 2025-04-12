@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:broadcom:lsi_pci-sv92ex_firmware:2.2.100.1:*:*:*:*:*:*:*",
+        "cpeNameId": "2EBDA080-6956-4DF7-8769-BE01212F6302",
+        "lastModified": "2023-10-25T05:24:59.380",
+        "created": "2023-10-25T05:24:59.380",
+        "titles": [
+          {
+            "title": "Broadcom LSI PCI-SV92EX Firmware 2.2.100.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:broadcom:lsi_pci-sv92ex_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5A570BE2-A19B-421F-88BC-2F962274D997",
+        "lastModified": "2023-10-25T05:24:59.380",
+        "created": "2023-10-25T05:24:59.380",
+        "titles": [
+          {
+            "title": "Broadcom LSI PCI-SV92EX Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:broadcom:lsi_pci-sv92ex_firmware:2.2.100.1:*:*:*:*:*:*:*",
+      "title": "Broadcom LSI PCI-SV92EX Firmware 2.2.100.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:broadcom:lsi_pci-sv92ex_firmware:-:*:*:*:*:*:*:*",
+      "title": "Broadcom LSI PCI-SV92EX Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
