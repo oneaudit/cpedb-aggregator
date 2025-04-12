@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:k-litecodec:k-lite_codec:10.4.5:*:*:*:*:*:*:*",
+        "cpeNameId": "1FB6A3A2-C578-4D75-8197-9B04496D547B",
+        "lastModified": "2021-07-16T13:48:34.760",
+        "created": "2014-05-19T15:02:52.657",
+        "titles": [
+          {
+            "title": "k-litecodec K-lite Codec 10.4.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:codecguide:k-lite_codec_pack:10.4.5:*:*:*:*:*:*:*",
+            "cpeNameId": "46B49B47-72BA-423C-A367-9A24FA736923"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:k-litecodec:k-lite_codec:10.4.5:*:*:*:*:*:*:*",
+      "title": "k-litecodec K-lite Codec 10.4.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:codecguide:k-lite_codec_pack:10.4.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:kavita:kavita:0.5.4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "21573E4A-7F4C-4D7B-99B7-D7EC09F42005",
+        "lastModified": "2022-11-14T19:47:15.330",
+        "created": "2022-08-11T14:29:18.200",
+        "titles": [
+          {
+            "title": "Kavita 0.5.4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:kavitareader:kavita:0.5.4.1:*:*:*:*:*:*:*",
+            "cpeNameId": "EACA14D6-EC4C-4BFE-8413-BDE9A57AF695"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:kavita:kavita:0.5.4.1:*:*:*:*:*:*:*",
+      "title": "Kavita 0.5.4.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:kavitareader:kavita:0.5.4.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

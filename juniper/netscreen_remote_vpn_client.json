@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:juniper:netscreen_remote_vpn_client:-:*:*:*:*:*:*:*",
+        "cpeNameId": "31F52BC8-B79E-41FC-9DA3-DD46086860E3",
+        "lastModified": "2008-04-01T16:11:20.423",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Juniper Remote VPN Client",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:juniper:netscreen_remote_vpn_client:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FCCAFFF9-9268-4586-8C41-3BFC712DCEC0",
+        "lastModified": "2008-04-01T16:11:20.487",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Juniper Remote VPN Client 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:juniper:netscreen_remote_vpn_client:-:*:*:*:*:*:*:*",
+      "title": "Juniper Remote VPN Client",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:juniper:netscreen_remote_vpn_client:8.0:*:*:*:*:*:*:*",
+      "title": "Juniper Remote VPN Client 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

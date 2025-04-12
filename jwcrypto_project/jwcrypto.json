@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:jwcrypto_project:jwcrypto:0.3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "E3773D2A-75E5-47CF-9FB4-EC68F8758B2D",
+        "lastModified": "2024-10-28T11:54:53.817",
+        "created": "2016-09-06T14:54:30.813",
+        "titles": [
+          {
+            "title": "jwcrypto Project jwcrypto 0.3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:latchset:jwcrypto:0.3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "8E66E6CC-9850-4BD1-AB5E-D38DE5671066"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jwcrypto_project:jwcrypto:0.3.1:*:*:*:*:*:*:*",
+      "title": "jwcrypto Project jwcrypto 0.3.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:latchset:jwcrypto:0.3.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

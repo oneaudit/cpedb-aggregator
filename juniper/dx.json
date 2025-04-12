@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:juniper:dx:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8CE1401F-B9C7-4C17-A3AC-A1B9B3DECAD9",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Juniper DX",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:juniper:dx:5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "435ABCA8-4DD6-40CB-A27A-0E0D9F389EA0",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Juniper DX 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:juniper:dx:-:*:*:*:*:*:*:*",
+      "title": "Juniper DX",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:juniper:dx:5.1:*:*:*:*:*:*:*",
+      "title": "Juniper DX 5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

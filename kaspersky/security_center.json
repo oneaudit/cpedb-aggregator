@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:kaspersky:security_center:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CFE9C7E6-23A3-4C8D-B87E-A81D2A318056",
+        "lastModified": "2020-09-09T19:53:34.733",
+        "created": "2020-09-09T19:53:34.733",
+        "titles": [
+          {
+            "title": "Kaspersky Security Center",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:kaspersky:security_center:12:*:*:*:*:*:*:*",
+        "cpeNameId": "BCEC2082-52FB-4D51-9C04-03059CA158B7",
+        "lastModified": "2020-09-09T19:53:35.060",
+        "created": "2020-09-09T19:53:35.060",
+        "titles": [
+          {
+            "title": "Kaspersky Security Center 12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:kaspersky:security_center:-:*:*:*:*:*:*:*",
+      "title": "Kaspersky Security Center",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:kaspersky:security_center:12:*:*:*:*:*:*:*",
+      "title": "Kaspersky Security Center 12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

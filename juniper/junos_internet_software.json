@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:juniper:junos_internet_software:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8EA256C6-0D59-405F-9E2E-089CB982A7F0",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Juniper JUNOS Internet Software",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:juniper:junos_internet_software:5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "9719CAC8-5C36-4C33-9242-A388B65157F4",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Juniper JUNOS Internet Software 5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:juniper:junos_internet_software:5.4:*:*:*:*:*:*:*",
+        "cpeNameId": "A95FC944-84C8-4EA5-A1CE-22AD86C10BDA",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Juniper JUNOS Internet Software 5.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:juniper:junos_internet_software:-:*:*:*:*:*:*:*",
+      "title": "Juniper JUNOS Internet Software",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:juniper:junos_internet_software:5.2:*:*:*:*:*:*:*",
+      "title": "Juniper JUNOS Internet Software 5.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:juniper:junos_internet_software:5.4:*:*:*:*:*:*:*",
+      "title": "Juniper JUNOS Internet Software 5.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

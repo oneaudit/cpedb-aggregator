@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:kernel:kexec-tools:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7C99F5D8-CD82-4B68-A53A-32F5ECC35F8F",
+        "lastModified": "2022-01-14T14:27:55.560",
+        "created": "2022-01-14T14:23:49.553",
+        "titles": [
+          {
+            "title": "Kernel kexec-tools",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:kernel:kexec-tools:2.0.20:*:*:*:*:*:*:*",
+        "cpeNameId": "CB7AA3F5-0F64-4AB3-8A2C-3E87933238DE",
+        "lastModified": "2022-03-22T17:54:15.553",
+        "created": "2022-03-22T16:47:19.040",
+        "titles": [
+          {
+            "title": "Kernel Kexec-tools 2.0.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:kernel:kexec-tools:-:*:*:*:*:*:*:*",
+      "title": "Kernel kexec-tools",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:kernel:kexec-tools:2.0.20:*:*:*:*:*:*:*",
+      "title": "Kernel Kexec-tools 2.0.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

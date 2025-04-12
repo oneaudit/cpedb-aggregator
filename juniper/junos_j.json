@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:juniper:junos_j:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EDA61125-ECE1-472A-9F0A-22A3B5285545",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Juniper JUNOS J",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:juniper:junos_j:6.3:*:*:*:*:*:*:*",
+        "cpeNameId": "5BBCE43C-0B19-4B0F-8E77-61A33A4E47E1",
+        "lastModified": "2012-10-26T18:22:51.407",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Juniper JUNOS 6.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:juniper:junos:6.3:*:*:*:*:*:*:*",
+            "cpeNameId": "233F447C-8EE7-4BB5-A24D-80B14A18EB54"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:juniper:junos_j:-:*:*:*:*:*:*:*",
+      "title": "Juniper JUNOS J",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:juniper:junos_j:6.3:*:*:*:*:*:*:*",
+      "title": "Juniper JUNOS 6.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:juniper:junos:6.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:kernel:linux_kernel:5.2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "94C80362-14D3-46F8-9E60-DA241595FFA2",
+        "lastModified": "2020-03-27T13:25:51.720",
+        "created": "2020-03-10T19:53:44.073",
+        "titles": [
+          {
+            "title": "Linux kernel 5.2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:linux:linux_kernel:5.2.5:*:*:*:*:*:*:*",
+            "cpeNameId": "992ABD6A-693C-4DB3-B023-B37D66796BD0"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:kernel:linux_kernel:5.3.14:*:*:*:*:*:*:*",
+        "cpeNameId": "607A83FF-521D-44B2-BBC7-AF57DD50F45D",
+        "lastModified": "2020-03-27T13:25:51.940",
+        "created": "2020-03-10T19:53:44.323",
+        "titles": [
+          {
+            "title": "Linux kernel 5.3.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:linux:linux_kernel:5.3.14:*:*:*:*:*:*:*",
+            "cpeNameId": "76ECB189-F757-45C4-AB63-BC7499A4E9D6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:kernel:linux_kernel:5.3.16:*:*:*:*:*:*:*",
+        "cpeNameId": "BE42AD28-6F5F-4A01-ACA9-401989229253",
+        "lastModified": "2020-03-27T13:25:52.063",
+        "created": "2020-03-10T19:53:44.557",
+        "titles": [
+          {
+            "title": "Linux kernel 5.3.16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:linux:linux_kernel:5.3.16:*:*:*:*:*:*:*",
+            "cpeNameId": "06812A7C-411D-4A39-9158-D4B8B43A8D7B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:kernel:linux_kernel:5.2.5:*:*:*:*:*:*:*",
+      "title": "Linux kernel 5.2.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:linux:linux_kernel:5.2.5:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:kernel:linux_kernel:5.3.14:*:*:*:*:*:*:*",
+      "title": "Linux kernel 5.3.14",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:linux:linux_kernel:5.3.14:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:kernel:linux_kernel:5.3.16:*:*:*:*:*:*:*",
+      "title": "Linux kernel 5.3.16",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:linux:linux_kernel:5.3.16:*:*:*:*:*:*:*"
+    }
+  ]
+}

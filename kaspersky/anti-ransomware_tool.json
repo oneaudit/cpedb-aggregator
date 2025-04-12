@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:kaspersky:anti-ransomware_tool:-:*:*:*:*:*:*:*",
+        "cpeNameId": "32BCC399-447C-44D0-9519-77964B78BF6A",
+        "lastModified": "2020-12-10T12:54:41.493",
+        "created": "2020-12-10T12:54:41.493",
+        "titles": [
+          {
+            "title": "Kaspersky Anti-Ransomware Tool (KART)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:kaspersky:anti-ransomware_tool:4.0:-:*:*:*:*:*:*",
+        "cpeNameId": "0C69D77D-47D4-4B36-BA87-BA468EA79D2E",
+        "lastModified": "2020-12-10T12:54:41.883",
+        "created": "2020-12-10T12:54:41.883",
+        "titles": [
+          {
+            "title": "Kaspersky Anti-ransomware Tool (KART) 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:kaspersky:anti-ransomware_tool:4.0:patch_c:*:*:*:*:*:*",
+        "cpeNameId": "146A4420-7655-45F8-8082-6E45ADDBC4EC",
+        "lastModified": "2020-12-10T12:55:37.103",
+        "created": "2020-12-10T12:55:37.103",
+        "titles": [
+          {
+            "title": "Kaspersky Anti-Ransomware Tool (KART) 4.0 Patch C",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:kaspersky:anti-ransomware_tool:-:*:*:*:*:*:*:*",
+      "title": "Kaspersky Anti-Ransomware Tool (KART)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:kaspersky:anti-ransomware_tool:4.0:-:*:*:*:*:*:*",
+      "title": "Kaspersky Anti-ransomware Tool (KART) 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:kaspersky:anti-ransomware_tool:4.0:patch_c:*:*:*:*:*:*",
+      "title": "Kaspersky Anti-Ransomware Tool (KART) 4.0 Patch C",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

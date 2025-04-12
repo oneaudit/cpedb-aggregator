@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:khronos:opencl:3.0.11:*:*:*:*:*:*:*",
+        "cpeNameId": "50C5DC96-67C5-400E-A406-9EECB09E21BD",
+        "lastModified": "2024-02-03T01:39:22.613",
+        "created": "2024-02-03T01:39:22.613",
+        "titles": [
+          {
+            "title": "Khronos OpenCL 3.0.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:khronos:opencl:-:*:*:*:*:*:*:*",
+        "cpeNameId": "528F1799-7798-4AD8-9802-3644E116990F",
+        "lastModified": "2024-02-03T01:39:22.613",
+        "created": "2024-02-03T01:39:22.613",
+        "titles": [
+          {
+            "title": "Khronos OpenCL -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:khronos:opencl:3.0.11:*:*:*:*:*:*:*",
+      "title": "Khronos OpenCL 3.0.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:khronos:opencl:-:*:*:*:*:*:*:*",
+      "title": "Khronos OpenCL -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

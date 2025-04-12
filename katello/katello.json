@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:katello:katello:1.5.0-14:*:*:*:*:*:*:*",
+        "cpeNameId": "42CAB7F2-BFD1-4BF9-8021-BB10790B7C66",
+        "lastModified": "2021-07-16T16:21:37.467",
+        "created": "2014-04-17T15:54:58.430",
+        "titles": [
+          {
+            "title": "Katello 1.5.0-14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:theforeman:katello:1.5.0-14:*:*:*:*:*:*:*",
+            "cpeNameId": "82870E68-8D85-403F-8982-5F2F8E456230"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:katello:katello:1.5.0-14:*:*:*:*:*:*:*",
+      "title": "Katello 1.5.0-14",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:theforeman:katello:1.5.0-14:*:*:*:*:*:*:*"
+    }
+  ]
+}

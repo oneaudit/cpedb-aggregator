@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:keyfactor:ejbca:8.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6227C487-C03D-4272-857B-ADF4544619B1",
+        "lastModified": "2023-09-29T18:25:25.483",
+        "created": "2023-09-29T18:25:25.483",
+        "titles": [
+          {
+            "title": "Keyfactor EJBCA 8.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:keyfactor:ejbca:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EF7815DB-AF3A-4C06-A183-72AADFB59EFE",
+        "lastModified": "2023-09-29T18:25:25.483",
+        "created": "2023-09-29T18:25:25.483",
+        "titles": [
+          {
+            "title": "Keyfactor EJBCA -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:keyfactor:ejbca:8.0.0:*:*:*:*:*:*:*",
+      "title": "Keyfactor EJBCA 8.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:keyfactor:ejbca:-:*:*:*:*:*:*:*",
+      "title": "Keyfactor EJBCA -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

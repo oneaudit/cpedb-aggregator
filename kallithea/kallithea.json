@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:kallithea:kallithea:0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "57F590A9-5672-47A6-92BC-D6DC69AF981B",
+        "lastModified": "2020-05-28T16:58:54.140",
+        "created": "2015-02-17T18:19:15.367",
+        "titles": [
+          {
+            "title": "Kallithea Kallithea 0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:kallithea-scm:kallithea:0.1:*:*:*:*:*:*:*",
+            "cpeNameId": "C348D2F3-5ECE-4748-A382-A7814AED7BAB"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:kallithea:kallithea:0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "B3C1BBFE-821C-478A-99A7-4D99A1D7DE75",
+        "lastModified": "2020-05-28T16:58:59.390",
+        "created": "2015-10-30T16:58:50.107",
+        "titles": [
+          {
+            "title": "Kallithea Kallithea 0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:kallithea-scm:kallithea:0.2:*:*:*:*:*:*:*",
+            "cpeNameId": "E927F393-FD5B-4098-B1FA-F2A2E471C819"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:kallithea:kallithea:0.1:*:*:*:*:*:*:*",
+      "title": "Kallithea Kallithea 0.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:kallithea-scm:kallithea:0.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:kallithea:kallithea:0.2:*:*:*:*:*:*:*",
+      "title": "Kallithea Kallithea 0.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:kallithea-scm:kallithea:0.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:juniper:nfx_150:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A34FA8B4-E268-49A6-9732-2422134CDE63",
+        "lastModified": "2021-06-21T14:01:42.243",
+        "created": "2018-09-10T21:01:32.160",
+        "titles": [
+          {
+            "title": "Juniper NFX 150",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:juniper:nfx150:-:*:*:*:*:*:*:*",
+            "cpeNameId": "11CED327-CD23-4339-9307-A7DFE4F78D9F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:juniper:nfx_150:-:*:*:*:*:*:*:*",
+      "title": "Juniper NFX 150",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:juniper:nfx150:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

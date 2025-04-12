@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:kemptechnologies:loadmaster_operating_system:6.0.44:*:*:*:*:*:*:*",
+        "cpeNameId": "4F9E8ED1-59FE-4387-B704-A122AE8FA26A",
+        "lastModified": "2021-06-23T16:37:16.230",
+        "created": "2018-06-25T19:21:44.623",
+        "titles": [
+          {
+            "title": "KEMP Technologies LoadMaster Operating System (LMOS) 6.0.44",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:kemptechnologies:loadmaster_operating_system:7.2.41.2:*:*:*:*:*:*:*",
+        "cpeNameId": "EEEBA5FE-817B-4C74-9069-E493F103BE48",
+        "lastModified": "2021-06-23T16:37:16.230",
+        "created": "2018-06-25T19:21:44.623",
+        "titles": [
+          {
+            "title": "KEMP Technologies LoadMaster Operating System (LMOS) 7.2.41.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:kemptechnologies:loadmaster_operating_system:7.1.35.5:*:*:*:lts:*:*:*",
+        "cpeNameId": "120A6D4A-490F-4FC6-B67F-0ABF1601043F",
+        "lastModified": "2021-06-23T16:37:16.230",
+        "created": "2018-06-25T19:21:53.267",
+        "titles": [
+          {
+            "title": "KEMP Technologies LoadMaster Operating System (LMOS) 7.1.35.5 LTS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:kemptechnologies:loadmaster_operating_system:6.0.44:*:*:*:*:*:*:*",
+      "title": "KEMP Technologies LoadMaster Operating System (LMOS) 6.0.44",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:kemptechnologies:loadmaster_operating_system:7.2.41.2:*:*:*:*:*:*:*",
+      "title": "KEMP Technologies LoadMaster Operating System (LMOS) 7.2.41.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:kemptechnologies:loadmaster_operating_system:7.1.35.5:*:*:*:lts:*:*:*",
+      "title": "KEMP Technologies LoadMaster Operating System (LMOS) 7.1.35.5 LTS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

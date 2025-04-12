@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:karmasis:infraskope_security_event_manager:7.10.00:*:*:*:*:*:*:*",
+        "cpeNameId": "71BD8984-4C79-458D-AB30-38E30AD422C0",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2022-11-16T16:48:51.787",
+        "titles": [
+          {
+            "title": "Karmasis Infraskope Security Event Manager 7.10.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:karmasis:infraskope_siem\\+:7.10.00:*:*:*:*:*:*:*",
+            "cpeNameId": "757D414D-1CE1-4D2D-BBB6-9091E152A9DA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:karmasis:infraskope_security_event_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9CFCA1EE-81D9-4812-98A0-8EC5543D1A89",
+        "lastModified": "2023-12-26T19:56:25.687",
+        "created": "2022-11-16T16:48:51.787",
+        "titles": [
+          {
+            "title": "Karmasis Infraskope Security Event Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:karmasis:infraskope_siem\\+:-:*:*:*:*:*:*:*",
+            "cpeNameId": "B8DF7051-EA25-4AD4-972F-0498F828F187"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:karmasis:infraskope_security_event_manager:7.10.00:*:*:*:*:*:*:*",
+      "title": "Karmasis Infraskope Security Event Manager 7.10.00",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:karmasis:infraskope_siem\\+:7.10.00:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:karmasis:infraskope_security_event_manager:-:*:*:*:*:*:*:*",
+      "title": "Karmasis Infraskope Security Event Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:karmasis:infraskope_siem\\+:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
