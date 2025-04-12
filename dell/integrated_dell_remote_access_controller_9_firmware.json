@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:integrated_dell_remote_access_controller_9_firmware:5.00.20.00:*:*:*:*:*:*:*",
+        "cpeNameId": "EF06A0B5-04E4-4CEA-8A00-37EF6EC5D4AD",
+        "lastModified": "2022-03-04T19:37:31.503",
+        "created": "2022-01-31T18:35:41.767",
+        "titles": [
+          {
+            "title": "Dell Integrated Dell Remote Access Controller 9 (iDRAC9) Firmware 5.00.20.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:integrated_dell_remote_access_controller_9_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "205D1AFA-5344-4F62-B83A-A79A53E09064",
+        "lastModified": "2022-03-04T19:37:31.503",
+        "created": "2022-01-31T18:35:41.767",
+        "titles": [
+          {
+            "title": "Dell Integrated Dell Remote Access Controller 9 (iDRAC9) Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:integrated_dell_remote_access_controller_9_firmware:5.00.20.00:*:*:*:*:*:*:*",
+      "title": "Dell Integrated Dell Remote Access Controller 9 (iDRAC9) Firmware 5.00.20.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:integrated_dell_remote_access_controller_9_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell Integrated Dell Remote Access Controller 9 (iDRAC9) Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

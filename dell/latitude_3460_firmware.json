@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:latitude_3460_firmware:a15:*:*:*:*:*:*:*",
+        "cpeNameId": "84BD6363-D89C-49DD-915C-2B9FDE89A2E0",
+        "lastModified": "2021-05-19T17:20:20.190",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell Latitude 3460 Firmware A15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:latitude_3460_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F7CCBC9F-83D8-48A1-B694-92966072424F",
+        "lastModified": "2020-03-06T19:58:29.363",
+        "created": "2020-03-06T19:58:29.363",
+        "titles": [
+          {
+            "title": "Dell Latitude 3460 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:latitude_3460_firmware:a17:*:*:*:*:*:*:*",
+        "cpeNameId": "D42770EC-50C2-4C07-89EA-96FD4DF5770C",
+        "lastModified": "2020-03-06T19:58:30.147",
+        "created": "2020-03-06T19:58:30.147",
+        "titles": [
+          {
+            "title": "Dell Latitude 3460 Firmware A17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:latitude_3460_firmware:a15:*:*:*:*:*:*:*",
+      "title": "Dell Latitude 3460 Firmware A15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:latitude_3460_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell Latitude 3460 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:latitude_3460_firmware:a17:*:*:*:*:*:*:*",
+      "title": "Dell Latitude 3460 Firmware A17",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

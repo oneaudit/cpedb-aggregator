@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:latitude_3150_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D90CA1F0-1426-47B2-95F1-9726317E09EB",
+        "lastModified": "2021-05-19T17:20:20.190",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell Latitude 3150 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:latitude_3150_firmware:a10:*:*:*:*:*:*:*",
+        "cpeNameId": "B31CE044-F1C4-4719-AFE6-5AD5A6A3C13F",
+        "lastModified": "2021-05-19T17:20:20.190",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell Latitude 3150 Firmware A10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:latitude_3150_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell Latitude 3150 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:latitude_3150_firmware:a10:*:*:*:*:*:*:*",
+      "title": "Dell Latitude 3150 Firmware A10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

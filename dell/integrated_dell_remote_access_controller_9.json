@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:integrated_dell_remote_access_controller_9:4.40.00.00:*:*:*:*:*:*:*",
+        "cpeNameId": "848D29D2-A4F5-4E00-899A-DADBC8B8B1FE",
+        "lastModified": "2021-05-17T17:26:47.137",
+        "created": "2021-05-06T13:10:31.910",
+        "titles": [
+          {
+            "title": "Dell Integrated Dell Remote Access Controller 9 (iDRAC9) 4.40.00.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:integrated_dell_remote_access_controller_9:-:*:*:*:*:*:*:*",
+        "cpeNameId": "108AD68B-335B-4DDA-970F-028A988BFCFF",
+        "lastModified": "2021-05-17T17:26:47.137",
+        "created": "2021-05-06T13:10:31.910",
+        "titles": [
+          {
+            "title": "Dell Integrated Dell Remote Access Controller 9 (iDRAC9)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:dell:integrated_dell_remote_access_controller_9:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FC752293-F567-4F9D-A444-27130D9481EE",
+        "lastModified": "2022-03-03T16:16:03.140",
+        "created": "2022-01-31T18:35:27.320",
+        "titles": [
+          {
+            "title": "Dell Integrated Dell Remote Access Controller 9 (iDRAC9)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:integrated_dell_remote_access_controller_9:4.40.00.00:*:*:*:*:*:*:*",
+      "title": "Dell Integrated Dell Remote Access Controller 9 (iDRAC9) 4.40.00.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:integrated_dell_remote_access_controller_9:-:*:*:*:*:*:*:*",
+      "title": "Dell Integrated Dell Remote Access Controller 9 (iDRAC9)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:dell:integrated_dell_remote_access_controller_9:-:*:*:*:*:*:*:*",
+      "title": "Dell Integrated Dell Remote Access Controller 9 (iDRAC9)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

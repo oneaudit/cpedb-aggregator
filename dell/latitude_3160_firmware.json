@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:latitude_3160_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A265A973-DD27-4B33-9DB0-CC0BC76F4983",
+        "lastModified": "2021-05-19T17:20:20.190",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell Latitude 3160 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:dell:latitude_3160_firmware:a12:*:*:*:*:*:*:*",
+        "cpeNameId": "B155BACC-8042-4F39-B241-86211F6E04EA",
+        "lastModified": "2021-05-19T17:20:20.190",
+        "created": "2019-08-12T12:20:24.680",
+        "titles": [
+          {
+            "title": "Dell Latitude 3160 Firmware A12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:dell:latitude_3160_firmware:-:*:*:*:*:*:*:*",
+      "title": "Dell Latitude 3160 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:dell:latitude_3160_firmware:a12:*:*:*:*:*:*:*",
+      "title": "Dell Latitude 3160 Firmware A12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
