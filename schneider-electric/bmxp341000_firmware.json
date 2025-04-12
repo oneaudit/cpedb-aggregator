@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp341000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "17E1856B-10B8-4A45-847E-D623668D1476",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2018-10-29T16:51:12.933",
+        "titles": [
+          {
+            "title": "Schneider-Electric BMXP341000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp341000_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "7F66FEBE-EEDD-40BB-9590-231552BC4782"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp341000_firmware:2.8:*:*:*:*:*:*:*",
+        "cpeNameId": "41CAFE6D-D84E-42DA-8A53-5393F4BA5AD8",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2018-10-29T16:52:08.003",
+        "titles": [
+          {
+            "title": "Schneider-Electric BMXP341000 Firmware 2.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp341000_firmware:2.8:*:*:*:*:*:*:*",
+            "cpeNameId": "009FA6BB-1440-400A-B753-7FD8E6B3E805"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp341000_firmware:3.20:*:*:*:*:*:*:*",
+        "cpeNameId": "FCEF8DD7-0D8A-4E36-A56A-7B7FDA5D54E8",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2020-12-02T17:59:30.817",
+        "titles": [
+          {
+            "title": "Schneider-Electric BMXP341000 Firmware 3.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp341000_firmware:3.20:*:*:*:*:*:*:*",
+            "cpeNameId": "AB17AFD6-6E3F-4AB5-A534-2684FC0133F9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp341000_firmware:3.30:*:*:*:*:*:*:*",
+        "cpeNameId": "CEC10FAF-884A-49AA-9185-737F76B54F32",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2020-12-14T14:57:02.907",
+        "titles": [
+          {
+            "title": "Schneider Electric BMXP341000 Firmware 3.30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp341000_firmware:3.30:*:*:*:*:*:*:*",
+            "cpeNameId": "4F51F6A7-9AE2-4024-B836-3EAEFD72855F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp341000_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric BMXP341000 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp341000_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp341000_firmware:2.8:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric BMXP341000 Firmware 2.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp341000_firmware:2.8:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp341000_firmware:3.20:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric BMXP341000 Firmware 3.20",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp341000_firmware:3.20:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp341000_firmware:3.30:*:*:*:*:*:*:*",
+      "title": "Schneider Electric BMXP341000 Firmware 3.30",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp341000_firmware:3.30:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp3420302h_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8A660BAC-E8F9-482D-9A06-519FDE58864F",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2018-10-29T16:51:14.450",
+        "titles": [
+          {
+            "title": "Schneider-Electric BMXP3420302H Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420302h_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "5A91A16F-3E20-4334-B2F4-6E13104E2305"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp3420302h_firmware:2.8:*:*:*:*:*:*:*",
+        "cpeNameId": "002D0A51-5CD7-4162-A0EA-9203428141B1",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2018-10-29T16:52:08.003",
+        "titles": [
+          {
+            "title": "Schneider-Electric BMXP3420302H Firmware 2.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420302h_firmware:2.8:*:*:*:*:*:*:*",
+            "cpeNameId": "63B32FB1-63D4-457C-9512-9B16A4C038D6"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp3420302h_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric BMXP3420302H Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420302h_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp3420302h_firmware:2.8:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric BMXP3420302H Firmware 2.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420302h_firmware:2.8:*:*:*:*:*:*:*"
+    }
+  ]
+}

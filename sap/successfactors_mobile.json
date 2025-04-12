@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:successfactors_mobile:2108:*:*:*:*:android:*:*",
+        "cpeNameId": "6A8751ED-BFA3-4A55-95E6-40DA18150A65",
+        "lastModified": "2021-10-14T17:42:09.200",
+        "created": "2021-10-14T15:01:31.770",
+        "titles": [
+          {
+            "title": "SAP SuccessFactors Mobile 2108 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:successfactors_mobile:-:*:*:*:*:android:*:*",
+        "cpeNameId": "58A4BACA-DE00-4E23-BF7B-CC29B0738C8D",
+        "lastModified": "2021-10-14T17:42:09.200",
+        "created": "2021-10-14T15:01:31.770",
+        "titles": [
+          {
+            "title": "SAP SuccessFactors Mobile for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:successfactors_mobile:8.0.5:*:*:*:*:android:*:*",
+        "cpeNameId": "ECF332AC-B99A-4BB5-8F6F-B9DA42B6735A",
+        "lastModified": "2022-11-09T20:55:24.030",
+        "created": "2022-08-01T16:55:56.950",
+        "titles": [
+          {
+            "title": "SAP SuccessFactors Mobile 8.0.5 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:successfactors_mobile:8.0.5:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "1FB4A5B0-BE6B-4713-8ADB-E70356665BC1",
+        "lastModified": "2022-11-09T20:55:24.030",
+        "created": "2022-08-02T20:09:17.930",
+        "titles": [
+          {
+            "title": "SAP SuccessFactors Mobile 8.0.5 for iPhone OS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:successfactors_mobile:2108:*:*:*:*:android:*:*",
+      "title": "SAP SuccessFactors Mobile 2108 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:successfactors_mobile:-:*:*:*:*:android:*:*",
+      "title": "SAP SuccessFactors Mobile for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:successfactors_mobile:8.0.5:*:*:*:*:android:*:*",
+      "title": "SAP SuccessFactors Mobile 8.0.5 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:successfactors_mobile:8.0.5:*:*:*:*:iphone_os:*:*",
+      "title": "SAP SuccessFactors Mobile 8.0.5 for iPhone OS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:sql_anywhere:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D288319F-7093-458B-B210-7313E16E6CD5",
+        "lastModified": "2014-12-15T19:59:36.830",
+        "created": "2014-12-12T14:58:23.813",
+        "titles": [
+          {
+            "title": "SAP SQL Anywhere",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:sql_anywhere:11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D5BF9D6D-E643-4B9B-A884-3170CC557442",
+        "lastModified": "2015-04-20T14:55:33.233",
+        "created": "2015-04-01T16:57:33.227",
+        "titles": [
+          {
+            "title": "SAP Sybase SQL Anywhere 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:sql_anywhere:16.0:*:*:*:*:*:*:*",
+        "cpeNameId": "ED761A12-1F1B-47B9-8818-8AF124153DAB",
+        "lastModified": "2015-04-20T14:55:33.310",
+        "created": "2015-04-01T16:57:33.227",
+        "titles": [
+          {
+            "title": "SAP Sybase SQL Anywhere 16.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:sql_anywhere:17.0:*:*:*:*:*:*:*",
+        "cpeNameId": "22CDDCB8-0970-4A55-B849-778AFF0DC5C1",
+        "lastModified": "2017-04-20T19:12:12.057",
+        "created": "2017-04-20T19:12:12.057",
+        "titles": [
+          {
+            "title": "SAP SQL Anywhere 17.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:sql_anywhere:-:*:*:*:*:*:*:*",
+      "title": "SAP SQL Anywhere",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:sql_anywhere:11.0:*:*:*:*:*:*:*",
+      "title": "SAP Sybase SQL Anywhere 11.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:sql_anywhere:16.0:*:*:*:*:*:*:*",
+      "title": "SAP Sybase SQL Anywhere 16.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:sql_anywhere:17.0:*:*:*:*:*:*:*",
+      "title": "SAP SQL Anywhere 17.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

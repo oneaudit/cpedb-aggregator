@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:sso_authentication_library:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AF8EE0B8-F049-46B5-B121-57F6E486D244",
+        "lastModified": "2021-08-09T16:53:34.070",
+        "created": "2017-04-25T03:07:37.873",
+        "titles": [
+          {
+            "title": "SAP SSO Authentication Library 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:sso_authentication_library:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "673084E5-E909-4B81-A32D-F89CC8315740",
+        "lastModified": "2021-08-09T16:53:34.070",
+        "created": "2017-04-25T03:07:37.873",
+        "titles": [
+          {
+            "title": "SAP SSO Authentication Library 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:sso_authentication_library:3.0:*:*:*:*:*:*:*",
+      "title": "SAP SSO Authentication Library 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:sso_authentication_library:2.0:*:*:*:*:*:*:*",
+      "title": "SAP SSO Authentication Library 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

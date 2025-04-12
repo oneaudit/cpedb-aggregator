@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp3420102_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D43BF26D-3F14-4BE8-A6C7-AE5326181D94",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2018-10-29T16:51:13.387",
+        "titles": [
+          {
+            "title": "Schneider-Electric BMXP3420102 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "778FFE9C-37DA-44B1-88F0-B267B5582841"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp3420102_firmware:2.8:*:*:*:*:*:*:*",
+        "cpeNameId": "B9074950-08A3-4F74-BDCA-37C85BE5F7BF",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2018-10-29T16:52:08.003",
+        "titles": [
+          {
+            "title": "Schneider-Electric BMXP3420102 Firmware  2.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:2.8:*:*:*:*:*:*:*",
+            "cpeNameId": "4640FB80-CAF8-4CCD-B228-95A824B370E4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp3420102_firmware:3.20:*:*:*:*:*:*:*",
+        "cpeNameId": "C3056038-A857-4900-96EB-BA5D12880A4E",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2020-12-02T17:59:32.190",
+        "titles": [
+          {
+            "title": "Schneider-Electric BMXP3420102 Firmware 3.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:3.20:*:*:*:*:*:*:*",
+            "cpeNameId": "19B969B5-6CE8-43CD-9369-FEC41385097B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp3420102_firmware:3.30:*:*:*:*:*:*:*",
+        "cpeNameId": "C155D2FB-39BC-4329-93FE-1399E954432D",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2020-12-14T14:58:14.080",
+        "titles": [
+          {
+            "title": "Schneider Electric BMXP3420102 Firmware 3.30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:3.30:*:*:*:*:*:*:*",
+            "cpeNameId": "C8E9506F-8DB1-4EDB-90E2-AE78BF14AD42"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp3420102_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric BMXP3420102 Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp3420102_firmware:2.8:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric BMXP3420102 Firmware  2.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:2.8:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp3420102_firmware:3.20:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric BMXP3420102 Firmware 3.20",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:3.20:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp3420102_firmware:3.30:*:*:*:*:*:*:*",
+      "title": "Schneider Electric BMXP3420102 Firmware 3.30",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp3420102_firmware:3.30:*:*:*:*:*:*:*"
+    }
+  ]
+}

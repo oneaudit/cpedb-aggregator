@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:s\\/4hana_finance:128:*:*:*:sapscore:*:*:*",
+        "cpeNameId": "30DAA2F2-E7B1-443F-A515-7FC844B76044",
+        "lastModified": "2024-01-19T18:35:44.360",
+        "created": "2024-01-19T18:35:44.360",
+        "titles": [
+          {
+            "title": "SAP S/4HANA Finance 128 SAPSCORE Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:s\\/4hana_finance:107:*:*:*:s4core:*:*:*",
+        "cpeNameId": "5AB44DCC-C227-4E82-A658-159F6E540605",
+        "lastModified": "2024-01-19T18:35:44.360",
+        "created": "2024-01-19T18:35:44.360",
+        "titles": [
+          {
+            "title": "SAP S/4HANA Finance 107 S4CORE Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:s\\/4hana_finance:128:*:*:*:sapscore:*:*:*",
+      "title": "SAP S/4HANA Finance 128 SAPSCORE Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:s\\/4hana_finance:107:*:*:*:s4core:*:*:*",
+      "title": "SAP S/4HANA Finance 107 S4CORE Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

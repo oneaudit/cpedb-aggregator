@@ -1,0 +1,192 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sap:s4fnd:1.02:*:*:*:*:*:*:*",
+        "cpeNameId": "91F22116-8C81-4775-82EA-0EC4D3BBC402",
+        "lastModified": "2024-12-12T20:16:50.737",
+        "created": "2018-03-06T20:53:36.683",
+        "titles": [
+          {
+            "title": "SAP Customer Relationship Management WebClient UI S4FND 1.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sap:s4fnd:102:*:*:*:*:*:*:*",
+            "cpeNameId": "6F508426-E594-4AFB-BDEE-16875E06BA08"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:s4fnd:106:*:*:*:*:*:*:*",
+        "cpeNameId": "487F55C9-034A-4C37-8D07-1C80768A359B",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-05-12T15:06:06.407",
+        "titles": [
+          {
+            "title": "SAP S4FND 106",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:s4fnd:107:*:*:*:*:*:*:*",
+        "cpeNameId": "B7A16598-7580-4244-AA31-04D060D9FB2A",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-05-12T15:06:06.407",
+        "titles": [
+          {
+            "title": "SAP S4FND 107",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:s4fnd:102:*:*:*:*:*:*:*",
+        "cpeNameId": "6F508426-E594-4AFB-BDEE-16875E06BA08",
+        "lastModified": "2024-12-12T20:16:50.737",
+        "created": "2023-12-16T04:05:58.243",
+        "titles": [
+          {
+            "title": "SAP S4FND 102",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:s4fnd:103:*:*:*:*:*:*:*",
+        "cpeNameId": "E0A1DE17-D76E-4222-8DB8-D1B91216952B",
+        "lastModified": "2024-12-12T20:16:50.737",
+        "created": "2023-12-16T04:05:58.243",
+        "titles": [
+          {
+            "title": "SAP S4FND 103",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:s4fnd:104:*:*:*:*:*:*:*",
+        "cpeNameId": "2E203FC3-D689-4FAD-B3E4-7D31A37E7B4B",
+        "lastModified": "2023-12-16T04:05:58.243",
+        "created": "2023-12-16T04:05:58.243",
+        "titles": [
+          {
+            "title": "SAP S4FND 104",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:s4fnd:105:*:*:*:*:*:*:*",
+        "cpeNameId": "66005E0E-7A58-4C58-82A7-2F245CA17018",
+        "lastModified": "2023-12-16T04:05:58.243",
+        "created": "2023-12-16T04:05:58.243",
+        "titles": [
+          {
+            "title": "SAP S4FND 105",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sap:s4fnd:1.03:*:*:*:*:*:*:*",
+        "cpeNameId": "C9585AF2-19AD-4075-AFF8-374570FFD2C0",
+        "lastModified": "2024-12-12T20:16:50.737",
+        "created": "2024-12-12T20:14:53.013",
+        "titles": [
+          {
+            "title": "SAP Customer Relationship Management WebClient UI S4FND 1.03",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sap:s4fnd:103:*:*:*:*:*:*:*",
+            "cpeNameId": "E0A1DE17-D76E-4222-8DB8-D1B91216952B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:s4fnd:1.02:*:*:*:*:*:*:*",
+      "title": "SAP Customer Relationship Management WebClient UI S4FND 1.02",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sap:s4fnd:102:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:sap:s4fnd:106:*:*:*:*:*:*:*",
+      "title": "SAP S4FND 106",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:s4fnd:107:*:*:*:*:*:*:*",
+      "title": "SAP S4FND 107",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:s4fnd:102:*:*:*:*:*:*:*",
+      "title": "SAP S4FND 102",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:s4fnd:103:*:*:*:*:*:*:*",
+      "title": "SAP S4FND 103",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:s4fnd:104:*:*:*:*:*:*:*",
+      "title": "SAP S4FND 104",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:s4fnd:105:*:*:*:*:*:*:*",
+      "title": "SAP S4FND 105",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:s4fnd:1.03:*:*:*:*:*:*:*",
+      "title": "SAP Customer Relationship Management WebClient UI S4FND 1.03",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sap:s4fnd:103:*:*:*:*:*:*:*"
+    }
+  ]
+}

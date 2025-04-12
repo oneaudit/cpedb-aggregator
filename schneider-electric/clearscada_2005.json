@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:schneider-electric:clearscada_2005:r0:*:*:*:*:*:*:*",
+        "cpeNameId": "1AA42C79-713A-4A3B-A3A5-91A9F2A56140",
+        "lastModified": "2018-12-31T14:23:14.183",
+        "created": "2018-11-28T15:13:34.820",
+        "titles": [
+          {
+            "title": "Schneider-Electric ClearSCADA 2005 R0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:aveva:clearscada:2005:r0:*:*:*:*:*:*",
+            "cpeNameId": "1D6ED5B2-0C8E-46D4-86B9-75F63C7C379B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:schneider-electric:clearscada_2005:r1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D5344FB5-E786-4F84-8021-F54BA9419343",
+        "lastModified": "2018-12-31T14:23:14.327",
+        "created": "2018-11-28T15:13:34.977",
+        "titles": [
+          {
+            "title": "Schneider-Electric ClearSCADA 2005 R1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:aveva:clearscada:2005:r1.0:*:*:*:*:*:*",
+            "cpeNameId": "B4033DFE-9042-47FF-9D2F-8C4F0C7F153B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:schneider-electric:clearscada_2005:r0:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric ClearSCADA 2005 R0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:aveva:clearscada:2005:r0:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:schneider-electric:clearscada_2005:r1.0:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric ClearSCADA 2005 R1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:aveva:clearscada:2005:r1.0:*:*:*:*:*:*"
+    }
+  ]
+}

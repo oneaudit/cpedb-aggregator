@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:schneider-electric:bmep581020h:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D2976143-6860-43BF-9228-F001D7D54C41",
+        "lastModified": "2021-08-18T22:41:13.633",
+        "created": "2019-05-23T16:09:46.180",
+        "titles": [
+          {
+            "title": "Schneider Electric Bmep581020h -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:modicon_m580_bmep581020h:-:*:*:*:*:*:*:*",
+            "cpeNameId": "92211AFA-BBD5-49FF-BB89-647E45A4B2B5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:schneider-electric:bmep581020h:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric Bmep581020h -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:modicon_m580_bmep581020h:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

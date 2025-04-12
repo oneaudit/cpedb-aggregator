@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:schneider-electric:epas_gtw_firmware:6.4:*:*:*:*:linux:*:*",
+        "cpeNameId": "1FFC3E4C-3EB4-42AF-B296-B355B39AE123",
+        "lastModified": "2022-09-15T14:27:26.280",
+        "created": "2022-04-02T01:21:11.413",
+        "titles": [
+          {
+            "title": "Schneider Electric EPAS GTW Firmware 6.4 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:schneider-electric:epas_gtw_firmware:6.4:*:*:*:*:windows:*:*",
+        "cpeNameId": "0691A1CF-6173-43A1-8790-85367EA2451B",
+        "lastModified": "2022-09-15T14:27:26.280",
+        "created": "2022-04-02T01:21:11.413",
+        "titles": [
+          {
+            "title": "Schneider Electric EPAS GTW Firmware 6.4 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:schneider-electric:epas_gtw_firmware:6.4:*:*:*:*:linux:*:*",
+      "title": "Schneider Electric EPAS GTW Firmware 6.4 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:schneider-electric:epas_gtw_firmware:6.4:*:*:*:*:windows:*:*",
+      "title": "Schneider Electric EPAS GTW Firmware 6.4 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

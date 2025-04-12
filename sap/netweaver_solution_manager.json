@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:netweaver_solution_manager:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3D3628DC-6CA1-482B-B68A-82D3CAEEAE81",
+        "lastModified": "2014-02-18T16:15:56.290",
+        "created": "2014-02-18T16:12:54.550",
+        "titles": [
+          {
+            "title": "SAP NetWeaver Solution Manager 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:netweaver_solution_manager:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "C8281004-8776-4999-A778-9C0ED433736C",
+        "lastModified": "2014-02-18T16:15:56.383",
+        "created": "2014-02-18T16:13:31.757",
+        "titles": [
+          {
+            "title": "SAP NetWeaver Solution Manager 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:netweaver_solution_manager:7.0:*:*:*:*:*:*:*",
+      "title": "SAP NetWeaver Solution Manager 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:netweaver_solution_manager:7.1:*:*:*:*:*:*:*",
+      "title": "SAP NetWeaver Solution Manager 7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

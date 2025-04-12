@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp342020h_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0801B83F-524C-408A-84E9-59E52BBA9716",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2018-10-29T16:51:13.840",
+        "titles": [
+          {
+            "title": "Schneider-Electric BMXP342020H Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp342020h_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "560FD09E-D4AD-4AE9-8FC3-D8120DD6BF1A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp342020h_firmware:2.8:*:*:*:*:*:*:*",
+        "cpeNameId": "86C505CB-0940-418D-984E-AC19D09FB68A",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2018-10-29T16:52:08.003",
+        "titles": [
+          {
+            "title": "Schneider-Electric BMXP342020H Firmware 2.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp342020h_firmware:2.8:*:*:*:*:*:*:*",
+            "cpeNameId": "FE356B25-F5F6-41F1-8CC6-F88D174955B9"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp342020h_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric BMXP342020H Firmware",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp342020h_firmware:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp342020h_firmware:2.8:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric BMXP342020H Firmware 2.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp342020h_firmware:2.8:*:*:*:*:*:*:*"
+    }
+  ]
+}

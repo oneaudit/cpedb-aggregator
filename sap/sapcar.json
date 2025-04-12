@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:sapcar:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7F592FAA-C5B0-44C1-B2AF-61E0C7354BDB",
+        "lastModified": "2020-06-25T13:40:30.813",
+        "created": "2020-06-25T13:40:30.813",
+        "titles": [
+          {
+            "title": "SAP SAPCAR",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:sapcar:721.510:*:*:*:*:*:*:*",
+        "cpeNameId": "764DBADD-7A5C-4170-8C67-7B297B2BA7AF",
+        "lastModified": "2020-06-25T18:13:56.873",
+        "created": "2020-06-25T18:13:56.873",
+        "titles": [
+          {
+            "title": "SAP SAPCAR 721.510",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:sapcar:7.22:*:*:*:*:*:*:*",
+        "cpeNameId": "06174CEB-B261-489D-927D-744EEBA5B271",
+        "lastModified": "2022-04-08T18:23:13.187",
+        "created": "2022-03-15T16:33:37.200",
+        "titles": [
+          {
+            "title": "SAP SAPCAR 7.22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:sapcar:-:*:*:*:*:*:*:*",
+      "title": "SAP SAPCAR",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:sapcar:721.510:*:*:*:*:*:*:*",
+      "title": "SAP SAPCAR 721.510",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:sapcar:7.22:*:*:*:*:*:*:*",
+      "title": "SAP SAPCAR 7.22",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

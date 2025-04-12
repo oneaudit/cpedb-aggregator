@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:network_interface_router:7.30:*:*:*:*:*:*:*",
+        "cpeNameId": "241A73E5-6A25-4A49-B50D-78C8DE968332",
+        "lastModified": "2013-11-20T17:36:08.377",
+        "created": "2013-11-20T16:32:51.710",
+        "titles": [
+          {
+            "title": "SAP Network Interface Router (SAProuter) 7.30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:network_interface_router:39.3:sp4:*:*:*:*:*:*",
+        "cpeNameId": "0562DA9C-C77D-4B9B-836D-A6EC5C0E360D",
+        "lastModified": "2013-12-16T19:18:25.170",
+        "created": "2013-12-16T19:15:47.587",
+        "titles": [
+          {
+            "title": "SAP Network Interface Router (SAProuter) 39.3 Service Pack 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:network_interface_router:7.30:*:*:*:*:*:*:*",
+      "title": "SAP Network Interface Router (SAProuter) 7.30",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:network_interface_router:39.3:sp4:*:*:*:*:*:*",
+      "title": "SAP Network Interface Router (SAProuter) 39.3 Service Pack 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

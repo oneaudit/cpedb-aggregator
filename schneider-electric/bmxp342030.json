@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:schneider-electric:bmxp342030:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7DB2C4B5-9BC9-48E6-89F8-E5DC56596EA1",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2015-12-21T16:00:17.857",
+        "titles": [
+          {
+            "title": "Schneider Electric BMXP342030",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:schneider-electric:modicon_m340_bmxp342030:-:*:*:*:*:*:*:*",
+            "cpeNameId": "9C7D9432-658B-4399-B93D-0DDC2DC8D6CC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:schneider-electric:bmxp342030:-:*:*:*:*:*:*:*",
+      "title": "Schneider Electric BMXP342030",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:schneider-electric:modicon_m340_bmxp342030:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

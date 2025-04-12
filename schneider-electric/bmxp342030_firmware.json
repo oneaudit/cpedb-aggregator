@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp342030_firmware:2.8:*:*:*:*:*:*:*",
+        "cpeNameId": "0533D5BB-CDEE-4027-9505-1B44AFF51403",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2018-10-29T16:52:08.003",
+        "titles": [
+          {
+            "title": "Schneider-Electric BMXP342030 Firmware 2.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp342030_firmware:2.8:*:*:*:*:*:*:*",
+            "cpeNameId": "87476984-11BF-4A6C-A6F1-0FE0396490B9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:schneider-electric:bmxp342030_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8912CA82-0875-4845-9369-15CAE4BDEA75",
+        "lastModified": "2024-04-10T12:28:44.890",
+        "created": "2019-04-02T15:10:55.147",
+        "titles": [
+          {
+            "title": "Schneider-electric Bmxp342030 Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp342030_firmware:-:*:*:*:*:*:*:*",
+            "cpeNameId": "3084AC07-8E46-4265-88BC-7E8E5D6E5B1F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp342030_firmware:2.8:*:*:*:*:*:*:*",
+      "title": "Schneider-Electric BMXP342030 Firmware 2.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp342030_firmware:2.8:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:schneider-electric:bmxp342030_firmware:-:*:*:*:*:*:*:*",
+      "title": "Schneider-electric Bmxp342030 Firmware -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:schneider-electric:modicon_m340_bmxp342030_firmware:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

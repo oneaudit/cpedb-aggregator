@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:scimono:-:*:*:*:*:*:*:*",
+        "cpeNameId": "42594982-1921-4150-9926-41F8CBC42BD7",
+        "lastModified": "2021-02-10T20:52:28.303",
+        "created": "2021-02-10T20:52:28.303",
+        "titles": [
+          {
+            "title": "SAP SCIMono",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:scimono:0.0.19:*:*:*:*:*:*:*",
+        "cpeNameId": "A549DF1E-8DD8-42F5-BC3B-6D4D257336AD",
+        "lastModified": "2021-02-10T20:52:28.630",
+        "created": "2021-02-10T20:52:28.630",
+        "titles": [
+          {
+            "title": "SAP SCIMono 0.0.19",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:scimono:0.0.22:*:*:*:*:*:*:*",
+        "cpeNameId": "837F0618-AA7A-4B4B-8054-DBA756D1C7DE",
+        "lastModified": "2021-02-10T20:52:28.723",
+        "created": "2021-02-10T20:52:28.723",
+        "titles": [
+          {
+            "title": "SAP SCIMono 0.0.22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:scimono:-:*:*:*:*:*:*:*",
+      "title": "SAP SCIMono",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:scimono:0.0.19:*:*:*:*:*:*:*",
+      "title": "SAP SCIMono 0.0.19",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:scimono:0.0.22:*:*:*:*:*:*:*",
+      "title": "SAP SCIMono 0.0.22",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

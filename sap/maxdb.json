@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:maxdb:7.8:*:*:*:*:*:*:*",
+        "cpeNameId": "D7116B31-CCC9-41B1-B1B6-167E574FC124",
+        "lastModified": "2019-06-12T15:40:24.870",
+        "created": "2019-06-12T15:40:24.870",
+        "titles": [
+          {
+            "title": "SAP MaxDB 7.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sap:maxdb:7.9:*:*:*:*:*:*:*",
+        "cpeNameId": "2BE3C7C2-194B-4904-AA40-69CD7FC8DA16",
+        "lastModified": "2019-06-12T15:40:24.997",
+        "created": "2019-06-12T15:40:24.997",
+        "titles": [
+          {
+            "title": "SAP MaxDB 7.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sap:maxdb:7.8:*:*:*:*:*:*:*",
+      "title": "SAP MaxDB 7.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sap:maxdb:7.9:*:*:*:*:*:*:*",
+      "title": "SAP MaxDB 7.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
