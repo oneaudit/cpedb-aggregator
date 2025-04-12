@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:msa_1060_storage_firmware:in210r004:*:*:*:*:*:*:*",
+        "cpeNameId": "73040D3F-4BAD-4D84-A16C-189CE2C918B0",
+        "lastModified": "2023-10-15T16:43:36.647",
+        "created": "2023-10-15T16:43:36.647",
+        "titles": [
+          {
+            "title": "HPE MSA 1060 Storage Firmware IN210R004",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:msa_1060_storage_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3899276B-09C2-4E90-A4F9-4064B96C271D",
+        "lastModified": "2023-10-15T16:43:36.647",
+        "created": "2023-10-15T16:43:36.647",
+        "titles": [
+          {
+            "title": "HPE MSA 1060 Storage Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:msa_1060_storage_firmware:in210r004:*:*:*:*:*:*:*",
+      "title": "HPE MSA 1060 Storage Firmware IN210R004",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:msa_1060_storage_firmware:-:*:*:*:*:*:*:*",
+      "title": "HPE MSA 1060 Storage Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

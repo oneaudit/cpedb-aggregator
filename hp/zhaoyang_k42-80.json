@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hp:zhaoyang_k42-80:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E3BD96AF-1B88-4384-B8B2-360ED7C2473E",
+        "lastModified": "2019-12-10T16:30:52.173",
+        "created": "2018-11-26T15:28:29.557",
+        "titles": [
+          {
+            "title": "HP Zhaoyang K42-80",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:lenovo:zhaoyang_k42-80:-:*:*:*:*:*:*:*",
+            "cpeNameId": "1BBAB613-5F01-42CA-BA02-4384446C42DD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:zhaoyang_k42-80:-:*:*:*:*:*:*:*",
+      "title": "HP Zhaoyang K42-80",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:lenovo:zhaoyang_k42-80:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

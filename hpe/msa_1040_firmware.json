@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:msa_1040_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EFF01B16-3DE2-487C-8044-13E3E6652923",
+        "lastModified": "2021-08-16T16:53:37.120",
+        "created": "2020-04-23T11:23:29.440",
+        "titles": [
+          {
+            "title": "HPE MSA 1040 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:msa_1040_firmware:gl225p001:*:*:*:*:*:*:*",
+        "cpeNameId": "C6768751-47F9-4126-8124-FB92B10CF04E",
+        "lastModified": "2021-08-16T16:53:37.120",
+        "created": "2020-04-23T11:23:29.440",
+        "titles": [
+          {
+            "title": "HPE MSA 1040 Firmware GL225P001",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:msa_1040_firmware:-:*:*:*:*:*:*:*",
+      "title": "HPE MSA 1040 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:msa_1040_firmware:gl225p001:*:*:*:*:*:*:*",
+      "title": "HPE MSA 1040 Firmware GL225P001",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

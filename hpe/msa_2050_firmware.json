@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:msa_2050_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "735E5A1C-D917-4558-823C-469A2A73E7E2",
+        "lastModified": "2021-08-16T16:53:37.120",
+        "created": "2020-04-23T11:23:34.360",
+        "titles": [
+          {
+            "title": "HPE MSA 2050 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:msa_2050_firmware:vl270r001-01:*:*:*:*:*:*:*",
+        "cpeNameId": "B8261810-9A15-42F1-A91D-F80499E10A85",
+        "lastModified": "2021-08-16T16:53:37.120",
+        "created": "2020-04-23T11:23:34.360",
+        "titles": [
+          {
+            "title": "HPE MSA 2050 Firmware VL270R001-01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:msa_2050_firmware:-:*:*:*:*:*:*:*",
+      "title": "HPE MSA 2050 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:msa_2050_firmware:vl270r001-01:*:*:*:*:*:*:*",
+      "title": "HPE MSA 2050 Firmware VL270R001-01",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

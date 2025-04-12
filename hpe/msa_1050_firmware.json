@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:msa_1050_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3FE37C13-C7EF-447F-AA76-523BE7F6587A",
+        "lastModified": "2021-08-16T16:53:37.120",
+        "created": "2020-04-23T11:23:30.627",
+        "titles": [
+          {
+            "title": "HPE MSA 1050 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:msa_1050_firmware:ve270r001-01:*:*:*:*:*:*:*",
+        "cpeNameId": "02131D5E-93E6-43F0-B19F-767C425947A2",
+        "lastModified": "2021-08-16T16:53:37.120",
+        "created": "2020-04-23T11:23:30.627",
+        "titles": [
+          {
+            "title": "HPE MSA 1050 Firmware VE270R001-01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:msa_1050_firmware:-:*:*:*:*:*:*:*",
+      "title": "HPE MSA 1050 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:msa_1050_firmware:ve270r001-01:*:*:*:*:*:*:*",
+      "title": "HPE MSA 1050 Firmware VE270R001-01",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:officeconnect_1920s_24g_2sfp_poe\\+_firmware:pd.02.22:*:*:*:*:*:*:*",
+        "cpeNameId": "5AF9F1FA-FE39-49F0-9D69-04CA1B5AF0D1",
+        "lastModified": "2022-12-14T20:30:58.903",
+        "created": "2022-12-14T13:18:14.817",
+        "titles": [
+          {
+            "title": "HPE OFFICECONNECT 1920S 24G 2SFP POE+ FIRMWARE Pd.02.22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:officeconnect_1920s_24g_2sfp_poe\\+_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9AB036EF-6689-4C66-B469-84CA5AB70EF9",
+        "lastModified": "2022-12-14T20:30:58.903",
+        "created": "2022-12-14T13:18:14.817",
+        "titles": [
+          {
+            "title": "HPE OFFICECONNECT 1920S 24G 2SFP POE+ FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:officeconnect_1920s_24g_2sfp_poe\\+_firmware:pd.02.22:*:*:*:*:*:*:*",
+      "title": "HPE OFFICECONNECT 1920S 24G 2SFP POE+ FIRMWARE Pd.02.22",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:officeconnect_1920s_24g_2sfp_poe\\+_firmware:-:*:*:*:*:*:*:*",
+      "title": "HPE OFFICECONNECT 1920S 24G 2SFP POE+ FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

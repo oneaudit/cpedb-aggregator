@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:msa_2060_storage_firmware:in210r004:*:*:*:*:*:*:*",
+        "cpeNameId": "DD3080C1-2AA4-43E7-B6AC-E08EF10DEC2F",
+        "lastModified": "2023-10-15T16:43:36.647",
+        "created": "2023-10-15T16:43:36.647",
+        "titles": [
+          {
+            "title": "HPE MSA 2060 Storage Firmware IN210R004",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:msa_2060_storage_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A8D6DE65-35EF-42D2-BB3E-0933E5D1940A",
+        "lastModified": "2023-10-15T16:43:36.647",
+        "created": "2023-10-15T16:43:36.647",
+        "titles": [
+          {
+            "title": "HPE MSA 2060 Storage Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:msa_2060_storage_firmware:in210r004:*:*:*:*:*:*:*",
+      "title": "HPE MSA 2060 Storage Firmware IN210R004",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:msa_2060_storage_firmware:-:*:*:*:*:*:*:*",
+      "title": "HPE MSA 2060 Storage Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

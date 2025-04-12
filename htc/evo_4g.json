@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:htc:evo_4g:gri40:*:*:*:*:*:*:*",
+        "cpeNameId": "993EADB3-90BC-40FF-8ED1-38B066BF8C8B",
+        "lastModified": "2012-02-16T20:15:04.037",
+        "created": "2012-02-06T17:35:40.347",
+        "titles": [
+          {
+            "title": "HTC Android EVO 4G GRI40",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:htc:evo_4g:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4FFF8FFF-17D8-4734-8506-FAB47EC2B640",
+        "lastModified": "2012-05-30T20:54:54.940",
+        "created": "2012-05-02T14:04:22.633",
+        "titles": [
+          {
+            "title": "HTC EVO 4G",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:htc:evo_4g:gri40:*:*:*:*:*:*:*",
+      "title": "HTC Android EVO 4G GRI40",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:htc:evo_4g:-:*:*:*:*:*:*:*",
+      "title": "HTC EVO 4G",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

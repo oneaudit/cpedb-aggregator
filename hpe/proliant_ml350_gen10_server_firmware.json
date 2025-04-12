@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:proliant_ml350_gen10_server_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0EB6EC45-EC61-4B50-98F5-44D3CC7379D2",
+        "lastModified": "2020-04-27T20:06:39.427",
+        "created": "2020-04-27T20:06:39.427",
+        "titles": [
+          {
+            "title": "HPE ProLiant ML350 Gen10 Server Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:proliant_ml350_gen10_server_firmware:2.20:*:*:*:*:*:*:*",
+        "cpeNameId": "FC0E6DE3-17B5-45EA-A65B-2A2AD2CAFE54",
+        "lastModified": "2020-04-27T20:06:40.070",
+        "created": "2020-04-27T20:06:40.070",
+        "titles": [
+          {
+            "title": "HPE ProLiant ML350 Gen10 Server Firmware 2.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:proliant_ml350_gen10_server_firmware:-:*:*:*:*:*:*:*",
+      "title": "HPE ProLiant ML350 Gen10 Server Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:proliant_ml350_gen10_server_firmware:2.20:*:*:*:*:*:*:*",
+      "title": "HPE ProLiant ML350 Gen10 Server Firmware 2.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

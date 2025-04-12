@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:control_repository_manager:7.6.14.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CEBE5E5D-75EC-417C-B0C9-EB6B1E6ECBA2",
+        "lastModified": "2022-11-07T16:12:20.590",
+        "created": "2022-07-05T12:59:26.540",
+        "titles": [
+          {
+            "title": "HPE Control Repository Manager 7.6.14.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:control_repository_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "921B9D2F-AC3D-4FD5-8406-8E42C80DF8AF",
+        "lastModified": "2022-11-07T16:12:20.590",
+        "created": "2022-07-05T12:59:26.540",
+        "titles": [
+          {
+            "title": "HPE Control Repository Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hpe:control_repository_manager:7.6.14.0:*:*:*:*:*:*:*",
+      "title": "HPE Control Repository Manager 7.6.14.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hpe:control_repository_manager:-:*:*:*:*:*:*:*",
+      "title": "HPE Control Repository Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

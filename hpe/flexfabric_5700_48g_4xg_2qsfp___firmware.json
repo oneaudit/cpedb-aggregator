@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:flexfabric_5700_48g_4xg_2qsfp\\+_firmware:r2432p61:*:*:*:*:*:*:*",
+        "cpeNameId": "F5FC2D9A-72E4-4544-9A35-794A95249C4E",
+        "lastModified": "2023-09-02T02:50:32.933",
+        "created": "2023-03-27T13:47:29.833",
+        "titles": [
+          {
+            "title": "HPE FLEXFABRIC 5700 48G 4XG 2QSFP+ FIRMWARE R2432p61",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:flexfabric_5700_48g_4xg_2qsfp\\+_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "072F2C39-46B9-4043-AE80-74C8DCAD8027",
+        "lastModified": "2023-09-02T02:50:32.933",
+        "created": "2023-03-27T13:47:29.833",
+        "titles": [
+          {
+            "title": "HPE FLEXFABRIC 5700 48G 4XG 2QSFP+ FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:flexfabric_5700_48g_4xg_2qsfp\\+_firmware:r2432p61:*:*:*:*:*:*:*",
+      "title": "HPE FLEXFABRIC 5700 48G 4XG 2QSFP+ FIRMWARE R2432p61",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:flexfabric_5700_48g_4xg_2qsfp\\+_firmware:-:*:*:*:*:*:*:*",
+      "title": "HPE FLEXFABRIC 5700 48G 4XG 2QSFP+ FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

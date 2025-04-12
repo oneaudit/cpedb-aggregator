@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:officeconnect_1920s_48g_4sfp_ppoe\\+_firmware:pd.02.22:*:*:*:*:*:*:*",
+        "cpeNameId": "32BAB010-5901-4809-A44C-327CFE41F601",
+        "lastModified": "2022-12-14T20:30:58.903",
+        "created": "2022-12-14T13:18:42.553",
+        "titles": [
+          {
+            "title": "HPE OFFICECONNECT 1920S 48G 4SFP PPOE+ FIRMWARE Pd.02.22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:officeconnect_1920s_48g_4sfp_ppoe\\+_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5CEB43DC-823A-4C19-BA42-FDDDBFDEDA86",
+        "lastModified": "2022-12-14T20:30:58.903",
+        "created": "2022-12-14T13:18:42.553",
+        "titles": [
+          {
+            "title": "HPE OFFICECONNECT 1920S 48G 4SFP PPOE+ FIRMWARE -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:officeconnect_1920s_48g_4sfp_ppoe\\+_firmware:pd.02.22:*:*:*:*:*:*:*",
+      "title": "HPE OFFICECONNECT 1920S 48G 4SFP PPOE+ FIRMWARE Pd.02.22",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:officeconnect_1920s_48g_4sfp_ppoe\\+_firmware:-:*:*:*:*:*:*:*",
+      "title": "HPE OFFICECONNECT 1920S 48G 4SFP PPOE+ FIRMWARE -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

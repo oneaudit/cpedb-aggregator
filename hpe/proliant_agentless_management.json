@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:proliant_agentless_management:10.96.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D6232FF8-61B3-490D-AF33-E19F15BAF619",
+        "lastModified": "2022-09-23T14:17:24.310",
+        "created": "2022-02-09T14:32:42.070",
+        "titles": [
+          {
+            "title": "HPE ProLiant Agentless Management 10.96.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:proliant_agentless_management:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C62A39CA-2905-4F8F-82A6-51FC87723B3E",
+        "lastModified": "2022-09-23T14:17:24.310",
+        "created": "2022-02-09T14:33:13.103",
+        "titles": [
+          {
+            "title": "HPE ProLiant Agentless Management",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hpe:proliant_agentless_management:10.96.0.0:*:*:*:*:*:*:*",
+      "title": "HPE ProLiant Agentless Management 10.96.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hpe:proliant_agentless_management:-:*:*:*:*:*:*:*",
+      "title": "HPE ProLiant Agentless Management",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

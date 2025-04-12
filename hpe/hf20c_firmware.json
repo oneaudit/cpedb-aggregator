@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:hf20c_firmware:5.3.0.0:*:*:*:-:*:*:*",
+        "cpeNameId": "96086D6E-17B9-4893-BAE1-A1139AB1910B",
+        "lastModified": "2022-12-13T17:50:06.497",
+        "created": "2022-12-13T16:15:32.420",
+        "titles": [
+          {
+            "title": "HPE HF20C Firmware 5.3.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:hf20c_firmware:5.2.1.900:*:*:*:ltsr:*:*:*",
+        "cpeNameId": "34D0EE2A-07AC-4079-AC34-C4B2FA0123B4",
+        "lastModified": "2022-12-13T17:50:06.497",
+        "created": "2022-12-13T16:16:11.197",
+        "titles": [
+          {
+            "title": "HPE HF20C Firmware 5.2.1.900 Long Term Support Release Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:hf20c_firmware:5.3.0.0:*:*:*:-:*:*:*",
+      "title": "HPE HF20C Firmware 5.3.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:hf20c_firmware:5.2.1.900:*:*:*:ltsr:*:*:*",
+      "title": "HPE HF20C Firmware 5.2.1.900 Long Term Support Release Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:msa_2040_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3A8B913D-8D1C-4AB5-978E-63D3AB08B3A5",
+        "lastModified": "2021-08-16T16:53:37.120",
+        "created": "2020-04-23T11:23:31.890",
+        "titles": [
+          {
+            "title": "HPE MSA 2040 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:msa_2040_firmware:gl225p001:*:*:*:*:*:*:*",
+        "cpeNameId": "8A46F4AF-8551-4403-9BF5-00D26A56CA30",
+        "lastModified": "2021-08-16T16:53:37.120",
+        "created": "2020-04-23T11:23:31.890",
+        "titles": [
+          {
+            "title": "HPE MSA 2040 Firmware GL225P001",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:msa_2040_firmware:-:*:*:*:*:*:*:*",
+      "title": "HPE MSA 2040 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:msa_2040_firmware:gl225p001:*:*:*:*:*:*:*",
+      "title": "HPE MSA 2040 Firmware GL225P001",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:slingshot_firmware:1.7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "5D82BFE8-D7F1-4B28-A7F5-973CA0FBDC2E",
+        "lastModified": "2022-07-13T14:46:27.713",
+        "created": "2022-07-05T15:10:52.083",
+        "titles": [
+          {
+            "title": "HPE Slingshot Firmware 1.7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:slingshot_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F52C2596-EA6E-41A2-8240-348265FE5A54",
+        "lastModified": "2022-07-13T14:46:27.713",
+        "created": "2022-07-05T15:10:52.083",
+        "titles": [
+          {
+            "title": "HPE Slingshot Firmware -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:slingshot_firmware:1.7.2:*:*:*:*:*:*:*",
+      "title": "HPE Slingshot Firmware 1.7.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:slingshot_firmware:-:*:*:*:*:*:*:*",
+      "title": "HPE Slingshot Firmware -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:icewall_sso_domain_gateway_option:11.0:-:*:*:*:*:*:*",
+        "cpeNameId": "ADE7794C-2134-4F33-8673-8F7B6D59F385",
+        "lastModified": "2021-06-11T13:48:29.870",
+        "created": "2021-04-21T16:09:34.170",
+        "titles": [
+          {
+            "title": "HPE IceWall SSO Domain Gateway Option 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:icewall_sso_domain_gateway_option:10.0:-:*:*:*:*:*:*",
+        "cpeNameId": "CA9F4CF5-F512-402E-ADD7-4CE29F637FAB",
+        "lastModified": "2021-06-11T13:48:29.870",
+        "created": "2021-04-21T16:09:34.170",
+        "titles": [
+          {
+            "title": "HPE IceWall SSO Domain Gateway Option 10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hpe:icewall_sso_domain_gateway_option:11.0:-:*:*:*:*:*:*",
+      "title": "HPE IceWall SSO Domain Gateway Option 11.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hpe:icewall_sso_domain_gateway_option:10.0:-:*:*:*:*:*:*",
+      "title": "HPE IceWall SSO Domain Gateway Option 10.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

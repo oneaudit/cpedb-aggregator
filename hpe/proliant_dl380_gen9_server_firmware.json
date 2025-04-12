@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:proliant_dl380_gen9_server_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "167D30E5-FC79-4C4A-894C-CBEF289F0F39",
+        "lastModified": "2020-04-27T20:06:25.880",
+        "created": "2020-04-27T20:06:25.880",
+        "titles": [
+          {
+            "title": "HPE ProLiant DL380 Gen9 Server Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:proliant_dl380_gen9_server_firmware:2.76:*:*:*:*:*:*:*",
+        "cpeNameId": "B2B7F24E-17DF-456B-B5E3-50757DBD430A",
+        "lastModified": "2020-04-27T20:06:26.617",
+        "created": "2020-04-27T20:06:26.617",
+        "titles": [
+          {
+            "title": "HPE ProLiant DL380 Gen9 Server Firmware 2.76",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:proliant_dl380_gen9_server_firmware:-:*:*:*:*:*:*:*",
+      "title": "HPE ProLiant DL380 Gen9 Server Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:proliant_dl380_gen9_server_firmware:2.76:*:*:*:*:*:*:*",
+      "title": "HPE ProLiant DL380 Gen9 Server Firmware 2.76",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

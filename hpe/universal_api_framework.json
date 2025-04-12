@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:universal_api_framework:-:*:*:*:*:microsoft_hyper-v:*:*",
+        "cpeNameId": "C2F038D3-796D-4B55-B771-9A0DF7EA5120",
+        "lastModified": "2020-10-27T14:42:26.987",
+        "created": "2020-10-27T14:42:26.987",
+        "titles": [
+          {
+            "title": "HPE Universal API Framework for Microsoft Hyper-V",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:universal_api_framework:-:*:*:*:*:vmware_esxi:*:*",
+        "cpeNameId": "9CAA0D2D-3D32-4151-AEE5-88647A435E07",
+        "lastModified": "2020-10-27T14:42:27.377",
+        "created": "2020-10-27T14:42:27.377",
+        "titles": [
+          {
+            "title": "HPE Universal API Framework for VMware ESXi",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:universal_api_framework:2.5.2:*:*:*:*:microsoft_hyper-v:*:*",
+        "cpeNameId": "CC410274-71E7-4A71-9533-0D924E001C04",
+        "lastModified": "2020-10-27T14:42:27.720",
+        "created": "2020-10-27T14:42:27.720",
+        "titles": [
+          {
+            "title": "HPE Universal API Framework 2.5.2 for Microsoft Hyper-V",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:universal_api_framework:2.5.2:*:*:*:*:vmware_esxi:*:*",
+        "cpeNameId": "3B2161F9-4EB0-4451-A0EA-0D63E0F1447C",
+        "lastModified": "2020-10-27T14:42:27.937",
+        "created": "2020-10-27T14:42:27.937",
+        "titles": [
+          {
+            "title": "HPE Universal API Framework 2.5.2 for VMware ESXi",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hpe:universal_api_framework:-:*:*:*:*:microsoft_hyper-v:*:*",
+      "title": "HPE Universal API Framework for Microsoft Hyper-V",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hpe:universal_api_framework:-:*:*:*:*:vmware_esxi:*:*",
+      "title": "HPE Universal API Framework for VMware ESXi",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hpe:universal_api_framework:2.5.2:*:*:*:*:microsoft_hyper-v:*:*",
+      "title": "HPE Universal API Framework 2.5.2 for Microsoft Hyper-V",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hpe:universal_api_framework:2.5.2:*:*:*:*:vmware_esxi:*:*",
+      "title": "HPE Universal API Framework 2.5.2 for VMware ESXi",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

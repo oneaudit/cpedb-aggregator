@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:hf40c_firmware:5.3.0.0:*:*:*:-:*:*:*",
+        "cpeNameId": "DC0B3217-2C19-447B-93C6-D6CFC9C6BFD5",
+        "lastModified": "2022-12-13T17:50:06.497",
+        "created": "2022-12-13T16:15:32.420",
+        "titles": [
+          {
+            "title": "HPE HF40C Firmware 5.3.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:hf40c_firmware:5.2.1.900:*:*:*:ltsr:*:*:*",
+        "cpeNameId": "3B577E69-F95C-4201-9448-C76677947D88",
+        "lastModified": "2022-12-13T17:50:06.497",
+        "created": "2022-12-13T16:16:11.197",
+        "titles": [
+          {
+            "title": "HPE HF40C Firmware 5.2.1.900 Long Term Support Release Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:hf40c_firmware:5.3.0.0:*:*:*:-:*:*:*",
+      "title": "HPE HF40C Firmware 5.3.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:hf40c_firmware:5.2.1.900:*:*:*:ltsr:*:*:*",
+      "title": "HPE HF40C Firmware 5.2.1.900 Long Term Support Release Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

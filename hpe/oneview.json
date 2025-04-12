@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:oneview:8.30.01:*:*:*:*:*:*:*",
+        "cpeNameId": "F389E491-6136-48D0-A0EA-370BF295259C",
+        "lastModified": "2023-09-28T13:50:25.377",
+        "created": "2023-09-28T13:50:25.377",
+        "titles": [
+          {
+            "title": "HPE Oneview 8.30.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:oneview:8.60.00:*:*:*:*:*:*:*",
+        "cpeNameId": "7CF59336-6F74-4E0E-AAB2-92F8E874B571",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "HPE OneView 8.60.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hpe:oneview:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7A43B9E0-DA5B-45AC-8B72-7D054D111595",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "HPE OneView -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hpe:oneview:8.30.01:*:*:*:*:*:*:*",
+      "title": "HPE Oneview 8.30.01",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hpe:oneview:8.60.00:*:*:*:*:*:*:*",
+      "title": "HPE OneView 8.60.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hpe:oneview:-:*:*:*:*:*:*:*",
+      "title": "HPE OneView -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

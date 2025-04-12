@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:z1_g3_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B4669778-E1F9-425B-ACF3-3DF9660688D9",
+        "lastModified": "2019-12-06T18:47:33.943",
+        "created": "2019-12-06T18:47:33.943",
+        "titles": [
+          {
+            "title": "HP Z1 G3 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:z1_g3_firmware:1.26:*:*:*:*:*:*:*",
+        "cpeNameId": "CEDD5D48-69EF-413B-883E-0C25776F0B15",
+        "lastModified": "2019-12-06T18:47:34.587",
+        "created": "2019-12-06T18:47:34.587",
+        "titles": [
+          {
+            "title": "HP Z1 G3 Firmware 1.26",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:z1_g3_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP Z1 G3 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:z1_g3_firmware:1.26:*:*:*:*:*:*:*",
+      "title": "HP Z1 G3 Firmware 1.26",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

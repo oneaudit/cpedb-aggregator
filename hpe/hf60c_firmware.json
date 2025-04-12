@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:hf60c_firmware:5.3.0.0:*:*:*:-:*:*:*",
+        "cpeNameId": "872F349D-E129-4F5F-A07A-7FE71A762E21",
+        "lastModified": "2022-12-13T17:50:06.497",
+        "created": "2022-12-13T16:15:32.420",
+        "titles": [
+          {
+            "title": "HPE HF60C Firmware 5.3.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hpe:hf60c_firmware:5.2.1.900:*:*:*:ltsr:*:*:*",
+        "cpeNameId": "9D8DA74F-3DFD-4E2C-97BA-144B2EAF0EC8",
+        "lastModified": "2022-12-13T17:50:06.497",
+        "created": "2022-12-13T16:16:11.197",
+        "titles": [
+          {
+            "title": "HPE HF60C Firmware 5.2.1.900 Long Term Support Release Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hpe:hf60c_firmware:5.3.0.0:*:*:*:-:*:*:*",
+      "title": "HPE HF60C Firmware 5.3.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hpe:hf60c_firmware:5.2.1.900:*:*:*:ltsr:*:*:*",
+      "title": "HPE HF60C Firmware 5.2.1.900 Long Term Support Release Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
