@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:vivotek:ipcam_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CF471C47-0980-442A-BD41-1F7EEE777708",
+        "lastModified": "2021-07-01T17:05:20.307",
+        "created": "2019-09-11T00:58:45.593",
+        "titles": [
+          {
+            "title": "VIVOTEK IPcam Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:vivotek:ipcam_firmware:0x13a:*:*:*:*:*:*:*",
+        "cpeNameId": "42632ED8-A5DB-4D25-8253-E463A9902AC0",
+        "lastModified": "2021-07-01T17:05:20.307",
+        "created": "2019-09-11T00:58:45.593",
+        "titles": [
+          {
+            "title": "VIVOTEK IPcam Firmware 0X13A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:vivotek:ipcam_firmware:0x20x:*:*:*:*:*:*:*",
+        "cpeNameId": "7CA11239-9B5A-4901-A9E5-19F87D7BFB46",
+        "lastModified": "2020-04-01T15:05:18.150",
+        "created": "2020-04-01T15:05:18.150",
+        "titles": [
+          {
+            "title": "Vivotek Ipcam Firmware 0x20x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:vivotek:ipcam_firmware:-:*:*:*:*:*:*:*",
+      "title": "VIVOTEK IPcam Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:vivotek:ipcam_firmware:0x13a:*:*:*:*:*:*:*",
+      "title": "VIVOTEK IPcam Firmware 0X13A",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:vivotek:ipcam_firmware:0x20x:*:*:*:*:*:*:*",
+      "title": "Vivotek Ipcam Firmware 0x20x",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

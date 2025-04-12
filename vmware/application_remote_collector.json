@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:application_remote_collector:7.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "9EDD820D-7F89-4DA0-A1F9-A27D4D3EC2F7",
+        "lastModified": "2022-05-02T13:32:29.573",
+        "created": "2022-03-30T20:05:58.773",
+        "titles": [
+          {
+            "title": "VMware Application Remote Collector 7.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:application_remote_collector:8.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F48DA2A9-CC41-451E-AF65-87FC8AB3A0C8",
+        "lastModified": "2022-05-02T13:32:29.573",
+        "created": "2022-03-30T20:05:58.773",
+        "titles": [
+          {
+            "title": "VMware Application Remote Collector 8.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:vmware:application_remote_collector:7.5.0:*:*:*:*:*:*:*",
+      "title": "VMware Application Remote Collector 7.5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:application_remote_collector:8.0.0:*:*:*:*:*:*:*",
+      "title": "VMware Application Remote Collector 8.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

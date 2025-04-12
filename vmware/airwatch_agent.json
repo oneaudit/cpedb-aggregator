@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:airwatch_agent:-:*:*:*:*:windows_mobile:*:*",
+        "cpeNameId": "C35EB3A6-464C-490D-BA41-26CD2C26E39E",
+        "lastModified": "2021-08-12T16:15:42.480",
+        "created": "2018-09-14T15:29:10.703",
+        "titles": [
+          {
+            "title": "VMware Airwatch Agent for Windows Mobile",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:airwatch_agent:6.5.2:*:*:*:*:windows_mobile:*:*",
+        "cpeNameId": "D4A30C9D-AAB2-44FD-9225-8AE08C32489C",
+        "lastModified": "2021-08-12T16:15:42.480",
+        "created": "2018-09-14T15:29:10.703",
+        "titles": [
+          {
+            "title": "VMware Airwatch Agent 6.5.2 for Windows Mobile",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:airwatch_agent:-:*:*:*:*:android:*:*",
+        "cpeNameId": "182F931B-001A-4F6B-8988-AF6DCFE42D01",
+        "lastModified": "2021-08-12T16:15:42.480",
+        "created": "2018-09-14T15:29:21.110",
+        "titles": [
+          {
+            "title": "VMware Airwatch Agent for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:airwatch_agent:8.2:*:*:*:*:android:*:*",
+        "cpeNameId": "29F995BF-E12D-472F-9357-B91B7EF981C1",
+        "lastModified": "2021-08-12T16:15:42.480",
+        "created": "2018-09-14T15:29:21.110",
+        "titles": [
+          {
+            "title": "VMware Airwatch Agent 8.2 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:vmware:airwatch_agent:-:*:*:*:*:windows_mobile:*:*",
+      "title": "VMware Airwatch Agent for Windows Mobile",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:airwatch_agent:6.5.2:*:*:*:*:windows_mobile:*:*",
+      "title": "VMware Airwatch Agent 6.5.2 for Windows Mobile",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:airwatch_agent:-:*:*:*:*:android:*:*",
+      "title": "VMware Airwatch Agent for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:airwatch_agent:8.2:*:*:*:*:android:*:*",
+      "title": "VMware Airwatch Agent 8.2 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

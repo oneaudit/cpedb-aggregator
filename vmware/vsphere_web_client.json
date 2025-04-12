@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:vsphere_web_client:5.5:*:*:*:*:*:*:*",
+        "cpeNameId": "E7CB1958-6381-4A0E-B743-7C97F6FF836B",
+        "lastModified": "2021-06-25T15:15:40.903",
+        "created": "2017-12-06T03:53:10.370",
+        "titles": [
+          {
+            "title": "VMware Vsphere Web Client 5.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:vsphere_web_client:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1115ACAB-6649-440F-8333-02B8F665EA20",
+        "lastModified": "2021-06-25T15:15:40.903",
+        "created": "2017-12-06T03:53:10.370",
+        "titles": [
+          {
+            "title": "VMware Vsphere Web Client 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:vmware:vsphere_web_client:5.5:*:*:*:*:*:*:*",
+      "title": "VMware Vsphere Web Client 5.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:vsphere_web_client:6.0:*:*:*:*:*:*:*",
+      "title": "VMware Vsphere Web Client 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:w3edge:total_cache:0.9.4:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "B3C900BB-0BCC-4657-8A40-1F974F029375",
+        "lastModified": "2023-05-26T17:46:25.487",
+        "created": "2014-12-19T18:16:21.337",
+        "titles": [
+          {
+            "title": "w3edge Total Cache for WordPress 0.9.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:boldgrid:w3_total_cache:0.9.4:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "28DBC4B5-A60D-40A2-A1F7-47A432E51C8B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:w3edge:total_cache:0.9.4:*:*:*:*:wordpress:*:*",
+      "title": "w3edge Total Cache for WordPress 0.9.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:boldgrid:w3_total_cache:0.9.4:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

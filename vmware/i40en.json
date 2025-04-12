@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:i40en:2.1.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "58768178-AC2A-43A4-B1E4-06E965C0D4C2",
+        "lastModified": "2022-11-02T16:09:29.453",
+        "created": "2022-08-25T13:32:34.080",
+        "titles": [
+          {
+            "title": "VMware i40en 2.1.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:i40en:-:*:*:*:*:*:*:*",
+        "cpeNameId": "375F98A8-FFE4-444B-B236-A30924C08872",
+        "lastModified": "2022-11-02T16:09:29.453",
+        "created": "2022-08-25T13:32:34.080",
+        "titles": [
+          {
+            "title": "VMware i40en",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:vmware:i40en:2.1.5.0:*:*:*:*:*:*:*",
+      "title": "VMware i40en 2.1.5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:i40en:-:*:*:*:*:*:*:*",
+      "title": "VMware i40en",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

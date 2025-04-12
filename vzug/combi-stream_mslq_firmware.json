@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B2D31487-C68E-44B7-9563-CCAAC3267665",
+        "lastModified": "2021-07-01T17:05:20.307",
+        "created": "2019-10-10T17:02:29.050",
+        "titles": [
+          {
+            "title": "V-Zug Combi-Stream MSLQ Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:ethernet_r07:*:*:*:*:*:*:*",
+        "cpeNameId": "03DC047C-E614-415B-A0F7-BD4F1F14C53E",
+        "lastModified": "2021-07-01T17:05:20.307",
+        "created": "2019-10-10T17:02:29.050",
+        "titles": [
+          {
+            "title": "V-Zug Combi-Stream MSLQ Firmware Ethernet R07",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:wlan_r05:*:*:*:*:*:*:*",
+        "cpeNameId": "611C18CB-2F4C-4D7D-9B63-B61607132932",
+        "lastModified": "2021-07-01T17:05:20.307",
+        "created": "2019-10-10T17:02:29.253",
+        "titles": [
+          {
+            "title": "V-Zug Combi-Stream MSLQ Firmware WLAN R05",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:-:*:*:*:*:*:*:*",
+      "title": "V-Zug Combi-Stream MSLQ Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:ethernet_r07:*:*:*:*:*:*:*",
+      "title": "V-Zug Combi-Stream MSLQ Firmware Ethernet R07",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:wlan_r05:*:*:*:*:*:*:*",
+      "title": "V-Zug Combi-Stream MSLQ Firmware WLAN R05",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

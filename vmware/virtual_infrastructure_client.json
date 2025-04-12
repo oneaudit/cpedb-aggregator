@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:virtual_infrastructure_client:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5BD8B8A7-B8D0-4521-AD28-EF55E2AA5870",
+        "lastModified": "2008-10-07T14:33:57.997",
+        "created": "2008-10-07T14:33:57.997",
+        "titles": [
+          {
+            "title": "VMWare Virtual Infrastructure Client",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:virtual_infrastructure_client:2.0.2.50618:*:*:*:*:*:*:*",
+        "cpeNameId": "14E0CF92-8F8E-41F6-8A4E-D1B9CA179147",
+        "lastModified": "2012-08-01T21:33:44.127",
+        "created": "2012-08-01T21:33:44.127",
+        "titles": [
+          {
+            "title": "Vmware Virtual Infrastructure Client 2.0.2.50618",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:virtual_infrastructure_client:2.0.2.62345:*:*:*:*:*:*:*",
+        "cpeNameId": "AE4EB4E6-3EF2-404C-AA2D-854CF77CAB88",
+        "lastModified": "2012-08-01T21:33:44.390",
+        "created": "2012-08-01T21:33:44.390",
+        "titles": [
+          {
+            "title": "Vmware Virtual Infrastructure Client 2.0.2.62345",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:vmware:virtual_infrastructure_client:-:*:*:*:*:*:*:*",
+      "title": "VMWare Virtual Infrastructure Client",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:virtual_infrastructure_client:2.0.2.50618:*:*:*:*:*:*:*",
+      "title": "Vmware Virtual Infrastructure Client 2.0.2.50618",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:virtual_infrastructure_client:2.0.2.62345:*:*:*:*:*:*:*",
+      "title": "Vmware Virtual Infrastructure Client 2.0.2.62345",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

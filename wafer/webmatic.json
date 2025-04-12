@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wafer:webmatic:3.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "217AFBE2-0705-4010-9D5E-00690C20BACA",
+        "lastModified": "2018-05-29T13:36:25.180",
+        "created": "2012-07-13T16:59:36.280",
+        "titles": [
+          {
+            "title": "wafer WebMatic 3.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:valarsoft:webmatic:3.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "C88CF8E0-C8E3-47CF-842E-6DF0CA88C41F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wafer:webmatic:3.1.1:*:*:*:*:*:*:*",
+      "title": "wafer WebMatic 3.1.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:valarsoft:webmatic:3.1.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

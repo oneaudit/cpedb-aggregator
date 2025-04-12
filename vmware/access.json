@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:access:21.08.0.0:*:*:*:*:linux:*:*",
+        "cpeNameId": "D40C2928-094D-4F9C-927C-354CC6BD5DEF",
+        "lastModified": "2022-12-27T23:43:19.897",
+        "created": "2022-12-20T12:03:36.283",
+        "titles": [
+          {
+            "title": "VMware Access 21.08.0.0 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:access:21.08.0.1:*:*:*:*:linux:*:*",
+        "cpeNameId": "E40D93D6-2E8D-4A00-806E-E49F7879007B",
+        "lastModified": "2022-12-27T23:43:19.897",
+        "created": "2022-12-20T12:03:36.283",
+        "titles": [
+          {
+            "title": "VMware Access 21.08.0.1 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:access:22.09.0.0:*:*:*:*:linux:*:*",
+        "cpeNameId": "5B923316-BD24-4A7C-89C3-70F599CC1CEF",
+        "lastModified": "2022-12-27T23:43:19.897",
+        "created": "2022-12-20T12:32:01.140",
+        "titles": [
+          {
+            "title": "VMware Access 22.09.0.0 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:vmware:access:21.08.0.0:*:*:*:*:linux:*:*",
+      "title": "VMware Access 21.08.0.0 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:access:21.08.0.1:*:*:*:*:linux:*:*",
+      "title": "VMware Access 21.08.0.1 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:access:22.09.0.0:*:*:*:*:linux:*:*",
+      "title": "VMware Access 22.09.0.0 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

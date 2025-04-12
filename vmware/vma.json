@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:vma:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "9EC7DEBC-11D2-488B-B8E1-E4ED591ECDBA",
+        "lastModified": "2012-06-29T14:53:54.733",
+        "created": "2012-06-04T13:10:04.197",
+        "titles": [
+          {
+            "title": "VMware vMA 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:vma:4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "E32250B5-EDE8-4AA8-A821-CF0FC9816BA9",
+        "lastModified": "2012-06-29T14:53:54.780",
+        "created": "2012-06-04T13:10:04.307",
+        "titles": [
+          {
+            "title": "VMware vMA 4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:vma:5.0.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7FA7E9B6-9D92-4EA3-9B46-86CE71B4461E",
+        "lastModified": "2012-06-29T14:53:54.843",
+        "created": "2012-06-04T13:10:04.400",
+        "titles": [
+          {
+            "title": "VMware vMA  5 patch 1 (5.0.0.1)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:vmware:vma:4.0:*:*:*:*:*:*:*",
+      "title": "VMware vMA 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:vma:4.1:*:*:*:*:*:*:*",
+      "title": "VMware vMA 4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:vma:5.0.0.1:*:*:*:*:*:*:*",
+      "title": "VMware vMA  5 patch 1 (5.0.0.1)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

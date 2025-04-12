@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:infrastructure:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E8DE0E02-327D-4057-8E22-A4E4314EE05A",
+        "lastModified": "2008-04-01T16:16:42.890",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "VMWare VMWare Infrastructure",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:vmware:infrastructure:3:*:*:*:*:*:*:*",
+        "cpeNameId": "81915B1C-0111-4528-A6F4-896A7A506C7C",
+        "lastModified": "2008-04-01T16:16:42.937",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "VMWare VMWare Infrastructure 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:vmware:infrastructure:-:*:*:*:*:*:*:*",
+      "title": "VMWare VMWare Infrastructure",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:vmware:infrastructure:3:*:*:*:*:*:*:*",
+      "title": "VMWare VMWare Infrastructure 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
