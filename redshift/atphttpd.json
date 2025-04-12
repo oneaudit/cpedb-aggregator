@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redshift:atphttpd:0.4b:*:*:*:*:*:*:*",
+        "cpeNameId": "87834F0A-7374-4E21-BC21-BDAF6176B7C3",
+        "lastModified": "2024-01-19T14:42:16.223",
+        "created": "2024-01-19T14:42:16.223",
+        "titles": [
+          {
+            "title": "Redshift ATPhttpd 0.4b",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redshift:atphttpd:-:*:*:*:*:*:*:*",
+        "cpeNameId": "78C100A7-1F2B-4E45-9EE5-52A7C8913CC3",
+        "lastModified": "2024-01-19T14:42:16.223",
+        "created": "2024-01-19T14:42:16.223",
+        "titles": [
+          {
+            "title": "Redshift ATPhttpd -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redshift:atphttpd:0.4b:*:*:*:*:*:*:*",
+      "title": "Redshift ATPhttpd 0.4b",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redshift:atphttpd:-:*:*:*:*:*:*:*",
+      "title": "Redshift ATPhttpd -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

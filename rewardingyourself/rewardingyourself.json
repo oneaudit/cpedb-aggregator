@@ -1,0 +1,77 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rewardingyourself:rewardingyourself:-:*:*:*:*:andriod:*:*",
+        "cpeNameId": "F257E35B-FCC6-4DBF-9D86-EEC1FF9B71F6",
+        "lastModified": "2015-05-12T13:45:09.640",
+        "created": "2014-11-07T15:11:10.517",
+        "titles": [
+          {
+            "title": "RewardingYourself RewardingYourself for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rewardingyourself:rewardingyourself:-:*:*:*:*:android:*:*",
+            "cpeNameId": "6798F7EC-6C58-4990-985A-538DC7CE7EAF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rewardingyourself:rewardingyourself:-:*:*:*:*:blackberry:*:*",
+        "cpeNameId": "0C209BDE-2381-47FE-A94C-D20ED03B9B41",
+        "lastModified": "2015-01-28T19:37:05.457",
+        "created": "2014-11-07T15:11:10.517",
+        "titles": [
+          {
+            "title": "RewardingYourself RewardingYourself for BlackBerry",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:rewardingyourself:rewardingyourself:-:*:*:*:*:android:*:*",
+        "cpeNameId": "6798F7EC-6C58-4990-985A-538DC7CE7EAF",
+        "lastModified": "2015-05-12T13:45:09.640",
+        "created": "2015-05-12T13:44:19.683",
+        "titles": [
+          {
+            "title": "RewardingYourself RewardingYourself for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rewardingyourself:rewardingyourself:-:*:*:*:*:andriod:*:*",
+      "title": "RewardingYourself RewardingYourself for Android",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rewardingyourself:rewardingyourself:-:*:*:*:*:android:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rewardingyourself:rewardingyourself:-:*:*:*:*:blackberry:*:*",
+      "title": "RewardingYourself RewardingYourself for BlackBerry",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:rewardingyourself:rewardingyourself:-:*:*:*:*:android:*:*",
+      "title": "RewardingYourself RewardingYourself for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

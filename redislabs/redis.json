@@ -1,0 +1,5751 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "102DE450-13E0-4867-B0AF-3748028F6D5B",
+        "lastModified": "2020-06-22T19:55:14.770",
+        "created": "2018-08-07T16:37:06.843",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redislabs:redis:2.8.0:-:*:*:*:*:*:*",
+            "cpeNameId": "C9BBE20E-D2E8-49B2-B703-7835F9A81747"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.23:*:*:*:*:*:*:*",
+        "cpeNameId": "EED83BFD-5D40-4412-833A-75729ACB4633",
+        "lastModified": "2018-08-07T16:37:06.950",
+        "created": "2018-08-07T16:37:06.950",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.23",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.24:*:*:*:*:*:*:*",
+        "cpeNameId": "540C1C3E-0EC7-4021-8E9B-F6A2DF5E420F",
+        "lastModified": "2018-08-07T16:37:07.047",
+        "created": "2018-08-07T16:37:07.047",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.24",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6F67079C-91D7-4CC3-B7D4-DDA2B48BBC5F",
+        "lastModified": "2020-06-22T19:55:14.910",
+        "created": "2018-08-07T16:37:07.140",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:-:*:*:*:*:*:*",
+            "cpeNameId": "25E039FB-498A-4C5C-A24B-67BEFC216990"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "6080A324-4933-4B22-953D-20A36049EF88",
+        "lastModified": "2018-08-07T16:37:07.247",
+        "created": "2018-08-07T16:37:07.247",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.5:*:*:*:*:*:*:*",
+        "cpeNameId": "353484B1-1CD7-4A80-A248-C9E14DD65006",
+        "lastModified": "2018-08-07T16:37:07.343",
+        "created": "2018-08-07T16:37:07.343",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.6:*:*:*:*:*:*:*",
+        "cpeNameId": "5FB9C07C-BF05-4E6A-B47B-13CC4ED4BEC4",
+        "lastModified": "2018-08-07T16:37:07.437",
+        "created": "2018-08-07T16:37:07.437",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.7:*:*:*:*:*:*:*",
+        "cpeNameId": "721BC303-B868-4891-A844-E11715D9B1B1",
+        "lastModified": "2018-08-07T16:37:07.547",
+        "created": "2018-08-07T16:37:07.547",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2:rc1:*:*:*:*:*:*",
+        "cpeNameId": "C61AFD17-3878-473B-9CF5-6AFFA4C497AC",
+        "lastModified": "2018-08-07T16:37:07.640",
+        "created": "2018-08-07T16:37:07.640",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2 Release Candidate 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1A94FFE9-5B8D-4DCE-8F52-CC67618CA0B9",
+        "lastModified": "2020-06-22T19:55:15.037",
+        "created": "2018-08-07T16:37:07.747",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redislabs:redis:3.2.0:-:*:*:*:*:*:*",
+            "cpeNameId": "493FF9D4-9A92-4C28-AB0A-C0B22C32EA67"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.0:rc2:*:*:*:*:*:*",
+        "cpeNameId": "E3ADB6E2-DDEB-417F-A080-585B87FC8FE3",
+        "lastModified": "2018-08-07T16:37:07.843",
+        "created": "2018-08-07T16:37:07.843",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.0 Release Candidate 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.0:rc3:*:*:*:*:*:*",
+        "cpeNameId": "188292BE-2EF3-4FDB-98BF-041B43363D1F",
+        "lastModified": "2018-08-07T16:37:07.950",
+        "created": "2018-08-07T16:37:07.950",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.0 Release Candidate 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "D3258A71-E866-4440-861A-EFDC0897DAD3",
+        "lastModified": "2018-08-07T16:37:08.060",
+        "created": "2018-08-07T16:37:08.060",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "4A5D936D-6587-4D6A-B843-B3821E111FEB",
+        "lastModified": "2018-08-07T16:37:08.170",
+        "created": "2018-08-07T16:37:08.170",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.3:*:*:*:*:*:*:*",
+        "cpeNameId": "68A49ABA-AEC3-4F0C-A87E-479BAD7B1049",
+        "lastModified": "2018-08-07T16:37:08.280",
+        "created": "2018-08-07T16:37:08.280",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.4:*:*:*:*:*:*:*",
+        "cpeNameId": "2D7EC480-5EBF-4928-BD8F-C67AB864E31A",
+        "lastModified": "2018-08-07T16:37:08.390",
+        "created": "2018-08-07T16:37:08.390",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "BA29FEFB-83D7-47B3-8787-40344A41F8CB",
+        "lastModified": "2018-08-07T16:37:08.497",
+        "created": "2018-08-07T16:37:08.497",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.6:*:*:*:*:*:*:*",
+        "cpeNameId": "8A4ED4B7-30F6-4CBE-88C4-117005FBD209",
+        "lastModified": "2018-08-07T16:37:08.607",
+        "created": "2018-08-07T16:37:08.607",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.7:*:*:*:*:*:*:*",
+        "cpeNameId": "1197443B-E460-4474-8914-761B5C5A9165",
+        "lastModified": "2018-08-07T16:37:08.717",
+        "created": "2018-08-07T16:37:08.717",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.8:*:*:*:*:*:*:*",
+        "cpeNameId": "2A85E11A-E839-4586-A29B-BBE491F57119",
+        "lastModified": "2018-08-07T16:37:08.843",
+        "created": "2018-08-07T16:37:08.843",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.9:*:*:*:*:*:*:*",
+        "cpeNameId": "B0D052AA-DA38-42B4-ACD5-1EF82A545D47",
+        "lastModified": "2018-08-07T16:37:08.950",
+        "created": "2018-08-07T16:37:08.950",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.10:*:*:*:*:*:*:*",
+        "cpeNameId": "D10E26C2-735C-4099-A98D-A1086302C458",
+        "lastModified": "2018-08-07T16:37:09.077",
+        "created": "2018-08-07T16:37:09.077",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.11:*:*:*:*:*:*:*",
+        "cpeNameId": "6D68331F-96AA-48C9-BD5F-6C77D2AB6F17",
+        "lastModified": "2018-08-07T16:37:09.187",
+        "created": "2018-08-07T16:37:09.187",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.12:*:*:*:*:*:*:*",
+        "cpeNameId": "7D9FA0DF-C2EF-4D82-BE80-324891C3C35B",
+        "lastModified": "2018-08-07T16:37:09.297",
+        "created": "2018-08-07T16:37:09.297",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0:rc1:*:*:*:*:*:*",
+        "cpeNameId": "8A7F18E5-EA40-4C75-AE63-85D469616B8E",
+        "lastModified": "2018-08-07T16:37:09.403",
+        "created": "2018-08-07T16:37:09.403",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0 Release Candidate 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0:rc3:*:*:*:*:*:*",
+        "cpeNameId": "644D2423-1C67-46DF-8C82-8AAED6EB1CBC",
+        "lastModified": "2018-08-07T16:37:09.530",
+        "created": "2018-08-07T16:37:09.530",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0 Release Candidate 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F3B93F02-AD26-45BF-A546-F462EEF94A58",
+        "lastModified": "2018-08-07T16:37:09.640",
+        "created": "2018-08-07T16:37:09.640",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "D297EA3F-71B8-4601-9DFC-503927F8676F",
+        "lastModified": "2018-08-07T16:37:09.763",
+        "created": "2018-08-07T16:37:09.763",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "B4B843D9-2021-4436-9B18-560E8120F613",
+        "lastModified": "2018-08-07T16:37:09.873",
+        "created": "2018-08-07T16:37:09.873",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.3:*:*:*:*:*:*:*",
+        "cpeNameId": "6ECCA279-4E51-4607-B822-A6F21CDEF102",
+        "lastModified": "2018-08-07T16:37:09.997",
+        "created": "2018-08-07T16:37:09.997",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "C48483DF-0C98-45B8-915D-D22EB878FB40",
+        "lastModified": "2018-08-07T16:37:10.107",
+        "created": "2018-08-07T16:37:10.107",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.5:*:*:*:*:*:*:*",
+        "cpeNameId": "B44B97DB-B2A1-4314-8AB7-40E41903EB6D",
+        "lastModified": "2018-08-07T16:37:10.233",
+        "created": "2018-08-07T16:37:10.233",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.6:*:*:*:*:*:*:*",
+        "cpeNameId": "A9D76CC7-AE58-48D5-A908-D4AC170D8F66",
+        "lastModified": "2018-08-07T16:37:10.343",
+        "created": "2018-08-07T16:37:10.343",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.7:*:*:*:*:*:*:*",
+        "cpeNameId": "EF9EA7B4-6172-4FA4-8172-9FAD2A1C786A",
+        "lastModified": "2018-08-07T16:37:10.467",
+        "created": "2018-08-07T16:37:10.467",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "43637710-58A9-468F-866B-710B0B0C3C1F",
+        "lastModified": "2018-08-07T16:37:10.593",
+        "created": "2018-08-07T16:37:10.593",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "2B2F3C6F-CE0F-4989-93B7-EC05191E4C10",
+        "lastModified": "2018-08-07T16:37:10.700",
+        "created": "2018-08-07T16:37:10.700",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.10:*:*:*:*:*:*:*",
+        "cpeNameId": "AA9AE7AD-3BDE-435A-BA9D-CFF0E664D536",
+        "lastModified": "2018-08-07T16:37:10.827",
+        "created": "2018-08-07T16:37:10.827",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.11:*:*:*:*:*:*:*",
+        "cpeNameId": "1A18F8B3-4B9A-4913-8562-484DF5D5F267",
+        "lastModified": "2018-08-07T16:37:10.967",
+        "created": "2018-08-07T16:37:10.967",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0:rc1:*:*:*:*:*:*",
+        "cpeNameId": "70D19580-76EA-4D8F-B80C-A16B4CE1F523",
+        "lastModified": "2018-08-07T16:37:11.093",
+        "created": "2018-08-07T16:37:11.093",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0 Release Candidate 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0:rc2:*:*:*:*:*:*",
+        "cpeNameId": "E82B2D80-73A0-4285-AC64-212BC25F7B1B",
+        "lastModified": "2018-08-07T16:37:11.263",
+        "created": "2018-08-07T16:37:11.263",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0 Release Candidate 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0:rc3:*:*:*:*:*:*",
+        "cpeNameId": "E5D6E1B3-7024-4B36-A429-E1C9D8743B4E",
+        "lastModified": "2018-08-07T16:37:11.407",
+        "created": "2018-08-07T16:37:11.407",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0 Release Candidate 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0:rc4:*:*:*:*:*:*",
+        "cpeNameId": "FEECB743-695C-4598-BA80-37355D61BBBD",
+        "lastModified": "2018-08-07T16:37:11.530",
+        "created": "2018-08-07T16:37:11.530",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0 Release Candidate 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:1.3.6:*:*:*:*:*:*:*",
+        "cpeNameId": "6958404B-5D78-46C1-9580-BA76B19CE87D",
+        "lastModified": "2018-08-07T17:13:52.643",
+        "created": "2018-08-07T17:13:52.643",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 1.3.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:1.3.7:*:*:*:*:*:*:*",
+        "cpeNameId": "63989EB6-288F-458A-A617-C904BDD52632",
+        "lastModified": "2018-08-07T17:13:52.957",
+        "created": "2018-08-07T17:13:52.957",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 1.3.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:1.3.8:*:*:*:*:*:*:*",
+        "cpeNameId": "1ACFFF69-0D2A-458E-9C02-2F98257E5765",
+        "lastModified": "2018-08-07T17:13:53.063",
+        "created": "2018-08-07T17:13:53.063",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 1.3.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:1.3.9:*:*:*:*:*:*:*",
+        "cpeNameId": "93E897A1-6C7E-41A2-99A7-936B3FC5E201",
+        "lastModified": "2018-08-07T17:13:53.173",
+        "created": "2018-08-07T17:13:53.173",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 1.3.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:1.3.10:*:*:*:*:*:*:*",
+        "cpeNameId": "E9B2FDAE-9987-42DD-AD2A-406B5665487A",
+        "lastModified": "2018-08-07T17:13:53.283",
+        "created": "2018-08-07T17:13:53.283",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 1.3.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:1.3.11:*:*:*:*:*:*:*",
+        "cpeNameId": "BAAA8FB4-F420-46F5-B321-84D1EF54B9F8",
+        "lastModified": "2018-08-07T17:13:53.393",
+        "created": "2018-08-07T17:13:53.393",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 1.3.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:1.3.12:*:*:*:*:*:*:*",
+        "cpeNameId": "3651C653-3638-4EB2-9BC5-152BA8C42B50",
+        "lastModified": "2018-08-07T17:13:53.503",
+        "created": "2018-08-07T17:13:53.503",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 1.3.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0B7E129B-A53E-4F91-AD41-189AD881D4DF",
+        "lastModified": "2018-08-07T17:13:53.610",
+        "created": "2018-08-07T17:13:53.610",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.0.0:rc1:*:*:*:*:*:*",
+        "cpeNameId": "9DBEFAA0-16D1-402B-8257-F53DFA2A5EE1",
+        "lastModified": "2018-08-07T17:13:53.737",
+        "created": "2018-08-07T17:13:53.737",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.0.0 Release Candidate 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.0.0:rc1b:*:*:*:*:*:*",
+        "cpeNameId": "4FE958A0-98A4-430E-B76A-B57643AB636B",
+        "lastModified": "2018-08-07T17:13:53.860",
+        "created": "2018-08-07T17:13:53.860",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.0.0 Release Candidate 1b",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.0.0:rc2:*:*:*:*:*:*",
+        "cpeNameId": "A3B89C11-2279-4A94-958F-D808CF5FC1C2",
+        "lastModified": "2018-08-07T17:13:53.970",
+        "created": "2018-08-07T17:13:53.970",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.0.0 Release Candidate 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.0.0:rc3:*:*:*:*:*:*",
+        "cpeNameId": "6B7A4CB6-80C4-438F-857D-FC7C644AE0DC",
+        "lastModified": "2018-08-07T17:13:54.097",
+        "created": "2018-08-07T17:13:54.097",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.0.0 Release Candidate 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.0.0:rc4:*:*:*:*:*:*",
+        "cpeNameId": "2B1C0367-ECFD-4AFD-8358-22515E63F383",
+        "lastModified": "2018-08-07T17:13:54.237",
+        "created": "2018-08-07T17:13:54.237",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.0.0 Release Candidate 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "26E58D3D-5F2A-4B58-B417-53F93C16EF86",
+        "lastModified": "2018-08-07T17:13:54.363",
+        "created": "2018-08-07T17:13:54.363",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "203A86C4-180C-43F0-813D-C3B8F27E01B2",
+        "lastModified": "2018-08-07T17:13:54.487",
+        "created": "2018-08-07T17:13:54.487",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.0.3:*:*:*:*:*:*:*",
+        "cpeNameId": "12A11847-C9D1-4F88-A65A-0BD06C8B4C17",
+        "lastModified": "2018-08-07T17:13:54.610",
+        "created": "2018-08-07T17:13:54.610",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.0.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "3B73865B-9E9D-4D3E-959D-CBD3F28A065E",
+        "lastModified": "2018-08-07T17:13:54.720",
+        "created": "2018-08-07T17:13:54.720",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.0.5:*:*:*:*:*:*:*",
+        "cpeNameId": "BE5A6DBE-24AB-49AE-8283-D54236A808E6",
+        "lastModified": "2018-08-07T17:13:54.847",
+        "created": "2018-08-07T17:13:54.847",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.0.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "630CC5C7-794B-40DD-A1C7-0F7648CE040C",
+        "lastModified": "2018-08-07T17:13:54.970",
+        "created": "2018-08-07T17:13:54.970",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2:alpha0:*:*:*:*:*:*",
+        "cpeNameId": "69E50B45-3DCB-4ABA-BAE0-816285CFEB44",
+        "lastModified": "2018-08-07T17:13:55.097",
+        "created": "2018-08-07T17:13:55.097",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2 Alpha 0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2:alpha1:*:*:*:*:*:*",
+        "cpeNameId": "B1747B43-1F35-4D93-9D23-BDCDABD34519",
+        "lastModified": "2018-08-07T17:13:55.237",
+        "created": "2018-08-07T17:13:55.237",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2 Alpha 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2:alpha2:*:*:*:*:*:*",
+        "cpeNameId": "F6ECC0AE-594C-4A59-B177-5D53A6EA5923",
+        "lastModified": "2018-08-07T17:13:55.347",
+        "created": "2018-08-07T17:13:55.347",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2 Alpha 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2:alpha3:*:*:*:*:*:*",
+        "cpeNameId": "871517DE-29D2-4449-94B3-C214A0871F49",
+        "lastModified": "2018-08-07T17:13:55.470",
+        "created": "2018-08-07T17:13:55.470",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2 Alpha 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2:alpha4:*:*:*:*:*:*",
+        "cpeNameId": "9105D7FD-A6CC-4341-9E83-519881D42D7E",
+        "lastModified": "2018-08-07T17:13:55.597",
+        "created": "2018-08-07T17:13:55.597",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2 Alpha 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2:alpha5:*:*:*:*:*:*",
+        "cpeNameId": "093DF5D2-2441-45C4-BC02-A4EA9AFBBED3",
+        "lastModified": "2018-08-07T17:13:55.720",
+        "created": "2018-08-07T17:13:55.720",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2 Alpha 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2:alpha6:*:*:*:*:*:*",
+        "cpeNameId": "9111AC20-660D-4605-A2F9-7B86F78AFEC5",
+        "lastModified": "2018-08-07T17:13:55.847",
+        "created": "2018-08-07T17:13:55.847",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2 Alpha 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D5BB1FBF-DE60-4B7B-B3E5-D052447CFDB9",
+        "lastModified": "2018-08-07T17:13:55.970",
+        "created": "2018-08-07T17:13:55.970",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.0:rc1:*:*:*:*:*:*",
+        "cpeNameId": "B7D24516-9438-455C-80F0-440263341F89",
+        "lastModified": "2018-08-07T17:13:56.097",
+        "created": "2018-08-07T17:13:56.097",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.0 Release Candidate 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.0:rc2:*:*:*:*:*:*",
+        "cpeNameId": "23CFAD22-6815-4069-82ED-C70282280CA8",
+        "lastModified": "2018-08-07T17:13:56.220",
+        "created": "2018-08-07T17:13:56.220",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.0 Release Candidate 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.0:rc3:*:*:*:*:*:*",
+        "cpeNameId": "90C4ABF1-D14F-402C-874B-162B91E433DD",
+        "lastModified": "2018-08-07T17:13:56.347",
+        "created": "2018-08-07T17:13:56.347",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.0 Release Candidate 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.0:rc4:*:*:*:*:*:*",
+        "cpeNameId": "119CEEFF-A91D-43E0-988B-D0260A5BEE36",
+        "lastModified": "2018-08-07T17:13:56.470",
+        "created": "2018-08-07T17:13:56.470",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.0 Release Candidate 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "3992AB62-E47D-4A0D-8D03-35FE29162B91",
+        "lastModified": "2018-08-07T17:13:56.613",
+        "created": "2018-08-07T17:13:56.613",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.3:*:*:*:*:*:*:*",
+        "cpeNameId": "9BD92259-DAFB-4925-9F84-5BA1940249BA",
+        "lastModified": "2018-08-07T17:13:56.737",
+        "created": "2018-08-07T17:13:56.737",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.4:*:*:*:*:*:*:*",
+        "cpeNameId": "E81B6878-C36F-4E89-B408-9EFB4375C6B3",
+        "lastModified": "2018-08-07T17:13:56.877",
+        "created": "2018-08-07T17:13:56.877",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "10808DC5-79D7-4C28-A8C1-B08BA9F3AD0B",
+        "lastModified": "2018-08-07T17:13:57.097",
+        "created": "2018-08-07T17:13:57.097",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.6:*:*:*:*:*:*:*",
+        "cpeNameId": "98DC692B-B7F0-4D7E-AF57-C0C484F5AB97",
+        "lastModified": "2018-08-07T17:13:57.220",
+        "created": "2018-08-07T17:13:57.220",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.7:*:*:*:*:*:*:*",
+        "cpeNameId": "571E223E-C42D-403D-923F-0C2354A21CF8",
+        "lastModified": "2018-08-07T17:13:57.363",
+        "created": "2018-08-07T17:13:57.363",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.8:*:*:*:*:*:*:*",
+        "cpeNameId": "81092415-CA73-45E6-A60C-2C7DC897E001",
+        "lastModified": "2018-08-07T17:13:57.487",
+        "created": "2018-08-07T17:13:57.487",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.9:*:*:*:*:*:*:*",
+        "cpeNameId": "82C86B12-8853-4C09-AC0E-9C91C37521DA",
+        "lastModified": "2018-08-07T17:13:57.627",
+        "created": "2018-08-07T17:13:57.627",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.10:*:*:*:*:*:*:*",
+        "cpeNameId": "9DC4C90E-5494-4334-978B-0817533890CD",
+        "lastModified": "2018-08-07T17:13:57.767",
+        "created": "2018-08-07T17:13:57.767",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.11:*:*:*:*:*:*:*",
+        "cpeNameId": "4EFC2662-17C5-4C77-8723-92BFF40000BB",
+        "lastModified": "2018-08-07T17:13:57.893",
+        "created": "2018-08-07T17:13:57.893",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.12:*:*:*:*:*:*:*",
+        "cpeNameId": "AA46FE6F-62F0-4C18-AC5F-0943542DBEF9",
+        "lastModified": "2018-08-07T17:13:58.033",
+        "created": "2018-08-07T17:13:58.033",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.13:*:*:*:*:*:*:*",
+        "cpeNameId": "5362DA10-C8CB-4247-B9CE-D10A172C75E9",
+        "lastModified": "2018-08-07T17:13:58.173",
+        "created": "2018-08-07T17:13:58.173",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.14:*:*:*:*:*:*:*",
+        "cpeNameId": "246E79F7-6A2C-46B2-A860-11130436DDD7",
+        "lastModified": "2018-08-07T17:13:58.317",
+        "created": "2018-08-07T17:13:58.317",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.15:*:*:*:*:*:*:*",
+        "cpeNameId": "4AFD44F0-9C46-40A9-99C7-11EFF39D1704",
+        "lastModified": "2018-08-07T17:13:58.470",
+        "created": "2018-08-07T17:13:58.470",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.105:*:*:*:*:*:*:*",
+        "cpeNameId": "B1310835-BA1F-4215-9A22-9BCA68AFC7FD",
+        "lastModified": "2018-08-07T17:13:58.613",
+        "created": "2018-08-07T17:13:58.613",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.105",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.106:*:*:*:*:*:*:*",
+        "cpeNameId": "B64E0D01-FCEA-48FB-A695-F447EA343E34",
+        "lastModified": "2018-08-07T17:13:58.817",
+        "created": "2018-08-07T17:13:58.817",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.106",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.107:*:*:*:*:*:*:*",
+        "cpeNameId": "58895BB8-C613-44C7-8F21-9FDB52BE1C29",
+        "lastModified": "2018-08-07T17:13:58.957",
+        "created": "2018-08-07T17:13:58.957",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.107",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.110:*:*:*:*:*:*:*",
+        "cpeNameId": "A5B2C8EA-9129-4008-AE96-DF5C76DC8656",
+        "lastModified": "2018-08-07T17:13:59.113",
+        "created": "2018-08-07T17:13:59.113",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.110",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.111:*:*:*:*:*:*:*",
+        "cpeNameId": "B3BBEE95-112F-42F8-BD13-B7CA88EBAEDB",
+        "lastModified": "2018-08-07T17:13:59.253",
+        "created": "2018-08-07T17:13:59.253",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.111",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.3:alpha0:*:*:*:*:*:*",
+        "cpeNameId": "2DC86879-6FF5-45F2-82A5-0B14511B358B",
+        "lastModified": "2018-08-07T17:13:59.393",
+        "created": "2018-08-07T17:13:59.393",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.3 Alpha 0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4673FEC0-4C8F-4BF6-9A63-C87C34D6C81D",
+        "lastModified": "2020-06-22T19:55:14.223",
+        "created": "2018-08-07T17:13:59.533",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:-:*:*:*:*:*:*",
+            "cpeNameId": "82605E8A-718E-4B8A-B825-9A3A7492A013"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:rc1:*:*:*:*:*:*",
+        "cpeNameId": "E63900E1-9366-4DFD-A395-A6F29B903716",
+        "lastModified": "2018-08-07T17:13:59.707",
+        "created": "2018-08-07T17:13:59.707",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.0 Release Candidate 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:rc2:*:*:*:*:*:*",
+        "cpeNameId": "DB7E8481-4BE3-43A0-B4E2-203A93286890",
+        "lastModified": "2018-08-07T17:13:59.847",
+        "created": "2018-08-07T17:13:59.847",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.0 Release Candidate 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:rc3:*:*:*:*:*:*",
+        "cpeNameId": "41503B2E-984F-4B2B-B1FC-A712DD81AFC5",
+        "lastModified": "2018-08-07T17:13:59.987",
+        "created": "2018-08-07T17:13:59.987",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.0 Release Candidate 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:rc4:*:*:*:*:*:*",
+        "cpeNameId": "E2CEC39B-164B-4C3E-97CD-A2C463C1F3B2",
+        "lastModified": "2018-08-07T17:14:00.143",
+        "created": "2018-08-07T17:14:00.143",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.0 Release Candidate 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:rc5:*:*:*:*:*:*",
+        "cpeNameId": "5BA7EDCE-7380-45FF-A007-78A8A8982446",
+        "lastModified": "2018-08-07T17:14:00.317",
+        "created": "2018-08-07T17:14:00.317",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.0 Release Candidate 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:rc6:*:*:*:*:*:*",
+        "cpeNameId": "FD998418-75D7-452E-A40F-A8C863823C76",
+        "lastModified": "2018-08-07T17:14:00.457",
+        "created": "2018-08-07T17:14:00.457",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.0 Release Candidate 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:rc7:*:*:*:*:*:*",
+        "cpeNameId": "EA4164AA-BCDA-4229-9F8D-10944A91C327",
+        "lastModified": "2018-08-07T17:14:00.597",
+        "created": "2018-08-07T17:14:00.597",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.0 Release Candidate 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:rc8:*:*:*:*:*:*",
+        "cpeNameId": "776CDF13-4015-41A1-98F8-E3E0D3DC157D",
+        "lastModified": "2018-08-07T17:14:00.737",
+        "created": "2018-08-07T17:14:00.737",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.0 Release Candidate 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "DF8787AE-63FC-4350-988D-C65002FBF7E8",
+        "lastModified": "2018-08-07T17:14:00.893",
+        "created": "2018-08-07T17:14:00.893",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "9EB3ED74-D4F9-40FC-8D2F-A04E72F87018",
+        "lastModified": "2018-08-07T17:14:01.050",
+        "created": "2018-08-07T17:14:01.050",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.3:*:*:*:*:*:*:*",
+        "cpeNameId": "F9E08EE8-CC54-4841-9E86-FC51D64F4DA5",
+        "lastModified": "2018-08-07T17:14:01.207",
+        "created": "2018-08-07T17:14:01.207",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.4:*:*:*:*:*:*:*",
+        "cpeNameId": "DC254378-62FC-4770-9CD9-B9AA43934218",
+        "lastModified": "2018-08-07T17:14:01.410",
+        "created": "2018-08-07T17:14:01.410",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.5:*:*:*:*:*:*:*",
+        "cpeNameId": "A7EE8D99-3A7F-44C3-8BBC-C882787CA13C",
+        "lastModified": "2018-08-07T17:14:01.660",
+        "created": "2018-08-07T17:14:01.660",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.6:*:*:*:*:*:*:*",
+        "cpeNameId": "72C42202-CAC8-4135-A6F2-8CF56F96D051",
+        "lastModified": "2018-08-07T17:14:01.817",
+        "created": "2018-08-07T17:14:01.817",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.7:*:*:*:*:*:*:*",
+        "cpeNameId": "12EC94B6-2B27-4EC5-B314-C1CF1A25842E",
+        "lastModified": "2018-08-07T17:14:02.003",
+        "created": "2018-08-07T17:14:02.003",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.8:*:*:*:*:*:*:*",
+        "cpeNameId": "68430B7E-CC32-4991-9398-D816AB4D9247",
+        "lastModified": "2018-08-07T17:14:02.190",
+        "created": "2018-08-07T17:14:02.190",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.9:*:*:*:*:*:*:*",
+        "cpeNameId": "F937C83F-1C35-4586-9066-2252AA5A2528",
+        "lastModified": "2018-08-07T17:14:02.393",
+        "created": "2018-08-07T17:14:02.393",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.10:*:*:*:*:*:*:*",
+        "cpeNameId": "4867D02D-C1FD-4738-9683-1D6B89453869",
+        "lastModified": "2018-08-07T17:14:02.567",
+        "created": "2018-08-07T17:14:02.567",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.11:*:*:*:*:*:*:*",
+        "cpeNameId": "1036F77B-CC12-4708-9456-2964EE3604E4",
+        "lastModified": "2018-08-07T17:14:02.753",
+        "created": "2018-08-07T17:14:02.753",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.12:*:*:*:*:*:*:*",
+        "cpeNameId": "11D67C89-9BD6-4F35-B820-080199E13AA2",
+        "lastModified": "2018-08-07T17:14:02.910",
+        "created": "2018-08-07T17:14:02.910",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.13:*:*:*:*:*:*:*",
+        "cpeNameId": "ADF26AA1-3E7E-4BB0-A5F0-D6DF87A4ACB8",
+        "lastModified": "2018-08-07T17:14:03.097",
+        "created": "2018-08-07T17:14:03.097",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.14:*:*:*:*:*:*:*",
+        "cpeNameId": "18AFA9A7-C791-4B9A-9F36-C5EC60FD2F92",
+        "lastModified": "2018-08-07T17:14:03.300",
+        "created": "2018-08-07T17:14:03.300",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.15:*:*:*:*:*:*:*",
+        "cpeNameId": "1E62ACA1-F057-433B-A8AD-24833BE6B132",
+        "lastModified": "2018-08-07T17:14:03.457",
+        "created": "2018-08-07T17:14:03.457",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.16:*:*:*:*:*:*:*",
+        "cpeNameId": "5283890F-7B9E-4B0B-90E2-A4915A54277B",
+        "lastModified": "2018-08-07T17:14:03.597",
+        "created": "2018-08-07T17:14:03.597",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.17:*:*:*:*:*:*:*",
+        "cpeNameId": "B6BA3EA1-C649-458A-94AF-26639691CDAB",
+        "lastModified": "2018-08-07T17:14:03.737",
+        "created": "2018-08-07T17:14:03.737",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.18:*:*:*:*:*:*:*",
+        "cpeNameId": "CA287EC4-07B9-4B45-B450-F6D12E2A74A0",
+        "lastModified": "2018-08-07T17:14:03.863",
+        "created": "2018-08-07T17:14:03.863",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.18",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F3823473-53DF-46D1-8A28-9F9041E14D4D",
+        "lastModified": "2020-06-22T19:55:14.643",
+        "created": "2018-08-07T17:14:04.003",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redislabs:redis:2.6.0:-:*:*:*:*:*:*",
+            "cpeNameId": "727471ED-B429-4A00-9573-89CDD1E0D9AE"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.0:rc1:*:*:*:*:*:*",
+        "cpeNameId": "08DD660B-589A-4A35-B39B-EC52BB6FC40D",
+        "lastModified": "2018-08-07T17:14:04.160",
+        "created": "2018-08-07T17:14:04.160",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.0 Release Candidate 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.0:rc2:*:*:*:*:*:*",
+        "cpeNameId": "22FD5BD9-0522-4797-B840-23FC0CB2F674",
+        "lastModified": "2018-08-07T17:14:04.300",
+        "created": "2018-08-07T17:14:04.300",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.0 Release Candidate 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.0:rc3:*:*:*:*:*:*",
+        "cpeNameId": "FDA2E82C-07A7-4796-925B-F4AA519D978D",
+        "lastModified": "2018-08-07T17:14:04.440",
+        "created": "2018-08-07T17:14:04.440",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.0 Release Candidate 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.0:rc4:*:*:*:*:*:*",
+        "cpeNameId": "B7459660-5A2D-4B42-9CC8-0453C60F1CB1",
+        "lastModified": "2018-08-07T17:14:04.643",
+        "created": "2018-08-07T17:14:04.643",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.0 Release Candidate 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.0:rc5:*:*:*:*:*:*",
+        "cpeNameId": "EC9CAEDC-29B8-4F39-95C8-9D60A87B2186",
+        "lastModified": "2018-08-07T17:14:04.800",
+        "created": "2018-08-07T17:14:04.800",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.0 Release Candidate 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.0:rc6:*:*:*:*:*:*",
+        "cpeNameId": "81C1B795-2285-468A-9B5B-D8BE2BC66EA7",
+        "lastModified": "2018-08-07T17:14:04.957",
+        "created": "2018-08-07T17:14:04.957",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.0 Release Candidate 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.0:rc7:*:*:*:*:*:*",
+        "cpeNameId": "82ED023D-9FDD-4994-A11E-89225A5AED00",
+        "lastModified": "2018-08-07T17:14:05.127",
+        "created": "2018-08-07T17:14:05.127",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.0 Release Candidate 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.0:rc8:*:*:*:*:*:*",
+        "cpeNameId": "0A854D9E-9573-4404-B11B-71856D1F95FE",
+        "lastModified": "2018-08-07T17:14:05.300",
+        "created": "2018-08-07T17:14:05.300",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.0 Release Candidate 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "1C2D31F9-4A07-4E03-912B-90363164B14B",
+        "lastModified": "2018-08-07T17:14:05.473",
+        "created": "2018-08-07T17:14:05.473",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "4946594B-7059-4D68-8083-5DF2995DCB3C",
+        "lastModified": "2018-08-07T17:14:05.627",
+        "created": "2018-08-07T17:14:05.627",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.3:*:*:*:*:*:*:*",
+        "cpeNameId": "66970EDC-03AD-4269-B78F-30A474C8B268",
+        "lastModified": "2018-08-07T17:14:05.800",
+        "created": "2018-08-07T17:14:05.800",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.4:*:*:*:*:*:*:*",
+        "cpeNameId": "F4BBA9F9-16D2-4FA9-8FDA-56322D3ECD13",
+        "lastModified": "2018-08-07T17:14:05.973",
+        "created": "2018-08-07T17:14:05.973",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.5:*:*:*:*:*:*:*",
+        "cpeNameId": "F0BD1D89-AE0A-4AA6-A026-662C2119BDB5",
+        "lastModified": "2018-08-07T17:14:06.160",
+        "created": "2018-08-07T17:14:06.160",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.6:*:*:*:*:*:*:*",
+        "cpeNameId": "3E344274-EA8C-48F3-9E21-9FF08105120E",
+        "lastModified": "2018-08-07T17:14:06.363",
+        "created": "2018-08-07T17:14:06.363",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.7:*:*:*:*:*:*:*",
+        "cpeNameId": "7C64FEB8-9138-43AD-85B3-B6B475DE1FFE",
+        "lastModified": "2018-08-07T17:14:06.533",
+        "created": "2018-08-07T17:14:06.533",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.7-1:*:*:*:*:*:*:*",
+        "cpeNameId": "E50B2E19-9AE2-40F8-9E48-E1048A75A2A0",
+        "lastModified": "2018-08-07T17:14:06.707",
+        "created": "2018-08-07T17:14:06.707",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.7-1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.8:*:*:*:*:*:*:*",
+        "cpeNameId": "FA15E003-08B2-493E-A8D3-C2944DBF1559",
+        "lastModified": "2018-08-07T17:14:06.877",
+        "created": "2018-08-07T17:14:06.877",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.8-1:*:*:*:*:*:*:*",
+        "cpeNameId": "789C9138-E6EC-4FBA-AF8F-27E0A9A9DC99",
+        "lastModified": "2018-08-07T17:14:07.067",
+        "created": "2018-08-07T17:14:07.067",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.8-1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.9:*:*:*:*:*:*:*",
+        "cpeNameId": "30CB8CC6-5163-4C66-876C-FD9F2A4B56E9",
+        "lastModified": "2018-08-07T17:14:07.237",
+        "created": "2018-08-07T17:14:07.237",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.9-1:*:*:*:*:*:*:*",
+        "cpeNameId": "11438E0E-2E25-4E20-864A-7B8F3D25F951",
+        "lastModified": "2018-08-07T17:14:07.440",
+        "created": "2018-08-07T17:14:07.440",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.9-1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.10:*:*:*:*:*:*:*",
+        "cpeNameId": "1254362F-87BD-4E88-9B6E-341B6AF863A6",
+        "lastModified": "2018-08-07T17:14:07.613",
+        "created": "2018-08-07T17:14:07.613",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.10-1:*:*:*:*:*:*:*",
+        "cpeNameId": "5244CF06-D3E3-4D10-BC6D-7848A6CD2D58",
+        "lastModified": "2018-08-07T17:14:07.787",
+        "created": "2018-08-07T17:14:07.787",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.10-1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.10-2:*:*:*:*:*:*:*",
+        "cpeNameId": "CD8409B2-8467-47E3-8B4B-FBB62219A8FE",
+        "lastModified": "2018-08-07T17:14:07.973",
+        "created": "2018-08-07T17:14:07.973",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.10-2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.10-3:*:*:*:*:*:*:*",
+        "cpeNameId": "F0549C95-7E6F-470A-BA56-734951A8EB95",
+        "lastModified": "2018-08-07T17:14:08.143",
+        "created": "2018-08-07T17:14:08.143",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.10-3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.11:*:*:*:*:*:*:*",
+        "cpeNameId": "03634D79-E366-49DD-98E2-C0BCC0CCFD93",
+        "lastModified": "2018-08-07T17:14:08.347",
+        "created": "2018-08-07T17:14:08.347",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.12:*:*:*:*:*:*:*",
+        "cpeNameId": "1DD405AB-F988-4619-87BF-3FA2E6A35B76",
+        "lastModified": "2018-08-07T17:14:08.520",
+        "created": "2018-08-07T17:14:08.520",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.13:*:*:*:*:*:*:*",
+        "cpeNameId": "E97A9336-405B-4D8D-98BE-F81904FBEE5E",
+        "lastModified": "2018-08-07T17:14:08.707",
+        "created": "2018-08-07T17:14:08.707",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.14:*:*:*:*:*:*:*",
+        "cpeNameId": "3EAAE199-2020-4289-8123-24AA84F99E09",
+        "lastModified": "2018-08-07T17:14:08.877",
+        "created": "2018-08-07T17:14:08.877",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.14-1:*:*:*:*:*:*:*",
+        "cpeNameId": "E6A794C2-EAFD-4F87-B3EE-646FD8B3C5F1",
+        "lastModified": "2018-08-07T17:14:09.067",
+        "created": "2018-08-07T17:14:09.067",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.14-1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.14-2:*:*:*:*:*:*:*",
+        "cpeNameId": "0A157B16-C49E-423F-89D7-2C022E3304FC",
+        "lastModified": "2018-08-07T17:14:09.237",
+        "created": "2018-08-07T17:14:09.237",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.14-2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.15:*:*:*:*:*:*:*",
+        "cpeNameId": "4ABEA964-DD3F-44E3-9A26-1BA62749597A",
+        "lastModified": "2018-08-07T17:14:09.457",
+        "created": "2018-08-07T17:14:09.457",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.16:*:*:*:*:*:*:*",
+        "cpeNameId": "8EC0DBDF-9CFA-4135-9C65-F00CB3F74B5A",
+        "lastModified": "2018-08-07T17:14:09.643",
+        "created": "2018-08-07T17:14:09.643",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.17:*:*:*:*:*:*:*",
+        "cpeNameId": "517DDD04-0AF4-4644-8761-286588BF0CFC",
+        "lastModified": "2018-08-07T17:14:09.833",
+        "created": "2018-08-07T17:14:09.833",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.0:rc1:*:*:*:*:*:*",
+        "cpeNameId": "12EFA996-914B-4996-81C4-ABC7E6832249",
+        "lastModified": "2018-08-07T17:14:10.020",
+        "created": "2018-08-07T17:14:10.020",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.0 Release Candidate 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.0:rc2:*:*:*:*:*:*",
+        "cpeNameId": "1E4F1B67-7AA8-411A-B3ED-CBAC872318A0",
+        "lastModified": "2018-08-07T17:14:10.207",
+        "created": "2018-08-07T17:14:10.207",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.0 Release Candidate 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.0:rc3:*:*:*:*:*:*",
+        "cpeNameId": "78A3AADF-BBE8-4E4B-AF15-2D1D4ADDA97A",
+        "lastModified": "2018-08-07T17:14:10.457",
+        "created": "2018-08-07T17:14:10.457",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.0 Release Candidate 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.0:rc4:*:*:*:*:*:*",
+        "cpeNameId": "ECC7BD1B-6B92-4C7B-8CF0-20763AC3E971",
+        "lastModified": "2018-08-07T17:14:10.643",
+        "created": "2018-08-07T17:14:10.643",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.0 Release Candidate 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.0:rc5:*:*:*:*:*:*",
+        "cpeNameId": "64AA5888-1FFD-4226-BECB-CDFF1F181B3D",
+        "lastModified": "2018-08-07T17:14:10.833",
+        "created": "2018-08-07T17:14:10.833",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.0 Release Candidate 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.0:rc6:*:*:*:*:*:*",
+        "cpeNameId": "943979D8-5A2D-4B44-B82B-2A13575D850D",
+        "lastModified": "2018-08-07T17:14:11.020",
+        "created": "2018-08-07T17:14:11.020",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.0 Release Candidate 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.1:*:*:*:*:*:*:*",
+        "cpeNameId": "787A111C-A49E-4014-864C-B92B59A10DEF",
+        "lastModified": "2018-08-07T17:14:11.207",
+        "created": "2018-08-07T17:14:11.207",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.2:*:*:*:*:*:*:*",
+        "cpeNameId": "23749E6F-6A8B-446F-9A32-0458C46CCDC0",
+        "lastModified": "2018-08-07T17:14:11.427",
+        "created": "2018-08-07T17:14:11.427",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.3:*:*:*:*:*:*:*",
+        "cpeNameId": "22690D19-0F5D-4B79-8020-F787CD9E9E15",
+        "lastModified": "2018-08-07T17:14:11.613",
+        "created": "2018-08-07T17:14:11.613",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.4:*:*:*:*:*:*:*",
+        "cpeNameId": "EF094093-7EE1-462D-8B7A-C54954CCCE85",
+        "lastModified": "2018-08-07T17:14:11.817",
+        "created": "2018-08-07T17:14:11.817",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.5:*:*:*:*:*:*:*",
+        "cpeNameId": "1F5988A2-A4E1-4A8A-AC05-7019AC846688",
+        "lastModified": "2018-08-07T17:14:12.003",
+        "created": "2018-08-07T17:14:12.003",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.6:*:*:*:*:*:*:*",
+        "cpeNameId": "6D68C392-DDDA-4317-8518-C2F4256B9790",
+        "lastModified": "2018-08-07T17:14:12.207",
+        "created": "2018-08-07T17:14:12.207",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.7:*:*:*:*:*:*:*",
+        "cpeNameId": "53E9E1BF-75DE-495F-91E0-F2F98C59C1C9",
+        "lastModified": "2018-08-07T17:14:12.393",
+        "created": "2018-08-07T17:14:12.393",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.8:*:*:*:*:*:*:*",
+        "cpeNameId": "4829195B-6509-46EB-B528-63275E2B94A1",
+        "lastModified": "2018-08-07T17:14:12.677",
+        "created": "2018-08-07T17:14:12.677",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.9:*:*:*:*:*:*:*",
+        "cpeNameId": "9C5166D7-C86F-4063-A82A-900CABE1F2CA",
+        "lastModified": "2018-08-07T17:14:13.020",
+        "created": "2018-08-07T17:14:13.020",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.10:*:*:*:*:*:*:*",
+        "cpeNameId": "9D27301C-C03B-41A1-98AF-49194569C4B0",
+        "lastModified": "2018-08-07T17:14:13.287",
+        "created": "2018-08-07T17:14:13.287",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.11:*:*:*:*:*:*:*",
+        "cpeNameId": "728A724F-79E3-42FF-9549-8C075D48643E",
+        "lastModified": "2018-08-07T17:14:13.487",
+        "created": "2018-08-07T17:14:13.487",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.12:*:*:*:*:*:*:*",
+        "cpeNameId": "11E58F98-CDF4-423A-95B0-63693948F163",
+        "lastModified": "2018-08-07T17:14:13.690",
+        "created": "2018-08-07T17:14:13.690",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.13:*:*:*:*:*:*:*",
+        "cpeNameId": "920560DB-7740-4F52-A5A4-C9FF279A5588",
+        "lastModified": "2018-08-07T17:14:13.893",
+        "created": "2018-08-07T17:14:13.893",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.14:*:*:*:*:*:*:*",
+        "cpeNameId": "31686C28-B83F-497D-8CB3-69127E8CD6BE",
+        "lastModified": "2018-08-07T17:14:14.083",
+        "created": "2018-08-07T17:14:14.083",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.15:*:*:*:*:*:*:*",
+        "cpeNameId": "A11F8B08-B91B-4C52-88CC-66B565A54979",
+        "lastModified": "2018-08-07T17:14:14.287",
+        "created": "2018-08-07T17:14:14.287",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.16:*:*:*:*:*:*:*",
+        "cpeNameId": "B12A96C4-671A-4C97-8C99-5D06A04B4EC1",
+        "lastModified": "2018-08-07T17:14:14.503",
+        "created": "2018-08-07T17:14:14.503",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.17:*:*:*:*:*:*:*",
+        "cpeNameId": "57754469-A00D-4D9C-8D21-C37D4D99D4D1",
+        "lastModified": "2018-08-07T17:14:14.707",
+        "created": "2018-08-07T17:14:14.707",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.18:*:*:*:*:*:*:*",
+        "cpeNameId": "5A868073-8C9A-4297-A5A6-89721994CE82",
+        "lastModified": "2018-08-07T17:14:14.927",
+        "created": "2018-08-07T17:14:14.927",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.18",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.19:*:*:*:*:*:*:*",
+        "cpeNameId": "0ED1935F-4609-41AA-8987-EA5BDA97819E",
+        "lastModified": "2018-08-07T17:14:15.160",
+        "created": "2018-08-07T17:14:15.160",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.19",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.20:*:*:*:*:*:*:*",
+        "cpeNameId": "33625B8B-3628-4E97-9388-B776B6304237",
+        "lastModified": "2018-08-07T17:14:15.363",
+        "created": "2018-08-07T17:14:15.363",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.21:*:*:*:*:*:*:*",
+        "cpeNameId": "1353EA72-0217-4CA0-89EA-1B001EE03015",
+        "lastModified": "2018-08-07T17:14:15.597",
+        "created": "2018-08-07T17:14:15.597",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.22:*:*:*:*:*:*:*",
+        "cpeNameId": "8FEB723D-D5D4-4BD6-BBE1-BE864359C6D8",
+        "lastModified": "2018-08-07T17:14:15.800",
+        "created": "2018-08-07T17:14:15.800",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.22",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0:alpha0:*:*:*:*:*:*",
+        "cpeNameId": "4B80AACF-1060-43B1-8AE3-AE5BA4F22F84",
+        "lastModified": "2018-08-07T17:14:15.987",
+        "created": "2018-08-07T17:14:15.987",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0 Alpha 0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:beta1:*:*:*:*:*:*",
+        "cpeNameId": "E5B59C2C-BB10-482D-90BF-051AB45247AE",
+        "lastModified": "2018-08-07T17:14:16.207",
+        "created": "2018-08-07T17:14:16.207",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Beta 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:beta2:*:*:*:*:*:*",
+        "cpeNameId": "FA4FAD18-A22C-4AFF-9B2F-281F543F49BD",
+        "lastModified": "2018-08-07T17:14:16.457",
+        "created": "2018-08-07T17:14:16.457",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Beta 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:beta3:*:*:*:*:*:*",
+        "cpeNameId": "1FC7EB3B-86F0-4CFA-9879-8F53BF28ABD1",
+        "lastModified": "2018-08-07T17:14:16.660",
+        "created": "2018-08-07T17:14:16.660",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Beta 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:beta4:*:*:*:*:*:*",
+        "cpeNameId": "2A17CF02-11D6-4A3D-8B23-93C85EC5A453",
+        "lastModified": "2018-08-07T17:14:16.880",
+        "created": "2018-08-07T17:14:16.880",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Beta 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:beta5:*:*:*:*:*:*",
+        "cpeNameId": "25667DC2-A1FB-43AA-83BB-345F57B141D3",
+        "lastModified": "2018-08-07T17:14:17.097",
+        "created": "2018-08-07T17:14:17.097",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Beta 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:beta6:*:*:*:*:*:*",
+        "cpeNameId": "BD5503B8-5D68-4B9E-B932-576D138026AB",
+        "lastModified": "2018-08-07T17:14:17.317",
+        "created": "2018-08-07T17:14:17.317",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Beta 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:beta7:*:*:*:*:*:*",
+        "cpeNameId": "58B94B9B-46A8-4ECC-B56D-A28E56B46802",
+        "lastModified": "2018-08-07T17:14:17.583",
+        "created": "2018-08-07T17:14:17.583",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Beta 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:beta8:*:*:*:*:*:*",
+        "cpeNameId": "2DB28A95-7691-44F1-8D1B-29B1DD550002",
+        "lastModified": "2018-08-07T17:14:17.800",
+        "created": "2018-08-07T17:14:17.800",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Beta 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:rc1:*:*:*:*:*:*",
+        "cpeNameId": "B71DBB9D-167A-49EC-BCA1-D96ECB4A4AF7",
+        "lastModified": "2018-08-07T17:14:18.020",
+        "created": "2018-08-07T17:14:18.020",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Release Candidate 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:rc2:*:*:*:*:*:*",
+        "cpeNameId": "1940611C-F799-4A0E-9993-C6A4EED4617A",
+        "lastModified": "2018-08-07T17:14:18.253",
+        "created": "2018-08-07T17:14:18.253",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Release Candidate 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:rc3:*:*:*:*:*:*",
+        "cpeNameId": "028191D1-07F3-4A35-910C-3C57C548EFB1",
+        "lastModified": "2018-08-07T17:14:18.457",
+        "created": "2018-08-07T17:14:18.457",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Release Candidate 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:rc4:*:*:*:*:*:*",
+        "cpeNameId": "B85CA8ED-BFEB-40C1-83A5-A1DE1B69B471",
+        "lastModified": "2018-08-07T17:14:18.677",
+        "created": "2018-08-07T17:14:18.677",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Release Candidate 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:rc5:*:*:*:*:*:*",
+        "cpeNameId": "343087D4-AD1C-475E-B0C3-481B41C80FA1",
+        "lastModified": "2018-08-07T17:14:18.880",
+        "created": "2018-08-07T17:14:18.880",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Release Candidate 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:rc6:*:*:*:*:*:*",
+        "cpeNameId": "6B70BEA8-2890-4F1F-AF70-4FB2D2593F78",
+        "lastModified": "2018-08-07T17:14:19.083",
+        "created": "2018-08-07T17:14:19.083",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0 Release Candidate 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "1F37826E-3CD6-4B29-A509-46A4837848A4",
+        "lastModified": "2018-08-07T17:14:19.300",
+        "created": "2018-08-07T17:14:19.300",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.3:*:*:*:*:*:*:*",
+        "cpeNameId": "2AA7E917-7301-43BE-BBCB-440A0DD116D9",
+        "lastModified": "2018-08-07T17:14:19.520",
+        "created": "2018-08-07T17:14:19.520",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "ED9F0BFE-44F4-47D2-838F-625A8934E450",
+        "lastModified": "2018-08-07T17:14:19.740",
+        "created": "2018-08-07T17:14:19.740",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.13:*:*:*:*:*:*:*",
+        "cpeNameId": "BCDA0159-1F6E-41A1-A2B8-823D0A5DF644",
+        "lastModified": "2019-07-12T16:32:24.023",
+        "created": "2019-07-12T16:32:24.023",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.12:*:*:*:*:*:*:*",
+        "cpeNameId": "9C95012B-EBD5-4AD0-8070-6445838B532B",
+        "lastModified": "2019-07-12T16:32:24.210",
+        "created": "2019-07-12T16:32:24.210",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.13:*:*:*:*:*:*:*",
+        "cpeNameId": "AC9FA8BA-02C2-4C6E-82BF-14825B631C86",
+        "lastModified": "2019-07-12T16:32:24.337",
+        "created": "2019-07-12T16:32:24.337",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0.14:*:*:*:*:*:*:*",
+        "cpeNameId": "DDC1F4AC-EA9A-4A2F-9543-A13900C0B6F4",
+        "lastModified": "2019-07-12T16:32:24.447",
+        "created": "2019-07-12T16:32:24.447",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0:-:*:*:*:*:*:*",
+        "cpeNameId": "BBEB5942-43B8-4A18-9A59-3E66E34A4F99",
+        "lastModified": "2019-07-12T16:32:24.663",
+        "created": "2019-07-12T16:32:24.663",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0:rc5:*:*:*:*:*:*",
+        "cpeNameId": "27DCFA98-B41D-49BE-84BE-0F03975ED61A",
+        "lastModified": "2019-07-12T16:32:24.773",
+        "created": "2019-07-12T16:32:24.773",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0 Release Candidate 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0:rc6:*:*:*:*:*:*",
+        "cpeNameId": "8F1776F8-7EB3-40E5-9F4E-165253A7C1FD",
+        "lastModified": "2019-07-12T16:32:24.883",
+        "created": "2019-07-12T16:32:24.883",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0 Release Candidate 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "6BDC858C-2D7D-4192-9E8B-FFBA4C1FC79B",
+        "lastModified": "2019-07-12T16:32:24.993",
+        "created": "2019-07-12T16:32:24.993",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "02BF4F32-D009-4062-A0EC-BF9BD0303639",
+        "lastModified": "2019-07-12T16:32:25.117",
+        "created": "2019-07-12T16:32:25.117",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.3:*:*:*:*:*:*:*",
+        "cpeNameId": "781CCBB1-A6F9-40C6-B37E-750A49D4A7FD",
+        "lastModified": "2019-07-12T16:32:25.227",
+        "created": "2019-07-12T16:32:25.227",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "8433F9CB-A98F-4E07-96E5-5D115858A569",
+        "lastModified": "2019-07-12T16:32:25.353",
+        "created": "2019-07-12T16:32:25.353",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.5:*:*:*:*:*:*:*",
+        "cpeNameId": "0300D613-9B4D-47AD-9E65-8F6FE848E79D",
+        "lastModified": "2019-07-12T16:32:25.460",
+        "created": "2019-07-12T16:32:25.460",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2:-:*:*:*:*:*:*",
+        "cpeNameId": "FA347D30-8D47-4E9F-97E8-D4CF836B7B41",
+        "lastModified": "2019-10-03T20:02:36.867",
+        "created": "2019-10-03T20:02:36.867",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:4.0:-:*:*:*:*:*:*",
+        "cpeNameId": "BD48E0C1-6908-4E9D-BB61-68F4927CF6F5",
+        "lastModified": "2019-10-03T20:02:37.040",
+        "created": "2019-10-03T20:02:37.040",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E7A26EC0-DCEE-45B6-9C8D-6BC06DF542CC",
+        "lastModified": "2019-10-03T20:02:37.150",
+        "created": "2019-10-03T20:02:37.150",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.6:*:*:*:*:*:*:*",
+        "cpeNameId": "EAFD9856-BA6B-4A23-83A8-0B16E5586A37",
+        "lastModified": "2020-06-22T19:45:20.283",
+        "created": "2020-06-22T19:45:20.283",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.7:*:*:*:*:*:*:*",
+        "cpeNameId": "C7939499-8E3D-4968-8369-3B5314B4A216",
+        "lastModified": "2020-06-22T19:45:20.597",
+        "created": "2020-06-22T19:45:20.597",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "8C12CCEA-493E-4A60-A03E-83F8E3268F6F",
+        "lastModified": "2020-06-22T19:45:20.643",
+        "created": "2020-06-22T19:45:20.643",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "8A8F652E-16C2-4C19-8DE8-C265C665B6BA",
+        "lastModified": "2020-06-22T19:45:20.690",
+        "created": "2020-06-22T19:45:20.690",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0:-:*:*:*:*:*:*",
+        "cpeNameId": "0B418F73-A944-489C-AFA8-12DBFD813507",
+        "lastModified": "2020-06-22T19:45:20.753",
+        "created": "2020-06-22T19:45:20.753",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0:rc1:*:*:*:*:*:*",
+        "cpeNameId": "3BF0B2A0-6520-4200-8380-D2331D35C686",
+        "lastModified": "2020-06-22T19:45:20.817",
+        "created": "2020-06-22T19:45:20.817",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0 Release Candidate 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0:rc2:*:*:*:*:*:*",
+        "cpeNameId": "4BDD7248-D0F9-49AF-B903-2F38F7050D6B",
+        "lastModified": "2020-06-22T19:45:20.893",
+        "created": "2020-06-22T19:45:20.893",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0 Release Candidate 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0:rc3:*:*:*:*:*:*",
+        "cpeNameId": "ACE052DF-6F49-463B-96FF-8B4DD9163ECA",
+        "lastModified": "2020-06-22T19:45:20.957",
+        "created": "2020-06-22T19:45:20.957",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0 Release Candidate 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0:rc4:*:*:*:*:*:*",
+        "cpeNameId": "EC574F44-3035-48D8-91E3-9701428B6D4B",
+        "lastModified": "2020-06-22T19:45:21.033",
+        "created": "2020-06-22T19:45:21.033",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0 Release Candidate 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "28325735-69DD-4E9A-9C07-75517A907D86",
+        "lastModified": "2020-06-22T19:45:21.097",
+        "created": "2020-06-22T19:45:21.097",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "041A3F04-B8B7-4DAD-A8ED-27CE8E047019",
+        "lastModified": "2020-06-22T19:45:21.173",
+        "created": "2020-06-22T19:45:21.173",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "006C418A-D49F-4433-82BE-6DF024064286",
+        "lastModified": "2020-06-22T19:45:21.253",
+        "created": "2020-06-22T19:45:21.253",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.3:*:*:*:*:*:*:*",
+        "cpeNameId": "18D9B37B-6801-4BF8-B5F5-8185B9001F94",
+        "lastModified": "2020-06-22T19:45:21.347",
+        "created": "2020-06-22T19:45:21.347",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "BA527661-E571-4EBE-A6D4-3679972C838F",
+        "lastModified": "2020-06-22T19:45:21.423",
+        "created": "2020-06-22T19:45:21.423",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.5:*:*:*:*:*:*:*",
+        "cpeNameId": "A286BC3C-C987-4EE0-AEB7-19E5BFC069D8",
+        "lastModified": "2020-06-22T19:45:21.517",
+        "created": "2020-06-22T19:45:21.517",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.4.0:-:*:*:*:*:*:*",
+        "cpeNameId": "82605E8A-718E-4B8A-B825-9A3A7492A013",
+        "lastModified": "2020-06-22T19:55:13.707",
+        "created": "2020-06-22T19:55:13.707",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.6.0:-:*:*:*:*:*:*",
+        "cpeNameId": "727471ED-B429-4A00-9573-89CDD1E0D9AE",
+        "lastModified": "2020-06-22T19:55:13.863",
+        "created": "2020-06-22T19:55:13.863",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.8.0:-:*:*:*:*:*:*",
+        "cpeNameId": "C9BBE20E-D2E8-49B2-B703-7835F9A81747",
+        "lastModified": "2020-06-22T19:55:13.940",
+        "created": "2020-06-22T19:55:13.940",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.0.0:-:*:*:*:*:*:*",
+        "cpeNameId": "25E039FB-498A-4C5C-A24B-67BEFC216990",
+        "lastModified": "2020-06-22T19:55:14.020",
+        "created": "2020-06-22T19:55:14.020",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:3.2.0:-:*:*:*:*:*:*",
+        "cpeNameId": "493FF9D4-9A92-4C28-AB0A-C0B22C32EA67",
+        "lastModified": "2020-06-22T19:55:14.127",
+        "created": "2020-06-22T19:55:14.127",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 3.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.10:*:*:*:*:*:*:*",
+        "cpeNameId": "A28B59F7-7CF5-46DD-97CD-217F3A631B82",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:02:54.183",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.11:*:*:*:*:*:*:*",
+        "cpeNameId": "6E4EA58A-E23E-4B1F-9FBE-61F45845D825",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:02:54.183",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.12:*:*:*:*:*:*:*",
+        "cpeNameId": "D332E19A-520D-46F6-BA16-FC84DEA5D9AE",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:02:54.183",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.6:*:*:*:*:*:*:*",
+        "cpeNameId": "7E5D7BBD-4C2F-4ABE-820B-59AAF122F827",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:04:03.560",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.7:*:*:*:*:*:*:*",
+        "cpeNameId": "B3429517-1DA0-4598-AF81-B9F400F27EFE",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:04:03.560",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "DEB13686-BEC9-424B-BB04-967C16A95FCE",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:04:03.560",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "4919B6BF-46D4-4D17-BECB-51058E70728B",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:04:03.560",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.10:*:*:*:*:*:*:*",
+        "cpeNameId": "44ED5219-E7DC-42E0-9075-BBA7F448AF4F",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:04:03.560",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.11:*:*:*:*:*:*:*",
+        "cpeNameId": "DD34C354-76C3-44D7-9A7F-3EF0875AE262",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:04:03.560",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.12:*:*:*:*:*:*:*",
+        "cpeNameId": "DA1CCAE3-A5BE-404B-9363-3D6E1139886C",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:04:03.560",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "2A5C25A5-E9DF-4D76-918D-DB6AD0EA10E8",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:04:03.560",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.2.0:rc1:*:*:*:*:*:*",
+        "cpeNameId": "2C5F3F1C-938F-4284-AD91-D5076E68E003",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:04:20.543",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.2.0 Release Candidate 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.2.0:rc2:*:*:*:*:*:*",
+        "cpeNameId": "C748BC36-4A9B-4B95-B12F-BB1F44D823FA",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:04:20.543",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.2.0 Release Candidate 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.2.0:rc3:*:*:*:*:*:*",
+        "cpeNameId": "4237516C-5645-4101-8C01-ED9F05D23625",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:04:20.543",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.2.0 Release Candidate 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.2.0:-:*:*:*:*:*:*",
+        "cpeNameId": "CD004F0D-9365-4C8C-B704-ECD3AFB5D28C",
+        "lastModified": "2021-03-15T17:36:09.490",
+        "created": "2021-03-02T14:04:20.543",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.13:*:*:*:*:*:*:*",
+        "cpeNameId": "419DFC43-B52F-42AC-A713-221D18756B4B",
+        "lastModified": "2021-08-11T13:40:58.710",
+        "created": "2021-07-27T15:48:32.397",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.15:*:*:*:*:*:*:*",
+        "cpeNameId": "EEF22489-8DA0-40F6-A2AF-43A99772AFD7",
+        "lastModified": "2021-08-11T13:40:58.710",
+        "created": "2021-07-27T15:48:37.120",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "593D661B-F35B-47BE-80CA-5829F9726291",
+        "lastModified": "2021-08-11T13:40:58.710",
+        "created": "2021-07-27T15:48:50.530",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "B7C95E6A-5615-425E-B3FE-EA709AD17A01",
+        "lastModified": "2021-08-11T13:40:58.710",
+        "created": "2021-07-27T15:48:50.530",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.2.3:*:*:*:*:*:*:*",
+        "cpeNameId": "F6107785-EA8D-4AA9-9181-268EC302CF84",
+        "lastModified": "2021-08-11T13:40:58.710",
+        "created": "2021-07-27T15:48:50.530",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.2.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.2.4:*:*:*:*:*:*:*",
+        "cpeNameId": "36966987-7A7A-4935-8682-E95219579322",
+        "lastModified": "2021-08-11T13:40:58.710",
+        "created": "2021-07-27T15:48:50.530",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.2.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:2.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "DC80E9F4-020E-4AFE-8F3F-B45E8CF0C050",
+        "lastModified": "2021-10-08T19:09:52.147",
+        "created": "2021-10-08T16:06:21.350",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 2.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:5.0.14:*:*:*:*:*:*:*",
+        "cpeNameId": "83155B98-23B2-4624-A014-EF488AF84900",
+        "lastModified": "2021-10-08T19:09:52.147",
+        "created": "2021-10-08T16:06:21.350",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 5.0.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.0.16:*:*:*:*:*:*:*",
+        "cpeNameId": "F238447D-0E0D-4172-A408-FA090211F403",
+        "lastModified": "2021-10-08T19:09:52.147",
+        "created": "2021-10-08T16:06:21.350",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.0.16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redislabs:redis:6.2.6:*:*:*:*:*:*:*",
+        "cpeNameId": "EDB6CD31-4DBA-4B93-BF2C-2BF7664D9F5B",
+        "lastModified": "2021-10-08T19:09:52.147",
+        "created": "2021-10-08T16:06:21.350",
+        "titles": [
+          {
+            "title": "Redis Labs Redis 6.2.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.0:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redislabs:redis:2.8.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.23:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.23",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.24:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.24",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redislabs:redis:3.0.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.5:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.6:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.7:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2:rc1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2 Release Candidate 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.0:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redislabs:redis:3.2.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.0:rc2:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.0 Release Candidate 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.0:rc3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.0 Release Candidate 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.3:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.4:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.5:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.6:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.7:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.8:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.9:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.10:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.11:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.12:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0:rc1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0 Release Candidate 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0:rc3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0 Release Candidate 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.0:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.3:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.4:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.5:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.6:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.7:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.8:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.9:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.10:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.11:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0:rc1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0 Release Candidate 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0:rc2:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0 Release Candidate 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0:rc3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0 Release Candidate 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0:rc4:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0 Release Candidate 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:1.3.6:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 1.3.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:1.3.7:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 1.3.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:1.3.8:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 1.3.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:1.3.9:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 1.3.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:1.3.10:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 1.3.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:1.3.11:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 1.3.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:1.3.12:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 1.3.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.0.0:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.0.0:rc1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.0.0 Release Candidate 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.0.0:rc1b:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.0.0 Release Candidate 1b",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.0.0:rc2:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.0.0 Release Candidate 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.0.0:rc3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.0.0 Release Candidate 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.0.0:rc4:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.0.0 Release Candidate 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.0.1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.0.2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.0.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.0.3:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.0.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.0.4:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.0.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.0.5:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.0.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.1.1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2:alpha0:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2 Alpha 0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2:alpha1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2 Alpha 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2:alpha2:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2 Alpha 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2:alpha3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2 Alpha 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2:alpha4:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2 Alpha 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2:alpha5:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2 Alpha 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2:alpha6:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2 Alpha 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.0:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.0:rc1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.0 Release Candidate 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.0:rc2:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.0 Release Candidate 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.0:rc3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.0 Release Candidate 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.0:rc4:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.0 Release Candidate 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.3:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.4:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.5:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.6:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.7:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.8:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.9:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.10:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.11:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.12:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.13:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.14:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.15:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.105:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.105",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.106:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.106",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.107:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.107",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.110:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.110",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.111:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.111",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.3:alpha0:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.3 Alpha 0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.0:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redislabs:redis:2.4.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.0:rc1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.0 Release Candidate 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.0:rc2:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.0 Release Candidate 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.0:rc3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.0 Release Candidate 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.0:rc4:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.0 Release Candidate 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.0:rc5:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.0 Release Candidate 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.0:rc6:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.0 Release Candidate 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.0:rc7:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.0 Release Candidate 7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.0:rc8:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.0 Release Candidate 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.3:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.4:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.5:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.6:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.7:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.8:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.9:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.10:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.11:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.12:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.13:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.14:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.15:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.16:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.16",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.17:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.18:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.18",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.0:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redislabs:redis:2.6.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.0:rc1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.0 Release Candidate 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.0:rc2:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.0 Release Candidate 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.0:rc3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.0 Release Candidate 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.0:rc4:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.0 Release Candidate 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.0:rc5:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.0 Release Candidate 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.0:rc6:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.0 Release Candidate 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.0:rc7:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.0 Release Candidate 7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.0:rc8:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.0 Release Candidate 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.3:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.4:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.5:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.6:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.7:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.7-1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.7-1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.8:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.8-1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.8-1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.9:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.9-1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.9-1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.10:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.10-1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.10-1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.10-2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.10-2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.10-3:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.10-3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.11:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.12:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.13:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.14:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.14-1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.14-1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.14-2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.14-2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.15:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.16:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.16",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.17:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.0:rc1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.0 Release Candidate 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.0:rc2:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.0 Release Candidate 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.0:rc3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.0 Release Candidate 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.0:rc4:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.0 Release Candidate 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.0:rc5:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.0 Release Candidate 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.0:rc6:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.0 Release Candidate 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.3:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.4:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.5:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.6:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.7:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.8:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.9:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.10:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.11:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.12:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.13:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.14:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.15:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.16:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.16",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.17:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.17",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.18:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.18",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.19:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.19",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.20:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.21:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.21",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.22:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.22",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0:alpha0:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0 Alpha 0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:beta1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Beta 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:beta2:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Beta 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:beta3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Beta 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:beta4:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Beta 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:beta5:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Beta 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:beta6:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Beta 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:beta7:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Beta 7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:beta8:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Beta 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:rc1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Release Candidate 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:rc2:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Release Candidate 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:rc3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Release Candidate 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:rc4:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Release Candidate 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:rc5:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Release Candidate 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:rc6:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0 Release Candidate 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.3:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.4:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.13:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.12:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.13:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0.14:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0:-:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0:rc5:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0 Release Candidate 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0:rc6:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0 Release Candidate 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.3:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.4:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.5:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2:-:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:4.0:-:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.0:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.6:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.7:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.8:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.9:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0:-:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0:rc1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0 Release Candidate 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0:rc2:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0 Release Candidate 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0:rc3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0 Release Candidate 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0:rc4:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0 Release Candidate 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.0:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.3:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.4:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.5:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.4.0:-:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.6.0:-:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.8.0:-:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.0.0:-:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:3.2.0:-:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 3.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.10:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.11:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.12:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.6:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.7:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.8:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.9:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.10:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.11:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.12:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.2.1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.2.0:rc1:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.2.0 Release Candidate 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.2.0:rc2:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.2.0 Release Candidate 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.2.0:rc3:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.2.0 Release Candidate 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.2.0:-:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.13:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.15:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.2.5:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.2.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.2.2:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.2.3:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.2.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.2.4:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.2.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:2.2.1:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 2.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:5.0.14:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 5.0.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.0.16:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.0.16",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redislabs:redis:6.2.6:*:*:*:*:*:*:*",
+      "title": "Redis Labs Redis 6.2.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
