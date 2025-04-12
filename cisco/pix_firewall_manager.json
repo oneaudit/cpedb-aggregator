@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:pix_firewall_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DD1A8072-73C9-4367-87EC-496DEB61339D",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco PIX Firewall Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:pix_firewall_manager:4.3\\(2\\)g:*:*:*:*:*:*:*",
+        "cpeNameId": "DB3143D7-4013-4182-9696-E49F97D96C06",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco PIX Firewall Manager 4.3(2)g",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:pix_firewall_manager:-:*:*:*:*:*:*:*",
+      "title": "Cisco PIX Firewall Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:pix_firewall_manager:4.3\\(2\\)g:*:*:*:*:*:*:*",
+      "title": "Cisco PIX Firewall Manager 4.3(2)g",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

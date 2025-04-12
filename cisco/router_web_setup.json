@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:router_web_setup:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2B5995EE-4506-4361-BCEE-0534E62235DA",
+        "lastModified": "2008-04-01T14:41:36.417",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco Router Web Setup",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:router_web_setup:3.3.0_build_30:*:*:*:*:*:*:*",
+        "cpeNameId": "C783EF0C-7CC3-470A-BCB0-B97B2D85B8C5",
+        "lastModified": "2008-04-01T14:41:36.573",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Router Web Setup 3.3.0 build 30",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:router_web_setup:-:*:*:*:*:*:*:*",
+      "title": "Cisco Router Web Setup",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:router_web_setup:3.3.0_build_30:*:*:*:*:*:*:*",
+      "title": "Cisco Router Web Setup 3.3.0 build 30",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

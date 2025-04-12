@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_9372tx-e_firmware:13.2\\(3n\\):*:*:*:*:*:*:*",
+        "cpeNameId": "70F937FE-6D0B-432F-A1C6-1B63BA09D836",
+        "lastModified": "2021-09-23T14:39:21.787",
+        "created": "2021-09-01T14:58:35.620",
+        "titles": [
+          {
+            "title": "Cisco Nexus 9372TX-E Firmware 13.2(3n)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_9372tx-e_firmware:14.2\\(4i\\):*:*:*:*:*:*:*",
+        "cpeNameId": "DF3F711B-065A-4E94-81E2-7E0703EA2187",
+        "lastModified": "2021-09-23T14:39:21.787",
+        "created": "2021-09-01T14:58:35.620",
+        "titles": [
+          {
+            "title": "Cisco Nexus 9372TX-E Firmware 14.2(4i)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_9372tx-e_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F6B8FADE-D3B4-49A8-B5F4-02C152E8014E",
+        "lastModified": "2022-09-12T13:41:30.647",
+        "created": "2022-08-31T14:21:02.653",
+        "titles": [
+          {
+            "title": "Cisco Nexus 9372TX-E Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:nexus_9372tx-e_firmware:13.2\\(3n\\):*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 9372TX-E Firmware 13.2(3n)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:nexus_9372tx-e_firmware:14.2\\(4i\\):*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 9372TX-E Firmware 14.2(4i)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:nexus_9372tx-e_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 9372TX-E Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

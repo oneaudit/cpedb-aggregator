@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_93180yc-fx3s_firmware:13.2\\(3n\\):*:*:*:*:*:*:*",
+        "cpeNameId": "1496AAC3-0731-4BB0-8EB7-39642098BF6E",
+        "lastModified": "2021-09-23T14:39:21.787",
+        "created": "2021-09-01T14:58:35.620",
+        "titles": [
+          {
+            "title": "Cisco Nexus 93180YC-FX3S Firmware 13.2(3n)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_93180yc-fx3s_firmware:14.2\\(4i\\):*:*:*:*:*:*:*",
+        "cpeNameId": "8525BA66-CB14-4610-A399-B52EA3EC7F40",
+        "lastModified": "2021-09-23T14:39:21.787",
+        "created": "2021-09-01T14:58:35.620",
+        "titles": [
+          {
+            "title": "Cisco Nexus 93180YC-FX3S Firmware 14.2(4i)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_93180yc-fx3s_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D966FDC2-D41B-40E6-BC73-84C55586A20C",
+        "lastModified": "2022-09-12T13:41:30.647",
+        "created": "2022-08-31T14:21:02.653",
+        "titles": [
+          {
+            "title": "Cisco Nexus 93180YC-EX3S Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:nexus_93180yc-fx3s_firmware:13.2\\(3n\\):*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 93180YC-FX3S Firmware 13.2(3n)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:nexus_93180yc-fx3s_firmware:14.2\\(4i\\):*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 93180YC-FX3S Firmware 14.2(4i)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:nexus_93180yc-fx3s_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 93180YC-EX3S Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

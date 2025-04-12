@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:rv042_dual_wan_vpn:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2AF8F98C-2FB2-4A45-8A90-D0796A333ADB",
+        "lastModified": "2019-12-12T13:52:38.730",
+        "created": "2019-12-12T13:52:38.730",
+        "titles": [
+          {
+            "title": "Cisco RV042 Multi-WAN VPN",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:rv042_dual_wan_vpn:4.2.3.10:*:*:*:*:*:*:*",
+        "cpeNameId": "1A56650C-EDD6-4776-99DB-A4F5D8908C4A",
+        "lastModified": "2021-01-14T19:34:25.663",
+        "created": "2021-01-14T19:34:25.663",
+        "titles": [
+          {
+            "title": "Cisco RV042 Dual Wan VPN 4.2.3.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:rv042_dual_wan_vpn:-:*:*:*:*:*:*:*",
+      "title": "Cisco RV042 Multi-WAN VPN",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:rv042_dual_wan_vpn:4.2.3.10:*:*:*:*:*:*:*",
+      "title": "Cisco RV042 Dual Wan VPN 4.2.3.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

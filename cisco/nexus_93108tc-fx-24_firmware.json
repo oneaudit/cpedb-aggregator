@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_93108tc-fx-24_firmware:13.2\\(3n\\):*:*:*:*:*:*:*",
+        "cpeNameId": "484B8F02-AE25-4C9A-9610-FCDC096BDA1D",
+        "lastModified": "2021-09-23T14:39:21.787",
+        "created": "2021-09-01T14:58:35.620",
+        "titles": [
+          {
+            "title": "Cisco Nexus 93108TC-FX-24 Firmware 13.2(3n)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_93108tc-fx-24_firmware:14.2\\(4i\\):*:*:*:*:*:*:*",
+        "cpeNameId": "66275C19-7E68-487F-BCAA-5CF532CF318B",
+        "lastModified": "2021-09-23T14:39:21.787",
+        "created": "2021-09-01T14:58:35.620",
+        "titles": [
+          {
+            "title": "Cisco Nexus 93108TC-FX-24 Firmware 14.2(4i)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_93108tc-fx-24_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2F06ACA1-D42F-4ACD-B6EA-A1CD48FD1701",
+        "lastModified": "2022-09-12T13:41:30.647",
+        "created": "2022-08-31T14:21:02.653",
+        "titles": [
+          {
+            "title": "Cisco Nexus 93108TC-FX-24 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:nexus_93108tc-fx-24_firmware:13.2\\(3n\\):*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 93108TC-FX-24 Firmware 13.2(3n)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:nexus_93108tc-fx-24_firmware:14.2\\(4i\\):*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 93108TC-FX-24 Firmware 14.2(4i)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:nexus_93108tc-fx-24_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 93108TC-FX-24 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

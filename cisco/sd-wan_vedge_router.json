@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:sd-wan_vedge_router:-:*:*:*:*:*:*:*",
+        "cpeNameId": "82232BC4-4A54-4946-A301-A2C46D251F60",
+        "lastModified": "2022-11-04T18:01:13.700",
+        "created": "2022-04-26T01:37:41.863",
+        "titles": [
+          {
+            "title": "Cisco SD-WAN vEdge Router",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:sd-wan_vedge_router:20.7:*:*:*:*:*:*:*",
+        "cpeNameId": "A8578C34-2847-46E3-BFBA-5BF9F4466C3A",
+        "lastModified": "2023-06-28T03:53:43.813",
+        "created": "2022-05-12T05:55:01.393",
+        "titles": [
+          {
+            "title": "Cisco SD-WAV vEdge Router 20.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:sd-wan_vedge_router:-:*:*:*:*:*:*:*",
+      "title": "Cisco SD-WAN vEdge Router",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:sd-wan_vedge_router:20.7:*:*:*:*:*:*:*",
+      "title": "Cisco SD-WAV vEdge Router 20.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

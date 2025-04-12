@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_93180lc-ex_firmware:13.2\\(3n\\):*:*:*:*:*:*:*",
+        "cpeNameId": "A305DB23-1F3D-4696-BAC1-B7A2034A3C97",
+        "lastModified": "2021-09-23T14:39:21.787",
+        "created": "2021-09-01T14:58:35.620",
+        "titles": [
+          {
+            "title": "Cisco Nexus 93180LC-EX Firmware 13.2(3n)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_93180lc-ex_firmware:14.2\\(4i\\):*:*:*:*:*:*:*",
+        "cpeNameId": "7E165D0F-9728-4E39-A29E-CF32F47D4618",
+        "lastModified": "2021-09-23T14:39:21.787",
+        "created": "2021-09-01T14:58:35.620",
+        "titles": [
+          {
+            "title": "Cisco Nexus 93180LC-EX Firmware 14.2(4i)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_93180lc-ex_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "02DCB163-3AC3-4014-82FC-FA730AE1F6FE",
+        "lastModified": "2022-09-12T13:41:30.647",
+        "created": "2022-08-31T14:21:02.653",
+        "titles": [
+          {
+            "title": "Cisco Nexus 93180LC-EX Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:nexus_93180lc-ex_firmware:13.2\\(3n\\):*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 93180LC-EX Firmware 13.2(3n)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:nexus_93180lc-ex_firmware:14.2\\(4i\\):*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 93180LC-EX Firmware 14.2(4i)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:nexus_93180lc-ex_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 93180LC-EX Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

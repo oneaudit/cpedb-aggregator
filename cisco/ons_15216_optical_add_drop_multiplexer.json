@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:ons_15216_optical_add_drop_multiplexer:-:*:*:*:*:*:*:*",
+        "cpeNameId": "863231FD-69E3-4CD7-AB70-26F477C0F4F9",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco ONS 15216 Optical Add_Drop Multiplexer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:cisco:ons_15216_optical_add_drop_multiplexer:2.2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "30F9E03D-24F4-4FCA-9C5C-66C2AAE9E31A",
+        "lastModified": "2010-12-28T17:36:47.210",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco ONS 15216 Optical Add_Drop Multiplexer Software 2.2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:ons_15216_optical_add_drop_multiplexer_software:2.2.2:*:*:*:*:*:*:*",
+            "cpeNameId": "2550F6D5-AFB8-44A2-91F6-CB16BAFB7C87"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:ons_15216_optical_add_drop_multiplexer:-:*:*:*:*:*:*:*",
+      "title": "Cisco ONS 15216 Optical Add_Drop Multiplexer",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:ons_15216_optical_add_drop_multiplexer:2.2.2:*:*:*:*:*:*:*",
+      "title": "Cisco ONS 15216 Optical Add_Drop Multiplexer Software 2.2.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:ons_15216_optical_add_drop_multiplexer_software:2.2.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

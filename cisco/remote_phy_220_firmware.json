@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:remote_phy_220_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6B2F6CD8-12C4-4661-9126-04F3667E2A31",
+        "lastModified": "2021-04-28T18:52:32.810",
+        "created": "2019-09-03T16:57:01.880",
+        "titles": [
+          {
+            "title": "Cisco Remote PHY 220 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:remote_phy_220_firmware:3.1:*:*:*:*:*:*:*",
+        "cpeNameId": "354DE3AC-1025-47E2-8520-21457DC9628D",
+        "lastModified": "2021-04-28T18:52:32.810",
+        "created": "2019-09-03T16:57:01.880",
+        "titles": [
+          {
+            "title": "Cisco Remote PHY 220 Firmware 3.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:remote_phy_220_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco Remote PHY 220 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:remote_phy_220_firmware:3.1:*:*:*:*:*:*:*",
+      "title": "Cisco Remote PHY 220 Firmware 3.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

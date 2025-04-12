@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_9500_firmware:14.0\\(3d\\):*:*:*:*:*:*:*",
+        "cpeNameId": "75AF17B0-6C86-42DB-B1D3-8C357822F802",
+        "lastModified": "2021-04-21T19:44:42.820",
+        "created": "2019-05-04T03:34:00.903",
+        "titles": [
+          {
+            "title": "Cisco Nexus 9500 Firmware 14.0(3D)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_9500_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "27782990-D98C-46F7-89C2-7C1BDBED27DB",
+        "lastModified": "2022-09-12T13:41:30.647",
+        "created": "2022-08-31T14:21:02.653",
+        "titles": [
+          {
+            "title": "Cisco Nexus 9500 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:nexus_9500_firmware:14.0\\(3d\\):*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 9500 Firmware 14.0(3D)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:nexus_9500_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 9500 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

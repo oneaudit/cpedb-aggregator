@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:pix_private_link:-:*:*:*:*:*:*:*",
+        "cpeNameId": "76086A4E-75E4-4F9C-9E49-EC15B4D070C9",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco PIX Private Link",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:pix_private_link:4.1\\(6\\):*:*:*:*:*:*:*",
+        "cpeNameId": "E4DAFDC1-9A3E-47BE-AC2D-5C6CDB364F99",
+        "lastModified": "2008-06-17T17:50:32.687",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco PIX Private Link 4.1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:pix_private_link:-:*:*:*:*:*:*:*",
+      "title": "Cisco PIX Private Link",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:pix_private_link:4.1\\(6\\):*:*:*:*:*:*:*",
+      "title": "Cisco PIX Private Link 4.1.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E587B4FE-D74A-4667-90AF-347BEB17D2C4",
+        "lastModified": "2022-11-07T18:21:27.900",
+        "created": "2022-05-12T05:50:36.683",
+        "titles": [
+          {
+            "title": "SD-WAN vSmart Controller",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:20.8:*:*:*:*:*:*:*",
+        "cpeNameId": "F38A2962-5DE0-496D-B249-354EA15F6C7B",
+        "lastModified": "2022-10-04T18:15:55.733",
+        "created": "2022-10-03T13:11:24.690",
+        "titles": [
+          {
+            "title": "Cisco SD-WAN vSmart Controller 20.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:20.9:*:*:*:*:*:*:*",
+        "cpeNameId": "4F90AF1B-2D51-4B2D-AD1E-72EBA3240252",
+        "lastModified": "2022-10-04T18:15:55.733",
+        "created": "2022-10-03T16:52:03.413",
+        "titles": [
+          {
+            "title": "Cisco SD-WAN vSmart Controller 20.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:20.6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "72038B7A-10CB-4862-8B23-0A15868BCE2A",
+        "lastModified": "2022-10-04T18:15:55.733",
+        "created": "2022-10-03T16:54:11.197",
+        "titles": [
+          {
+            "title": "Cisco SD-WAN vSmart Controller 20.6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:-:*:*:*:*:*:*:*",
+      "title": "SD-WAN vSmart Controller",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:20.8:*:*:*:*:*:*:*",
+      "title": "Cisco SD-WAN vSmart Controller 20.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:20.9:*:*:*:*:*:*:*",
+      "title": "Cisco SD-WAN vSmart Controller 20.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:20.6.2:*:*:*:*:*:*:*",
+      "title": "Cisco SD-WAN vSmart Controller 20.6.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

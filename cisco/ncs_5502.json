@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:ncs_5502:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EB9BCC6B-3C77-48EC-BA71-B62F98D1CEB9",
+        "lastModified": "2020-02-03T20:05:12.450",
+        "created": "2020-02-03T20:05:12.450",
+        "titles": [
+          {
+            "title": "Cisco NCS 5502",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:cisco:ncs_5502:se:*:*:*:*:*:*:*",
+        "cpeNameId": "D7394043-903F-4F7C-B589-778E2ACE9362",
+        "lastModified": "2020-10-13T13:04:12.833",
+        "created": "2020-10-13T13:04:12.833",
+        "titles": [
+          {
+            "title": "Cisco NCS 5502 SE",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:cisco:ncs_5502:-:*:*:*:*:*:*:*",
+      "title": "Cisco NCS 5502",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:cisco:ncs_5502:se:*:*:*:*:*:*:*",
+      "title": "Cisco NCS 5502 SE",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

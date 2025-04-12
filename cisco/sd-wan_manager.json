@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cisco:sd-wan_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E6A7ED73-2351-4BA0-8649-A48334B7FB46",
+        "lastModified": "2023-10-06T16:24:48.177",
+        "created": "2023-09-29T15:03:40.167",
+        "titles": [
+          {
+            "title": "Cisco Sd-wan Manager ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "979D7323-61C6-4D08-8C9D-C2A54D9AB96A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:sd-wan_manager:-:*:*:*:*:*:*:*",
+      "title": "Cisco Sd-wan Manager ",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

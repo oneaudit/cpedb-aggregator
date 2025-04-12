@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:security_agent_management_center:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D374168E-FE87-4CF9-A161-132EF2E01A6B",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco Security Agent Management Center",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:security_agent_management_center:5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "5B88AEE9-188C-41A9-AB02-4C76992308BC",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Cisco Security Agent Management Center 5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:security_agent_management_center:-:*:*:*:*:*:*:*",
+      "title": "Cisco Security Agent Management Center",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:security_agent_management_center:5.1:*:*:*:*:*:*:*",
+      "title": "Cisco Security Agent Management Center 5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

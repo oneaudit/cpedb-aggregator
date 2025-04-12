@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_9000v_firmware:13.2\\(3n\\):*:*:*:*:*:*:*",
+        "cpeNameId": "7CC9FB1E-2A09-4574-9A8A-F89B9244FD71",
+        "lastModified": "2021-09-23T14:39:21.787",
+        "created": "2021-09-01T14:58:35.620",
+        "titles": [
+          {
+            "title": "Cisco Nexus 9000V Firmware 13.2(3n)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_9000v_firmware:14.2\\(4i\\):*:*:*:*:*:*:*",
+        "cpeNameId": "9B30E374-E120-490B-A00F-5E345B2114C5",
+        "lastModified": "2021-09-23T14:39:21.787",
+        "created": "2021-09-01T14:58:35.620",
+        "titles": [
+          {
+            "title": "Cisco v 9000V Firmware 14.2(4i)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:cisco:nexus_9000v_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B6C6698F-8531-4EED-9972-D91148345B02",
+        "lastModified": "2022-09-12T13:41:30.647",
+        "created": "2022-08-31T14:21:02.653",
+        "titles": [
+          {
+            "title": "Cisco Nexus 9000V Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:cisco:nexus_9000v_firmware:13.2\\(3n\\):*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 9000V Firmware 13.2(3n)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:nexus_9000v_firmware:14.2\\(4i\\):*:*:*:*:*:*:*",
+      "title": "Cisco v 9000V Firmware 14.2(4i)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:cisco:nexus_9000v_firmware:-:*:*:*:*:*:*:*",
+      "title": "Cisco Nexus 9000V Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

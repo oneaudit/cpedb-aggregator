@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:redundancy_configuration_manager:21.24.0:*:*:*:*:staros:*:*",
+        "cpeNameId": "0628C322-1D68-44D8-B26A-5EA94F771204",
+        "lastModified": "2022-02-25T02:33:11.287",
+        "created": "2022-02-23T14:43:36.330",
+        "titles": [
+          {
+            "title": "Cisco Redundancy Configuration Manager (RCM) 21.24.0 for StarOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:cisco:redundancy_configuration_manager:-:*:*:*:*:staros:*:*",
+        "cpeNameId": "026D4DE6-1C6A-4B0C-A83C-DB071245BABD",
+        "lastModified": "2022-02-25T02:33:11.287",
+        "created": "2022-02-23T14:43:36.330",
+        "titles": [
+          {
+            "title": "Cisco Redundancy Configuration Manager (RCM) for StarOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:redundancy_configuration_manager:21.24.0:*:*:*:*:staros:*:*",
+      "title": "Cisco Redundancy Configuration Manager (RCM) 21.24.0 for StarOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:cisco:redundancy_configuration_manager:-:*:*:*:*:staros:*:*",
+      "title": "Cisco Redundancy Configuration Manager (RCM) for StarOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

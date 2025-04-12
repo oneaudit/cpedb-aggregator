@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:cisco:security_device_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "ACF70DFC-ECCC-4CBD-B291-25933A32A7A4",
+        "lastModified": "2010-12-28T17:36:20.240",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Cisco Adaptive Security Appliance (ASA) Device Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BCA658DD-0D7A-4ED3-A77C-93EF1F81E373"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:cisco:security_device_manager:-:*:*:*:*:*:*:*",
+      "title": "Cisco Adaptive Security Appliance (ASA) Device Manager",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
