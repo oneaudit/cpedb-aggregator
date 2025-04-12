@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:sonicwall:nsa3650:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C20FFB90-C5FF-4071-AA96-2F179F724179",
+        "lastModified": "2022-06-16T15:09:01.720",
+        "created": "2022-05-06T12:57:14.037",
+        "titles": [
+          {
+            "title": "SonicWall Nsa3650 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:sonicwall:nsa_3650:-:*:*:*:*:*:*:*",
+            "cpeNameId": "CAD63605-DED5-4F61-BBEC-E7033CA8F9F3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:sonicwall:nsa3650:-:*:*:*:*:*:*:*",
+      "title": "SonicWall Nsa3650 ",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:sonicwall:nsa_3650:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:sra_4200_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4A24513B-5FBD-4EB1-9B14-0D95C855155D",
+        "lastModified": "2022-03-23T18:06:03.907",
+        "created": "2022-03-23T13:29:36.590",
+        "titles": [
+          {
+            "title": "SonicWall SRA 4200 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:sra_4200_firmware:9.0.0.5-19sv:*:*:*:*:*:*:*",
+        "cpeNameId": "BC0AEB37-384C-4603-8C3B-276753833E65",
+        "lastModified": "2022-06-03T13:02:58.107",
+        "created": "2022-04-19T16:52:31.540",
+        "titles": [
+          {
+            "title": "SonicWall SRA 4200 FIRMWARE 9.0.0.5-19sv",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sonicwall:sra_4200_firmware:-:*:*:*:*:*:*:*",
+      "title": "SonicWall SRA 4200 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sonicwall:sra_4200_firmware:9.0.0.5-19sv:*:*:*:*:*:*:*",
+      "title": "SonicWall SRA 4200 FIRMWARE 9.0.0.5-19sv",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

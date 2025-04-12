@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:softether:see.sys:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EC6F4549-EFFC-4964-BEBB-8F940BE626DC",
+        "lastModified": "2021-08-16T16:54:03.790",
+        "created": "2019-07-31T14:06:44.990",
+        "titles": [
+          {
+            "title": "SoftEther VPN see.sys",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:softether:see.sys:4.25:*:*:*:*:*:*:*",
+        "cpeNameId": "5ABC0BC8-5CBD-4BD5-AF57-EDC0E5A6CE82",
+        "lastModified": "2021-08-16T16:54:03.790",
+        "created": "2019-07-31T14:06:44.990",
+        "titles": [
+          {
+            "title": "SoftEther VPN see.sys 4.25",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:softether:see.sys:-:*:*:*:*:*:*:*",
+      "title": "SoftEther VPN see.sys",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:softether:see.sys:4.25:*:*:*:*:*:*:*",
+      "title": "SoftEther VPN see.sys 4.25",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

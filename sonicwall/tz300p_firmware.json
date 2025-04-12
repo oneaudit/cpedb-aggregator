@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:tz300p_firmware:7.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4AF83D5C-44C4-487C-9600-31A9ED4CAC3C",
+        "lastModified": "2022-06-22T16:42:38.240",
+        "created": "2022-05-04T13:36:40.513",
+        "titles": [
+          {
+            "title": "SonicWall Zz300P Firmware 7.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:tz300p_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FEC8EECF-0C3B-43B2-877E-5D1C0C3670A6",
+        "lastModified": "2023-05-01T13:23:10.093",
+        "created": "2023-04-26T15:14:48.757",
+        "titles": [
+          {
+            "title": "SonicWall TZ300P Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sonicwall:tz300p_firmware:7.0.0:*:*:*:*:*:*:*",
+      "title": "SonicWall Zz300P Firmware 7.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sonicwall:tz300p_firmware:-:*:*:*:*:*:*:*",
+      "title": "SonicWall TZ300P Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

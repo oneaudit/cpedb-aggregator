@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:tz350w_firmware:7.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6F21C3C4-7523-409B-A9E1-EF305F882D95",
+        "lastModified": "2022-06-22T16:42:38.240",
+        "created": "2022-05-04T13:36:40.513",
+        "titles": [
+          {
+            "title": "SonicWall TZ350W Firmware 7.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:tz350w_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "874558E2-89A3-4969-B6F9-2BDE6D7B0812",
+        "lastModified": "2023-05-01T13:23:10.093",
+        "created": "2023-04-26T15:14:48.757",
+        "titles": [
+          {
+            "title": "SonicWall TZ350W Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sonicwall:tz350w_firmware:7.0.0:*:*:*:*:*:*:*",
+      "title": "SonicWall TZ350W Firmware 7.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sonicwall:tz350w_firmware:-:*:*:*:*:*:*:*",
+      "title": "SonicWall TZ350W Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

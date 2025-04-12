@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:solarwinds:ip_address_manager_web_interface:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C77DF08E-9B40-4C8B-96C4-73630EFA391A",
+        "lastModified": "2012-11-13T23:53:41.717",
+        "created": "2012-11-01T16:44:11.547",
+        "titles": [
+          {
+            "title": "SolarWinds IP Address Manager (IPAM) web interface 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:solarwinds:ip_address_manager_web_interface:3.0:hotfix1:*:*:*:*:*:*",
+        "cpeNameId": "B158A1A6-F511-4BEB-9194-ED0D3D110AC2",
+        "lastModified": "2012-11-13T23:53:41.780",
+        "created": "2012-11-01T16:44:11.687",
+        "titles": [
+          {
+            "title": "SolarWinds IP Address Manager (IPAM) web interface 3.0 Hotfix1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:solarwinds:ip_address_manager_web_interface:3.0:*:*:*:*:*:*:*",
+      "title": "SolarWinds IP Address Manager (IPAM) web interface 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:solarwinds:ip_address_manager_web_interface:3.0:hotfix1:*:*:*:*:*:*",
+      "title": "SolarWinds IP Address Manager (IPAM) web interface 3.0 Hotfix1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

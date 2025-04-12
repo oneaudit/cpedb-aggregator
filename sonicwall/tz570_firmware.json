@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:tz570_firmware:7.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "48682115-735F-45E4-9DED-6ECAD8E10AD4",
+        "lastModified": "2022-06-22T16:42:38.240",
+        "created": "2022-05-04T13:36:40.513",
+        "titles": [
+          {
+            "title": "SonicWall TZ570 Firmware 7.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:tz570_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BB7707EB-3483-4915-A752-C82B8EF9FBB5",
+        "lastModified": "2023-05-01T13:23:10.093",
+        "created": "2023-04-26T15:14:48.757",
+        "titles": [
+          {
+            "title": "SonicWall TZ570 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sonicwall:tz570_firmware:7.0.0:*:*:*:*:*:*:*",
+      "title": "SonicWall TZ570 Firmware 7.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sonicwall:tz570_firmware:-:*:*:*:*:*:*:*",
+      "title": "SonicWall TZ570 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

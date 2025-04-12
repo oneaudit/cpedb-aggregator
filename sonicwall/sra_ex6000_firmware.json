@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:sra_ex6000_firmware:12.4.3-02804:*:*:*:*:*:*:*",
+        "cpeNameId": "C84EA2B8-AB1A-4FEA-887A-7872205C03B0",
+        "lastModified": "2025-01-28T17:21:29.720",
+        "created": "2025-01-28T17:21:29.720",
+        "titles": [
+          {
+            "title": "SonicWall SRA EX6000 Firmware 12.4.3-02804",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:sra_ex6000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "121A5DB0-5890-42CB-B6FC-1F28DE889E2F",
+        "lastModified": "2025-01-28T17:21:29.720",
+        "created": "2025-01-28T17:21:29.720",
+        "titles": [
+          {
+            "title": "SonicWall SRA EX6000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sonicwall:sra_ex6000_firmware:12.4.3-02804:*:*:*:*:*:*:*",
+      "title": "SonicWall SRA EX6000 Firmware 12.4.3-02804",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sonicwall:sra_ex6000_firmware:-:*:*:*:*:*:*:*",
+      "title": "SonicWall SRA EX6000 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

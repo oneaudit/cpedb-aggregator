@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:sonicwall:network_security_appliance_2400:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6C45D73A-C0BE-4E79-8F3E-64C745D81EE2",
+        "lastModified": "2022-06-16T15:10:26.373",
+        "created": "2018-03-12T15:42:42.280",
+        "titles": [
+          {
+            "title": "SonicWall Network Security Appliance (NSA) 2400",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:sonicwall:nsa_2400:-:*:*:*:*:*:*:*",
+            "cpeNameId": "EDD2B667-EFAE-4C2E-A464-4D8259172383"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:sonicwall:network_security_appliance_2400:-:*:*:*:*:*:*:*",
+      "title": "SonicWall Network Security Appliance (NSA) 2400",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:sonicwall:nsa_2400:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

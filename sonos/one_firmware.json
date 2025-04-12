@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonos:one_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BFDF5E14-69EC-46C3-82C3-4DD0039150AE",
+        "lastModified": "2022-10-25T15:44:44.353",
+        "created": "2022-10-21T13:06:17.963",
+        "titles": [
+          {
+            "title": "SONOS One Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonos:one_firmware:70.3-35220:*:*:*:*:*:*:*",
+        "cpeNameId": "CBC8E108-6E99-45C6-9FF4-A31EE2ABFBF1",
+        "lastModified": "2023-08-30T12:55:38.123",
+        "created": "2023-05-01T17:10:40.657",
+        "titles": [
+          {
+            "title": "SONOS One Firmware 70.3-35220",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sonos:one_firmware:-:*:*:*:*:*:*:*",
+      "title": "SONOS One Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sonos:one_firmware:70.3-35220:*:*:*:*:*:*:*",
+      "title": "SONOS One Firmware 70.3-35220",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

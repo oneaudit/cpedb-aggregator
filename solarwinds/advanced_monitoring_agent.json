@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:solarwinds:advanced_monitoring_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A76B21D6-E7F4-4AE4-AC07-6D91225C030B",
+        "lastModified": "2020-08-17T13:26:25.713",
+        "created": "2020-08-17T13:26:25.713",
+        "titles": [
+          {
+            "title": "Solarwinds Advanced Monitoring Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:solarwinds:advanced_monitoring_agent:10.8.8:*:*:*:*:*:*:*",
+        "cpeNameId": "2D59C23F-1032-4F7A-88E0-D230CAB05BB8",
+        "lastModified": "2020-08-17T13:26:26.057",
+        "created": "2020-08-17T13:26:26.057",
+        "titles": [
+          {
+            "title": "Solarwinds Advanced Monitoring Agent 10.8.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:solarwinds:advanced_monitoring_agent:-:*:*:*:*:*:*:*",
+      "title": "Solarwinds Advanced Monitoring Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:solarwinds:advanced_monitoring_agent:10.8.8:*:*:*:*:*:*:*",
+      "title": "Solarwinds Advanced Monitoring Agent 10.8.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

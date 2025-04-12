@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sonicwall:capture_client:3.5:*:*:*:*:*:*:*",
+        "cpeNameId": "D860B7D2-A4F8-4D35-AC5D-6E080F6B2A7A",
+        "lastModified": "2021-09-22T19:48:10.980",
+        "created": "2021-09-03T12:04:44.133",
+        "titles": [
+          {
+            "title": "SonicWall Capture Client 3.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sonicwall:capture_client:3.7.10:*:*:*:*:*:*:*",
+        "cpeNameId": "D55A86E8-D8BA-4D85-9B82-5B3B47BE30EE",
+        "lastModified": "2024-02-02T22:20:37.337",
+        "created": "2024-02-02T22:20:37.337",
+        "titles": [
+          {
+            "title": "SonicWALL Capture Client 3.7.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sonicwall:capture_client:3.5:*:*:*:*:*:*:*",
+      "title": "SonicWall Capture Client 3.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sonicwall:capture_client:3.7.10:*:*:*:*:*:*:*",
+      "title": "SonicWALL Capture Client 3.7.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

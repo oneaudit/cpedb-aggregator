@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sony:audio_usb_driver:1.10:*:*:*:*:*:*:*",
+        "cpeNameId": "5E1414CF-8FDF-47A9-8FF5-0F713AE205F3",
+        "lastModified": "2021-09-22T18:07:33.590",
+        "created": "2021-08-30T17:03:01.347",
+        "titles": [
+          {
+            "title": "Sony Audio USB Driver 1.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sony:audio_usb_driver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "134CD0E2-599D-41E8-9DCB-F774BD36E0A9",
+        "lastModified": "2021-09-22T18:07:33.590",
+        "created": "2021-08-30T17:03:01.347",
+        "titles": [
+          {
+            "title": "Sony Audio USB Driver",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sony:audio_usb_driver:1.10:*:*:*:*:*:*:*",
+      "title": "Sony Audio USB Driver 1.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sony:audio_usb_driver:-:*:*:*:*:*:*:*",
+      "title": "Sony Audio USB Driver",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

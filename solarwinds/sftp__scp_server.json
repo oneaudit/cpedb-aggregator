@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:solarwinds:sftp\\/scp_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1014D13F-1022-476A-9714-9AAD08B3E7D9",
+        "lastModified": "2020-12-17T18:17:15.843",
+        "created": "2020-12-17T18:17:15.843",
+        "titles": [
+          {
+            "title": "SolarWinds SFTP/SCP Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:solarwinds:sftp\\/scp_server:2018-09-10:*:*:*:*:*:*:*",
+        "cpeNameId": "BACDE360-E1B7-4AFD-95F2-585E7495A15F",
+        "lastModified": "2020-12-17T18:17:16.170",
+        "created": "2020-12-17T18:17:16.170",
+        "titles": [
+          {
+            "title": "SolarWinds SFTP/SCP Server 2018-09-10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:solarwinds:sftp\\/scp_server:-:*:*:*:*:*:*:*",
+      "title": "SolarWinds SFTP/SCP Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:solarwinds:sftp\\/scp_server:2018-09-10:*:*:*:*:*:*:*",
+      "title": "SolarWinds SFTP/SCP Server 2018-09-10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

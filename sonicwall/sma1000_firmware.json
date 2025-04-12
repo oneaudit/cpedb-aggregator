@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:sma1000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B71ECD06-B2B0-432A-B21C-AF7EFFC69E8B",
+        "lastModified": "2021-05-26T18:53:33.173",
+        "created": "2020-03-27T12:59:45.957",
+        "titles": [
+          {
+            "title": "SonicWall SMA1000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:sma1000_firmware:12.1.0-06411:*:*:*:*:*:*:*",
+        "cpeNameId": "E944D56E-5001-4266-B4B9-4F01C4B55937",
+        "lastModified": "2021-05-26T18:53:33.173",
+        "created": "2020-03-27T12:59:45.957",
+        "titles": [
+          {
+            "title": "SonicWall SMA1000 Firmware 12.1.0-06411",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:sma1000_firmware:12.4.2-02044:*:*:*:*:*:*:*",
+        "cpeNameId": "368DE25A-4923-42C1-8BF5-731046374443",
+        "lastModified": "2023-09-28T21:32:04.600",
+        "created": "2023-09-28T21:32:04.600",
+        "titles": [
+          {
+            "title": "SonicWall SMA1000 Firmware 12.4.2-02044",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:sma1000_firmware:12.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "4704DCF0-031F-4401-920F-BCC6A231FC94",
+        "lastModified": "2023-09-28T21:32:04.600",
+        "created": "2023-09-28T21:32:04.600",
+        "titles": [
+          {
+            "title": "SonicWall Sma1000 Firmware 12.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sonicwall:sma1000_firmware:-:*:*:*:*:*:*:*",
+      "title": "SonicWall SMA1000 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sonicwall:sma1000_firmware:12.1.0-06411:*:*:*:*:*:*:*",
+      "title": "SonicWall SMA1000 Firmware 12.1.0-06411",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sonicwall:sma1000_firmware:12.4.2-02044:*:*:*:*:*:*:*",
+      "title": "SonicWall SMA1000 Firmware 12.4.2-02044",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sonicwall:sma1000_firmware:12.4.2:*:*:*:*:*:*:*",
+      "title": "SonicWall Sma1000 Firmware 12.4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

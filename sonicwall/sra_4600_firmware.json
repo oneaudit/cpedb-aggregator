@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:sra_4600_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D8367EBC-1ED9-4B04-AE5C-79265FB6120E",
+        "lastModified": "2022-03-23T18:06:03.907",
+        "created": "2022-03-23T13:29:36.590",
+        "titles": [
+          {
+            "title": "SonicWall SRA 4600 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:sra_4600_firmware:8.0.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F1CB8CCD-D53A-44F1-99C7-69FDF844E3ED",
+        "lastModified": "2024-12-16T14:14:53.740",
+        "created": "2024-12-16T14:14:53.740",
+        "titles": [
+          {
+            "title": "SonicWall SRA 4600 Firmware 8.0.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:sra_4600_firmware:9.0.0.10-28sv:*:*:*:*:*:*:*",
+        "cpeNameId": "20C33D5F-5C77-4913-82E3-77BA46FC7049",
+        "lastModified": "2024-12-16T14:14:53.740",
+        "created": "2024-12-16T14:14:53.740",
+        "titles": [
+          {
+            "title": "SonicWall SRA 4600 Firmware 9.0.0.10-28sv",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sonicwall:sra_4600_firmware:-:*:*:*:*:*:*:*",
+      "title": "SonicWall SRA 4600 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sonicwall:sra_4600_firmware:8.0.0.0:*:*:*:*:*:*:*",
+      "title": "SonicWall SRA 4600 Firmware 8.0.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sonicwall:sra_4600_firmware:9.0.0.10-28sv:*:*:*:*:*:*:*",
+      "title": "SonicWall SRA 4600 Firmware 9.0.0.10-28sv",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

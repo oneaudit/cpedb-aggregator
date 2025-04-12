@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:solarwinds:storage_manager:6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "012729D9-ACA1-4DAB-9C62-CC1C7D7872B8",
+        "lastModified": "2015-11-24T17:54:32.627",
+        "created": "2015-10-16T13:49:58.407",
+        "titles": [
+          {
+            "title": "Solarwinds Storage Manager 6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:solarwinds:storage_manager:5.1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "88191939-F79C-48BC-B50D-D9932F7FF69B",
+        "lastModified": "2021-08-11T16:55:54.370",
+        "created": "2018-05-25T18:26:04.320",
+        "titles": [
+          {
+            "title": "Solarwinds Storage Manager 5.1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:solarwinds:storage_manager:6.1:*:*:*:*:*:*:*",
+      "title": "Solarwinds Storage Manager 6.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:solarwinds:storage_manager:5.1.2:*:*:*:*:*:*:*",
+      "title": "Solarwinds Storage Manager 5.1.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

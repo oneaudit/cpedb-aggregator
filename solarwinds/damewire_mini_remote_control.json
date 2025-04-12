@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:solarwinds:damewire_mini_remote_control:10.0:*:*:*:*:*:x64:*",
+        "cpeNameId": "B605C2DA-A704-4A7A-A060-5C97D8D78413",
+        "lastModified": "2023-09-18T15:29:00.270",
+        "created": "2020-06-29T16:22:29.247",
+        "titles": [
+          {
+            "title": "SolarWinds Damewire Mini Remote Control 10.0 on X64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:solarwinds:dameware_mini_remote_control:10.0:*:*:*:*:*:x64:*",
+            "cpeNameId": "8C182C81-DE26-490C-91D5-A4FD91F1B06B"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:solarwinds:damewire_mini_remote_control:10.0:*:*:*:*:*:x64:*",
+      "title": "SolarWinds Damewire Mini Remote Control 10.0 on X64",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:solarwinds:dameware_mini_remote_control:10.0:*:*:*:*:*:x64:*"
+    }
+  ]
+}

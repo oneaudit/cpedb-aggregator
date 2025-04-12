@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:sonicwall:nsa6700:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AC41576D-D200-44C2-AB5C-7FEF76CF6153",
+        "lastModified": "2022-06-16T15:09:01.720",
+        "created": "2022-05-06T12:57:14.037",
+        "titles": [
+          {
+            "title": "SonicWall Nsa6700 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:sonicwall:nsa_6700:-:*:*:*:*:*:*:*",
+            "cpeNameId": "CE5347A5-CC63-4075-87A5-B2C0C83D7A32"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:sonicwall:nsa6700:-:*:*:*:*:*:*:*",
+      "title": "SonicWall Nsa6700 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:sonicwall:nsa_6700:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

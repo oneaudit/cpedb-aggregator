@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:sonicwall:nsa5700:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B382EC4F-B044-4410-87B0-1E8BB257B0F4",
+        "lastModified": "2022-06-16T15:09:01.720",
+        "created": "2022-05-06T12:57:14.037",
+        "titles": [
+          {
+            "title": "SonicWall Nsa5700 -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:sonicwall:nsa_5700:-:*:*:*:*:*:*:*",
+            "cpeNameId": "02C4FE3E-1CB4-46FA-8B14-35A7FBB2CE28"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:sonicwall:nsa5700:-:*:*:*:*:*:*:*",
+      "title": "SonicWall Nsa5700 -",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:sonicwall:nsa_5700:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

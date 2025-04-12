@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sonicwall:network_security_manager:2.2.0:-:*:*:on-premises:*:*:*",
+        "cpeNameId": "E522718E-7BC7-4112-8CCA-CBBF579A4BAE",
+        "lastModified": "2021-06-04T18:06:54.067",
+        "created": "2021-06-04T16:38:31.800",
+        "titles": [
+          {
+            "title": "SonicWall Network Security Manager 2.2.0  On-premises Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sonicwall:network_security_manager:2.2.0:r10:*:*:on-premises:*:*:*",
+        "cpeNameId": "CA43FC12-CDA9-4A24-9D14-7BD767576C28",
+        "lastModified": "2021-06-04T18:06:54.067",
+        "created": "2021-06-04T16:38:31.800",
+        "titles": [
+          {
+            "title": "SonicWall Network Security Manager 2.2.0 R10 On-premises Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sonicwall:network_security_manager:2.2.0:-:*:*:on-premises:*:*:*",
+      "title": "SonicWall Network Security Manager 2.2.0  On-premises Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sonicwall:network_security_manager:2.2.0:r10:*:*:on-premises:*:*:*",
+      "title": "SonicWall Network Security Manager 2.2.0 R10 On-premises Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

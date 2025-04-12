@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sony:content_transfer:1.3:*:*:*:*:windows:*:*",
+        "cpeNameId": "2499D7D0-C543-40CC-961A-6E52125D5F61",
+        "lastModified": "2022-10-25T15:44:44.353",
+        "created": "2022-10-24T17:24:42.590",
+        "titles": [
+          {
+            "title": "Sony Content Transfer 1.3 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sony:content_transfer:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "AD438DE6-9FF2-43C3-88A0-01DF3424BE6A",
+        "lastModified": "2022-10-25T15:44:44.353",
+        "created": "2022-10-24T17:24:42.590",
+        "titles": [
+          {
+            "title": "Sony Content Transfer for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sony:content_transfer:1.3:*:*:*:*:windows:*:*",
+      "title": "Sony Content Transfer 1.3 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sony:content_transfer:-:*:*:*:*:windows:*:*",
+      "title": "Sony Content Transfer for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sonicwall:global_vpn_client:-:*:*:*:*:*:*:*",
+        "cpeNameId": "98DCFEF2-BEFF-44A2-A8CA-34C561F651A8",
+        "lastModified": "2020-11-09T20:12:23.483",
+        "created": "2020-11-09T20:12:23.483",
+        "titles": [
+          {
+            "title": "SonicWall Global VPN Client",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sonicwall:global_vpn_client:4.10.4.0314:*:*:*:*:*:*:*",
+        "cpeNameId": "09C4EA10-FA79-45A4-A501-A7307C425391",
+        "lastModified": "2020-11-09T20:12:23.827",
+        "created": "2020-11-09T20:12:23.827",
+        "titles": [
+          {
+            "title": "SonicWall Global VPN Client 4.10.4.0314",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sonicwall:global_vpn_client:4.10.6:*:*:*:*:*:*:*",
+        "cpeNameId": "478A167D-D80C-47B0-9C0F-098DD62AF24C",
+        "lastModified": "2022-01-04T15:20:05.433",
+        "created": "2021-12-10T15:11:43.633",
+        "titles": [
+          {
+            "title": "SonicWall Global VPN Client 4.10.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sonicwall:global_vpn_client:4.10.7.1117:*:*:*:*:*:*:*",
+        "cpeNameId": "87D627F3-3127-4B0B-BA5B-1B6678BCDCFF",
+        "lastModified": "2022-10-04T16:47:21.323",
+        "created": "2022-05-11T14:52:17.767",
+        "titles": [
+          {
+            "title": "SonicWall Global VPN Client 4.10.7.1117",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sonicwall:global_vpn_client:-:*:*:*:*:*:*:*",
+      "title": "SonicWall Global VPN Client",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sonicwall:global_vpn_client:4.10.4.0314:*:*:*:*:*:*:*",
+      "title": "SonicWall Global VPN Client 4.10.4.0314",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sonicwall:global_vpn_client:4.10.6:*:*:*:*:*:*:*",
+      "title": "SonicWall Global VPN Client 4.10.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sonicwall:global_vpn_client:4.10.7.1117:*:*:*:*:*:*:*",
+      "title": "SonicWall Global VPN Client 4.10.7.1117",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

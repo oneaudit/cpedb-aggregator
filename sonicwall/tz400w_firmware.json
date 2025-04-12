@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:tz400w_firmware:7.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "23786919-A448-49F2-B1F4-5A30069F2A2B",
+        "lastModified": "2022-06-22T16:42:38.240",
+        "created": "2022-05-04T13:36:40.513",
+        "titles": [
+          {
+            "title": "SonicWall TZ400W Firmware 7.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sonicwall:tz400w_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "468F0E72-20EC-45C3-A404-7340E0B185DF",
+        "lastModified": "2023-05-01T13:23:10.093",
+        "created": "2023-04-26T15:14:48.757",
+        "titles": [
+          {
+            "title": "SonicWall TZ400W Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sonicwall:tz400w_firmware:7.0.0:*:*:*:*:*:*:*",
+      "title": "SonicWall TZ400W Firmware 7.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sonicwall:tz400w_firmware:-:*:*:*:*:*:*:*",
+      "title": "SonicWall TZ400W Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
