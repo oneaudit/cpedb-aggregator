@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:watchguard:xcs:9.2:*:*:*:*:*:*:*",
+        "cpeNameId": "1B4BF16F-5537-4653-A952-3441A3F13313",
+        "lastModified": "2015-08-07T18:55:12.163",
+        "created": "2015-07-09T13:47:32.057",
+        "titles": [
+          {
+            "title": "WatchGuard XCS 9.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:watchguard:xcs:10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7C0CB857-5218-4714-9641-E6791374431C",
+        "lastModified": "2015-08-07T18:55:12.243",
+        "created": "2015-07-09T13:47:32.057",
+        "titles": [
+          {
+            "title": "WatchGuard XCS 10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:watchguard:xcs:9.2:*:*:*:*:*:*:*",
+      "title": "WatchGuard XCS 9.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:watchguard:xcs:10.0:*:*:*:*:*:*:*",
+      "title": "WatchGuard XCS 10.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

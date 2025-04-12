@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:watchguard:xmt515_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3A3584AA-36AE-4784-B909-8C2E4CC5A458",
+        "lastModified": "2020-02-27T15:48:48.790",
+        "created": "2020-02-27T15:48:48.790",
+        "titles": [
+          {
+            "title": "WatchGuard XMT515 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:watchguard:xmt515_firmware:12.3:*:*:*:*:*:*:*",
+        "cpeNameId": "D330C282-8A8E-4587-AA02-2E2B909ED0EC",
+        "lastModified": "2020-02-27T15:48:49.070",
+        "created": "2020-02-27T15:48:49.070",
+        "titles": [
+          {
+            "title": "WatchGuard XMT515 Firmware 12.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:watchguard:xmt515_firmware:-:*:*:*:*:*:*:*",
+      "title": "WatchGuard XMT515 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:watchguard:xmt515_firmware:12.3:*:*:*:*:*:*:*",
+      "title": "WatchGuard XMT515 Firmware 12.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wdc:software_upgrader:1.4.5.5:*:*:*:*:*:*:*",
+        "cpeNameId": "9D01C368-9669-4633-B63F-3F0D13B32DF3",
+        "lastModified": "2020-02-24T15:02:08.480",
+        "created": "2012-08-01T21:33:57.797",
+        "titles": [
+          {
+            "title": "Wdc Software Upgrader 1.4.5.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:westerndigital:software_upgrader:1.4.5.5:*:*:*:*:*:*:*",
+            "cpeNameId": "9BE47F8F-8E1C-4CAE-B493-ABC450F61CE1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wdc:software_upgrader:1.4.5.5:*:*:*:*:*:*:*",
+      "title": "Wdc Software Upgrader 1.4.5.5",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:westerndigital:software_upgrader:1.4.5.5:*:*:*:*:*:*:*"
+    }
+  ]
+}

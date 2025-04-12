@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wdc:wd_my_cloud:4.0.0:*:*:*:*:android:*:*",
+        "cpeNameId": "2A111829-7689-4802-A86A-07FC8E90943C",
+        "lastModified": "2020-02-24T15:02:08.637",
+        "created": "2014-09-22T00:55:43.467",
+        "titles": [
+          {
+            "title": "Western Digital WD My Cloud (aka com.wdc.wd2go) for Android 4.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:westerndigital:wd_my_cloud:4.0.0:*:*:*:*:android:*:*",
+            "cpeNameId": "A9D448D4-7D5A-4BCB-A7A3-24D43AA1156F"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wdc:wd_my_cloud:4.0.0:*:*:*:*:android:*:*",
+      "title": "Western Digital WD My Cloud (aka com.wdc.wd2go) for Android 4.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:westerndigital:wd_my_cloud:4.0.0:*:*:*:*:android:*:*"
+    }
+  ]
+}

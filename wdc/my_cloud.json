@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wdc:my_cloud:-:*:*:*:*:android:*:*",
+        "cpeNameId": "114440AA-859C-4F3E-85A9-D58D627A1586",
+        "lastModified": "2020-02-24T15:02:05.213",
+        "created": "2018-11-27T14:38:07.067",
+        "titles": [
+          {
+            "title": "WDC My Cloud for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:westerndigital:my_cloud:-:*:*:*:*:android:*:*",
+            "cpeNameId": "CB817BD0-99DE-4A77-A7DA-B59DC94B384D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wdc:my_cloud:8.1.2.303:*:*:*:*:android:*:*",
+        "cpeNameId": "945A3F15-3E98-462A-9989-70AD47D8F34C",
+        "lastModified": "2020-02-24T15:02:05.527",
+        "created": "2018-11-27T14:38:07.190",
+        "titles": [
+          {
+            "title": "WDC My Cloud 8.1.2.303 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:westerndigital:my_cloud:8.1.2.303:*:*:*:*:android:*:*",
+            "cpeNameId": "AD7EA330-0CD6-46CA-A0EA-09C532389FF2"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wdc:my_cloud:-:*:*:*:*:android:*:*",
+      "title": "WDC My Cloud for Android",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:westerndigital:my_cloud:-:*:*:*:*:android:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:wdc:my_cloud:8.1.2.303:*:*:*:*:android:*:*",
+      "title": "WDC My Cloud 8.1.2.303 for Android",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:westerndigital:my_cloud:8.1.2.303:*:*:*:*:android:*:*"
+    }
+  ]
+}

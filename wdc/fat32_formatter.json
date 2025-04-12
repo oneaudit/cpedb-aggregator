@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wdc:fat32_formatter:1.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "15958E14-3E1C-4274-A17D-323D663AD217",
+        "lastModified": "2020-02-24T15:02:04.887",
+        "created": "2012-08-01T21:33:55.280",
+        "titles": [
+          {
+            "title": "Wdc Fat32 Formatter 1.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:westerndigital:fat32_formatter:1.0.9:*:*:*:*:*:*:*",
+            "cpeNameId": "69EA011C-C5EF-4B44-9765-6EBBDDE140AA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wdc:fat32_formatter:2.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3E66B9AE-B011-45BF-9117-E842287FD7AA",
+        "lastModified": "2020-02-24T15:02:05.057",
+        "created": "2012-08-01T21:33:55.530",
+        "titles": [
+          {
+            "title": "Wdc Fat32 Formatter 2.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:westerndigital:fat32_formatter:2.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "E766E178-EF3B-486D-AE0B-34A8B39C0B58"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wdc:fat32_formatter:1.0.9:*:*:*:*:*:*:*",
+      "title": "Wdc Fat32 Formatter 1.0.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:westerndigital:fat32_formatter:1.0.9:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:wdc:fat32_formatter:2.0.0:*:*:*:*:*:*:*",
+      "title": "Wdc Fat32 Formatter 2.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:westerndigital:fat32_formatter:2.0.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

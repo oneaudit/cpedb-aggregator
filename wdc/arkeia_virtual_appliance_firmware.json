@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:wdc:arkeia_virtual_appliance_firmware:10.2.9:*:*:*:*:*:*:*",
+        "cpeNameId": "9D4413C8-293C-40D5-82C9-2DDE04634AAD",
+        "lastModified": "2020-02-24T15:02:19.653",
+        "created": "2014-04-29T13:07:00.500",
+        "titles": [
+          {
+            "title": "Western Digitial Arkeia Virtual Appliance firmware 10.2.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:westerndigital:arkeia_virtual_appliance_firmware:10.2.9:*:*:*:*:*:*:*",
+            "cpeNameId": "7450CC15-721D-4F25-80F2-BAC7AE98B6F7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:wdc:arkeia_virtual_appliance_firmware:10.2.7:*:*:*:*:*:*:*",
+        "cpeNameId": "C90DB40C-7673-4539-9186-AF69D2EC2846",
+        "lastModified": "2020-02-24T15:02:18.010",
+        "created": "2014-04-29T13:07:00.640",
+        "titles": [
+          {
+            "title": "Western Digitial Arkeia Virtual Appliance firmware 10.2.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:westerndigital:arkeia_virtual_appliance_firmware:10.2.7:*:*:*:*:*:*:*",
+            "cpeNameId": "62AA2722-60F7-48B7-A500-5F078A78EC4E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:wdc:arkeia_virtual_appliance_firmware:10.2.9:*:*:*:*:*:*:*",
+      "title": "Western Digitial Arkeia Virtual Appliance firmware 10.2.9",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:westerndigital:arkeia_virtual_appliance_firmware:10.2.9:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:wdc:arkeia_virtual_appliance_firmware:10.2.7:*:*:*:*:*:*:*",
+      "title": "Western Digitial Arkeia Virtual Appliance firmware 10.2.7",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:westerndigital:arkeia_virtual_appliance_firmware:10.2.7:*:*:*:*:*:*:*"
+    }
+  ]
+}

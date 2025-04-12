@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wdc:drive_manager:2.93:*:*:*:*:*:*:*",
+        "cpeNameId": "C66E06EA-303C-464C-9CBA-58E346C3B282",
+        "lastModified": "2020-02-24T15:02:04.713",
+        "created": "2012-08-01T21:33:55.030",
+        "titles": [
+          {
+            "title": "Wdc Drive Manager 2.93",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:westerndigital:drive_manager:2.93:*:*:*:*:*:*:*",
+            "cpeNameId": "4C633299-A9D3-4C37-A566-95DE92EB757A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wdc:drive_manager:2.93:*:*:*:*:*:*:*",
+      "title": "Wdc Drive Manager 2.93",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:westerndigital:drive_manager:2.93:*:*:*:*:*:*:*"
+    }
+  ]
+}

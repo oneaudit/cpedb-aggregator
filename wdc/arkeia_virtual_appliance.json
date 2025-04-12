@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wdc:arkeia_virtual_appliance:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C168FFCC-E138-4BF8-98C6-5E444F47F97D",
+        "lastModified": "2020-02-24T15:02:02.650",
+        "created": "2014-04-29T13:07:00.360",
+        "titles": [
+          {
+            "title": "Western Digitial Arkeia Virtual Appliance",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:westerndigital:arkeia_virtual_appliance:-:*:*:*:*:*:*:*",
+            "cpeNameId": "86840B72-E747-4C8B-911C-654651CC65F8"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wdc:arkeia_virtual_appliance:-:*:*:*:*:*:*:*",
+      "title": "Western Digitial Arkeia Virtual Appliance",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:westerndigital:arkeia_virtual_appliance:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

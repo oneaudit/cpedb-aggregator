@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:wdc:my_net_n750:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4FD15475-D421-41BD-977D-5B9804C1A591",
+        "lastModified": "2020-02-24T15:02:12.793",
+        "created": "2013-07-31T16:53:33.147",
+        "titles": [
+          {
+            "title": "Western Digital My Net N750",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:westerndigital:my_net_n750:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0EAB0F8E-6921-4B3E-9134-6AF3EC0BC8ED"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:wdc:my_net_n750:-:*:*:*:*:*:*:*",
+      "title": "Western Digital My Net N750",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:westerndigital:my_net_n750:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

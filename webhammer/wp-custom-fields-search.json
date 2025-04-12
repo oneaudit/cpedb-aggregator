@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:webhammer:wp-custom-fields-search:0.3.28:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "680FF8B3-CBBB-41E0-834E-EF3F60489BAB",
+        "lastModified": "2024-09-24T19:18:56.040",
+        "created": "2019-09-11T13:49:37.077",
+        "titles": [
+          {
+            "title": "Webhammer WP-Custom-Fields-Search 0.3.28 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:webhammer:wp_custom_fields_search:0.3.28:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "2C0A2F0F-7176-4AFE-9F4F-B4B4A64CDE83"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:webhammer:wp-custom-fields-search:0.3.28:*:*:*:*:wordpress:*:*",
+      "title": "Webhammer WP-Custom-Fields-Search 0.3.28 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:webhammer:wp_custom_fields_search:0.3.28:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

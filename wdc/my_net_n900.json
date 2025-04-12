@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:wdc:my_net_n900:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A80567D9-41D3-48AB-A07A-1400740B9289",
+        "lastModified": "2020-02-24T15:02:14.510",
+        "created": "2013-07-31T16:53:33.220",
+        "titles": [
+          {
+            "title": "Western Digital My Net N900",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:westerndigital:my_net_n900:-:*:*:*:*:*:*:*",
+            "cpeNameId": "52FA189C-29D1-4704-936F-F467AB19D1AA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:wdc:my_net_n900:-:*:*:*:*:*:*:*",
+      "title": "Western Digital My Net N900",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:westerndigital:my_net_n900:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

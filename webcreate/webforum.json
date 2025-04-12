@@ -1,0 +1,99 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:webcreate:webforum:5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7FDD197D-8035-4281-9005-455F60874E61",
+        "lastModified": "2021-03-29T20:08:31.720",
+        "created": "2011-10-25T14:44:15.273",
+        "titles": [
+          {
+            "title": "WebCreate Web Forum 5.1",
+            "lang": "en"
+          },
+          {
+            "title": "ウェブクリエイト Web Forum 5.1",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:kent-web:web_forum:5.1:*:*:*:*:*:*:*",
+            "cpeNameId": "1C45951C-621F-4645-9C35-EEC21CF47780"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:webcreate:webforum:6.41:*:*:*:*:*:*:*",
+        "cpeNameId": "F625AF83-38AD-4A35-8B65-5020C48A7CEA",
+        "lastModified": "2021-03-29T20:08:31.720",
+        "created": "2011-11-08T23:58:38.457",
+        "titles": [
+          {
+            "title": "WebCreate Web Forum 6.41",
+            "lang": "en"
+          },
+          {
+            "title": "ウェブクリエイト Web Forum 6.41",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:kent-web:web_forum:6.41:*:*:*:*:*:*:*",
+            "cpeNameId": "7B6D7C42-A886-4AD3-A0A0-51FACFDBECD4"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:webcreate:webforum:6.3:*:*:*:*:*:*:*",
+        "cpeNameId": "A2AC9DAF-D9E6-46C4-BA20-A17A90F4C4B0",
+        "lastModified": "2021-06-14T16:42:03.873",
+        "created": "2011-11-08T23:58:38.550",
+        "titles": [
+          {
+            "title": "WebCreate Web Forum 6.3",
+            "lang": "en"
+          },
+          {
+            "title": "ウェブクリエイト Web Forum 6.3",
+            "lang": "ja"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:kent-web:web_forum:6.3:*:*:*:*:*:*:*",
+            "cpeNameId": "5464DB22-EB05-4A07-B8DB-B7ED3809C993"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:webcreate:webforum:5.1:*:*:*:*:*:*:*",
+      "title": "WebCreate Web Forum 5.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:kent-web:web_forum:5.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:webcreate:webforum:6.41:*:*:*:*:*:*:*",
+      "title": "WebCreate Web Forum 6.41",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:kent-web:web_forum:6.41:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:webcreate:webforum:6.3:*:*:*:*:*:*:*",
+      "title": "WebCreate Web Forum 6.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:kent-web:web_forum:6.3:*:*:*:*:*:*:*"
+    }
+  ]
+}

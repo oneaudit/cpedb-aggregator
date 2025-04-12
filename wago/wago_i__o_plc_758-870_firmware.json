@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:wago:wago_i\\/o_plc_758-870_firmware:01.02.05:*:*:*:*:*:*:*",
+        "cpeNameId": "F9201092-67A8-4D9D-B9F2-F52E563B8B51",
+        "lastModified": "2021-07-09T12:55:49.393",
+        "created": "2017-08-25T19:08:32.157",
+        "titles": [
+          {
+            "title": "WAGO I/O PLC 758-870 Firmware 01.02.05",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:wago:758-870_firmware:01.02.05:*:*:*:*:*:*:*",
+            "cpeNameId": "770824F4-E99F-439E-B8DF-588E677EB3DF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:wago:wago_i\\/o_plc_758-870_firmware:01.01.27:*:*:*:*:*:*:*",
+        "cpeNameId": "36979248-C11E-429A-A868-B458C82944DA",
+        "lastModified": "2021-07-09T12:55:49.393",
+        "created": "2017-08-25T19:08:32.157",
+        "titles": [
+          {
+            "title": "WAGO I/O PLC 758-870 Firmware 01.01.27",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:wago:758-870_firmware:01.01.27:*:*:*:*:*:*:*",
+            "cpeNameId": "A287E27C-04DC-42EE-907C-7AC16096DEDD"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:wago:wago_i\\/o_plc_758-870_firmware:01.02.05:*:*:*:*:*:*:*",
+      "title": "WAGO I/O PLC 758-870 Firmware 01.02.05",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:wago:758-870_firmware:01.02.05:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:wago:wago_i\\/o_plc_758-870_firmware:01.01.27:*:*:*:*:*:*:*",
+      "title": "WAGO I/O PLC 758-870 Firmware 01.01.27",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:wago:758-870_firmware:01.01.27:*:*:*:*:*:*:*"
+    }
+  ]
+}

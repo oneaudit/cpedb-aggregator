@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wdc:diagnostics:1.7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7702262E-9851-47F5-BA02-605CEF5E68DD",
+        "lastModified": "2020-02-24T15:02:04.357",
+        "created": "2012-08-01T21:33:54.470",
+        "titles": [
+          {
+            "title": "Wdc Diagnostics 1.7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:westerndigital:diagnostics:1.7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "ACC8EFA0-521A-4B0B-91C5-48D701C52271"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wdc:diagnostics:1.9.2:*:*:*:*:*:*:*",
+        "cpeNameId": "D9A229F7-1146-4320-BD71-EB1E15758234",
+        "lastModified": "2020-02-24T15:02:04.543",
+        "created": "2012-08-01T21:33:54.720",
+        "titles": [
+          {
+            "title": "Wdc Diagnostics 1.9.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:westerndigital:diagnostics:1.9.2:*:*:*:*:*:*:*",
+            "cpeNameId": "CFF64C1F-4D53-4E64-ACD8-41821B418770"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wdc:diagnostics:1.7.0:*:*:*:*:*:*:*",
+      "title": "Wdc Diagnostics 1.7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:westerndigital:diagnostics:1.7.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:wdc:diagnostics:1.9.2:*:*:*:*:*:*:*",
+      "title": "Wdc Diagnostics 1.9.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:westerndigital:diagnostics:1.9.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

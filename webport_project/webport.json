@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:webport_project:webport:1.19.17121:*:*:*:*:*:*:*",
+        "cpeNameId": "D9BEB5B1-86EE-4232-B655-A12F86B2841D",
+        "lastModified": "2021-09-28T17:34:17.037",
+        "created": "2020-08-31T15:11:21.733",
+        "titles": [
+          {
+            "title": "WebPort Project WebPort 1.19.17121",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:webport:web_port:1.19.17121:*:*:*:*:*:*:*",
+            "cpeNameId": "501AB259-4F49-4859-AA3A-D0D0FFABF84D"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:webport_project:webport:1.19.17121:*:*:*:*:*:*:*",
+      "title": "WebPort Project WebPort 1.19.17121",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:webport:web_port:1.19.17121:*:*:*:*:*:*:*"
+    }
+  ]
+}

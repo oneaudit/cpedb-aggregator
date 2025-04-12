@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:wago:750-893_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BDA6FC4D-7D3D-4A64-8ECD-9034C233B2E3",
+        "lastModified": "2021-05-27T15:28:48.243",
+        "created": "2021-05-27T14:03:23.537",
+        "titles": [
+          {
+            "title": "WAGO 750-893 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:wago:750-893_firmware:fw07:*:*:*:*:*:*:*",
+        "cpeNameId": "ED27C48D-9FF3-4028-B3F0-4127529A725E",
+        "lastModified": "2021-05-27T15:28:48.243",
+        "created": "2021-05-27T14:15:33.550",
+        "titles": [
+          {
+            "title": "WAGO 750-893 Firmware FW07",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:wago:750-893_firmware:fw11:*:*:*:*:*:*:*",
+        "cpeNameId": "00B223E9-B54F-44E8-ABD7-600CCA01F906",
+        "lastModified": "2023-08-04T19:58:07.820",
+        "created": "2023-07-06T17:11:57.697",
+        "titles": [
+          {
+            "title": "WAGO 750-893 Firmware FW11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:wago:750-893_firmware:-:*:*:*:*:*:*:*",
+      "title": "WAGO 750-893 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:wago:750-893_firmware:fw07:*:*:*:*:*:*:*",
+      "title": "WAGO 750-893 Firmware FW07",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:wago:750-893_firmware:fw11:*:*:*:*:*:*:*",
+      "title": "WAGO 750-893 Firmware FW11",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

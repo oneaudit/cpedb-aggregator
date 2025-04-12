@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wayne_allen:postie:1.4.3:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "37400589-6D5F-4232-9760-6C66299AC09C",
+        "lastModified": "2020-01-10T16:54:02.677",
+        "created": "2014-06-23T14:29:05.237",
+        "titles": [
+          {
+            "title": "Wayne Allen Postie plugin for WordPress 1.4.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:postieplugin:postie:1.4.3:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "75569B3B-1AF5-4266-A2B4-72B791C74B32"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wayne_allen:postie:1.5.15:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "33A3B1E2-C3F2-47E4-817E-14E0EA2190BA",
+        "lastModified": "2020-01-10T16:54:05.850",
+        "created": "2014-06-23T14:29:05.703",
+        "titles": [
+          {
+            "title": "Wayne Allen Postie plugin for WordPress 1.5.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:postieplugin:postie:1.5.15:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "C1122BF1-7672-4FAF-941B-12D2B7B44A2D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wayne_allen:postie:1.5.14:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "B96B2B5F-0AA4-4EC0-A0A8-6A1BD4D3A4E3",
+        "lastModified": "2020-01-10T16:54:04.413",
+        "created": "2014-06-23T14:29:06.157",
+        "titles": [
+          {
+            "title": "Wayne Allen Postie plugin for WordPress 1.5.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:postieplugin:postie:1.5.14:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "5311549A-37A7-4507-9FF4-DE03171ED6DA"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wayne_allen:postie:1.4.3:*:*:*:*:wordpress:*:*",
+      "title": "Wayne Allen Postie plugin for WordPress 1.4.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:postieplugin:postie:1.4.3:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:wayne_allen:postie:1.5.15:*:*:*:*:wordpress:*:*",
+      "title": "Wayne Allen Postie plugin for WordPress 1.5.15",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:postieplugin:postie:1.5.15:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:wayne_allen:postie:1.5.14:*:*:*:*:wordpress:*:*",
+      "title": "Wayne Allen Postie plugin for WordPress 1.5.14",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:postieplugin:postie:1.5.14:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}
