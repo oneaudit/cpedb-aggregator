@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hcltech:hcl_sametime:11.6.5:*:*:*:*:android:*:*",
+        "cpeNameId": "8C5D5658-B596-44DE-9897-65D63F3F3C7F",
+        "lastModified": "2022-03-01T19:52:43.410",
+        "created": "2022-03-01T16:12:14.073",
+        "titles": [
+          {
+            "title": "HCL Technologies HCL Sametime 11.6.5 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hcltech:hcl_sametime:-:*:*:*:*:android:*:*",
+        "cpeNameId": "4C079080-3A9C-4FB4-B13F-F402CFBFAAF9",
+        "lastModified": "2022-03-01T19:52:43.410",
+        "created": "2022-03-01T16:12:14.073",
+        "titles": [
+          {
+            "title": "HCL Technologies HCL Sametime for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hcltech:hcl_sametime:11.6.5:*:*:*:*:android:*:*",
+      "title": "HCL Technologies HCL Sametime 11.6.5 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hcltech:hcl_sametime:-:*:*:*:*:android:*:*",
+      "title": "HCL Technologies HCL Sametime for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

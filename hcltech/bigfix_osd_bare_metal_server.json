@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hcltech:bigfix_osd_bare_metal_server:311.12:*:*:*:*:*:*:*",
+        "cpeNameId": "5CB8472F-FCDD-4C3F-B9B0-4F1A218E2E44",
+        "lastModified": "2023-07-28T20:20:38.013",
+        "created": "2023-07-03T16:45:56.883",
+        "titles": [
+          {
+            "title": "HCL BigFix OSD Bare Metal Server 311.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hcltech:bigfix_osd_bare_metal_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A4E25B6F-95D1-4521-97EA-CA99E9F75732",
+        "lastModified": "2023-07-28T20:20:38.013",
+        "created": "2023-07-03T16:45:56.883",
+        "titles": [
+          {
+            "title": "HCL BigFix OSD Bare Metal Server -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hcltech:bigfix_osd_bare_metal_server:311.12:*:*:*:*:*:*:*",
+      "title": "HCL BigFix OSD Bare Metal Server 311.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hcltech:bigfix_osd_bare_metal_server:-:*:*:*:*:*:*:*",
+      "title": "HCL BigFix OSD Bare Metal Server -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

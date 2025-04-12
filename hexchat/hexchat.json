@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hexchat:hexchat:2.10.1:*:*:*:*:*:*:*",
+        "cpeNameId": "E649FBF1-9F9F-42A6-B7FA-A24F6EFD518C",
+        "lastModified": "2021-07-20T14:36:17.260",
+        "created": "2016-05-06T14:14:58.910",
+        "titles": [
+          {
+            "title": "HexChat 2.10.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hexchat_project:hexchat:2.10.1:*:*:*:*:*:*:*",
+            "cpeNameId": "08EB8E9A-224B-4E26-BE18-99A49F657F84"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hexchat:hexchat:2.10.1:*:*:*:*:*:*:*",
+      "title": "HexChat 2.10.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hexchat_project:hexchat:2.10.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

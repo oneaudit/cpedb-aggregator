@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hhg-multistore:multistore:4.10.3:*:*:*:community:*:*:*",
+        "cpeNameId": "E65584F6-D01C-4631-AF6C-55D5512A52BD",
+        "lastModified": "2022-02-02T19:03:53.413",
+        "created": "2022-02-01T16:01:34.590",
+        "titles": [
+          {
+            "title": "H.H.G Multistore 4.10.3 Community Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hhg-multistore:multistore:5.1.0:*:*:*:enterprise:*:*:*",
+        "cpeNameId": "E4FB9924-F43B-4FC7-82CD-2FCDE3BD0107",
+        "lastModified": "2022-02-02T19:03:53.413",
+        "created": "2022-02-01T16:04:18.400",
+        "titles": [
+          {
+            "title": "H.H.G Multistore 5.1.0 Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hhg-multistore:multistore:-:*:*:*:enterprise:*:*:*",
+        "cpeNameId": "91F397BE-2FE4-48BE-B9AB-CC66DDB36E75",
+        "lastModified": "2022-02-02T19:03:53.413",
+        "created": "2022-02-01T16:04:18.400",
+        "titles": [
+          {
+            "title": "H.H.G Multistore Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hhg-multistore:multistore:4.10.3:*:*:*:community:*:*:*",
+      "title": "H.H.G Multistore 4.10.3 Community Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hhg-multistore:multistore:5.1.0:*:*:*:enterprise:*:*:*",
+      "title": "H.H.G Multistore 5.1.0 Enterprise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hhg-multistore:multistore:-:*:*:*:enterprise:*:*:*",
+      "title": "H.H.G Multistore Enterprise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
