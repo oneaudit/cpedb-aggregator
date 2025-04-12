@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:racom:m\\!dge_cellular_router_firmware:4.4.40.105:*:*:*:*:*:*:*",
+        "cpeNameId": "1435D270-E44A-4346-B68D-C051E8383044",
+        "lastModified": "2021-08-17T17:22:07.410",
+        "created": "2021-02-17T14:31:18.510",
+        "titles": [
+          {
+            "title": "Racom M!DGE Cellular Router Firmware 4.4.40.105",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:racom:m\\!dge_firmware:4.4.40.105:*:*:*:*:*:*:*",
+            "cpeNameId": "77DB6A39-7169-4CFE-BA00-7D2F6E663486"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:racom:m\\!dge_cellular_router_firmware:4.4.40.105:*:*:*:*:*:*:*",
+      "title": "Racom M!DGE Cellular Router Firmware 4.4.40.105",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:racom:m\\!dge_firmware:4.4.40.105:*:*:*:*:*:*:*"
+    }
+  ]
+}

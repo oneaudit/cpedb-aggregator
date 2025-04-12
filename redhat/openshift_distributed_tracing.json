@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_distributed_tracing:-:*:*:*:*:*:*:*",
+        "cpeNameId": "121EEBEF-720E-4CF1-ACE0-8546A6F168F8",
+        "lastModified": "2023-10-25T05:38:59.000",
+        "created": "2023-10-25T05:38:59.000",
+        "titles": [
+          {
+            "title": "Red Hat Openshift Distributed Tracing -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_distributed_tracing:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "579FE9A0-DE55-45B0-A3FD-6CFE877679CD",
+        "lastModified": "2024-08-02T14:00:04.160",
+        "created": "2024-08-02T14:00:04.160",
+        "titles": [
+          {
+            "title": "Red Hat OpenShift Distributed Tracing 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:openshift_distributed_tracing:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Openshift Distributed Tracing -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openshift_distributed_tracing:2.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenShift Distributed Tracing 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

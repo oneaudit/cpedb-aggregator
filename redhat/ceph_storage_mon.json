@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:ceph_storage_mon:1.3:*:*:*:*:*:*:*",
+        "cpeNameId": "C6DA2592-DE2C-4DE4-A8B8-02A7A4F20852",
+        "lastModified": "2021-06-03T15:44:14.683",
+        "created": "2016-07-14T18:00:51.327",
+        "titles": [
+          {
+            "title": "Red Hat Ceph Storage MON 1.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:ceph_storage_mon:3:*:*:*:*:*:*:*",
+        "cpeNameId": "BF1395E2-B154-4C90-9CE7-58AFFE81DBFD",
+        "lastModified": "2021-06-03T15:44:14.683",
+        "created": "2018-09-04T17:18:38.543",
+        "titles": [
+          {
+            "title": "Red Hat Ceph Storage MON 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:ceph_storage_mon:2:*:*:*:*:*:*:*",
+        "cpeNameId": "6A88825E-3B46-455E-91EA-F1D6F9B7E52A",
+        "lastModified": "2021-06-03T15:44:14.683",
+        "created": "2018-09-04T17:18:38.543",
+        "titles": [
+          {
+            "title": "Red Hat Ceph Storage MON 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:ceph_storage_mon:1.3:*:*:*:*:*:*:*",
+      "title": "Red Hat Ceph Storage MON 1.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:ceph_storage_mon:3:*:*:*:*:*:*:*",
+      "title": "Red Hat Ceph Storage MON 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:ceph_storage_mon:2:*:*:*:*:*:*:*",
+      "title": "Red Hat Ceph Storage MON 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

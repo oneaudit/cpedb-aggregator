@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_machine-config-operator:4.9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "44539A32-5A2C-47F2-9CDE-C6D115554F9D",
+        "lastModified": "2022-06-06T13:54:14.217",
+        "created": "2022-04-08T12:49:04.247",
+        "titles": [
+          {
+            "title": "Red Hat Openshift Machine-config-operator 4.9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_machine-config-operator:-:*:*:*:*:*:*:*",
+        "cpeNameId": "456E33E3-9C91-40B3-87F8-A3216F79D974",
+        "lastModified": "2022-06-06T13:54:14.217",
+        "created": "2022-04-08T12:49:04.247",
+        "titles": [
+          {
+            "title": "Red Hat Openshift Machine-config-operator -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:openshift_machine-config-operator:4.9.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Openshift Machine-config-operator 4.9.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openshift_machine-config-operator:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Openshift Machine-config-operator -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

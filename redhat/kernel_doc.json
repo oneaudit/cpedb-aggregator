@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:kernel_doc:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9D19893C-502F-49BA-9327-CCA4F1882532",
+        "lastModified": "2008-03-25T19:17:19.820",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat kernel_doc",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:kernel_doc:2.4.20-8:*:*:*:*:*:*:*",
+        "cpeNameId": "5A16ADF0-A335-4678-BD95-BC721B099BC0",
+        "lastModified": "2008-04-07T14:49:46.050",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat kernel_doc 2.4.20.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:kernel_doc:-:*:*:*:*:*:*:*",
+      "title": "Red Hat kernel_doc",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:kernel_doc:2.4.20-8:*:*:*:*:*:*:*",
+      "title": "Red Hat kernel_doc 2.4.20.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

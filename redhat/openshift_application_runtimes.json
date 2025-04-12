@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_application_runtimes:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "38115708-ECAA-4F8B-A925-D6A274085329",
+        "lastModified": "2021-08-16T18:02:08.997",
+        "created": "2019-07-30T14:10:55.267",
+        "titles": [
+          {
+            "title": "Red Hat OpenShift Application Runtimes 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_application_runtimes:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A2548934-3A2D-45A6-B956-DE76C7D562C1",
+        "lastModified": "2020-03-23T17:49:47.017",
+        "created": "2020-03-23T17:49:47.017",
+        "titles": [
+          {
+            "title": "Red Hat OpenShift Application Runtimes",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_application_runtimes:-:*:*:*:text-only:*:*:*",
+        "cpeNameId": "F7286B0B-87E8-4561-A536-50E35D2E0A35",
+        "lastModified": "2021-09-18T13:51:50.077",
+        "created": "2020-09-17T13:42:49.247",
+        "titles": [
+          {
+            "title": "Red Hat OpenShift Application Runtimes Text-only Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:openshift_application_runtimes:1.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenShift Application Runtimes 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openshift_application_runtimes:-:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenShift Application Runtimes",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openshift_application_runtimes:-:*:*:*:text-only:*:*:*",
+      "title": "Red Hat OpenShift Application Runtimes Text-only Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

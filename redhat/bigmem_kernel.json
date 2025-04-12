@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:bigmem_kernel:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AF8F2B51-120B-440D-970D-37B97A588572",
+        "lastModified": "2008-04-01T16:42:16.820",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat kernel_bigmem",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:bigmem_kernel:2.4.20-8:*:*:*:*:*:*:*",
+        "cpeNameId": "863D7345-BD97-412F-AF71-9AB56DCBF604",
+        "lastModified": "2008-04-07T14:49:06.237",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat kernel_bigmem 2.4.20.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:bigmem_kernel:-:*:*:*:*:*:*:*",
+      "title": "Red Hat kernel_bigmem",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:bigmem_kernel:2.4.20-8:*:*:*:*:*:*:*",
+      "title": "Red Hat kernel_bigmem 2.4.20.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

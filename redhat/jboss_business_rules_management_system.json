@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:jboss_business_rules_management_system:6.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "36A1279A-3920-46AB-A0F2-4E00DB8049AC",
+        "lastModified": "2018-10-31T13:47:06.073",
+        "created": "2018-10-31T13:47:06.073",
+        "titles": [
+          {
+            "title": "Red Hat JBoss Business Rules Management System (BRMS) 6.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:jboss_business_rules_management_system:5.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CA7BF59C-A3EF-4E48-B43E-8C4CBEC61085",
+        "lastModified": "2021-08-17T14:43:32.040",
+        "created": "2020-10-09T17:08:14.143",
+        "titles": [
+          {
+            "title": "Red Hat JBboss Business Rules Management System (BRMS) 5.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:jboss_business_rules_management_system:5.3:*:*:*:*:*:*:*",
+        "cpeNameId": "C9A37793-E3A0-4E85-9085-D29C07397ED6",
+        "lastModified": "2020-12-04T18:49:36.597",
+        "created": "2020-12-04T18:49:36.597",
+        "titles": [
+          {
+            "title": "Red Hat JBoss Business Rules Management System 5.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:jboss_business_rules_management_system:6.0.0:*:*:*:*:*:*:*",
+      "title": "Red Hat JBoss Business Rules Management System (BRMS) 6.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:jboss_business_rules_management_system:5.1.0:*:*:*:*:*:*:*",
+      "title": "Red Hat JBboss Business Rules Management System (BRMS) 5.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:jboss_business_rules_management_system:5.3:*:*:*:*:*:*:*",
+      "title": "Red Hat JBoss Business Rules Management System 5.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

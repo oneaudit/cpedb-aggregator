@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:conga:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D8304196-DE39-4D45-9C18-529A8665854B",
+        "lastModified": "2007-11-14T17:37:55.760",
+        "created": "2007-11-14T17:37:55.760",
+        "titles": [
+          {
+            "title": "Red Hat Conga",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:conga:0.10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4B5D17DC-AC9D-467C-945D-C4CC5F373811",
+        "lastModified": "2007-11-14T17:38:26.637",
+        "created": "2007-11-14T17:38:26.637",
+        "titles": [
+          {
+            "title": "Red Hat Conga 0.10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:conga:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Conga",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:conga:0.10.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Conga 0.10.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

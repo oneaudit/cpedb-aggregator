@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:cairo:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FD5C747E-21FD-495F-A568-0908F5088153",
+        "lastModified": "2008-03-25T19:17:47.350",
+        "created": "2007-11-30T19:59:50.670",
+        "titles": [
+          {
+            "title": "Red Hat Cairo",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:cairo:1.4.12:*:*:*:*:*:*:*",
+        "cpeNameId": "33016377-3031-4438-AEE5-7486A0F47CEE",
+        "lastModified": "2008-03-25T19:17:47.460",
+        "created": "2007-11-30T20:00:35.990",
+        "titles": [
+          {
+            "title": "Red Hat Cairo 1.4.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:cairo:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Cairo",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:cairo:1.4.12:*:*:*:*:*:*:*",
+      "title": "Red Hat Cairo 1.4.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

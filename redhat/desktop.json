@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:desktop:-:*:*:*:*:*:*:*",
+        "cpeNameId": "96B14D05-3702-43A4-AB17-1FDBF4BF2ECB",
+        "lastModified": "2008-02-05T15:56:54.380",
+        "created": "2008-02-05T15:56:54.380",
+        "titles": [
+          {
+            "title": "Red Hat desktop",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:desktop:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C8623B5D-1EE1-489F-9E29-A14F348A84BE",
+        "lastModified": "2023-12-29T10:54:55.660",
+        "created": "2023-12-29T10:54:55.660",
+        "titles": [
+          {
+            "title": "Red Hat Desktop 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:desktop:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "2B14BA4D-E3AB-41D5-BA6A-558DEF45670E",
+        "lastModified": "2023-12-29T10:54:55.660",
+        "created": "2023-12-29T10:54:55.660",
+        "titles": [
+          {
+            "title": "Red Hat Desktop 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:desktop:-:*:*:*:*:*:*:*",
+      "title": "Red Hat desktop",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:desktop:3.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Desktop 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:desktop:4.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Desktop 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

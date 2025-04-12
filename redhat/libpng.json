@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:libpng:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6ED2F284-5649-421C-8E30-16432A0D20D4",
+        "lastModified": "2008-03-25T19:17:21.070",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat libpng",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:libpng:1.2.2-16:*:*:*:*:*:*:*",
+        "cpeNameId": "AF1FA88E-BEB5-4896-9206-39843233142A",
+        "lastModified": "2008-04-07T14:49:47.723",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat libpng 1.2.2.16",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:libpng:1.2.2-20:*:*:*:*:*:*:*",
+        "cpeNameId": "8917A456-0251-493A-914F-AC968D25C7E0",
+        "lastModified": "2008-04-07T14:49:48.003",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat libpng 1.2.2.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:libpng:-:*:*:*:*:*:*:*",
+      "title": "Red Hat libpng",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:libpng:1.2.2-16:*:*:*:*:*:*:*",
+      "title": "Red Hat libpng 1.2.2.16",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:libpng:1.2.2-20:*:*:*:*:*:*:*",
+      "title": "Red Hat libpng 1.2.2.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

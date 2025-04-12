@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_gitops:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "69F4E768-8BBB-4770-B479-5E6E2FCE99B1",
+        "lastModified": "2022-06-06T13:54:14.217",
+        "created": "2022-02-28T14:19:16.080",
+        "titles": [
+          {
+            "title": "Red Hat Openshift Gitops 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_gitops:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7BDAAA5A-04CF-449C-8766-05802FD80D9F",
+        "lastModified": "2023-10-25T05:38:59.000",
+        "created": "2023-10-25T05:38:59.000",
+        "titles": [
+          {
+            "title": "Red Hat Openshift Gitops -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:openshift_gitops:1.1:*:*:*:*:*:*:*",
+      "title": "Red Hat Openshift Gitops 1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openshift_gitops:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Openshift Gitops -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

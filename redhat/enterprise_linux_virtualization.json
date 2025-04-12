@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_virtualization:-:*:*:*:*:*:*:*",
+        "cpeNameId": "961030F2-8858-4CBF-81D1-FA2695D18560",
+        "lastModified": "2008-04-01T16:42:22.037",
+        "created": "2007-09-12T22:56:38.370",
+        "titles": [
+          {
+            "title": "Red Hat Virtualization",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_virtualization:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "04B91A66-4A79-403F-9C34-BDFE48B1738C",
+        "lastModified": "2008-04-07T14:49:34.833",
+        "created": "2007-09-12T22:56:38.497",
+        "titles": [
+          {
+            "title": "Red Hat rhel_virtualization 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_virtualization:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "31BF4616-66A0-4447-88ED-F2099CB075C7",
+        "lastModified": "2018-11-14T14:31:52.387",
+        "created": "2018-11-14T14:31:52.387",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Virtualization 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_virtualization:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Virtualization",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_virtualization:5.0:*:*:*:*:*:*:*",
+      "title": "Red Hat rhel_virtualization 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_virtualization:4.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Virtualization 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

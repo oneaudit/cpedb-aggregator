@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:jbossweb:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F2C66452-5CF5-45F5-829B-79ED1149A8E3",
+        "lastModified": "2020-09-14T15:36:03.583",
+        "created": "2020-09-14T15:36:03.583",
+        "titles": [
+          {
+            "title": "Red Hat Jbossweb",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:jbossweb:7.5.31.final-redhat-3:*:*:*:*:*:*:*",
+        "cpeNameId": "3D59B932-8E23-4210-908E-33ABE9F74EE4",
+        "lastModified": "2020-09-14T15:36:03.880",
+        "created": "2020-09-14T15:36:03.880",
+        "titles": [
+          {
+            "title": "Red Hat Jbossweb 7.5.31.Final-redhat-3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:jbossweb:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Jbossweb",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:jbossweb:7.5.31.final-redhat-3:*:*:*:*:*:*:*",
+      "title": "Red Hat Jbossweb 7.5.31.Final-redhat-3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_server_workstation:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "89A06D98-0595-41AF-B686-C731D2B443AF",
+        "lastModified": "2020-08-24T13:52:56.817",
+        "created": "2020-08-24T13:52:56.817",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Server Workstation 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_server_workstation:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0C35766B-18FC-41B3-9AB7-480FE5C755F3",
+        "lastModified": "2021-05-07T18:01:13.740",
+        "created": "2020-08-26T13:12:13.663",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Server Workstation 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_server_workstation:7.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Server Workstation 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_server_workstation:5.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Server Workstation 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

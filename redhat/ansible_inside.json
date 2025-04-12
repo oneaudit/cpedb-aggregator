@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:ansible_inside:1.1:*:*:*:*:*:*:*",
+        "cpeNameId": "47260329-B9D1-45AD-9F3C-2B128B698D51",
+        "lastModified": "2023-10-10T17:42:38.040",
+        "created": "2023-10-10T17:42:38.040",
+        "titles": [
+          {
+            "title": "Red Hat Ansible Inside 1.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:ansible_inside:1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "DB5B1C74-4BB2-4C4D-8A73-FAC2D6E201DC",
+        "lastModified": "2023-10-10T17:42:38.040",
+        "created": "2023-10-10T17:42:38.040",
+        "titles": [
+          {
+            "title": "Red Hat Ansible Inside 1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:ansible_inside:1.1:*:*:*:*:*:*:*",
+      "title": "Red Hat Ansible Inside 1.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:ansible_inside:1.2:*:*:*:*:*:*:*",
+      "title": "Red Hat Ansible Inside 1.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

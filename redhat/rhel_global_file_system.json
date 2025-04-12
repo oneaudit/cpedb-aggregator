@@ -1,0 +1,116 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_global_file_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2D940217-6F1E-4FB7-A9E9-5AA4199A25E2",
+        "lastModified": "2008-04-15T22:38:00.053",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat Global File System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_global_file_system:3:*:*:*:*:*:*:*",
+        "cpeNameId": "E9EF23F8-06DA-4CFF-B484-3149350DB8A4",
+        "lastModified": "2008-04-15T22:38:00.133",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat Global File System 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_global_file_system:4:*:*:*:*:*:*:*",
+        "cpeNameId": "15CE6DCA-67AE-4880-AE9D-23BE1BB451FB",
+        "lastModified": "2008-04-15T22:38:00.227",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat Global File System 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_global_file_system:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DFEC2077-6D4A-4346-A1A0-41651F303792",
+        "lastModified": "2008-04-15T22:38:00.303",
+        "created": "2008-04-15T22:38:00.303",
+        "titles": [
+          {
+            "title": "Red Hat Global File System 6.0 for Enterprise Linux 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_global_file_system:6.1:*:*:*:*:*:*:*",
+        "cpeNameId": "416F77CF-AAB7-461C-95D0-3D5268BC611B",
+        "lastModified": "2008-04-15T22:38:00.383",
+        "created": "2008-04-15T22:38:00.383",
+        "titles": [
+          {
+            "title": "Red Hat Global File System 6.1 for Enterprise Linux 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:rhel_global_file_system:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Global File System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhel_global_file_system:3:*:*:*:*:*:*:*",
+      "title": "Red Hat Global File System 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhel_global_file_system:4:*:*:*:*:*:*:*",
+      "title": "Red Hat Global File System 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhel_global_file_system:6.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Global File System 6.0 for Enterprise Linux 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhel_global_file_system:6.1:*:*:*:*:*:*:*",
+      "title": "Red Hat Global File System 6.1 for Enterprise Linux 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

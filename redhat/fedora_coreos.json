@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:fedora_coreos:36.20220820.3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "19023538-176D-4110-A6D1-2AE420628C25",
+        "lastModified": "2022-11-04T22:50:18.827",
+        "created": "2022-11-04T11:56:29.717",
+        "titles": [
+          {
+            "title": "Red Hat Fedora CoreOS 36.20220820.3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:fedora_coreos:37.20221031.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E06C4796-595F-4836-91EF-7355B8849178",
+        "lastModified": "2022-11-04T22:50:18.827",
+        "created": "2022-11-04T11:56:29.717",
+        "titles": [
+          {
+            "title": "Red Hat Fedora CoreOS 37.20221031.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:fedora_coreos:36.20220820.3.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Fedora CoreOS 36.20220820.3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:fedora_coreos:37.20221031.1.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Fedora CoreOS 37.20221031.1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_virtualization:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2D4D0F79-D4FB-4414-847B-AB58BF1E2541",
+        "lastModified": "2008-04-15T22:38:00.600",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat Virtualization",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_virtualization:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0089FC54-0CD5-48CE-85AC-F915EC6BA311",
+        "lastModified": "2008-04-15T22:27:42.070",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat enterprise_linux_virtualization 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_virtualization:5:*:*:*:*:*:*:*",
+        "cpeNameId": "F32996CA-0E66-4813-BAB5-03FB6A31798E",
+        "lastModified": "2008-04-15T22:38:00.663",
+        "created": "2007-09-12T22:56:38.530",
+        "titles": [
+          {
+            "title": "Red Hat rhel_virtualization 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_virtualization:5:*:client:*:*:*:*:*",
+        "cpeNameId": "4D19D4F3-AF00-4BE7-9326-B6EC3C968FB2",
+        "lastModified": "2008-04-15T22:38:00.740",
+        "created": "2008-04-15T22:38:00.740",
+        "titles": [
+          {
+            "title": "Red Hat Virtualization 5 Client",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_virtualization:5:*:server:*:*:*:*:*",
+        "cpeNameId": "3D6E62C0-0D72-476D-998F-F4CDB1C1AFED",
+        "lastModified": "2008-04-15T22:38:01.053",
+        "created": "2008-04-15T22:38:01.053",
+        "titles": [
+          {
+            "title": "Red Hat Virtualization 5 Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:rhel_virtualization:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Virtualization",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhel_virtualization:5.0:*:*:*:*:*:*:*",
+      "title": "Red Hat enterprise_linux_virtualization 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhel_virtualization:5:*:*:*:*:*:*:*",
+      "title": "Red Hat rhel_virtualization 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhel_virtualization:5:*:client:*:*:*:*:*",
+      "title": "Red Hat Virtualization 5 Client",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhel_virtualization:5:*:server:*:*:*:*:*",
+      "title": "Red Hat Virtualization 5 Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

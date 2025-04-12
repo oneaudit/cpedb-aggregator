@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:open_iscsi:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EB0F5103-585F-4474-9788-C332DAA94C6F",
+        "lastModified": "2008-03-25T19:17:34.600",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat open_iscsi",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:open_iscsi:2.0-864:*:*:*:*:*:*:*",
+        "cpeNameId": "3EFAF377-954A-4E85-9358-07A710F52476",
+        "lastModified": "2008-04-07T14:49:54.410",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat open_iscsi 2.0.864",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:open_iscsi:-:*:*:*:*:*:*:*",
+      "title": "Red Hat open_iscsi",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:open_iscsi:2.0-864:*:*:*:*:*:*:*",
+      "title": "Red Hat open_iscsi 2.0.864",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

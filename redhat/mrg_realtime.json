@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:mrg_realtime:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E2D25011-DF5E-4155-B328-94FD8292B61E",
+        "lastModified": "2019-11-05T19:15:50.230",
+        "created": "2019-11-05T19:15:50.230",
+        "titles": [
+          {
+            "title": "Red Hat MRG Realtime 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:mrg_realtime:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6A24BBEF-6AB5-4404-A0BF-7273267828DC",
+        "lastModified": "2023-11-25T03:54:19.637",
+        "created": "2023-11-25T03:54:19.637",
+        "titles": [
+          {
+            "title": "Red Hat Mrg Realtime 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:mrg_realtime:2.0:*:*:*:*:*:*:*",
+      "title": "Red Hat MRG Realtime 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:mrg_realtime:1.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Mrg Realtime 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

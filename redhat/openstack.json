@@ -1,0 +1,782 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3764C043-305B-4750-816E-8268EE5462BA",
+        "lastModified": "2013-08-01T01:37:48.053",
+        "created": "2013-07-31T18:22:47.307",
+        "titles": [
+          {
+            "title": "Red Hat Open Stack 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "62F6CF45-5B2D-4E33-9D15-F6CECBB2EA37",
+        "lastModified": "2014-04-24T19:32:30.880",
+        "created": "2014-04-17T15:58:39.497",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6D93D3FF-73DA-4605-A35D-B19F28293B9A",
+        "lastModified": "2015-05-18T17:32:16.403",
+        "created": "2015-05-14T19:24:38.273",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redhat:openstack:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C325D5A9-109F-4BB6-B232-040C74C690C8",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2016-07-05T15:30:20.680",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:openstack:8:*:*:*:*:*:*:*",
+            "cpeNameId": "33F20726-ACEC-47AB-BCA0-91929E22172C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redhat:openstack:9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0BB4B12A-5FAF-43FD-8D91-F6C49B525D26",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2017-04-26T17:34:57.617",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:openstack:9:*:*:*:*:*:*:*",
+            "cpeNameId": "BCDACC72-1C58-43F8-A5A6-B2E6D186593E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redhat:openstack:12.0:*:*:*:*:*:*:*",
+        "cpeNameId": "84526718-520C-4321-A526-02AE224A582E",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2017-10-05T15:55:11.223",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 12.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:openstack:12:*:*:*:*:*:*:*",
+            "cpeNameId": "5C2B4429-BE50-45AB-BD48-73D0CBCBC3C6"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redhat:openstack:11.0:*:*:*:*:*:*:*",
+        "cpeNameId": "955029B5-BF35-4F3C-9EC1-D790C15EF59A",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2017-10-05T15:55:11.223",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 11.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:openstack:11:*:*:*:*:*:*:*",
+            "cpeNameId": "80816A42-950B-40CA-BAC4-F42AE5CE3557"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redhat:openstack:10.0:*:*:*:*:*:*:*",
+        "cpeNameId": "FE00032B-9F87-454B-AD8D-B197AC0629BC",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2017-10-05T15:55:11.223",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 10.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:openstack:10:*:*:*:*:*:*:*",
+            "cpeNameId": "04FA93C4-24CD-426F-A7A0-8B2BA7807C19"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redhat:openstack:13.0:*:*:*:*:*:*:*",
+        "cpeNameId": "222619CC-5E99-432A-9136-9B40C1DCA5BA",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2018-08-21T19:07:10.187",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 13.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:openstack:13:*:*:*:*:*:*:*",
+            "cpeNameId": "3FE4067E-F281-448B-A08A-8DFCF2579EDA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redhat:openstack:9.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "49A9BB79-C17C-49AC-A217-25B9C572C73C",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2018-09-24T17:41:40.590",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 9.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:openstack:9:*:*:*:*:*:*:*",
+            "cpeNameId": "BCDACC72-1C58-43F8-A5A6-B2E6D186593E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redhat:openstack:10.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "443CD823-B2B3-4775-B802-68CD49BFEE14",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2018-09-24T17:41:40.590",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 10.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:openstack:10:*:*:*:*:*:*:*",
+            "cpeNameId": "04FA93C4-24CD-426F-A7A0-8B2BA7807C19"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:10:*:*:*:*:*:*:*",
+        "cpeNameId": "04FA93C4-24CD-426F-A7A0-8B2BA7807C19",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2018-10-30T13:13:40.860",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "62379B74-32F1-48B3-94A1-EF46EF678B2F",
+        "lastModified": "2018-11-19T16:49:22.607",
+        "created": "2018-11-19T16:49:22.607",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:12:*:*:*:*:*:*:*",
+        "cpeNameId": "5C2B4429-BE50-45AB-BD48-73D0CBCBC3C6",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2018-12-03T20:17:24.367",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:9:*:*:*:*:*:*:*",
+        "cpeNameId": "BCDACC72-1C58-43F8-A5A6-B2E6D186593E",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2019-03-19T13:16:18.330",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:8:*:*:*:*:*:*:*",
+        "cpeNameId": "33F20726-ACEC-47AB-BCA0-91929E22172C",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2019-03-19T13:16:18.330",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redhat:openstack:14.0:*:*:*:*:*:*:*",
+        "cpeNameId": "717C9944-1F23-4015-AF0E-6A55F53753CC",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2019-04-03T12:38:43.857",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 14.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:openstack:14:*:*:*:*:*:*:*",
+            "cpeNameId": "33C936CD-663A-45B0-8618-BEF1BB42AF7D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:redhat:openstack:15.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3FE0014F-1AF4-48C0-BFBA-7CD3A30DC2CF",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2019-12-06T18:29:13.207",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 15.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:openstack:15:*:*:*:*:*:*:*",
+            "cpeNameId": "C4983346-24B7-4C5A-8877-FEF474438E2A"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "DDCF4AEF-8696-4335-90D0-0A0C2F8D768C",
+        "lastModified": "2019-12-16T14:40:12.053",
+        "created": "2019-12-16T14:40:12.053",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "08DAF1F7-2256-4B2E-AE03-65802BA13712",
+        "lastModified": "2020-01-14T18:16:31.433",
+        "created": "2020-01-14T18:16:31.433",
+        "titles": [
+          {
+            "title": "Red Hat Openstack 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "522935A9-FBF0-4874-9817-42A2AE4BCA3B",
+        "lastModified": "2021-06-03T18:01:57.583",
+        "created": "2020-02-10T15:47:19.370",
+        "titles": [
+          {
+            "title": "Redhat OpenStack 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:14:*:*:*:*:*:*:*",
+        "cpeNameId": "33C936CD-663A-45B0-8618-BEF1BB42AF7D",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2020-08-04T12:42:18.930",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:13:*:*:*:*:*:*:*",
+        "cpeNameId": "3FE4067E-F281-448B-A08A-8DFCF2579EDA",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2020-09-01T11:44:47.953",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:11:*:*:*:*:*:*:*",
+        "cpeNameId": "80816A42-950B-40CA-BAC4-F42AE5CE3557",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2020-12-14T19:01:58.067",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:16.1:*:*:*:*:*:*:*",
+        "cpeNameId": "494440C1-B702-49B9-897E-D9EA16A7B6E0",
+        "lastModified": "2020-12-22T16:18:33.407",
+        "created": "2020-12-22T16:18:33.407",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 16.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:15:*:*:*:*:*:*:*",
+        "cpeNameId": "C4983346-24B7-4C5A-8877-FEF474438E2A",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2021-08-04T17:12:33.083",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:16.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1467FCDD-64C8-4DAC-AA70-6352694A201F",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2021-08-04T17:12:42.107",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 16.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:16.2:beta:*:*:*:*:*:*",
+        "cpeNameId": "911F6055-CE32-4E65-8928-51922E3A05BA",
+        "lastModified": "2021-08-04T17:14:33.593",
+        "created": "2021-08-04T17:12:58.257",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 16.2 Beta",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:16.2:-:*:*:*:*:*:*",
+        "cpeNameId": "9C7BFFAC-9510-44FD-8D35-88C1323C62DE",
+        "lastModified": "2022-02-25T18:32:01.953",
+        "created": "2022-02-25T15:11:21.867",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack 16.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:1:*:*:*:*:*:*:*",
+        "cpeNameId": "ECE5CD1B-95F8-4B96-AE15-CC13C81ED859",
+        "lastModified": "2022-06-06T13:54:14.217",
+        "created": "2022-03-13T02:21:34.140",
+        "titles": [
+          {
+            "title": "Red Hat Openstack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AFBE99D0-B60A-4470-A962-F699C0FA6396",
+        "lastModified": "2023-08-11T23:44:56.230",
+        "created": "2023-05-23T10:56:26.170",
+        "titles": [
+          {
+            "title": "Red Hat Openstack -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:13:*:*:*:els:*:*:*",
+        "cpeNameId": "15CA891A-3D3C-4035-9170-B38636D9C7F8",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack  13 Extended Lifecycle Support Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack:17:*:*:*:*:*:*:*",
+        "cpeNameId": "0B5AC345-7171-4F90-A36C-21D11934ED4A",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack  17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:openstack:3.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Open Stack 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:4.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:7.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:8.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:openstack:8:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:9.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 9.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:openstack:9:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:12.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 12.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:openstack:12:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:11.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 11.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:openstack:11:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:10.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 10.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:openstack:10:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:13.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 13.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:openstack:13:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:9.0.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 9.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:openstack:9:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:10.0.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 10.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:openstack:10:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:10:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:5.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:12:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:9:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:8:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:14.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 14.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:openstack:14:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:15.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 15.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:openstack:15:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:2.1:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:2.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Openstack 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:6.0:*:*:*:*:*:*:*",
+      "title": "Redhat OpenStack 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:14:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:13:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 13",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:11:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 11",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:16.1:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 16.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:15:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:16.0:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 16.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:16.2:beta:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 16.2 Beta",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:16.2:-:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack 16.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:1:*:*:*:*:*:*:*",
+      "title": "Red Hat Openstack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Openstack -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:13:*:*:*:els:*:*:*",
+      "title": "Red Hat OpenStack  13 Extended Lifecycle Support Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack:17:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack  17",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

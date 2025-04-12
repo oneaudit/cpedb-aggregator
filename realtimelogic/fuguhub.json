@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:realtimelogic:fuguhub:8.1:*:*:*:*:windows:*:*",
+        "cpeNameId": "64CFF232-DD89-4FF0-8322-6DC2E5CFA3C4",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "RealTimeLogic FuguHub 8.1 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:realtimelogic:fuguhub:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "52B6F28A-EEAD-4CCC-958B-A7C3CD2E280D",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "RealTimeLogic FuguHub for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:realtimelogic:fuguhub:8.1:*:*:*:*:windows:*:*",
+      "title": "RealTimeLogic FuguHub 8.1 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:realtimelogic:fuguhub:-:*:*:*:*:windows:*:*",
+      "title": "RealTimeLogic FuguHub for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

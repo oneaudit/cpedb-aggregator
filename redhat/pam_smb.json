@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:pam_smb:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D0778F69-DDD2-4E23-932A-F3D4CBFADF1D",
+        "lastModified": "2008-03-25T19:17:35.803",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat pam_smb",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:pam_smb:1.1.6-2:*:*:*:*:*:*:*",
+        "cpeNameId": "10FB036A-31AF-400C-82A1-3DAA456C2DC2",
+        "lastModified": "2008-04-07T14:49:56.287",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat pam_smb 1.1.6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:pam_smb:1.1.6-5:*:*:*:*:*:*:*",
+        "cpeNameId": "6443CB7C-3A67-46F5-9828-5CA01F992E7B",
+        "lastModified": "2008-04-07T14:49:56.677",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat pam_smb 1.1.6.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:pam_smb:1.1.6-7:*:*:*:*:*:*:*",
+        "cpeNameId": "5EEC9F9C-1E6E-4AF7-9EA7-11AFADA51520",
+        "lastModified": "2008-04-07T14:49:57.037",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat pam_smb 1.1.6.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:pam_smb:-:*:*:*:*:*:*:*",
+      "title": "Red Hat pam_smb",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:pam_smb:1.1.6-2:*:*:*:*:*:*:*",
+      "title": "Red Hat pam_smb 1.1.6.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:pam_smb:1.1.6-5:*:*:*:*:*:*:*",
+      "title": "Red Hat pam_smb 1.1.6.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:pam_smb:1.1.6-7:*:*:*:*:*:*:*",
+      "title": "Red Hat pam_smb 1.1.6.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

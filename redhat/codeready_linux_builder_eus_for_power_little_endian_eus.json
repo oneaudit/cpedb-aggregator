@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:codeready_linux_builder_eus_for_power_little_endian_eus:9.2_ppc64le:*:*:*:*:*:*:*",
+        "cpeNameId": "F1CC553C-417E-4FBD-B9B5-1E1543DD28BE",
+        "lastModified": "2023-10-25T05:38:59.000",
+        "created": "2023-10-25T05:38:59.000",
+        "titles": [
+          {
+            "title": "Red Hat Codeready Linux Builder Eus For Power Little Endian Eus 9.2 Ppc64le",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:codeready_linux_builder_eus_for_power_little_endian_eus:9.0_ppc64le:*:*:*:*:*:*:*",
+        "cpeNameId": "DE999215-FD9C-498A-90DD-95BBE9F21926",
+        "lastModified": "2023-12-16T03:29:20.353",
+        "created": "2023-12-16T03:29:20.353",
+        "titles": [
+          {
+            "title": "Red Hat CodeReady Linux Builder EUS for Power Little Endian EUS 9.0 Ppc64le",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:codeready_linux_builder_eus_for_power_little_endian_eus:8.6_ppc64le:*:*:*:*:*:*:*",
+        "cpeNameId": "BD0582A2-E70C-4FCB-9E11-2FDBF6434F8A",
+        "lastModified": "2024-04-17T19:49:35.380",
+        "created": "2024-04-17T19:49:35.380",
+        "titles": [
+          {
+            "title": "Red Hat CodeReady Linux Builder EUS for Power Little Endian EUS 8.6 ppc64le",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:codeready_linux_builder_eus_for_power_little_endian_eus:9.2_ppc64le:*:*:*:*:*:*:*",
+      "title": "Red Hat Codeready Linux Builder Eus For Power Little Endian Eus 9.2 Ppc64le",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:codeready_linux_builder_eus_for_power_little_endian_eus:9.0_ppc64le:*:*:*:*:*:*:*",
+      "title": "Red Hat CodeReady Linux Builder EUS for Power Little Endian EUS 9.0 Ppc64le",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:codeready_linux_builder_eus_for_power_little_endian_eus:8.6_ppc64le:*:*:*:*:*:*:*",
+      "title": "Red Hat CodeReady Linux Builder EUS for Power Little Endian EUS 8.6 ppc64le",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

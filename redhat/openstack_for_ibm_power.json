@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack_for_ibm_power:16.1:*:*:*:*:*:*:*",
+        "cpeNameId": "8D126C0C-7039-47AA-83AF-6EA15118DFA3",
+        "lastModified": "2022-11-09T16:47:58.307",
+        "created": "2022-10-07T12:59:00.253",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack For IBM Power 16.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack_for_ibm_power:13:*:*:*:els:*:*:*",
+        "cpeNameId": "A9B163C4-A507-4D3E-972A-A2ECFD2B684F",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack  For IBM Power 13 Extended Lifecycle Support Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack_for_ibm_power:16.2:*:*:*:*:*:*:*",
+        "cpeNameId": "FE2DCCA0-AAF3-4586-96F4-3EDB0E1EE592",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack  For IBM Power 16.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openstack_for_ibm_power:15:*:*:*:*:*:*:*",
+        "cpeNameId": "602D5F46-B93C-4ECC-AF47-C9AC1DC861C7",
+        "lastModified": "2023-09-28T14:54:17.860",
+        "created": "2023-09-28T14:54:17.860",
+        "titles": [
+          {
+            "title": "Red Hat OpenStack For IBM Power 15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:openstack_for_ibm_power:16.1:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack For IBM Power 16.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack_for_ibm_power:13:*:*:*:els:*:*:*",
+      "title": "Red Hat OpenStack  For IBM Power 13 Extended Lifecycle Support Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack_for_ibm_power:16.2:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack  For IBM Power 16.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openstack_for_ibm_power:15:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenStack For IBM Power 15",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:jboss-remoting:3.3.10:*:*:*:*:*:*:*",
+        "cpeNameId": "A773A447-05A9-4D27-975A-888F5DD01B79",
+        "lastModified": "2021-04-15T16:35:20.893",
+        "created": "2018-03-08T03:11:25.743",
+        "titles": [
+          {
+            "title": "Red Hat JBoss-remoting 3.3.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:jboss-remoting:5.0.14:-:*:*:*:*:*:*",
+        "cpeNameId": "FF4B4642-D4DC-4DEC-80DF-7F62D6100679",
+        "lastModified": "2021-04-15T16:35:20.893",
+        "created": "2021-03-24T11:31:21.570",
+        "titles": [
+          {
+            "title": "Red Hat JBoss-remoting 5.0.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:jboss-remoting:5.0.20:-:*:*:*:*:*:*",
+        "cpeNameId": "EF09DD83-8702-4094-ADC0-143B7285C8A5",
+        "lastModified": "2022-05-23T13:26:51.490",
+        "created": "2021-06-08T21:10:16.633",
+        "titles": [
+          {
+            "title": "Red Hat Jboss-remoting 5.0.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:jboss-remoting:5.0.20:sp1-redhat-00001:*:*:*:*:*:*",
+        "cpeNameId": "59BFE818-6C01-4EEB-9CA8-9689EBFFDF54",
+        "lastModified": "2022-05-23T13:26:51.490",
+        "created": "2021-06-08T21:10:16.633",
+        "titles": [
+          {
+            "title": "Red Hat Jboss-remoting 5.0.20 Sp1-redhat-00001",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:jboss-remoting:3.3.10:*:*:*:*:*:*:*",
+      "title": "Red Hat JBoss-remoting 3.3.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:jboss-remoting:5.0.14:-:*:*:*:*:*:*",
+      "title": "Red Hat JBoss-remoting 5.0.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:jboss-remoting:5.0.20:-:*:*:*:*:*:*",
+      "title": "Red Hat Jboss-remoting 5.0.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:jboss-remoting:5.0.20:sp1-redhat-00001:*:*:*:*:*:*",
+      "title": "Red Hat Jboss-remoting 5.0.20 Sp1-redhat-00001",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

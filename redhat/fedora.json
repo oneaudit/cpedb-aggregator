@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:fedora:7:*:*:*:*:*:*:*",
+        "cpeNameId": "ECB97ED0-5B2C-4280-9AA7-1F488BB052A6",
+        "lastModified": "2008-04-15T22:37:37.410",
+        "created": "2007-09-12T22:56:31.323",
+        "titles": [
+          {
+            "title": "Fedora 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:fedora:8:*:*:*:*:*:*:*",
+        "cpeNameId": "1B4B0145-B62F-4219-B0BF-9EF7FF4273C5",
+        "lastModified": "2008-04-15T22:27:43.897",
+        "created": "2008-01-14T14:52:11.540",
+        "titles": [
+          {
+            "title": "Red Hat fedora 8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:fedora:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A9325C24-E56D-44C6-962E-87B3B4155BAC",
+        "lastModified": "2008-04-15T22:37:37.303",
+        "created": "2008-04-15T22:37:37.303",
+        "titles": [
+          {
+            "title": "Red Hat fedora",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:fedora:10:*:*:*:*:*:*:*",
+        "cpeNameId": "48958AF7-B705-450B-804F-5D001977A6BF",
+        "lastModified": "2009-01-21T15:20:58.407",
+        "created": "2009-01-21T15:20:58.407",
+        "titles": [
+          {
+            "title": "Red Hat fedora10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:fedora:7:*:*:*:*:*:*:*",
+      "title": "Fedora 7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:fedora:8:*:*:*:*:*:*:*",
+      "title": "Red Hat fedora 8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:fedora:-:*:*:*:*:*:*:*",
+      "title": "Red Hat fedora",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:fedora:10:*:*:*:*:*:*:*",
+      "title": "Red Hat fedora10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

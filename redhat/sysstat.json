@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:sysstat:-:*:*:*:*:*:*:*",
+        "cpeNameId": "35D9DAC9-A7AE-4C63-96CC-E57480AD5C76",
+        "lastModified": "2008-03-25T19:17:41.960",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat sysstat",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:sysstat:4.0.7-3:*:*:*:*:*:*:*",
+        "cpeNameId": "0A35E212-5C87-4A9B-AEA7-3861502FA599",
+        "lastModified": "2008-04-07T14:50:02.410",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat sysstat 4.0.7.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:sysstat:-:*:*:*:*:*:*:*",
+      "title": "Red Hat sysstat",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:sysstat:4.0.7-3:*:*:*:*:*:*:*",
+      "title": "Red Hat sysstat 4.0.7.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

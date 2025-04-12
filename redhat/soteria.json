@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:soteria:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6085C6F3-C177-4CE7-8913-7BCCEAC57520",
+        "lastModified": "2020-05-06T17:21:01.583",
+        "created": "2020-05-06T17:21:01.583",
+        "titles": [
+          {
+            "title": "Red Hat Soteria",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:soteria:1.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "7820A00E-2674-4E08-919E-339E9C2BFEA5",
+        "lastModified": "2020-05-06T17:21:02.443",
+        "created": "2020-05-06T17:21:02.443",
+        "titles": [
+          {
+            "title": "Red Hat Soteria 1.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:soteria:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Soteria",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:soteria:1.0.1:*:*:*:*:*:*:*",
+      "title": "Red Hat Soteria 1.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

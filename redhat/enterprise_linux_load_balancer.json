@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:enterprise_linux_load_balancer:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "88349FCD-1756-4FEC-9420-95FCC470E1F8",
+        "lastModified": "2013-08-19T18:46:16.267",
+        "created": "2013-08-19T18:30:44.930",
+        "titles": [
+          {
+            "title": "RedHat Enterprise Linux Load Balancer 6.0 (v6)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:enterprise_linux_load_balancer:6.4:*:*:*:*:*:*:*",
+        "cpeNameId": "8EDCF982-107A-4E37-A3FD-064A73E98008",
+        "lastModified": "2013-08-19T18:46:16.360",
+        "created": "2013-08-19T18:30:45.080",
+        "titles": [
+          {
+            "title": "RedHat Enterprise Linux Load Balancer 6.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:enterprise_linux_load_balancer:6.0:*:*:*:*:*:*:*",
+      "title": "RedHat Enterprise Linux Load Balancer 6.0 (v6)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:enterprise_linux_load_balancer:6.4:*:*:*:*:*:*:*",
+      "title": "RedHat Enterprise Linux Load Balancer 6.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

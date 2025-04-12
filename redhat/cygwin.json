@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:cygwin:-:*:*:*:*:*:*:*",
+        "cpeNameId": "36D726B6-CDD5-4FC7-8501-E778167D763F",
+        "lastModified": "2008-04-01T16:41:59.210",
+        "created": "2007-11-30T17:09:11.073",
+        "titles": [
+          {
+            "title": "Red Hat Cygwin",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:cygwin:1.5.7-1:*:*:*:*:*:*:*",
+        "cpeNameId": "20829C52-0C2A-4B92-89E3-D4BEB75E58F9",
+        "lastModified": "2008-04-07T14:49:07.363",
+        "created": "2007-11-30T17:12:15.503",
+        "titles": [
+          {
+            "title": "Red Hat Cygwin_dll 1.5.7_1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:cygwin:1.5.7:*:*:*:*:*:*:*",
+        "cpeNameId": "E048EB71-6C72-40C0-89B3-4E6602FC6A0F",
+        "lastModified": "2008-04-01T16:41:59.320",
+        "created": "2008-02-05T18:14:17.813",
+        "titles": [
+          {
+            "title": "Red Hat Cygwin 1.5.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:cygwin:1.5.19:*:*:*:*:*:*:*",
+        "cpeNameId": "20E139BD-CABF-4D09-9899-631E933D7731",
+        "lastModified": "2018-10-29T18:45:47.750",
+        "created": "2018-10-29T18:45:47.750",
+        "titles": [
+          {
+            "title": "Red Hat Cygwin 1.5.19",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:cygwin:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Cygwin",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:cygwin:1.5.7-1:*:*:*:*:*:*:*",
+      "title": "Red Hat Cygwin_dll 1.5.7_1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:cygwin:1.5.7:*:*:*:*:*:*:*",
+      "title": "Red Hat Cygwin 1.5.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:cygwin:1.5.19:*:*:*:*:*:*:*",
+      "title": "Red Hat Cygwin 1.5.19",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

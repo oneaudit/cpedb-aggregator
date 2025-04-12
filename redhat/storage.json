@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:storage:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "1F79915B-3D52-47DC-8769-FC63A1C39049",
+        "lastModified": "2014-06-09T18:11:28.903",
+        "created": "2014-06-06T14:20:43.090",
+        "titles": [
+          {
+            "title": "Red Hat Storage 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:storage:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "469C84E9-7BC6-4BF3-8EA7-FE363D0487A6",
+        "lastModified": "2019-12-09T19:31:59.383",
+        "created": "2019-12-09T19:31:59.383",
+        "titles": [
+          {
+            "title": "Red Hat Storage 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:storage:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "60DA746F-6BCE-4D47-99F5-EE768D1A4CB3",
+        "lastModified": "2021-08-16T15:34:05.860",
+        "created": "2020-01-27T19:43:59.727",
+        "titles": [
+          {
+            "title": "Red Hat Storage 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:storage:2.1:*:*:*:*:*:*:*",
+      "title": "Red Hat Storage 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:storage:2.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Storage 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:storage:3.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Storage 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

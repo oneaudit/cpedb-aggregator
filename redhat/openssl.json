@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openssl:-:*:*:*:*:*:*:*",
+        "cpeNameId": "022F33E8-540E-4E68-898F-CF62C6AA10E0",
+        "lastModified": "2008-03-25T19:17:34.790",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat openssl",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openssl:0.9.6-15:*:*:*:*:*:*:*",
+        "cpeNameId": "4F0DC8FC-2A57-40FD-8FBB-023FF7846A0A",
+        "lastModified": "2008-04-07T14:49:54.583",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat openssl 0.9.6.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openssl:0.9.6b-3:*:*:*:*:*:*:*",
+        "cpeNameId": "6F271767-C255-4F3F-B20A-161BFE039AEB",
+        "lastModified": "2008-04-07T14:49:54.833",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat openssl 0.9.6b3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openssl:0.9.7a-2:*:*:*:*:*:*:*",
+        "cpeNameId": "741AD4C7-4E21-4986-8FBB-66B222BC6C31",
+        "lastModified": "2008-04-07T14:49:55.127",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat openssl 0.9.7a2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:openssl:-:*:*:*:*:*:*:*",
+      "title": "Red Hat openssl",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openssl:0.9.6-15:*:*:*:*:*:*:*",
+      "title": "Red Hat openssl 0.9.6.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openssl:0.9.6b-3:*:*:*:*:*:*:*",
+      "title": "Red Hat openssl 0.9.6b3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openssl:0.9.7a-2:*:*:*:*:*:*:*",
+      "title": "Red Hat openssl 0.9.7a2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

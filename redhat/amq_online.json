@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:amq_online:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4BE8F975-026B-4334-A433-BB30E4B28FA0",
+        "lastModified": "2020-08-22T17:12:53.227",
+        "created": "2020-08-22T17:12:53.227",
+        "titles": [
+          {
+            "title": "Red Hat AMQ Online",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:amq_online:1.5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "64B03E52-30E0-4250-B2DA-E2F09E28B417",
+        "lastModified": "2020-08-22T17:12:53.663",
+        "created": "2020-08-22T17:12:53.663",
+        "titles": [
+          {
+            "title": "Red Hat AMQ Online 1.5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:amq_online:-:*:*:*:*:*:*:*",
+      "title": "Red Hat AMQ Online",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:amq_online:1.5.2:*:*:*:*:*:*:*",
+      "title": "Red Hat AMQ Online 1.5.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

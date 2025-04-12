@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:realtek:usdk:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C106A4F4-22AD-4E3D-863C-0C2BE34EEAA7",
+        "lastModified": "2023-01-20T15:16:16.040",
+        "created": "2023-01-06T18:03:51.723",
+        "titles": [
+          {
+            "title": "Realtek uSDK 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:realtek:usdk:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7CA90E74-1583-4B7C-BDC6-44BFC06212EA",
+        "lastModified": "2023-01-20T15:16:16.040",
+        "created": "2023-01-06T18:03:51.723",
+        "titles": [
+          {
+            "title": "Realtek uSDK 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:realtek:usdk:2.2:*:*:*:*:*:*:*",
+        "cpeNameId": "FB2F4694-D728-49E3-A6F5-3C38D23FDF5F",
+        "lastModified": "2023-01-20T15:16:16.040",
+        "created": "2023-01-06T18:03:51.723",
+        "titles": [
+          {
+            "title": "Realtek uSDK 2.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:realtek:usdk:1.0:*:*:*:*:*:*:*",
+      "title": "Realtek uSDK 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:realtek:usdk:2.0:*:*:*:*:*:*:*",
+      "title": "Realtek uSDK 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:realtek:usdk:2.2:*:*:*:*:*:*:*",
+      "title": "Realtek uSDK 2.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

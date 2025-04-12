@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:redhat:network_satelite_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B31DC0F5-1F2A-4C7A-8A33-ED76D73A5D37",
+        "lastModified": "2008-04-01T16:42:18.477",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat Network Satelite Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:redhat:network_satelite_server:5.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "585070E1-488E-4E86-B357-2BD357AACDEF",
+        "lastModified": "2008-04-01T16:42:18.523",
+        "created": "2007-08-31T12:39:26.410",
+        "titles": [
+          {
+            "title": "Red Hat Network Satelite Server 5.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:redhat:network_satelite_server:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Network Satelite Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:redhat:network_satelite_server:5.0.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Network Satelite Server 5.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

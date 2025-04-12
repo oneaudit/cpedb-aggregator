@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhq_mongo_db_drift_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3E4D46AA-DCB3-498C-8F05-6262654D3C9E",
+        "lastModified": "2019-11-08T19:17:34.760",
+        "created": "2019-11-08T19:17:34.760",
+        "titles": [
+          {
+            "title": "Red Hat RHQ Mongo DB Drift Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhq_mongo_db_drift_server:2013-09-25:*:*:*:*:*:*:*",
+        "cpeNameId": "CBB28D7B-DE70-4B43-8FE2-A869B0CF5F2C",
+        "lastModified": "2019-11-08T19:17:35.010",
+        "created": "2019-11-08T19:17:35.010",
+        "titles": [
+          {
+            "title": "Red Hat RHQ Mongo DB Drift Server 2013-09-25",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:rhq_mongo_db_drift_server:-:*:*:*:*:*:*:*",
+      "title": "Red Hat RHQ Mongo DB Drift Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhq_mongo_db_drift_server:2013-09-25:*:*:*:*:*:*:*",
+      "title": "Red Hat RHQ Mongo DB Drift Server 2013-09-25",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

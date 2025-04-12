@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:kernel:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D0B501E7-9B56-4346-808A-8412C566B031",
+        "lastModified": "2008-03-25T19:17:18.023",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat kernel",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:kernel:2.4.20-8:*:*:*:*:*:*:*",
+        "cpeNameId": "F6ED0123-A5AC-48A7-AEC0-BF5359537F68",
+        "lastModified": "2008-04-07T14:49:45.300",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat kernel 2.4.20.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:kernel:2.4.21:*:*:*:*:*:*:*",
+        "cpeNameId": "23339570-FF80-40AA-BA5A-2BA3DCA29EF7",
+        "lastModified": "2008-03-25T19:17:19.087",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat kernel 2.4.21",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:kernel:-:*:*:*:*:*:*:*",
+      "title": "Red Hat kernel",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:kernel:2.4.20-8:*:*:*:*:*:*:*",
+      "title": "Red Hat kernel 2.4.20.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:kernel:2.4.21:*:*:*:*:*:*:*",
+      "title": "Red Hat kernel 2.4.21",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

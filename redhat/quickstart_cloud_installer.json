@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:quickstart_cloud_installer:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "AA4C187F-6A22-4850-BBB1-809FE878B307",
+        "lastModified": "2021-08-09T16:49:44.370",
+        "created": "2017-04-24T23:09:51.053",
+        "titles": [
+          {
+            "title": "Red Hat QuickStart Cloud Installer (QCI) 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:quickstart_cloud_installer:0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "46FD0B15-2228-45D4-95C1-321C1764345A",
+        "lastModified": "2021-08-09T16:49:44.370",
+        "created": "2017-06-23T17:56:22.267",
+        "titles": [
+          {
+            "title": "Red Hat QuickStart Cloud Installer (QCI) 0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:quickstart_cloud_installer:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9859CAF3-C389-4D19-9AF0-8E8E8FB428DD",
+        "lastModified": "2021-01-05T16:26:57.763",
+        "created": "2021-01-05T16:26:57.763",
+        "titles": [
+          {
+            "title": "Red Hat QuickStart Cloud Installer (QCI)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:quickstart_cloud_installer:1.0:*:*:*:*:*:*:*",
+      "title": "Red Hat QuickStart Cloud Installer (QCI) 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:quickstart_cloud_installer:0.9:*:*:*:*:*:*:*",
+      "title": "Red Hat QuickStart Cloud Installer (QCI) 0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:quickstart_cloud_installer:-:*:*:*:*:*:*:*",
+      "title": "Red Hat QuickStart Cloud Installer (QCI)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

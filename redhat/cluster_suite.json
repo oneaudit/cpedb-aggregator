@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:cluster_suite:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B078AA9F-B9A9-483F-BD06-BE37DB9DAF68",
+        "lastModified": "2008-03-25T19:16:44.947",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat cluster_suite",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:cluster_suite:5.2:*:*:*:*:*:*:*",
+        "cpeNameId": "D39F73DE-02AE-4401-9793-CCFDA4692FDD",
+        "lastModified": "2022-08-26T20:26:08.490",
+        "created": "2022-08-01T16:36:47.523",
+        "titles": [
+          {
+            "title": "Red Hat Cluster Suite 5.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:cluster_suite:-:*:*:*:*:*:*:*",
+      "title": "Red Hat cluster_suite",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:cluster_suite:5.2:*:*:*:*:*:*:*",
+      "title": "Red Hat Cluster Suite 5.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

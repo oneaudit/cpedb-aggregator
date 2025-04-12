@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:ceph_storage_osd:1.3:*:*:*:*:*:*:*",
+        "cpeNameId": "065653FE-6F57-4011-8AFF-A785F978EEE8",
+        "lastModified": "2021-06-03T15:44:14.683",
+        "created": "2016-07-14T18:00:51.327",
+        "titles": [
+          {
+            "title": "Red Hat Ceph Storage OSD 1.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:ceph_storage_osd:3:*:*:*:*:*:*:*",
+        "cpeNameId": "2C31DB4E-165A-4917-9822-1C702CBA74D4",
+        "lastModified": "2021-06-03T15:44:14.683",
+        "created": "2018-09-04T17:18:38.543",
+        "titles": [
+          {
+            "title": "Red Hat Ceph Storage OSD 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:ceph_storage_osd:2:*:*:*:*:*:*:*",
+        "cpeNameId": "251423B7-97BE-44FE-A681-D756B3AB3AEB",
+        "lastModified": "2021-06-03T15:44:14.683",
+        "created": "2018-09-04T17:18:38.543",
+        "titles": [
+          {
+            "title": "Red Hat Ceph Storage OSD 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:ceph_storage_osd:1.3:*:*:*:*:*:*:*",
+      "title": "Red Hat Ceph Storage OSD 1.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:ceph_storage_osd:3:*:*:*:*:*:*:*",
+      "title": "Red Hat Ceph Storage OSD 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:ceph_storage_osd:2:*:*:*:*:*:*:*",
+      "title": "Red Hat Ceph Storage OSD 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

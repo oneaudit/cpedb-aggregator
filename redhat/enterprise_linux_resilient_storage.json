@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_resilient_storage:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7841C8B2-71FB-4B3D-A9A5-554DE173F48E",
+        "lastModified": "2021-06-28T13:35:31.867",
+        "created": "2016-08-02T14:42:07.867",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Resilient Storage 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_resilient_storage:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F79B6881-623C-4A95-B68E-1825A313975A",
+        "lastModified": "2021-06-28T13:35:31.867",
+        "created": "2016-08-02T14:42:07.867",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Resilient Storage 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_resilient_storage:7.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Resilient Storage 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_resilient_storage:6.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Resilient Storage 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

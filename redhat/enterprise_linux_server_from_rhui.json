@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_server_from_rhui:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "BB1736F8-22EE-4C98-BBA3-6E31167FA8AA",
+        "lastModified": "2022-02-11T14:56:20.073",
+        "created": "2022-02-08T16:30:30.930",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Server From RHUI 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_server_from_rhui:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F1E34D27-56DF-4420-B777-1F7E088CD860",
+        "lastModified": "2022-02-11T14:56:20.073",
+        "created": "2022-02-08T16:30:30.930",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Server From RHUI 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_server_from_rhui:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "611D3160-09C7-4B76-BC22-4293BD6AFD8C",
+        "lastModified": "2024-12-13T18:47:18.183",
+        "created": "2024-12-13T18:47:18.183",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Server from RHUI 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_server_from_rhui:6.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Server From RHUI 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_server_from_rhui:7.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Server From RHUI 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_server_from_rhui:5.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Server from RHUI 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

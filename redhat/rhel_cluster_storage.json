@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_cluster_storage:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CC9B1E3E-71F7-4000-A4FE-C7F517507825",
+        "lastModified": "2008-04-15T22:37:59.007",
+        "created": "2007-09-12T22:56:34.277",
+        "titles": [
+          {
+            "title": "Red Hat Cluster Storage",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_cluster_storage:5:*:*:*:*:*:*:*",
+        "cpeNameId": "A21E59BF-D1F4-46BF-BB1A-E24A1C1383DB",
+        "lastModified": "2008-04-15T22:37:59.087",
+        "created": "2008-04-15T22:37:59.087",
+        "titles": [
+          {
+            "title": "Red Hat Cluster Storage 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:rhel_cluster_storage:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Cluster Storage",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhel_cluster_storage:5:*:*:*:*:*:*:*",
+      "title": "Red Hat Cluster Storage 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

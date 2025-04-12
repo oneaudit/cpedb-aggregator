@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:mcstrans:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FECCE1C6-698A-44D9-A505-7378BF43BB2D",
+        "lastModified": "2008-04-01T16:42:18.257",
+        "created": "2007-11-12T14:42:41.663",
+        "titles": [
+          {
+            "title": "Red Hat msctrans",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:mcstrans:0.2.3:*:*:*:*:*:*:*",
+        "cpeNameId": "7941FB47-502B-4026-9CC2-C49E60A38612",
+        "lastModified": "2008-04-01T16:42:18.320",
+        "created": "2007-11-12T14:43:03.883",
+        "titles": [
+          {
+            "title": "Red Hat msctrans 0.2.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:mcstrans:-:*:*:*:*:*:*:*",
+      "title": "Red Hat msctrans",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:mcstrans:0.2.3:*:*:*:*:*:*:*",
+      "title": "Red Hat msctrans 0.2.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

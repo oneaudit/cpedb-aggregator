@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_dekstop:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A2B5CFB2-CBFE-4FC3-ACE3-E80EC3BEA157",
+        "lastModified": "2020-10-05T11:40:50.277",
+        "created": "2020-09-02T02:23:05.140",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Dekstop 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:redhat:enterprise_linux_desktop:7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3066C612-94C7-4A1F-B935-1E27C6FDF305"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_dekstop:7.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Dekstop 7.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:redhat:enterprise_linux_desktop:7.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:linux_advanced_workstation:-:*:*:*:*:*:*:*",
+        "cpeNameId": "48D6C771-0FAF-4A31-A4CF-8D692A6EA761",
+        "lastModified": "2008-03-25T19:17:33.930",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat Linux Advanced Workstation",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:linux_advanced_workstation:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "B0D4EC11-91E8-4573-B514-A9D19D7AAB1E",
+        "lastModified": "2008-03-25T19:17:34.040",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat Linux Advanced Workstation 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:linux_advanced_workstation:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Linux Advanced Workstation",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:linux_advanced_workstation:2.1:*:*:*:*:*:*:*",
+      "title": "Red Hat Linux Advanced Workstation 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:stronghold:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BA4547E2-78FB-4AA1-8298-A0E25AE69C65",
+        "lastModified": "2008-03-25T19:17:41.070",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat Stronghold",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:stronghold:2.3:*:*:*:*:*:*:*",
+        "cpeNameId": "040FB2E0-3E38-4BEF-88C1-26B4E883684C",
+        "lastModified": "2008-03-25T19:17:41.163",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat Stronghold 2.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:stronghold:3.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A45E7707-5DA5-4BD5-A04A-CC49381C4A94",
+        "lastModified": "2008-03-25T19:17:41.257",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat Stronghold 3.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:stronghold:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Stronghold",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:stronghold:2.3:*:*:*:*:*:*:*",
+      "title": "Red Hat Stronghold 2.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:stronghold:3.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Stronghold 3.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

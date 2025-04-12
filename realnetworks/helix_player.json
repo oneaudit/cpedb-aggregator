@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:realnetworks:helix_player:1.0:*:*:*:*:linux:*:*",
+        "cpeNameId": "D3EE576F-657C-4901-BE0A-7F969B5F6C41",
+        "lastModified": "2021-05-07T14:06:06.470",
+        "created": "2017-11-21T12:41:03.247",
+        "titles": [
+          {
+            "title": "RealNetworks Helix Player 1.0 for Linux",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:realnetworks:helix_player:-:*:*:*:*:*:*:*",
+        "cpeNameId": "501F0B3C-B1F1-45D9-8CD9-7D57EDBCEFB0",
+        "lastModified": "2018-11-21T19:34:57.030",
+        "created": "2018-11-21T19:34:57.030",
+        "titles": [
+          {
+            "title": "RealNetworks Helix Player",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:realnetworks:helix_player:1.0:*:*:*:*:linux:*:*",
+      "title": "RealNetworks Helix Player 1.0 for Linux",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:realnetworks:helix_player:-:*:*:*:*:*:*:*",
+      "title": "RealNetworks Helix Player",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

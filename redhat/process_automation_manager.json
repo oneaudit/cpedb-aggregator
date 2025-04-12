@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:process_automation_manager:7.5.1:*:*:*:*:*:*:*",
+        "cpeNameId": "EB2379C3-98D5-4689-9ACC-B293077B10A7",
+        "lastModified": "2020-04-02T16:03:01.937",
+        "created": "2020-04-02T16:03:01.937",
+        "titles": [
+          {
+            "title": "Red Hat Process Automation Manager 7.5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:process_automation_manager:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "3AEBAC72-6127-45DC-AE93-695EB40A55F5",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "Red Hat Process Automation Manager 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:process_automation_manager:7.5.1:*:*:*:*:*:*:*",
+      "title": "Red Hat Process Automation Manager 7.5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:process_automation_manager:7.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Process Automation Manager 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

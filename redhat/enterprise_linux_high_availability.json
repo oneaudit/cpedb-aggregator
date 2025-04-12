@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_high_availability:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "175E03D7-1A9F-471C-B44A-0536ADBF3690",
+        "lastModified": "2021-06-28T13:35:31.867",
+        "created": "2016-08-02T14:42:07.867",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux High Availability 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_high_availability:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4B02922B-378A-42A6-B94A-468B9A28178A",
+        "lastModified": "2021-06-28T13:35:31.867",
+        "created": "2016-08-02T14:42:07.867",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux High Availability 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_high_availability:9.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DCB94BB7-BD27-4603-8EED-5705501B0930",
+        "lastModified": "2023-10-07T02:28:40.400",
+        "created": "2023-10-07T02:28:40.400",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux High Availability 9.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_high_availability:7.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux High Availability 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_high_availability:6.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux High Availability 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_high_availability:9.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux High Availability 9.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_hpc_node:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "734C1EC6-70C4-47DE-8C96-E155CC09E200",
+        "lastModified": "2015-12-08T17:41:52.210",
+        "created": "2015-12-08T17:41:52.210",
+        "titles": [
+          {
+            "title": "RedHat Enterprise Linux HPC Node 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_hpc_node:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "21FA4D2F-09AE-4ABE-A347-919EA8237B9D",
+        "lastModified": "2015-12-16T17:03:53.190",
+        "created": "2015-12-16T17:03:53.190",
+        "titles": [
+          {
+            "title": "RedHat Enterprise Linux HPC Node 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_hpc_node:6:*:*:*:*:*:*:*",
+        "cpeNameId": "C6A2672A-72A7-4BD4-BA0A-8C31F2E036A3",
+        "lastModified": "2024-12-13T18:47:18.183",
+        "created": "2024-12-13T18:47:18.183",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Hpc Node 6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_hpc_node:7.0:*:*:*:*:*:*:*",
+      "title": "RedHat Enterprise Linux HPC Node 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_hpc_node:6.0:*:*:*:*:*:*:*",
+      "title": "RedHat Enterprise Linux HPC Node 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_hpc_node:6:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Hpc Node 6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

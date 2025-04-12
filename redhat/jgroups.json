@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:jgroups:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AE77FEFE-1145-4C53-8FDD-0D0279FFB177",
+        "lastModified": "2021-08-05T13:25:27.290",
+        "created": "2016-07-05T14:20:24.013",
+        "titles": [
+          {
+            "title": "Red Hat JGroups",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:jgroups:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C798682F-A8FC-4D32-BCF6-7EEF5FBC32CC",
+        "lastModified": "2022-06-06T13:54:14.217",
+        "created": "2022-02-25T16:24:06.337",
+        "titles": [
+          {
+            "title": "Red Hat JGroups 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:jgroups:-:*:*:*:*:*:*:*",
+      "title": "Red Hat JGroups",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:jgroups:4.0:*:*:*:*:*:*:*",
+      "title": "Red Hat JGroups 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

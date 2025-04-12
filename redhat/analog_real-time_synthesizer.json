@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:analog_real-time_synthesizer:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CB65828B-02E6-43F3-A1D7-999321A26658",
+        "lastModified": "2008-04-01T16:41:58.523",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat Arts",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:analog_real-time_synthesizer:2.1.1-5:*:*:*:*:*:*:*",
+        "cpeNameId": "55D0DE00-04E7-4DA5-9161-8A1A9BC10788",
+        "lastModified": "2008-04-07T14:49:04.927",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat Arts 2.1.1.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:analog_real-time_synthesizer:2.2-11:*:*:*:*:*:*:*",
+        "cpeNameId": "C07E19B0-E63C-472C-9EB7-7151B47D00B0",
+        "lastModified": "2008-04-07T14:49:05.177",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat Arts 2.2.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:analog_real-time_synthesizer:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Arts",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:analog_real-time_synthesizer:2.1.1-5:*:*:*:*:*:*:*",
+      "title": "Red Hat Arts 2.1.1.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:analog_real-time_synthesizer:2.2-11:*:*:*:*:*:*:*",
+      "title": "Red Hat Arts 2.2.11",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

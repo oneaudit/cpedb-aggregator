@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_for_scientific_computing:7.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E2655ED2-CB79-4003-B585-ABE7C17009C0",
+        "lastModified": "2021-06-28T13:35:31.867",
+        "created": "2016-07-14T18:00:51.327",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux For Scientific Computing 7.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_for_scientific_computing:6.0:*:*:*:*:*:*:*",
+        "cpeNameId": "410E172B-4970-43F8-A84C-F1639C95CB4F",
+        "lastModified": "2021-06-28T13:35:31.867",
+        "created": "2016-07-20T14:58:38.357",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux For Scientific Computing 6.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_for_scientific_computing:6.0:*:*:*:*:*:x64:*",
+        "cpeNameId": "ACCA53DB-ACB5-412E-94D5-B120F2267402",
+        "lastModified": "2023-09-28T13:17:12.857",
+        "created": "2023-09-28T13:17:12.857",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux For Scientific Computing 6.0 on x64",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_for_scientific_computing:6.0:*:*:*:*:*:x86:*",
+        "cpeNameId": "30243B4C-2EFC-4308-B2AD-1A0FACB2D1AA",
+        "lastModified": "2023-09-28T13:17:12.857",
+        "created": "2023-09-28T13:17:12.857",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux For Scientific Computing 6.0 on x86",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_for_scientific_computing:7.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux For Scientific Computing 7.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_for_scientific_computing:6.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux For Scientific Computing 6.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_for_scientific_computing:6.0:*:*:*:*:*:x64:*",
+      "title": "Red Hat Enterprise Linux For Scientific Computing 6.0 on x64",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_for_scientific_computing:6.0:*:*:*:*:*:x86:*",
+      "title": "Red Hat Enterprise Linux For Scientific Computing 6.0 on x86",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

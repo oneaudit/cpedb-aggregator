@@ -1,0 +1,158 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:redhat:certificate_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "653304BE-FAE8-4E18-8904-ADD93BDA0D87",
+        "lastModified": "2010-12-29T17:11:01.807",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat Certificate System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:certificate_system:-:*:*:*:*:*:*:*",
+            "cpeNameId": "16A83709-572C-4B5A-9B42-2E70E3111631"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:redhat:certificate_server:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "FA2A2A19-02D6-40A9-90E4-92D89A2919A6",
+        "lastModified": "2010-12-29T17:11:01.947",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat Certificate System 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:certificate_system:7.1:*:*:*:*:*:*:*",
+            "cpeNameId": "778A33CF-8E5E-4D48-942E-7073D307A7ED"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:redhat:certificate_server:7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "8DA589FA-DF3E-4644-B25C-E04401F09ADA",
+        "lastModified": "2010-12-29T17:11:02.087",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat Certificate System 7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:certificate_system:7.2:*:*:*:*:*:*:*",
+            "cpeNameId": "FDFF8FDE-0849-4205-97C7-6BB3951C17D8"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:redhat:certificate_server:7.3:*:*:*:*:*:*:*",
+        "cpeNameId": "9E40EB2E-92DA-4987-A6EE-77F04E14AFE6",
+        "lastModified": "2010-12-29T17:11:02.227",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat Certificate System 7.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:redhat:certificate_system:7.3:*:*:*:*:*:*:*",
+            "cpeNameId": "454A9903-4BC3-4252-9FED-79D81322FF75"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:certificate_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "35ADFAD1-993F-4485-B466-2B981A89F706",
+        "lastModified": "2008-04-01T16:42:19.943",
+        "created": "2007-11-08T00:48:03.010",
+        "titles": [
+          {
+            "title": "Red Hat rhel_certificate_server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:certificate_server:7.2:*:*:*:*:*:*:*",
+        "cpeNameId": "1A6D11C0-1883-4CB9-AEDE-B17398EF7F93",
+        "lastModified": "2008-04-01T16:42:20.007",
+        "created": "2007-11-08T00:48:14.297",
+        "titles": [
+          {
+            "title": "Red Hat rhel_certificate_server 7.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:certificate_server:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Certificate System",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:certificate_system:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:redhat:certificate_server:7.1:*:*:*:*:*:*:*",
+      "title": "Red Hat Certificate System 7.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:certificate_system:7.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:redhat:certificate_server:7.2:*:*:*:*:*:*:*",
+      "title": "Red Hat Certificate System 7.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:certificate_system:7.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:o:redhat:certificate_server:7.3:*:*:*:*:*:*:*",
+      "title": "Red Hat Certificate System 7.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:redhat:certificate_system:7.3:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:redhat:certificate_server:-:*:*:*:*:*:*:*",
+      "title": "Red Hat rhel_certificate_server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:certificate_server:7.2:*:*:*:*:*:*:*",
+      "title": "Red Hat rhel_certificate_server 7.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:sendmail:-:*:*:*:*:*:*:*",
+        "cpeNameId": "23DE12F0-FB4C-46AF-912B-75C60183C0B2",
+        "lastModified": "2008-03-25T19:17:39.617",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat sendmail",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:sendmail:8.12.5-7:*:*:*:*:*:*:*",
+        "cpeNameId": "2A36C582-2663-4600-A8E0-C4CCE58B871D",
+        "lastModified": "2008-04-07T14:50:00.987",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat sendmail 8.12.5.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:sendmail:8.12.8-4:*:*:*:*:*:*:*",
+        "cpeNameId": "B39DD6AC-7E0E-4837-98D0-FDC1C4ED391A",
+        "lastModified": "2008-04-07T14:50:01.457",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat sendmail 8.12.8.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:sendmail:-:*:*:*:*:*:*:*",
+      "title": "Red Hat sendmail",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:sendmail:8.12.5-7:*:*:*:*:*:*:*",
+      "title": "Red Hat sendmail 8.12.5.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:sendmail:8.12.8-4:*:*:*:*:*:*:*",
+      "title": "Red Hat sendmail 8.12.8.4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_serverless:1.17.0:*:*:*:*:*:*:*",
+        "cpeNameId": "B1DD39A2-4A4C-4E72-A4C1-2FFBE97594DA",
+        "lastModified": "2022-09-20T18:42:16.067",
+        "created": "2022-08-30T13:43:28.200",
+        "titles": [
+          {
+            "title": "Red Hat Openshift Serverless 1.17.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_serverless:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2CBF40B5-9343-4514-96BD-60FBD2F81A94",
+        "lastModified": "2022-09-20T18:42:16.067",
+        "created": "2022-08-30T13:43:28.200",
+        "titles": [
+          {
+            "title": "Red Hat Openshift Serverless",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_serverless:1.16.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0AC49885-B59D-40F2-B04D-6E2EDCA3DB3F",
+        "lastModified": "2022-09-20T18:42:16.067",
+        "created": "2022-08-30T13:43:28.200",
+        "titles": [
+          {
+            "title": "Red Hat Openshift Serverless 1.16.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_serverless:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5B2EB3FA-FCC4-4C0A-B88C-807DB31CD64B",
+        "lastModified": "2023-10-25T05:38:59.000",
+        "created": "2023-10-25T05:38:59.000",
+        "titles": [
+          {
+            "title": "Red Hat Openshift Serverless 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:openshift_serverless:1.17.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Openshift Serverless 1.17.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openshift_serverless:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Openshift Serverless",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openshift_serverless:1.16.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Openshift Serverless 1.16.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openshift_serverless:1.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Openshift Serverless 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

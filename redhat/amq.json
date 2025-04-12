@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:amq:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "38169BC4-64D1-48C6-8724-271C2AE6F6B6",
+        "lastModified": "2020-07-29T17:19:44.730",
+        "created": "2020-07-29T17:19:44.730",
+        "titles": [
+          {
+            "title": "Red Hat AMQ 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:amq:6.3:*:*:*:*:*:*:*",
+        "cpeNameId": "E1A50127-5D74-417F-AFFE-E28C7C082F20",
+        "lastModified": "2021-01-04T15:42:52.227",
+        "created": "2021-01-04T15:42:52.227",
+        "titles": [
+          {
+            "title": "Red Hat AMQ 6.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:amq:6.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "E7C330DB-2DF7-4A1E-A781-A9746C0E246E",
+        "lastModified": "2021-01-04T15:43:49.137",
+        "created": "2021-01-04T15:43:49.137",
+        "titles": [
+          {
+            "title": "Red Hat AMQ 6.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:amq:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AB74D40C-D746-49EE-A3CD-ED65F0274E4A",
+        "lastModified": "2021-07-28T18:37:05.230",
+        "created": "2021-07-26T16:21:43.220",
+        "titles": [
+          {
+            "title": "Red Hat AMQ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:amq:2.0:*:*:*:*:*:*:*",
+      "title": "Red Hat AMQ 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:amq:6.3:*:*:*:*:*:*:*",
+      "title": "Red Hat AMQ 6.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:amq:6.2.1:*:*:*:*:*:*:*",
+      "title": "Red Hat AMQ 6.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:amq:-:*:*:*:*:*:*:*",
+      "title": "Red Hat AMQ",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

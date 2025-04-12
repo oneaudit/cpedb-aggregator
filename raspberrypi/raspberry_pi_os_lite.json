@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:raspberrypi:raspberry_pi_os_lite:5.10:*:*:*:*:*:*:*",
+        "cpeNameId": "C11CC365-4ED5-4F2D-BCF1-D51C0AA929A2",
+        "lastModified": "2022-01-25T18:46:42.860",
+        "created": "2021-12-09T18:16:09.810",
+        "titles": [
+          {
+            "title": "The Raspberry Pi Foundation Raspberry Pi OS Lite 5.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:raspberrypi:raspberry_pi_os_lite:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7794D70A-13BE-4BE9-88AA-7C5EFA4AFF50",
+        "lastModified": "2022-01-25T18:46:42.860",
+        "created": "2021-12-09T18:16:09.810",
+        "titles": [
+          {
+            "title": "The Raspberry Pi Foundation Raspberry Pi OS Lite",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:raspberrypi:raspberry_pi_os_lite:5.10:*:*:*:*:*:*:*",
+      "title": "The Raspberry Pi Foundation Raspberry Pi OS Lite 5.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:raspberrypi:raspberry_pi_os_lite:-:*:*:*:*:*:*:*",
+      "title": "The Raspberry Pi Foundation Raspberry Pi OS Lite",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

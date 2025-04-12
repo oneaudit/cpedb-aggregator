@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:kdebase:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E80A0CDB-CC7D-4ED5-BCB1-A3CE73B110A2",
+        "lastModified": "2008-03-25T19:17:12.570",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat kdebase",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:kdebase:3.0.3-13:*:*:*:*:*:*:*",
+        "cpeNameId": "3B270F88-773E-4DAF-9E54-3202E8801E6C",
+        "lastModified": "2008-04-07T14:49:41.160",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Red Hat kdebase 3.0.3.13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:kdebase:-:*:*:*:*:*:*:*",
+      "title": "Red Hat kdebase",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:kdebase:3.0.3-13:*:*:*:*:*:*:*",
+      "title": "Red Hat kdebase 3.0.3.13",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

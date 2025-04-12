@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:racom:m\\!dge_cellular_router:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1378C110-9600-491E-970E-48CD41125A23",
+        "lastModified": "2021-08-17T17:22:07.410",
+        "created": "2021-02-17T14:31:18.510",
+        "titles": [
+          {
+            "title": "Racom M!DGE Cellular Router",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:racom:m\\!dge:-:*:*:*:*:*:*:*",
+            "cpeNameId": "FA2106EF-B625-4F1F-ADC5-570A875196A6"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:racom:m\\!dge_cellular_router:-:*:*:*:*:*:*:*",
+      "title": "Racom M!DGE Cellular Router",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:racom:m\\!dge:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

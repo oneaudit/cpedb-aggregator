@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_openstack_platform:7:*:*:*:*:*:*:*",
+        "cpeNameId": "53C9472F-B6E0-436D-AF05-C24DA46EE384",
+        "lastModified": "2021-06-28T13:35:31.867",
+        "created": "2019-11-25T14:18:37.020",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Openstack Platform 7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_openstack_platform:5:*:*:*:*:*:*:*",
+        "cpeNameId": "6FABABB7-6B3C-4E92-8622-9BB2E2CEA39D",
+        "lastModified": "2022-10-05T14:28:57.977",
+        "created": "2022-09-29T13:15:09.910",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Openstack Platform 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_openstack_platform:7:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Openstack Platform 7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_openstack_platform:5:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Openstack Platform 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_productivity:5:*:*:*:*:*:*:*",
+        "cpeNameId": "EBF77A8E-7F52-4E3C-A64D-C857FFA57C65",
+        "lastModified": "2008-04-15T22:38:00.523",
+        "created": "2007-09-12T22:56:38.230",
+        "titles": [
+          {
+            "title": "Red Hat Productivity 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_productivity:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E617BE15-4217-4675-A9C2-AC226C37E819",
+        "lastModified": "2008-04-15T22:38:00.460",
+        "created": "2008-04-15T22:38:00.460",
+        "titles": [
+          {
+            "title": "Red Hat Productivity",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:rhel_productivity:5:*:*:*:*:*:*:*",
+      "title": "Red Hat Productivity 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhel_productivity:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Productivity",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

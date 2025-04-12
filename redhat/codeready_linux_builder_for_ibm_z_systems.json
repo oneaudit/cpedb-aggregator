@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:codeready_linux_builder_for_ibm_z_systems:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F9867CE6-98F5-4F09-B5B7-36E4A5A4FB33",
+        "lastModified": "2022-06-03T13:02:58.107",
+        "created": "2022-02-28T16:51:46.353",
+        "titles": [
+          {
+            "title": "Red Hat CodeReady Linux Builder For IBM Z Systems 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:codeready_linux_builder_for_ibm_z_systems:9.0_s390x:*:*:*:*:*:*:*",
+        "cpeNameId": "DEC442C0-2332-4843-AF2A-DB1BBBEBDF08",
+        "lastModified": "2023-10-25T05:38:59.000",
+        "created": "2023-10-25T05:38:59.000",
+        "titles": [
+          {
+            "title": "Red Hat Codeready Linux Builder For Ibm Z Systems 9.0 S390x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:codeready_linux_builder_for_ibm_z_systems:8.0_s390x:*:*:*:*:*:*:*",
+        "cpeNameId": "05F4D57B-03C1-4A71-B4AD-1B5356D84261",
+        "lastModified": "2023-11-25T03:54:19.637",
+        "created": "2023-11-25T03:54:19.637",
+        "titles": [
+          {
+            "title": "Red Hat Codeready Linux Builder For Ibm Z Systems 8.0 S390x",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:codeready_linux_builder_for_ibm_z_systems:8.0:*:*:*:*:*:*:*",
+      "title": "Red Hat CodeReady Linux Builder For IBM Z Systems 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:codeready_linux_builder_for_ibm_z_systems:9.0_s390x:*:*:*:*:*:*:*",
+      "title": "Red Hat Codeready Linux Builder For Ibm Z Systems 9.0 S390x",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:codeready_linux_builder_for_ibm_z_systems:8.0_s390x:*:*:*:*:*:*:*",
+      "title": "Red Hat Codeready Linux Builder For Ibm Z Systems 8.0 S390x",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

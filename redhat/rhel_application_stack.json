@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_application_stack:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DE310C37-7972-419A-99D4-4D7ADFE3C202",
+        "lastModified": "2008-04-15T22:37:58.460",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Red Hat Application Stack",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_application_stack:1:*:*:*:*:*:*:*",
+        "cpeNameId": "A4411ECF-F12F-49F1-99DB-A084629D609E",
+        "lastModified": "2008-04-15T22:37:58.523",
+        "created": "2007-09-12T22:56:32.667",
+        "titles": [
+          {
+            "title": "Red Hat Application Stack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:rhel_application_stack:2:*:*:*:*:*:*:*",
+        "cpeNameId": "12AF07C9-3878-434B-B569-B06E5FFD4A71",
+        "lastModified": "2008-04-15T22:37:58.600",
+        "created": "2008-04-15T22:37:58.600",
+        "titles": [
+          {
+            "title": "Red Hat Application Stack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:rhel_application_stack:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Application Stack",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhel_application_stack:1:*:*:*:*:*:*:*",
+      "title": "Red Hat Application Stack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:rhel_application_stack:2:*:*:*:*:*:*:*",
+      "title": "Red Hat Application Stack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

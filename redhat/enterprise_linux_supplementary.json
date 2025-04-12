@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_supplementary:5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "83946DC7-E1B5-4D64-9EB2-8007BC950D9F",
+        "lastModified": "2016-06-07T19:59:42.407",
+        "created": "2016-06-07T19:59:42.407",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Supplementary 5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:redhat:enterprise_linux_supplementary:5.0:server:*:*:*:*:*:*",
+        "cpeNameId": "E5C4986E-DD7E-4532-A6FF-C98CDF5F8A45",
+        "lastModified": "2021-06-28T13:35:31.867",
+        "created": "2016-08-19T19:03:24.820",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Linux Supplementary 5.0 (Server)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_supplementary:5.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Supplementary 5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:redhat:enterprise_linux_supplementary:5.0:server:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Linux Supplementary 5.0 (Server)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

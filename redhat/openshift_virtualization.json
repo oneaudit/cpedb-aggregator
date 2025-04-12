@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_virtualization:1:*:*:*:*:*:*:*",
+        "cpeNameId": "3428CEC9-8925-4857-8650-7D45341EF86B",
+        "lastModified": "2020-12-15T15:58:46.757",
+        "created": "2020-12-15T15:58:46.757",
+        "titles": [
+          {
+            "title": "Red Hat OpenShift Virtualization 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_virtualization:2:*:*:*:*:*:*:*",
+        "cpeNameId": "C7E53976-28D2-462E-A03F-FF6A7D57B1D4",
+        "lastModified": "2022-06-06T13:54:14.217",
+        "created": "2021-06-15T14:47:15.220",
+        "titles": [
+          {
+            "title": "Red Hat Openshift Virtualization 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:openshift_virtualization:4:*:*:*:*:*:*:*",
+        "cpeNameId": "754041EB-732B-42BA-A056-5264B14B8C94",
+        "lastModified": "2023-10-25T05:38:59.000",
+        "created": "2023-10-25T05:38:59.000",
+        "titles": [
+          {
+            "title": "Red Hat Openshift Virtualization 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:openshift_virtualization:1:*:*:*:*:*:*:*",
+      "title": "Red Hat OpenShift Virtualization 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openshift_virtualization:2:*:*:*:*:*:*:*",
+      "title": "Red Hat Openshift Virtualization 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:openshift_virtualization:4:*:*:*:*:*:*:*",
+      "title": "Red Hat Openshift Virtualization 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:enterprise_linux_cluster_suite:3:*:*:*:*:*:*:*",
+        "cpeNameId": "EA243A2E-0A5E-49DC-A84C-471C1C054804",
+        "lastModified": "2008-04-07T14:49:58.020",
+        "created": "2007-09-12T22:56:33.323",
+        "titles": [
+          {
+            "title": "Red Hat Cluster 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:enterprise_linux_cluster_suite:4:*:*:*:*:*:*:*",
+        "cpeNameId": "2EAD85C1-D1DC-47A2-BA75-2BA226FBF069",
+        "lastModified": "2008-04-07T14:49:58.177",
+        "created": "2007-09-12T22:56:33.527",
+        "titles": [
+          {
+            "title": "Red Hat Cluster 4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:enterprise_linux_cluster_suite:5:*:*:*:*:*:*:*",
+        "cpeNameId": "6DF2A669-8199-4A52-BEDC-5AE07DC04233",
+        "lastModified": "2008-04-07T14:49:58.363",
+        "created": "2007-09-12T22:56:33.823",
+        "titles": [
+          {
+            "title": "Red Hat Cluster 5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:enterprise_linux_cluster_suite:3:*:*:*:*:*:*:*",
+      "title": "Red Hat Cluster 3",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:enterprise_linux_cluster_suite:4:*:*:*:*:*:*:*",
+      "title": "Red Hat Cluster 4",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:enterprise_linux_cluster_suite:5:*:*:*:*:*:*:*",
+      "title": "Red Hat Cluster 5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:enterprise_virtualization_hypervisor:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4818E0AA-B90F-406A-80DD-3AC585A2C8E3",
+        "lastModified": "2021-05-07T14:47:25.787",
+        "created": "2019-11-25T19:49:42.557",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Virtualization (RHEV) Hypervisor -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:enterprise_virtualization_hypervisor:6-6.7-20151117.0:*:*:*:*:*:*:*",
+        "cpeNameId": "4C3DE1B3-AD6C-4F3E-9832-FCAA11BEAFE0",
+        "lastModified": "2020-03-06T15:33:58.010",
+        "created": "2020-03-06T15:33:58.010",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Virtualization Hypervisor 6-6.7-20151117.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:enterprise_virtualization_hypervisor:7-7.2-20151119.0:*:*:*:*:*:*:*",
+        "cpeNameId": "0C65ECD9-3ED7-4596-A4E6-E528EDD61C83",
+        "lastModified": "2020-03-06T15:33:58.133",
+        "created": "2020-03-06T15:33:58.133",
+        "titles": [
+          {
+            "title": "Red Hat Enterprise Virtualization Hypervisor 7-7.2-20151119.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:enterprise_virtualization_hypervisor:-:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Virtualization (RHEV) Hypervisor -",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:enterprise_virtualization_hypervisor:6-6.7-20151117.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Virtualization Hypervisor 6-6.7-20151117.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:enterprise_virtualization_hypervisor:7-7.2-20151119.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Enterprise Virtualization Hypervisor 7-7.2-20151119.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

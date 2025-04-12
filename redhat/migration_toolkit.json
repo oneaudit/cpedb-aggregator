@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:migration_toolkit:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "345EC049-C6B3-41F5-AB60-6161A8E74FF0",
+        "lastModified": "2021-08-17T15:22:13.110",
+        "created": "2020-04-10T13:42:36.640",
+        "titles": [
+          {
+            "title": "Red Hat Migration Toolkit 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:migration_toolkit:1.5:*:*:*:*:containers:*:*",
+        "cpeNameId": "33C2ADA1-1964-4D2D-A23C-C848F8E7883C",
+        "lastModified": "2022-06-06T13:54:14.217",
+        "created": "2022-02-28T17:33:21.443",
+        "titles": [
+          {
+            "title": "Red Hat Migration Toolkit 1.5 for Containers",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:redhat:migration_toolkit:1.6:*:*:*:*:containers:*:*",
+        "cpeNameId": "AE82FA4E-5963-4EAC-AD45-23B88066D177",
+        "lastModified": "2022-06-06T13:54:14.217",
+        "created": "2022-02-28T17:33:21.443",
+        "titles": [
+          {
+            "title": "Red Hat Migration Toolkit 1.6 for Containers",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:redhat:migration_toolkit:1.0:*:*:*:*:*:*:*",
+      "title": "Red Hat Migration Toolkit 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:migration_toolkit:1.5:*:*:*:*:containers:*:*",
+      "title": "Red Hat Migration Toolkit 1.5 for Containers",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:redhat:migration_toolkit:1.6:*:*:*:*:containers:*:*",
+      "title": "Red Hat Migration Toolkit 1.6 for Containers",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
