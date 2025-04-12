@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:procurve_manager:3.20:*:*:*:*:*:*:*",
+        "cpeNameId": "5C48FB93-5162-4FDD-8474-D060EBDF1322",
+        "lastModified": "2013-09-18T17:50:51.633",
+        "created": "2013-09-16T14:44:38.230",
+        "titles": [
+          {
+            "title": "HP ProCurve Manager (PCM) 3.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:procurve_manager:3.20:*:*:*:*:plus:*:*",
+        "cpeNameId": "09A080DC-777B-43F7-B74D-ABBDC07E48D2",
+        "lastModified": "2013-09-18T17:50:51.773",
+        "created": "2013-09-16T14:44:38.403",
+        "titles": [
+          {
+            "title": "HP ProCurve Manager (PCM) 3.20+",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:procurve_manager:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "F7702CA1-CF15-4A34-9022-B13F817CE53A",
+        "lastModified": "2013-09-18T17:50:51.927",
+        "created": "2013-09-16T14:44:38.557",
+        "titles": [
+          {
+            "title": "HP ProCurve Manager (PCM) 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:procurve_manager:4.0:*:*:*:*:plus:*:*",
+        "cpeNameId": "24ACB913-B375-4CFF-9EF1-475EB997BEF7",
+        "lastModified": "2013-09-18T17:50:52.037",
+        "created": "2013-09-16T14:44:38.713",
+        "titles": [
+          {
+            "title": "HP ProCurve Manager (PCM) 4.0+",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:procurve_manager:3.20:*:*:*:*:*:*:*",
+      "title": "HP ProCurve Manager (PCM) 3.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:procurve_manager:3.20:*:*:*:*:plus:*:*",
+      "title": "HP ProCurve Manager (PCM) 3.20+",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:procurve_manager:4.0:*:*:*:*:*:*:*",
+      "title": "HP ProCurve Manager (PCM) 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:procurve_manager:4.0:*:*:*:*:plus:*:*",
+      "title": "HP ProCurve Manager (PCM) 4.0+",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

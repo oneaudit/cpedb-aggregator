@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:proliant_xl450_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C3B75CBE-F324-46BB-B024-36AA172282D2",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2019-11-20T13:52:00.410",
+        "titles": [
+          {
+            "title": "HP Proliant XL450 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:proliant_xl450_firmware:2.20:*:*:*:*:*:*:*",
+        "cpeNameId": "2F314BF0-58F1-49D4-9708-0725C27F63AF",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2019-11-20T13:52:00.410",
+        "titles": [
+          {
+            "title": "HP Proliant XL450 Firmware 2.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:proliant_xl450_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP Proliant XL450 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:proliant_xl450_firmware:2.20:*:*:*:*:*:*:*",
+      "title": "HP Proliant XL450 Firmware 2.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

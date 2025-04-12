@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:power_manager_remote_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "EB220FD5-748F-49DE-AA8C-2F1A853A25A7",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "HP Power Manager Remote Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:power_manager_remote_agent:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "CD07F3FC-3999-40FB-AC4A-4B9CCEEEE452",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-09-05T21:05:08.600",
+        "titles": [
+          {
+            "title": "HP Power Manager Remote Agent 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:power_manager_remote_agent:4.0_build_10:*:*:*:*:*:*:*",
+        "cpeNameId": "A01E02D8-DB4C-4F1C-80D8-4FAB427E689A",
+        "lastModified": "2008-04-07T14:12:55.690",
+        "created": "2007-09-05T21:37:53.237",
+        "titles": [
+          {
+            "title": "HP Power Manager Remote Agent 4.0 build10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:power_manager_remote_agent:-:*:*:*:*:*:*:*",
+      "title": "HP Power Manager Remote Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:power_manager_remote_agent:4.0:*:*:*:*:*:*:*",
+      "title": "HP Power Manager Remote Agent 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:power_manager_remote_agent:4.0_build_10:*:*:*:*:*:*:*",
+      "title": "HP Power Manager Remote Agent 4.0 build10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

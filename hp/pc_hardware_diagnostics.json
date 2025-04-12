@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:pc_hardware_diagnostics:2.2.0.0:*:*:*:*:windows:*:*",
+        "cpeNameId": "C1991A79-B3D4-4472-B38C-838DA9F30669",
+        "lastModified": "2023-08-01T14:22:13.077",
+        "created": "2023-06-21T14:29:10.307",
+        "titles": [
+          {
+            "title": "HP PC Hardware Diagnostics 2.2.0.0 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:pc_hardware_diagnostics:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "5EEF8963-59A0-4D11-AE54-155AB1EC27A4",
+        "lastModified": "2023-08-01T14:22:13.077",
+        "created": "2023-06-21T14:29:10.307",
+        "titles": [
+          {
+            "title": "HP PC Hardware Diagnostics for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:pc_hardware_diagnostics:2.2.0.0:*:*:*:*:windows:*:*",
+      "title": "HP PC Hardware Diagnostics 2.2.0.0 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:pc_hardware_diagnostics:-:*:*:*:*:windows:*:*",
+      "title": "HP PC Hardware Diagnostics for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

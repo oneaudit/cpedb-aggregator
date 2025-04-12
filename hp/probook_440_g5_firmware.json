@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:probook_440_g5_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "42A365CD-6596-4846-8A9A-97EA12DF3BF7",
+        "lastModified": "2022-03-07T19:13:07.860",
+        "created": "2022-03-07T15:28:10.500",
+        "titles": [
+          {
+            "title": "HP ProBook 440 G5 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:probook_440_g5_firmware:01.20.00:*:*:*:*:*:*:*",
+        "cpeNameId": "5D7026AB-371F-4BEE-A372-CBBCB7BF57F6",
+        "lastModified": "2023-02-16T20:44:07.337",
+        "created": "2023-02-10T12:24:27.160",
+        "titles": [
+          {
+            "title": "HP Probook 440 G5 Firmware 01.20.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:probook_440_g5_firmware:01.21.01:*:*:*:*:*:*:*",
+        "cpeNameId": "67F81B8D-5216-4C98-A748-DEF3AF083D69",
+        "lastModified": "2023-02-16T20:44:07.337",
+        "created": "2023-02-10T12:50:11.463",
+        "titles": [
+          {
+            "title": "HP Probook 440 G5 Firmware 01.21.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:probook_440_g5_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP ProBook 440 G5 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:probook_440_g5_firmware:01.20.00:*:*:*:*:*:*:*",
+      "title": "HP Probook 440 G5 Firmware 01.20.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:probook_440_g5_firmware:01.21.01:*:*:*:*:*:*:*",
+      "title": "HP Probook 440 G5 Firmware 01.21.01",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

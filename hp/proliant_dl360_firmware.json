@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:proliant_dl360_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8258AC09-E1F6-4D43-8BC0-9E3290D3D57B",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2019-11-20T13:51:44.737",
+        "titles": [
+          {
+            "title": "HP Proliant DL360 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:proliant_dl360_firmware:2.20:*:*:*:*:*:*:*",
+        "cpeNameId": "16C13603-974D-4313-A433-271E7B07D1FD",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2019-11-20T13:51:44.737",
+        "titles": [
+          {
+            "title": "HP Proliant DL360 Firmware 2.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:proliant_dl360_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP Proliant DL360 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:proliant_dl360_firmware:2.20:*:*:*:*:*:*:*",
+      "title": "HP Proliant DL360 Firmware 2.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:proliant_dl380_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "37454E83-69F8-4168-A283-053155E37A6A",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2019-11-20T13:51:45.817",
+        "titles": [
+          {
+            "title": "HP Proliant DL380 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:proliant_dl380_firmware:2.20:*:*:*:*:*:*:*",
+        "cpeNameId": "9C0FBAEB-FE39-4199-B0CC-0E90B7A9506D",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2019-11-20T13:51:45.817",
+        "titles": [
+          {
+            "title": "HP Proliant DL380 Firmware 2.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:proliant_dl380_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP Proliant DL380 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:proliant_dl380_firmware:2.20:*:*:*:*:*:*:*",
+      "title": "HP Proliant DL380 Firmware 2.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:proliant_dl20_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3EE1FCF6-3D01-4D6A-9BBB-CE29101FC1C7",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2019-11-20T13:51:43.627",
+        "titles": [
+          {
+            "title": "HP Proliant DL20 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:proliant_dl20_firmware:2.10:*:*:*:*:*:*:*",
+        "cpeNameId": "141394AF-B359-4E23-950B-11E351462841",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2019-11-20T13:51:43.627",
+        "titles": [
+          {
+            "title": "HP Proliant DL20 Firmware 2.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:proliant_dl20_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP Proliant DL20 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:proliant_dl20_firmware:2.10:*:*:*:*:*:*:*",
+      "title": "HP Proliant DL20 Firmware 2.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

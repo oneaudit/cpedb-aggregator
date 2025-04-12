@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:proliant_dl160_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F4891CE5-4E35-4E38-8EC2-F8518C386842",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2019-11-20T13:51:41.377",
+        "titles": [
+          {
+            "title": "HP Proliant DL160 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:proliant_dl160_firmware:2.20:*:*:*:*:*:*:*",
+        "cpeNameId": "01402008-7410-46C2-B87A-49A64300BE9E",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2019-11-20T13:51:41.377",
+        "titles": [
+          {
+            "title": "HP Proliant DL160 Firmware 2.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:proliant_dl160_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP Proliant DL160 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:proliant_dl160_firmware:2.20:*:*:*:*:*:*:*",
+      "title": "HP Proliant DL160 Firmware 2.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

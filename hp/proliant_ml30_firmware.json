@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:proliant_ml30_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "38FEFD00-4EE7-4D6A-8EFD-69D94B60F474",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2019-11-20T13:51:51.847",
+        "titles": [
+          {
+            "title": "HP Proliant ML30 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:proliant_ml30_firmware:2.10:*:*:*:*:*:*:*",
+        "cpeNameId": "B3E6679F-2574-445F-B126-25ABAEF34332",
+        "lastModified": "2021-06-22T14:34:47.630",
+        "created": "2019-11-20T13:51:51.847",
+        "titles": [
+          {
+            "title": "HP Proliant ML30 Firmware 2.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:proliant_ml30_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP Proliant ML30 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:proliant_ml30_firmware:2.10:*:*:*:*:*:*:*",
+      "title": "HP Proliant ML30 Firmware 2.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
