@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hp:openview_report:-:3.70:*:*:*:*:*:*",
+        "cpeNameId": "7042C666-C0FB-4028-8F25-4D84B9F81DE4",
+        "lastModified": "2010-08-23T18:51:47.797",
+        "created": "2008-10-24T16:14:27.737",
+        "titles": [
+          {
+            "title": "HP OpenView Reporter 3.70",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hp:openview_reporter:3.70:*:*:*:*:*:*:*",
+            "cpeNameId": "AF0ECC5F-D256-44C3-A822-63370833AED3"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hp:openview_report:3.70:*:*:*:*:*:*:*",
+        "cpeNameId": "65D6335F-179A-43F3-B8CC-DEC154575935",
+        "lastModified": "2010-08-23T18:51:47.893",
+        "created": "2008-10-30T15:31:30.063",
+        "titles": [
+          {
+            "title": "HP OpenView Reporter 3.70",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:hp:openview_reporter:3.70:*:*:*:*:*:*:*",
+            "cpeNameId": "AF0ECC5F-D256-44C3-A822-63370833AED3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:openview_report:-:3.70:*:*:*:*:*:*",
+      "title": "HP OpenView Reporter 3.70",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hp:openview_reporter:3.70:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:hp:openview_report:3.70:*:*:*:*:*:*:*",
+      "title": "HP OpenView Reporter 3.70",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:hp:openview_reporter:3.70:*:*:*:*:*:*:*"
+    }
+  ]
+}

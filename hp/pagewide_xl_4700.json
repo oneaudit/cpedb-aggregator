@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:pagewide_xl_4700:-:*:*:*:*:*:*:*",
+        "cpeNameId": "756377E9-E608-4CD7-B3A6-A528E993A179",
+        "lastModified": "2023-07-17T17:33:46.583",
+        "created": "2023-05-08T16:19:57.160",
+        "titles": [
+          {
+            "title": "HP PageWide XL 4700 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:pagewide_xl_4700:_firmware:-:*:*:*:*:*:*",
+        "cpeNameId": "067629B9-17FC-4B97-86BE-64214D660D35",
+        "lastModified": "2023-11-06T17:50:28.170",
+        "created": "2023-11-06T17:50:28.170",
+        "titles": [
+          {
+            "title": "HP Pagewide XL 4700 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:pagewide_xl_4700:-:*:*:*:*:*:*:*",
+      "title": "HP PageWide XL 4700 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:pagewide_xl_4700:_firmware:-:*:*:*:*:*:*",
+      "title": "HP Pagewide XL 4700 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

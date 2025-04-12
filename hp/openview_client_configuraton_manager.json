@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:openview_client_configuraton_manager:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A04F46D0-B789-487E-B693-C98600CF697F",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "HP OpenView Client Configuraton Manager",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:openview_client_configuraton_manager:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5730AB7C-EE3F-4B58-910F-04697E858D4C",
+        "lastModified": "2007-10-31T02:55:09.167",
+        "created": "2007-10-31T02:55:09.167",
+        "titles": [
+          {
+            "title": "HP OpenView Client Configuraton Manager 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:openview_client_configuraton_manager:-:*:*:*:*:*:*:*",
+      "title": "HP OpenView Client Configuraton Manager",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:openview_client_configuraton_manager:2.0:*:*:*:*:*:*:*",
+      "title": "HP OpenView Client Configuraton Manager 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

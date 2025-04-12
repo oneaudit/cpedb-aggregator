@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:pagewide_xl_8000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "96D95C29-7919-4C21-AF24-B5691478376D",
+        "lastModified": "2023-07-17T17:33:46.583",
+        "created": "2023-05-08T16:19:57.160",
+        "titles": [
+          {
+            "title": "HP PageWide XL 8000 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:pagewide_xl_8000:_firmware:-:*:*:*:*:*:*",
+        "cpeNameId": "85DB4B49-8E4D-463E-B708-198CBA80D648",
+        "lastModified": "2023-11-06T17:50:28.170",
+        "created": "2023-11-06T17:50:28.170",
+        "titles": [
+          {
+            "title": "HP Pagewide XL 8000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:pagewide_xl_8000:-:*:*:*:*:*:*:*",
+      "title": "HP PageWide XL 8000 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:pagewide_xl_8000:_firmware:-:*:*:*:*:*:*",
+      "title": "HP Pagewide XL 8000 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

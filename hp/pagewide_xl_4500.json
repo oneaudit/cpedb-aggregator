@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:pagewide_xl_4500:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B3668110-3BB2-47DF-B3BF-FB7DD707CAFB",
+        "lastModified": "2023-07-17T17:33:46.583",
+        "created": "2023-05-08T16:19:57.160",
+        "titles": [
+          {
+            "title": "HP PageWide XL 4500 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:pagewide_xl_4500:_firmware:-:*:*:*:*:*:*",
+        "cpeNameId": "05A0F184-42DB-40A9-A880-36FE5406E999",
+        "lastModified": "2023-11-06T17:50:28.170",
+        "created": "2023-11-06T17:50:28.170",
+        "titles": [
+          {
+            "title": "HP Pagewide XL 4500 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:pagewide_xl_4500:-:*:*:*:*:*:*:*",
+      "title": "HP PageWide XL 4500 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:pagewide_xl_4500:_firmware:-:*:*:*:*:*:*",
+      "title": "HP Pagewide XL 4500 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:pa-risc:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F817F048-95E2-4239-8C83-0CAF0091B1AE",
+        "lastModified": "2008-04-01T16:10:12.357",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "HP HP-UX PA-RISC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hp:pa-risc:_nil_:_nil_:64bit:*:*:*:*:*",
+        "cpeNameId": "02E94177-43D3-407A-93F8-775FE0A860F8",
+        "lastModified": "2013-02-11T20:14:28.070",
+        "created": "2008-12-09T19:07:38.830",
+        "titles": [
+          {
+            "title": "HP HP-UX PA-RISC x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hp:pa-risc:-:-:x64:*:*:*:*:*",
+            "cpeNameId": "3669EE0B-F2E2-4D1D-B41B-ECE7EF6E1BCA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:hp:pa-risc:_nil_:_nil_:32bit:*:*:*:*:*",
+        "cpeNameId": "4564AC74-6E4D-4DCC-AB08-773C102C3F00",
+        "lastModified": "2013-02-11T20:14:27.930",
+        "created": "2008-12-09T19:07:38.940",
+        "titles": [
+          {
+            "title": "HP HP-UX PA-RISC x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:hp:pa-risc:-:-:x86:*:*:*:*:*",
+            "cpeNameId": "647CC68E-52CA-4CB0-9406-30F65D59795C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:pa-risc:-:-:x86:*:*:*:*:*",
+        "cpeNameId": "647CC68E-52CA-4CB0-9406-30F65D59795C",
+        "lastModified": "2013-02-11T20:14:26.507",
+        "created": "2013-02-11T20:14:26.507",
+        "titles": [
+          {
+            "title": "HP HP-UX PA-RISC x86 (32-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:pa-risc:-:-:x64:*:*:*:*:*",
+        "cpeNameId": "3669EE0B-F2E2-4D1D-B41B-ECE7EF6E1BCA",
+        "lastModified": "2013-02-11T20:14:26.727",
+        "created": "2013-02-11T20:14:26.727",
+        "titles": [
+          {
+            "title": "HP HP-UX PA-RISC x64 (64-bit)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:pa-risc:-:*:*:*:*:*:*:*",
+      "title": "HP HP-UX PA-RISC",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:hp:pa-risc:_nil_:_nil_:64bit:*:*:*:*:*",
+      "title": "HP HP-UX PA-RISC x64 (64-bit)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hp:pa-risc:-:-:x64:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:hp:pa-risc:_nil_:_nil_:32bit:*:*:*:*:*",
+      "title": "HP HP-UX PA-RISC x86 (32-bit)",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:hp:pa-risc:-:-:x86:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:h:hp:pa-risc:-:-:x86:*:*:*:*:*",
+      "title": "HP HP-UX PA-RISC x86 (32-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:hp:pa-risc:-:-:x64:*:*:*:*:*",
+      "title": "HP HP-UX PA-RISC x64 (64-bit)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:openview_emanate_snmp_agent:-:*:*:*:*:*:*:*",
+        "cpeNameId": "925D7E6A-B5FE-4CCA-BB8C-61FD6C2CE63A",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "HP OpenView Emanate SNMP Agent",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hp:openview_emanate_snmp_agent:14.2:*:*:*:*:*:*:*",
+        "cpeNameId": "5EB3D1A3-A4E1-49C0-96F4-8D4D61FCD290",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "HP OpenView Emanate SNMP Agent 14.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hp:openview_emanate_snmp_agent:-:*:*:*:*:*:*:*",
+      "title": "HP OpenView Emanate SNMP Agent",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hp:openview_emanate_snmp_agent:14.2:*:*:*:*:*:*:*",
+      "title": "HP OpenView Emanate SNMP Agent 14.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

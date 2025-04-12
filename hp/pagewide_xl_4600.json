@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:pagewide_xl_4600:-:*:*:*:*:*:*:*",
+        "cpeNameId": "DCBEDD50-31CD-4D27-BE0C-0DABECCB1DB6",
+        "lastModified": "2023-07-17T17:33:46.583",
+        "created": "2023-05-08T16:19:57.160",
+        "titles": [
+          {
+            "title": "HP PageWide XL 4600 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:pagewide_xl_4600:_firmware:-:*:*:*:*:*:*",
+        "cpeNameId": "6166D574-F69F-4D6B-8BA9-DE6989DC020F",
+        "lastModified": "2023-11-06T17:50:28.170",
+        "created": "2023-11-06T17:50:28.170",
+        "titles": [
+          {
+            "title": "HP Pagewide XL 4600 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:pagewide_xl_4600:-:*:*:*:*:*:*:*",
+      "title": "HP PageWide XL 4600 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:pagewide_xl_4600:_firmware:-:*:*:*:*:*:*",
+      "title": "HP Pagewide XL 4600 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

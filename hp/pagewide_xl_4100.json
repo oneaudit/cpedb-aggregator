@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:hp:pagewide_xl_4100:-:*:*:*:*:*:*:*",
+        "cpeNameId": "AE380282-DBCC-485D-951C-9E7C00B67342",
+        "lastModified": "2023-07-17T17:33:46.583",
+        "created": "2023-05-08T16:19:57.160",
+        "titles": [
+          {
+            "title": "HP DesignJet XL 4100 ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:pagewide_xl_4100:_firmware:-:*:*:*:*:*:*",
+        "cpeNameId": "9310FC54-838E-4E3C-8BA3-55A447E3A1A9",
+        "lastModified": "2023-11-06T17:50:28.170",
+        "created": "2023-11-06T17:50:28.170",
+        "titles": [
+          {
+            "title": "HP Pagewide XL 4100 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:hp:pagewide_xl_4100:-:*:*:*:*:*:*:*",
+      "title": "HP DesignJet XL 4100 ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:pagewide_xl_4100:_firmware:-:*:*:*:*:*:*",
+      "title": "HP Pagewide XL 4100 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
