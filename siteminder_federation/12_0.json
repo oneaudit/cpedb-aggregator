@@ -1,0 +1,55 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:siteminder_federation:12.0:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1ECFDF2E-2078-4129-82AA-C9E381D4C35A",
+        "lastModified": "2014-06-03T18:08:27.623",
+        "created": "2013-03-22T14:52:22.857",
+        "titles": [
+          {
+            "title": "Computer Associates SiteMinder Federation (FSS) 12.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ca:siteminder_federation:12.0:*:*:*:*:*:*:*",
+            "cpeNameId": "2DF9FD7F-36D2-4701-8647-79FDEF6B7983"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:siteminder_federation:12.0:-:standalone:*:*:*:*:*:*",
+        "cpeNameId": "AFD56A6F-B299-48D1-A364-E3D581DD6349",
+        "lastModified": "2013-03-26T22:47:04.233",
+        "created": "2013-03-22T14:52:23.150",
+        "titles": [
+          {
+            "title": "Computer Associates SiteMinder Federation 12.0 (Standalone)",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:siteminder_federation:12.0:-:*:*:*:*:*:*:*",
+      "title": "Computer Associates SiteMinder Federation (FSS) 12.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ca:siteminder_federation:12.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:siteminder_federation:12.0:-:standalone:*:*:*:*:*:*",
+      "title": "Computer Associates SiteMinder Federation 12.0 (Standalone)",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

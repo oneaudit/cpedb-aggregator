@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:silver-peak:nx-5700:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E46D9216-C879-4B32-A0F0-F1B9B793A034",
+        "lastModified": "2023-11-07T21:16:03.090",
+        "created": "2020-12-16T20:29:41.277",
+        "titles": [
+          {
+            "title": "Silver Peak NX-5700",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:arubanetworks:nx-5700:-:*:*:*:*:*:*:*",
+            "cpeNameId": "70BC4D17-7EEB-4381-8878-D165319FF874"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:silver-peak:nx-5700:-:*:*:*:*:*:*:*",
+      "title": "Silver Peak NX-5700",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:arubanetworks:nx-5700:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

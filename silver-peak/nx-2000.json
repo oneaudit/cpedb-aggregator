@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:silver-peak:nx-2000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "3C44040F-16C2-4640-A6F9-B4B29F64365F",
+        "lastModified": "2023-11-07T21:16:03.090",
+        "created": "2020-05-08T16:31:03.267",
+        "titles": [
+          {
+            "title": "Silver Peak NX-2000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:arubanetworks:nx-2000:-:*:*:*:*:*:*:*",
+            "cpeNameId": "EA35AAA3-0861-48E6-9B71-35501F689D61"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:silver-peak:nx-2000:-:*:*:*:*:*:*:*",
+      "title": "Silver Peak NX-2000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:arubanetworks:nx-2000:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

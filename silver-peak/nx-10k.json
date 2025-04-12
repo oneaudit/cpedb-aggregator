@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:silver-peak:nx-10k:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8445FBE7-8823-478E-AC62-987FF491D50B",
+        "lastModified": "2023-11-07T21:16:03.090",
+        "created": "2020-05-08T16:31:03.267",
+        "titles": [
+          {
+            "title": "Silver Peak NX-10K",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:arubanetworks:nx-10k:-:*:*:*:*:*:*:*",
+            "cpeNameId": "228B3FD1-0564-4071-AAA4-A3B8527CC931"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:silver-peak:nx-10k:-:*:*:*:*:*:*:*",
+      "title": "Silver Peak NX-10K",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:arubanetworks:nx-10k:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

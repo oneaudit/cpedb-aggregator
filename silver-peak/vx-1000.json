@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:h:silver-peak:vx-1000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CD228F11-6AD7-45D2-BB6F-F9939900425B",
+        "lastModified": "2023-11-07T21:16:03.090",
+        "created": "2020-05-08T16:31:03.267",
+        "titles": [
+          {
+            "title": "Silver Peak VX-1000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:arubanetworks:vx-1000:-:*:*:*:*:*:*:*",
+            "cpeNameId": "24E2BF4D-CA70-457D-9B81-D45D7ECB74FF"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:silver-peak:vx-1000:-:*:*:*:*:*:*:*",
+        "cpeNameId": "07E1954D-BA03-4937-B847-3CF58FF23171",
+        "lastModified": "2023-11-07T21:16:03.090",
+        "created": "2020-12-16T20:29:36.353",
+        "titles": [
+          {
+            "title": "Silver Peak VX-1000",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:arubanetworks:vx-1000:-:*:*:*:*:*:*:*",
+            "cpeNameId": "BA95DE9A-F4C8-4BCC-A192-A8FDDE618970"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:silver-peak:vx-1000:-:*:*:*:*:*:*:*",
+      "title": "Silver Peak VX-1000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:arubanetworks:vx-1000:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:silver-peak:vx-1000:-:*:*:*:*:*:*:*",
+      "title": "Silver Peak VX-1000",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:arubanetworks:vx-1000:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
