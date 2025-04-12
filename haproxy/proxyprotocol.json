@@ -1,0 +1,138 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:haproxy:proxyprotocol:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CED7EC24-AC57-4F35-BE24-CABAACE0FE75",
+        "lastModified": "2019-07-30T17:49:07.310",
+        "created": "2019-07-30T17:49:07.310",
+        "titles": [
+          {
+            "title": "HAProxy proxyprotocol",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:haproxy:proxyprotocol:0.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "75DF2982-C761-4F44-A1B7-7F28C0F0EA1B",
+        "lastModified": "2019-07-30T17:49:07.700",
+        "created": "2019-07-30T17:49:07.700",
+        "titles": [
+          {
+            "title": "HAProxy proxyprotocol 0.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:haproxy:proxyprotocol:0.0.2:*:*:*:*:*:*:*",
+        "cpeNameId": "298825AC-6877-4190-97D4-B70D62E614C2",
+        "lastModified": "2019-07-30T17:49:07.937",
+        "created": "2019-07-30T17:49:07.937",
+        "titles": [
+          {
+            "title": "HAProxy proxyprotocol 0.0.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:haproxy:proxyprotocol:-:*:*:*:*:caddy:*:*",
+        "cpeNameId": "D9660E52-2F21-471C-90B2-5922D6D4835D",
+        "lastModified": "2019-12-17T19:31:19.113",
+        "created": "2019-12-17T19:31:19.113",
+        "titles": [
+          {
+            "title": "HAProxy proxyprotocol for Caddy",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:haproxy:proxyprotocol:0.0.2:*:*:*:*:caddy:*:*",
+        "cpeNameId": "959DC64E-8D9E-4EBF-AA38-D279D60FBE08",
+        "lastModified": "2019-12-17T19:31:19.423",
+        "created": "2019-12-17T19:31:19.423",
+        "titles": [
+          {
+            "title": "HAProxy proxyprotocol 0.0.2 for Caddy",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:haproxy:proxyprotocol:0.0.3:*:*:*:*:caddy:*:*",
+        "cpeNameId": "D991B0FE-CE50-45C1-962C-29C90EBC9C27",
+        "lastModified": "2019-12-17T19:31:19.550",
+        "created": "2019-12-17T19:31:19.550",
+        "titles": [
+          {
+            "title": "HAProxy proxyprotocol 0.0.3 for Caddy",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:haproxy:proxyprotocol:-:*:*:*:*:*:*:*",
+      "title": "HAProxy proxyprotocol",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:haproxy:proxyprotocol:0.0.1:*:*:*:*:*:*:*",
+      "title": "HAProxy proxyprotocol 0.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:haproxy:proxyprotocol:0.0.2:*:*:*:*:*:*:*",
+      "title": "HAProxy proxyprotocol 0.0.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:haproxy:proxyprotocol:-:*:*:*:*:caddy:*:*",
+      "title": "HAProxy proxyprotocol for Caddy",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:haproxy:proxyprotocol:0.0.2:*:*:*:*:caddy:*:*",
+      "title": "HAProxy proxyprotocol 0.0.2 for Caddy",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:haproxy:proxyprotocol:0.0.3:*:*:*:*:caddy:*:*",
+      "title": "HAProxy proxyprotocol 0.0.3 for Caddy",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
