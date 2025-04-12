@@ -1,0 +1,114 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rubrik:copy_data_management:5.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "534817CA-490D-4351-9952-39BBF3AF77F5",
+        "lastModified": "2021-07-01T14:30:32.613",
+        "created": "2020-05-11T14:49:44.253",
+        "titles": [
+          {
+            "title": "Rubrik Copy Data Management 5.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rubrik:cdm:5.0.0:*:*:*:*:*:*:*",
+            "cpeNameId": "FF847E1A-C1EA-4C39-B0B1-55BC07C8E42B"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rubrik:copy_data_management:5.0.4:*:*:*:*:*:*:*",
+        "cpeNameId": "B7D980EF-7D73-4784-A3FB-6C3156507E66",
+        "lastModified": "2021-07-01T14:30:32.613",
+        "created": "2020-05-11T14:49:44.253",
+        "titles": [
+          {
+            "title": "Rubrik Copy Data Management 5.0.4",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rubrik:cdm:5.0.4:*:*:*:*:*:*:*",
+            "cpeNameId": "C35839A1-2D6D-4BC2-BFBE-FFA5E7ED0A17"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rubrik:copy_data_management:5.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5B63674D-4A41-4397-BE15-499CE4764C2D",
+        "lastModified": "2021-07-01T14:30:32.613",
+        "created": "2020-05-11T14:49:45.910",
+        "titles": [
+          {
+            "title": "Rubrik Copy Data Management 5.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rubrik:cdm:5.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "7776A07C-5E37-4FCF-96AE-ADC5D20580E7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rubrik:copy_data_management:5.1.2:*:*:*:*:*:*:*",
+        "cpeNameId": "A8ACBA7F-A0FF-4471-AC28-A7005B3D7FF9",
+        "lastModified": "2021-07-01T14:30:32.613",
+        "created": "2020-05-11T14:49:45.910",
+        "titles": [
+          {
+            "title": "Rubrik Copy Data Management 5.1.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rubrik:cdm:5.1.2:*:*:*:*:*:*:*",
+            "cpeNameId": "E8FE9D81-D309-47D2-928D-CA97470B1A5E"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rubrik:copy_data_management:5.0.0:*:*:*:*:*:*:*",
+      "title": "Rubrik Copy Data Management 5.0.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rubrik:cdm:5.0.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rubrik:copy_data_management:5.0.4:*:*:*:*:*:*:*",
+      "title": "Rubrik Copy Data Management 5.0.4",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rubrik:cdm:5.0.4:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rubrik:copy_data_management:5.1.0:*:*:*:*:*:*:*",
+      "title": "Rubrik Copy Data Management 5.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rubrik:cdm:5.1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rubrik:copy_data_management:5.1.2:*:*:*:*:*:*:*",
+      "title": "Rubrik Copy Data Management 5.1.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rubrik:cdm:5.1.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

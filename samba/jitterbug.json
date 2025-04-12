@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:samba:jitterbug:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4E493C0B-241F-4191-AA13-9E8CDA1CA815",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Samba Jitterbug",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:samba:jitterbug:1.6.2:*:*:*:*:*:*:*",
+        "cpeNameId": "EA014A25-7A0C-4735-B65A-00FD7CFD20F8",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Samba Jitterbug 1.6.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:samba:jitterbug:-:*:*:*:*:*:*:*",
+      "title": "Samba Jitterbug",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:samba:jitterbug:1.6.2:*:*:*:*:*:*:*",
+      "title": "Samba Jitterbug 1.6.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

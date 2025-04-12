@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:samsung:android_usb_driver:1.7.56.0:*:*:*:*:windows:*:*",
+        "cpeNameId": "A99C7B18-F90D-45CE-B296-47B8DD2EAA97",
+        "lastModified": "2022-07-19T17:20:23.243",
+        "created": "2022-07-18T15:18:45.790",
+        "titles": [
+          {
+            "title": "Samsung Android USB Driver 1.7.56.0 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:samsung:android_usb_driver:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "974B2F4A-EB72-4B94-B6C6-BC20FDC73D39",
+        "lastModified": "2022-07-19T17:20:23.243",
+        "created": "2022-07-18T15:18:45.790",
+        "titles": [
+          {
+            "title": "Samsung Android USB Driver for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:samsung:android_usb_driver:1.7.56.0:*:*:*:*:windows:*:*",
+      "title": "Samsung Android USB Driver 1.7.56.0 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:samsung:android_usb_driver:-:*:*:*:*:windows:*:*",
+      "title": "Samsung Android USB Driver for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

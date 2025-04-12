@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rti:connext_dds_professional:4.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "7D8DC763-CA39-4DBD-9EA4-6AC0B98C9710",
+        "lastModified": "2025-02-05T13:26:19.557",
+        "created": "2022-05-12T12:24:00.337",
+        "titles": [
+          {
+            "title": "Rti Connext Dds Professional 4.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rti:connext_professional:4.2:*:*:*:*:*:*:*",
+            "cpeNameId": "617545B7-C45C-41F9-B2A2-AC7987C036D7"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:rti:connext_dds_professional:6.1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "BCDB327F-475A-46C8-AF9D-C25FD3EAAC19",
+        "lastModified": "2025-02-05T13:26:19.557",
+        "created": "2022-05-12T12:24:00.337",
+        "titles": [
+          {
+            "title": "Rti Connext Dds Professional 6.1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:rti:connext_professional:6.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "FD4D3903-1B42-449B-81D5-5F752C2B3E55"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:rti:connext_dds_professional:4.2.0:*:*:*:*:*:*:*",
+      "title": "Rti Connext Dds Professional 4.2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rti:connext_professional:4.2:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:rti:connext_dds_professional:6.1.0:*:*:*:*:*:*:*",
+      "title": "Rti Connext Dds Professional 6.1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:rti:connext_professional:6.1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}
