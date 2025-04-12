@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:110_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D4BC49EC-A617-410E-8526-39F1580288B6",
+        "lastModified": "2018-11-26T15:39:07.477",
+        "created": "2018-11-26T15:39:07.477",
+        "titles": [
+          {
+            "title": "HP 110 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:110_firmware:nexus_00_04_53.8:*:*:*:*:*:*:*",
+        "cpeNameId": "6F369110-D607-46F2-8467-DC4335680194",
+        "lastModified": "2018-11-26T15:39:07.587",
+        "created": "2018-11-26T15:39:07.587",
+        "titles": [
+          {
+            "title": "HP 110 Firmware NEXUS 00 04 53.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:110_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP 110 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:110_firmware:nexus_00_04_53.8:*:*:*:*:*:*:*",
+      "title": "HP 110 Firmware NEXUS 00 04 53.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

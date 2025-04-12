@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hostel_management_system_project:hostel_management_system:2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4D3703CA-D5ED-4998-B787-4F3D011A40FD",
+        "lastModified": "2023-11-14T16:36:12.650",
+        "created": "2021-12-02T19:44:26.333",
+        "titles": [
+          {
+            "title": "Hostel Management System Project Hostel Management System 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:hostel_management_system:2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "32AE78E2-A17E-4B88-BE93-B50D8B81A66E"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hostel_management_system_project:hostel_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "31572C27-FC3E-4E2E-B554-E86DF2BC28C1",
+        "lastModified": "2023-11-14T16:36:12.650",
+        "created": "2023-07-05T16:40:52.090",
+        "titles": [
+          {
+            "title": "Hostel Management System Project Hostel Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:hostel_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "62C3E530-3B67-49EF-9E0F-E642905D9F59"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hostel_management_system_project:hostel_management_system:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "55089FA4-9A5A-4305-9F6F-06DCE65698DF",
+        "lastModified": "2023-11-14T16:36:12.650",
+        "created": "2023-09-28T11:07:19.910",
+        "titles": [
+          {
+            "title": "Hostel Management System Project Hostel Management System 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:hostel_management_system:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "5FD7FF03-2999-4C27-9C34-970C413E1819"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hostel_management_system_project:hostel_management_system:2.1:*:*:*:*:*:*:*",
+      "title": "Hostel Management System Project Hostel Management System 2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:hostel_management_system:2.1:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:hostel_management_system_project:hostel_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Hostel Management System Project Hostel Management System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:hostel_management_system:1.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:hostel_management_system_project:hostel_management_system:2.0:*:*:*:*:*:*:*",
+      "title": "Hostel Management System Project Hostel Management System 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:hostel_management_system:2.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

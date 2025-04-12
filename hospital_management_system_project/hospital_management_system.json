@@ -1,0 +1,99 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hospital_management_system_project:hospital_management_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C8FD81B4-3912-4621-BDC2-83A397B6012A",
+        "lastModified": "2022-05-12T14:17:39.137",
+        "created": "2021-08-21T01:27:45.873",
+        "titles": [
+          {
+            "title": "Hospital Management System Project Hospital Management System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:hospital_management_system_project:hospital_management_system:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "454DB07B-178D-41B2-8137-A37F46E2E030",
+        "lastModified": "2023-11-14T16:22:51.967",
+        "created": "2021-11-08T16:52:39.417",
+        "titles": [
+          {
+            "title": "Hospital Management System Project Hospital Management System 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:hospital_management_system:4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "95BF3A4E-E997-4E50-941E-0C8EC1F6A0BC"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hospital_management_system_project:hospital_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1CCD123C-4B9A-42C9-BA1B-E546278050B7",
+        "lastModified": "2022-05-12T14:17:39.137",
+        "created": "2022-03-01T18:59:06.510",
+        "titles": [
+          {
+            "title": "Hospital Management System Project Hospital Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:hospital_management_system_project:hospital_management_system:2021-03-13:*:*:*:*:*:*:*",
+        "cpeNameId": "4AD0FBC4-E0CD-4B13-B85B-3F2A3E473942",
+        "lastModified": "2023-09-28T12:51:53.310",
+        "created": "2023-09-28T12:51:53.310",
+        "titles": [
+          {
+            "title": "Hospital Management System Project Hospital Management System 2021-03-13",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:hospital_management_system_project:hospital_management_system:-:*:*:*:*:*:*:*",
+      "title": "Hospital Management System Project Hospital Management System",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hospital_management_system_project:hospital_management_system:4.0:*:*:*:*:*:*:*",
+      "title": "Hospital Management System Project Hospital Management System 4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:hospital_management_system:4.0:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:hospital_management_system_project:hospital_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Hospital Management System Project Hospital Management System 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:hospital_management_system_project:hospital_management_system:2021-03-13:*:*:*:*:*:*:*",
+      "title": "Hospital Management System Project Hospital Management System 2021-03-13",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

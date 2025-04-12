@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:570_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "83AD0DE4-6BAB-4554-A9F3-BE6AA6714923",
+        "lastModified": "2018-11-26T15:39:10.070",
+        "created": "2018-11-26T15:39:10.070",
+        "titles": [
+          {
+            "title": "HP 570 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:570_firmware:storm_00_05_01.5:*:*:*:*:*:*:*",
+        "cpeNameId": "40D9FA2C-8F2F-4353-B55C-8487E8213303",
+        "lastModified": "2018-11-26T15:39:10.193",
+        "created": "2018-11-26T15:39:10.193",
+        "titles": [
+          {
+            "title": "HP 570 Firmware STORM 00 05 01.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:570_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP 570 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:570_firmware:storm_00_05_01.5:*:*:*:*:*:*:*",
+      "title": "HP 570 Firmware STORM 00 05 01.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

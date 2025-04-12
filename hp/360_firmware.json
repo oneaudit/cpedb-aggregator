@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:360_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "11BD52F6-3F41-44D8-9EAF-AD1E6C9D2AEC",
+        "lastModified": "2018-11-26T15:39:08.727",
+        "created": "2018-11-26T15:39:08.727",
+        "titles": [
+          {
+            "title": "HP 360 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:360_firmware:nexus_01_12_00.10:*:*:*:*:*:*:*",
+        "cpeNameId": "5306386E-5122-4A52-8E89-7C58DAEE0C3F",
+        "lastModified": "2018-11-26T15:39:08.883",
+        "created": "2018-11-26T15:39:08.883",
+        "titles": [
+          {
+            "title": "HP 360 Firmware NEXUS 01 12 00.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:360_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP 360 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:360_firmware:nexus_01_12_00.10:*:*:*:*:*:*:*",
+      "title": "HP 360 Firmware NEXUS 01 12 00.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

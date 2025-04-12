@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:365_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2FF341B2-8D3E-49BF-B0FB-00C7B2808B14",
+        "lastModified": "2018-11-26T15:39:09.007",
+        "created": "2018-11-26T15:39:09.007",
+        "titles": [
+          {
+            "title": "HP 365 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:365_firmware:nexus_03_12_00.14:*:*:*:*:*:*:*",
+        "cpeNameId": "76DA8B80-9D12-4ECB-AAC1-2DD3438F178A",
+        "lastModified": "2018-11-26T15:39:09.147",
+        "created": "2018-11-26T15:39:09.147",
+        "titles": [
+          {
+            "title": "HP 365 Firmware NEXUS 03 12 00.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:365_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP 365 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:365_firmware:nexus_03_12_00.14:*:*:*:*:*:*:*",
+      "title": "HP 365 Firmware NEXUS 03 12 00.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

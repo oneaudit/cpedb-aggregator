@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:315_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "8CFED5EE-316D-46CD-8708-395C32D18902",
+        "lastModified": "2018-11-26T15:39:07.977",
+        "created": "2018-11-26T15:39:07.977",
+        "titles": [
+          {
+            "title": "HP 315 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:315_firmware:nexus_03_12_00.14:*:*:*:*:*:*:*",
+        "cpeNameId": "9686A2D8-4015-4D20-BE0F-8F1237A99702",
+        "lastModified": "2018-11-26T15:39:08.087",
+        "created": "2018-11-26T15:39:08.087",
+        "titles": [
+          {
+            "title": "HP 315 Firmware NEXUS 03 12 00.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:315_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP 315 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:315_firmware:nexus_03_12_00.14:*:*:*:*:*:*:*",
+      "title": "HP 315 Firmware NEXUS 03 12 00.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

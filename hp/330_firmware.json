@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:330_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F4AF77C5-0946-4566-A1E3-AC4970EBC9DE",
+        "lastModified": "2018-11-26T15:39:08.210",
+        "created": "2018-11-26T15:39:08.210",
+        "titles": [
+          {
+            "title": "HP 330 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:330_firmware:nexus_01_12_00.10:*:*:*:*:*:*:*",
+        "cpeNameId": "48F427B9-A8C3-458A-A175-C6632035FA04",
+        "lastModified": "2018-11-26T15:39:08.350",
+        "created": "2018-11-26T15:39:08.350",
+        "titles": [
+          {
+            "title": "HP 330 Firmware NEXUS 01 12 00.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:330_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP 330 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:330_firmware:nexus_01_12_00.10:*:*:*:*:*:*:*",
+      "title": "HP 330 Firmware NEXUS 01 12 00.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

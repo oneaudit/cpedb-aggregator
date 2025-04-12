@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:335_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6F5D859C-4D57-488B-B00E-4026F918DC10",
+        "lastModified": "2018-11-26T15:39:08.477",
+        "created": "2018-11-26T15:39:08.477",
+        "titles": [
+          {
+            "title": "HP 335 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:335_firmware:nexus_03_12_00.14:*:*:*:*:*:*:*",
+        "cpeNameId": "536359D4-22D7-4DFD-AC3B-ACA2403F6E5B",
+        "lastModified": "2018-11-26T15:39:08.600",
+        "created": "2018-11-26T15:39:08.600",
+        "titles": [
+          {
+            "title": "HP 335 Firmware NEXUS 03 12 00.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:335_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP 335 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:335_firmware:nexus_03_12_00.14:*:*:*:*:*:*:*",
+      "title": "HP 335 Firmware NEXUS 03 12 00.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

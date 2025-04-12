@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:375_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4254D526-1D45-4717-9F8E-C4EB36FAF5B8",
+        "lastModified": "2018-11-26T15:39:09.537",
+        "created": "2018-11-26T15:39:09.537",
+        "titles": [
+          {
+            "title": "HP 375 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:375_firmware:nexus_03_12_00.14:*:*:*:*:*:*:*",
+        "cpeNameId": "BF1B5BB8-F1F4-46B2-8BCE-1736F9ADD027",
+        "lastModified": "2018-11-26T15:39:09.663",
+        "created": "2018-11-26T15:39:09.663",
+        "titles": [
+          {
+            "title": "HP 375 Firmware NEXUS 03 12 00.14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:375_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP 375 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:375_firmware:nexus_03_12_00.14:*:*:*:*:*:*:*",
+      "title": "HP 375 Firmware NEXUS 03 12 00.14",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

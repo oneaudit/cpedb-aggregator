@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:370_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2EB3DC2F-0CC0-4201-B827-3EECC330DB02",
+        "lastModified": "2018-11-26T15:39:09.273",
+        "created": "2018-11-26T15:39:09.273",
+        "titles": [
+          {
+            "title": "HP 370 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:370_firmware:nexus_01_12_00.10:*:*:*:*:*:*:*",
+        "cpeNameId": "80E126EC-F4F0-4730-A4CA-D535D199439D",
+        "lastModified": "2018-11-26T15:39:09.397",
+        "created": "2018-11-26T15:39:09.397",
+        "titles": [
+          {
+            "title": "HP 370 Firmware NEXUS 01 12 00.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:370_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP 370 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:370_firmware:nexus_01_12_00.10:*:*:*:*:*:*:*",
+      "title": "HP 370 Firmware NEXUS 01 12 00.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

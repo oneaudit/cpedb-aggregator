@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:560_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "281C5747-026E-4EC8-8BDC-5244A875C59E",
+        "lastModified": "2018-11-26T15:39:09.803",
+        "created": "2018-11-26T15:39:09.803",
+        "titles": [
+          {
+            "title": "HP 560 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:560_firmware:storm_00_05_01.5:*:*:*:*:*:*:*",
+        "cpeNameId": "3735222C-B52A-437E-9D6F-791CA3810A1F",
+        "lastModified": "2018-11-26T15:39:09.930",
+        "created": "2018-11-26T15:39:09.930",
+        "titles": [
+          {
+            "title": "HP 560 Firmware STORM 00 05 01.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:560_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP 560 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:560_firmware:storm_00_05_01.5:*:*:*:*:*:*:*",
+      "title": "HP 560 Firmware STORM 00 05 01.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

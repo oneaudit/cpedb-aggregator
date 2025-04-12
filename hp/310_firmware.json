@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:310_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A5024683-91B9-4CC1-9923-9D39653262DB",
+        "lastModified": "2018-11-26T15:39:07.727",
+        "created": "2018-11-26T15:39:07.727",
+        "titles": [
+          {
+            "title": "HP 310 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:310_firmware:nexus_01_12_00.10:*:*:*:*:*:*:*",
+        "cpeNameId": "8F380757-FDAC-4EB5-AA94-C752F6542B04",
+        "lastModified": "2018-11-26T15:39:07.850",
+        "created": "2018-11-26T15:39:07.850",
+        "titles": [
+          {
+            "title": "HP 310 Firmware NEXUS 01 12 00.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:310_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP 310 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:310_firmware:nexus_01_12_00.10:*:*:*:*:*:*:*",
+      "title": "HP 310 Firmware NEXUS 01 12 00.10",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

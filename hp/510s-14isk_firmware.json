@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:510s-14isk_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6516711D-FEDE-4228-BBC5-8EA79442122B",
+        "lastModified": "2018-11-26T15:28:32.383",
+        "created": "2018-11-26T15:28:32.383",
+        "titles": [
+          {
+            "title": "HP 510S-14ISK Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:hp:510s-14isk_firmware:1.15:*:*:*:*:*:*:*",
+        "cpeNameId": "47E36B42-0E12-4678-AD8F-546712EA5872",
+        "lastModified": "2018-11-26T15:28:32.603",
+        "created": "2018-11-26T15:28:32.603",
+        "titles": [
+          {
+            "title": "HP 510S-14ISK Firmware 1.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:hp:510s-14isk_firmware:-:*:*:*:*:*:*:*",
+      "title": "HP 510S-14ISK Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:hp:510s-14isk_firmware:1.15:*:*:*:*:*:*:*",
+      "title": "HP 510S-14ISK Firmware 1.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
