@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:car_rental_portal_project:car_rental_portal:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "BE249FA5-A92F-4629-BD7E-1C14AABCA272",
+        "lastModified": "2023-11-14T16:33:10.263",
+        "created": "2021-02-23T14:01:21.730",
+        "titles": [
+          {
+            "title": "Car Rental Portal Project Car Rental Portal 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:car_rental_portal:2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "FBA93E51-FDF5-44CD-A28D-21B8538E3B42"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:car_rental_portal_project:car_rental_portal:2.0:*:*:*:*:*:*:*",
+      "title": "Car Rental Portal Project Car Rental Portal 2.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:car_rental_portal:2.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

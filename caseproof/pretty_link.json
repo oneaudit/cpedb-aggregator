@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:caseproof:pretty_link:1.6.7:*:*:*:lite:*:*:*",
+        "cpeNameId": "A03DF3BA-02F7-48CB-8A36-3D9D8D13CB9E",
+        "lastModified": "2025-02-13T16:11:57.107",
+        "created": "2019-12-05T18:49:01.753",
+        "titles": [
+          {
+            "title": "Caseproof Pretty Link 1.6.7 Lite Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:caseproof:prettylinks:1.6.7:*:*:*:free:wordpress:*:*",
+            "cpeNameId": "C12140DD-FF81-4CFB-85D4-44AE6CB81DDA"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:caseproof:pretty_link:1.6.8:*:*:*:lite:*:*:*",
+        "cpeNameId": "90CF2280-AE20-4480-99D1-2065B4A6F7D2",
+        "lastModified": "2025-02-13T16:11:57.107",
+        "created": "2019-12-05T18:49:01.970",
+        "titles": [
+          {
+            "title": "Caseproof Pretty Link 1.6.8 Lite Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:caseproof:prettylinks:1.6.8:*:*:*:free:wordpress:*:*",
+            "cpeNameId": "7A08D993-6023-4D91-A8A5-B81C9A50FC19"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:caseproof:pretty_link:1.5.2:*:*:*:lite:wordpress:*:*",
+        "cpeNameId": "E9D8546B-318D-47A2-AB61-2C60BBC4C532",
+        "lastModified": "2025-02-13T16:11:57.107",
+        "created": "2020-01-15T15:39:39.617",
+        "titles": [
+          {
+            "title": "Caseproof Pretty Link 1.5.2 Lite Edition for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:caseproof:prettylinks:1.5.2:*:*:*:free:wordpress:*:*",
+            "cpeNameId": "6C1719CC-E0E7-43E7-AE35-25B54CA731C0"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:caseproof:pretty_link:1.6.7:*:*:*:lite:*:*:*",
+      "title": "Caseproof Pretty Link 1.6.7 Lite Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:caseproof:prettylinks:1.6.7:*:*:*:free:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:caseproof:pretty_link:1.6.8:*:*:*:lite:*:*:*",
+      "title": "Caseproof Pretty Link 1.6.8 Lite Edition",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:caseproof:prettylinks:1.6.8:*:*:*:free:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:caseproof:pretty_link:1.5.2:*:*:*:lite:wordpress:*:*",
+      "title": "Caseproof Pretty Link 1.5.2 Lite Edition for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:caseproof:prettylinks:1.5.2:*:*:*:free:wordpress:*:*"
+    }
+  ]
+}

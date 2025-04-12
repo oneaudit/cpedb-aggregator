@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:canonical:remote-login-service:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B0FEB638-7DFC-4FA6-9AB1-697DB3B2E7BE",
+        "lastModified": "2021-05-20T15:18:54.270",
+        "created": "2021-01-21T12:03:33.470",
+        "titles": [
+          {
+            "title": "Canonical Remote-Login-Service",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:canonical:remote-login-service:1.0.0-0ubuntu3:*:*:*:*:*:*:*",
+        "cpeNameId": "EE336C18-9D38-48D5-B55B-CC4BC503698C",
+        "lastModified": "2021-05-20T15:18:54.270",
+        "created": "2021-01-21T12:03:33.470",
+        "titles": [
+          {
+            "title": "Canonical Remote-Login-Service 1.0.0-0ubuntu3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:canonical:remote-login-service:-:*:*:*:*:*:*:*",
+      "title": "Canonical Remote-Login-Service",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:canonical:remote-login-service:1.0.0-0ubuntu3:*:*:*:*:*:*:*",
+      "title": "Canonical Remote-Login-Service 1.0.0-0ubuntu3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

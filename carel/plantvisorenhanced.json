@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:carel:plantvisorenhanced:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E4500897-D53C-4C0E-BA0E-8648A87F4513",
+        "lastModified": "2016-03-02T19:34:45.303",
+        "created": "2016-02-29T15:51:43.180",
+        "titles": [
+          {
+            "title": "Carel PlantVisorEnhanced",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:carel:plantvisor_enhanced:-:*:*:*:*:*:*:*",
+            "cpeNameId": "F331D040-41C5-4FBE-8027-12A61D9671DE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:carel:plantvisorenhanced:-:*:*:*:*:*:*:*",
+      "title": "Carel PlantVisorEnhanced",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:carel:plantvisor_enhanced:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

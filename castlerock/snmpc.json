@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:castlerock:snmpc:7.1:*:*:*:*:*:*:*",
+        "cpeNameId": "D7DB61F5-47A2-4036-BFF6-AFB916B9496A",
+        "lastModified": "2012-05-08T13:50:47.223",
+        "created": "2012-05-08T13:50:47.223",
+        "titles": [
+          {
+            "title": "Castlerock Snmpc 7.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:castlerock:snmpc:12.1:*:*:*:online:*:*:*",
+        "cpeNameId": "456BDBC1-312E-43B8-9B2F-3AA5BE895997",
+        "lastModified": "2021-07-19T19:36:37.943",
+        "created": "2017-04-13T16:38:19.147",
+        "titles": [
+          {
+            "title": "Castle Rock Computing SNMPc 12.1 Online Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:castlerock:snmpc:9.0:*:*:*:enterprise:*:*:*",
+        "cpeNameId": "B563164B-7D06-40DC-B629-E381BFAC48EF",
+        "lastModified": "2021-07-19T19:36:37.943",
+        "created": "2017-04-13T16:38:19.147",
+        "titles": [
+          {
+            "title": "Castle Rock Computing SNMPc 9.0 Enterprise Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:castlerock:snmpc:7.1:*:*:*:*:*:*:*",
+      "title": "Castlerock Snmpc 7.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:castlerock:snmpc:12.1:*:*:*:online:*:*:*",
+      "title": "Castle Rock Computing SNMPc 12.1 Online Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:castlerock:snmpc:9.0:*:*:*:enterprise:*:*:*",
+      "title": "Castle Rock Computing SNMPc 9.0 Enterprise Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
