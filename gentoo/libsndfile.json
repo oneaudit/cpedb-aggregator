@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:gentoo:libsndfile:-:*:*:*:*:*:*:*",
+        "cpeNameId": "0F54DAEB-795C-4791-9AC2-5BB2777A60E6",
+        "lastModified": "2020-11-20T14:39:41.310",
+        "created": "2007-09-20T21:47:09.303",
+        "titles": [
+          {
+            "title": "Gentoo libsndfile",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:libsndfile_project:libsndfile:-:*:*:*:*:*:*:*",
+            "cpeNameId": "8673EB4C-81BD-41F3-BB24-55268869CB78"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:gentoo:libsndfile:1.0.17:*:*:*:*:*:*:*",
+        "cpeNameId": "06DE1ACD-ED24-4258-86DA-30A4483EDC3C",
+        "lastModified": "2020-11-20T14:39:42.263",
+        "created": "2007-09-20T21:47:23.790",
+        "titles": [
+          {
+            "title": "Gentoo libsndfile 1.0.17",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:libsndfile_project:libsndfile:1.0.17:*:*:*:*:*:*:*",
+            "cpeNameId": "AA73D9B4-C9DB-4797-BBB2-0D9E50912D8A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gentoo:libsndfile:-:*:*:*:*:*:*:*",
+      "title": "Gentoo libsndfile",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:libsndfile_project:libsndfile:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:gentoo:libsndfile:1.0.17:*:*:*:*:*:*:*",
+      "title": "Gentoo libsndfile 1.0.17",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:libsndfile_project:libsndfile:1.0.17:*:*:*:*:*:*:*"
+    }
+  ]
+}

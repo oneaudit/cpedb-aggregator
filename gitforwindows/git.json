@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gitforwindows:git:2.17.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4BABF5E3-688D-43B4-8C24-F0DD2F82B25F",
+        "lastModified": "2021-03-26T17:08:12.980",
+        "created": "2018-06-29T19:59:15.060",
+        "titles": [
+          {
+            "title": "Git for Windows Git 2.17.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gitforwindows:git:2.34.1:*:*:*:*:windows:*:*",
+        "cpeNameId": "F3737834-D825-4AC3-ADAF-02CC8C69EABE",
+        "lastModified": "2022-02-23T14:57:30.327",
+        "created": "2022-02-02T13:14:54.100",
+        "titles": [
+          {
+            "title": "Git for Windows Git 2.34.1 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gitforwindows:git:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "F49E92BE-DB75-4D91-A8E5-193DC89F11B6",
+        "lastModified": "2022-02-23T14:57:30.327",
+        "created": "2022-02-02T13:14:54.100",
+        "titles": [
+          {
+            "title": "Git for Windows Git for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gitforwindows:git:2.37.1:*:*:*:*:windows:*:*",
+        "cpeNameId": "CFEC5CE3-FC8C-44F4-9397-1F05D3CFD7BD",
+        "lastModified": "2022-11-06T15:03:38.527",
+        "created": "2022-07-19T12:46:20.483",
+        "titles": [
+          {
+            "title": "Git for Windows Git 2.37.1 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gitforwindows:git:2.17.1:*:*:*:*:*:*:*",
+      "title": "Git for Windows Git 2.17.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gitforwindows:git:2.34.1:*:*:*:*:windows:*:*",
+      "title": "Git for Windows Git 2.34.1 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gitforwindows:git:-:*:*:*:*:windows:*:*",
+      "title": "Git for Windows Git for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gitforwindows:git:2.37.1:*:*:*:*:windows:*:*",
+      "title": "Git for Windows Git 2.37.1 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

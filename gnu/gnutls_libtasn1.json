@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:gnu:gnutls_libtasn1:4.10:*:*:*:*:*:*:*",
+        "cpeNameId": "57D9BABC-7FBC-40BC-93E2-9226E4187480",
+        "lastModified": "2022-12-05T23:48:05.467",
+        "created": "2017-06-02T01:36:59.260",
+        "titles": [
+          {
+            "title": "GNU GnuTLS Libtasn1 4.10",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:gnu:libtasn1:4.10:*:*:*:*:*:*:*",
+            "cpeNameId": "721EE872-4328-42F2-AEC0-AB680A82D290"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gnu:gnutls_libtasn1:4.10:*:*:*:*:*:*:*",
+      "title": "GNU GnuTLS Libtasn1 4.10",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:gnu:libtasn1:4.10:*:*:*:*:*:*:*"
+    }
+  ]
+}

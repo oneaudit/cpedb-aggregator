@@ -1,0 +1,87 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:gnu:gimp:-:*:*:*:*:*:*:*",
+        "cpeNameId": "08DE51BC-C75C-4BFE-AEDB-4CA5104A4B53",
+        "lastModified": "2012-07-25T18:31:57.743",
+        "created": "2007-08-27T19:37:18.790",
+        "titles": [
+          {
+            "title": "GIMP",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:gimp:gimp:-:*:*:*:*:*:*:*",
+            "cpeNameId": "ABE533B4-F6DB-4D07-896C-5B7F492E1874"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:gnu:gimp:2.6.11:*:*:*:*:*:*:*",
+        "cpeNameId": "F3F03AD1-B54E-47A5-89CA-AE10BD9A388F",
+        "lastModified": "2012-07-25T18:31:57.853",
+        "created": "2011-01-10T17:43:13.983",
+        "titles": [
+          {
+            "title": "GIMP 2.6.11",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:gimp:gimp:2.6.11:*:*:*:*:*:*:*",
+            "cpeNameId": "D6AC3A0F-63E1-44FB-892D-8611B862C759"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:gnu:gimp:2.6.8:*:*:*:*:*:*:*",
+        "cpeNameId": "1EF16575-B5DF-4A20-BF2B-CBF16A9E173F",
+        "lastModified": "2012-07-25T18:31:57.947",
+        "created": "2011-06-07T13:17:37.670",
+        "titles": [
+          {
+            "title": "GIMP 2.6.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:gimp:gimp:2.6.8:*:*:*:*:*:*:*",
+            "cpeNameId": "8C22743F-5D7A-44A1-AF81-A35945E4D790"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gnu:gimp:-:*:*:*:*:*:*:*",
+      "title": "GIMP",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:gimp:gimp:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:gnu:gimp:2.6.11:*:*:*:*:*:*:*",
+      "title": "GIMP 2.6.11",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:gimp:gimp:2.6.11:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:gnu:gimp:2.6.8:*:*:*:*:*:*:*",
+      "title": "GIMP 2.6.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:gimp:gimp:2.6.8:*:*:*:*:*:*:*"
+    }
+  ]
+}

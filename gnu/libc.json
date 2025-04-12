@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gnu:libc:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6993F157-1615-4590-BFE2-487995A8D059",
+        "lastModified": "2008-04-01T16:13:35.070",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Linux libc",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gnu:libc:5.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "CCFAB4A8-B3E8-4F4A-ABC3-8FE02CFAF1F9",
+        "lastModified": "2008-04-01T16:13:35.133",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Linux libc 5.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gnu:libc:5.2.18:*:*:*:*:*:*:*",
+        "cpeNameId": "5CCE12B7-43A9-4B32-BBE2-7809D96BA302",
+        "lastModified": "2008-04-01T16:13:35.210",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Linux libc 5.2.18",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gnu:libc:5.3.12:*:*:*:*:*:*:*",
+        "cpeNameId": "2AF40D67-A21B-430A-9CF4-405512C9D756",
+        "lastModified": "2008-04-01T16:13:35.273",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Linux libc 5.3.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gnu:libc:-:*:*:*:*:*:*:*",
+      "title": "Linux libc",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gnu:libc:5.0.9:*:*:*:*:*:*:*",
+      "title": "Linux libc 5.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gnu:libc:5.2.18:*:*:*:*:*:*:*",
+      "title": "Linux libc 5.2.18",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gnu:libc:5.3.12:*:*:*:*:*:*:*",
+      "title": "Linux libc 5.3.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

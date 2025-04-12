@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gnu:gnu_scientific_library:2.5:*:*:*:*:*:*:*",
+        "cpeNameId": "BA3BE342-E561-40AC-ABEC-9862EEB2F37D",
+        "lastModified": "2023-09-29T17:15:18.243",
+        "created": "2023-09-29T17:15:18.243",
+        "titles": [
+          {
+            "title": "GNU GNU Scientific Library (GSL) 2.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gnu:gnu_scientific_library:2.6:*:*:*:*:*:*:*",
+        "cpeNameId": "E2C9CCA7-B400-455D-90CF-D9766A4D29AE",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "GNU GNU Scientific Library (GSL) 2.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gnu:gnu_scientific_library:2.5:*:*:*:*:*:*:*",
+      "title": "GNU GNU Scientific Library (GSL) 2.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gnu:gnu_scientific_library:2.6:*:*:*:*:*:*:*",
+      "title": "GNU GNU Scientific Library (GSL) 2.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

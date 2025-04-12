@@ -1,0 +1,136 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:getpixie:pixie:1.01:*:*:*:*:*:*:*",
+        "cpeNameId": "46C49E3C-30A0-4427-9389-5FA0194B2C00",
+        "lastModified": "2021-03-29T12:16:33.423",
+        "created": "2009-03-26T14:31:01.343",
+        "titles": [
+          {
+            "title": "getpixie Pixie CMS1.01",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:lucidcrew:pixie:1.01:*:*:*:*:*:*:*",
+            "cpeNameId": "9CF6C180-2356-4429-AFFA-18DBFFA58F74"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:getpixie:pixie:1.04:*:*:*:*:*:*:*",
+        "cpeNameId": "1ADE8581-9147-4B9E-B6B8-9DA1F69D0FA4",
+        "lastModified": "2021-03-29T12:16:33.423",
+        "created": "2011-09-26T13:58:24.127",
+        "titles": [
+          {
+            "title": "getpixie Pixie CMS 1.04",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:lucidcrew:pixie:1.04:*:*:*:*:*:*:*",
+            "cpeNameId": "8BCF763A-6A7F-4D86-B239-4758065088B9"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:getpixie:pixie:1.03:*:*:*:*:*:*:*",
+        "cpeNameId": "3F3153B5-C3BD-4338-98AC-0299A5075AAC",
+        "lastModified": "2021-03-29T12:16:33.423",
+        "created": "2011-12-09T15:44:19.787",
+        "titles": [
+          {
+            "title": "getpixie Pixie CMS 1.03",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:lucidcrew:pixie:1.03:*:*:*:*:*:*:*",
+            "cpeNameId": "A3539E91-21C1-4894-A1DC-ACAB9E2BAF4F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:getpixie:pixie:1.02:*:*:*:*:*:*:*",
+        "cpeNameId": "1472D63F-6B5D-4F0B-8CAF-9F117D88A2BA",
+        "lastModified": "2021-03-29T12:16:33.423",
+        "created": "2011-12-09T15:45:26.723",
+        "titles": [
+          {
+            "title": "getpixie Pixie CMS1.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:lucidcrew:pixie:1.02:*:*:*:*:*:*:*",
+            "cpeNameId": "3FE0554B-5367-4E56-A620-8D1A9939F5D5"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:getpixie:pixie:1.01:a:*:*:*:*:*:*",
+        "cpeNameId": "A63D4382-AEA9-4650-B5C3-E4E97CF70E50",
+        "lastModified": "2014-06-04T18:44:36.047",
+        "created": "2014-06-04T18:43:30.620",
+        "titles": [
+          {
+            "title": "GetPixie CM 1.01a",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:getpixie:pixie:1.01:*:*:*:*:*:*:*",
+      "title": "getpixie Pixie CMS1.01",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:lucidcrew:pixie:1.01:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:getpixie:pixie:1.04:*:*:*:*:*:*:*",
+      "title": "getpixie Pixie CMS 1.04",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:lucidcrew:pixie:1.04:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:getpixie:pixie:1.03:*:*:*:*:*:*:*",
+      "title": "getpixie Pixie CMS 1.03",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:lucidcrew:pixie:1.03:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:getpixie:pixie:1.02:*:*:*:*:*:*:*",
+      "title": "getpixie Pixie CMS1.02",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:lucidcrew:pixie:1.02:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:getpixie:pixie:1.01:a:*:*:*:*:*:*",
+      "title": "GetPixie CM 1.01a",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

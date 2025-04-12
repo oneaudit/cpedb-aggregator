@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gnu:g\\+\\+:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C21FDE6F-2F43-4DB7-85D4-68D157461F70",
+        "lastModified": "2008-06-17T17:50:37.530",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "GNU g++",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gnu:g\\+\\+:3.3.3:*:*:*:*:*:*:*",
+        "cpeNameId": "B3FC61C7-737A-407D-BFF3-CCECF62AC4AA",
+        "lastModified": "2008-06-17T17:50:37.623",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "GNU g++ 3.3.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gnu:g\\+\\+:-:*:*:*:*:*:*:*",
+      "title": "GNU g++",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gnu:g\\+\\+:3.3.3:*:*:*:*:*:*:*",
+      "title": "GNU g++ 3.3.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

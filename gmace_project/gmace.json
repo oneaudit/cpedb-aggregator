@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gmace_project:gmace:1.5.2:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "D163F0BB-9D4F-4710-9650-DD3890D8B85E",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-03-31T19:11:55.213",
+        "titles": [
+          {
+            "title": "GMAce Project GMAce 1.5.2 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gmace_project:gmace:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "AF4FF8F9-BE90-43BD-A4AA-897484A689F2",
+        "lastModified": "2023-04-03T15:41:23.063",
+        "created": "2023-03-31T19:12:12.980",
+        "titles": [
+          {
+            "title": "GMAce Project GMAce for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gmace_project:gmace:1.5.2:*:*:*:*:wordpress:*:*",
+      "title": "GMAce Project GMAce 1.5.2 for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gmace_project:gmace:-:*:*:*:*:wordpress:*:*",
+      "title": "GMAce Project GMAce for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:gigpress:gigpress:2.3.8:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "6863E5CE-F98D-46BA-BAA4-B3E15C063EA6",
+        "lastModified": "2021-08-19T16:27:32.457",
+        "created": "2015-05-28T13:29:41.017",
+        "titles": [
+          {
+            "title": "GigPress for WordPress 2.3.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tri:gigpress:2.3.8:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "127A8679-C131-47C4-9A75-238BDF32D33C"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gigpress:gigpress:2.3.8:*:*:*:*:wordpress:*:*",
+      "title": "GigPress for WordPress 2.3.8",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tri:gigpress:2.3.8:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

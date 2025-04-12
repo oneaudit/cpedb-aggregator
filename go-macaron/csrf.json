@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:go-macaron:csrf:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1A78FC5D-7D6F-42EC-90F0-4B07A5899E8B",
+        "lastModified": "2023-01-20T15:16:16.040",
+        "created": "2023-01-05T15:07:31.123",
+        "titles": [
+          {
+            "title": "Go-macaron CSRF",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:go-macaron:csrf:-:*:*:*:*:macaron:*:*",
+        "cpeNameId": "499DEF5C-C3A8-4E16-BC94-3C110938BE80",
+        "lastModified": "2023-12-16T04:28:17.570",
+        "created": "2023-12-16T04:28:17.570",
+        "titles": [
+          {
+            "title": "Go-macaron Csrf - for Macaron",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:go-macaron:csrf:-:*:*:*:*:*:*:*",
+      "title": "Go-macaron CSRF",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:go-macaron:csrf:-:*:*:*:*:macaron:*:*",
+      "title": "Go-macaron Csrf - for Macaron",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

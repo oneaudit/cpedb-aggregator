@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:getcockpit:cockpit:0.13.0:*:*:*:*:*:*:*",
+        "cpeNameId": "9844174E-06E1-4FD4-B3F4-C0F66515C390",
+        "lastModified": "2022-08-18T19:44:12.177",
+        "created": "2020-04-01T17:53:08.283",
+        "titles": [
+          {
+            "title": "Getcockpit Cockpit 0.13.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:agentejo:cockpit:0.13.0:*:*:*:*:*:*:*",
+            "cpeNameId": "E0AB64B4-3AD9-4853-B6C8-23896374407A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:getcockpit:cockpit:0.13.0:*:*:*:*:*:*:*",
+      "title": "Getcockpit Cockpit 0.13.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:agentejo:cockpit:0.13.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

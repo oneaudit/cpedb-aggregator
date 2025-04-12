@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gentoo:glibc:-:*:*:*:*:*:*:*",
+        "cpeNameId": "14EF818A-D64D-4754-AA8C-B7E6B184EB83",
+        "lastModified": "2007-09-14T17:36:49.090",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "Gentoo glibc",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gentoo:glibc:2.5:r3:*:*:*:*:*:*",
+        "cpeNameId": "47D0CEDF-F45C-4758-8934-6F152F4222AB",
+        "lastModified": "2008-04-07T14:05:04.507",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "Gentoo glibc 2.5 rc3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gentoo:glibc:-:*:*:*:*:*:*:*",
+      "title": "Gentoo glibc",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gentoo:glibc:2.5:r3:*:*:*:*:*:*",
+      "title": "Gentoo glibc 2.5 rc3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

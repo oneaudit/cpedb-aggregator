@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gnu:grub:-:*:*:*:*:*:*:*",
+        "cpeNameId": "15138E9A-D0BE-4EBC-A5A8-1524779AAE73",
+        "lastModified": "2014-05-15T00:33:42.007",
+        "created": "2014-05-12T16:40:17.237",
+        "titles": [
+          {
+            "title": "GNU GRUB",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:gnu:grub:0.97:*:*:*:*:*:*:*",
+        "cpeNameId": "E5196FD5-604B-4974-B688-B0E120B6B0C5",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "GNU Grub 0.97",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:gnu:grub:-:*:*:*:*:*:*:*",
+      "title": "GNU GRUB",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:gnu:grub:0.97:*:*:*:*:*:*:*",
+      "title": "GNU Grub 0.97",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

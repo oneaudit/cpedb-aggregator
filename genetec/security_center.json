@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:genetec:security_center:-:*:*:*:saas:*:*:*",
+        "cpeNameId": "7E537717-F75E-4B45-ACDB-F65AFC8CBF29",
+        "lastModified": "2023-08-03T13:22:11.657",
+        "created": "2023-08-02T19:28:18.053",
+        "titles": [
+          {
+            "title": "Genetec Security Center - Saas Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:genetec:security_center:5.11.2:*:*:*:-:*:*:*",
+        "cpeNameId": "019165EF-951E-441B-B23A-A6CB1CA264FC",
+        "lastModified": "2023-08-03T13:22:11.657",
+        "created": "2023-08-02T19:28:18.053",
+        "titles": [
+          {
+            "title": "Genetec Security Center 5.11.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:genetec:security_center:5.11.2.1:*:*:*:-:*:*:*",
+        "cpeNameId": "B2F4F2D3-3AF6-4238-8C81-98D2BA7922B4",
+        "lastModified": "2023-08-03T13:22:11.657",
+        "created": "2023-08-03T13:20:37.143",
+        "titles": [
+          {
+            "title": "Genetec Security Center 5.11.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:genetec:security_center:-:*:*:*:saas:*:*:*",
+      "title": "Genetec Security Center - Saas Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:genetec:security_center:5.11.2:*:*:*:-:*:*:*",
+      "title": "Genetec Security Center 5.11.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:genetec:security_center:5.11.2.1:*:*:*:-:*:*:*",
+      "title": "Genetec Security Center 5.11.2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
