@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:st:stm32f103_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9C05FBDF-FAB1-42BF-86ED-2788C14F2E22",
+        "lastModified": "2021-01-11T19:08:28.123",
+        "created": "2021-01-11T19:08:28.123",
+        "titles": [
+          {
+            "title": "STMicroelectronics STM32F103 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:st:stm32f103_firmware:2020-05-20:*:*:*:*:*:*:*",
+        "cpeNameId": "84CA5FFC-C6C1-4A77-8B36-0C5411911AAE",
+        "lastModified": "2021-01-11T19:08:28.420",
+        "created": "2021-01-11T19:08:28.420",
+        "titles": [
+          {
+            "title": "STMicroelectronics STM32F103 Firmware 2020-05-20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:st:stm32f103_firmware:-:*:*:*:*:*:*:*",
+      "title": "STMicroelectronics STM32F103 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:st:stm32f103_firmware:2020-05-20:*:*:*:*:*:*:*",
+      "title": "STMicroelectronics STM32F103 Firmware 2020-05-20",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

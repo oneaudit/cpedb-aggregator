@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:st:stm32cube_mcu_\\\u0026_mpu_packages:1.8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DDCE5784-EA4F-49BB-BEC5-8BAC86A62AD1",
+        "lastModified": "2021-09-24T13:29:26.963",
+        "created": "2021-07-28T19:07:25.830",
+        "titles": [
+          {
+            "title": "STMicroelectronics STM32Cube MCU \u0026 MPU Packages 1.8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:st:stm32cube_mcu_\\\u0026_mpu_packages:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FE29C520-7719-4A04-AEB6-476B06F262C6",
+        "lastModified": "2021-09-24T13:29:26.963",
+        "created": "2021-07-28T19:07:25.830",
+        "titles": [
+          {
+            "title": "STMicroelectronics STM32Cube MCU \u0026 MPU Packages",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:st:stm32cube_mcu_\\\u0026_mpu_packages:1.8.0:*:*:*:*:*:*:*",
+      "title": "STMicroelectronics STM32Cube MCU \u0026 MPU Packages 1.8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:st:stm32cube_mcu_\\\u0026_mpu_packages:-:*:*:*:*:*:*:*",
+      "title": "STMicroelectronics STM32Cube MCU \u0026 MPU Packages",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

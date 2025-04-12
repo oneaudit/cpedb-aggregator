@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:sophos:firewall:-:*:*:*:*:*:*:*",
+        "cpeNameId": "89D9D93F-E1F8-4154-A6DB-0D6CAE289F45",
+        "lastModified": "2022-10-06T15:03:41.687",
+        "created": "2022-05-12T01:40:19.810",
+        "titles": [
+          {
+            "title": "Sophos Firewall",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sophos:firewall:19.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "505ED20F-DB8F-49BD-9DC5-9C7037D77E97",
+        "lastModified": "2022-11-09T20:55:24.030",
+        "created": "2022-09-26T15:53:39.990",
+        "titles": [
+          {
+            "title": "Sophos Firewall 19.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sophos:firewall:19.5.3:*:*:*:*:*:*:*",
+        "cpeNameId": "AD2BD0BE-0CB9-4AF1-A5AD-E6C6244ED7A0",
+        "lastModified": "2023-11-25T03:54:19.637",
+        "created": "2023-11-25T03:54:19.637",
+        "titles": [
+          {
+            "title": "Sophos Firewall 19.5.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:sophos:firewall:-:*:*:*:*:*:*:*",
+      "title": "Sophos Firewall",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sophos:firewall:19.0.1:*:*:*:*:*:*:*",
+      "title": "Sophos Firewall 19.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sophos:firewall:19.5.3:*:*:*:*:*:*:*",
+      "title": "Sophos Firewall 19.5.3",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

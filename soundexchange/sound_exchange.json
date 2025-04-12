@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:soundexchange:sound_exchange:14.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "9C7FAD87-15C5-4BA4-AA02-591FE6052C7A",
+        "lastModified": "2021-06-24T15:15:59.800",
+        "created": "2019-04-02T18:34:22.667",
+        "titles": [
+          {
+            "title": "Sound eXchange 14.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.2:*:*:*:*:*:*:*",
+            "cpeNameId": "72144A94-D742-49E7-B29F-E881CC1F8539"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:soundexchange:sound_exchange:14.4.2:*:*:*:*:*:*:*",
+      "title": "Sound eXchange 14.4.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.2:*:*:*:*:*:*:*"
+    }
+  ]
+}

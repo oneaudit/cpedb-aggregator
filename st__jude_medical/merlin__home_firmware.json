@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:o:st._jude_medical:merlin\\@home_firmware:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "09C63769-EB3C-4106-82DF-571C7BE0469C",
+        "lastModified": "2023-06-26T19:16:44.887",
+        "created": "2017-03-15T17:31:46.000",
+        "titles": [
+          {
+            "title": "St. Jude Medical Merlin@home Firmware 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:abbott:merlin\\@home_firmware:8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "6EBEF235-225B-4D8B-AEAB-FD8BB4ED7114"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:st._jude_medical:merlin\\@home_firmware:8.0:*:*:*:*:*:*:*",
+      "title": "St. Jude Medical Merlin@home Firmware 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:abbott:merlin\\@home_firmware:8.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

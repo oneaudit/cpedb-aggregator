@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sophos:cloud_optix:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6805EE00-FDFB-4E65-93BE-E64EA3D96D9F",
+        "lastModified": "2021-08-16T18:34:02.780",
+        "created": "2020-03-02T18:57:12.457",
+        "titles": [
+          {
+            "title": "Sophos Cloud Optix",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sophos:cloud_optix:2020-01-14:*:*:*:*:*:*:*",
+        "cpeNameId": "1A0AAD0F-294F-4635-9F97-7EF89B8242B3",
+        "lastModified": "2021-08-16T18:34:02.780",
+        "created": "2020-03-02T18:57:12.457",
+        "titles": [
+          {
+            "title": "Sophos Cloud Optix 2020-01-14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sophos:cloud_optix:-:*:*:*:*:*:*:*",
+      "title": "Sophos Cloud Optix",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sophos:cloud_optix:2020-01-14:*:*:*:*:*:*:*",
+      "title": "Sophos Cloud Optix 2020-01-14",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

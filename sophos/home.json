@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sophos:home:10.0.3:*:*:*:*:macos:*:*",
+        "cpeNameId": "099DAA40-B8D2-4278-AC2A-6D05A0558906",
+        "lastModified": "2021-08-19T16:31:35.493",
+        "created": "2021-05-24T15:07:49.453",
+        "titles": [
+          {
+            "title": "Sophos Home 10.0.3 for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sophos:home:-:*:*:*:*:macos:*:*",
+        "cpeNameId": "61E65693-961F-4CE5-8B90-17DB4EC10E87",
+        "lastModified": "2021-08-19T16:31:35.493",
+        "created": "2021-05-24T15:07:49.453",
+        "titles": [
+          {
+            "title": "Sophos Home for MacOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sophos:home:10.0.3:*:*:*:*:macos:*:*",
+      "title": "Sophos Home 10.0.3 for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sophos:home:-:*:*:*:*:macos:*:*",
+      "title": "Sophos Home for MacOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

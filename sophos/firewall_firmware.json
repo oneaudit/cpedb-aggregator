@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sophos:firewall_firmware:19.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A6138672-ED62-4F91-B9E5-2527562B3A14",
+        "lastModified": "2022-06-03T13:02:58.107",
+        "created": "2022-05-12T01:40:44.603",
+        "titles": [
+          {
+            "title": "Sophos Firewall Firmware 19.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sophos:firewall_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6D53D72B-559F-4231-94FC-2B55B86632E5",
+        "lastModified": "2022-06-03T13:02:58.107",
+        "created": "2022-05-12T01:40:44.603",
+        "titles": [
+          {
+            "title": "Sophos Firewall Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sophos:firewall_firmware:19.0:*:*:*:*:*:*:*",
+      "title": "Sophos Firewall Firmware 19.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sophos:firewall_firmware:-:*:*:*:*:*:*:*",
+      "title": "Sophos Firewall Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

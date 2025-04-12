@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sophos:anti-virus:9.6.1:*:*:*:*:linux_kernel:*:*",
+        "cpeNameId": "D59AA160-871D-4D16-A044-9B4C84DEFD1C",
+        "lastModified": "2014-07-22T21:51:32.867",
+        "created": "2014-07-22T17:01:51.147",
+        "titles": [
+          {
+            "title": "Sophos Anti-Virus for Linux 9.6.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sophos:anti-virus:9.5.1:*:*:*:*:linux_kernel:*:*",
+        "cpeNameId": "AE1A5AC7-60E3-4DC1-9D8F-4DB9F0A00F00",
+        "lastModified": "2014-07-22T21:51:33.020",
+        "created": "2014-07-22T17:01:51.600",
+        "titles": [
+          {
+            "title": "Sophos Anti-Virus for Linux 9.5.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sophos:anti-virus:9.6.1:*:*:*:*:linux_kernel:*:*",
+      "title": "Sophos Anti-Virus for Linux 9.6.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sophos:anti-virus:9.5.1:*:*:*:*:linux_kernel:*:*",
+      "title": "Sophos Anti-Virus for Linux 9.5.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:spidercontrol:scada_webserver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "7460FAA4-5020-499C-9DE8-AD03BAF02582",
+        "lastModified": "2019-09-17T16:31:24.683",
+        "created": "2019-09-17T16:31:24.683",
+        "titles": [
+          {
+            "title": "SpiderControl SCADA WebServer",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:spidercontrol:scada_webserver:2.03.0001:*:*:*:*:*:*:*",
+        "cpeNameId": "7E115C74-A69D-4661-8B50-A10644DCE520",
+        "lastModified": "2019-09-17T16:31:24.950",
+        "created": "2019-09-17T16:31:24.950",
+        "titles": [
+          {
+            "title": "SpiderControl SCADA WebServer 2.03.0001",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:spidercontrol:scada_webserver:2.02.0007:*:*:*:*:*:*:*",
+        "cpeNameId": "DF655D88-F132-4657-8122-64B2A81D7496",
+        "lastModified": "2020-08-18T14:51:25.663",
+        "created": "2020-08-18T14:51:25.663",
+        "titles": [
+          {
+            "title": "SpiderControl SCADA WebServer 2.02.0007",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:spidercontrol:scada_webserver:-:*:*:*:*:*:*:*",
+      "title": "SpiderControl SCADA WebServer",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:spidercontrol:scada_webserver:2.03.0001:*:*:*:*:*:*:*",
+      "title": "SpiderControl SCADA WebServer 2.03.0001",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:spidercontrol:scada_webserver:2.02.0007:*:*:*:*:*:*:*",
+      "title": "SpiderControl SCADA WebServer 2.02.0007",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

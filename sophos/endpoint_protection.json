@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sophos:endpoint_protection:10.7:*:*:*:*:*:*:*",
+        "cpeNameId": "A6588BF4-ECD4-47A1-9B71-FBAAC8BE2F82",
+        "lastModified": "2019-11-19T19:26:13.610",
+        "created": "2019-11-19T19:26:13.610",
+        "titles": [
+          {
+            "title": "Sophos Endpoint Protection 10.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sophos:endpoint_protection:-:*:*:*:*:*:*:*",
+        "cpeNameId": "63A90AAC-C85C-4926-8BB6-4E91E8AC8F7F",
+        "lastModified": "2021-08-17T13:20:09.537",
+        "created": "2020-03-02T18:57:13.330",
+        "titles": [
+          {
+            "title": "Sophos Endpoint Protection",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:sophos:endpoint_protection:2020-01-14:*:*:*:*:*:*:*",
+        "cpeNameId": "85EBFC9B-48BC-428D-9E0E-0A1A75AF7682",
+        "lastModified": "2021-08-17T13:20:09.537",
+        "created": "2020-03-02T18:57:13.330",
+        "titles": [
+          {
+            "title": "Sophos Endpoint Protection 2020-01-14",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sophos:endpoint_protection:10.7:*:*:*:*:*:*:*",
+      "title": "Sophos Endpoint Protection 10.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sophos:endpoint_protection:-:*:*:*:*:*:*:*",
+      "title": "Sophos Endpoint Protection",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:sophos:endpoint_protection:2020-01-14:*:*:*:*:*:*:*",
+      "title": "Sophos Endpoint Protection 2020-01-14",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

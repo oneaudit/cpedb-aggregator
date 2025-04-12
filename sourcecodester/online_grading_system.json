@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sourcecodester:online_grading_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "9F6B52D4-EDA6-45B0-AE6A-F8767981EC93",
+        "lastModified": "2020-09-03T12:12:33.743",
+        "created": "2019-10-30T14:12:12.280",
+        "titles": [
+          {
+            "title": "Sourcecodester Online Grading System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:online_grading_system_project:online_grading_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "71D86212-3458-41AC-ACAE-6AF775883DD1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sourcecodester:online_grading_system:1.0:*:*:*:*:*:*:*",
+      "title": "Sourcecodester Online Grading System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:online_grading_system_project:online_grading_system:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

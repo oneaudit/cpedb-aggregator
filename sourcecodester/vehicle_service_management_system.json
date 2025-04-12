@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sourcecodester:vehicle_service_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "EA987A5B-1533-4D39-886C-5A497B9FA7E8",
+        "lastModified": "2023-12-16T03:42:31.200",
+        "created": "2021-12-17T15:47:39.273",
+        "titles": [
+          {
+            "title": "SourceCodester Vehicle Service Management System (SMS) 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oretnom23:vehicle_service_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "15AE4387-5F78-4530-B1A9-F2C56152FB7A"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sourcecodester:vehicle_service_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "SourceCodester Vehicle Service Management System (SMS) 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oretnom23:vehicle_service_management_system:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

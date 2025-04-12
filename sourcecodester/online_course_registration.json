@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:sourcecodester:online_course_registration:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "8E185BFD-2D03-40BE-AE3E-17A6EC67480E",
+        "lastModified": "2020-09-22T12:40:41.380",
+        "created": "2020-09-16T19:14:46.957",
+        "titles": [
+          {
+            "title": "Sourcecodester Online Course Registration 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:online_course_registration_project:online_course_registration:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3E81669F-A217-44C6-ABA1-174267F37CA3"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:sourcecodester:online_course_registration:1.0:*:*:*:*:*:*:*",
+      "title": "Sourcecodester Online Course Registration 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:online_course_registration_project:online_course_registration:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}
