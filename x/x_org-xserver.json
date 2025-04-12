@@ -1,0 +1,94 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:x:x.org-xserver:1.7.7:*:*:*:*:*:*:*",
+        "cpeNameId": "6E518949-EE96-43A7-AC7E-15C45D18101E",
+        "lastModified": "2012-09-10T23:28:40.647",
+        "created": "2012-09-06T13:27:32.783",
+        "titles": [
+          {
+            "title": "X.Org xserver 1.7.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:x:x.org-xserver:1.7.7:rc2:*:*:*:*:*:*",
+        "cpeNameId": "54E65286-1496-4C85-A030-C4978E86E87B",
+        "lastModified": "2012-09-10T23:28:40.697",
+        "created": "2012-09-06T13:27:33.017",
+        "titles": [
+          {
+            "title": "X.Org xserver 1.7.7 release candidate 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:x:x.org-xserver:1.7.6.902:*:*:*:*:*:*:*",
+        "cpeNameId": "F1D25FA0-EF31-48A0-809E-54655335481A",
+        "lastModified": "2012-09-10T23:28:40.600",
+        "created": "2012-09-06T13:27:33.267",
+        "titles": [
+          {
+            "title": "X.Org xserver 1.7.6.902",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:x:x.org-xserver:1.7:*:*:*:*:*:*:*",
+        "cpeNameId": "606462EC-9730-40B1-9C7E-933800563452",
+        "lastModified": "2012-09-10T23:28:40.537",
+        "created": "2012-09-06T13:27:33.377",
+        "titles": [
+          {
+            "title": "X.Org xserver 1.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:x:x.org-xserver:1.7.7:*:*:*:*:*:*:*",
+      "title": "X.Org xserver 1.7.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:x:x.org-xserver:1.7.7:rc2:*:*:*:*:*:*",
+      "title": "X.Org xserver 1.7.7 release candidate 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:x:x.org-xserver:1.7.6.902:*:*:*:*:*:*:*",
+      "title": "X.Org xserver 1.7.6.902",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:x:x.org-xserver:1.7:*:*:*:*:*:*:*",
+      "title": "X.Org xserver 1.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

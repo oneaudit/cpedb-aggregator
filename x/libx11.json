@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:x:libx11:1.5.0:*:*:*:*:*:*:*",
+        "cpeNameId": "43073E5D-5BDB-48C4-AF27-F8E88DBAD79D",
+        "lastModified": "2013-06-24T14:11:04.340",
+        "created": "2013-06-17T17:01:02.943",
+        "titles": [
+          {
+            "title": "X.Org libX11 1.5.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:x:libx11:1.5.99.901:*:*:*:*:*:*:*",
+        "cpeNameId": "2C3C00B2-75FD-43EB-BE7D-8522E6DB526C",
+        "lastModified": "2013-06-24T14:11:04.377",
+        "created": "2013-06-17T17:01:03.060",
+        "titles": [
+          {
+            "title": "X.Org libX11 1.5.99.901",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:x:libx11:1.5.0:*:*:*:*:*:*:*",
+      "title": "X.Org libX11 1.5.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:x:libx11:1.5.99.901:*:*:*:*:*:*:*",
+      "title": "X.Org libX11 1.5.99.901",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

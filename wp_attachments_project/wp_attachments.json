@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wp_attachments_project:wp_attachments:5.0.5:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "351C0976-2D82-4ECA-8ED6-F8B26D9B0F9E",
+        "lastModified": "2023-11-15T13:45:46.930",
+        "created": "2023-01-23T00:44:33.707",
+        "titles": [
+          {
+            "title": "WP Attachments Project WP Attachments 5.0.5 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:marcomilesi:wp_attachments:5.0.5:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "5AB4F3C6-2BA7-4E73-ACDB-535723E11001"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wp_attachments_project:wp_attachments:5.0.5:*:*:*:*:wordpress:*:*",
+      "title": "WP Attachments Project WP Attachments 5.0.5 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:marcomilesi:wp_attachments:5.0.5:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

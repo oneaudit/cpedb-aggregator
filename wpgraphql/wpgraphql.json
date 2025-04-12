@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wpgraphql:wpgraphql:0.2.3:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "5C3B50C0-4B9F-44CA-A17C-311251740650",
+        "lastModified": "2024-01-22T15:39:40.990",
+        "created": "2019-06-11T14:23:09.147",
+        "titles": [
+          {
+            "title": "WPGraphQL 0.2.3 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:wpengine:wpgraphql:0.2.3:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "A31E9152-F8F6-44E5-8992-29BEF6AA5AF1"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wpgraphql:wpgraphql:0.2.3:*:*:*:*:wordpress:*:*",
+      "title": "WPGraphQL 0.2.3 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:wpengine:wpgraphql:0.2.3:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

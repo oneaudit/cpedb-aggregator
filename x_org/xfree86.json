@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:x.org:xfree86:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "E6E81C9A-A91E-4D9A-934B-65EB2296C3BB",
+        "lastModified": "2015-04-08T16:31:09.773",
+        "created": "2014-12-10T19:02:47.707",
+        "titles": [
+          {
+            "title": "X.Org XFree86 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:x.org:xfree86:4.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "B31E003C-F961-4A0C-8CC4-39E8B54DF919",
+        "lastModified": "2015-04-08T16:31:30.117",
+        "created": "2014-12-10T20:50:02.400",
+        "titles": [
+          {
+            "title": "X.Org XFree86 4.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:x.org:xfree86:4.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5DCC840A-5EB5-41F2-BDF6-23DA66F3ADAE",
+        "lastModified": "2015-08-05T15:57:35.137",
+        "created": "2015-02-13T20:04:04.213",
+        "titles": [
+          {
+            "title": "X.Org Xfree86 4.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:x.org:xfree86:4.0:*:*:*:*:*:*:*",
+      "title": "X.Org XFree86 4.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:x.org:xfree86:4.0.1:*:*:*:*:*:*:*",
+      "title": "X.Org XFree86 4.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:x.org:xfree86:4.2.0:*:*:*:*:*:*:*",
+      "title": "X.Org Xfree86 4.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

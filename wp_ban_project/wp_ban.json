@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:wp_ban_project:wp_ban:1.6.3:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "A3AE54CA-CD3B-46E6-804C-2A44F0E91D5E",
+        "lastModified": "2022-12-23T14:32:42.963",
+        "created": "2014-10-27T14:58:22.133",
+        "titles": [
+          {
+            "title": "WP-Ban Plug-In for WordPress 1.6.3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:wp-ban_project:wp-ban:1.63:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "75B3AB52-C86C-4C15-8DA1-0A05BF498BBE"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wp_ban_project:wp_ban:1.6.3:*:*:*:*:wordpress:*:*",
+      "title": "WP-Ban Plug-In for WordPress 1.6.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:wp-ban_project:wp-ban:1.63:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

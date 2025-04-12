@@ -1,0 +1,99 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:xerox:freeflow_print_server:8.0:*:*:*:*:*:*:*",
+        "cpeNameId": "60CF0848-79A7-4BE4-B00A-F7279CF69118",
+        "lastModified": "2022-11-18T15:23:56.537",
+        "created": "2013-10-08T19:17:05.930",
+        "titles": [
+          {
+            "title": "Xerox FreeFlow Print Server 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:xerox:freeflow_print_server:8.0:-:*:*:*:*:*:*",
+            "cpeNameId": "5B8AB397-A19C-4850-8619-FC6C57A8D152"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:xerox:freeflow_print_server:8.0:sp1:*:*:*:*:*:*",
+        "cpeNameId": "9AA436AD-5FEA-4F46-A7E6-FF088AB50492",
+        "lastModified": "2013-10-09T14:36:45.010",
+        "created": "2013-10-09T14:35:07.257",
+        "titles": [
+          {
+            "title": "Xerox FreeFlow Print Server 8.0 Service Pack 1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:xerox:freeflow_print_server:8.0:sp2:*:*:*:*:*:*",
+        "cpeNameId": "9E67171B-22EA-4BE4-80EC-BA5E9453FA6D",
+        "lastModified": "2013-10-09T14:36:45.477",
+        "created": "2013-10-09T14:35:07.647",
+        "titles": [
+          {
+            "title": "Xerox FreeFlow Print Server 8.0 Service Pack 2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:xerox:freeflow_print_server:8.0:-:*:*:*:*:*:*",
+        "cpeNameId": "5B8AB397-A19C-4850-8619-FC6C57A8D152",
+        "lastModified": "2022-11-18T15:23:56.537",
+        "created": "2022-11-18T14:37:13.147",
+        "titles": [
+          {
+            "title": "Xerox FreeFlow Print Server 8.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:xerox:freeflow_print_server:8.0:*:*:*:*:*:*:*",
+      "title": "Xerox FreeFlow Print Server 8.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:xerox:freeflow_print_server:8.0:-:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:xerox:freeflow_print_server:8.0:sp1:*:*:*:*:*:*",
+      "title": "Xerox FreeFlow Print Server 8.0 Service Pack 1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:xerox:freeflow_print_server:8.0:sp2:*:*:*:*:*:*",
+      "title": "Xerox FreeFlow Print Server 8.0 Service Pack 2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:xerox:freeflow_print_server:8.0:-:*:*:*:*:*:*",
+      "title": "Xerox FreeFlow Print Server 8.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

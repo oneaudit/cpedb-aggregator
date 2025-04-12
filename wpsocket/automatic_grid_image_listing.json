@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:wpsocket:automatic_grid_image_listing:1.0:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "9C9F5339-53E5-45D0-A44F-4B6921D92727",
+        "lastModified": "2022-07-11T12:28:58.180",
+        "created": "2022-05-20T02:46:35.313",
+        "titles": [
+          {
+            "title": "wpSocket Automatic Grid Image Listing (AGIL) 1.0 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:wpsocket:automatic_grid_image_listing:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "F0353B06-B09F-48E0-BB13-3500C68F0D70",
+        "lastModified": "2022-07-11T12:28:58.180",
+        "created": "2022-05-20T02:46:35.313",
+        "titles": [
+          {
+            "title": "wpSocket Automatic Grid Image Listing (AGIL) for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:wpsocket:automatic_grid_image_listing:1.0:*:*:*:*:wordpress:*:*",
+      "title": "wpSocket Automatic Grid Image Listing (AGIL) 1.0 for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:wpsocket:automatic_grid_image_listing:-:*:*:*:*:wordpress:*:*",
+      "title": "wpSocket Automatic Grid Image Listing (AGIL) for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
