@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:m4500_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "CA67CAC4-0B06-471D-B8F3-1D52DC598BFE",
+        "lastModified": "2021-04-28T19:06:05.687",
+        "created": "2019-04-12T15:15:57.233",
+        "titles": [
+          {
+            "title": "Lenovo M4500 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:m4500_firmware:fckt98a:*:*:*:*:*:*:*",
+        "cpeNameId": "72732114-6C93-4B25-9793-1079871F3DD9",
+        "lastModified": "2020-10-30T11:19:34.687",
+        "created": "2020-10-30T11:19:34.687",
+        "titles": [
+          {
+            "title": "Lenovo M4500 Firmware FCKT98A",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:lenovo:m4500_firmware:-:*:*:*:*:*:*:*",
+      "title": "Lenovo M4500 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:m4500_firmware:fckt98a:*:*:*:*:*:*:*",
+      "title": "Lenovo M4500 Firmware FCKT98A",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:imm1:1.55:*:*:*:*:*:*:*",
+        "cpeNameId": "ADC142B8-63F5-474B-8625-FD2F9DE479E6",
+        "lastModified": "2021-05-04T17:40:12.077",
+        "created": "2019-04-23T14:58:01.107",
+        "titles": [
+          {
+            "title": "Lenovo IMM1 1.55",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:imm1:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BFA5041F-EC70-4467-8306-D6FED76A0D0B",
+        "lastModified": "2021-05-04T17:40:12.077",
+        "created": "2019-04-23T14:58:01.107",
+        "titles": [
+          {
+            "title": "Lenovo IMM1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lenovo:imm1:1.55:*:*:*:*:*:*:*",
+      "title": "Lenovo IMM1 1.55",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lenovo:imm1:-:*:*:*:*:*:*:*",
+      "title": "Lenovo IMM1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

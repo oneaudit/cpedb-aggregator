@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:system_x3650_m5_bios:-:*:*:*:*:*:*:*",
+        "cpeNameId": "78F0D7DF-687C-417C-8374-D457AC30C7CF",
+        "lastModified": "2021-07-06T15:37:59.610",
+        "created": "2017-01-27T16:24:38.600",
+        "titles": [
+          {
+            "title": "Lenovo System x3650 M5 BIOS",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:lenovo:system_x3650_m5_bios:2.61:*:*:*:*:*:*:*",
+        "cpeNameId": "C3E2CAA2-2E29-4BDA-B276-5C8479E115DF",
+        "lastModified": "2021-05-05T13:49:06.210",
+        "created": "2018-06-08T17:26:15.333",
+        "titles": [
+          {
+            "title": "Lenovo System X3650 M5 BIOS 2.61",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lenovo:system_x3650_m5_bios:-:*:*:*:*:*:*:*",
+      "title": "Lenovo System x3650 M5 BIOS",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:lenovo:system_x3650_m5_bios:2.61:*:*:*:*:*:*:*",
+      "title": "Lenovo System X3650 M5 BIOS 2.61",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

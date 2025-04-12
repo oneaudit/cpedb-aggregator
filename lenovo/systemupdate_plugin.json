@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:systemupdate_plugin:2.0.0.213:*:*:*:*:*:*:*",
+        "cpeNameId": "868D6B87-3D92-43DC-99E3-FB2F0403D2C2",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "Lenovo SystemUpdate Plugin 2.0.0.213",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:systemupdate_plugin:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F7C3E988-0291-4C31-9E57-3C693F67CECE",
+        "lastModified": "2023-12-09T00:30:32.643",
+        "created": "2023-12-09T00:30:32.643",
+        "titles": [
+          {
+            "title": "Lenovo SystemUpdate Plugin -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lenovo:systemupdate_plugin:2.0.0.213:*:*:*:*:*:*:*",
+      "title": "Lenovo SystemUpdate Plugin 2.0.0.213",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lenovo:systemupdate_plugin:-:*:*:*:*:*:*:*",
+      "title": "Lenovo SystemUpdate Plugin -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

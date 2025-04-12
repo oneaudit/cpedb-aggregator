@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:lenovo:storcenter_ix2-200:-:*:*:*:*:*:*:*",
+        "cpeNameId": "27C0B61A-C304-4617-AC07-EC745BA665D0",
+        "lastModified": "2021-05-06T13:30:48.460",
+        "created": "2019-07-18T15:58:48.650",
+        "titles": [
+          {
+            "title": "Lenovo StorCenter IX2-200",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:lenovo:storcenter_ix2-200:-:*:*:*:cloud:*:*:*",
+        "cpeNameId": "29652D7D-FADF-47D4-86AE-96A6F61B36DC",
+        "lastModified": "2021-04-27T13:46:34.330",
+        "created": "2019-08-26T18:34:33.097",
+        "titles": [
+          {
+            "title": "Lenovo StorCenter lx2-200 Cloud Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:lenovo:storcenter_ix2-200:-:*:*:*:*:*:*:*",
+      "title": "Lenovo StorCenter IX2-200",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:lenovo:storcenter_ix2-200:-:*:*:*:cloud:*:*:*",
+      "title": "Lenovo StorCenter lx2-200 Cloud Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:power_management_driver:1.67.17.48:*:*:*:*:*:*:*",
+        "cpeNameId": "12D366C7-A39E-4E28-B517-FF549A109987",
+        "lastModified": "2019-12-30T12:47:17.943",
+        "created": "2019-12-30T12:47:17.943",
+        "titles": [
+          {
+            "title": "Lenovo Power Management Driver 1.67.17.48",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:power_management_driver:1.67.17.54:*:*:*:*:*:*:*",
+        "cpeNameId": "C3092B5C-2721-4C6D-B80D-DFA005466477",
+        "lastModified": "2021-07-06T15:26:40.440",
+        "created": "2021-04-20T13:09:38.587",
+        "titles": [
+          {
+            "title": "Lenovo Power Management Driver 1.67.17.54",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:lenovo:power_management_driver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6A5D6CD5-6084-4E10-B4FB-E7F8B5218DA1",
+        "lastModified": "2021-07-06T15:26:40.440",
+        "created": "2021-04-20T13:09:38.587",
+        "titles": [
+          {
+            "title": "Lenovo Power Management Driver",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:lenovo:power_management_driver:1.67.17.48:*:*:*:*:*:*:*",
+      "title": "Lenovo Power Management Driver 1.67.17.48",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lenovo:power_management_driver:1.67.17.54:*:*:*:*:*:*:*",
+      "title": "Lenovo Power Management Driver 1.67.17.54",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:lenovo:power_management_driver:-:*:*:*:*:*:*:*",
+      "title": "Lenovo Power Management Driver",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
