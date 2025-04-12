@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sick:sim1012_firmware:2.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A32A0BD0-E088-4B25-A41C-30C6AE108902",
+        "lastModified": "2022-11-03T18:57:20.957",
+        "created": "2022-11-03T12:34:10.493",
+        "titles": [
+          {
+            "title": "SICK SIM1012 Firmware 2.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sick:sim1012_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6F26B388-EA37-4912-9DC5-0B4CE3424194",
+        "lastModified": "2022-11-03T18:57:20.957",
+        "created": "2022-11-03T12:34:10.493",
+        "titles": [
+          {
+            "title": "SICK SIM1012 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sick:sim1012_firmware:2.2.0:*:*:*:*:*:*:*",
+      "title": "SICK SIM1012 Firmware 2.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sick:sim1012_firmware:-:*:*:*:*:*:*:*",
+      "title": "SICK SIM1012 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

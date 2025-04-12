@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:shinasys:sihas_sgw-300_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "6D1F8EDC-6861-4C97-9AF6-B3331E68DC69",
+        "lastModified": "2022-06-29T11:15:28.933",
+        "created": "2022-06-27T18:31:25.343",
+        "titles": [
+          {
+            "title": "Shina Systems SiHAS  SGW-300 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:shinasys:sihas_sgw-300_firmware:-:*:*:*:*:android:*:*",
+        "cpeNameId": "75616590-B03D-4996-AA4E-FA0A88211B77",
+        "lastModified": "2023-08-29T11:19:02.447",
+        "created": "2022-06-29T16:50:22.610",
+        "titles": [
+          {
+            "title": "Shinasys Sihas Sgw-300 Firmware - for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:shinasys:sihas_sgw-300_firmware:-:*:*:*:*:iphone_os:*:*",
+        "cpeNameId": "14AA4EBD-039F-4AAC-A642-DB4CA01E0A65",
+        "lastModified": "2023-08-29T11:19:02.447",
+        "created": "2022-06-29T16:50:22.610",
+        "titles": [
+          {
+            "title": "Shinasys Sihas Sgw-300 Firmware - for Iphone Os",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:shinasys:sihas_sgw-300_firmware:-:*:*:*:*:*:*:*",
+      "title": "Shina Systems SiHAS  SGW-300 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:shinasys:sihas_sgw-300_firmware:-:*:*:*:*:android:*:*",
+      "title": "Shinasys Sihas Sgw-300 Firmware - for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:shinasys:sihas_sgw-300_firmware:-:*:*:*:*:iphone_os:*:*",
+      "title": "Shinasys Sihas Sgw-300 Firmware - for Iphone Os",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

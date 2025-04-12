@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sick:sim1004_firmware:2.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6F383E04-4A99-400D-A0C2-985009F32CA2",
+        "lastModified": "2022-11-03T18:57:20.957",
+        "created": "2022-11-03T12:33:57.290",
+        "titles": [
+          {
+            "title": "SICK SIM1004 Firmware 2.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sick:sim1004_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "A6858EE8-7BC6-4285-A756-11574A0CB383",
+        "lastModified": "2022-11-03T18:57:20.957",
+        "created": "2022-11-03T12:33:57.290",
+        "titles": [
+          {
+            "title": "SICK SIM1004 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sick:sim1004_firmware:2.0.0:*:*:*:*:*:*:*",
+      "title": "SICK SIM1004 Firmware 2.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sick:sim1004_firmware:-:*:*:*:*:*:*:*",
+      "title": "SICK SIM1004 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

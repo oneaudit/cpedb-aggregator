@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sielco:polyeco300_firmware:10.19:*:*:*:fpga:*:*:*",
+        "cpeNameId": "22F2A9C2-0A1D-45F8-BECE-DCE5486CA024",
+        "lastModified": "2023-11-27T01:12:41.513",
+        "created": "2023-11-27T01:12:41.513",
+        "titles": [
+          {
+            "title": "Sielco PolyEco300 Firmware 10.19 FPGA Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sielco:polyeco300_firmware:2.0.0:*:*:*:cpu:*:*:*",
+        "cpeNameId": "25EE908D-CA70-42B3-976D-D54AFCD56CC3",
+        "lastModified": "2023-12-01T18:30:58.093",
+        "created": "2023-12-01T18:30:58.093",
+        "titles": [
+          {
+            "title": "Sielco PolyEco300 Firmware 2.0.0 CPU Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sielco:polyeco300_firmware:2.0.2:*:*:*:cpu:*:*:*",
+        "cpeNameId": "E32CE1FF-DA67-468D-9198-AAC9119C9D35",
+        "lastModified": "2023-12-29T15:31:15.447",
+        "created": "2023-12-29T15:31:15.447",
+        "titles": [
+          {
+            "title": "Sielco Polyeco300 Firmware 2.0.2 Cpu Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sielco:polyeco300_firmware:10.19:*:*:*:fpga:*:*:*",
+      "title": "Sielco PolyEco300 Firmware 10.19 FPGA Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sielco:polyeco300_firmware:2.0.0:*:*:*:cpu:*:*:*",
+      "title": "Sielco PolyEco300 Firmware 2.0.0 CPU Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sielco:polyeco300_firmware:2.0.2:*:*:*:cpu:*:*:*",
+      "title": "Sielco Polyeco300 Firmware 2.0.2 Cpu Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sick:sim2000_firmware:1.2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C989DB25-FAD3-4006-B3C6-461FD0690111",
+        "lastModified": "2022-11-03T18:57:20.957",
+        "created": "2022-11-03T12:34:21.197",
+        "titles": [
+          {
+            "title": "SICK SIM2000 Firmware 1.2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:sick:sim2000_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "2F61817A-43D0-49EF-81D5-5006B5E0C732",
+        "lastModified": "2022-11-03T18:57:20.957",
+        "created": "2022-11-03T12:34:21.197",
+        "titles": [
+          {
+            "title": "SICK SIM2000 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:sick:sim2000_firmware:1.2.0:*:*:*:*:*:*:*",
+      "title": "SICK SIM2000 Firmware 1.2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:sick:sim2000_firmware:-:*:*:*:*:*:*:*",
+      "title": "SICK SIM2000 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

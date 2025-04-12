@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:sick:sim2000st:-:*:*:*:*:*:*:*",
+        "cpeNameId": "5CC18537-2AFC-45C6-87B7-286B2DC17093",
+        "lastModified": "2022-11-03T18:57:20.957",
+        "created": "2022-11-03T12:19:24.853",
+        "titles": [
+          {
+            "title": "SICK SIM2000ST",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:sick:sim2000st:-:*:*:*:*:*:lft:*",
+        "cpeNameId": "2127C2FC-426F-408F-B2B3-1E3C8F04814C",
+        "lastModified": "2023-07-06T11:46:54.010",
+        "created": "2022-12-19T16:35:35.587",
+        "titles": [
+          {
+            "title": "SICK SIM2000ST on LFT",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:sick:sim2000st:-:*:*:*:*:*:ppc:*",
+        "cpeNameId": "97C1837D-FABA-4390-B66D-5ACF8988DB7F",
+        "lastModified": "2023-07-06T11:46:54.010",
+        "created": "2022-12-19T16:35:35.587",
+        "titles": [
+          {
+            "title": "SICK SIM2000ST on PowerPC",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:sick:sim2000st:-:*:*:*:*:*:*:*",
+      "title": "SICK SIM2000ST",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:sick:sim2000st:-:*:*:*:*:*:lft:*",
+      "title": "SICK SIM2000ST on LFT",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:sick:sim2000st:-:*:*:*:*:*:ppc:*",
+      "title": "SICK SIM2000ST on PowerPC",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
