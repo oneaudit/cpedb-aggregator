@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amd:psp_driver:5.17.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "1F7157F9-DB0D-43C0-A899-0B6CD93C9D0C",
+        "lastModified": "2021-10-20T12:46:23.283",
+        "created": "2021-10-05T18:12:01.537",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Platform Security Processor (PSP) Driver 5.17.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amd:psp_driver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1F4C375B-4C20-42EA-8359-010548E8FD54",
+        "lastModified": "2021-10-20T12:46:23.283",
+        "created": "2021-10-05T18:12:01.537",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Platform Security Processor (PSP) Driver",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amd:psp_driver:5.17.0.0:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Platform Security Processor (PSP) Driver 5.17.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amd:psp_driver:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Platform Security Processor (PSP) Driver",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

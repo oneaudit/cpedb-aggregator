@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_4700ge_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "1D04196C-EF87-4D6F-945D-B388E7D6DC71",
+        "lastModified": "2022-03-03T16:16:03.140",
+        "created": "2022-02-09T13:35:33.193",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 4700ge Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_4700ge_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "076C854A-291B-410B-A45A-A267022BBD4A",
+        "lastModified": "2023-09-22T18:08:11.697",
+        "created": "2023-09-22T18:08:11.697",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 4700ge Firmware ComboAM4v2PI 1.2.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_4700ge_firmware:renoirpi-fp6_1.0.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "0763AD18-F7AE-4CF1-A63D-D04865953C62",
+        "lastModified": "2023-09-22T18:08:11.697",
+        "created": "2023-09-22T18:08:11.697",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 4700ge Firmware RenoirPI-FP6 1.0.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:ryzen_4700ge_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 4700ge Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_4700ge_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 4700ge Firmware ComboAM4v2PI 1.2.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_4700ge_firmware:renoirpi-fp6_1.0.0.9:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 4700ge Firmware RenoirPI-FP6 1.0.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

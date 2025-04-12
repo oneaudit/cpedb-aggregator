@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amd:fglrx-driver:14.4.2:*:*:*:*:*:*:*",
+        "cpeNameId": "68CB1EE5-5C74-4A57-B07A-17ACB90F4BA2",
+        "lastModified": "2021-04-07T15:58:44.010",
+        "created": "2017-06-14T15:15:23.900",
+        "titles": [
+          {
+            "title": "AMD FGLRX-Driver 14.4.2",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amd:fglrx-driver:15.7:*:*:*:*:*:*:*",
+        "cpeNameId": "42EFBDC4-192B-4BFD-95AA-703116788D2D",
+        "lastModified": "2021-04-07T15:58:44.010",
+        "created": "2017-06-14T15:34:06.513",
+        "titles": [
+          {
+            "title": "AMD FGLRX-Driver 15.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amd:fglrx-driver:14.4.2:*:*:*:*:*:*:*",
+      "title": "AMD FGLRX-Driver 14.4.2",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amd:fglrx-driver:15.7:*:*:*:*:*:*:*",
+      "title": "AMD FGLRX-Driver 15.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

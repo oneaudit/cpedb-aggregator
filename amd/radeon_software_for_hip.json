@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amd:radeon_software_for_hip:24.10.16:*:*:*:pro:*:*:*",
+        "cpeNameId": "5CBF0ADB-13B0-412C-A78E-787D82A1C7A5",
+        "lastModified": "2024-12-11T17:41:16.860",
+        "created": "2024-12-11T17:41:16.860",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Radeon Software (AMD Software) for HIP 24.10.16 Pro Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amd:radeon_software_for_hip:-:*:*:*:pro:*:*:*",
+        "cpeNameId": "796EC4B1-F2DA-43D3-8E22-E3DF7D1E20A5",
+        "lastModified": "2024-12-11T17:41:16.860",
+        "created": "2024-12-11T17:41:16.860",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Radeon Software (AMD Software) for HIP Pro Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amd:radeon_software_for_hip:24.10.16:*:*:*:pro:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Radeon Software (AMD Software) for HIP 24.10.16 Pro Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amd:radeon_software_for_hip:-:*:*:*:pro:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Radeon Software (AMD Software) for HIP Pro Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:amd:milan:-:*:*:*:*:*:*:*",
+        "cpeNameId": "34851DA2-32CD-4651-94FA-16E33E3A15D5",
+        "lastModified": "2022-11-27T13:25:05.137",
+        "created": "2022-11-21T16:31:07.053",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Milan",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:amd:milan:-:*:*:*:embedded:*:*:*",
+        "cpeNameId": "F73BEB6A-F1FD-4A83-AE2F-CB88696FB1E0",
+        "lastModified": "2022-11-27T13:25:05.137",
+        "created": "2022-11-21T16:31:07.053",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Milan Embedded Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:amd:milan:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Milan",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:amd:milan:-:*:*:*:embedded:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Milan Embedded Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

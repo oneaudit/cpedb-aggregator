@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:epyc_embedded_9254_firmware:embgenoapi-sp5_1.0.0.7:*:*:*:*:*:*:*",
+        "cpeNameId": "E76832A6-C72F-4A99-AC0F-B76695A41916",
+        "lastModified": "2024-11-26T19:27:39.953",
+        "created": "2024-11-26T19:27:39.953",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) EPYC Embedded 9254 Firmware EmbGenoaPI-SP5 1.0.0.7",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:epyc_embedded_9254_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "4B1FED80-EBE7-4FFB-B86D-9AE803A456BB",
+        "lastModified": "2024-11-26T19:27:39.953",
+        "created": "2024-11-26T19:27:39.953",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) EPYC Embedded 9254 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:epyc_embedded_9254_firmware:embgenoapi-sp5_1.0.0.7:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) EPYC Embedded 9254 Firmware EmbGenoaPI-SP5 1.0.0.7",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:epyc_embedded_9254_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) EPYC Embedded 9254 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

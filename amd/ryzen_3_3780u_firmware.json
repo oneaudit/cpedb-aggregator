@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_3_3780u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "FCB2366E-3CF2-4A14-9730-B0E9B4F808BC",
+        "lastModified": "2022-07-28T17:44:39.767",
+        "created": "2022-07-28T14:34:03.307",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 3 3780U Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_3_3780u_firmware:comboam4pi_1.0.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "C4EB821D-371C-4F7E-826E-4FD6FFB692AD",
+        "lastModified": "2023-09-22T18:08:11.697",
+        "created": "2023-09-22T18:08:11.697",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 3 3780u Firmware ComboAM4PI 1.0.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_3_3780u_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "401E871F-DDE7-4D6F-BDE6-A220DB832F7A",
+        "lastModified": "2023-09-22T18:08:11.697",
+        "created": "2023-09-22T18:08:11.697",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 3 3780u Firmware ComboAM4v2PI 1.2.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:ryzen_3_3780u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 3 3780U Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_3_3780u_firmware:comboam4pi_1.0.0.9:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 3 3780u Firmware ComboAM4PI 1.0.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_3_3780u_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 3 3780u Firmware ComboAM4v2PI 1.2.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

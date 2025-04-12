@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_5_3550h_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "35881A9F-C1AA-4E82-BD2F-610CC366725F",
+        "lastModified": "2022-07-11T14:54:33.223",
+        "created": "2022-05-19T13:41:48.437",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 5 3550H Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_5_3550h_firmware:picassopi-fp5_1.0.0.f:*:*:*:*:*:*:*",
+        "cpeNameId": "2F46BE34-5619-4C64-B9E6-924BBC8E4103",
+        "lastModified": "2023-08-21T18:35:07.823",
+        "created": "2023-08-21T12:50:00.217",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 5 3550h Firmware Picassopi-fp5 1.0.0.f",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_5_3550h_firmware:picassopi-fp5_1.0.0.e:*:*:*:*:*:*:*",
+        "cpeNameId": "67C9925F-2D7E-4128-BFC9-FE5075A0115F",
+        "lastModified": "2023-12-07T17:55:46.567",
+        "created": "2023-12-07T17:55:46.567",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 5 3550H Firmware PicassoPI-FP5 1.0.0.E",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:ryzen_5_3550h_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 5 3550H Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_5_3550h_firmware:picassopi-fp5_1.0.0.f:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 5 3550h Firmware Picassopi-fp5 1.0.0.f",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_5_3550h_firmware:picassopi-fp5_1.0.0.e:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 5 3550H Firmware PicassoPI-FP5 1.0.0.E",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

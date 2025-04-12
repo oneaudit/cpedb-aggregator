@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_3_3500u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "C79B008E-50C4-45FD-81A5-4695B8088A8A",
+        "lastModified": "2022-07-28T17:44:39.767",
+        "created": "2022-07-28T14:34:03.307",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 3 3500U Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_3_3500u_firmware:comboam4pi_1.0.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "3FB2E418-35C7-4D29-9FDD-9E4E7195D6A0",
+        "lastModified": "2023-09-22T18:08:11.697",
+        "created": "2023-09-22T18:08:11.697",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 3 3500u Firmware ComboAM4PI 1.0.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_3_3500u_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "24C43978-7367-4493-9A4F-62971D282652",
+        "lastModified": "2023-09-22T18:08:11.697",
+        "created": "2023-09-22T18:08:11.697",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 3 3500u Firmware ComboAM4v2PI 1.2.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:ryzen_3_3500u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 3 3500U Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_3_3500u_firmware:comboam4pi_1.0.0.9:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 3 3500u Firmware ComboAM4PI 1.0.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_3_3500u_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 3 3500u Firmware ComboAM4v2PI 1.2.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

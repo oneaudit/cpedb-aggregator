@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:epyc_embedded_7713_firmware:embmilanpi-sp3_1.0.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "5E93589A-913A-4741-8C0D-8B6CCF1077B7",
+        "lastModified": "2024-11-26T19:27:39.953",
+        "created": "2024-11-26T19:27:39.953",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) EPYC Embedded 7713 Firmware EmbMilanPI-SP3 1.0.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:epyc_embedded_7713_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "63000E76-670B-4E70-90E2-96725494E242",
+        "lastModified": "2024-11-26T19:27:39.953",
+        "created": "2024-11-26T19:27:39.953",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) EPYC Embedded 7713 Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:epyc_embedded_7713_firmware:embmilanpi-sp3_1.0.0.9:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) EPYC Embedded 7713 Firmware EmbMilanPI-SP3 1.0.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:epyc_embedded_7713_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) EPYC Embedded 7713 Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

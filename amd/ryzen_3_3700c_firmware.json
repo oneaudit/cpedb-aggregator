@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_3_3700c_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "55C9A23F-0E6A-4131-87DD-8864A199F94D",
+        "lastModified": "2022-07-28T17:44:39.767",
+        "created": "2022-07-28T14:34:03.307",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 3 3700C Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_3_3700c_firmware:comboam4pi_1.0.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "266C0D0A-69F6-4411-864A-3AE0ABBDC4F7",
+        "lastModified": "2023-09-22T18:08:11.697",
+        "created": "2023-09-22T18:08:11.697",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 3 3700c Firmware ComboAM4PI 1.0.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_3_3700c_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "856D1EF5-79A0-4A0F-BF3F-999ABCB7DC6B",
+        "lastModified": "2023-09-22T18:08:11.697",
+        "created": "2023-09-22T18:08:11.697",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 3 3700c Firmware ComboAM4v2PI 1.2.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:ryzen_3_3700c_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 3 3700C Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_3_3700c_firmware:comboam4pi_1.0.0.9:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 3 3700c Firmware ComboAM4PI 1.0.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_3_3700c_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 3 3700c Firmware ComboAM4v2PI 1.2.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

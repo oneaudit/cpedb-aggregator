@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amd:ryzen:2017-01-27:*:*:*:*:*:*:*",
+        "cpeNameId": "0E46A7F1-7900-4D5B-B320-7F6D40CA3080",
+        "lastModified": "2021-05-26T13:31:06.580",
+        "created": "2017-03-28T18:01:42.890",
+        "titles": [
+          {
+            "title": "AMD Ryzen 2017-01-27",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:amd:ryzen:-:*:*:*:*:*:*:*",
+        "cpeNameId": "31F9836C-7906-4B32-A2B8-7653E81E7F59",
+        "lastModified": "2021-04-12T15:36:16.610",
+        "created": "2018-04-16T15:27:22.950",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amd:ryzen:2017-01-27:*:*:*:*:*:*:*",
+      "title": "AMD Ryzen 2017-01-27",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:amd:ryzen:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

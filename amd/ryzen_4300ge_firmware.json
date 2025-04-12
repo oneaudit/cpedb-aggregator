@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_4300ge_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "B2ACFC0B-0C84-4A91-99C5-E8399CC84DE9",
+        "lastModified": "2022-03-03T16:16:03.140",
+        "created": "2022-02-09T13:35:33.193",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 4300ge Firmware ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_4300ge_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*",
+        "cpeNameId": "F55AC2FC-07D6-4C79-AA8E-CC5DD2A8868F",
+        "lastModified": "2023-09-22T18:08:11.697",
+        "created": "2023-09-22T18:08:11.697",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 4300ge Firmware ComboAM4v2PI 1.2.0.8",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_4300ge_firmware:renoirpi-fp6_1.0.0.9:*:*:*:*:*:*:*",
+        "cpeNameId": "3FC6010D-87A4-4833-9449-FB8EB538F41D",
+        "lastModified": "2023-09-22T18:08:11.697",
+        "created": "2023-09-22T18:08:11.697",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 4300ge Firmware RenoirPI-FP6 1.0.0.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:ryzen_4300ge_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 4300ge Firmware ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_4300ge_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 4300ge Firmware ComboAM4v2PI 1.2.0.8",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_4300ge_firmware:renoirpi-fp6_1.0.0.9:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 4300ge Firmware RenoirPI-FP6 1.0.0.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

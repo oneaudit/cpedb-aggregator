@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amd:amd_link:-:*:*:*:*:android:*:*",
+        "cpeNameId": "9A87085C-363B-4619-AEE9-869486B2060A",
+        "lastModified": "2022-11-16T20:00:41.083",
+        "created": "2022-11-16T19:50:16.447",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) AMD Link for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amd:amd_link:5.0.220614:*:*:*:*:android:*:*",
+        "cpeNameId": "E715C587-6326-40FD-AF88-54982C29ED76",
+        "lastModified": "2022-11-16T20:00:41.083",
+        "created": "2022-11-16T19:50:16.447",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) AMD Link 5.0.220614 for Android",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amd:amd_link:-:*:*:*:*:android:*:*",
+      "title": "Advanced Micro Devices (AMD) AMD Link for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amd:amd_link:5.0.220614:*:*:*:*:android:*:*",
+      "title": "Advanced Micro Devices (AMD) AMD Link 5.0.220614 for Android",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

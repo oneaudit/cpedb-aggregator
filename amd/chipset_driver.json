@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amd:chipset_driver:3.08.17.735:*:*:*:*:*:*:*",
+        "cpeNameId": "77405CEA-8F00-47B5-A4FA-3EEA12415B0E",
+        "lastModified": "2021-10-20T12:46:23.283",
+        "created": "2021-10-05T18:11:43.240",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Chipset Driver 3.08.17.735",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:amd:chipset_driver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E35C275D-4E7C-4C09-9D24-4E9425606624",
+        "lastModified": "2021-10-20T12:46:23.283",
+        "created": "2021-10-05T18:11:43.240",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Chipset Driver",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:amd:chipset_driver:3.08.17.735:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Chipset Driver 3.08.17.735",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:amd:chipset_driver:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Chipset Driver",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

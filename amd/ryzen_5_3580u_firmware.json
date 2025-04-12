@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_5_3580u_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "54B2415B-6C45-4601-A068-9C06B0D29FEB",
+        "lastModified": "2022-12-22T18:17:01.960",
+        "created": "2022-08-11T19:18:05.260",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 5 3580u Firmware",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_5_3580u_firmware:picassopi-fp5_1.0.0.f:*:*:*:*:*:*:*",
+        "cpeNameId": "76E4FEAD-8D4B-4AF5-9CCF-CCE45072416F",
+        "lastModified": "2023-08-21T18:35:07.823",
+        "created": "2023-08-21T12:49:49.773",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 5 3580u Firmware Picassopi-fp5 1.0.0.f",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:ryzen_5_3580u_firmware:picassopi-fp5_1.0.0.e:*:*:*:*:*:*:*",
+        "cpeNameId": "083E08AA-1C8E-44DA-87F6-DBF58E054328",
+        "lastModified": "2023-12-07T17:55:46.567",
+        "created": "2023-12-07T17:55:46.567",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Ryzen 5 3580U Firmware PicassoPI-FP5 1.0.0.E",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:ryzen_5_3580u_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 5 3580u Firmware",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_5_3580u_firmware:picassopi-fp5_1.0.0.f:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 5 3580u Firmware Picassopi-fp5 1.0.0.f",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:ryzen_5_3580u_firmware:picassopi-fp5_1.0.0.e:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Ryzen 5 3580U Firmware PicassoPI-FP5 1.0.0.E",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

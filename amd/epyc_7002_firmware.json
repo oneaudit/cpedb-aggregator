@@ -1,0 +1,116 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:epyc_7002_firmware:romepi-sp3_1.0.0.c:*:*:*:*:*:*:*",
+        "cpeNameId": "BA9B1A3A-52EC-4F0B-872A-55A899A46A19",
+        "lastModified": "2021-11-18T18:13:38.677",
+        "created": "2021-11-18T14:47:03.987",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) EPYC 7002 FIRMWARE ROMEPI-SP3 1.0.0.C",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:epyc_7002_firmware:-:*:*:*:*:*:*:*",
+        "cpeNameId": "92F92D69-226D-4284-AC8D-0BFB28E09CF6",
+        "lastModified": "2021-11-18T18:13:38.677",
+        "created": "2021-11-18T14:47:03.987",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) EPYC 7002 FIRMWARE ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:epyc_7002_firmware:romepi-sp3_1.0.0.d:*:*:*:*:*:*:*",
+        "cpeNameId": "AE2DBA82-AE1F-4216-A01F-65EA0147A9D3",
+        "lastModified": "2022-05-19T12:14:54.727",
+        "created": "2022-05-18T17:43:39.603",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) EPYC 7002 Firmware RomePI-SP3_1.0.0.D",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:epyc_7002_firmware:romepi_1.0.0.c:*:*:*:*:*:*:*",
+        "cpeNameId": "F78CEF07-CE89-4C27-A6B9-237F4EA8165F",
+        "lastModified": "2023-01-25T06:04:40.610",
+        "created": "2023-01-17T17:01:11.567",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) EPYC 7002 Firmware RomePI 1.0.0.C",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:amd:epyc_7002_firmware:romepi_100d:*:*:*:*:*:*:*",
+        "cpeNameId": "4D760BA4-A012-47F3-8FA9-DA9D00726B38",
+        "lastModified": "2023-01-25T06:04:40.610",
+        "created": "2023-01-18T14:12:41.713",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) EPYC 7002 Firmware RomePI 100D",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:amd:epyc_7002_firmware:romepi-sp3_1.0.0.c:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) EPYC 7002 FIRMWARE ROMEPI-SP3 1.0.0.C",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:epyc_7002_firmware:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) EPYC 7002 FIRMWARE ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:epyc_7002_firmware:romepi-sp3_1.0.0.d:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) EPYC 7002 Firmware RomePI-SP3_1.0.0.D",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:epyc_7002_firmware:romepi_1.0.0.c:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) EPYC 7002 Firmware RomePI 1.0.0.C",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:amd:epyc_7002_firmware:romepi_100d:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) EPYC 7002 Firmware RomePI 100D",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

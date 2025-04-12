@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:amd:rome:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D451FD1C-5C68-4855-A88C-5C81FF25F9F8",
+        "lastModified": "2022-11-27T13:25:05.137",
+        "created": "2022-11-21T16:31:07.053",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Rome",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:amd:rome:-:*:*:*:embedded:*:*:*",
+        "cpeNameId": "E69D6217-751C-4A08-A93F-F8D986A9C58A",
+        "lastModified": "2022-11-27T13:25:05.137",
+        "created": "2022-11-21T16:31:07.053",
+        "titles": [
+          {
+            "title": "Advanced Micro Devices (AMD) Rome Embedded Edition",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:amd:rome:-:*:*:*:*:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Rome",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:h:amd:rome:-:*:*:*:embedded:*:*:*",
+      "title": "Advanced Micro Devices (AMD) Rome Embedded Edition",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
