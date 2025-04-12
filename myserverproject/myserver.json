@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:myserverproject:myserver:0.8.9:*:*:*:*:*:*:*",
+        "cpeNameId": "0EFE1143-F4E4-4FBD-B222-E50FB95BBFF7",
+        "lastModified": "2023-12-29T10:15:30.570",
+        "created": "2023-12-29T10:15:30.570",
+        "titles": [
+          {
+            "title": "MyServer Project MyServer 0.8.9",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:myserverproject:myserver:-:*:*:*:*:*:*:*",
+        "cpeNameId": "46BEB08E-CB71-4BB8-A8B4-627E4536F2BB",
+        "lastModified": "2023-12-29T10:15:30.570",
+        "created": "2023-12-29T10:15:30.570",
+        "titles": [
+          {
+            "title": "MyServer Project MyServer -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:myserverproject:myserver:0.8.9:*:*:*:*:*:*:*",
+      "title": "MyServer Project MyServer 0.8.9",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:myserverproject:myserver:-:*:*:*:*:*:*:*",
+      "title": "MyServer Project MyServer -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

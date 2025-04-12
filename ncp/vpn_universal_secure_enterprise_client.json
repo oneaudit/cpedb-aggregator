@@ -1,0 +1,121 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ncp:vpn_universal_secure_enterprise_client:9.31:-:*:*:*:windows:*:*",
+        "cpeNameId": "C72B038F-720A-4509-B65B-5FFADBB77A16",
+        "lastModified": "2013-05-09T20:51:09.840",
+        "created": "2013-05-09T20:51:09.840",
+        "titles": [
+          {
+            "title": "NCP VPN Universal Secure Enterprise Client for Windows 9.31",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ncp:vpn_universal_secure_enterprise_client:2.02:-:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "A88720BA-AACB-4852-98B6-15712483155E",
+        "lastModified": "2020-05-11T18:38:47.570",
+        "created": "2013-05-09T20:51:09.917",
+        "titles": [
+          {
+            "title": "NCP VPN Universal Secure Enterprise Client for Mac 2.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ncp-e:vpn_universal_secure_enterprise_client:2.02:-:*:*:*:macos:*:*",
+            "cpeNameId": "E2ECF98F-8A8A-4201-8D22-6D2F45D89D03"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ncp:vpn_universal_secure_enterprise_client:2.37:-:*:*:*:windows_ce:*:*",
+        "cpeNameId": "2E66AF7D-0DC6-4C9C-8D0C-77E6AD9F6A96",
+        "lastModified": "2013-05-09T20:51:09.980",
+        "created": "2013-05-09T20:51:09.980",
+        "titles": [
+          {
+            "title": "NCP VPN Universal Secure Enterprise Client for Windows CE 2.37",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ncp:vpn_universal_secure_enterprise_client:2.1:-:*:*:*:android:*:*",
+        "cpeNameId": "0DFC02F9-A04B-4423-996F-AF659E138B97",
+        "lastModified": "2013-05-09T20:51:10.057",
+        "created": "2013-05-09T20:51:10.057",
+        "titles": [
+          {
+            "title": "NCP VPN Universal Secure Enterprise Client for Android 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ncp:vpn_universal_secure_enterprise_client:3.23:-:*:*:*:linux_kernel:*:*",
+        "cpeNameId": "637935F0-9FC9-4D7C-89A3-E820743E9754",
+        "lastModified": "2013-05-09T20:51:10.167",
+        "created": "2013-05-09T20:51:10.167",
+        "titles": [
+          {
+            "title": "NCP VPN Universal Secure Enterprise Client for Linux 3.23",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ncp:vpn_universal_secure_enterprise_client:9.31:-:*:*:*:windows:*:*",
+      "title": "NCP VPN Universal Secure Enterprise Client for Windows 9.31",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ncp:vpn_universal_secure_enterprise_client:2.02:-:*:*:*:mac_os_x:*:*",
+      "title": "NCP VPN Universal Secure Enterprise Client for Mac 2.02",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ncp-e:vpn_universal_secure_enterprise_client:2.02:-:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ncp:vpn_universal_secure_enterprise_client:2.37:-:*:*:*:windows_ce:*:*",
+      "title": "NCP VPN Universal Secure Enterprise Client for Windows CE 2.37",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ncp:vpn_universal_secure_enterprise_client:2.1:-:*:*:*:android:*:*",
+      "title": "NCP VPN Universal Secure Enterprise Client for Android 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ncp:vpn_universal_secure_enterprise_client:3.23:-:*:*:*:linux_kernel:*:*",
+      "title": "NCP VPN Universal Secure Enterprise Client for Linux 3.23",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

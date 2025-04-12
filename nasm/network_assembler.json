@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:nasm:network_assembler:2.15.04:rc3:*:*:*:*:*:*",
+        "cpeNameId": "028FDC52-8BB7-4E91-BF5A-50F93379C106",
+        "lastModified": "2022-09-02T16:32:16.000",
+        "created": "2020-09-08T16:27:15.527",
+        "titles": [
+          {
+            "title": "NASM Network Assembler 2.15.04 Release Candidate 3",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:nasm:netwide_assembler:2.15.04:rc3:*:*:*:*:*:*",
+            "cpeNameId": "69A1AB10-1D4C-4CED-A18C-566315D11492"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:nasm:network_assembler:2.15.04:rc3:*:*:*:*:*:*",
+      "title": "NASM Network Assembler 2.15.04 Release Candidate 3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:nasm:netwide_assembler:2.15.04:rc3:*:*:*:*:*:*"
+    }
+  ]
+}

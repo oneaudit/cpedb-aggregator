@@ -1,0 +1,99 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ncp:vpn_universal_secure_entry_client:9.31:-:*:*:*:windows:*:*",
+        "cpeNameId": "B41A2902-8FAF-411C-95E3-74C1720A795A",
+        "lastModified": "2013-05-09T20:51:01.967",
+        "created": "2013-05-09T20:51:01.967",
+        "titles": [
+          {
+            "title": "NCP VPN Universal Secure Entry Client for Windows 9.31",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:ncp:vpn_universal_secure_entry_client:2.02:-:*:*:*:mac_os_x:*:*",
+        "cpeNameId": "11A9B228-A5D2-44C7-A528-5D0F02689872",
+        "lastModified": "2020-05-11T18:38:47.867",
+        "created": "2013-05-09T20:51:02.217",
+        "titles": [
+          {
+            "title": "NCP VPN Universal Secure Entry Client for Mac 2.02",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ncp-e:vpn_universal_secure_entry_client:2.02:-:*:*:*:macos:*:*",
+            "cpeNameId": "F1FE8D7D-C9C9-4AAF-8562-208B7A1BAD4F"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ncp:vpn_universal_secure_entry_client:2.35:-:*:*:*:windows_mobile:*:*",
+        "cpeNameId": "42557E7C-A1E0-4C04-B802-03CC4335265E",
+        "lastModified": "2013-05-09T20:51:02.620",
+        "created": "2013-05-09T20:51:02.620",
+        "titles": [
+          {
+            "title": "NCP VPN Universal Secure Entry Client Windows Mobile 2.35",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ncp:vpn_universal_secure_entry_client:2.1:-:*:*:*:android:*:*",
+        "cpeNameId": "04559773-050A-48EA-B29A-07F8E0DC0E46",
+        "lastModified": "2013-05-09T20:51:02.683",
+        "created": "2013-05-09T20:51:02.683",
+        "titles": [
+          {
+            "title": "NCP VPN Universal Secure Entry Client Android 2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ncp:vpn_universal_secure_entry_client:9.31:-:*:*:*:windows:*:*",
+      "title": "NCP VPN Universal Secure Entry Client for Windows 9.31",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ncp:vpn_universal_secure_entry_client:2.02:-:*:*:*:mac_os_x:*:*",
+      "title": "NCP VPN Universal Secure Entry Client for Mac 2.02",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ncp-e:vpn_universal_secure_entry_client:2.02:-:*:*:*:macos:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:ncp:vpn_universal_secure_entry_client:2.35:-:*:*:*:windows_mobile:*:*",
+      "title": "NCP VPN Universal Secure Entry Client Windows Mobile 2.35",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ncp:vpn_universal_secure_entry_client:2.1:-:*:*:*:android:*:*",
+      "title": "NCP VPN Universal Secure Entry Client Android 2.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

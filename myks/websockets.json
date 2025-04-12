@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:myks:websockets:4.0:*:*:*:*:*:*:*",
+        "cpeNameId": "6E42DE75-6994-476D-BE1F-9D20153DFDE6",
+        "lastModified": "2022-02-09T14:49:48.703",
+        "created": "2018-08-17T15:28:50.850",
+        "titles": [
+          {
+            "title": "Myks Websockets 4.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:websockets_project:websockets:4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "BD94B3E7-0CCB-4794-93E4-F776DBF70125"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:myks:websockets:4.0:*:*:*:*:*:*:*",
+      "title": "Myks Websockets 4.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:websockets_project:websockets:4.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

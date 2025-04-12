@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:nasm:netwide_assmembler:2.14:rc0:*:*:*:*:*:*",
+        "cpeNameId": "509A8D6D-1C9A-4691-A49D-6CD04C11D8F6",
+        "lastModified": "2022-08-02T15:41:09.220",
+        "created": "2018-10-31T12:07:01.917",
+        "titles": [
+          {
+            "title": "NASM Netwide Assmembler 2.14 Release Candidate 0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:nasm:netwide_assembler:2.14:rc0:*:*:*:*:*:*",
+            "cpeNameId": "A49C09B3-3D25-4889-B7FC-3B14ED636FCC"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:nasm:netwide_assmembler:2.14:rc0:*:*:*:*:*:*",
+      "title": "NASM Netwide Assmembler 2.14 Release Candidate 0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:nasm:netwide_assembler:2.14:rc0:*:*:*:*:*:*"
+    }
+  ]
+}

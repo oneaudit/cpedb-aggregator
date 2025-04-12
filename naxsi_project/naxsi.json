@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:naxsi_project:naxsi:0.46:*:*:*:*:*:*:*",
+        "cpeNameId": "76EE0489-5094-42D1-B75F-6C2617E73C89",
+        "lastModified": "2023-10-17T17:00:31.627",
+        "created": "2012-09-03T15:26:24.330",
+        "titles": [
+          {
+            "title": "Naxi Project Naxsi module for Nginx 0.46",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:wargio:naxsi:0.46:*:*:*:*:*:*:*",
+            "cpeNameId": "2258D5DB-C819-46EB-8696-4D3A2E28966C"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:naxsi_project:naxsi:0.46-1:*:*:*:*:*:*:*",
+        "cpeNameId": "EC6614B0-9D85-4189-939F-B97781BC31AF",
+        "lastModified": "2023-10-17T17:00:31.627",
+        "created": "2012-09-03T15:26:24.423",
+        "titles": [
+          {
+            "title": "Naxi Project Naxsi module for Nginx 0.46-1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:wargio:naxsi:0.46-1:*:*:*:*:*:*:*",
+            "cpeNameId": "8BD01702-6981-49D7-9CCC-7A05CCC11934"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:naxsi_project:naxsi:0.46:*:*:*:*:*:*:*",
+      "title": "Naxi Project Naxsi module for Nginx 0.46",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:wargio:naxsi:0.46:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:naxsi_project:naxsi:0.46-1:*:*:*:*:*:*:*",
+      "title": "Naxi Project Naxsi module for Nginx 0.46-1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:wargio:naxsi:0.46-1:*:*:*:*:*:*:*"
+    }
+  ]
+}

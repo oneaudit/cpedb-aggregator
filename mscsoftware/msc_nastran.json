@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mscsoftware:msc_nastran:-:*:*:*:*:*:*:*",
+        "cpeNameId": "BB14065C-84EA-440C-83E4-4D8D73B45FF0",
+        "lastModified": "2008-03-25T19:16:21.147",
+        "created": "2007-08-23T21:05:57.937",
+        "titles": [
+          {
+            "title": "MSC Software MSC NASTRAN",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mscsoftware:msc_nastran:2005:*:*:*:*:*:*:*",
+        "cpeNameId": "0A1B0516-3284-4D4B-BCE3-C51438E0FAD3",
+        "lastModified": "2008-03-25T19:16:21.193",
+        "created": "2007-08-23T21:16:59.567",
+        "titles": [
+          {
+            "title": "MSC Software MSC NASTRAN 2005",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mscsoftware:msc_nastran:-:*:*:*:*:*:*:*",
+      "title": "MSC Software MSC NASTRAN",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mscsoftware:msc_nastran:2005:*:*:*:*:*:*:*",
+      "title": "MSC Software MSC NASTRAN 2005",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

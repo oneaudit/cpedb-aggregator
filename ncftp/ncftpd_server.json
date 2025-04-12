@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ncftp:ncftpd_server:2.4.1:*:*:*:*:*:*:*",
+        "cpeNameId": "4289AE55-F03C-41E6-B951-96244D95E87E",
+        "lastModified": "2024-01-19T14:42:16.223",
+        "created": "2024-01-19T14:42:16.223",
+        "titles": [
+          {
+            "title": "NcFTP NcFTPd Server 2.4.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:ncftp:ncftpd_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "9734A687-CA9E-48A6-B903-08953A2BDC70",
+        "lastModified": "2024-01-19T14:42:16.223",
+        "created": "2024-01-19T14:42:16.223",
+        "titles": [
+          {
+            "title": "NcFTP NcFTPd Server -",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:ncftp:ncftpd_server:2.4.1:*:*:*:*:*:*:*",
+      "title": "NcFTP NcFTPd Server 2.4.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:ncftp:ncftpd_server:-:*:*:*:*:*:*:*",
+      "title": "NcFTP NcFTPd Server -",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

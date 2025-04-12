@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:musl-libc:musl_libc:1.2.1:*:*:*:*:*:*:*",
+        "cpeNameId": "32E5F6DC-F880-487E-AF60-37FC95203A47",
+        "lastModified": "2021-03-05T15:56:26.170",
+        "created": "2020-12-07T20:23:01.443",
+        "titles": [
+          {
+            "title": "musl-libc musl 1.2.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:musl-libc:musl:1.2.1:*:*:*:*:*:*:*",
+            "cpeNameId": "8D94AF69-92CA-42FF-8656-C929144C18E5"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:musl-libc:musl_libc:1.2.1:*:*:*:*:*:*:*",
+      "title": "musl-libc musl 1.2.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:musl-libc:musl:1.2.1:*:*:*:*:*:*:*"
+    }
+  ]
+}

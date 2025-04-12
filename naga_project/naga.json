@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:naga_project:naga:-:*:*:*:*:*:*:*",
+        "cpeNameId": "D709E3F5-8E3E-48DC-ABB9-6A4F86B73B69",
+        "lastModified": "2024-08-27T14:12:57.100",
+        "created": "2020-04-20T11:52:32.893",
+        "titles": [
+          {
+            "title": "naga Project naga",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:gfx-rs:naga:-:*:*:*:*:rust:*:*",
+            "cpeNameId": "0638C2BE-27F4-4C1C-BA4C-BE590F028357"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:naga_project:naga:-:*:*:*:*:*:*:*",
+      "title": "naga Project naga",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:gfx-rs:naga:-:*:*:*:*:rust:*:*"
+    }
+  ]
+}

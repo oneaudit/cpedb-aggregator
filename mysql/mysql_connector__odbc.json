@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mysql:mysql_connector\\/odbc:3.51.12:*:*:*:*:*:*:*",
+        "cpeNameId": "4BA83C29-58B9-4F93-B1AE-30CF55D477C3",
+        "lastModified": "2012-06-21T19:08:59.300",
+        "created": "2012-06-21T19:08:59.300",
+        "titles": [
+          {
+            "title": "Mysql Connector/odbc 3.51.12",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mysql:mysql_connector\\/odbc:3.51.15:*:*:*:*:*:*:*",
+        "cpeNameId": "08D145B5-B39E-4966-8B44-F65646FEDFCB",
+        "lastModified": "2012-06-21T19:08:59.597",
+        "created": "2012-06-21T19:08:59.597",
+        "titles": [
+          {
+            "title": "Mysql Connector/odbc 3.51.15",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mysql:mysql_connector\\/odbc:5.1.6:*:*:*:*:*:*:*",
+        "cpeNameId": "7D17B792-9826-4F14-A428-9B75F84B9FC5",
+        "lastModified": "2012-06-21T19:08:59.910",
+        "created": "2012-06-21T19:08:59.910",
+        "titles": [
+          {
+            "title": "Mysql Connector/odbc 5.1.6",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mysql:mysql_connector\\/odbc:3.51.12:*:*:*:*:*:*:*",
+      "title": "Mysql Connector/odbc 3.51.12",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mysql:mysql_connector\\/odbc:3.51.15:*:*:*:*:*:*:*",
+      "title": "Mysql Connector/odbc 3.51.15",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mysql:mysql_connector\\/odbc:5.1.6:*:*:*:*:*:*:*",
+      "title": "Mysql Connector/odbc 5.1.6",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

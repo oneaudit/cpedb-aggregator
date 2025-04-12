@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mplayerhq:mplayer:1.5:*:*:*:*:*:*:*",
+        "cpeNameId": "F69072FB-E3AE-4A08-A0C4-6347E8DC3164",
+        "lastModified": "2022-11-08T19:29:03.787",
+        "created": "2022-07-23T01:56:16.723",
+        "titles": [
+          {
+            "title": "Mplayer 1.5",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:mplayerhq:mplayer:svn-r38374-13.0.1:*:*:*:*:*:*:*",
+        "cpeNameId": "90BCC4E5-EB9C-437D-AAD5-6232D3D77877",
+        "lastModified": "2023-09-28T11:09:50.100",
+        "created": "2023-09-28T11:09:50.100",
+        "titles": [
+          {
+            "title": "MPlayer SVN-r38374-13.0.1",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mplayerhq:mplayer:1.5:*:*:*:*:*:*:*",
+      "title": "Mplayer 1.5",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:mplayerhq:mplayer:svn-r38374-13.0.1:*:*:*:*:*:*:*",
+      "title": "MPlayer SVN-r38374-13.0.1",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

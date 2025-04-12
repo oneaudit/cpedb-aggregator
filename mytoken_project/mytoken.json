@@ -1,0 +1,33 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:mytoken_project:mytoken:-:*:*:*:*:*:*:*",
+        "cpeNameId": "38F4858D-4E90-4E9A-9B2A-11AF0A68A739",
+        "lastModified": "2020-02-18T14:25:33.240",
+        "created": "2018-08-27T14:05:18.427",
+        "titles": [
+          {
+            "title": "MyToken Project MyToken",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mytokenshr_project:mytokenshr:-:*:*:*:*:*:*:*",
+            "cpeNameId": "11E304C1-E04E-4C5D-9CBA-1D612FC5C653"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:mytoken_project:mytoken:-:*:*:*:*:*:*:*",
+      "title": "MyToken Project MyToken",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mytokenshr_project:mytokenshr:-:*:*:*:*:*:*:*"
+    }
+  ]
+}
