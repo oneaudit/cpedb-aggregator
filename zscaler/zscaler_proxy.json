@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:zscaler:zscaler_proxy:3.6.1.25:*:*:*:*:windows:*:*",
+        "cpeNameId": "3CFBB0D2-7923-4F58-9B4C-94780729437F",
+        "lastModified": "2023-09-16T03:57:59.973",
+        "created": "2023-09-16T03:57:59.973",
+        "titles": [
+          {
+            "title": "Zscaler Proxy 3.6.1.25 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:zscaler:zscaler_proxy:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "CB9B13D8-33A3-4414-90BA-400DD84589FE",
+        "lastModified": "2023-09-16T03:57:59.973",
+        "created": "2023-09-16T03:57:59.973",
+        "titles": [
+          {
+            "title": "Zscaler Proxy for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:zscaler:zscaler_proxy:3.6.1.25:*:*:*:*:windows:*:*",
+      "title": "Zscaler Proxy 3.6.1.25 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:zscaler:zscaler_proxy:-:*:*:*:*:windows:*:*",
+      "title": "Zscaler Proxy for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zte:zxiptv_firmware:zxiptv-web-pv5.09.08.04:*:*:*:*:*:*:*",
+        "cpeNameId": "6B8E24B1-AF6F-4892-AF4C-073F67FE207B",
+        "lastModified": "2021-01-21T17:54:09.087",
+        "created": "2021-01-21T17:54:09.087",
+        "titles": [
+          {
+            "title": "ZTE ZXIPTV FIRMWARE ZXIPTV-WEB-PV5.09.08.04",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:zte:zxiptv_firmware:zxiptv-eas_pv5.06.04.09:*:*:*:*:*:*:*",
+        "cpeNameId": "0EAA93E8-2AED-40C7-AB9E-BA9CA0BF71A2",
+        "lastModified": "2021-09-14T19:30:44.303",
+        "created": "2021-08-11T16:58:18.360",
+        "titles": [
+          {
+            "title": "ZTE ZXIPTV FIRMWARE ZXIPTV-EAS_PV5.06.04.09",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:o:zte:zxiptv_firmware:zxiptv-web-pv5.09.08.04:*:*:*:*:*:*:*",
+      "title": "ZTE ZXIPTV FIRMWARE ZXIPTV-WEB-PV5.09.08.04",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:zte:zxiptv_firmware:zxiptv-eas_pv5.06.04.09:*:*:*:*:*:*:*",
+      "title": "ZTE ZXIPTV FIRMWARE ZXIPTV-EAS_PV5.06.04.09",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

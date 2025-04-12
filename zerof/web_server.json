@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:zerof:web_server:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "D70987B4-1621-4F43-BC9F-D74DA2BC2005",
+        "lastModified": "2021-08-18T16:38:21.670",
+        "created": "2021-04-13T18:22:21.743",
+        "titles": [
+          {
+            "title": "ZEROF Web Server 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:zerof:web_server:2.0:*:*:*:*:*:*:*",
+        "cpeNameId": "5F6DEB16-8455-4B35-861E-13F7FDC01804",
+        "lastModified": "2022-08-16T14:42:52.220",
+        "created": "2022-02-24T19:58:46.740",
+        "titles": [
+          {
+            "title": "ZEROF Web Server 2.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:zerof:web_server:1.0:*:*:*:*:*:*:*",
+      "title": "ZEROF Web Server 1.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:zerof:web_server:2.0:*:*:*:*:*:*:*",
+      "title": "ZEROF Web Server 2.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:yokogawa:stardom_opc_server:-:*:*:*:*:*:*:*",
+        "cpeNameId": "590E5676-4552-4166-9D75-715477FFE432",
+        "lastModified": "2020-02-19T21:56:41.647",
+        "created": "2020-02-19T21:56:41.647",
+        "titles": [
+          {
+            "title": "Yokogawa STARDOM OPC Server",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:o:yokogawa:stardom_opc_server:r3.40:*:*:*:*:windows:*:*",
+        "cpeNameId": "47D903C0-9E6C-480C-9E5E-218CB16A5505",
+        "lastModified": "2020-02-19T21:56:41.943",
+        "created": "2020-02-19T21:56:41.943",
+        "titles": [
+          {
+            "title": "Yokogawa STARDOM OPC Server R3.40 for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:yokogawa:stardom_opc_server:-:*:*:*:*:*:*:*",
+      "title": "Yokogawa STARDOM OPC Server",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:o:yokogawa:stardom_opc_server:r3.40:*:*:*:*:windows:*:*",
+      "title": "Yokogawa STARDOM OPC Server R3.40 for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

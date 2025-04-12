@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:zoo_management_system_project:zoo_management_system:-:*:*:*:*:*:*:*",
+        "cpeNameId": "34E955DD-753C-47C6-9562-232AC823C3CF",
+        "lastModified": "2023-11-14T20:19:31.413",
+        "created": "2020-09-24T11:55:29.557",
+        "titles": [
+          {
+            "title": "Zoo Management System Project Zoo Management System",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:zoo_management_system:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4C1F8696-BA99-4DE1-9EF7-31A378EABE76"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:zoo_management_system_project:zoo_management_system:1.0:*:*:*:*:*:*:*",
+        "cpeNameId": "DE14A67B-A405-4C03-84FF-C66EF2C99B89",
+        "lastModified": "2023-11-14T20:19:31.413",
+        "created": "2020-09-24T11:55:29.900",
+        "titles": [
+          {
+            "title": "Zoo Management System Project Zoo Management System 1.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:phpgurukul:zoo_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "287C2B62-DE15-4C2B-B63E-215B5D0EB344"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:zoo_management_system_project:zoo_management_system:-:*:*:*:*:*:*:*",
+      "title": "Zoo Management System Project Zoo Management System",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:zoo_management_system:-:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:zoo_management_system_project:zoo_management_system:1.0:*:*:*:*:*:*:*",
+      "title": "Zoo Management System Project Zoo Management System 1.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:phpgurukul:zoo_management_system:1.0:*:*:*:*:*:*:*"
+    }
+  ]
+}

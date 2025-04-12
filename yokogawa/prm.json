@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:yokogawa:prm:-:*:*:*:*:*:*:*",
+        "cpeNameId": "85443CF9-512D-4487-A967-602A76E2D560",
+        "lastModified": "2014-07-01T02:55:50.913",
+        "created": "2014-05-19T14:41:41.310",
+        "titles": [
+          {
+            "title": "Yokogawa PRM",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:yokogawa:prm:r4.01.00:*:*:*:*:*:*:*",
+        "cpeNameId": "37CA3640-DCF0-4C4C-97CB-3CDCE0D70820",
+        "lastModified": "2021-07-27T17:27:11.123",
+        "created": "2019-02-14T14:49:20.377",
+        "titles": [
+          {
+            "title": "Yokogawa Plant Resource Manager R4.01.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:yokogawa:prm:r4.02.00:*:*:*:*:*:*:*",
+        "cpeNameId": "800F764B-0A2F-4B42-8453-B995DDE609CB",
+        "lastModified": "2021-07-27T17:27:11.123",
+        "created": "2019-02-14T14:49:20.377",
+        "titles": [
+          {
+            "title": "Yokogawa Plant Resource Manager R4.02.00",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:yokogawa:prm:-:*:*:*:*:*:*:*",
+      "title": "Yokogawa PRM",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:yokogawa:prm:r4.01.00:*:*:*:*:*:*:*",
+      "title": "Yokogawa Plant Resource Manager R4.01.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:yokogawa:prm:r4.02.00:*:*:*:*:*:*:*",
+      "title": "Yokogawa Plant Resource Manager R4.02.00",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

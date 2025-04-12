@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:zlmediakit_project:zlmediakit:2022-07-28:*:*:*:*:*:*:*",
+        "cpeNameId": "B6D10010-AA29-46B5-868A-1C7A79865694",
+        "lastModified": "2023-09-14T17:37:11.783",
+        "created": "2022-09-02T14:10:15.153",
+        "titles": [
+          {
+            "title": "ZLMediaKit Project ZLMediaKit 2022-07-28",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:zlmediakit:zlmediakit:2022-07-28:*:*:*:*:*:*:*",
+            "cpeNameId": "02C3BF24-01EC-4A77-BBB4-0C6B6C54298D"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:zlmediakit_project:zlmediakit:-:*:*:*:*:*:*:*",
+        "cpeNameId": "E94D135D-FE75-449C-A455-39FF08E38B9B",
+        "lastModified": "2023-09-14T17:37:11.783",
+        "created": "2022-09-02T14:10:15.153",
+        "titles": [
+          {
+            "title": "ZLMediaKit Project ZLMediaKit-",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:zlmediakit:zlmediakit:-:*:*:*:*:*:*:*",
+            "cpeNameId": "0A2FE042-BDFC-4273-9B8D-B8163A9C0F12"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:zlmediakit_project:zlmediakit:2022-07-28:*:*:*:*:*:*:*",
+      "title": "ZLMediaKit Project ZLMediaKit 2022-07-28",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:zlmediakit:zlmediakit:2022-07-28:*:*:*:*:*:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:zlmediakit_project:zlmediakit:-:*:*:*:*:*:*:*",
+      "title": "ZLMediaKit Project ZLMediaKit-",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:zlmediakit:zlmediakit:-:*:*:*:*:*:*:*"
+    }
+  ]
+}

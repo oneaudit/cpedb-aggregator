@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:h:yokogawa:exasmoc:-:*:*:*:*:*:*:*",
+        "cpeNameId": "25B84C9F-6ABE-4B5E-B5E7-7F1E48E9DD0C",
+        "lastModified": "2014-07-01T02:55:50.287",
+        "created": "2014-05-19T14:41:40.763",
+        "titles": [
+          {
+            "title": "Yokogawa Exasmoc",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:yokogawa:exasmoc:r4.03.20:*:*:*:*:*:*:*",
+        "cpeNameId": "AAC30613-3ABC-4CF7-8188-B69814D9C2A5",
+        "lastModified": "2020-02-19T22:01:13.723",
+        "created": "2020-02-19T22:01:13.723",
+        "titles": [
+          {
+            "title": "Yokogawa Exasmoc R4.03.20",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:yokogawa:exasmoc:-:*:*:*:*:windows:*:*",
+        "cpeNameId": "5FA68655-A2CD-4BA4-822F-7FAC52880A8E",
+        "lastModified": "2020-03-06T18:41:34.957",
+        "created": "2020-03-06T18:41:34.957",
+        "titles": [
+          {
+            "title": "Yokogawa Exasmoc for Windows",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:h:yokogawa:exasmoc:-:*:*:*:*:*:*:*",
+      "title": "Yokogawa Exasmoc",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:yokogawa:exasmoc:r4.03.20:*:*:*:*:*:*:*",
+      "title": "Yokogawa Exasmoc R4.03.20",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:yokogawa:exasmoc:-:*:*:*:*:windows:*:*",
+      "title": "Yokogawa Exasmoc for Windows",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
