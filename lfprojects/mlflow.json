@@ -930,10 +930,10 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:lfprojects:mlflow:2.0.0:*:*:*:*:*:*:*",
         "cpeNameId": "B0A0E3E3-802B-4175-9B6C-5E762D73E7BD",
-        "lastModified": "2023-03-26T17:04:53.147",
+        "lastModified": "2025-04-14T14:33:56.387",
         "created": "2023-03-26T17:02:50.610",
         "titles": [
           {
@@ -941,7 +941,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:lfprojects:mlflow:2.0.0:-:*:*:*:*:*:*",
+            "cpeNameId": "D60AFD3E-A9B8-4F18-AB98-1CFD449D03D4"
+          }
+        ]
       }
     },
     {
@@ -2161,8 +2166,8 @@
     {
       "name": "cpe:2.3:a:lfprojects:mlflow:2.0.0:*:*:*:*:*:*:*",
       "title": "LF Projects MLflow 2.0.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:lfprojects:mlflow:2.0.0:-:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:lfprojects:mlflow:1.30.0:*:*:*:*:*:*:*",
