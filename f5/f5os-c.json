@@ -5,7 +5,7 @@
         "deprecated": false,
         "cpeName": "cpe:2.3:o:f5:f5os-c:1.3.0:*:*:*:*:*:*:*",
         "cpeNameId": "8CA96FBA-4245-401E-AFA4-B76BC1E430AC",
-        "lastModified": "2023-02-17T19:02:16.197",
+        "lastModified": "2025-04-15T14:08:06.020",
         "created": "2022-10-24T00:47:50.447",
         "titles": [
           {
@@ -21,7 +21,7 @@
         "deprecated": false,
         "cpeName": "cpe:2.3:o:f5:f5os-c:1.5.0:*:*:*:*:*:*:*",
         "cpeNameId": "68EE4B1F-2F23-4367-B298-3F52A97E9F6B",
-        "lastModified": "2023-02-17T19:02:16.197",
+        "lastModified": "2025-04-15T14:08:06.020",
         "created": "2022-10-24T00:47:50.447",
         "titles": [
           {
@@ -34,66 +34,86 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:f5:f5os-c:1.5.0:*:*:*:*:*:*:*",
         "cpeNameId": "1377821D-828C-4A6D-A194-8BAAD36268B0",
-        "lastModified": "2023-07-21T17:32:34.973",
+        "lastModified": "2025-04-15T14:08:06.020",
         "created": "2023-05-16T12:00:01.200",
         "titles": [
           {
-            "title": "F5 F5os-c 1.5.0",
+            "title": "F5 F5OS-C 1.5.0",
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:f5:f5os-c:1.5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "68EE4B1F-2F23-4367-B298-3F52A97E9F6B"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:f5:f5os-c:1.5.1:*:*:*:*:*:*:*",
         "cpeNameId": "99AB8B49-C50D-46E9-A889-9DCDC90F4689",
-        "lastModified": "2023-07-21T17:32:34.973",
+        "lastModified": "2025-04-15T14:08:06.020",
         "created": "2023-05-16T12:00:01.200",
         "titles": [
           {
-            "title": "F5 F5os-c 1.5.1",
+            "title": "F5 F5OS-C 1.5.1",
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:f5:f5os-c:1.5.1:*:*:*:*:*:*:*",
+            "cpeNameId": "AB7AA8E1-36ED-477A-8A00-4490BECA60D7"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:f5:f5os-c:1.3.0:*:*:*:*:*:*:*",
         "cpeNameId": "FC95304F-510D-43EF-B08D-7D164769C610",
-        "lastModified": "2023-07-21T17:32:34.973",
+        "lastModified": "2025-04-15T14:08:06.020",
         "created": "2023-05-16T12:00:41.170",
         "titles": [
           {
-            "title": "F5 F5os-c 1.3.0",
+            "title": "F5 F5OS-C 1.3.0",
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:f5:f5os-c:1.3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "8CA96FBA-4245-401E-AFA4-B76BC1E430AC"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:f5:f5os-c:1.3.2:*:*:*:*:*:*:*",
         "cpeNameId": "7B142D84-B43A-4F3B-825C-79A02C2FD726",
-        "lastModified": "2023-07-21T17:32:34.973",
+        "lastModified": "2025-04-15T14:08:06.020",
         "created": "2023-05-16T12:00:41.170",
         "titles": [
           {
-            "title": "F5 F5os-c 1.3.2",
+            "title": "F5 F5OS-C 1.3.2",
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:f5:f5os-c:1.3.2:*:*:*:*:*:*:*",
+            "cpeNameId": "30CD8067-41ED-474B-A81B-FA44F58FCF64"
+          }
+        ]
       }
     }
   ],
@@ -112,27 +132,27 @@
     },
     {
       "name": "cpe:2.3:a:f5:f5os-c:1.5.0:*:*:*:*:*:*:*",
-      "title": "F5 F5os-c 1.5.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "title": "F5 F5OS-C 1.5.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:f5:f5os-c:1.5.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:f5:f5os-c:1.5.1:*:*:*:*:*:*:*",
-      "title": "F5 F5os-c 1.5.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "title": "F5 F5OS-C 1.5.1",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:f5:f5os-c:1.5.1:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:f5:f5os-c:1.3.0:*:*:*:*:*:*:*",
-      "title": "F5 F5os-c 1.3.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "title": "F5 F5OS-C 1.3.0",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:f5:f5os-c:1.3.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:f5:f5os-c:1.3.2:*:*:*:*:*:*:*",
-      "title": "F5 F5os-c 1.3.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "title": "F5 F5OS-C 1.3.2",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:f5:f5os-c:1.3.2:*:*:*:*:*:*:*"
     }
   ]
 }

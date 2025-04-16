@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:akashmalik:scracth_\\\u0026_win:2.9.0:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "5374C567-DBE1-4263-956A-ECB3AA3D4C0B",
+        "lastModified": "2025-04-15T13:14:27.280",
+        "created": "2025-04-15T12:40:31.080",
+        "titles": [
+          {
+            "title": "Akashmalik Scratch \u0026 Win 2.9.0 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:akashmalik:scratch_\\\u0026_win:2.9.0:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "890E452F-87C7-4036-ADD8-BA7E83EF1F22"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:akashmalik:scracth_\\\u0026_win:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "40116363-AA27-4E16-9130-D99D70873AC4",
+        "lastModified": "2025-04-15T13:14:27.280",
+        "created": "2025-04-15T12:40:31.080",
+        "titles": [
+          {
+            "title": "Akashmalik Scratch \u0026 Win - for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:akashmalik:scratch_\\\u0026_win:-:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "F309F07C-7613-49FA-887F-E04E2F0AF2B4"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:akashmalik:scracth_\\\u0026_win:2.9.0:*:*:*:*:wordpress:*:*",
+      "title": "Akashmalik Scratch \u0026 Win 2.9.0 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:akashmalik:scratch_\\\u0026_win:2.9.0:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:akashmalik:scracth_\\\u0026_win:-:*:*:*:*:wordpress:*:*",
+      "title": "Akashmalik Scratch \u0026 Win - for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:akashmalik:scratch_\\\u0026_win:-:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

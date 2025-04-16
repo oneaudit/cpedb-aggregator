@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:facuet:ryu:4.34:*:*:*:*:*:*:*",
         "cpeNameId": "DDF2705A-30FC-4CF0-AF77-9F631AD66972",
-        "lastModified": "2023-12-09T04:57:34.540",
+        "lastModified": "2025-04-15T18:31:28.177",
         "created": "2023-12-09T04:57:34.540",
         "titles": [
           {
@@ -13,7 +13,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:faucet:ryu:4.34:*:*:*:*:*:*:*",
+            "cpeNameId": "48B5FB7C-4807-4DEF-AD40-9A12A8A10AA3"
+          }
+        ]
       }
     }
   ],
@@ -21,8 +26,8 @@
     {
       "name": "cpe:2.3:a:facuet:ryu:4.34:*:*:*:*:*:*:*",
       "title": "Facuet Ryu 4.34",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:faucet:ryu:4.34:*:*:*:*:*:*:*"
     }
   ]
 }

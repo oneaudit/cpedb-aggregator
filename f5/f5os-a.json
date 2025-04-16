@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:f5:f5os-a:1.3.0:*:*:*:*:*:*:*",
         "cpeNameId": "6ED34A77-F329-4CCF-8A15-323EF1CEDE95",
-        "lastModified": "2023-07-21T17:32:34.973",
+        "lastModified": "2025-04-15T14:07:38.073",
         "created": "2023-05-16T12:00:01.200",
         "titles": [
           {
@@ -13,15 +13,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:f5:f5os-a:1.3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "7E85E0CF-4A7A-4AA8-A987-9C86E703CD5E"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:f5:f5os-a:1.3.1:*:*:*:*:*:*:*",
         "cpeNameId": "E3D339A1-D59D-448A-B02D-11CE5D4D4850",
-        "lastModified": "2023-07-21T17:32:34.973",
+        "lastModified": "2025-04-15T14:07:38.073",
         "created": "2023-05-16T12:00:01.200",
         "titles": [
           {
@@ -29,15 +34,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:f5:f5os-a:1.3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "57F92465-2FEF-4681-B749-010266A19A81"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:f5:f5os-a:1.4.0:*:*:*:*:*:*:*",
         "cpeNameId": "421A5E58-072D-43BF-842C-4190A2B72BE9",
-        "lastModified": "2023-08-07T18:14:28.800",
+        "lastModified": "2025-04-15T14:07:38.073",
         "created": "2023-08-07T13:58:25.937",
         "titles": [
           {
@@ -45,7 +55,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:o:f5:f5os-a:1.4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "D1412040-ADBB-4E51-8847-B2B594F9AE18"
+          }
+        ]
       }
     },
     {
@@ -85,7 +100,7 @@
         "deprecated": false,
         "cpeName": "cpe:2.3:o:f5:f5os-a:1.3.0:*:*:*:*:*:*:*",
         "cpeNameId": "7E85E0CF-4A7A-4AA8-A987-9C86E703CD5E",
-        "lastModified": "2023-09-29T11:33:57.233",
+        "lastModified": "2025-04-15T14:07:38.073",
         "created": "2023-09-29T11:33:57.233",
         "titles": [
           {
@@ -101,20 +116,20 @@
     {
       "name": "cpe:2.3:a:f5:f5os-a:1.3.0:*:*:*:*:*:*:*",
       "title": "F5 F5OS-A 1.3.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:f5:f5os-a:1.3.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:f5:f5os-a:1.3.1:*:*:*:*:*:*:*",
       "title": "F5 F5OS-A 1.3.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:f5:f5os-a:1.3.1:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:f5:f5os-a:1.4.0:*:*:*:*:*:*:*",
       "title": "F5 F5OS-A 1.4.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:o:f5:f5os-a:1.4.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:o:f5:f5os-a:-:*:*:*:*:*:*:*",

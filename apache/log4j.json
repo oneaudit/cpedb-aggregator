@@ -295,10 +295,10 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:apache:log4j:2.4:*:*:*:*:*:*:*",
         "cpeNameId": "0E368248-3691-4E66-8E86-93753039B32C",
-        "lastModified": "2017-04-25T00:51:56.297",
+        "lastModified": "2025-04-15T11:41:02.240",
         "created": "2017-04-25T00:51:56.297",
         "titles": [
           {
@@ -306,7 +306,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:apache:log4j:2.4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "098BEC69-86D7-4D23-99B2-587CDBEF18A6"
+          }
+        ]
       }
     },
     {
@@ -2254,8 +2259,8 @@
     {
       "name": "cpe:2.3:a:apache:log4j:2.4:*:*:*:*:*:*:*",
       "title": "Apache Software Foundation Log4j 2.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:apache:log4j:2.4.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:apache:log4j:2.4.1:*:*:*:*:*:*:*",
