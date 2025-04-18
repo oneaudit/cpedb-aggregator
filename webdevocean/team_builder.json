@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:webdevocean:team_builder:1.3:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "60CF3523-69F5-43C6-B5F5-5264E7A3A5E9",
+        "lastModified": "2025-04-17T17:15:43.447",
+        "created": "2025-04-17T17:15:43.447",
+        "titles": [
+          {
+            "title": "WebDevOcean Team Builder 1.3 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:webdevocean:team_builder:-:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "31ACF29B-CA41-4BC0-8E94-5EF32435DD48",
+        "lastModified": "2025-04-17T17:15:43.447",
+        "created": "2025-04-17T17:15:43.447",
+        "titles": [
+          {
+            "title": "WebDevOcean Team Builder for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:webdevocean:team_builder:1.3:*:*:*:*:wordpress:*:*",
+      "title": "WebDevOcean Team Builder 1.3 for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:webdevocean:team_builder:-:*:*:*:*:wordpress:*:*",
+      "title": "WebDevOcean Team Builder for WordPress",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
