@@ -1,0 +1,72 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:nativeedge_orchestrator:-:*:*:*:*:*:*:*",
+        "cpeNameId": "F062103E-B85D-49C5-81F9-F2A02934EC6C",
+        "lastModified": "2025-04-18T18:12:29.347",
+        "created": "2025-04-18T18:12:29.347",
+        "titles": [
+          {
+            "title": "Dell NativeEdge Orchestrator ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:nativeedge_orchestrator:2.1.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "C187DFC9-C476-4DDC-8051-A6FF41477D5D",
+        "lastModified": "2025-04-18T18:12:29.347",
+        "created": "2025-04-18T18:12:29.347",
+        "titles": [
+          {
+            "title": "Dell NativeEdge Orchestrator 2.1.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:dell:nativeedge_orchestrator:2.2.0.0:*:*:*:*:*:*:*",
+        "cpeNameId": "A53F30B6-6807-46D6-AF5E-BB5BE3281E73",
+        "lastModified": "2025-04-18T18:12:29.347",
+        "created": "2025-04-18T18:12:29.347",
+        "titles": [
+          {
+            "title": "Dell NativeEdge Orchestrator 2.2.0.0",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:dell:nativeedge_orchestrator:-:*:*:*:*:*:*:*",
+      "title": "Dell NativeEdge Orchestrator ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:nativeedge_orchestrator:2.1.0.0:*:*:*:*:*:*:*",
+      "title": "Dell NativeEdge Orchestrator 2.1.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:dell:nativeedge_orchestrator:2.2.0.0:*:*:*:*:*:*:*",
+      "title": "Dell NativeEdge Orchestrator 2.2.0.0",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}
