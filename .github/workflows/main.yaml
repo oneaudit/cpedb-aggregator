@@ -1,4 +1,4 @@
-name: Fetch NIST CPEs
+name: Sync Update Branch
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:     # allows manual run from GitHub UI
 
 jobs:
-  update-csv:
+  update-cpes:
     runs-on: ubuntu-latest
 
     steps:
