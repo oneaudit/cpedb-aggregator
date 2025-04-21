@@ -1,4 +1,4 @@
-# CPE DB Aggregator [![Fetch NIST CPEs](https://github.com/oneaudit/cpedb-aggregator/actions/workflows/main.yaml/badge.svg)](https://github.com/oneaudit/cpedb-aggregator/actions/workflows/main.yaml)
+# Open CPE [![Fetch NIST CPEs](https://github.com/oneaudit/cpedb-aggregator/actions/workflows/main.yaml/badge.svg)](https://github.com/oneaudit/cpedb-aggregator/actions/workflows/main.yaml)
 
 ### Description 🗺️
 
