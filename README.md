@@ -1,4 +1,4 @@
-# Open CPE [![Fetch NIST CPEs](https://github.com/oneaudit/cpedb-aggregator/actions/workflows/main.yaml/badge.svg)](https://github.com/oneaudit/cpedb-aggregator/actions/workflows/main.yaml)
+# Open CPE [![Sync Update Branch](https://github.com/oneaudit/opencpe/actions/workflows/main.yaml/badge.svg)](https://github.com/oneaudit/opencpe/actions/workflows/main.yaml)
 
 ### Description 🗺️
 
