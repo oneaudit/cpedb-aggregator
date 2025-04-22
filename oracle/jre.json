@@ -7603,10 +7603,10 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:oracle:jre:1.8.0:update351:*:*:*:*:*:*",
         "cpeNameId": "16042773-60DE-48AA-AAED-9A524F285DB4",
-        "lastModified": "2023-07-15T03:24:04.773",
+        "lastModified": "2025-04-21T12:47:21.930",
         "created": "2023-01-24T16:05:51.297",
         "titles": [
           {
@@ -7614,15 +7614,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:jre:1.8.0:update351:*:*:-:*:*:*",
+            "cpeNameId": "808592EA-87FA-4C03-9F33-FBF700CE46F3"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:oracle:jre:1.8.0:update351-perf:*:*:*:*:*:*",
         "cpeNameId": "9B08460E-74BB-4F04-BD21-343D1A8718F7",
-        "lastModified": "2023-07-15T03:24:04.773",
+        "lastModified": "2025-04-21T12:47:21.930",
         "created": "2023-01-24T16:05:51.297",
         "titles": [
           {
@@ -7630,7 +7635,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:oracle:jre:1.8.0:update351:*:*:enterprise_performance_pack:*:*:*",
+            "cpeNameId": "3A4AABD6-C3F7-410A-B860-7CAA40A7915C"
+          }
+        ]
       }
     },
     {
@@ -10910,14 +10920,14 @@
     {
       "name": "cpe:2.3:a:oracle:jre:1.8.0:update351:*:*:*:*:*:*",
       "title": "Oracle Java Runtime Environment (JRE) 1.8.0 Update 351",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:jre:1.8.0:update351:*:*:-:*:*:*"
     },
     {
       "name": "cpe:2.3:a:oracle:jre:1.8.0:update351-perf:*:*:*:*:*:*",
       "title": "Oracle Java Runtime Environment (JRE) 1.8.0 Update351-perf",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:oracle:jre:1.8.0:update351:*:*:enterprise_performance_pack:*:*:*"
     },
     {
       "name": "cpe:2.3:a:oracle:jre:11.0.17:*:*:*:*:*:*:*",
