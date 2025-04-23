@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:student_management_system_project:student_management_system:1.0:*:*:*:*:*:*:*",
         "cpeNameId": "FF14E124-76F1-44D5-8F5F-1FBA9D7C47FF",
-        "lastModified": "2020-08-24T11:20:32.727",
+        "lastModified": "2025-04-22T14:50:51.960",
         "created": "2020-08-24T11:20:32.727",
         "titles": [
           {
@@ -13,7 +13,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:kabir-m-alhasan:student_management_system:1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "9368ACC0-58FE-4C59-80D9-86A7FE68040B"
+          }
+        ]
       }
     },
     {
@@ -37,8 +42,8 @@
     {
       "name": "cpe:2.3:a:student_management_system_project:student_management_system:1.0:*:*:*:*:*:*:*",
       "title": "Student Management System Project Student Management System 1.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:kabir-m-alhasan:student_management_system:1.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:student_management_system_project:student_management_system:-:*:*:*:*:*:*:*",

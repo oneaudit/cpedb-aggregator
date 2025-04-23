@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:h:tenda:ac8v4:-:*:*:*:*:*:*:*",
         "cpeNameId": "3BA7CE70-3C2D-490F-B728-77A1227A7CBF",
-        "lastModified": "2023-10-25T05:24:59.380",
+        "lastModified": "2025-04-22T14:50:51.960",
         "created": "2023-10-25T05:24:59.380",
         "titles": [
           {
@@ -13,7 +13,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:tenda:ac8:4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "E95D0B96-D866-4404-816E-0D9389918FD2"
+          }
+        ]
       }
     }
   ],
@@ -21,8 +26,8 @@
     {
       "name": "cpe:2.3:h:tenda:ac8v4:-:*:*:*:*:*:*:*",
       "title": "Tenda AC8 V4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:tenda:ac8:4.0:*:*:*:*:*:*:*"
     }
   ]
 }

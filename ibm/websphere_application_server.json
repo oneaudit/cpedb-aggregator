@@ -5810,10 +5810,10 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:ibm:websphere_application_server:9.0:*:*:*:traditional:*:*:*",
         "cpeNameId": "2612D26B-3C7E-4A14-9D9A-059847D73389",
-        "lastModified": "2023-02-28T21:55:26.040",
+        "lastModified": "2025-04-22T14:50:51.960",
         "created": "2023-01-31T18:00:39.450",
         "titles": [
           {
@@ -5821,7 +5821,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:traditional:*:*:*",
+            "cpeNameId": "DD28B7CC-B4F2-4042-A3ED-BD4A8FC1F27A"
+          }
+        ]
       }
     },
     {
@@ -8087,8 +8092,8 @@
     {
       "name": "cpe:2.3:a:ibm:websphere_application_server:9.0:*:*:*:traditional:*:*:*",
       "title": "IBM WebSphere Application Server 9.0 Traditional Edition",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:traditional:*:*:*"
     },
     {
       "name": "cpe:2.3:a:ibm:websphere_application_server:8.5.5.23:*:*:*:-:*:*:*",

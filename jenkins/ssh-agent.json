@@ -1,0 +1,50 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:ssh-agent:6.11.2:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "A630537A-DA57-4720-AC0F-A9905A101CF3",
+        "lastModified": "2025-04-22T12:44:51.647",
+        "created": "2025-04-22T12:44:51.647",
+        "titles": [
+          {
+            "title": "Jenkins ssh-agent 6.11.2 Jenkins ",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": false,
+        "cpeName": "cpe:2.3:a:jenkins:ssh-agent:6.11.1:*:*:*:*:jenkins:*:*",
+        "cpeNameId": "F60A7F8E-DCD3-4E87-B6FB-95C1896A0F4B",
+        "lastModified": "2025-04-22T12:44:51.647",
+        "created": "2025-04-22T12:44:51.647",
+        "titles": [
+          {
+            "title": "Jenkins ssh-agent 6.11.1 for Jenkins",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": null
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:jenkins:ssh-agent:6.11.2:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins ssh-agent 6.11.2 Jenkins ",
+      "deprecated": false,
+      "deprecated_over": ""
+    },
+    {
+      "name": "cpe:2.3:a:jenkins:ssh-agent:6.11.1:*:*:*:*:jenkins:*:*",
+      "title": "Jenkins ssh-agent 6.11.1 for Jenkins",
+      "deprecated": false,
+      "deprecated_over": ""
+    }
+  ]
+}

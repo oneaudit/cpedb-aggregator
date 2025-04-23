@@ -2,18 +2,27 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:idccms_project:idccms:1.10:*:*:*:*:*:*:*",
         "cpeNameId": "5ADBE707-96D1-4AE3-B006-3B61437F9896",
-        "lastModified": "2023-09-28T11:24:57.807",
+        "lastModified": "2025-04-22T14:50:51.960",
         "created": "2023-09-28T11:24:57.807",
         "titles": [
           {
             "title": "IdcCMS Project IdcCMS 1.10",
             "lang": "en"
+          },
+          {
+            "title": "IdcCMS Project IdcCMS 1.10",
+            "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:idccms:idccms:1.10:*:*:*:*:*:*:*",
+            "cpeNameId": "EAD10A38-3A87-4948-BCC1-8420653A3CCB"
+          }
+        ]
       }
     }
   ],
@@ -21,8 +30,8 @@
     {
       "name": "cpe:2.3:a:idccms_project:idccms:1.10:*:*:*:*:*:*:*",
       "title": "IdcCMS Project IdcCMS 1.10",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:idccms:idccms:1.10:*:*:*:*:*:*:*"
     }
   ]
 }
