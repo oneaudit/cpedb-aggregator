@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:contactlistpro:contact_list:2.9.87:*:*:*:*:wordpress:*:*",
         "cpeNameId": "7FC618F5-7A3E-4A58-A502-B247376B8165",
-        "lastModified": "2024-07-29T12:29:45.213",
+        "lastModified": "2025-04-23T15:09:12.553",
         "created": "2024-07-29T12:29:45.213",
         "titles": [
           {
@@ -13,15 +13,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tammersoft:contact_list:2.9.87:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "547A006A-0AE9-4705-9CD2-60B1274BDFE3"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:contactlistpro:contact_list:-:*:*:*:*:wordpress:*:*",
         "cpeNameId": "3A83BDE7-A62E-44B8-99FF-D966DDF99D8F",
-        "lastModified": "2024-07-29T12:29:45.213",
+        "lastModified": "2025-04-23T15:09:12.553",
         "created": "2024-07-29T12:29:45.213",
         "titles": [
           {
@@ -29,7 +34,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tammersoft:contact_list:-:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "C6F0A29B-177F-407C-B555-FC689BCA1E4D"
+          }
+        ]
       }
     }
   ],
@@ -37,14 +47,14 @@
     {
       "name": "cpe:2.3:a:contactlistpro:contact_list:2.9.87:*:*:*:*:wordpress:*:*",
       "title": "Contact List 2.9.87 for WordPress",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tammersoft:contact_list:2.9.87:*:*:*:*:wordpress:*:*"
     },
     {
       "name": "cpe:2.3:a:contactlistpro:contact_list:-:*:*:*:*:wordpress:*:*",
       "title": "Contact List - for WordPress",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tammersoft:contact_list:-:*:*:*:*:wordpress:*:*"
     }
   ]
 }

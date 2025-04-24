@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:surveyking:surveyking:0.2.0:*:*:*:*:*:*:*",
         "cpeNameId": "E3468617-0D71-4F21-BFA2-E4421420771E",
-        "lastModified": "2023-02-21T17:43:46.510",
+        "lastModified": "2025-04-23T18:07:38.880",
         "created": "2022-03-30T00:49:25.040",
         "titles": [
           {
@@ -13,7 +13,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:surveyking:surveyking:0.2.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "3A2D401C-DA3B-4D10-B095-14D814F3F336"
+          }
+        ]
       }
     }
   ],
@@ -21,8 +26,8 @@
     {
       "name": "cpe:2.3:a:surveyking:surveyking:0.2.0:*:*:*:*:*:*:*",
       "title": "SurveyKing 0.2.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:surveyking:surveyking:0.2.0:*:*:*:open_source:*:*:*"
     }
   ]
 }
