@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:weaver:weaver_office_automation:9.5:*:*:*:*:*:*:*",
         "cpeNameId": "682F3C49-E07C-4380-A379-104F072CC2CD",
-        "lastModified": "2023-08-30T13:03:17.610",
+        "lastModified": "2025-04-25T16:59:58.557",
         "created": "2023-05-24T13:57:20.123",
         "titles": [
           {
@@ -13,7 +13,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:weaver:e-office:9.5:*:*:*:*:*:*:*",
+            "cpeNameId": "5E838354-3C00-41C4-BF3F-AA6C772C5732"
+          }
+        ]
       }
     }
   ],
@@ -21,8 +26,8 @@
     {
       "name": "cpe:2.3:a:weaver:weaver_office_automation:9.5:*:*:*:*:*:*:*",
       "title": "Weaver Office Automation (OA) 9.5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:weaver:e-office:9.5:*:*:*:*:*:*:*"
     }
   ]
 }

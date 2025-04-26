@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:mpl-publisher_project:mpl-publisher:1.30.2:*:*:*:*:wordpress:*:*",
         "cpeNameId": "5A78F2E7-7AA5-47D1-9D37-19F9E3CB9CFA",
-        "lastModified": "2021-10-19T16:22:54.510",
+        "lastModified": "2025-04-25T19:11:58.207",
         "created": "2021-10-19T16:21:13.560",
         "titles": [
           {
@@ -13,15 +13,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mpl-publisher:mpl-publisher:1.30.2:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "4D0FFD3D-8861-4C81-ABE0-784BB203D7AB"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:mpl-publisher_project:mpl-publisher:-:*:*:*:*:wordpress:*:*",
         "cpeNameId": "1EC1CA23-FD30-488D-8A2E-6B0F8DB5DDB3",
-        "lastModified": "2021-10-19T16:22:54.510",
+        "lastModified": "2025-04-25T19:11:58.207",
         "created": "2021-10-19T16:21:13.560",
         "titles": [
           {
@@ -29,7 +34,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:mpl-publisher:mpl-publisher:-:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "223367CC-1D73-4092-8355-F2E42C0AA976"
+          }
+        ]
       }
     }
   ],
@@ -37,14 +47,14 @@
     {
       "name": "cpe:2.3:a:mpl-publisher_project:mpl-publisher:1.30.2:*:*:*:*:wordpress:*:*",
       "title": "MPL-Publisher Project MPL-Publisher 1.30.2 for Wordpress",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mpl-publisher:mpl-publisher:1.30.2:*:*:*:*:wordpress:*:*"
     },
     {
       "name": "cpe:2.3:a:mpl-publisher_project:mpl-publisher:-:*:*:*:*:wordpress:*:*",
       "title": "MPL-Publisher Project MPL-Publisher for Wordpress",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:mpl-publisher:mpl-publisher:-:*:*:*:*:wordpress:*:*"
     }
   ]
 }

@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:a2:*:*:*:*:*:*",
         "cpeNameId": "9B8E7E97-FD3D-4032-9DDE-0F8E71E66907",
-        "lastModified": "2020-12-02T12:49:54.617",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2020-12-02T12:49:54.617",
         "titles": [
           {
@@ -13,15 +13,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.0.0:alpha2:*:*:*:*:*:*",
+            "cpeNameId": "88A8D295-7D1C-48D5-BA01-101D8103A857"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:a3:*:*:*:*:*:*",
         "cpeNameId": "902613F6-0598-4042-909F-114446461C5D",
-        "lastModified": "2020-12-02T12:49:54.743",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2020-12-02T12:49:54.743",
         "titles": [
           {
@@ -29,15 +34,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.0.0:alpha3:*:*:*:*:*:*",
+            "cpeNameId": "F2664BB9-C0F6-41E6-BEC4-C5FE2C3FF28A"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:a4:*:*:*:*:*:*",
         "cpeNameId": "894FBDE9-282D-4DC1-B6E4-F3E779ACD62F",
-        "lastModified": "2020-12-02T12:49:54.820",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2020-12-02T12:49:54.820",
         "titles": [
           {
@@ -45,15 +55,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.0.0:alpha4:*:*:*:*:*:*",
+            "cpeNameId": "E3EFEFC5-421D-48CE-BC20-4538D8BA5F33"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:a5:*:*:*:*:*:*",
         "cpeNameId": "68AADAFD-EF38-4C65-9D75-7B6D6A609584",
-        "lastModified": "2020-12-02T12:49:54.897",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2020-12-02T12:49:54.897",
         "titles": [
           {
@@ -61,15 +76,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.0.0:alpha5:*:*:*:*:*:*",
+            "cpeNameId": "68F76118-F07E-4F91-9856-FE4902EB066B"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta1:*:*:*:*:*:*",
         "cpeNameId": "BBD7B9E3-04CB-4642-801E-10DF66362810",
-        "lastModified": "2020-12-02T12:49:54.993",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2020-12-02T12:49:54.993",
         "titles": [
           {
@@ -77,15 +97,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.0.0:beta1:*:*:*:*:*:*",
+            "cpeNameId": "571B8616-6FA2-4F49-8592-CA795B9B5AD2"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta2:*:*:*:*:*:*",
         "cpeNameId": "3833A86E-F087-48EB-97C2-FF0AE4997D7B",
-        "lastModified": "2020-12-02T12:49:55.070",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2020-12-02T12:49:55.070",
         "titles": [
           {
@@ -93,15 +118,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.0.0:beta2:*:*:*:*:*:*",
+            "cpeNameId": "1F7C6D21-A767-41D2-A0F4-40ECC1A26BAB"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta3:*:*:*:*:*:*",
         "cpeNameId": "D5CF9BBE-A911-4A31-8342-5E2C5E7066B8",
-        "lastModified": "2020-12-02T12:49:55.163",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2020-12-02T12:49:55.163",
         "titles": [
           {
@@ -109,15 +139,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.0.0:beta3:*:*:*:*:*:*",
+            "cpeNameId": "DF48163E-23B0-4AB0-86FC-E480325DE960"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta4:*:*:*:*:*:*",
         "cpeNameId": "AFB779E8-DA71-4B95-8814-622C0157DB2E",
-        "lastModified": "2020-12-02T12:49:55.257",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2020-12-02T12:49:55.257",
         "titles": [
           {
@@ -125,15 +160,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.0.0:beta4:*:*:*:*:*:*",
+            "cpeNameId": "90FA0A3B-9731-47DE-A807-2E4A0998ABC5"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta5:*:*:*:*:*:*",
         "cpeNameId": "796DB656-D878-41C2-8451-C2563EE281E8",
-        "lastModified": "2020-12-02T12:49:55.350",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2020-12-02T12:49:55.350",
         "titles": [
           {
@@ -141,15 +181,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.0.0:beta5:*:*:*:*:*:*",
+            "cpeNameId": "02664E2A-5A3D-4196-B015-D704AA2E222F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.3:*:*:*:*:*:*:*",
         "cpeNameId": "C82AC0E2-19A9-45F1-9422-FDDF023DBA2D",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -157,15 +202,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.9.3:*:*:*:*:*:*:*",
+            "cpeNameId": "1BDE9E84-3F70-4D54-B7EB-23BFE330FEFD"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.12.0:*:*:*:*:*:*:*",
         "cpeNameId": "48364CEC-4987-4A2A-B75D-8166859802F1",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -173,15 +223,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.12.0:*:*:*:*:*:*:*",
+            "cpeNameId": "4B02064E-B134-44E1-B696-698719A04257"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.11.3:*:*:*:*:*:*:*",
         "cpeNameId": "E30CC76D-10A5-4B16-969C-53B14D365467",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -189,15 +244,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.11.3:*:*:*:*:*:*:*",
+            "cpeNameId": "D3FF303D-59F6-428E-BBA5-D40A2CCE6E20"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.11.2:*:*:*:*:*:*:*",
         "cpeNameId": "3A92BF4B-95CF-4C27-B550-73B7DF47857C",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -205,15 +265,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.11.2:*:*:*:*:*:*:*",
+            "cpeNameId": "82807858-D127-4DF3-8888-435DFBEC887D"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.11.1:*:*:*:*:*:*:*",
         "cpeNameId": "63B79DFC-189D-45DA-B73B-241D4342AB7D",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -221,15 +286,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.11.1:*:*:*:*:*:*:*",
+            "cpeNameId": "D7F4A5EF-2E38-4563-84D2-7100846D312E"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.11.0:*:*:*:*:*:*:*",
         "cpeNameId": "FD8A947A-9310-4587-80CB-A6CDAA74E8A1",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -237,15 +307,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.11.0:*:*:*:*:*:*:*",
+            "cpeNameId": "54F4B15B-B9CE-4876-B01E-A2256B7E8014"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.5:*:*:*:*:*:*:*",
         "cpeNameId": "B804E81B-1DF4-446C-80E5-2A3590783943",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -253,15 +328,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.10.5:*:*:*:*:*:*:*",
+            "cpeNameId": "B3D5BA33-6677-4BD9-9D8D-E07C816AC723"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.4:*:*:*:*:*:*:*",
         "cpeNameId": "EB9860A8-9819-4681-B027-B197CE435FF9",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -269,15 +349,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.10.4:*:*:*:*:*:*:*",
+            "cpeNameId": "B5D4E971-00F7-4667-B23D-ADB2BCDC4F70"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.3:*:*:*:*:*:*:*",
         "cpeNameId": "4A4FC267-151B-4309-9AD9-6E9F69C04075",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -285,15 +370,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.10.3:*:*:*:*:*:*:*",
+            "cpeNameId": "C9039256-62AA-485F-8A2F-0B09437B963F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.2:*:*:*:*:*:*:*",
         "cpeNameId": "EF4A4DDD-438B-4AD2-B260-2EA1915951D9",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -301,15 +391,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.10.2:*:*:*:*:*:*:*",
+            "cpeNameId": "BB9B9B9E-DC6B-493C-8F3C-F8F6E16A6D91"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.1:*:*:*:*:*:*:*",
         "cpeNameId": "C6D73601-4554-4D7C-884A-779FD20F86E1",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -317,15 +412,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.10.1:*:*:*:*:*:*:*",
+            "cpeNameId": "87F55181-749D-486E-872E-4C03F5815EC6"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.0:*:*:*:*:*:*:*",
         "cpeNameId": "32DD175C-38A3-4A2D-93ED-756BE2B72C8B",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -333,15 +433,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.10.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3994F678-FC04-493C-9C9B-04C6FA99DFB9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.2:*:*:*:*:*:*:*",
         "cpeNameId": "350E391D-B1AC-4E48-87E0-D52E1AB82282",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -349,15 +454,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.9.2:*:*:*:*:*:*:*",
+            "cpeNameId": "CADAC9D0-3C7F-4823-98D5-9D8C270E3B5F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.1:*:*:*:*:*:*:*",
         "cpeNameId": "E60A5218-999B-49D3-9D3E-04866BA5391C",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -365,15 +475,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.9.1:*:*:*:*:*:*:*",
+            "cpeNameId": "602712FD-350A-4B90-A7D9-965E600191A1"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.0:*:*:*:*:*:*:*",
         "cpeNameId": "3E768DDC-C8AD-4ABB-9105-179E98B1E383",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -381,15 +496,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.9.0:*:*:*:*:*:*:*",
+            "cpeNameId": "DBB34C66-BBF3-47A7-8E63-5055B8D4DA79"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.8.0:*:*:*:*:*:*:*",
         "cpeNameId": "1B0D3FBD-CFC8-41BA-BA44-1FF416892D7E",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -397,15 +517,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.8.0:*:*:*:*:*:*:*",
+            "cpeNameId": "181FB9E3-93EF-47A7-83F1-526FF7B52548"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.7.1:*:*:*:*:*:*:*",
         "cpeNameId": "AFB85827-837D-4541-989A-1C05F9ADA6D6",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -413,15 +538,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.7.1:*:*:*:*:*:*:*",
+            "cpeNameId": "D96EB27A-20FB-4FDD-BD92-391B63177887"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.7.0:*:*:*:*:*:*:*",
         "cpeNameId": "43F4397B-97F7-4EF5-9283-9A3F49FBC8AD",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -429,15 +559,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.7.0:*:*:*:*:*:*:*",
+            "cpeNameId": "C10CD1A5-130E-45AA-89CF-6CABC2C7779E"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.6.1:*:*:*:*:*:*:*",
         "cpeNameId": "3E8D1CBF-7E7E-4946-9DED-93BD8409DEDF",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -445,15 +580,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.6.1:*:*:*:*:*:*:*",
+            "cpeNameId": "959FB50D-1A79-4E2E-8BC2-4FF75E4E945B"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.6.0:*:*:*:*:*:*:*",
         "cpeNameId": "E6B8F250-59B4-4759-B9D8-3D7F59951927",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -461,15 +601,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.6.0:*:*:*:*:*:*:*",
+            "cpeNameId": "C2E28057-0726-40D1-9154-A7A1D021E1B7"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.5.0:*:*:*:*:*:*:*",
         "cpeNameId": "8D7AE73C-1C02-4DEB-B0AD-C1D9B56B0039",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -477,15 +622,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.5.0:*:*:*:*:*:*:*",
+            "cpeNameId": "F26345C9-B84F-4DB6-8331-FB3D7C35DA3F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.3:*:*:*:*:*:*:*",
         "cpeNameId": "A75E38AF-2EE6-46C8-BFA2-AD15C7C28457",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -493,15 +643,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.4.3:*:*:*:*:*:*:*",
+            "cpeNameId": "BC2D81B4-F77E-477F-818B-2EDB5C520E08"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.2:*:*:*:*:*:*:*",
         "cpeNameId": "ED79B12C-B6A4-4AF2-A215-260FEC016BC8",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -509,15 +664,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.4.2:*:*:*:*:*:*:*",
+            "cpeNameId": "42F59ADB-FBFA-4645-A0A8-0D47C9A3E76B"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.1:*:*:*:*:*:*:*",
         "cpeNameId": "985B007F-AF54-4279-AA77-089FE56238C3",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -525,15 +685,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.4.1:*:*:*:*:*:*:*",
+            "cpeNameId": "56B769C0-2A34-402A-8805-59F532279655"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.0:*:*:*:*:*:*:*",
         "cpeNameId": "3B27C265-1AFC-4F08-9A71-C2493AEE9E1F",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -541,15 +706,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.4.0:*:*:*:*:*:*:*",
+            "cpeNameId": "4A456C30-D436-47D8-8532-C324BBA965A6"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.3.1:*:*:*:*:*:*:*",
         "cpeNameId": "F01B9834-46E4-4708-9EA4-D851450E3D70",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -557,15 +727,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.3.1:*:*:*:*:*:*:*",
+            "cpeNameId": "02468383-5686-4BE9-9F25-0E87B2BBAE82"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.3.0:*:*:*:*:*:*:*",
         "cpeNameId": "06F7C714-2D50-4B8A-9DC5-402270693F0F",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -573,15 +748,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.3.0:*:*:*:*:*:*:*",
+            "cpeNameId": "3AC97D9F-FE82-40B9-A2BA-A22F112FF2A3"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.2.0:*:*:*:*:*:*:*",
         "cpeNameId": "5465D7AF-152C-4841-A6C1-F6A1E555600B",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -589,15 +769,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.2.0:*:*:*:*:*:*:*",
+            "cpeNameId": "A48664B9-29F8-4C3E-ACA6-B09445FF0482"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.1.1:*:*:*:*:*:*:*",
         "cpeNameId": "C871EA3E-4965-4A03-8C05-478C50CED080",
-        "lastModified": "2023-12-29T18:11:53.980",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T18:11:53.980",
         "titles": [
           {
@@ -605,15 +790,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.1.1:*:*:*:*:*:*:*",
+            "cpeNameId": "183053F8-E4B3-4024-B7C9-4C682D669E3A"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.1.0:*:*:*:*:*:*:*",
         "cpeNameId": "81762C65-B28F-4914-BDEF-F204122A829A",
-        "lastModified": "2023-12-29T19:30:51.297",
+        "lastModified": "2025-04-25T16:52:58.577",
         "created": "2023-12-29T19:30:51.297",
         "titles": [
           {
@@ -621,7 +811,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:blosc:c-blosc2:2.1.0:*:*:*:*:*:*:*",
+            "cpeNameId": "CA77235E-9A4D-4DED-8211-0D4962A0A7E7"
+          }
+        ]
       }
     }
   ],
@@ -629,236 +824,236 @@
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:a2:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.0.0 A2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.0.0:alpha2:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:a3:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.0.0 A3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.0.0:alpha3:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:a4:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.0.0 A4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.0.0:alpha4:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:a5:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.0.0 A5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.0.0:alpha5:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta1:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.0.0 Beta 1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.0.0:beta1:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta2:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.0.0 Beta 2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.0.0:beta2:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta3:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.0.0 Beta 3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.0.0:beta3:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta4:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.0.0 Beta 4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.0.0:beta4:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.0.0:beta5:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.0.0 Beta 5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.0.0:beta5:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.3:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.9.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.9.3:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.12.0:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.12.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.12.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.11.3:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.11.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.11.3:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.11.2:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.11.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.11.2:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.11.1:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.11.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.11.1:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.11.0:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.11.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.11.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.5:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.10.5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.10.5:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.4:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.10.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.10.4:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.3:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.10.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.10.3:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.2:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.10.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.10.2:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.1:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.10.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.10.1:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.10.0:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.10.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.10.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.2:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.9.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.9.2:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.1:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.9.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.9.1:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.9.0:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.9.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.9.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.8.0:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.8.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.8.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.7.1:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.7.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.7.1:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.7.0:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.7.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.7.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.6.1:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.6.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.6.1:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.6.0:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.6.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.6.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.5.0:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.5.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.5.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.3:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.4.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.4.3:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.2:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.4.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.4.2:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.1:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.4.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.4.1:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.0:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.4.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.4.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.3.1:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.3.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.3.1:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.3.0:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.3.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.3.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.2.0:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.2.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.2.0:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.1.1:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.1.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.1.1:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.1.0:*:*:*:*:*:*:*",
       "title": "C-Blosc2 Project C-Blosc2 2.1.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:blosc:c-blosc2:2.1.0:*:*:*:*:*:*:*"
     }
   ]
 }
