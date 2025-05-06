@@ -6673,10 +6673,10 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:qemu:qemu:8.2.0:*:*:*:*:*:*:*",
         "cpeNameId": "7B364729-EFA6-46E9-A7E6-2688211F2906",
-        "lastModified": "2024-04-17T19:42:22.123",
+        "lastModified": "2025-05-05T13:19:00.990",
         "created": "2024-04-17T19:42:22.123",
         "titles": [
           {
@@ -6684,7 +6684,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:qemu:qemu:8.2.0:-:*:*:*:*:*:*",
+            "cpeNameId": "9DDFBA40-E50E-4F02-AB9F-FD1B702744C0"
+          }
+        ]
       }
     },
     {
@@ -6705,10 +6710,10 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:qemu:qemu:9.0.0:*:*:*:*:*:*:*",
         "cpeNameId": "E7D85E89-8E0A-4420-8C45-B3A5D8B55609",
-        "lastModified": "2024-08-01T18:26:06.690",
+        "lastModified": "2025-05-05T13:19:00.990",
         "created": "2024-08-01T18:26:06.690",
         "titles": [
           {
@@ -6716,7 +6721,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:qemu:qemu:9.0.0:-:*:*:*:*:*:*",
+            "cpeNameId": "ACE57688-4CDB-4239-B43F-4D6C8406FBE9"
+          }
+        ]
       }
     },
     {
@@ -9224,8 +9234,8 @@
     {
       "name": "cpe:2.3:a:qemu:qemu:8.2.0:*:*:*:*:*:*:*",
       "title": "QEMU 8.2.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:qemu:qemu:8.2.0:-:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:qemu:qemu:8.2.1:*:*:*:*:*:*:*",
@@ -9236,8 +9246,8 @@
     {
       "name": "cpe:2.3:a:qemu:qemu:9.0.0:*:*:*:*:*:*:*",
       "title": "QEMU 9.0.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:qemu:qemu:9.0.0:-:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:qemu:qemu:8.2.3:*:*:*:*:*:*:*",
