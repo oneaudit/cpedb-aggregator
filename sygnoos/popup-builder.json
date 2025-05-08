@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:sygnoos:popup-builder:3.64.1:*:*:*:*:wordpress:*:*",
         "cpeNameId": "AD641FA5-EB80-4658-9BEF-78CB295C10DC",
-        "lastModified": "2020-03-18T19:06:46.443",
+        "lastModified": "2025-05-07T15:42:53.053",
         "created": "2020-03-18T19:06:46.443",
         "titles": [
           {
@@ -13,7 +13,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:sygnoos:popup_builder:3.64.1:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "0212E874-21B4-4A03-8168-9A739BA5CE02"
+          }
+        ]
       }
     }
   ],
@@ -21,8 +26,8 @@
     {
       "name": "cpe:2.3:a:sygnoos:popup-builder:3.64.1:*:*:*:*:wordpress:*:*",
       "title": "Sygnoos Popup-builder 3.64.1 for WordPress",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:sygnoos:popup_builder:3.64.1:*:*:*:*:wordpress:*:*"
     }
   ]
 }
