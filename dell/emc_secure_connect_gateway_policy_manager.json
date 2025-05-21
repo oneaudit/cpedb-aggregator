@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:emc_secure_connect_gateway_policy_manager:5.10.00.00:*:*:*:*:*:*:*",
         "cpeNameId": "C11698B5-B276-452A-A054-6A6E3121E10F",
-        "lastModified": "2023-01-21T00:14:46.183",
+        "lastModified": "2025-05-20T20:14:57.803",
         "created": "2023-01-18T11:32:21.790",
         "titles": [
           {
@@ -13,15 +13,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:policy_manager_for_secure_connect_gateway:5.10.00.00:*:*:*:*:*:*:*",
+            "cpeNameId": "3748FAF9-5FB8-4564-9737-E02EB8DE6E3B"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:emc_secure_connect_gateway_policy_manager:5.14.00.00:*:*:*:*:*:*:*",
         "cpeNameId": "E30ED9C4-E200-4EF4-A79A-EA6C5255118B",
-        "lastModified": "2023-01-21T00:14:46.183",
+        "lastModified": "2025-05-20T20:14:57.803",
         "created": "2023-01-18T11:32:21.790",
         "titles": [
           {
@@ -29,15 +34,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:policy_manager_for_secure_connect_gateway:5.14.00.00:*:*:*:*:*:*:*",
+            "cpeNameId": "2EDED917-B440-4119-8ABC-80C71DD8B423"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:emc_secure_connect_gateway_policy_manager:5.12.00.00:*:*:*:*:*:*:*",
         "cpeNameId": "EE9EE9E5-47E1-46B6-B086-49685C1593C3",
-        "lastModified": "2023-01-21T00:14:46.183",
+        "lastModified": "2025-05-20T20:14:57.803",
         "created": "2023-01-18T11:32:21.790",
         "titles": [
           {
@@ -45,7 +55,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:policy_manager_for_secure_connect_gateway:5.12.00.00:*:*:*:*:*:*:*",
+            "cpeNameId": "28901EDE-E46A-4EE1-8C29-D6D80DFD7163"
+          }
+        ]
       }
     }
   ],
@@ -53,20 +68,20 @@
     {
       "name": "cpe:2.3:a:dell:emc_secure_connect_gateway_policy_manager:5.10.00.00:*:*:*:*:*:*:*",
       "title": "Dell EMC Secure Connect Gateway Policy Manager 5.10.00.00",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:policy_manager_for_secure_connect_gateway:5.10.00.00:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:emc_secure_connect_gateway_policy_manager:5.14.00.00:*:*:*:*:*:*:*",
       "title": "Dell EMC Secure Connect Gateway Policy Manager 5.14.00.00",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:policy_manager_for_secure_connect_gateway:5.14.00.00:*:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:emc_secure_connect_gateway_policy_manager:5.12.00.00:*:*:*:*:*:*:*",
       "title": "Dell EMC Secure Connect Gateway Policy Manager 5.12.00.00",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:policy_manager_for_secure_connect_gateway:5.12.00.00:*:*:*:*:*:*:*"
     }
   ]
 }
