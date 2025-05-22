@@ -21,7 +21,7 @@
         "deprecated": false,
         "cpeName": "cpe:2.3:h:dlink:dir-860l:-:*:*:*:*:*:*:*",
         "cpeNameId": "4239993B-E577-4743-9A3A-DF40C315C324",
-        "lastModified": "2023-04-26T18:55:28.543",
+        "lastModified": "2025-05-21T15:42:33.833",
         "created": "2021-04-23T15:32:50.487",
         "titles": [
           {
@@ -34,18 +34,23 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:h:dlink:dir-860l:2.0.3:*:*:*:*:*:*:*",
         "cpeNameId": "98CD8D40-6A68-462D-8FFC-706B50011393",
-        "lastModified": "2025-01-14T14:13:23.573",
+        "lastModified": "2025-05-21T15:42:33.833",
         "created": "2025-01-14T14:13:23.573",
         "titles": [
           {
-            "title": "D-Link DIR-860l 2.0.3",
+            "title": "D-Link DIR-860L 2.0.3",
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:h:dlink:dir-860l:-:*:*:*:*:*:*:*",
+            "cpeNameId": "4239993B-E577-4743-9A3A-DF40C315C324"
+          }
+        ]
       }
     }
   ],
@@ -64,9 +69,9 @@
     },
     {
       "name": "cpe:2.3:h:dlink:dir-860l:2.0.3:*:*:*:*:*:*:*",
-      "title": "D-Link DIR-860l 2.0.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "title": "D-Link DIR-860L 2.0.3",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:h:dlink:dir-860l:-:*:*:*:*:*:*:*"
     }
   ]
 }
