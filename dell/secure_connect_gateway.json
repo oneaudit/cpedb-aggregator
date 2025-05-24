@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.14.00.16:*:*:*:*:*:*:*",
         "cpeNameId": "3F7AA5DD-8A45-4279-920F-5A93F8CE672D",
-        "lastModified": "2023-06-28T14:30:23.520",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2023-06-08T02:37:27.540",
         "titles": [
           {
@@ -13,15 +13,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.14.00.16:*:*:*:-:*:*:*",
+            "cpeNameId": "4DDEFAB4-25AD-4B8D-8A2F-7766106AEC1D"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.12.00.10:*:*:*:*:*:*:*",
         "cpeNameId": "DC60061E-85EA-4B69-90A9-1AB4841502EA",
-        "lastModified": "2023-09-29T11:33:57.233",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2023-09-29T11:33:57.233",
         "titles": [
           {
@@ -29,15 +34,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.12.00.10:*:*:*:virtual:*:*:*",
+            "cpeNameId": "2B297BCD-CAB9-40CA-8D72-BEB90FAF057B"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.14.00.12:*:*:*:*:*:*:*",
         "cpeNameId": "44357FE5-970E-4DC5-A184-71709A6A1974",
-        "lastModified": "2023-09-29T11:33:57.233",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2023-09-29T11:33:57.233",
         "titles": [
           {
@@ -45,15 +55,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.14.00.12:*:*:*:virtual:*:*:*",
+            "cpeNameId": "B347AC28-1E95-4D97-97A1-609ABC6E07BE"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:-:*:*:*:*:*:*:*",
         "cpeNameId": "0D3F9F32-ED23-44DA-82FE-4C15BEF8CFC7",
-        "lastModified": "2024-07-31T11:53:47.593",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2024-07-31T11:53:47.593",
         "titles": [
           {
@@ -61,15 +76,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:-:*:*:*:-:*:*:*",
+            "cpeNameId": "54C2469A-02C4-4C03-927E-C35AB806D671"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.18.00.20:*:*:*:*:*:*:*",
         "cpeNameId": "C465138C-C9CD-446F-A6A9-81F6A45358DE",
-        "lastModified": "2024-08-07T10:43:40.687",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2024-08-07T10:43:40.687",
         "titles": [
           {
@@ -77,15 +97,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.18.00.20:*:*:*:virtual:*:*:*",
+            "cpeNameId": "124AC2C5-31B3-4A2A-A682-15476A269B91"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.18:*:*:*:*:*:*:*",
         "cpeNameId": "06224D1E-B2F9-454B-913D-1F0A95042A74",
-        "lastModified": "2024-08-07T10:43:40.687",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2024-08-07T10:43:40.687",
         "titles": [
           {
@@ -93,15 +118,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.18:*:*:*:virtual:*:*:*",
+            "cpeNameId": "444E754D-90DF-4A1B-8B94-B3E1CBC605C3"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.24.00.00:*:*:*:*:*:*:*",
         "cpeNameId": "45109850-D74B-4EE3-A26D-CFF4D17826C2",
-        "lastModified": "2024-12-19T14:55:11.860",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2024-12-19T14:55:11.860",
         "titles": [
           {
@@ -109,15 +139,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.24.00.00:*:*:*:application:*:*:*",
+            "cpeNameId": "09ECDB33-2D2B-49FB-AA50-7AE32C309EBD"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.00:*:*:*:*:*:*:*",
         "cpeNameId": "071C8763-9585-4C33-971D-B5AED767DD7B",
-        "lastModified": "2024-12-19T14:55:11.860",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2024-12-19T14:55:11.860",
         "titles": [
           {
@@ -125,15 +160,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.00:*:*:*:application:*:*:*",
+            "cpeNameId": "5F5A4C8D-A259-4EFB-91A3-E17814AA444F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.10.00.00:*:*:*:*:*:*:*",
         "cpeNameId": "9B871E9C-5FDE-4F13-AAE9-B0DB899022E7",
-        "lastModified": "2024-12-19T14:55:11.860",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2024-12-19T14:55:11.860",
         "titles": [
           {
@@ -141,15 +181,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.10.00.00:*:*:*:application:*:*:*",
+            "cpeNameId": "EBD72476-3364-4907-8573-6640D8462CD3"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.20.00.00:*:*:*:*:*:*:*",
         "cpeNameId": "C4F7FA0E-855E-4171-A459-AE29A43C73EF",
-        "lastModified": "2024-12-19T14:55:11.860",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2024-12-19T14:55:11.860",
         "titles": [
           {
@@ -157,15 +202,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.20.00.00:*:*:*:application:*:*:*",
+            "cpeNameId": "566D0913-9EE7-4757-802C-D50DDE8C4E50"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.24.00.14:*:*:*:*:*:*:*",
         "cpeNameId": "39F41B59-7F12-4844-A278-545C99FD4EAF",
-        "lastModified": "2024-12-19T14:55:11.860",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2024-12-19T14:55:11.860",
         "titles": [
           {
@@ -173,15 +223,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.24.00.14:*:*:*:virtual:*:*:*",
+            "cpeNameId": "558FD8F1-4C0F-43EF-A491-2F2286B8598F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.20.00.10:*:*:*:*:*:*:*",
         "cpeNameId": "7A8A4718-E4EF-4A9B-BCFB-DA4AAFD10318",
-        "lastModified": "2024-12-19T14:55:11.860",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2024-12-19T14:55:11.860",
         "titles": [
           {
@@ -189,15 +244,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.20.00.10:*:*:*:virtual:*:*:*",
+            "cpeNameId": "85314280-DABE-485B-AF73-CDA030036BA7"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.10.00.10:*:*:*:*:*:*:*",
         "cpeNameId": "AE58DDCA-EAA8-49AC-BD9B-FA4CA5610A69",
-        "lastModified": "2024-12-19T14:55:11.860",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2024-12-19T14:55:11.860",
         "titles": [
           {
@@ -205,15 +265,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.10.00.10:*:*:*:virtual:*:*:*",
+            "cpeNameId": "ACCB63CC-48C1-4105-8EAE-66142FF4EE12"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.16:*:*:*:*:*:*:*",
         "cpeNameId": "9D36F24B-5488-4C1D-81E1-C75FB8BE9A3F",
-        "lastModified": "2024-12-19T14:55:11.860",
+        "lastModified": "2025-05-23T13:56:37.140",
         "created": "2024-12-19T14:55:11.860",
         "titles": [
           {
@@ -221,7 +286,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.16:*:*:*:-:*:*:*",
+            "cpeNameId": "04424D5F-4D90-4B7D-BEDB-E197519CE604"
+          }
+        ]
       }
     }
   ],
@@ -229,86 +299,86 @@
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.14.00.16:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway 5.14.00.16",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.14.00.16:*:*:*:-:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.12.00.10:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway (SCG) 5.12.00.10",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.12.00.10:*:*:*:virtual:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.14.00.12:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway (SCG) 5.14.00.12",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.14.00.12:*:*:*:virtual:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:-:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:-:*:*:*:-:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.18.00.20:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway (SCG) 5.18.00.20",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.18.00.20:*:*:*:virtual:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.18:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway (SCG) 5.22.00.18",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.18:*:*:*:virtual:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.24.00.00:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway (SCG) 5.24.00.00",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.24.00.00:*:*:*:application:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.00:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway (SCG) 5.22.00.00",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.00:*:*:*:application:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.10.00.00:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway (SCG) 5.10.00.00",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.10.00.00:*:*:*:application:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.20.00.00:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway (SCG) 5.20.00.00",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.20.00.00:*:*:*:application:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.24.00.14:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway (SCG) 5.24.00.14",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.24.00.14:*:*:*:virtual:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.20.00.10:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway (SCG) 5.20.00.10",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.20.00.10:*:*:*:virtual:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.10.00.10:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway (SCG) 5.10.00.10",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.10.00.10:*:*:*:virtual:*:*:*"
     },
     {
       "name": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.16:*:*:*:*:*:*:*",
       "title": "Dell Secure Connect Gateway (SCG) 5.22.00.16",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:dell:secure_connect_gateway:5.22.00.16:*:*:*:-:*:*:*"
     }
   ]
 }
