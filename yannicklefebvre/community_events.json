@@ -1,0 +1,60 @@
+{
+  "nist": [
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:yannicklefebvre:community_events:1.5:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "763CD529-BA39-4202-A532-A5C712DED7A1",
+        "lastModified": "2025-05-27T18:35:57.293",
+        "created": "2025-05-27T18:34:44.607",
+        "titles": [
+          {
+            "title": "Yannick Lefebvre Community Events 1.5 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:community_events_project:community_events:1.5:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "F4139DE9-9DD0-42DB-9A6F-392C3A2A5A91"
+          }
+        ]
+      }
+    },
+    {
+      "cpe": {
+        "deprecated": true,
+        "cpeName": "cpe:2.3:a:yannicklefebvre:community_events:1.5.1:*:*:*:*:wordpress:*:*",
+        "cpeNameId": "3CBB71C7-B43C-4F6D-8C4D-454311C152D3",
+        "lastModified": "2025-05-27T18:35:57.293",
+        "created": "2025-05-27T18:34:44.607",
+        "titles": [
+          {
+            "title": "Yannick Lefebvre Community Events 1.5.1 for WordPress",
+            "lang": "en"
+          }
+        ],
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:community_events_project:community_events:1.5.1:*:*:*:*:wordpress:*:*",
+            "cpeNameId": "628F1C4B-BFB0-4735-817F-9BB482A88E74"
+          }
+        ]
+      }
+    }
+  ],
+  "opencpe": [
+    {
+      "name": "cpe:2.3:a:yannicklefebvre:community_events:1.5:*:*:*:*:wordpress:*:*",
+      "title": "Yannick Lefebvre Community Events 1.5 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:community_events_project:community_events:1.5:*:*:*:*:wordpress:*:*"
+    },
+    {
+      "name": "cpe:2.3:a:yannicklefebvre:community_events:1.5.1:*:*:*:*:wordpress:*:*",
+      "title": "Yannick Lefebvre Community Events 1.5.1 for WordPress",
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:community_events_project:community_events:1.5.1:*:*:*:*:wordpress:*:*"
+    }
+  ]
+}

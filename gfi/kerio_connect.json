@@ -1138,10 +1138,10 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:gfi:kerio_connect:9.4.2:*:*:*:*:*:*:*",
         "cpeNameId": "D698C900-1C14-45A9-9FE4-408DBF47F91A",
-        "lastModified": "2023-12-29T10:06:05.597",
+        "lastModified": "2025-05-27T19:11:24.047",
         "created": "2023-12-29T10:06:05.597",
         "titles": [
           {
@@ -1149,7 +1149,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:gfi:kerio_connect:9.4.2:-:*:*:*:*:*:*",
+            "cpeNameId": "5596769B-E18C-4D8A-B9AD-53AE04BCC1BE"
+          }
+        ]
       }
     },
     {
@@ -1695,8 +1700,8 @@
     {
       "name": "cpe:2.3:a:gfi:kerio_connect:9.4.2:*:*:*:*:*:*:*",
       "title": "GFI Kerio Connect (KerioConnect) 9.4.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:gfi:kerio_connect:9.4.2:-:*:*:*:*:*:*"
     },
     {
       "name": "cpe:2.3:a:gfi:kerio_connect:10.0.0:*:*:*:*:*:*:*",
