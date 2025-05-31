@@ -18,10 +18,10 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.4.0:rc1:*:*:*:*:*:*",
         "cpeNameId": "A51212E1-934E-4A61-8243-4FB1520164F7",
-        "lastModified": "2020-08-20T15:05:50.247",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:50.247",
         "titles": [
           {
@@ -29,15 +29,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.4.0:rc1:*:*:open_source:*:*:*",
+            "cpeNameId": "F453ECA4-F9BF-4CDB-8C05-FCFE107D467C"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.4.0:rc2:*:*:*:*:*:*",
         "cpeNameId": "041707CA-3124-4ACA-92B0-C60370F59E66",
-        "lastModified": "2020-08-20T15:05:50.387",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:50.387",
         "titles": [
           {
@@ -45,15 +50,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.4.0:rc2:*:*:open_source:*:*:*",
+            "cpeNameId": "3C2B64C2-9C79-46C2-BD7C-03202C63F329"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.4.1:*:*:*:*:*:*:*",
         "cpeNameId": "92976ACD-C7D9-453D-99C2-640A93A3842C",
-        "lastModified": "2020-08-20T15:05:50.510",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:50.510",
         "titles": [
           {
@@ -61,7 +71,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.4.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "7816BCDE-98B2-4992-85D9-BFA743E58FD1"
+          }
+        ]
       }
     },
     {
@@ -82,10 +97,10 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.5.0:rc1:*:*:*:*:*:*",
         "cpeNameId": "F1D04A9E-79EF-40EB-9E5F-3F05B03B8930",
-        "lastModified": "2020-08-20T15:05:50.827",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:50.827",
         "titles": [
           {
@@ -93,15 +108,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.5.0:rc1:*:*:open_source:*:*:*",
+            "cpeNameId": "E9B49F09-3358-425D-81C3-19342EEF48A8"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.5.0:rc2:*:*:*:*:*:*",
         "cpeNameId": "B11C5747-6481-4D3C-8341-ACB034C9F198",
-        "lastModified": "2020-08-20T15:05:50.950",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:50.950",
         "titles": [
           {
@@ -109,15 +129,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.5.0:rc2:*:*:open_source:*:*:*",
+            "cpeNameId": "1874F53D-2EB6-4596-A5AC-B920954B5279"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.5.1:*:*:*:*:*:*:*",
         "cpeNameId": "C27561BD-1A0E-4685-BF04-563553379B63",
-        "lastModified": "2020-08-20T15:05:51.073",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:51.073",
         "titles": [
           {
@@ -125,7 +150,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.5.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "DCA53687-C3CA-4E19-908A-E72ECDD08773"
+          }
+        ]
       }
     },
     {
@@ -146,10 +176,10 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.0:rc1:*:*:*:*:*:*",
         "cpeNameId": "56DE9D36-957F-4398-9A67-90E77C29C402",
-        "lastModified": "2020-08-20T15:05:51.387",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:51.387",
         "titles": [
           {
@@ -157,15 +187,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.0:rc1:*:*:open_source:*:*:*",
+            "cpeNameId": "9AC94959-C294-4C25-9481-30D4E279114E"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.0:rc2:*:*:*:*:*:*",
         "cpeNameId": "C2C9E4B0-44AC-4C3F-A1E7-957585481A34",
-        "lastModified": "2020-08-20T15:05:51.527",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:51.527",
         "titles": [
           {
@@ -173,15 +208,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.0:rc2:*:*:open_source:*:*:*",
+            "cpeNameId": "FA728214-D855-4A78-8833-96AA44341361"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.1:*:*:*:*:*:*:*",
         "cpeNameId": "6603C5AA-DB6F-4236-8D6F-83AC1D0201DF",
-        "lastModified": "2020-08-20T15:05:51.653",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:51.653",
         "titles": [
           {
@@ -189,15 +229,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "8ECF9CAF-1853-4818-9A43-965D4D3315D5"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.2:*:*:*:*:*:*:*",
         "cpeNameId": "DD84BBD5-0CDA-4F26-9B80-01CA059EB892",
-        "lastModified": "2020-08-20T15:05:51.807",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:51.807",
         "titles": [
           {
@@ -205,15 +250,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "7F310B22-0116-4605-8453-8A8982293A78"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.3:*:*:*:*:*:*:*",
         "cpeNameId": "197C59C7-A8BD-4CD9-9A01-874D5455CE71",
-        "lastModified": "2020-08-20T15:05:51.950",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:51.950",
         "titles": [
           {
@@ -221,7 +271,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "70BA1D62-07D1-401D-9F82-7CCCF780E40B"
+          }
+        ]
       }
     },
     {
@@ -242,10 +297,10 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.4:rc1:*:*:*:*:*:*",
         "cpeNameId": "8F22C6E9-7BB3-466C-9488-AC347B0BE12C",
-        "lastModified": "2020-08-20T15:05:52.213",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:52.213",
         "titles": [
           {
@@ -253,15 +308,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.4:rc1:*:*:open_source:*:*:*",
+            "cpeNameId": "4E0EFFBB-5B87-4065-B58D-3A4EF1F335DC"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.4:rc2:*:*:*:*:*:*",
         "cpeNameId": "0DDCF68F-D21D-4BC1-97D6-36AAE72749E9",
-        "lastModified": "2020-08-20T15:05:52.323",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:52.323",
         "titles": [
           {
@@ -269,15 +329,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.4:rc2:*:*:open_source:*:*:*",
+            "cpeNameId": "71E40605-EB2D-4B20-A9B1-C2E099A3E234"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.4:rc3:*:*:*:*:*:*",
         "cpeNameId": "B09E3F5D-F9C2-465E-B368-5E76DEE91216",
-        "lastModified": "2020-08-20T15:05:52.450",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:52.450",
         "titles": [
           {
@@ -285,15 +350,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.4:rc3:*:*:open_source:*:*:*",
+            "cpeNameId": "67DAED98-3D4A-496B-8854-FCA3D3420EA7"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.5:*:*:*:*:*:*:*",
         "cpeNameId": "27E69E74-20EA-4149-A5C2-22A2954C7485",
-        "lastModified": "2020-08-20T15:05:52.573",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:52.573",
         "titles": [
           {
@@ -301,15 +371,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.5:*:*:*:open_source:*:*:*",
+            "cpeNameId": "192756E8-E1FE-434E-A8E9-93F0F717E7B1"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.6:*:*:*:*:*:*:*",
         "cpeNameId": "6E03A012-B63D-47C5-AD40-59697BC53398",
-        "lastModified": "2020-08-20T15:05:52.730",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:52.730",
         "titles": [
           {
@@ -317,15 +392,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.6:*:*:*:open_source:*:*:*",
+            "cpeNameId": "ACF14086-EC82-46F9-A16A-0B45B6579D1F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.7:*:*:*:*:*:*:*",
         "cpeNameId": "107F80F9-F385-471F-ADB2-7F67FC4E9226",
-        "lastModified": "2020-08-20T15:05:52.903",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:52.903",
         "titles": [
           {
@@ -333,15 +413,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.7:*:*:*:open_source:*:*:*",
+            "cpeNameId": "475B439E-073E-4B8B-AF1F-0CCDF6D38321"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.8:*:*:*:*:*:*:*",
         "cpeNameId": "1C2CD15D-BB93-4C07-87A8-1556E4277033",
-        "lastModified": "2020-08-20T15:05:53.043",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:53.043",
         "titles": [
           {
@@ -349,15 +434,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.8:*:*:*:open_source:*:*:*",
+            "cpeNameId": "3E3427DC-1FE2-457D-9729-EF6E7CAD1A9B"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.9:*:*:*:*:*:*:*",
         "cpeNameId": "608B4AF0-AC08-4415-9B29-97B3D8753B5E",
-        "lastModified": "2020-08-20T15:05:53.200",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:53.200",
         "titles": [
           {
@@ -365,15 +455,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.9:*:*:*:open_source:*:*:*",
+            "cpeNameId": "AE61A4DB-DACE-4C3F-AF55-63F40DF99D7F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.10:*:*:*:*:*:*:*",
         "cpeNameId": "1838D4AB-1E60-4AD3-9888-65748D902D4D",
-        "lastModified": "2020-08-20T15:05:53.357",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:53.357",
         "titles": [
           {
@@ -381,15 +476,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.10:*:*:*:open_source:*:*:*",
+            "cpeNameId": "76685953-92E9-473D-B8B5-ED3AC567C3DD"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.11:*:*:*:*:*:*:*",
         "cpeNameId": "393C94BA-8786-4E5F-94BD-7A62BF1CCB95",
-        "lastModified": "2020-08-20T15:05:53.510",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:53.510",
         "titles": [
           {
@@ -397,15 +497,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.11:*:*:*:open_source:*:*:*",
+            "cpeNameId": "1F05B1F2-52B7-4BD0-B286-3C7103AE75C4"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:2.6.12:*:*:*:*:*:*:*",
         "cpeNameId": "497C91A3-2DF7-4AFC-8961-95141BEC4322",
-        "lastModified": "2020-08-20T15:05:53.637",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:53.637",
         "titles": [
           {
@@ -413,7 +518,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:2.6.12:*:*:*:open_source:*:*:*",
+            "cpeNameId": "F33B42F5-C321-4DA7-AB5B-CD7BB3D4A546"
+          }
+        ]
       }
     },
     {
@@ -434,10 +544,10 @@
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.0:alpha1:*:*:*:*:*:*",
         "cpeNameId": "10E80640-EBC4-49EF-B552-F20A505D908B",
-        "lastModified": "2020-08-20T15:05:53.950",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:53.950",
         "titles": [
           {
@@ -445,15 +555,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.0:alpha1:*:*:open_source:*:*:*",
+            "cpeNameId": "4B22F32D-1312-4A27-AE35-0B08602E9FA4"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.0:alpha1-rc1:*:*:*:*:*:*",
         "cpeNameId": "1B9B2AEC-5C5D-42D4-9E90-9A48D56D7939",
-        "lastModified": "2020-08-20T15:05:54.120",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:54.120",
         "titles": [
           {
@@ -461,15 +576,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.0:alpha1_rc1:*:*:open_source:*:*:*",
+            "cpeNameId": "88774FE8-1239-4946-9818-7F1ECB93BAD3"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.0:beta1:*:*:*:*:*:*",
         "cpeNameId": "151B02F3-8D8C-4FCC-BEF3-1DB0AA9AA9C1",
-        "lastModified": "2020-08-20T15:05:54.323",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:54.323",
         "titles": [
           {
@@ -477,15 +597,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.0:beta1:*:*:open_source:*:*:*",
+            "cpeNameId": "20AD11FC-28F4-49A2-9884-74D9CCA8DE97"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.1:*:*:*:*:*:*:*",
         "cpeNameId": "40ED0E20-8525-4B27-839A-C3E457E1CCCE",
-        "lastModified": "2020-08-20T15:05:54.510",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:54.510",
         "titles": [
           {
@@ -493,15 +618,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "A34090CB-B885-420F-823B-C20EC8BEA154"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.2:*:*:*:*:*:*:*",
         "cpeNameId": "39683367-2412-483A-B59D-61F9DEB9ED4D",
-        "lastModified": "2020-08-20T15:05:54.700",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:54.700",
         "titles": [
           {
@@ -509,15 +639,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "2E05664A-3C87-4E92-9ABE-8D140128C630"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.3:*:*:*:*:*:*:*",
         "cpeNameId": "7B2F663C-8843-4C54-8472-9C76EFF2FC27",
-        "lastModified": "2020-08-20T15:05:54.887",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:54.887",
         "titles": [
           {
@@ -525,15 +660,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "29243E18-9E67-4AB2-A481-7AE9F4E45332"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.4:*:*:*:*:*:*:*",
         "cpeNameId": "42399A48-7A7E-44C6-8198-CC959363A01F",
-        "lastModified": "2020-08-20T15:05:55.073",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:55.073",
         "titles": [
           {
@@ -541,15 +681,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.4:*:*:*:open_source:*:*:*",
+            "cpeNameId": "06729148-F6B2-4417-954D-A0EA44509EE9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.5:*:*:*:*:*:*:*",
         "cpeNameId": "37A26BD8-6B75-49ED-8B8E-8F4D775A9114",
-        "lastModified": "2020-08-20T15:05:55.247",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:55.247",
         "titles": [
           {
@@ -557,15 +702,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.5:*:*:*:open_source:*:*:*",
+            "cpeNameId": "0642D9C1-66A8-40AE-A5F1-C9A2BB12FFF8"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.6:*:*:*:*:*:*:*",
         "cpeNameId": "C479DF35-6CB5-420F-9213-2B8ECCFF8BA5",
-        "lastModified": "2020-08-20T15:05:55.417",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:55.417",
         "titles": [
           {
@@ -573,15 +723,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.6:*:*:*:open_source:*:*:*",
+            "cpeNameId": "D93495A6-962D-4073-A916-A9D5D5A829FF"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.7:*:*:*:*:*:*:*",
         "cpeNameId": "167D0FC9-9891-4827-AAFB-7CD5BC00D2E4",
-        "lastModified": "2020-08-20T15:05:55.573",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:55.573",
         "titles": [
           {
@@ -589,15 +744,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.7:*:*:*:open_source:*:*:*",
+            "cpeNameId": "5D00BD9C-1CFE-4AD8-81CC-490CD29EEB81"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.8:*:*:*:*:*:*:*",
         "cpeNameId": "5F52103C-5120-44FF-85FF-14530BDFFCF2",
-        "lastModified": "2020-08-20T15:05:55.730",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:55.730",
         "titles": [
           {
@@ -605,15 +765,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.8:*:*:*:open_source:*:*:*",
+            "cpeNameId": "1BFA9DBF-BADD-4715-82D1-4DD7F81B69A9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.9:*:*:*:*:*:*:*",
         "cpeNameId": "2320DC66-B484-420A-9F6E-434F3375BC70",
-        "lastModified": "2020-08-20T15:05:55.887",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:55.887",
         "titles": [
           {
@@ -621,15 +786,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.9:*:*:*:open_source:*:*:*",
+            "cpeNameId": "07DF8E8F-A182-47B7-90BE-ECFCCA82A993"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.10:*:*:*:*:*:*:*",
         "cpeNameId": "A60312D5-3295-452F-A0CD-89BBEADBF14C",
-        "lastModified": "2020-08-20T15:05:56.043",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:56.043",
         "titles": [
           {
@@ -637,15 +807,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.10:*:*:*:open_source:*:*:*",
+            "cpeNameId": "0133BD0E-C7E9-485F-87E1-AED2B5B5E7CE"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.11:*:*:*:*:*:*:*",
         "cpeNameId": "327FFCCE-4CC7-4B85-B718-B30FAB92804E",
-        "lastModified": "2020-08-20T15:05:56.200",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:56.200",
         "titles": [
           {
@@ -653,15 +828,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.11:*:*:*:open_source:*:*:*",
+            "cpeNameId": "B4CA887B-75BA-4826-AAB6-ADA298D93717"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.0.12:*:*:*:*:*:*:*",
         "cpeNameId": "C975D303-BF67-4BF0-85CE-A5176517473D",
-        "lastModified": "2020-08-20T15:05:56.357",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:56.357",
         "titles": [
           {
@@ -669,15 +849,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.0.12:*:*:*:open_source:*:*:*",
+            "cpeNameId": "80885CF0-2CF3-4F30-A9FA-C7C8F866C285"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.1.0:-:*:*:*:*:*:*",
         "cpeNameId": "DAA59D2D-BB9C-4832-888A-AC5BA9C74750",
-        "lastModified": "2020-08-20T15:05:56.497",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:56.497",
         "titles": [
           {
@@ -685,15 +870,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.1.0:-:*:*:open_source:*:*:*",
+            "cpeNameId": "D68C1AF5-48BD-4EFC-851B-6A75D7A781CD"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.1.0:rc1:*:*:*:*:*:*",
         "cpeNameId": "589433C8-7CFE-4DEB-806A-CA250FB85F7E",
-        "lastModified": "2020-08-20T15:05:56.653",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:56.653",
         "titles": [
           {
@@ -701,15 +891,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.1.0:rc1:*:*:open_source:*:*:*",
+            "cpeNameId": "662E1714-5032-4DE4-BDF9-2BC241F48DCA"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.1.1:*:*:*:*:*:*:*",
         "cpeNameId": "40FC6D6F-143D-442A-9ACC-BCAF7B1CAD0E",
-        "lastModified": "2020-08-20T15:05:56.807",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:56.807",
         "titles": [
           {
@@ -717,15 +912,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.1.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "8C1FFE0F-70E9-4ED1-8726-4917B9CA31AB"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.1.2:*:*:*:*:*:*:*",
         "cpeNameId": "D9587C00-B812-4F97-8DF6-DADE467BBFA6",
-        "lastModified": "2020-08-20T15:05:56.980",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:56.980",
         "titles": [
           {
@@ -733,15 +933,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.1.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "8687B50E-8CB8-47BF-9166-CFBCF28609BE"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.1.3:*:*:*:*:*:*:*",
         "cpeNameId": "BE0C5805-67CC-41E7-BA36-7E151F5A846B",
-        "lastModified": "2020-08-20T15:05:57.183",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:57.183",
         "titles": [
           {
@@ -749,15 +954,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.1.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "F438C874-D567-4471-820D-1B9CD2CE9581"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.1.4:*:*:*:*:*:*:*",
         "cpeNameId": "C2CDD36E-24F4-4814-A7E4-40B2F9AD5F27",
-        "lastModified": "2020-08-20T15:05:57.357",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:57.357",
         "titles": [
           {
@@ -765,15 +975,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.1.4:*:*:*:open_source:*:*:*",
+            "cpeNameId": "FB094B4A-01DC-4346-906C-BEEF5E2E8FA4"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.1.5:*:*:*:*:*:*:*",
         "cpeNameId": "1F66B02C-2F85-48A1-8773-61B43769B702",
-        "lastModified": "2020-08-20T15:05:57.513",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:57.513",
         "titles": [
           {
@@ -781,15 +996,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.1.5:*:*:*:open_source:*:*:*",
+            "cpeNameId": "EE9B6755-DDCD-4AE3-98B7-131A0A450B62"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.1.6:*:*:*:*:*:*:*",
         "cpeNameId": "0EB85029-D172-4FFC-8CFC-14F5E856BAE4",
-        "lastModified": "2020-08-20T15:05:57.667",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:57.667",
         "titles": [
           {
@@ -797,15 +1017,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.1.6:*:*:*:open_source:*:*:*",
+            "cpeNameId": "237350EF-37E6-4C4B-9F40-62F4792B4E54"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.1.7:*:*:*:*:*:*:*",
         "cpeNameId": "14A0BEE3-7B79-45EA-A6CE-50AA8D8A1A1B",
-        "lastModified": "2020-08-20T15:05:57.903",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:57.903",
         "titles": [
           {
@@ -813,15 +1038,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.1.7:*:*:*:open_source:*:*:*",
+            "cpeNameId": "036998BF-FC43-4C5B-A7AB-B25BACAC4826"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.2.0:*:*:*:*:*:*:*",
         "cpeNameId": "ABAE6CB3-869D-45FC-9C03-FB60DD231895",
-        "lastModified": "2020-08-20T15:05:58.057",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:58.057",
         "titles": [
           {
@@ -829,15 +1059,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.2.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "BAB77CF0-2504-46A9-926E-2DB954FF4A3D"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.2.1:*:*:*:*:*:*:*",
         "cpeNameId": "45746E7E-453C-4A92-B4C4-1F65B33F218E",
-        "lastModified": "2020-08-20T15:05:58.247",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:58.247",
         "titles": [
           {
@@ -845,15 +1080,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.2.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "72BF1126-4B49-48E7-9CEB-5F9BE7B890ED"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.2.2:*:*:*:*:*:*:*",
         "cpeNameId": "63A7FD2C-D010-4CCF-AA99-A4905D2BC5CC",
-        "lastModified": "2020-08-20T15:05:58.433",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:58.433",
         "titles": [
           {
@@ -861,15 +1101,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.2.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "9E8B497B-C265-4ED0-87FA-DFCD6E5F2783"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.2.3:*:*:*:*:*:*:*",
         "cpeNameId": "C7D0497A-63A5-4CD7-BF1B-0E470CA9AC5A",
-        "lastModified": "2020-08-20T15:05:58.653",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:58.653",
         "titles": [
           {
@@ -877,15 +1122,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.2.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "81EE38FF-1104-47F7-9C76-0398E3880423"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.2.4:*:*:*:*:*:*:*",
         "cpeNameId": "0073750A-D323-42A5-9BE1-DF305621C783",
-        "lastModified": "2020-08-20T15:05:58.807",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:58.807",
         "titles": [
           {
@@ -893,15 +1143,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.2.4:*:*:*:open_source:*:*:*",
+            "cpeNameId": "A08D2F81-38A0-4C99-A909-C8900B6C0280"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.2.5:*:*:*:*:*:*:*",
         "cpeNameId": "33A48127-DEE9-4ABF-8EF0-3E908DB16664",
-        "lastModified": "2020-08-20T15:05:58.980",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:58.980",
         "titles": [
           {
@@ -909,15 +1164,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.2.5:*:*:*:open_source:*:*:*",
+            "cpeNameId": "7E1D4E85-4AB4-475F-9DA2-D0508317896B"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.2.6:*:*:*:*:*:*:*",
         "cpeNameId": "AB2184DA-A367-4F9A-9388-529CD5A627B0",
-        "lastModified": "2020-08-20T15:05:59.200",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:59.200",
         "titles": [
           {
@@ -925,15 +1185,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.2.6:*:*:*:open_source:*:*:*",
+            "cpeNameId": "A96D193A-6489-4007-A4E3-D3A564B52CC2"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.2.7:*:*:*:*:*:*:*",
         "cpeNameId": "AA27B1C6-913C-43C6-8226-F63424E1D379",
-        "lastModified": "2020-08-20T15:05:59.370",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:59.370",
         "titles": [
           {
@@ -941,15 +1206,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.2.7:*:*:*:open_source:*:*:*",
+            "cpeNameId": "F7B94B0F-1339-42E4-AB0C-0144884A710A"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.2.8:*:*:*:*:*:*:*",
         "cpeNameId": "0C681F9D-7971-49E2-B785-EE98D9E221DB",
-        "lastModified": "2020-08-20T15:05:59.543",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:59.543",
         "titles": [
           {
@@ -957,15 +1227,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.2.8:*:*:*:open_source:*:*:*",
+            "cpeNameId": "EECBC703-C736-4C33-A36C-52C0FBC416E1"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.3.0:*:*:*:*:*:*:*",
         "cpeNameId": "9F61F6B2-91A6-44BD-A625-A1B143D55027",
-        "lastModified": "2020-08-20T15:05:59.700",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:59.700",
         "titles": [
           {
@@ -973,15 +1248,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.3.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "9BED900F-9A37-4FD5-820C-665FE61BC2CA"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.3.1:*:*:*:*:*:*:*",
         "cpeNameId": "6A00737A-8C0B-4CDC-A51C-0FF31777ACC8",
-        "lastModified": "2020-08-20T15:05:59.887",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:05:59.887",
         "titles": [
           {
@@ -989,15 +1269,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.3.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "77359125-0641-4619-9E8D-DAEB5D93F79D"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.3.2:*:*:*:*:*:*:*",
         "cpeNameId": "8A574DD5-BB7E-4FD1-94D8-938057E180D1",
-        "lastModified": "2020-08-20T15:06:00.090",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:00.090",
         "titles": [
           {
@@ -1005,15 +1290,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.3.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "B45B707D-4888-436A-B10F-693CFEEBE641"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.3.3:*:*:*:*:*:*:*",
         "cpeNameId": "514DD315-DFBD-4379-8633-1253042D3B06",
-        "lastModified": "2020-08-20T15:06:00.293",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:00.293",
         "titles": [
           {
@@ -1021,15 +1311,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.3.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "DC7B8668-3BEC-4EBA-A63B-D380B585B65D"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.3.4:*:*:*:*:*:*:*",
         "cpeNameId": "5034637F-DB66-4A6F-89DF-69CCD4E823AF",
-        "lastModified": "2020-08-20T15:06:00.467",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:00.467",
         "titles": [
           {
@@ -1037,15 +1332,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.3.4:*:*:*:open_source:*:*:*",
+            "cpeNameId": "4BC03D32-73A4-435D-9765-87856D0AC050"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.3.5:*:*:*:*:*:*:*",
         "cpeNameId": "10621FDF-E9C5-40BB-9A01-991A5EB4A2F0",
-        "lastModified": "2020-08-20T15:06:00.637",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:00.637",
         "titles": [
           {
@@ -1053,15 +1353,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.3.5:*:*:*:open_source:*:*:*",
+            "cpeNameId": "D0188DFA-55D9-46DE-BC38-3E454CB84907"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.3.6:*:*:*:*:*:*:*",
         "cpeNameId": "D1331D59-1E3B-4B93-8B2A-860BE7E11423",
-        "lastModified": "2020-08-20T15:06:00.810",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:00.810",
         "titles": [
           {
@@ -1069,15 +1374,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.3.6:*:*:*:open_source:*:*:*",
+            "cpeNameId": "4B65E1E6-98D1-478B-A4D6-1FA6B2C1D2C9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.3.7:*:*:*:*:*:*:*",
         "cpeNameId": "6D1EFE0A-DB17-4175-8D75-0533446EE828",
-        "lastModified": "2020-08-20T15:06:00.997",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:00.997",
         "titles": [
           {
@@ -1085,15 +1395,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.3.7:*:*:*:open_source:*:*:*",
+            "cpeNameId": "54D8AEAC-FD13-429B-8FE8-24FB89017050"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.4.0:*:*:*:*:*:*:*",
         "cpeNameId": "3491B9FF-290B-45C2-92F1-BFE047ABB7C8",
-        "lastModified": "2020-08-20T15:06:01.183",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:01.183",
         "titles": [
           {
@@ -1101,15 +1416,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.4.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "AF20762E-45BB-4E25-9A2D-D53EAA948CAC"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.4.1:*:*:*:*:*:*:*",
         "cpeNameId": "354953D1-45F0-42B4-B3E4-9345726CFF2E",
-        "lastModified": "2020-08-20T15:06:01.387",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:01.387",
         "titles": [
           {
@@ -1117,15 +1437,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.4.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "2CB66CB1-56F6-4AFF-B310-E2CCC1E4E4A9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.4.2:*:*:*:*:*:*:*",
         "cpeNameId": "C63E0B16-5410-486F-8F80-C62999C6DDAE",
-        "lastModified": "2020-08-20T15:06:01.573",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:01.573",
         "titles": [
           {
@@ -1133,15 +1458,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.4.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "29B32DB1-FF5D-4295-BD12-22A0936AF8C9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.4.3:*:*:*:*:*:*:*",
         "cpeNameId": "F8682113-71DC-4D4A-9CFD-0048F415525B",
-        "lastModified": "2020-08-20T15:06:01.777",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:01.777",
         "titles": [
           {
@@ -1149,15 +1479,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.4.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "D7F56CBC-EE28-4805-8D74-68A99FEDA49F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.4.4:*:*:*:*:*:*:*",
         "cpeNameId": "7DFC1B90-B1D8-4A5D-9AB2-3FB591E95A11",
-        "lastModified": "2020-08-20T15:06:01.980",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:01.980",
         "titles": [
           {
@@ -1165,15 +1500,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.4.4:*:*:*:open_source:*:*:*",
+            "cpeNameId": "77574031-CAD4-4917-A896-6660E7E18AE5"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.5.0:*:*:*:*:*:*:*",
         "cpeNameId": "654684B9-AEA2-42B5-857D-4364E7E6B813",
-        "lastModified": "2020-08-20T15:06:02.167",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:02.167",
         "titles": [
           {
@@ -1181,15 +1521,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.5.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "B81A543E-7AA2-421F-AB35-A4C9433F8763"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.5.1:*:*:*:*:*:*:*",
         "cpeNameId": "95FE260A-8DAB-442F-862A-68506416B30F",
-        "lastModified": "2020-08-20T15:06:02.357",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:02.357",
         "titles": [
           {
@@ -1197,15 +1542,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.5.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "DDF945B0-4BA6-454A-A4AD-65072B8184A9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.5.2:*:*:*:*:*:*:*",
         "cpeNameId": "8206E17C-FB95-4125-8866-3DBE9746F220",
-        "lastModified": "2020-08-20T15:06:02.573",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:02.573",
         "titles": [
           {
@@ -1213,15 +1563,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.5.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "19C64BB3-1D70-45E8-BD3F-7002FF5645E9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.5.3:*:*:*:*:*:*:*",
         "cpeNameId": "A8F182DB-64A2-460C-932F-2AF16F86F028",
-        "lastModified": "2020-08-20T15:06:02.777",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:02.777",
         "titles": [
           {
@@ -1229,15 +1584,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.5.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "57ECD4EC-E9EA-4B26-B4FE-C626B8E79FDD"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.5.4:*:*:*:*:*:*:*",
         "cpeNameId": "30754D20-4542-4117-8826-DCFFAFF1D962",
-        "lastModified": "2020-08-20T15:06:03.107",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:03.107",
         "titles": [
           {
@@ -1245,15 +1605,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.5.4:*:*:*:open_source:*:*:*",
+            "cpeNameId": "FFEA251D-38FA-4EDC-AFF0-F5755021F19F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.5.5:*:*:*:*:*:*:*",
         "cpeNameId": "4E07D8C3-1E89-4801-8991-0BBBB1469909",
-        "lastModified": "2020-08-20T15:06:03.293",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:03.293",
         "titles": [
           {
@@ -1261,15 +1626,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.5.5:*:*:*:open_source:*:*:*",
+            "cpeNameId": "A2284EBE-BF46-4046-B99E-C738EA701DD0"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.5.6:*:*:*:*:*:*:*",
         "cpeNameId": "CDF9BDD9-2699-4964-A8BC-57BD259104FB",
-        "lastModified": "2020-08-20T15:06:03.527",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:03.527",
         "titles": [
           {
@@ -1277,15 +1647,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.5.6:*:*:*:open_source:*:*:*",
+            "cpeNameId": "A31D1AFE-F64D-4761-A4B4-958F40643BD9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.5.7:*:*:*:*:*:*:*",
         "cpeNameId": "FFA08B7D-6CF9-45BE-B32F-3D25B8A771AC",
-        "lastModified": "2020-08-20T15:06:03.763",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:03.763",
         "titles": [
           {
@@ -1293,15 +1668,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.5.7:*:*:*:open_source:*:*:*",
+            "cpeNameId": "FB46C5A8-A850-4595-8392-D96BF236F182"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.5.8:*:*:*:*:*:*:*",
         "cpeNameId": "AB626751-244C-475E-B697-24F053B7C58B",
-        "lastModified": "2020-08-20T15:06:03.950",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:03.950",
         "titles": [
           {
@@ -1309,15 +1689,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.5.8:*:*:*:open_source:*:*:*",
+            "cpeNameId": "001C92AE-908E-4319-86D3-0BC85DDB8206"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.6.0:*:*:*:*:*:*:*",
         "cpeNameId": "D14DF330-94CF-4427-BF07-E3C47C1A5370",
-        "lastModified": "2020-08-20T15:06:04.120",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:04.120",
         "titles": [
           {
@@ -1325,15 +1710,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.6.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "0D9BB0E4-6C1B-43A4-A98D-E22E83B2D9B1"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.6.1:*:*:*:*:*:*:*",
         "cpeNameId": "CF5487E3-5BBE-4F38-98AE-D6F2D6AC707E",
-        "lastModified": "2020-08-20T15:06:04.370",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:04.370",
         "titles": [
           {
@@ -1341,15 +1731,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.6.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "010FBE1C-B49F-458F-B409-639F2C7FF0BB"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.6.2:*:*:*:*:*:*:*",
         "cpeNameId": "69B8D6FD-D54F-4C7E-82FC-6CD341B2084F",
-        "lastModified": "2020-08-20T15:06:04.560",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:04.560",
         "titles": [
           {
@@ -1357,15 +1752,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.6.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "81A8124B-7657-4807-8ADA-1FC0AAA20E5C"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.6.3:*:*:*:*:*:*:*",
         "cpeNameId": "5843F034-99A8-49E4-9B7F-1E6C09502405",
-        "lastModified": "2020-08-20T15:06:04.747",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:04.747",
         "titles": [
           {
@@ -1373,15 +1773,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.6.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "699BC6BD-2300-45C5-8EBA-DA9676F1C38C"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.6.4:*:*:*:*:*:*:*",
         "cpeNameId": "46C16746-F310-425A-95D4-C3ADC32B915D",
-        "lastModified": "2020-08-20T15:06:04.967",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:04.967",
         "titles": [
           {
@@ -1389,15 +1794,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.6.4:*:*:*:open_source:*:*:*",
+            "cpeNameId": "76A6CDF3-2779-4B67-AECD-1FEFC60794FF"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.6.5:*:*:*:*:*:*:*",
         "cpeNameId": "96710205-53AF-4944-93CF-191CFA89AAF4",
-        "lastModified": "2020-08-20T15:06:05.167",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:05.167",
         "titles": [
           {
@@ -1405,15 +1815,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.6.5:*:*:*:open_source:*:*:*",
+            "cpeNameId": "DDA9A98E-A382-43DB-B89B-F972A4B35591"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.7.0:*:*:*:*:*:*:*",
         "cpeNameId": "C3AB924D-ABAA-4C80-A830-2CA1C2161C19",
-        "lastModified": "2020-08-20T15:06:05.387",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:05.387",
         "titles": [
           {
@@ -1421,15 +1836,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.7.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "BEA6325D-2813-4828-8E23-5C7B6B769771"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.7.1:*:*:*:*:*:*:*",
         "cpeNameId": "7D62C57D-6083-471E-A06E-4E430447D0A5",
-        "lastModified": "2020-08-20T15:06:05.590",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:05.590",
         "titles": [
           {
@@ -1437,15 +1857,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.7.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "8EA05EC1-1715-4230-982C-10B7D7BCC76E"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.7.2:*:*:*:*:*:*:*",
         "cpeNameId": "4F0BEC44-98B3-4ACD-924C-606495CFAF0D",
-        "lastModified": "2020-08-20T15:06:05.777",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:05.777",
         "titles": [
           {
@@ -1453,15 +1878,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.7.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "BEDD7469-C558-4F67-802C-E0C6C9E81B7E"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.7.3:*:*:*:*:*:*:*",
         "cpeNameId": "604EE6D4-949F-4D5F-AA0F-B04C535A148F",
-        "lastModified": "2020-08-20T15:06:05.967",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:05.967",
         "titles": [
           {
@@ -1469,15 +1899,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.7.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "474B5A2E-DF02-4860-A74C-68821F7472A0"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.7.4:*:*:*:*:*:*:*",
         "cpeNameId": "C90C29F8-A74F-4D6B-A1C1-72E52E1D3FB6",
-        "lastModified": "2020-08-20T15:06:06.167",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:06.167",
         "titles": [
           {
@@ -1485,15 +1920,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.7.4:*:*:*:open_source:*:*:*",
+            "cpeNameId": "B23C3068-9252-40AE-ADE2-B8AC7CD69FE9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.7.5:*:*:*:*:*:*:*",
         "cpeNameId": "6C584587-B06A-4D08-AFC7-9087CAA13135",
-        "lastModified": "2020-08-20T15:06:06.387",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:06.387",
         "titles": [
           {
@@ -1501,15 +1941,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.7.5:*:*:*:open_source:*:*:*",
+            "cpeNameId": "4A3FD442-350D-46D2-8DCA-ECC2542D0005"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.8.0:*:*:*:*:*:*:*",
         "cpeNameId": "F0DC4F05-50A3-4F11-9B47-41F0018AD58A",
-        "lastModified": "2020-08-20T15:06:06.573",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:06.573",
         "titles": [
           {
@@ -1517,15 +1962,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.8.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "0F9901D9-881C-48FF-9890-CBA10C5079F6"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.8.1:*:*:*:*:*:*:*",
         "cpeNameId": "D98789A5-6918-4B93-9CE6-25FC41B10050",
-        "lastModified": "2020-08-20T15:06:06.793",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:06.793",
         "titles": [
           {
@@ -1533,15 +1983,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.8.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "21A68D2C-F6DF-4EB6-9F0F-101A15A5BFF3"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.8.2:*:*:*:*:*:*:*",
         "cpeNameId": "A57193BE-100D-49AA-BE7C-F62AC2EB206E",
-        "lastModified": "2020-08-20T15:06:06.997",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:06.997",
         "titles": [
           {
@@ -1549,15 +2004,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.8.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "CDA486D5-DD8F-44AA-A6BB-B736CE280394"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.8.3:*:*:*:*:*:*:*",
         "cpeNameId": "9B16BBB2-FB0E-40FD-BD77-4EAF4F7A0D84",
-        "lastModified": "2020-08-20T15:06:07.200",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:07.200",
         "titles": [
           {
@@ -1565,15 +2025,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.8.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "87253525-9EA1-4791-AB12-3E012383A898"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.8.4:*:*:*:*:*:*:*",
         "cpeNameId": "FCD4BC14-26EF-4BE6-9022-83219238B205",
-        "lastModified": "2020-08-20T15:06:07.467",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:07.467",
         "titles": [
           {
@@ -1581,15 +2046,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.8.4:*:*:*:open_source:*:*:*",
+            "cpeNameId": "05103DBA-3AC4-4E7C-BADD-0CC978597BA9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.8.5:*:*:*:*:*:*:*",
         "cpeNameId": "464D6B05-F41D-45B7-BCA2-70F880D72D37",
-        "lastModified": "2020-08-20T15:06:07.730",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:07.730",
         "titles": [
           {
@@ -1597,15 +2067,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.8.5:*:*:*:open_source:*:*:*",
+            "cpeNameId": "CE21E6F7-D041-4B63-82A8-7266FB718457"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.8.6:*:*:*:*:*:*:*",
         "cpeNameId": "141282C5-1C01-4588-99A5-998E775141CB",
-        "lastModified": "2020-08-20T15:06:07.980",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:07.980",
         "titles": [
           {
@@ -1613,15 +2088,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.8.6:*:*:*:open_source:*:*:*",
+            "cpeNameId": "79718FBD-FAB6-4C27-A501-B7625D6E343C"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.8.7:*:*:*:*:*:*:*",
         "cpeNameId": "D6EDAF56-AEDF-46FB-853F-0A0447D2F394",
-        "lastModified": "2020-08-20T15:06:08.293",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:08.293",
         "titles": [
           {
@@ -1629,15 +2109,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.8.7:*:*:*:open_source:*:*:*",
+            "cpeNameId": "0BF479E4-59C9-4874-B748-5385C61F6AAF"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.8.8:*:*:*:*:*:*:*",
         "cpeNameId": "FFBF92DA-2941-4E91-8A44-8B4A23B6E2C0",
-        "lastModified": "2020-08-20T15:06:08.527",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:08.527",
         "titles": [
           {
@@ -1645,15 +2130,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.8.8:*:*:*:open_source:*:*:*",
+            "cpeNameId": "55527780-6D03-4E10-97AA-18A52F4E7F3E"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.8.9:*:*:*:*:*:*:*",
         "cpeNameId": "BBE29605-2BCC-40CF-9148-4CC6B943F162",
-        "lastModified": "2020-08-20T15:06:08.857",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:08.857",
         "titles": [
           {
@@ -1661,15 +2151,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.8.9:*:*:*:open_source:*:*:*",
+            "cpeNameId": "F5BEFC66-9527-47F6-B7EA-922E84A63128"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.9.0:*:*:*:*:*:*:*",
         "cpeNameId": "C807C5EC-636D-478E-85A9-BDD274D540D5",
-        "lastModified": "2020-08-20T15:06:09.217",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:09.217",
         "titles": [
           {
@@ -1677,15 +2172,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.9.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "AC3FE2DB-C551-4C83-B645-D497B18EB7D7"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.9.1:*:*:*:*:*:*:*",
         "cpeNameId": "31A8F287-1AD8-4B28-AB2F-DAA4DDDB3042",
-        "lastModified": "2020-08-20T15:06:09.543",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:09.543",
         "titles": [
           {
@@ -1693,15 +2193,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.9.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "173CBF23-A68A-4D33-AB76-93689044C433"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.9.2:*:*:*:*:*:*:*",
         "cpeNameId": "176A748F-8482-4BA8-8D86-2B0E9BC6864B",
-        "lastModified": "2020-08-20T15:06:09.840",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:09.840",
         "titles": [
           {
@@ -1709,15 +2214,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.9.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "B7CF056B-189B-4D4B-8887-149258AB2865"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.9.3:*:*:*:*:*:*:*",
         "cpeNameId": "F664BCE3-FD42-42CC-ACED-C466F10BD7B5",
-        "lastModified": "2020-08-20T15:06:10.137",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:10.137",
         "titles": [
           {
@@ -1725,15 +2235,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.9.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "66585231-71C1-4ABB-8EF1-3527EAC690CC"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.9.4:*:*:*:*:*:*:*",
         "cpeNameId": "DF829121-72CF-4D57-87E5-9491E6DC3DB5",
-        "lastModified": "2020-08-20T15:06:10.387",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:10.387",
         "titles": [
           {
@@ -1741,15 +2256,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.9.4:*:*:*:open_source:*:*:*",
+            "cpeNameId": "0EB4F88C-D27B-49CC-8A64-A1CC2D379A8B"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.9.5:*:*:*:*:*:*:*",
         "cpeNameId": "9847FB13-924A-4A2E-B6B0-687A62F6A324",
-        "lastModified": "2020-08-20T15:06:10.653",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:10.653",
         "titles": [
           {
@@ -1757,15 +2277,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.9.5:*:*:*:open_source:*:*:*",
+            "cpeNameId": "DB3EA9D2-3421-4CD0-B82D-4CB7D54D3804"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.9.6:*:*:*:*:*:*:*",
         "cpeNameId": "3A765E53-80A3-4F8F-84E3-15F949BA0BBF",
-        "lastModified": "2020-08-20T15:06:10.903",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:10.903",
         "titles": [
           {
@@ -1773,15 +2298,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.9.6:*:*:*:open_source:*:*:*",
+            "cpeNameId": "3B0C594E-0560-45E0-AFE8-61EC6F8B5207"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.10.0:*:*:*:*:*:*:*",
         "cpeNameId": "59F2B6FE-0D5F-4DA1-893F-214AEA748A9B",
-        "lastModified": "2020-08-20T15:06:11.120",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:11.120",
         "titles": [
           {
@@ -1789,15 +2319,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.10.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "6B88594C-FB65-44F7-84FD-D504E764A065"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.10.1:*:*:*:*:*:*:*",
         "cpeNameId": "2432F1DB-635B-412F-98F7-E0BD9D6C9960",
-        "lastModified": "2020-08-20T15:06:11.370",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:11.370",
         "titles": [
           {
@@ -1805,15 +2340,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.10.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "2C26B148-4DFC-49D3-938F-5814C7B91883"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.10.2:*:*:*:*:*:*:*",
         "cpeNameId": "EE5084AB-67FA-4426-A8FD-4E07AE6F44CE",
-        "lastModified": "2020-08-20T15:06:11.590",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:11.590",
         "titles": [
           {
@@ -1821,15 +2361,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.10.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "D5F68DF1-33BD-4EE1-A6E8-3F6D1B92A81F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.10.3:*:*:*:*:*:*:*",
         "cpeNameId": "49849CD2-C7C9-480C-AF3F-85BE8DDAC17F",
-        "lastModified": "2020-08-20T15:06:11.823",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:11.823",
         "titles": [
           {
@@ -1837,15 +2382,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.10.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "F4D5ED6E-0EEA-4517-B116-716749BA67B9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.10.4:*:*:*:*:*:*:*",
         "cpeNameId": "6F941623-F1CD-43BB-97BD-CDF133B112A4",
-        "lastModified": "2020-08-20T15:06:12.060",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:12.060",
         "titles": [
           {
@@ -1853,15 +2403,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.10.4:*:*:*:open_source:*:*:*",
+            "cpeNameId": "DE6B2ADA-7479-474A-8768-882F879CF9BF"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.11.0:*:*:*:*:*:*:*",
         "cpeNameId": "01627073-9E95-4B41-AD81-51465F64094C",
-        "lastModified": "2020-08-20T15:06:12.323",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:12.323",
         "titles": [
           {
@@ -1869,15 +2424,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.11.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "B9FA9E01-AAA8-45F6-A617-A44A5DCB9186"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.11.1:*:*:*:*:*:*:*",
         "cpeNameId": "D74DF6CB-5D71-46B2-B2AE-281371798267",
-        "lastModified": "2020-08-20T15:06:12.607",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:12.607",
         "titles": [
           {
@@ -1885,15 +2445,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.11.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "0A250D62-3703-4E0E-8BC0-2BB77A5E2D68"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.11.2:*:*:*:*:*:*:*",
         "cpeNameId": "287DB3AE-78C6-45A9-954C-5673FC4365E0",
-        "lastModified": "2020-08-20T15:06:12.840",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:12.840",
         "titles": [
           {
@@ -1901,15 +2466,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.11.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "065B0D47-15D6-4E1B-BB58-C8D3670CBF0F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.11.3:*:*:*:*:*:*:*",
         "cpeNameId": "575BD889-F060-4094-9F69-02491F9CA508",
-        "lastModified": "2020-08-20T15:06:13.090",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:13.090",
         "titles": [
           {
@@ -1917,15 +2487,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.11.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "E35D50D4-C6D6-4DA8-8F65-BA79F0989AD7"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.12.0:*:*:*:*:*:*:*",
         "cpeNameId": "BE06CDAB-8D25-45FF-ACCE-CDE1B2D25642",
-        "lastModified": "2020-08-20T15:06:13.310",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:13.310",
         "titles": [
           {
@@ -1933,15 +2508,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.12.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "931B5F03-0EF8-4F97-8959-86E873C63C83"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.12.1:*:*:*:*:*:*:*",
         "cpeNameId": "D9ED325E-6509-4B25-A51C-B26053CA2CDB",
-        "lastModified": "2020-08-20T15:06:13.543",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:13.543",
         "titles": [
           {
@@ -1949,15 +2529,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.12.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "B84D2D0F-790F-411D-9C2D-56563379B47F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.12.2:*:*:*:*:*:*:*",
         "cpeNameId": "A136C4D1-968F-4830-8261-5EAB51377A42",
-        "lastModified": "2020-08-20T15:06:13.777",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:13.777",
         "titles": [
           {
@@ -1965,15 +2550,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.12.2:*:*:*:open_source:*:*:*",
+            "cpeNameId": "F58E6C0E-1B31-4088-8B87-F505907BC0E9"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.12.3:*:*:*:*:*:*:*",
         "cpeNameId": "7A3126C8-E8AB-44B6-86A8-9E82CE056624",
-        "lastModified": "2020-08-20T15:06:14.013",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:14.013",
         "titles": [
           {
@@ -1981,15 +2571,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.12.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "86CC1BC1-B028-4E2C-A34B-CE4274673C61"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.13.0:*:*:*:*:*:*:*",
         "cpeNameId": "BFB6815C-10B9-4B06-958E-6C83A80A2284",
-        "lastModified": "2020-08-20T15:06:14.247",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:14.247",
         "titles": [
           {
@@ -1997,15 +2592,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.13.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "975CB8B9-DF15-454D-98BE-9975DD057CAD"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.13.1:*:*:*:*:*:*:*",
         "cpeNameId": "78E2663E-AA30-4CFF-A6C0-28753CFE5258",
-        "lastModified": "2020-08-20T15:06:14.527",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:14.527",
         "titles": [
           {
@@ -2013,15 +2613,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.13.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "A5A6A646-F3C3-4AEA-8F70-29B8C3649EC7"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.13.3:*:*:*:*:*:*:*",
         "cpeNameId": "4E108D3F-094F-4DE2-9DE2-F417943066BD",
-        "lastModified": "2020-08-20T15:06:14.793",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:14.793",
         "titles": [
           {
@@ -2029,15 +2634,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.13.3:*:*:*:open_source:*:*:*",
+            "cpeNameId": "31DB27A9-64D8-4E0A-886C-D87E546BF64C"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.13.4:*:*:*:*:*:*:*",
         "cpeNameId": "4A843EE4-1499-4CA5-9861-30508F9200D4",
-        "lastModified": "2020-08-20T15:06:15.043",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:15.043",
         "titles": [
           {
@@ -2045,15 +2655,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.13.4:*:*:*:open_source:*:*:*",
+            "cpeNameId": "78C40A3C-FE4A-4AB6-B89F-4BB561028A8E"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.14.0:*:*:*:*:*:*:*",
         "cpeNameId": "98603DF9-CD0B-41FE-BDB5-B13C33DF9895",
-        "lastModified": "2020-08-20T15:06:15.310",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:15.310",
         "titles": [
           {
@@ -2061,15 +2676,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.14.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "B52BBBD0-015F-4368-B754-9B3641CDD04A"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.14.1:*:*:*:*:*:*:*",
         "cpeNameId": "6BA6F522-FC4C-4C7B-95C5-0348CF5DC091",
-        "lastModified": "2020-08-20T15:06:15.637",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:15.637",
         "titles": [
           {
@@ -2077,15 +2697,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.14.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "6E4E5DC5-1E0D-42B0-B0DE-ACA8A721FE92"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.15.0:*:*:*:*:*:*:*",
         "cpeNameId": "0A287B80-C5A6-4DD2-9A2D-607E80CEA822",
-        "lastModified": "2020-08-20T15:06:15.997",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:15.997",
         "titles": [
           {
@@ -2093,15 +2718,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.15.0:*:*:*:open_source:*:*:*",
+            "cpeNameId": "B62B179D-760C-4BEC-9CE1-475743A8BFE6"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:projectcalico:calico:3.15.1:*:*:*:*:*:*:*",
         "cpeNameId": "B26688DD-9601-4D4A-BD1D-D3771EA360BF",
-        "lastModified": "2020-08-20T15:06:16.357",
+        "lastModified": "2025-05-30T20:42:57.130",
         "created": "2020-08-20T15:06:16.357",
         "titles": [
           {
@@ -2109,7 +2739,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.15.1:*:*:*:open_source:*:*:*",
+            "cpeNameId": "E8965FEE-A934-47D7-964E-9083D51F284F"
+          }
+        ]
       }
     }
   ],
@@ -2123,20 +2758,20 @@
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.4.0:rc1:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.4.0 Release Candidate 1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.4.0:rc1:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.4.0:rc2:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.4.0 Release Candidate 2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.4.0:rc2:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.4.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.4.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.4.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.5.0:-:*:*:*:*:*:*",
@@ -2147,20 +2782,20 @@
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.5.0:rc1:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.5.0 Release Candidate 1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.5.0:rc1:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.5.0:rc2:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.5.0 Release Candidate 2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.5.0:rc2:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.5.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.5.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.5.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.0:-:*:*:*:*:*:*",
@@ -2171,32 +2806,32 @@
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.0:rc1:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.0 Release Candidate 1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.0:rc1:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.0:rc2:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.0 Release Candidate 2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.0:rc2:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.4:-:*:*:*:*:*:*",
@@ -2207,68 +2842,68 @@
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.4:rc1:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.4 Release Candidate 1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.4:rc1:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.4:rc2:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.4 Release Candidate 2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.4:rc2:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.4:rc3:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.4 Release Candidate 3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.4:rc3:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.5:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.5:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.6:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.6",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.6:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.7:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.7",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.7:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.8:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.8",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.8:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.9:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.9",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.9:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.10:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.10",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.10:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.11:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.11",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.11:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:2.6.12:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 2.6.12",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:2.6.12:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.0:-:*:*:*:*:*:*",
@@ -2279,632 +2914,632 @@
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.0:alpha1:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.0 Alpha 1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.0:alpha1:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.0:alpha1-rc1:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.0 Alpha1-rc1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.0:alpha1_rc1:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.0:beta1:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.0 Beta 1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.0:beta1:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.4:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.4:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.5:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.5:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.6:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.6",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.6:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.7:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.7",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.7:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.8:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.8",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.8:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.9:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.9",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.9:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.10:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.10",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.10:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.11:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.11",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.11:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.0.12:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.0.12",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.0.12:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.1.0:-:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.1.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.1.0:-:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.1.0:rc1:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.1.0 Release Candidate 1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.1.0:rc1:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.1.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.1.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.1.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.1.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.1.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.1.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.1.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.1.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.1.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.1.4:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.1.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.1.4:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.1.5:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.1.5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.1.5:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.1.6:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.1.6",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.1.6:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.1.7:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.1.7",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.1.7:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.2.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.2.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.2.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.2.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.2.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.2.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.2.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.2.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.2.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.2.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.2.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.2.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.2.4:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.2.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.2.4:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.2.5:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.2.5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.2.5:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.2.6:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.2.6",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.2.6:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.2.7:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.2.7",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.2.7:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.2.8:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.2.8",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.2.8:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.3.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.3.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.3.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.3.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.3.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.3.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.3.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.3.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.3.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.3.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.3.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.3.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.3.4:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.3.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.3.4:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.3.5:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.3.5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.3.5:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.3.6:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.3.6",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.3.6:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.3.7:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.3.7",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.3.7:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.4.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.4.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.4.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.4.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.4.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.4.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.4.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.4.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.4.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.4.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.4.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.4.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.4.4:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.4.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.4.4:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.5.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.5.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.5.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.5.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.5.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.5.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.5.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.5.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.5.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.5.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.5.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.5.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.5.4:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.5.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.5.4:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.5.5:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.5.5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.5.5:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.5.6:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.5.6",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.5.6:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.5.7:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.5.7",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.5.7:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.5.8:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.5.8",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.5.8:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.6.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.6.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.6.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.6.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.6.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.6.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.6.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.6.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.6.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.6.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.6.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.6.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.6.4:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.6.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.6.4:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.6.5:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.6.5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.6.5:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.7.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.7.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.7.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.7.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.7.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.7.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.7.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.7.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.7.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.7.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.7.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.7.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.7.4:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.7.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.7.4:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.7.5:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.7.5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.7.5:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.8.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.8.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.8.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.8.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.8.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.8.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.8.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.8.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.8.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.8.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.8.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.8.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.8.4:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.8.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.8.4:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.8.5:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.8.5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.8.5:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.8.6:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.8.6",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.8.6:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.8.7:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.8.7",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.8.7:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.8.8:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.8.8",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.8.8:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.8.9:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.8.9",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.8.9:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.9.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.9.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.9.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.9.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.9.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.9.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.9.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.9.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.9.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.9.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.9.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.9.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.9.4:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.9.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.9.4:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.9.5:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.9.5",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.9.5:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.9.6:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.9.6",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.9.6:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.10.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.10.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.10.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.10.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.10.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.10.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.10.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.10.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.10.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.10.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.10.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.10.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.10.4:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.10.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.10.4:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.11.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.11.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.11.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.11.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.11.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.11.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.11.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.11.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.11.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.11.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.11.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.11.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.12.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.12.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.12.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.12.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.12.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.12.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.12.2:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.12.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.12.2:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.12.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.12.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.12.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.13.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.13.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.13.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.13.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.13.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.13.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.13.3:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.13.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.13.3:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.13.4:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.13.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.13.4:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.14.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.14.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.14.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.14.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.14.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.14.1:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.15.0:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.15.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.15.0:*:*:*:open_source:*:*:*"
     },
     {
       "name": "cpe:2.3:a:projectcalico:calico:3.15.1:*:*:*:*:*:*:*",
       "title": "Projectcalico Calico 3.15.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.15.1:*:*:*:open_source:*:*:*"
     }
   ]
 }

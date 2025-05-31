@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_cloud:18.0.0:*:*:*:*:*:*:*",
         "cpeNameId": "19E19556-6F0E-4392-8434-440D1300B614",
-        "lastModified": "2023-11-18T04:52:10.023",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2023-11-18T04:52:10.023",
         "titles": [
           {
@@ -13,15 +13,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:18.0.0:*:*:*:cloud:*:*:*",
+            "cpeNameId": "03E0F683-B0EC-4E79-BF5B-3491829FA9A2"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_cloud:-:*:*:*:*:*:*:*",
         "cpeNameId": "2B3264D0-D6FA-4876-8EB1-CB2C8420AA43",
-        "lastModified": "2023-11-18T04:52:10.023",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2023-11-18T04:52:10.023",
         "titles": [
           {
@@ -29,15 +34,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:-:*:*:*:cloud:*:*:*",
+            "cpeNameId": "72DEE2AF-5729-45C3-AA79-361CD12010D3"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_cloud:17.1.1:*:*:*:*:*:*:*",
         "cpeNameId": "B9A5BC19-4942-4110-96E5-956A237853A0",
-        "lastModified": "2023-11-18T04:52:10.023",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2023-11-18T04:52:10.023",
         "titles": [
           {
@@ -45,7 +55,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:17.1.1:*:*:*:cloud:*:*:*",
+            "cpeNameId": "39BA06FC-70C9-49B3-8E6E-56E3C47788F9"
+          }
+        ]
       }
     }
   ],
@@ -53,20 +68,20 @@
     {
       "name": "cpe:2.3:a:tigera:calico_cloud:18.0.0:*:*:*:*:*:*:*",
       "title": "Tigera Calico Cloud 18.0.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:18.0.0:*:*:*:cloud:*:*:*"
     },
     {
       "name": "cpe:2.3:a:tigera:calico_cloud:-:*:*:*:*:*:*:*",
       "title": "Tigera Calico Cloud -",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:-:*:*:*:cloud:*:*:*"
     },
     {
       "name": "cpe:2.3:a:tigera:calico_cloud:17.1.1:*:*:*:*:*:*:*",
       "title": "Tigera Calico Cloud 17.1.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:17.1.1:*:*:*:cloud:*:*:*"
     }
   ]
 }

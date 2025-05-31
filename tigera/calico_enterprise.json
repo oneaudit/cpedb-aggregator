@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_enterprise:3.12.0:*:*:*:*:*:*:*",
         "cpeNameId": "0841FD8F-BBA4-4B95-BF7D-9F818AE9D411",
-        "lastModified": "2022-08-02T18:13:06.230",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2022-06-10T15:28:16.293",
         "titles": [
           {
@@ -13,15 +13,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.12.0:*:*:*:enterprise:*:*:*",
+            "cpeNameId": "FD606004-F06F-47FF-9937-E9623DA700F3"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_enterprise:3.11.4:*:*:*:*:*:*:*",
         "cpeNameId": "2007F13B-F0D4-48BA-A5E5-F19A46C68B17",
-        "lastModified": "2022-08-02T18:13:06.230",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2022-06-10T15:28:29.680",
         "titles": [
           {
@@ -29,15 +34,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.11.4:*:*:*:enterprise:*:*:*",
+            "cpeNameId": "B006FF47-6515-46B3-ACE0-C3C84AD57B54"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_enterprise:-:*:*:*:*:*:*:*",
         "cpeNameId": "52D02F9C-5175-4332-8C21-4B288A9B482F",
-        "lastModified": "2022-08-02T18:13:06.230",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2022-06-10T15:28:29.680",
         "titles": [
           {
@@ -45,15 +55,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:-:*:*:*:enterprise:*:*:*",
+            "cpeNameId": "7EB0CF5E-D907-4F15-812E-387FEB34A9AD"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_enterprise:3.15.4:*:*:*:*:*:*:*",
         "cpeNameId": "69FD29F7-E33A-47EA-A680-0AD6E3CB3BDA",
-        "lastModified": "2023-11-18T04:52:10.023",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2023-11-18T04:52:10.023",
         "titles": [
           {
@@ -61,15 +76,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.15.4:*:*:*:enterprise:*:*:*",
+            "cpeNameId": "0A70615C-1176-4D8F-BE7D-FAC874D8DD55"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_enterprise:3.16.0:*:*:*:*:*:*:*",
         "cpeNameId": "3C678A1F-EE69-491F-9387-7BCB58D34121",
-        "lastModified": "2023-11-18T04:52:10.023",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2023-11-18T04:52:10.023",
         "titles": [
           {
@@ -77,15 +97,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.16.0:*:*:*:enterprise:*:*:*",
+            "cpeNameId": "EEE0740D-0E83-4E4E-92B4-B1BD26CEA558"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_enterprise:3.16.4:*:*:*:*:*:*:*",
         "cpeNameId": "5E5F63E0-81EC-4E90-8CBF-5E3CFC081BCA",
-        "lastModified": "2023-11-18T04:52:10.023",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2023-11-18T04:52:10.023",
         "titles": [
           {
@@ -93,15 +118,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.16.4:*:*:*:enterprise:*:*:*",
+            "cpeNameId": "B257E511-F22E-46A2-8D3C-682F1EC4837C"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_enterprise:3.16.3:*:*:*:*:*:*:*",
         "cpeNameId": "96FDC4EA-E1C2-4EC3-BC1B-4AA5E7FA97F7",
-        "lastModified": "2023-11-18T04:52:10.023",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2023-11-18T04:52:10.023",
         "titles": [
           {
@@ -109,15 +139,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.16.3:*:*:*:enterprise:*:*:*",
+            "cpeNameId": "F035BB3B-3AF0-4558-BCFC-8CF7E9477E8F"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_enterprise:3.17.0:*:*:*:*:*:*:*",
         "cpeNameId": "219C54D7-4434-4404-9F53-016B5C576484",
-        "lastModified": "2023-11-18T04:52:10.023",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2023-11-18T04:52:10.023",
         "titles": [
           {
@@ -125,15 +160,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.17.0:*:*:*:enterprise:*:*:*",
+            "cpeNameId": "734A53E1-66C3-44FF-9B01-853B4ACF763C"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_enterprise:3.17.2:*:*:*:*:*:*:*",
         "cpeNameId": "1FFCEACF-9028-4051-BE0A-1EDEB518BC15",
-        "lastModified": "2023-11-18T04:52:10.023",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2023-11-18T04:52:10.023",
         "titles": [
           {
@@ -141,15 +181,20 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.17.2:*:*:*:enterprise:*:*:*",
+            "cpeNameId": "79BAC406-A4FA-425F-B3CB-BD818F3DD49E"
+          }
+        ]
       }
     },
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:tigera:calico_enterprise:3.17.1:*:*:*:*:*:*:*",
         "cpeNameId": "8E693D48-338F-4925-A560-2EDB18DE0E0F",
-        "lastModified": "2023-11-18T04:52:10.023",
+        "lastModified": "2025-05-30T19:02:50.553",
         "created": "2023-11-18T04:52:10.023",
         "titles": [
           {
@@ -157,7 +202,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:tigera:calico:3.17.1:*:*:*:enterprise:*:*:*",
+            "cpeNameId": "F034F201-1748-4A2C-9B28-9CF4F12BFE84"
+          }
+        ]
       }
     }
   ],
@@ -165,62 +215,62 @@
     {
       "name": "cpe:2.3:a:tigera:calico_enterprise:3.12.0:*:*:*:*:*:*:*",
       "title": "Tigera Calico Enterprise 3.12.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.12.0:*:*:*:enterprise:*:*:*"
     },
     {
       "name": "cpe:2.3:a:tigera:calico_enterprise:3.11.4:*:*:*:*:*:*:*",
       "title": "Tigera Calico Enterprise 3.11.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.11.4:*:*:*:enterprise:*:*:*"
     },
     {
       "name": "cpe:2.3:a:tigera:calico_enterprise:-:*:*:*:*:*:*:*",
       "title": "Tigera Calico Enterprise",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:-:*:*:*:enterprise:*:*:*"
     },
     {
       "name": "cpe:2.3:a:tigera:calico_enterprise:3.15.4:*:*:*:*:*:*:*",
       "title": "Tigera Calico Enterprise 3.15.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.15.4:*:*:*:enterprise:*:*:*"
     },
     {
       "name": "cpe:2.3:a:tigera:calico_enterprise:3.16.0:*:*:*:*:*:*:*",
       "title": "Tigera Calico Enterprise 3.16.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.16.0:*:*:*:enterprise:*:*:*"
     },
     {
       "name": "cpe:2.3:a:tigera:calico_enterprise:3.16.4:*:*:*:*:*:*:*",
       "title": "Tigera Calico Enterprise 3.16.4",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.16.4:*:*:*:enterprise:*:*:*"
     },
     {
       "name": "cpe:2.3:a:tigera:calico_enterprise:3.16.3:*:*:*:*:*:*:*",
       "title": "Tigera Calico Enterprise 3.16.3",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.16.3:*:*:*:enterprise:*:*:*"
     },
     {
       "name": "cpe:2.3:a:tigera:calico_enterprise:3.17.0:*:*:*:*:*:*:*",
       "title": "Tigera Calico Enterprise 3.17.0",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.17.0:*:*:*:enterprise:*:*:*"
     },
     {
       "name": "cpe:2.3:a:tigera:calico_enterprise:3.17.2:*:*:*:*:*:*:*",
       "title": "Tigera Calico Enterprise 3.17.2",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.17.2:*:*:*:enterprise:*:*:*"
     },
     {
       "name": "cpe:2.3:a:tigera:calico_enterprise:3.17.1:*:*:*:*:*:*:*",
       "title": "Tigera Calico Enterprise 3.17.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:tigera:calico:3.17.1:*:*:*:enterprise:*:*:*"
     }
   ]
 }
