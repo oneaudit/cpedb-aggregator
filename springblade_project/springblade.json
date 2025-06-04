@@ -2,10 +2,10 @@
   "nist": [
     {
       "cpe": {
-        "deprecated": false,
+        "deprecated": true,
         "cpeName": "cpe:2.3:a:springblade_project:springblade:2.7.1:*:*:*:*:*:*:*",
         "cpeNameId": "B29D9E47-EAB2-41E7-9201-0BAD54901495",
-        "lastModified": "2020-08-11T16:03:20.680",
+        "lastModified": "2025-06-03T14:38:13.263",
         "created": "2020-08-11T16:03:20.680",
         "titles": [
           {
@@ -13,7 +13,12 @@
             "lang": "en"
           }
         ],
-        "deprecatedBy": null
+        "deprecatedBy": [
+          {
+            "cpeName": "cpe:2.3:a:bladex:springblade:2.7.1:*:*:*:*:*:*:*",
+            "cpeNameId": "1CE45AC5-8D8E-4369-9840-B82BC38A97E0"
+          }
+        ]
       }
     }
   ],
@@ -21,8 +26,8 @@
     {
       "name": "cpe:2.3:a:springblade_project:springblade:2.7.1:*:*:*:*:*:*:*",
       "title": "SpringBlade Project SpringBlade 2.7.1",
-      "deprecated": false,
-      "deprecated_over": ""
+      "deprecated": true,
+      "deprecated_over": "cpe:2.3:a:bladex:springblade:2.7.1:*:*:*:*:*:*:*"
     }
   ]
 }
